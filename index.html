@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, proxy-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <title>News Headlines</title>
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+    <!-- Include Material Icons Font -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<style>
+    body {
+        font-family: 'Roboto', sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f4;
+        color: #000;
+        overflow-x: hidden; /* Prevents horizontal scrolling */
+    }
+    .header {
+        display: flex;
+        justify-content: space-between;  /* Ensures elements are on the same row */
+        align-items: flex-start;  /* Top aligns the items */
+        padding: 10px 20px;
+        background-color: #3F51B5;
+        color: white;
+        position: relative;  /* Allows absolute positioning of the settings icon */
+        width: 100%;  /* Ensures header spans the entire width of the viewport */
+        box-sizing: border-box; /* Ensures padding does not cause overflow */
+    }
+    .header-left {
+        text-align: left;
+        flex-grow: 1;  /* Ensures the left side expands to take remaining space */
+    }
+    .header-right {
+        display: flex;
+        align-items: flex-start;  /* Aligns the settings icon to the top */
+    }
+    .settings-icon {
+        cursor: pointer;
+        font-size: 24px;
+    }
+    .settings-menu {
+        display: none;
+        position: absolute;
+        right: 20px;
+        top: 50px;
+        background: white;
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        z-index: 1000;
+    }
+    .dark-mode {
+        background-color: #121212;
+        color: #e0e0e0;  /* Lighter text color for better contrast */
+    }
+    .dark-mode a {
+        color: #4dccc6; /* Light turquoise color */
+    }
+    .dark-mode a:hover {
+        color: #ffffff;  /* Lighter hover color */
+    }
+    .dark-mode .headline {
+        background: #333;  /* Darker background for headlines */
+        color: #fff;  /* White text for contrast */
+    }
+    a {
+        text-decoration: none;
+        color: #3F51B5;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    .timestamp {
+        font-size: 12px;
+        margin-top: 5px;
+        color: #e0e0e0;
+    }
+    .headline {
+        margin: 10px;
+        font-size: 18px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px;
+        background: white;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        min-height: 5px;  /* Adjusted the min-height to reduce extra space */
+    }
+
+    .headline-description {
+        padding-top: 10px;
+        font-size: 14px;
+        color: #555;
+        width: 100%;
+    }
+
+    .headline-title {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        align-items: center;
+        padding-bottom: 5px;  /* Add slight padding to control space beneath the title */
+    }
+
+</style>
+
+</head>
+<body onclick="closeSettingsMenu(event)">
+    <div class="header mdl-shadow--2dp">
+        <div class="header-left">
+            <h5>Latest News Headlines</h5>
+            <div id="timestamp" class="timestamp"></div>
+        </div>
+        <div class="header-right">
+            <span class="settings-icon" onclick="toggleSettingsMenu(event)">&#9881;</span>
+        </div>
+    </div>
+    <div class="settings-menu mdl-card mdl-shadow--2dp" id="settings-menu">
+        <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" onclick="toggleDarkMode()">Toggle Dark Mode</button>
+    </div>
+    <div id="news-container"></div>
+</body>
+<script>
+    function toggleDescription(event, title) {
+        // Replace apostrophes and other special characters to avoid issues with ID usage
+        const sanitizedTitle = title.replace(/'/g, "_");
+        const descriptionElement = document.getElementById(`${sanitizedTitle}-description`);
+        const iconElement = event.target;
+        if (descriptionElement.style.display === "none") {
+            descriptionElement.style.display = "block";
+            iconElement.textContent = "expand_less";  // Change icon to "up" when expanded
+        } else {
+            descriptionElement.style.display = "none";
+            iconElement.textContent = "expand_more";  // Change icon to "down" when collapsed
+        }
+    }
+
+    // Get the value of the 'id' query parameter from the URL
+    const urlParams = new URLSearchParams(window.location.search);
+    const idValue = urlParams.get('id');
+
+    // Determine which file to fetch
+    const fileToFetch = idValue ? `${idValue}_headlines.json` : 'headlines.json';
+
+    // Fetch the file, display its last modified date, and return the headlines.
+    fetch(fileToFetch)
+    .then(response => {
+        // Get the Last-Modified date from the headers
+        const lastModified = new Date(response.headers.get('last-modified'));
+        const timestampElement = document.getElementById('timestamp');
+        timestampElement.textContent = `Last Modified: ${lastModified.toLocaleString()}`;
+
+        // Return the JSON content of the file
+        return response.json();
+    })
+    .then(newsData => {
+        // Sort the newsData by the 'published' date in descending order
+        newsData.sort((a, b) => new Date(b.published) - new Date(a.published));
+
+        // Remove duplicates based on the 'title' property
+        const uniqueHeadlines = Array.from(new Map(newsData.map(item => [item.title, item])).values());
+
+        // Handle the JSON content and append the headlines to the page
+        const newsContainer = document.getElementById("news-container");
+        uniqueHeadlines.forEach(headline => {
+            const headlineElement = document.createElement("div");
+            headlineElement.className = "headline";
+
+            // Create the headline card structure
+            const sanitizedTitle = headline.title.replace(/'/g, "_"); // Sanitize the title
+            headlineElement.innerHTML = `
+                <div class="headline-title">
+                    <a href="${headline.link}" target="_blank">${headline.title}</a>
+                    <span class="material-icons expand-icon" onclick="toggleDescription(event, '${sanitizedTitle}')">expand_more</span>
+                </div>
+                <div class="headline-description" id="${sanitizedTitle}-description" style="display:none;">
+                    <p>${headline.description || 'No description available.'}</p>
+                </div>
+            `;
+            newsContainer.appendChild(headlineElement);
+        });
+    })
+    .catch(error => console.error('Error fetching the file or headlines:', error));
+
+    window.onload = checkDarkMode;
+
+    // Toggle dark mode function remains the same
+    function toggleDarkMode() {
+        document.body.classList.toggle('dark-mode');
+        if (document.body.classList.contains('dark-mode')) {
+            localStorage.setItem('darkMode', 'enabled');
+        } else {
+            localStorage.setItem('darkMode', 'disabled');
+        }
+    }
+
+    function checkDarkMode() {
+        if (localStorage.getItem('darkMode') === 'enabled') {
+            document.body.classList.add('dark-mode');
+        } else {
+            document.body.classList.remove('dark-mode');
+        }
+    }
+
+    // Close the settings menu if clicked outside
+    function closeSettingsMenu(event) {
+        const menu = document.getElementById("settings-menu");
+        if (menu.style.display === "block" && !menu.contains(event.target) && event.target.className !== "settings-icon") {
+            menu.style.display = "none";
+        }
+    }
+    function toggleSettingsMenu(event) {
+        const menu = document.getElementById('settings-menu');
+        menu.style.display = (menu.style.display === 'block') ? 'none' : 'block';
+        event.stopPropagation(); // Prevents the click from closing the menu immediately
+    }
+
+    // Close the settings menu if clicked outside
+    function closeSettingsMenu(event) {
+        const menu = document.getElementById("settings-menu");
+        if (menu.style.display === "block" && !menu.contains(event.target) && event.target.className !== "settings-icon") {
+            menu.style.display = "none";
+        }
+    }
+
+</script>
+
+
+
+</html>
+
+
