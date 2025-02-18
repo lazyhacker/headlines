@@ -107,20 +107,57 @@
         align-items: center;
         padding-bottom: 5px;  /* Add slight padding to control space beneath the title */
     }
-
+    /* Modal Dialog Styling */
+    .mdl-dialog {
+        width: 80%;
+        max-width: 500px;
+        padding: 20px;
+    }
+    .mdl-dialog__title {
+        font-size: 24px;
+    }
+    .mdl-dialog__content {
+        font-size: 16px;
+    }
+    .mdl-dialog__actions {
+        text-align: right;
+    }
 </style>
-
 </head>
+
 <body onclick="closeSettingsMenu(event)">
     <div class="header mdl-shadow--2dp">
         <div class="header-left">
-            <h5>Latest News Headlines</h5>
+            <h5>Latest News Headlines
+                <span class="question-icon" onclick="openModal()" style="cursor: pointer; font-size: 12px; vertical-align: super;">&#63;</span>
+            </h5>
             <div id="timestamp" class="timestamp"></div>
         </div>
         <div class="header-right">
             <span class="settings-icon" onclick="toggleSettingsMenu(event)">&#x2630;</span>
         </div>
     </div>
+
+    <!-- Modal Dialog Box -->
+    <dialog id="info-modal" class="mdl-dialog">
+        <h4 class="mdl-dialog__title">About This Site</h4>
+        <div class="mdl-dialog__content">
+            <p>This site allows users to filter out unwanted headlines and
+                topics that publishers often push onto readers so users have
+                more control over the content they see. There are sites that
+                aims to provide a balanced view points on topics, but that's
+                not the purpose here.  Sometimes we just don't feel looking at
+                certain topics.  Maybe I don't want to see my sports team's rival
+                celebrating their championship, or maybe I'm just not in the mood
+                to be looking political news.  User can set their own filters
+                by natural language and apply that to their feed's headline.
+            </p>
+        </div>
+        <div class="mdl-dialog__actions">
+            <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" onclick="closeModal()">Close</button>
+        </div>
+    </dialog>
+
     <div class="settings-menu mdl-card mdl-shadow--2dp" id="settings-menu">
         <label>
             <input type="checkbox" id="checkbox-dark-mode" onchange="toggleDarkMode()"> Dark Mode
@@ -128,6 +165,7 @@
     </div>
     <div id="news-container"></div>
 </body>
+
 <script>
     function toggleDescription(event, title) {
         // Replace apostrophes and other special characters to avoid issues with ID usage
@@ -236,6 +274,17 @@
         }
     }
 
+    // Open Modal Dialog
+    function openModal() {
+        const modal = document.getElementById("info-modal");
+        modal.showModal();
+    }
+
+    // Close Modal Dialog
+    function closeModal() {
+        const modal = document.getElementById("info-modal");
+        modal.close();
+    }
 </script>
 
 
