@@ -118,11 +118,13 @@
             <div id="timestamp" class="timestamp"></div>
         </div>
         <div class="header-right">
-            <span class="settings-icon" onclick="toggleSettingsMenu(event)">&#9881;</span>
+            <span class="settings-icon" onclick="toggleSettingsMenu(event)">&#x2630;</span>
         </div>
     </div>
     <div class="settings-menu mdl-card mdl-shadow--2dp" id="settings-menu">
-        <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" onclick="toggleDarkMode()">Toggle Dark Mode</button>
+        <label>
+            <input type="checkbox" id="checkbox-dark-mode" onchange="toggleDarkMode()"> Dark Mode
+        </label>
     </div>
     <div id="news-container"></div>
 </body>
