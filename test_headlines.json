@@ -20,6 +20,26 @@
          "publishedParsed": "2025-02-23T08:18:15Z"
      },
      {
+         "title": "See the submissions you have flagged (maybe accidentally)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43149186\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/flagged",
+         "links": [
+             "https://news.ycombinator.com/flagged"
+         ],
+         "published": "Sun, 23 Feb 2025 13:47:11 +0000",
+         "publishedParsed": "2025-02-23T13:47:11Z"
+     },
+     {
+         "title": "Rust, C++, and Python trends in jobs on Hacker News (February 2025)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43111615\"\u003eComments\u003c/a\u003e",
+         "link": "https://martin.wojtczyk.de/2025/02/20/rust-c-and-python-trends-in-jobs-on-hacker-news-february-2025/",
+         "links": [
+             "https://martin.wojtczyk.de/2025/02/20/rust-c-and-python-trends-in-jobs-on-hacker-news-february-2025/"
+         ],
+         "published": "Thu, 20 Feb 2025 06:03:36 +0000",
+         "publishedParsed": "2025-02-20T06:03:36Z"
+     },
+     {
          "title": "OpenBSD Innovations",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43143777\"\u003eComments\u003c/a\u003e",
          "link": "https://www.openbsd.org/innovations.html",
@@ -28,36 +48,6 @@
          ],
          "published": "Sat, 22 Feb 2025 22:08:42 +0000",
          "publishedParsed": "2025-02-22T22:08:42Z"
-     },
-     {
-         "title": "BYD has already produced its first solid-state cells",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43148697\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.electrive.com/2025/02/17/byd-has-already-produced-its-first-solid-state-cells/",
-         "links": [
-             "https://www.electrive.com/2025/02/17/byd-has-already-produced-its-first-solid-state-cells/"
-         ],
-         "published": "Sun, 23 Feb 2025 12:04:43 +0000",
-         "publishedParsed": "2025-02-23T12:04:43Z"
-     },
-     {
-         "title": "Lambda Calculus and Lisp, part 1",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43148032\"\u003eComments\u003c/a\u003e",
-         "link": "https://babbagefiles.xyz/lambda-calculus-and-lisp-01/",
-         "links": [
-             "https://babbagefiles.xyz/lambda-calculus-and-lisp-01/"
-         ],
-         "published": "Sun, 23 Feb 2025 09:29:50 +0000",
-         "publishedParsed": "2025-02-23T09:29:50Z"
-     },
-     {
-         "title": "Ask for no, don't ask for yes (2022)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43144611\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.mooreds.com/wordpress/archives/3518",
-         "links": [
-             "https://www.mooreds.com/wordpress/archives/3518"
-         ],
-         "published": "Sat, 22 Feb 2025 23:55:57 +0000",
-         "publishedParsed": "2025-02-22T23:55:57Z"
      },
      {
          "title": "FFmpeg School of Assembly Language",
@@ -70,6 +60,16 @@
          "publishedParsed": "2025-02-22T16:52:49Z"
      },
      {
+         "title": "Pee If You Want to Go Deeper (2021)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43149648\"\u003eComments\u003c/a\u003e",
+         "link": "https://peeifyouwanttogofaster.com/2021/05/24/pee-if-you-want-to-go-deeper/",
+         "links": [
+             "https://peeifyouwanttogofaster.com/2021/05/24/pee-if-you-want-to-go-deeper/"
+         ],
+         "published": "Sun, 23 Feb 2025 14:53:42 +0000",
+         "publishedParsed": "2025-02-23T14:53:42Z"
+     },
+     {
          "title": "OpenJKDF2 – A cross-platform reimplementation of JKDF2 in C",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43148664\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/shinyquagsire23/OpenJKDF2",
@@ -80,54 +80,64 @@
          "publishedParsed": "2025-02-23T11:55:51Z"
      },
      {
-         "title": "In Defense of Text Labels",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43142989\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.chrbutler.com/in-defense-of-text-labels",
+         "title": "BYD has already produced its first solid-state cells",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43148697\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.electrive.com/2025/02/17/byd-has-already-produced-its-first-solid-state-cells/",
          "links": [
-             "https://www.chrbutler.com/in-defense-of-text-labels"
+             "https://www.electrive.com/2025/02/17/byd-has-already-produced-its-first-solid-state-cells/"
          ],
-         "published": "Sat, 22 Feb 2025 20:40:26 +0000",
-         "publishedParsed": "2025-02-22T20:40:26Z"
+         "published": "Sun, 23 Feb 2025 12:04:43 +0000",
+         "publishedParsed": "2025-02-23T12:04:43Z"
      },
      {
-         "title": "Stargate Project II? Declassified US Government Research in RV and Psi [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43101013\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.governmentattic.org/57docs/ThesisAnomalousHumanCognition2023.pdf",
+         "title": "Navigating a Broken Dev Culture",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43149437\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=43149437",
          "links": [
-             "https://www.governmentattic.org/57docs/ThesisAnomalousHumanCognition2023.pdf"
+             "https://news.ycombinator.com/item?id=43149437"
          ],
-         "published": "Wed, 19 Feb 2025 11:40:11 +0000",
-         "publishedParsed": "2025-02-19T11:40:11Z"
+         "published": "Sun, 23 Feb 2025 14:27:18 +0000",
+         "publishedParsed": "2025-02-23T14:27:18Z"
      },
      {
-         "title": "What are Majorana zero modes?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43106687\"\u003eComments\u003c/a\u003e",
-         "link": "https://mathstodon.xyz/@johncarlosbaez/114031919391285877",
+         "title": "Topological Superconductors",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43105916\"\u003eComments\u003c/a\u003e",
+         "link": "https://pubs.acs.org/doi/10.1021/acs.chemmater.3c00713",
          "links": [
-             "https://mathstodon.xyz/@johncarlosbaez/114031919391285877"
+             "https://pubs.acs.org/doi/10.1021/acs.chemmater.3c00713"
          ],
-         "published": "Wed, 19 Feb 2025 19:54:16 +0000",
-         "publishedParsed": "2025-02-19T19:54:16Z"
+         "published": "Wed, 19 Feb 2025 18:58:18 +0000",
+         "publishedParsed": "2025-02-19T18:58:18Z"
      },
      {
-         "title": "Weird Kaggle and the Superiority of Books",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43102247\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.griffens.net/blog/weird-kaggle-books-reflections/",
+         "title": "Lambda Calculus and Lisp, part 1",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43148032\"\u003eComments\u003c/a\u003e",
+         "link": "https://babbagefiles.xyz/lambda-calculus-and-lisp-01/",
          "links": [
-             "https://blog.griffens.net/blog/weird-kaggle-books-reflections/"
+             "https://babbagefiles.xyz/lambda-calculus-and-lisp-01/"
          ],
-         "published": "Wed, 19 Feb 2025 14:01:53 +0000",
-         "publishedParsed": "2025-02-19T14:01:53Z"
+         "published": "Sun, 23 Feb 2025 09:29:50 +0000",
+         "publishedParsed": "2025-02-23T09:29:50Z"
      },
      {
-         "title": "Brazilian ship sunk by WWII U-Boat located",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43113012\"\u003eComments\u003c/a\u003e",
-         "link": "https://archaeology.org/news/2025/02/19/brazilian-ship-sunk-by-wwii-u-boat-located/",
+         "title": "Vietnamese Graphic Design",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43149266\"\u003eComments\u003c/a\u003e",
+         "link": "https://vietgd.com/",
          "links": [
-             "https://archaeology.org/news/2025/02/19/brazilian-ship-sunk-by-wwii-u-boat-located/"
+             "https://vietgd.com/"
          ],
-         "published": "Thu, 20 Feb 2025 10:08:05 +0000",
-         "publishedParsed": "2025-02-20T10:08:05Z"
+         "published": "Sun, 23 Feb 2025 14:00:25 +0000",
+         "publishedParsed": "2025-02-23T14:00:25Z"
+     },
+     {
+         "title": "Ask for no, don't ask for yes (2022)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43144611\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.mooreds.com/wordpress/archives/3518",
+         "links": [
+             "https://www.mooreds.com/wordpress/archives/3518"
+         ],
+         "published": "Sat, 22 Feb 2025 23:55:57 +0000",
+         "publishedParsed": "2025-02-22T23:55:57Z"
      },
      {
          "title": "CEO Simulator: Startup Edition",
@@ -140,24 +150,34 @@
          "publishedParsed": "2025-02-19T14:20:12Z"
      },
      {
-         "title": "Electronics Teardown: Stelo Continuous Glucose Monitor (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43145527\"\u003eComments\u003c/a\u003e",
-         "link": "https://andykong.org/blog/cgmteardown1",
+         "title": "Weird Kaggle and the Superiority of Books",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43102247\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.griffens.net/blog/weird-kaggle-books-reflections/",
          "links": [
-             "https://andykong.org/blog/cgmteardown1"
+             "https://blog.griffens.net/blog/weird-kaggle-books-reflections/"
          ],
-         "published": "Sun, 23 Feb 2025 01:58:18 +0000",
-         "publishedParsed": "2025-02-23T01:58:18Z"
+         "published": "Wed, 19 Feb 2025 14:01:53 +0000",
+         "publishedParsed": "2025-02-19T14:01:53Z"
      },
      {
-         "title": "Clang Static Analyzer and the Z3 constraint solver (2022)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43145106\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/",
+         "title": "Immune markers of post COVID vaccination syndrome indicate future research",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43149591\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.yale.edu/2025/02/19/immune-markers-post-vaccination-syndrome-indicate-future-research-directions",
          "links": [
-             "https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/"
+             "https://news.yale.edu/2025/02/19/immune-markers-post-vaccination-syndrome-indicate-future-research-directions"
          ],
-         "published": "Sun, 23 Feb 2025 01:03:04 +0000",
-         "publishedParsed": "2025-02-23T01:03:04Z"
+         "published": "Sun, 23 Feb 2025 14:46:47 +0000",
+         "publishedParsed": "2025-02-23T14:46:47Z"
+     },
+     {
+         "title": "In Defense of Text Labels",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43142989\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.chrbutler.com/in-defense-of-text-labels",
+         "links": [
+             "https://www.chrbutler.com/in-defense-of-text-labels"
+         ],
+         "published": "Sat, 22 Feb 2025 20:40:26 +0000",
+         "publishedParsed": "2025-02-22T20:40:26Z"
      },
      {
          "title": "No One Lives Forever (NOLF) Revival Edition",
@@ -170,24 +190,64 @@
          "publishedParsed": "2025-02-23T04:37:57Z"
      },
      {
-         "title": "NASA Downgrades the Risk of 2024 YR4 to Below 1%",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43148259\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.universetoday.com/171047/nasa-downgrades-the-risk-of-2024-yr4-to-below-1/",
+         "title": "'Everybody is looking at their phones,' says man freed after 30 years in prison",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43149736\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.sky.com/story/everybody-is-looking-at-their-phones-says-man-freed-after-30-years-in-prison-13315407",
          "links": [
-             "https://www.universetoday.com/171047/nasa-downgrades-the-risk-of-2024-yr4-to-below-1/"
+             "https://news.sky.com/story/everybody-is-looking-at-their-phones-says-man-freed-after-30-years-in-prison-13315407"
          ],
-         "published": "Sun, 23 Feb 2025 10:19:45 +0000",
-         "publishedParsed": "2025-02-23T10:19:45Z"
+         "published": "Sun, 23 Feb 2025 15:02:42 +0000",
+         "publishedParsed": "2025-02-23T15:02:42Z"
      },
      {
-         "title": "Vine: A programming language based on Interaction Nets",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43144040\"\u003eComments\u003c/a\u003e",
-         "link": "https://vine.dev/docs/",
+         "title": "What are Majorana zero modes?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43106687\"\u003eComments\u003c/a\u003e",
+         "link": "https://mathstodon.xyz/@johncarlosbaez/114031919391285877",
          "links": [
-             "https://vine.dev/docs/"
+             "https://mathstodon.xyz/@johncarlosbaez/114031919391285877"
          ],
-         "published": "Sat, 22 Feb 2025 22:43:36 +0000",
-         "publishedParsed": "2025-02-22T22:43:36Z"
+         "published": "Wed, 19 Feb 2025 19:54:16 +0000",
+         "publishedParsed": "2025-02-19T19:54:16Z"
+     },
+     {
+         "title": "Electronics Teardown: Stelo Continuous Glucose Monitor (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43145527\"\u003eComments\u003c/a\u003e",
+         "link": "https://andykong.org/blog/cgmteardown1",
+         "links": [
+             "https://andykong.org/blog/cgmteardown1"
+         ],
+         "published": "Sun, 23 Feb 2025 01:58:18 +0000",
+         "publishedParsed": "2025-02-23T01:58:18Z"
+     },
+     {
+         "title": "Brazilian ship sunk by WWII U-Boat located",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43113012\"\u003eComments\u003c/a\u003e",
+         "link": "https://archaeology.org/news/2025/02/19/brazilian-ship-sunk-by-wwii-u-boat-located/",
+         "links": [
+             "https://archaeology.org/news/2025/02/19/brazilian-ship-sunk-by-wwii-u-boat-located/"
+         ],
+         "published": "Thu, 20 Feb 2025 10:08:05 +0000",
+         "publishedParsed": "2025-02-20T10:08:05Z"
+     },
+     {
+         "title": "Stargate Project II? Declassified US Government Research in RV and Psi [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43101013\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.governmentattic.org/57docs/ThesisAnomalousHumanCognition2023.pdf",
+         "links": [
+             "https://www.governmentattic.org/57docs/ThesisAnomalousHumanCognition2023.pdf"
+         ],
+         "published": "Wed, 19 Feb 2025 11:40:11 +0000",
+         "publishedParsed": "2025-02-19T11:40:11Z"
+     },
+     {
+         "title": "Clang Static Analyzer and the Z3 constraint solver (2022)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43145106\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/",
+         "links": [
+             "https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/"
+         ],
+         "published": "Sun, 23 Feb 2025 01:03:04 +0000",
+         "publishedParsed": "2025-02-23T01:03:04Z"
      },
      {
          "title": "Engineers turn the body's goo into new glue",
@@ -208,75 +268,5 @@
          ],
          "published": "Sat, 22 Feb 2025 16:56:09 +0000",
          "publishedParsed": "2025-02-22T16:56:09Z"
-     },
-     {
-         "title": "Recovering priceless audio and lost languages from old decaying tapes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43140547\"\u003eComments\u003c/a\u003e",
-         "link": "https://theconversation.com/how-were-recovering-priceless-audio-and-lost-languages-from-old-decaying-tapes-248116",
-         "links": [
-             "https://theconversation.com/how-were-recovering-priceless-audio-and-lost-languages-from-old-decaying-tapes-248116"
-         ],
-         "published": "Sat, 22 Feb 2025 16:45:45 +0000",
-         "publishedParsed": "2025-02-22T16:45:45Z"
-     },
-     {
-         "title": "DOGE's only public ledger is riddled with mistakes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43138238\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html",
-         "links": [
-             "https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html"
-         ],
-         "published": "Sat, 22 Feb 2025 12:03:22 +0000",
-         "publishedParsed": "2025-02-22T12:03:22Z"
-     },
-     {
-         "title": "Reliably replicating data between Postgres and ClickHouse",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43111294\"\u003eComments\u003c/a\u003e",
-         "link": "https://benjaminwootton.com/insights/clickhouse-peerdb-cdc/",
-         "links": [
-             "https://benjaminwootton.com/insights/clickhouse-peerdb-cdc/"
-         ],
-         "published": "Thu, 20 Feb 2025 04:59:17 +0000",
-         "publishedParsed": "2025-02-20T04:59:17Z"
-     },
-     {
-         "title": "Tetris in PostScript",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43099894\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/nst/PSTris",
-         "links": [
-             "https://github.com/nst/PSTris"
-         ],
-         "published": "Wed, 19 Feb 2025 08:27:50 +0000",
-         "publishedParsed": "2025-02-19T08:27:50Z"
-     },
-     {
-         "title": "The Weird New Putting Technique That's Driving the Golf World Nuts",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43123267\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.wsj.com/sports/golf/aimpoint-putting-pga-tour-8868484c",
-         "links": [
-             "https://www.wsj.com/sports/golf/aimpoint-putting-pga-tour-8868484c"
-         ],
-         "published": "Fri, 21 Feb 2025 02:13:05 +0000",
-         "publishedParsed": "2025-02-21T02:13:05Z"
-     },
-     {
-         "title": "DigiKey's Tariff Resources",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43135934\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.digikey.com/en/resources/tariff-resources",
-         "links": [
-             "https://www.digikey.com/en/resources/tariff-resources"
-         ],
-         "published": "Sat, 22 Feb 2025 03:52:56 +0000",
-         "publishedParsed": "2025-02-22T03:52:56Z"
-     },
-     {
-         "title": "The Birth of Chipzilla",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43141993\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.abortretry.fail/p/the-birth-of-chipzilla",
-         "links": [
-             "https://www.abortretry.fail/p/the-birth-of-chipzilla"
-         ],
-         "published": "Sat, 22 Feb 2025 19:04:01 +0000",
-         "publishedParsed": "2025-02-22T19:04:01Z"
      }
  ]
