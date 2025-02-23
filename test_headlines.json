@@ -1,5 +1,15 @@
 [
      {
+         "title": "Half-Life",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43147698\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.filfre.net/2024/12/half-life/",
+         "links": [
+             "https://www.filfre.net/2024/12/half-life/"
+         ],
+         "published": "Sun, 23 Feb 2025 08:18:15 +0000",
+         "publishedParsed": "2025-02-23T08:18:15Z"
+     },
+     {
          "title": "OpenBSD Innovations",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43143777\"\u003eComments\u003c/a\u003e",
          "link": "https://www.openbsd.org/innovations.html",
@@ -8,6 +18,16 @@
          ],
          "published": "Sat, 22 Feb 2025 22:08:42 +0000",
          "publishedParsed": "2025-02-22T22:08:42Z"
+     },
+     {
+         "title": "Lambda Calculus and Lisp, part 1",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43148032\"\u003eComments\u003c/a\u003e",
+         "link": "https://babbagefiles.xyz/lambda-calculus-and-lisp-01/",
+         "links": [
+             "https://babbagefiles.xyz/lambda-calculus-and-lisp-01/"
+         ],
+         "published": "Sun, 23 Feb 2025 09:29:50 +0000",
+         "publishedParsed": "2025-02-23T09:29:50Z"
      },
      {
          "title": "Ask for no, don't ask for yes (2022)",
@@ -30,46 +50,6 @@
          "publishedParsed": "2025-02-22T16:52:49Z"
      },
      {
-         "title": "In Defense of Text Labels",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43142989\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.chrbutler.com/in-defense-of-text-labels",
-         "links": [
-             "https://www.chrbutler.com/in-defense-of-text-labels"
-         ],
-         "published": "Sat, 22 Feb 2025 20:40:26 +0000",
-         "publishedParsed": "2025-02-22T20:40:26Z"
-     },
-     {
-         "title": "Brazilian ship sunk by WWII U-Boat located",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43113012\"\u003eComments\u003c/a\u003e",
-         "link": "https://archaeology.org/news/2025/02/19/brazilian-ship-sunk-by-wwii-u-boat-located/",
-         "links": [
-             "https://archaeology.org/news/2025/02/19/brazilian-ship-sunk-by-wwii-u-boat-located/"
-         ],
-         "published": "Thu, 20 Feb 2025 10:08:05 +0000",
-         "publishedParsed": "2025-02-20T10:08:05Z"
-     },
-     {
-         "title": "Electronics Teardown: Stelo Continuous Glucose Monitor (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43145527\"\u003eComments\u003c/a\u003e",
-         "link": "https://andykong.org/blog/cgmteardown1",
-         "links": [
-             "https://andykong.org/blog/cgmteardown1"
-         ],
-         "published": "Sun, 23 Feb 2025 01:58:18 +0000",
-         "publishedParsed": "2025-02-23T01:58:18Z"
-     },
-     {
-         "title": "Clang Static Analyzer and the Z3 constraint solver",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43145106\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/",
-         "links": [
-             "https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/"
-         ],
-         "published": "Sun, 23 Feb 2025 01:03:04 +0000",
-         "publishedParsed": "2025-02-23T01:03:04Z"
-     },
-     {
          "title": "CEO Simulator: Startup Edition",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43102414\"\u003eComments\u003c/a\u003e",
          "link": "https://ceosimulator.vercel.app/",
@@ -90,24 +70,74 @@
          "publishedParsed": "2025-02-19T11:40:11Z"
      },
      {
-         "title": "Vine: A programming language based on Interaction Nets",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43144040\"\u003eComments\u003c/a\u003e",
-         "link": "https://vine.dev/docs/",
+         "title": "In Defense of Text Labels",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43142989\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.chrbutler.com/in-defense-of-text-labels",
          "links": [
-             "https://vine.dev/docs/"
+             "https://www.chrbutler.com/in-defense-of-text-labels"
          ],
-         "published": "Sat, 22 Feb 2025 22:43:36 +0000",
-         "publishedParsed": "2025-02-22T22:43:36Z"
+         "published": "Sat, 22 Feb 2025 20:40:26 +0000",
+         "publishedParsed": "2025-02-22T20:40:26Z"
      },
      {
-         "title": "Exult: Recreating Ultima VII for modern operating systems",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43140645\"\u003eComments\u003c/a\u003e",
-         "link": "https://exult.sourceforge.io/index.php",
+         "title": "Brazilian ship sunk by WWII U-Boat located",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43113012\"\u003eComments\u003c/a\u003e",
+         "link": "https://archaeology.org/news/2025/02/19/brazilian-ship-sunk-by-wwii-u-boat-located/",
          "links": [
-             "https://exult.sourceforge.io/index.php"
+             "https://archaeology.org/news/2025/02/19/brazilian-ship-sunk-by-wwii-u-boat-located/"
          ],
-         "published": "Sat, 22 Feb 2025 16:56:09 +0000",
-         "publishedParsed": "2025-02-22T16:56:09Z"
+         "published": "Thu, 20 Feb 2025 10:08:05 +0000",
+         "publishedParsed": "2025-02-20T10:08:05Z"
+     },
+     {
+         "title": "What are Majorana zero modes?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43106687\"\u003eComments\u003c/a\u003e",
+         "link": "https://mathstodon.xyz/@johncarlosbaez/114031919391285877",
+         "links": [
+             "https://mathstodon.xyz/@johncarlosbaez/114031919391285877"
+         ],
+         "published": "Wed, 19 Feb 2025 19:54:16 +0000",
+         "publishedParsed": "2025-02-19T19:54:16Z"
+     },
+     {
+         "title": "Electronics Teardown: Stelo Continuous Glucose Monitor (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43145527\"\u003eComments\u003c/a\u003e",
+         "link": "https://andykong.org/blog/cgmteardown1",
+         "links": [
+             "https://andykong.org/blog/cgmteardown1"
+         ],
+         "published": "Sun, 23 Feb 2025 01:58:18 +0000",
+         "publishedParsed": "2025-02-23T01:58:18Z"
+     },
+     {
+         "title": "Clang Static Analyzer and the Z3 constraint solver (2022)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43145106\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/",
+         "links": [
+             "https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/"
+         ],
+         "published": "Sun, 23 Feb 2025 01:03:04 +0000",
+         "publishedParsed": "2025-02-23T01:03:04Z"
+     },
+     {
+         "title": "Show HN: We made a Meta Quest3 see through walls",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43145951\"\u003eComments\u003c/a\u003e",
+         "link": "https://0xredj.medium.com/how-we-built-a-vr-headset-that-sees-people-through-walls-treehacks-25-e517cb805b9c",
+         "links": [
+             "https://0xredj.medium.com/how-we-built-a-vr-headset-that-sees-people-through-walls-treehacks-25-e517cb805b9c"
+         ],
+         "published": "Sun, 23 Feb 2025 02:54:17 +0000",
+         "publishedParsed": "2025-02-23T02:54:17Z"
+     },
+     {
+         "title": "Engineers turn the body's goo into new glue",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43106374\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.mit.edu/2025/engineers-turn-bodys-goo-into-new-glue-0217",
+         "links": [
+             "https://news.mit.edu/2025/engineers-turn-bodys-goo-into-new-glue-0217"
+         ],
+         "published": "Wed, 19 Feb 2025 19:30:58 +0000",
+         "publishedParsed": "2025-02-19T19:30:58Z"
      },
      {
          "title": "Recovering priceless audio and lost languages from old decaying tapes",
@@ -120,14 +150,64 @@
          "publishedParsed": "2025-02-22T16:45:45Z"
      },
      {
-         "title": "Show HN: We made a Meta Quest3 see through walls",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43145951\"\u003eComments\u003c/a\u003e",
-         "link": "https://0xredj.medium.com/how-we-built-a-vr-headset-that-sees-people-through-walls-treehacks-25-e517cb805b9c",
+         "title": "Exult: Recreating Ultima VII for modern operating systems",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43140645\"\u003eComments\u003c/a\u003e",
+         "link": "https://exult.sourceforge.io/index.php",
          "links": [
-             "https://0xredj.medium.com/how-we-built-a-vr-headset-that-sees-people-through-walls-treehacks-25-e517cb805b9c"
+             "https://exult.sourceforge.io/index.php"
          ],
-         "published": "Sun, 23 Feb 2025 02:54:17 +0000",
-         "publishedParsed": "2025-02-23T02:54:17Z"
+         "published": "Sat, 22 Feb 2025 16:56:09 +0000",
+         "publishedParsed": "2025-02-22T16:56:09Z"
+     },
+     {
+         "title": "Vine: A programming language based on Interaction Nets",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43144040\"\u003eComments\u003c/a\u003e",
+         "link": "https://vine.dev/docs/",
+         "links": [
+             "https://vine.dev/docs/"
+         ],
+         "published": "Sat, 22 Feb 2025 22:43:36 +0000",
+         "publishedParsed": "2025-02-22T22:43:36Z"
+     },
+     {
+         "title": "A Black Fungus Might Be Healing Chernobyl by Drinking Radiation",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43148355\"\u003eComments\u003c/a\u003e",
+         "link": "https://makerfairerome.eu/en/a-black-fungus-might-be-healing-chernobyl-by-drinking-radiation/",
+         "links": [
+             "https://makerfairerome.eu/en/a-black-fungus-might-be-healing-chernobyl-by-drinking-radiation/"
+         ],
+         "published": "Sun, 23 Feb 2025 10:42:09 +0000",
+         "publishedParsed": "2025-02-23T10:42:09Z"
+     },
+     {
+         "title": "DOGE's only public ledger is riddled with mistakes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43138238\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html",
+         "links": [
+             "https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html"
+         ],
+         "published": "Sat, 22 Feb 2025 12:03:22 +0000",
+         "publishedParsed": "2025-02-22T12:03:22Z"
+     },
+     {
+         "title": "No One Lives Forever (NOLF) Revival Edition",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43146581\"\u003eComments\u003c/a\u003e",
+         "link": "http://nolfrevival.tk/",
+         "links": [
+             "http://nolfrevival.tk/"
+         ],
+         "published": "Sun, 23 Feb 2025 04:37:57 +0000",
+         "publishedParsed": "2025-02-23T04:37:57Z"
+     },
+     {
+         "title": "Reliably replicating data between Postgres and ClickHouse",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43111294\"\u003eComments\u003c/a\u003e",
+         "link": "https://benjaminwootton.com/insights/clickhouse-peerdb-cdc/",
+         "links": [
+             "https://benjaminwootton.com/insights/clickhouse-peerdb-cdc/"
+         ],
+         "published": "Thu, 20 Feb 2025 04:59:17 +0000",
+         "publishedParsed": "2025-02-20T04:59:17Z"
      },
      {
          "title": "Fish-delousing underwater laser (2018) [video]",
@@ -150,14 +230,14 @@
          "publishedParsed": "2025-02-22T18:50:06Z"
      },
      {
-         "title": "Ways to annoy your senior engineer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43146871\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.thecaringtechie.com/p/8-guaranteed-ways-to-annoy-your-senior",
+         "title": "A map of torii around the world",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43141966\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1\u0026hl=en",
          "links": [
-             "https://www.thecaringtechie.com/p/8-guaranteed-ways-to-annoy-your-senior"
+             "https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1\u0026hl=en"
          ],
-         "published": "Sun, 23 Feb 2025 05:27:27 +0000",
-         "publishedParsed": "2025-02-23T05:27:27Z"
+         "published": "Sat, 22 Feb 2025 19:01:41 +0000",
+         "publishedParsed": "2025-02-22T19:01:41Z"
      },
      {
          "title": "Tetris in PostScript",
@@ -190,66 +270,6 @@
          "publishedParsed": "2025-02-19T02:16:04Z"
      },
      {
-         "title": "A map of torii around the world",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43141966\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1\u0026hl=en",
-         "links": [
-             "https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1\u0026hl=en"
-         ],
-         "published": "Sat, 22 Feb 2025 19:01:41 +0000",
-         "publishedParsed": "2025-02-22T19:01:41Z"
-     },
-     {
-         "title": "AI CUDA Engineer: Agentic CUDA Kernel Discovery, Optimization and Composition",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43122089\"\u003eComments\u003c/a\u003e",
-         "link": "https://sakana.ai/ai-cuda-engineer/",
-         "links": [
-             "https://sakana.ai/ai-cuda-engineer/"
-         ],
-         "published": "Thu, 20 Feb 2025 23:47:04 +0000",
-         "publishedParsed": "2025-02-20T23:47:04Z"
-     },
-     {
-         "title": "Reliably replicating data between Postgres and ClickHouse",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43111294\"\u003eComments\u003c/a\u003e",
-         "link": "https://benjaminwootton.com/insights/clickhouse-peerdb-cdc/",
-         "links": [
-             "https://benjaminwootton.com/insights/clickhouse-peerdb-cdc/"
-         ],
-         "published": "Thu, 20 Feb 2025 04:59:17 +0000",
-         "publishedParsed": "2025-02-20T04:59:17Z"
-     },
-     {
-         "title": "DigiKey's Tariff Resources",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43135934\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.digikey.com/en/resources/tariff-resources",
-         "links": [
-             "https://www.digikey.com/en/resources/tariff-resources"
-         ],
-         "published": "Sat, 22 Feb 2025 03:52:56 +0000",
-         "publishedParsed": "2025-02-22T03:52:56Z"
-     },
-     {
-         "title": "Discover the IndieWeb, one blog post at a time",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43139953\"\u003eComments\u003c/a\u003e",
-         "link": "https://indieblog.page",
-         "links": [
-             "https://indieblog.page"
-         ],
-         "published": "Sat, 22 Feb 2025 15:42:40 +0000",
-         "publishedParsed": "2025-02-22T15:42:40Z"
-     },
-     {
-         "title": "Digital Services Playbook",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43145057\"\u003eComments\u003c/a\u003e",
-         "link": "https://playbook.usds.gov/",
-         "links": [
-             "https://playbook.usds.gov/"
-         ],
-         "published": "Sun, 23 Feb 2025 00:54:58 +0000",
-         "publishedParsed": "2025-02-23T00:54:58Z"
-     },
-     {
          "title": "The Birth of Chipzilla",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43141993\"\u003eComments\u003c/a\u003e",
          "link": "https://www.abortretry.fail/p/the-birth-of-chipzilla",
@@ -260,13 +280,13 @@
          "publishedParsed": "2025-02-22T19:04:01Z"
      },
      {
-         "title": "The Internet's longest-serving PC email system, still being updated",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43137910\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.pmail.com/",
+         "title": "DigiKey's Tariff Resources",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43135934\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.digikey.com/en/resources/tariff-resources",
          "links": [
-             "https://www.pmail.com/"
+             "https://www.digikey.com/en/resources/tariff-resources"
          ],
-         "published": "Sat, 22 Feb 2025 10:54:28 +0000",
-         "publishedParsed": "2025-02-22T10:54:28Z"
+         "published": "Sat, 22 Feb 2025 03:52:56 +0000",
+         "publishedParsed": "2025-02-22T03:52:56Z"
      }
  ]
