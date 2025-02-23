@@ -1,5 +1,15 @@
 [
      {
+         "title": "OpenBSD Innovations",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43143777\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.openbsd.org/innovations.html",
+         "links": [
+             "https://www.openbsd.org/innovations.html"
+         ],
+         "published": "Sat, 22 Feb 2025 22:08:42 +0000",
+         "publishedParsed": "2025-02-22T22:08:42Z"
+     },
+     {
          "title": "FFmpeg School of Assembly Language",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43140614\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md",
@@ -20,24 +30,14 @@
          "publishedParsed": "2025-02-22T20:52:01Z"
      },
      {
-         "title": "The Birth of Chipzilla",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43141993\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.abortretry.fail/p/the-birth-of-chipzilla",
+         "title": "Vine: A programming language based on Interaction Nets",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43144040\"\u003eComments\u003c/a\u003e",
+         "link": "https://vine.dev/",
          "links": [
-             "https://www.abortretry.fail/p/the-birth-of-chipzilla"
+             "https://vine.dev/"
          ],
-         "published": "Sat, 22 Feb 2025 19:04:01 +0000",
-         "publishedParsed": "2025-02-22T19:04:01Z"
-     },
-     {
-         "title": "Simplewall Has Been Discontinued",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43142381\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/henrypp/simplewall",
-         "links": [
-             "https://github.com/henrypp/simplewall"
-         ],
-         "published": "Sat, 22 Feb 2025 19:40:57 +0000",
-         "publishedParsed": "2025-02-22T19:40:57Z"
+         "published": "Sat, 22 Feb 2025 22:43:36 +0000",
+         "publishedParsed": "2025-02-22T22:43:36Z"
      },
      {
          "title": "A map of torii around the world",
@@ -48,26 +48,6 @@
          ],
          "published": "Sat, 22 Feb 2025 19:01:41 +0000",
          "publishedParsed": "2025-02-22T19:01:41Z"
-     },
-     {
-         "title": "Recovering priceless audio and lost languages from old decaying tapes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43140547\"\u003eComments\u003c/a\u003e",
-         "link": "https://theconversation.com/how-were-recovering-priceless-audio-and-lost-languages-from-old-decaying-tapes-248116",
-         "links": [
-             "https://theconversation.com/how-were-recovering-priceless-audio-and-lost-languages-from-old-decaying-tapes-248116"
-         ],
-         "published": "Sat, 22 Feb 2025 16:45:45 +0000",
-         "publishedParsed": "2025-02-22T16:45:45Z"
-     },
-     {
-         "title": "Discover the IndieWeb, one blog post at a time",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43139953\"\u003eComments\u003c/a\u003e",
-         "link": "https://indieblog.page",
-         "links": [
-             "https://indieblog.page"
-         ],
-         "published": "Sat, 22 Feb 2025 15:42:40 +0000",
-         "publishedParsed": "2025-02-22T15:42:40Z"
      },
      {
          "title": "Amazon now discloses you're buying a license to view Kindle eBooks",
@@ -90,6 +70,46 @@
          "publishedParsed": "2025-02-20T04:59:17Z"
      },
      {
+         "title": "The Birth of Chipzilla",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43141993\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.abortretry.fail/p/the-birth-of-chipzilla",
+         "links": [
+             "https://www.abortretry.fail/p/the-birth-of-chipzilla"
+         ],
+         "published": "Sat, 22 Feb 2025 19:04:01 +0000",
+         "publishedParsed": "2025-02-22T19:04:01Z"
+     },
+     {
+         "title": "Recovering priceless audio and lost languages from old decaying tapes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43140547\"\u003eComments\u003c/a\u003e",
+         "link": "https://theconversation.com/how-were-recovering-priceless-audio-and-lost-languages-from-old-decaying-tapes-248116",
+         "links": [
+             "https://theconversation.com/how-were-recovering-priceless-audio-and-lost-languages-from-old-decaying-tapes-248116"
+         ],
+         "published": "Sat, 22 Feb 2025 16:45:45 +0000",
+         "publishedParsed": "2025-02-22T16:45:45Z"
+     },
+     {
+         "title": "Discover the IndieWeb, one blog post at a time",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43139953\"\u003eComments\u003c/a\u003e",
+         "link": "https://indieblog.page",
+         "links": [
+             "https://indieblog.page"
+         ],
+         "published": "Sat, 22 Feb 2025 15:42:40 +0000",
+         "publishedParsed": "2025-02-22T15:42:40Z"
+     },
+     {
+         "title": "Exult: Recreating Ultima VII for modern operating systems",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43140645\"\u003eComments\u003c/a\u003e",
+         "link": "https://exult.sourceforge.io/index.php",
+         "links": [
+             "https://exult.sourceforge.io/index.php"
+         ],
+         "published": "Sat, 22 Feb 2025 16:56:09 +0000",
+         "publishedParsed": "2025-02-22T16:56:09Z"
+     },
+     {
          "title": "1561 Celestial Phenomenon over Nuremberg",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43097799\"\u003eComments\u003c/a\u003e",
          "link": "https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg",
@@ -110,6 +130,16 @@
          "publishedParsed": "2025-02-19T19:22:01Z"
      },
      {
+         "title": "DOGE's only public ledger is riddled with mistakes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43138238\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html",
+         "links": [
+             "https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html"
+         ],
+         "published": "Sat, 22 Feb 2025 12:03:22 +0000",
+         "publishedParsed": "2025-02-22T12:03:22Z"
+     },
+     {
          "title": "These years in Common Lisp: 2023-2024 in review",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43089415\"\u003eComments\u003c/a\u003e",
          "link": "https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/",
@@ -118,6 +148,26 @@
          ],
          "published": "Tue, 18 Feb 2025 13:48:25 +0000",
          "publishedParsed": "2025-02-18T13:48:25Z"
+     },
+     {
+         "title": "Why are you lying to me? What the hell is wrong with you?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43144421\"\u003eComments\u003c/a\u003e",
+         "link": "https://respectfulleadership.substack.com/p/a-true-story-software-bugs-dishonesty",
+         "links": [
+             "https://respectfulleadership.substack.com/p/a-true-story-software-bugs-dishonesty"
+         ],
+         "published": "Sat, 22 Feb 2025 23:32:24 +0000",
+         "publishedParsed": "2025-02-22T23:32:24Z"
+     },
+     {
+         "title": "In Defense of Text Labels: Why Icons Alone Aren't Enough",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43142989\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.chrbutler.com/in-defense-of-text-labels",
+         "links": [
+             "https://www.chrbutler.com/in-defense-of-text-labels"
+         ],
+         "published": "Sat, 22 Feb 2025 20:40:26 +0000",
+         "publishedParsed": "2025-02-22T20:40:26Z"
      },
      {
          "title": "DigiKey's Tariff Resources",
@@ -130,14 +180,24 @@
          "publishedParsed": "2025-02-22T03:52:56Z"
      },
      {
-         "title": "DOGE's only public ledger is riddled with mistakes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43138238\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html",
+         "title": "Curl website traffic Feb 2025",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43144223\"\u003eComments\u003c/a\u003e",
+         "link": "https://daniel.haxx.se/blog/2025/02/22/curl-website-traffic-feb-2025/",
          "links": [
-             "https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html"
+             "https://daniel.haxx.se/blog/2025/02/22/curl-website-traffic-feb-2025/"
          ],
-         "published": "Sat, 22 Feb 2025 12:03:22 +0000",
-         "publishedParsed": "2025-02-22T12:03:22Z"
+         "published": "Sat, 22 Feb 2025 23:06:20 +0000",
+         "publishedParsed": "2025-02-22T23:06:20Z"
+     },
+     {
+         "title": "The Internet's longest-serving PC email system, still being updated",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43137910\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.pmail.com/",
+         "links": [
+             "https://www.pmail.com/"
+         ],
+         "published": "Sat, 22 Feb 2025 10:54:28 +0000",
+         "publishedParsed": "2025-02-22T10:54:28Z"
      },
      {
          "title": "Richard Feynman's blackboard at the time of his death (1988)",
@@ -150,14 +210,14 @@
          "publishedParsed": "2025-02-21T18:22:59Z"
      },
      {
-         "title": "Exult: Recreating Ultima VII for modern operating systems",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43140645\"\u003eComments\u003c/a\u003e",
-         "link": "https://exult.sourceforge.io/index.php",
+         "title": "Tetris in PostScript",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43099894\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/nst/PSTris",
          "links": [
-             "https://exult.sourceforge.io/index.php"
+             "https://github.com/nst/PSTris"
          ],
-         "published": "Sat, 22 Feb 2025 16:56:09 +0000",
-         "publishedParsed": "2025-02-22T16:56:09Z"
+         "published": "Wed, 19 Feb 2025 08:27:50 +0000",
+         "publishedParsed": "2025-02-19T08:27:50Z"
      },
      {
          "title": "Why Ruby on Rails still matters",
@@ -178,45 +238,5 @@
          ],
          "published": "Tue, 18 Feb 2025 12:28:18 +0000",
          "publishedParsed": "2025-02-18T12:28:18Z"
-     },
-     {
-         "title": "The Internet's longest-serving PC email system, still being updated",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43137910\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.pmail.com/",
-         "links": [
-             "https://www.pmail.com/"
-         ],
-         "published": "Sat, 22 Feb 2025 10:54:28 +0000",
-         "publishedParsed": "2025-02-22T10:54:28Z"
-     },
-     {
-         "title": "Ask HN: Is anyone still using Dreamweaver?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43141368\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=43141368",
-         "links": [
-             "https://news.ycombinator.com/item?id=43141368"
-         ],
-         "published": "Sat, 22 Feb 2025 17:59:27 +0000",
-         "publishedParsed": "2025-02-22T17:59:27Z"
-     },
-     {
-         "title": "Concurrency bugs in Lucene: How to fix optimistic concurrency failures",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43114725\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.elastic.co/search-labs/blog/optimistic-concurrency-lucene-debugging",
-         "links": [
-             "https://www.elastic.co/search-labs/blog/optimistic-concurrency-lucene-debugging"
-         ],
-         "published": "Thu, 20 Feb 2025 14:02:14 +0000",
-         "publishedParsed": "2025-02-20T14:02:14Z"
-     },
-     {
-         "title": "Johnny.Decimal – A system to organise your life",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43128093\"\u003eComments\u003c/a\u003e",
-         "link": "https://johnnydecimal.com",
-         "links": [
-             "https://johnnydecimal.com"
-         ],
-         "published": "Fri, 21 Feb 2025 14:52:14 +0000",
-         "publishedParsed": "2025-02-21T14:52:14Z"
      }
  ]
