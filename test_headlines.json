@@ -1,6 +1,6 @@
 [
      {
-         "title": "DeepSeek Open Sources DeepGEMM: Clean and efficient FP8 GEMM kernels",
+         "title": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43179478\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/deepseek-ai/DeepGEMM",
          "links": [
@@ -10,14 +10,24 @@
          "publishedParsed": "2025-02-26T01:02:24Z"
      },
      {
-         "title": "'Amateur and dangerous': Historians weigh in on viral AI history videos",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43145199\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bbc.com/news/articles/cy87076pdw3o",
+         "title": "Iterated Log Coding",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43181610\"\u003eComments\u003c/a\u003e",
+         "link": "https://adamscherlis.github.io/blog/iterlog-coding/",
          "links": [
-             "https://www.bbc.com/news/articles/cy87076pdw3o"
+             "https://adamscherlis.github.io/blog/iterlog-coding/"
          ],
-         "published": "Sun, 23 Feb 2025 01:16:01 +0000",
-         "publishedParsed": "2025-02-23T01:16:01Z"
+         "published": "Wed, 26 Feb 2025 07:43:21 +0000",
+         "publishedParsed": "2025-02-26T07:43:21Z"
+     },
+     {
+         "title": "Gustatory Wisdom: Bruegel the Elder's Twelve Proverbs (1558)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43181521\"\u003eComments\u003c/a\u003e",
+         "link": "https://publicdomainreview.org/collection/bruegel-twelve-proverbs/",
+         "links": [
+             "https://publicdomainreview.org/collection/bruegel-twelve-proverbs/"
+         ],
+         "published": "Wed, 26 Feb 2025 07:28:15 +0000",
+         "publishedParsed": "2025-02-26T07:28:15Z"
      },
      {
          "title": "Hyperspace",
@@ -40,34 +50,34 @@
          "publishedParsed": "2025-02-23T18:51:49Z"
      },
      {
-         "title": "Ggwave: Tiny Data-over-Sound Library",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43162793\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/ggerganov/ggwave",
+         "title": "Understanding Surrogate Pairs: Why Some Windows Filenames Can't Be Read",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43158696\"\u003eComments\u003c/a\u003e",
+         "link": "https://zaferbalkan.com/surrogates/",
          "links": [
-             "https://github.com/ggerganov/ggwave"
+             "https://zaferbalkan.com/surrogates/"
          ],
-         "published": "Mon, 24 Feb 2025 18:09:19 +0000",
-         "publishedParsed": "2025-02-24T18:09:19Z"
+         "published": "Mon, 24 Feb 2025 12:19:40 +0000",
+         "publishedParsed": "2025-02-24T12:19:40Z"
      },
      {
-         "title": "Launch HN: Browser Use (YC W25) – open-source web agents",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43173378\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/browser-use/browser-use",
+         "title": "Page is under construction: A love letter to the personal website",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43139211\"\u003eComments\u003c/a\u003e",
+         "link": "https://localghost.dev/blog/this-page-is-under-construction/",
          "links": [
-             "https://github.com/browser-use/browser-use"
+             "https://localghost.dev/blog/this-page-is-under-construction/"
          ],
-         "published": "Tue, 25 Feb 2025 15:45:17 +0000",
-         "publishedParsed": "2025-02-25T15:45:17Z"
+         "published": "Sat, 22 Feb 2025 14:29:32 +0000",
+         "publishedParsed": "2025-02-22T14:29:32Z"
      },
      {
-         "title": "Hard problems that reduce to document ranking",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43174910\"\u003eComments\u003c/a\u003e",
-         "link": "https://noperator.dev/posts/document-ranking-for-complex-problems/",
+         "title": "Terence Tao – Machine-Assisted Proofs [video]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43137445\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.youtube.com/watch?v=5ZIIGLiQWNM",
          "links": [
-             "https://noperator.dev/posts/document-ranking-for-complex-problems/"
+             "https://www.youtube.com/watch?v=5ZIIGLiQWNM"
          ],
-         "published": "Tue, 25 Feb 2025 17:37:07 +0000",
-         "publishedParsed": "2025-02-25T17:37:07Z"
+         "published": "Sat, 22 Feb 2025 09:11:22 +0000",
+         "publishedParsed": "2025-02-22T09:11:22Z"
      },
      {
          "title": "Material Theme has been pulled from VS Code's marketplace",
@@ -80,34 +90,44 @@
          "publishedParsed": "2025-02-25T23:24:40Z"
      },
      {
-         "title": "EdgeDB is now Gel and Postgres is the future",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43177931\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.geldata.com/blog/edgedb-is-now-gel-and-postgres-is-the-future",
+         "title": "Launch HN: Browser Use (YC W25) – open-source web agents",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43173378\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/browser-use/browser-use",
          "links": [
-             "https://www.geldata.com/blog/edgedb-is-now-gel-and-postgres-is-the-future"
+             "https://github.com/browser-use/browser-use"
          ],
-         "published": "Tue, 25 Feb 2025 21:47:06 +0000",
-         "publishedParsed": "2025-02-25T21:47:06Z"
+         "published": "Tue, 25 Feb 2025 15:45:17 +0000",
+         "publishedParsed": "2025-02-25T15:45:17Z"
      },
      {
-         "title": "The XB-70 (2019)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43175315\"\u003eComments\u003c/a\u003e",
-         "link": "http://codex99.com/photography/the-xb70.html",
+         "title": "Ggwave: Tiny Data-over-Sound Library",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43162793\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/ggerganov/ggwave",
          "links": [
-             "http://codex99.com/photography/the-xb70.html"
+             "https://github.com/ggerganov/ggwave"
          ],
-         "published": "Tue, 25 Feb 2025 18:12:31 +0000",
-         "publishedParsed": "2025-02-25T18:12:31Z"
+         "published": "Mon, 24 Feb 2025 18:09:19 +0000",
+         "publishedParsed": "2025-02-24T18:09:19Z"
      },
      {
-         "title": "The Deep Research problem",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43133207\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem",
+         "title": "Hard problems that reduce to document ranking",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43174910\"\u003eComments\u003c/a\u003e",
+         "link": "https://noperator.dev/posts/document-ranking-for-complex-problems/",
          "links": [
-             "https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem"
+             "https://noperator.dev/posts/document-ranking-for-complex-problems/"
          ],
-         "published": "Fri, 21 Feb 2025 21:26:28 +0000",
-         "publishedParsed": "2025-02-21T21:26:28Z"
+         "published": "Tue, 25 Feb 2025 17:37:07 +0000",
+         "publishedParsed": "2025-02-25T17:37:07Z"
+     },
+     {
+         "title": "Evaluating modular RAG with reasoning models",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43170155\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.kapa.ai/blog/evaluating-modular-rag-with-reasoning-models",
+         "links": [
+             "https://www.kapa.ai/blog/evaluating-modular-rag-with-reasoning-models"
+         ],
+         "published": "Tue, 25 Feb 2025 10:24:34 +0000",
+         "publishedParsed": "2025-02-25T10:24:34Z"
      },
      {
          "title": "If it is worth keeping, save it in Markdown",
@@ -120,14 +140,44 @@
          "publishedParsed": "2025-02-22T09:52:26Z"
      },
      {
-         "title": "Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43176553\"\u003eComments\u003c/a\u003e",
-         "link": "https://martins1612.github.io/emergent_misalignment_betley.pdf",
+         "title": "The XB-70 (2019)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43175315\"\u003eComments\u003c/a\u003e",
+         "link": "http://codex99.com/photography/the-xb70.html",
          "links": [
-             "https://martins1612.github.io/emergent_misalignment_betley.pdf"
+             "http://codex99.com/photography/the-xb70.html"
          ],
-         "published": "Tue, 25 Feb 2025 19:59:41 +0000",
-         "publishedParsed": "2025-02-25T19:59:41Z"
+         "published": "Tue, 25 Feb 2025 18:12:31 +0000",
+         "publishedParsed": "2025-02-25T18:12:31Z"
+     },
+     {
+         "title": "Tristan Davey's Punch Card Archive",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43090888\"\u003eComments\u003c/a\u003e",
+         "link": "https://punchcards.tristandavey.com/",
+         "links": [
+             "https://punchcards.tristandavey.com/"
+         ],
+         "published": "Tue, 18 Feb 2025 15:49:38 +0000",
+         "publishedParsed": "2025-02-18T15:49:38Z"
+     },
+     {
+         "title": "The Deep Research problem",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43133207\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem",
+         "links": [
+             "https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem"
+         ],
+         "published": "Fri, 21 Feb 2025 21:26:28 +0000",
+         "publishedParsed": "2025-02-21T21:26:28Z"
+     },
+     {
+         "title": "Toyota completes phase 1 construction of futuristic city",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43180283\"\u003eComments\u003c/a\u003e",
+         "link": "https://www3.nhk.or.jp/nhkworld/en/news/20250225_B03/",
+         "links": [
+             "https://www3.nhk.or.jp/nhkworld/en/news/20250225_B03/"
+         ],
+         "published": "Wed, 26 Feb 2025 03:28:54 +0000",
+         "publishedParsed": "2025-02-26T03:28:54Z"
      },
      {
          "title": "Bald eagles are thriving again after near extinction",
@@ -140,34 +190,14 @@
          "publishedParsed": "2025-02-23T23:36:03Z"
      },
      {
-         "title": "Show HN: MyCoder, an open source Claude-Code alternative",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43177117\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/drivecore/mycoder",
+         "title": "Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43176553\"\u003eComments\u003c/a\u003e",
+         "link": "https://martins1612.github.io/emergent_misalignment_betley.pdf",
          "links": [
-             "https://github.com/drivecore/mycoder"
+             "https://martins1612.github.io/emergent_misalignment_betley.pdf"
          ],
-         "published": "Tue, 25 Feb 2025 20:41:30 +0000",
-         "publishedParsed": "2025-02-25T20:41:30Z"
-     },
-     {
-         "title": "Voker (YC S24) is hiring an LA-based full stack AI software engineer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43178225\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.linkedin.com/jobs/view/4165715593",
-         "links": [
-             "https://www.linkedin.com/jobs/view/4165715593"
-         ],
-         "published": "Tue, 25 Feb 2025 22:13:22 +0000",
-         "publishedParsed": "2025-02-25T22:13:22Z"
-     },
-     {
-         "title": "Framework's first desktop is a strange–but unique–mini ITX gaming PC",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43176314\"\u003eComments\u003c/a\u003e",
-         "link": "https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/",
-         "links": [
-             "https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/"
-         ],
-         "published": "Tue, 25 Feb 2025 19:39:21 +0000",
-         "publishedParsed": "2025-02-25T19:39:21Z"
+         "published": "Tue, 25 Feb 2025 19:59:41 +0000",
+         "publishedParsed": "2025-02-25T19:59:41Z"
      },
      {
          "title": "Why are QR Codes with capital letters smaller than QR codes with lower case?",
@@ -178,6 +208,16 @@
          ],
          "published": "Sun, 23 Feb 2025 13:25:44 +0000",
          "publishedParsed": "2025-02-23T13:25:44Z"
+     },
+     {
+         "title": "Modernist Cuisine: The Art and Science of Cooking",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43158916\"\u003eComments\u003c/a\u003e",
+         "link": "https://modernistcuisine.com/books/modernist-cuisine/",
+         "links": [
+             "https://modernistcuisine.com/books/modernist-cuisine/"
+         ],
+         "published": "Mon, 24 Feb 2025 12:47:07 +0000",
+         "publishedParsed": "2025-02-24T12:47:07Z"
      },
      {
          "title": "Embedding Python in Elixir, it's fine",
@@ -200,6 +240,16 @@
          "publishedParsed": "2025-02-25T11:22:06Z"
      },
      {
+         "title": "Voker (YC S24) is hiring an LA-based full stack AI software engineer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43178225\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.linkedin.com/jobs/view/4165715593",
+         "links": [
+             "https://www.linkedin.com/jobs/view/4165715593"
+         ],
+         "published": "Tue, 25 Feb 2025 22:13:22 +0000",
+         "publishedParsed": "2025-02-25T22:13:22Z"
+     },
+     {
          "title": "New maps of the chaotic space-time inside black holes",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43173773\"\u003eComments\u003c/a\u003e",
          "link": "https://www.quantamagazine.org/new-maps-of-the-bizarre-chaotic-space-time-inside-black-holes-20250224/",
@@ -210,73 +260,33 @@
          "publishedParsed": "2025-02-25T16:15:39Z"
      },
      {
-         "title": "A possible future of Python in the browser",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43169773\"\u003eComments\u003c/a\u003e",
-         "link": "https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/",
+         "title": "Show HN: MyCoder, an open source Claude-Code alternative",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43177117\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/drivecore/mycoder",
          "links": [
-             "https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/"
+             "https://github.com/drivecore/mycoder"
          ],
-         "published": "Tue, 25 Feb 2025 09:15:14 +0000",
-         "publishedParsed": "2025-02-25T09:15:14Z"
+         "published": "Tue, 25 Feb 2025 20:41:30 +0000",
+         "publishedParsed": "2025-02-25T20:41:30Z"
      },
      {
-         "title": "Xonsh – A Python-powered shell",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43134563\"\u003eComments\u003c/a\u003e",
-         "link": "https://xon.sh/",
+         "title": "EdgeDB is now Gel and Postgres is the future",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43177931\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.geldata.com/blog/edgedb-is-now-gel-and-postgres-is-the-future",
          "links": [
-             "https://xon.sh/"
+             "https://www.geldata.com/blog/edgedb-is-now-gel-and-postgres-is-the-future"
          ],
-         "published": "Fri, 21 Feb 2025 23:48:53 +0000",
-         "publishedParsed": "2025-02-21T23:48:53Z"
+         "published": "Tue, 25 Feb 2025 21:47:06 +0000",
+         "publishedParsed": "2025-02-25T21:47:06Z"
      },
      {
-         "title": "Show HN: I created a language called AntiLang – breaking all the conventions",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43152033\"\u003eComments\u003c/a\u003e",
-         "link": "https://siruscodes.github.io/AntiLang/",
+         "title": "Framework's first desktop is a strange–but unique–mini ITX gaming PC",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43176314\"\u003eComments\u003c/a\u003e",
+         "link": "https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/",
          "links": [
-             "https://siruscodes.github.io/AntiLang/"
+             "https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/"
          ],
-         "published": "Sun, 23 Feb 2025 19:00:21 +0000",
-         "publishedParsed": "2025-02-23T19:00:21Z"
-     },
-     {
-         "title": "Ghost House – software for automatic inbetweens",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43176782\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.tedwiggin.com/MIMT.html",
-         "links": [
-             "https://www.tedwiggin.com/MIMT.html"
-         ],
-         "published": "Tue, 25 Feb 2025 20:16:10 +0000",
-         "publishedParsed": "2025-02-25T20:16:10Z"
-     },
-     {
-         "title": "Static electricity depends on materials' contact history",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43134657\"\u003eComments\u003c/a\u003e",
-         "link": "https://phys.org/news/2025-02-static-electricity-materials-contact-history.html",
-         "links": [
-             "https://phys.org/news/2025-02-static-electricity-materials-contact-history.html"
-         ],
-         "published": "Sat, 22 Feb 2025 00:02:14 +0000",
-         "publishedParsed": "2025-02-22T00:02:14Z"
-     },
-     {
-         "title": "DeepSearcher: A local open-source Deep Research",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43172338\"\u003eComments\u003c/a\u003e",
-         "link": "https://milvus.io/blog/introduce-deepsearcher-a-local-open-source-deep-research.md",
-         "links": [
-             "https://milvus.io/blog/introduce-deepsearcher-a-local-open-source-deep-research.md"
-         ],
-         "published": "Tue, 25 Feb 2025 14:33:42 +0000",
-         "publishedParsed": "2025-02-25T14:33:42Z"
-     },
-     {
-         "title": "Show HN: GoatDB – A lightweight, offline-first, realtime NoDB for Deno and React",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43174377\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/goatplatform/goatdb",
-         "links": [
-             "https://github.com/goatplatform/goatdb"
-         ],
-         "published": "Tue, 25 Feb 2025 16:56:25 +0000",
-         "publishedParsed": "2025-02-25T16:56:25Z"
+         "published": "Tue, 25 Feb 2025 19:39:21 +0000",
+         "publishedParsed": "2025-02-25T19:39:21Z"
      }
  ]
