@@ -20,16 +20,6 @@
          "publishedParsed": "2025-03-01T01:03:48Z"
      },
      {
-         "title": "Certificate Transparency in Firefox: A Big Step for Web Security",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43175793\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.transparency.dev/ct-in-firefox",
-         "links": [
-             "https://blog.transparency.dev/ct-in-firefox"
-         ],
-         "published": "Tue, 25 Feb 2025 18:52:59 +0000",
-         "publishedParsed": "2025-02-25T18:52:59Z"
-     },
-     {
          "title": "400 reasons to not use Microsoft Azure",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43210536\"\u003eComments\u003c/a\u003e",
          "link": "https://azsh.it",
@@ -50,6 +40,16 @@
          "publishedParsed": "2025-03-01T04:10:46Z"
      },
      {
+         "title": "Certificate Transparency in Firefox: A Big Step for Web Security",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43175793\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.transparency.dev/ct-in-firefox",
+         "links": [
+             "https://blog.transparency.dev/ct-in-firefox"
+         ],
+         "published": "Tue, 25 Feb 2025 18:52:59 +0000",
+         "publishedParsed": "2025-02-25T18:52:59Z"
+     },
+     {
          "title": "3,200% CPU Utilization",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43207831\"\u003eComments\u003c/a\u003e",
          "link": "https://josephmate.github.io/2025-02-26-3200p-cpu-util/",
@@ -58,6 +58,16 @@
          ],
          "published": "Fri, 28 Feb 2025 17:01:43 +0000",
          "publishedParsed": "2025-02-28T17:01:43Z"
+     },
+     {
+         "title": "A DOGE staffer appears to be posting DOGE work on his public GitHub",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43217947\"\u003eComments\u003c/a\u003e",
+         "link": "https://twitter.com/SollenbergerRC/status/1895609294810464390",
+         "links": [
+             "https://twitter.com/SollenbergerRC/status/1895609294810464390"
+         ],
+         "published": "Sat, 01 Mar 2025 10:30:54 +0000",
+         "publishedParsed": "2025-03-01T10:30:54Z"
      },
      {
          "title": "OlmOCR: Open-source tool to extract plain text from PDFs",
@@ -80,14 +90,14 @@
          "publishedParsed": "2025-02-28T23:05:21Z"
      },
      {
-         "title": "Affixes: The Building Blocks of English",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43186698\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.affixes.org/index.html",
+         "title": "Yes, Claude Code can decompile itself. Here's the source code",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43217357\"\u003eComments\u003c/a\u003e",
+         "link": "https://ghuntley.com/tradecraft/",
          "links": [
-             "https://www.affixes.org/index.html"
+             "https://ghuntley.com/tradecraft/"
          ],
-         "published": "Wed, 26 Feb 2025 18:43:20 +0000",
-         "publishedParsed": "2025-02-26T18:43:20Z"
+         "published": "Sat, 01 Mar 2025 08:44:16 +0000",
+         "publishedParsed": "2025-03-01T08:44:16Z"
      },
      {
          "title": "Harnessing orbital Hall effect in spin-orbit torque MRAM",
@@ -100,14 +110,14 @@
          "publishedParsed": "2025-02-25T12:33:32Z"
      },
      {
-         "title": "When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43214576\"\u003eComments\u003c/a\u003e",
-         "link": "https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/",
+         "title": "Affixes: The Building Blocks of English",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43186698\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.affixes.org/index.html",
          "links": [
-             "https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/"
+             "https://www.affixes.org/index.html"
          ],
-         "published": "Sat, 01 Mar 2025 01:37:26 +0000",
-         "publishedParsed": "2025-03-01T01:37:26Z"
+         "published": "Wed, 26 Feb 2025 18:43:20 +0000",
+         "publishedParsed": "2025-02-26T18:43:20Z"
      },
      {
          "title": "Troubleshooting: A skill that never goes obsolete",
@@ -120,6 +130,16 @@
          "publishedParsed": "2025-02-25T12:03:04Z"
      },
      {
+         "title": "When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43214576\"\u003eComments\u003c/a\u003e",
+         "link": "https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/",
+         "links": [
+             "https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/"
+         ],
+         "published": "Sat, 01 Mar 2025 01:37:26 +0000",
+         "publishedParsed": "2025-03-01T01:37:26Z"
+     },
+     {
          "title": "Show HN: Torii – a framework agnostic authentication library for Rust",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43213090\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/cmackenzie1/torii-rs",
@@ -128,6 +148,16 @@
          ],
          "published": "Fri, 28 Feb 2025 23:16:16 +0000",
          "publishedParsed": "2025-02-28T23:16:16Z"
+     },
+     {
+         "title": "How long can you balance a pencil?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43217280\"\u003eComments\u003c/a\u003e",
+         "link": "http://thevirtuosi.blogspot.com/2010/06/how-long-can-you-balance-quantum-pencil.html",
+         "links": [
+             "http://thevirtuosi.blogspot.com/2010/06/how-long-can-you-balance-quantum-pencil.html"
+         ],
+         "published": "Sat, 01 Mar 2025 08:32:34 +0000",
+         "publishedParsed": "2025-03-01T08:32:34Z"
      },
      {
          "title": "Write to Escape Your Default Setting",
@@ -150,16 +180,6 @@
          "publishedParsed": "2025-02-28T23:59:35Z"
      },
      {
-         "title": "Merlion: A Machine Learning Framework for Time Series Intelligence",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43209064\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/salesforce/Merlion",
-         "links": [
-             "https://github.com/salesforce/Merlion"
-         ],
-         "published": "Fri, 28 Feb 2025 18:59:23 +0000",
-         "publishedParsed": "2025-02-28T18:59:23Z"
-     },
-     {
          "title": "AI is killing some companies, yet others are thriving – let's look at the data",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43206491\"\u003eComments\u003c/a\u003e",
          "link": "https://www.elenaverna.com/p/ai-is-killing-some-companies-yet",
@@ -180,14 +200,24 @@
          "publishedParsed": "2025-02-28T08:02:33Z"
      },
      {
-         "title": "The Dino, the Llama, and the Whale (Deno and Jupyter for Local AI Experiments)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43204575\"\u003eComments\u003c/a\u003e",
-         "link": "https://deno.com/blog/the-dino-llama-and-whale",
+         "title": "Merlion: A Machine Learning Framework for Time Series Intelligence",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43209064\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/salesforce/Merlion",
          "links": [
-             "https://deno.com/blog/the-dino-llama-and-whale"
+             "https://github.com/salesforce/Merlion"
          ],
-         "published": "Fri, 28 Feb 2025 11:43:22 +0000",
-         "publishedParsed": "2025-02-28T11:43:22Z"
+         "published": "Fri, 28 Feb 2025 18:59:23 +0000",
+         "publishedParsed": "2025-02-28T18:59:23Z"
+     },
+     {
+         "title": "From Reform to Ruin in the USSR",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43179222\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cogitations.co/p/from-reform-to-ruin-in-the-ussr",
+         "links": [
+             "https://www.cogitations.co/p/from-reform-to-ruin-in-the-ussr"
+         ],
+         "published": "Wed, 26 Feb 2025 00:23:39 +0000",
+         "publishedParsed": "2025-02-26T00:23:39Z"
      },
      {
          "title": "Japanese Toshiba Typewriter Model BW-2112 (2020) [video]",
@@ -210,14 +240,24 @@
          "publishedParsed": "2025-02-28T04:26:52Z"
      },
      {
-         "title": "Show HN: Simplifying Backend Testing with qapir.io",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43179529\"\u003eComments\u003c/a\u003e",
-         "link": "https://qapir.io",
+         "title": "Calendar.txt",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43160226\"\u003eComments\u003c/a\u003e",
+         "link": "https://terokarvinen.com/2021/calendar-txt/",
          "links": [
-             "https://qapir.io"
+             "https://terokarvinen.com/2021/calendar-txt/"
          ],
-         "published": "Wed, 26 Feb 2025 01:10:04 +0000",
-         "publishedParsed": "2025-02-26T01:10:04Z"
+         "published": "Mon, 24 Feb 2025 14:51:53 +0000",
+         "publishedParsed": "2025-02-24T14:51:53Z"
+     },
+     {
+         "title": "The Dino, the Llama, and the Whale (Deno and Jupyter for Local AI Experiments)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43204575\"\u003eComments\u003c/a\u003e",
+         "link": "https://deno.com/blog/the-dino-llama-and-whale",
+         "links": [
+             "https://deno.com/blog/the-dino-llama-and-whale"
+         ],
+         "published": "Fri, 28 Feb 2025 11:43:22 +0000",
+         "publishedParsed": "2025-02-28T11:43:22Z"
      },
      {
          "title": "Violence alters human genes for generations, researchers discover",
@@ -230,17 +270,17 @@
          "publishedParsed": "2025-02-28T15:33:39Z"
      },
      {
-         "title": "Calendar.txt",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43160226\"\u003eComments\u003c/a\u003e",
-         "link": "https://terokarvinen.com/2021/calendar-txt/",
+         "title": "What do people see when they're tripping? Analyzing Erowid's trip reports",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43171007\"\u003eComments\u003c/a\u003e",
+         "link": "https://themicrodose.substack.com/p/what-do-people-see-when-theyre-tripping",
          "links": [
-             "https://terokarvinen.com/2021/calendar-txt/"
+             "https://themicrodose.substack.com/p/what-do-people-see-when-theyre-tripping"
          ],
-         "published": "Mon, 24 Feb 2025 14:51:53 +0000",
-         "publishedParsed": "2025-02-24T14:51:53Z"
+         "published": "Tue, 25 Feb 2025 12:27:30 +0000",
+         "publishedParsed": "2025-02-25T12:27:30Z"
      },
      {
-         "title": "Failure Theory for Materials Science and Engineering – Richard M. Christensen",
+         "title": "Failure Theory for Materials Science and Engineering",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43169694\"\u003eComments\u003c/a\u003e",
          "link": "https://www.failurecriteria.com/",
          "links": [
@@ -248,45 +288,5 @@
          ],
          "published": "Tue, 25 Feb 2025 09:04:22 +0000",
          "publishedParsed": "2025-02-25T09:04:22Z"
-     },
-     {
-         "title": "Stone Soup AI (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43169054\"\u003eComments\u003c/a\u003e",
-         "link": "https://simons.berkeley.edu/news/stone-soup-ai",
-         "links": [
-             "https://simons.berkeley.edu/news/stone-soup-ai"
-         ],
-         "published": "Tue, 25 Feb 2025 07:02:58 +0000",
-         "publishedParsed": "2025-02-25T07:02:58Z"
-     },
-     {
-         "title": "A Path to Scalable Quantum Computers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43171071\"\u003eComments\u003c/a\u003e",
-         "link": "https://physics.aps.org/articles/v18/40",
-         "links": [
-             "https://physics.aps.org/articles/v18/40"
-         ],
-         "published": "Tue, 25 Feb 2025 12:34:25 +0000",
-         "publishedParsed": "2025-02-25T12:34:25Z"
-     },
-     {
-         "title": "Netboot Windows 11 with iSCSI and iPXE",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43204604\"\u003eComments\u003c/a\u003e",
-         "link": "https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/",
-         "links": [
-             "https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/"
-         ],
-         "published": "Fri, 28 Feb 2025 11:47:52 +0000",
-         "publishedParsed": "2025-02-28T11:47:52Z"
-     },
-     {
-         "title": "Hot take: GPT 4.5 is a nothing burger",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43203543\"\u003eComments\u003c/a\u003e",
-         "link": "https://garymarcus.substack.com/p/hot-take-gpt-45-is-a-nothing-burger",
-         "links": [
-             "https://garymarcus.substack.com/p/hot-take-gpt-45-is-a-nothing-burger"
-         ],
-         "published": "Fri, 28 Feb 2025 09:24:13 +0000",
-         "publishedParsed": "2025-02-28T09:24:13Z"
      }
  ]
