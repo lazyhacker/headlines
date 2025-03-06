@@ -206,7 +206,7 @@
     })
     .then(newsData => {
         // Sort the newsData by the 'published' date in descending order
-        newsData.sort((a, b) => new Date(b.published) - new Date(a.published));
+        //newsData.sort((a, b) => new Date(b.published) - new Date(a.published));
 
         // Remove duplicates based on the 'title' property
         const uniqueHeadlines = Array.from(new Map(newsData.map(item => [item.title, item])).values());
