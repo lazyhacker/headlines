@@ -10,6 +10,16 @@
          "publishedParsed": "2025-03-06T17:39:39Z"
      },
      {
+         "title": "Differentiable Logic Cellular Automata",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43286161\"\u003eComments\u003c/a\u003e",
+         "link": "https://google-research.github.io/self-organising-systems/difflogic-ca/?hn",
+         "links": [
+             "https://google-research.github.io/self-organising-systems/difflogic-ca/?hn"
+         ],
+         "published": "Thu, 06 Mar 2025 23:43:37 +0000",
+         "publishedParsed": "2025-03-06T23:43:37Z"
+     },
+     {
          "title": "How to distrust a CA without any certificate errors",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43285671\"\u003eComments\u003c/a\u003e",
          "link": "https://dadrian.io/blog/posts/sct-not-after/",
@@ -30,6 +40,16 @@
          "publishedParsed": "2025-03-06T17:48:37Z"
      },
      {
+         "title": "Why I find diffusion models interesting?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43285726\"\u003eComments\u003c/a\u003e",
+         "link": "https://rnikhil.com/2025/03/06/diffusion-models-eval",
+         "links": [
+             "https://rnikhil.com/2025/03/06/diffusion-models-eval"
+         ],
+         "published": "Thu, 06 Mar 2025 22:35:00 +0000",
+         "publishedParsed": "2025-03-06T22:35:00Z"
+     },
+     {
          "title": "Show HN: Rust Vector and Quaternion Lib",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43284811\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/David-OConnor/lin-alg",
@@ -40,16 +60,6 @@
          "publishedParsed": "2025-03-06T20:32:47Z"
      },
      {
-         "title": "Differentiable Logic Cellular Automata",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43286161\"\u003eComments\u003c/a\u003e",
-         "link": "https://google-research.github.io/self-organising-systems/difflogic-ca/?hn",
-         "links": [
-             "https://google-research.github.io/self-organising-systems/difflogic-ca/?hn"
-         ],
-         "published": "Thu, 06 Mar 2025 23:43:37 +0000",
-         "publishedParsed": "2025-03-06T23:43:37Z"
-     },
-     {
          "title": "Using GRPO to Beat o1, o3-mini and R1 at \"Temporal Clue\"",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43284420\"\u003eComments\u003c/a\u003e",
          "link": "https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue",
@@ -58,26 +68,6 @@
          ],
          "published": "Thu, 06 Mar 2025 19:51:55 +0000",
          "publishedParsed": "2025-03-06T19:51:55Z"
-     },
-     {
-         "title": "Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43284227\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/NishantJoshi00/shelgon",
-         "links": [
-             "https://github.com/NishantJoshi00/shelgon"
-         ],
-         "published": "Thu, 06 Mar 2025 19:32:12 +0000",
-         "publishedParsed": "2025-03-06T19:32:12Z"
-     },
-     {
-         "title": "Rayhunter – Rust tool to detect cell site simulators on an orbic mobile hotspot",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43283917\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/EFForg/rayhunter",
-         "links": [
-             "https://github.com/EFForg/rayhunter"
-         ],
-         "published": "Thu, 06 Mar 2025 19:04:12 +0000",
-         "publishedParsed": "2025-03-06T19:04:12Z"
      },
      {
          "title": "Anime fans stumbled upon a mathematical proof",
@@ -100,14 +90,64 @@
          "publishedParsed": "2025-03-06T18:34:11Z"
      },
      {
-         "title": "Why I find diffusion models interesting?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43285726\"\u003eComments\u003c/a\u003e",
-         "link": "https://rnikhil.com/2025/03/06/diffusion-models-eval",
+         "title": "Rayhunter – Rust tool to detect cell site simulators on an orbic mobile hotspot",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43283917\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/EFForg/rayhunter",
          "links": [
-             "https://rnikhil.com/2025/03/06/diffusion-models-eval"
+             "https://github.com/EFForg/rayhunter"
          ],
-         "published": "Thu, 06 Mar 2025 22:35:00 +0000",
-         "publishedParsed": "2025-03-06T22:35:00Z"
+         "published": "Thu, 06 Mar 2025 19:04:12 +0000",
+         "publishedParsed": "2025-03-06T19:04:12Z"
+     },
+     {
+         "title": "Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43284227\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/NishantJoshi00/shelgon",
+         "links": [
+             "https://github.com/NishantJoshi00/shelgon"
+         ],
+         "published": "Thu, 06 Mar 2025 19:32:12 +0000",
+         "publishedParsed": "2025-03-06T19:32:12Z"
+     },
+     {
+         "title": "Words for the Heart: A treasury of emotions from classical India",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43249766\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bostonreview.net/articles/theres-a-word-for-that/",
+         "links": [
+             "https://www.bostonreview.net/articles/theres-a-word-for-that/"
+         ],
+         "published": "Tue, 04 Mar 2025 02:58:13 +0000",
+         "publishedParsed": "2025-03-04T02:58:13Z"
+     },
+     {
+         "title": "An equation of state for dense nuclear matter such as neutron stars",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43241122\"\u003eComments\u003c/a\u003e",
+         "link": "https://phys.org/news/2025-02-equation-state-dense-nuclear-neutron.html",
+         "links": [
+             "https://phys.org/news/2025-02-equation-state-dense-nuclear-neutron.html"
+         ],
+         "published": "Mon, 03 Mar 2025 12:29:45 +0000",
+         "publishedParsed": "2025-03-03T12:29:45Z"
+     },
+     {
+         "title": "InstantStyle: Free Lunch Towards Style-Preserving in Text-to-Image Generation",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43286091\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/instantX-research/InstantStyle",
+         "links": [
+             "https://github.com/instantX-research/InstantStyle"
+         ],
+         "published": "Thu, 06 Mar 2025 23:31:13 +0000",
+         "publishedParsed": "2025-03-06T23:31:13Z"
+     },
+     {
+         "title": "Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43280615\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/metacraft-labs/codetracer",
+         "links": [
+             "https://github.com/metacraft-labs/codetracer"
+         ],
+         "published": "Thu, 06 Mar 2025 14:30:10 +0000",
+         "publishedParsed": "2025-03-06T14:30:10Z"
      },
      {
          "title": "Koko (YC W22) Is Hiring a CTO / Lead Engineer",
@@ -130,26 +170,6 @@
          "publishedParsed": "2025-03-06T18:20:48Z"
      },
      {
-         "title": "Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43280615\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/metacraft-labs/codetracer",
-         "links": [
-             "https://github.com/metacraft-labs/codetracer"
-         ],
-         "published": "Thu, 06 Mar 2025 14:30:10 +0000",
-         "publishedParsed": "2025-03-06T14:30:10Z"
-     },
-     {
-         "title": "Warewulf is a stateless and diskless container OS provisioning system",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43283669\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/warewulf/warewulf",
-         "links": [
-             "https://github.com/warewulf/warewulf"
-         ],
-         "published": "Thu, 06 Mar 2025 18:45:47 +0000",
-         "publishedParsed": "2025-03-06T18:45:47Z"
-     },
-     {
          "title": "A brief meditation on formal systems and lying goblins",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43285485\"\u003eComments\u003c/a\u003e",
          "link": "https://the-nerve-blog.ghost.io/a-brief-meditation-on-formal-systems-and-lying-goblins/",
@@ -158,16 +178,6 @@
          ],
          "published": "Thu, 06 Mar 2025 22:00:38 +0000",
          "publishedParsed": "2025-03-06T22:00:38Z"
-     },
-     {
-         "title": "InstantStyle: Free Lunch Towards Style-Preserving in Text-to-Image Generation",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43286091\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/instantX-research/InstantStyle",
-         "links": [
-             "https://github.com/instantX-research/InstantStyle"
-         ],
-         "published": "Thu, 06 Mar 2025 23:31:13 +0000",
-         "publishedParsed": "2025-03-06T23:31:13Z"
      },
      {
          "title": "How the Index Card Cataloged the World (2017)",
@@ -180,14 +190,14 @@
          "publishedParsed": "2025-03-06T19:38:57Z"
      },
      {
-         "title": "Bcvi – run vi over a 'back-channel' (2010)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43283814\"\u003eComments\u003c/a\u003e",
-         "link": "https://sshmenu.sourceforge.net/articles/bcvi/",
+         "title": "Warewulf is a stateless and diskless container OS provisioning system",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43283669\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/warewulf/warewulf",
          "links": [
-             "https://sshmenu.sourceforge.net/articles/bcvi/"
+             "https://github.com/warewulf/warewulf"
          ],
-         "published": "Thu, 06 Mar 2025 18:55:47 +0000",
-         "publishedParsed": "2025-03-06T18:55:47Z"
+         "published": "Thu, 06 Mar 2025 18:45:47 +0000",
+         "publishedParsed": "2025-03-06T18:45:47Z"
      },
      {
          "title": "Launch HN: Cenote (YC W25) – Back Office Automation for Medical Clinics",
@@ -200,6 +210,16 @@
          "publishedParsed": "2025-03-06T14:47:35Z"
      },
      {
+         "title": "Bcvi – run vi over a 'back-channel' (2010)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43283814\"\u003eComments\u003c/a\u003e",
+         "link": "https://sshmenu.sourceforge.net/articles/bcvi/",
+         "links": [
+             "https://sshmenu.sourceforge.net/articles/bcvi/"
+         ],
+         "published": "Thu, 06 Mar 2025 18:55:47 +0000",
+         "publishedParsed": "2025-03-06T18:55:47Z"
+     },
+     {
          "title": "Putting Bounties on My Goals",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43253898\"\u003eComments\u003c/a\u003e",
          "link": "https://www.krayorn.com/posts/bounties-on-goals/",
@@ -208,46 +228,6 @@
          ],
          "published": "Tue, 04 Mar 2025 12:55:29 +0000",
          "publishedParsed": "2025-03-04T12:55:29Z"
-     },
-     {
-         "title": "More thoughts on the 1670 modem's weird noises",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43281893\"\u003eComments\u003c/a\u003e",
-         "link": "https://rachelbythebay.com/w/2025/03/05/1670/",
-         "links": [
-             "https://rachelbythebay.com/w/2025/03/05/1670/"
-         ],
-         "published": "Thu, 06 Mar 2025 16:18:11 +0000",
-         "publishedParsed": "2025-03-06T16:18:11Z"
-     },
-     {
-         "title": "Multicomponent Glass Fertilizer for Nutrient Delivery in Precision Agriculture",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43241835\"\u003eComments\u003c/a\u003e",
-         "link": "https://pubs.acs.org/doi/10.1021/acsagscitech.4c00243",
-         "links": [
-             "https://pubs.acs.org/doi/10.1021/acsagscitech.4c00243"
-         ],
-         "published": "Mon, 03 Mar 2025 14:05:46 +0000",
-         "publishedParsed": "2025-03-03T14:05:46Z"
-     },
-     {
-         "title": "Ask HN: How did internet discover my subdomain?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43285725\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=43285725",
-         "links": [
-             "https://news.ycombinator.com/item?id=43285725"
-         ],
-         "published": "Thu, 06 Mar 2025 22:34:54 +0000",
-         "publishedParsed": "2025-03-06T22:34:54Z"
-     },
-     {
-         "title": "A JPEG Image Compression Service Using Part Homomorphic Encryption",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43240013\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/qianfei11/ShadowyCompression",
-         "links": [
-             "https://github.com/qianfei11/ShadowyCompression"
-         ],
-         "published": "Mon, 03 Mar 2025 09:35:29 +0000",
-         "publishedParsed": "2025-03-03T09:35:29Z"
      },
      {
          "title": "Reintroductions of beavers into the wild in several parts of England",
@@ -260,6 +240,16 @@
          "publishedParsed": "2025-03-03T13:39:04Z"
      },
      {
+         "title": "More thoughts on the 1670 modem's weird noises",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43281893\"\u003eComments\u003c/a\u003e",
+         "link": "https://rachelbythebay.com/w/2025/03/05/1670/",
+         "links": [
+             "https://rachelbythebay.com/w/2025/03/05/1670/"
+         ],
+         "published": "Thu, 06 Mar 2025 16:18:11 +0000",
+         "publishedParsed": "2025-03-06T16:18:11Z"
+     },
+     {
          "title": "Palm phytoliths in subarctic Canada imply ice-free winters 48M years ago",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43236254\"\u003eComments\u003c/a\u003e",
          "link": "https://academic.oup.com/aob/advance-article/doi/10.1093/aob/mcaf021/8006661",
@@ -268,6 +258,16 @@
          ],
          "published": "Sun, 02 Mar 2025 23:07:17 +0000",
          "publishedParsed": "2025-03-02T23:07:17Z"
+     },
+     {
+         "title": "A JPEG Image Compression Service Using Part Homomorphic Encryption",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43240013\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/qianfei11/ShadowyCompression",
+         "links": [
+             "https://github.com/qianfei11/ShadowyCompression"
+         ],
+         "published": "Mon, 03 Mar 2025 09:35:29 +0000",
+         "publishedParsed": "2025-03-03T09:35:29Z"
      },
      {
          "title": "Revolt: Open-Source Alternative to Discord",
@@ -280,13 +280,23 @@
          "publishedParsed": "2025-03-06T08:47:32Z"
      },
      {
-         "title": "NASA Shuts Off Voyager Science Instrument",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43282594\"\u003eComments\u003c/a\u003e",
-         "link": "https://gizmodo.com/nasa-shuts-off-voyager-science-instrument-more-power-cuts-ahead-to-keep-both-probes-going-2000572202",
+         "title": "Multicomponent Glass Fertilizer for Nutrient Delivery in Precision Agriculture",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43241835\"\u003eComments\u003c/a\u003e",
+         "link": "https://pubs.acs.org/doi/10.1021/acsagscitech.4c00243",
          "links": [
-             "https://gizmodo.com/nasa-shuts-off-voyager-science-instrument-more-power-cuts-ahead-to-keep-both-probes-going-2000572202"
+             "https://pubs.acs.org/doi/10.1021/acsagscitech.4c00243"
          ],
-         "published": "Thu, 06 Mar 2025 17:14:39 +0000",
-         "publishedParsed": "2025-03-06T17:14:39Z"
+         "published": "Mon, 03 Mar 2025 14:05:46 +0000",
+         "publishedParsed": "2025-03-03T14:05:46Z"
+     },
+     {
+         "title": "QwQ-32B: Embracing the Power of Reinforcement Learning",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43270843\"\u003eComments\u003c/a\u003e",
+         "link": "https://qwenlm.github.io/blog/qwq-32b/",
+         "links": [
+             "https://qwenlm.github.io/blog/qwq-32b/"
+         ],
+         "published": "Wed, 05 Mar 2025 19:09:39 +0000",
+         "publishedParsed": "2025-03-05T19:09:39Z"
      }
  ]
