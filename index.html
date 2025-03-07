@@ -218,7 +218,9 @@
             headlineElement.className = "headline";
 
             // Create the headline card structure
-            const sanitizedTitle = headline.title.replace(/'/g, "_"); // Sanitize the title
+            //const sanitizedTitle = headline.title.replace(/'/g, "_"); // Sanitize the title
+            const sanitizedTitle = headline.title.replace(/['"]/g, "_"); // Sanitize the title
+
             headlineElement.innerHTML = `
                 <div class="headline-title">
                     <a href="${headline.link}" target="_blank">${headline.title}</a>
