@@ -1,5 +1,25 @@
 [
      {
+         "title": "This blog post passed unit tests",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307933\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.sealambda.com/blog/this-post-passed-unit-tests/",
+         "links": [
+             "https://www.sealambda.com/blog/this-post-passed-unit-tests/"
+         ],
+         "published": "Sun, 09 Mar 2025 10:55:39 +0000",
+         "publishedParsed": "2025-03-09T10:55:39Z"
+     },
+     {
+         "title": "Understanding Memory Management, Part 2: C++ and RAII",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307659\"\u003eComments\u003c/a\u003e",
+         "link": "https://educatedguesswork.org/posts/memory-management-2/",
+         "links": [
+             "https://educatedguesswork.org/posts/memory-management-2/"
+         ],
+         "published": "Sun, 09 Mar 2025 09:47:28 +0000",
+         "publishedParsed": "2025-03-09T09:47:28Z"
+     },
+     {
          "title": "My 16-month theanine self-experiment",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43305803\"\u003eComments\u003c/a\u003e",
          "link": "https://dynomight.net/theanine/",
@@ -20,26 +40,6 @@
          "publishedParsed": "2025-03-09T03:30:52Z"
      },
      {
-         "title": "I've been using Claude Code for a couple of days",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307809\"\u003eComments\u003c/a\u003e",
-         "link": "https://twitter.com/Steve_Yegge/status/1898674257808515242",
-         "links": [
-             "https://twitter.com/Steve_Yegge/status/1898674257808515242"
-         ],
-         "published": "Sun, 09 Mar 2025 10:20:50 +0000",
-         "publishedParsed": "2025-03-09T10:20:50Z"
-     },
-     {
-         "title": "Goravel: A Go framework inspired by Laravel",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43306797\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.goravel.dev",
-         "links": [
-             "https://www.goravel.dev"
-         ],
-         "published": "Sun, 09 Mar 2025 06:35:06 +0000",
-         "publishedParsed": "2025-03-09T06:35:06Z"
-     },
-     {
          "title": "AI tools are spotting errors in research papers",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43295692\"\u003eComments\u003c/a\u003e",
          "link": "https://www.nature.com/articles/d41586-025-00648-5",
@@ -48,16 +48,6 @@
          ],
          "published": "Fri, 07 Mar 2025 22:54:58 +0000",
          "publishedParsed": "2025-03-07T22:54:58Z"
-     },
-     {
-         "title": "Understanding Memory Management, Part 2: C++ and RAII",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307659\"\u003eComments\u003c/a\u003e",
-         "link": "https://educatedguesswork.org/posts/memory-management-2/",
-         "links": [
-             "https://educatedguesswork.org/posts/memory-management-2/"
-         ],
-         "published": "Sun, 09 Mar 2025 09:47:28 +0000",
-         "publishedParsed": "2025-03-09T09:47:28Z"
      },
      {
          "title": "Building an open-source Wi-Fi Mac layer for the ESP32",
@@ -70,16 +60,6 @@
          "publishedParsed": "2025-03-09T00:32:56Z"
      },
      {
-         "title": "Presenterm: Markdown Slideshows in the Terminal",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43303752\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/mfontanini/presenterm",
-         "links": [
-             "https://github.com/mfontanini/presenterm"
-         ],
-         "published": "Sat, 08 Mar 2025 21:36:53 +0000",
-         "publishedParsed": "2025-03-08T21:36:53Z"
-     },
-     {
          "title": "Show HN: I built an app to get daily wisdom from Mr. Worldwide",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43304785\"\u003eComments\u003c/a\u003e",
          "link": "https://daale.club/",
@@ -90,64 +70,44 @@
          "publishedParsed": "2025-03-09T00:04:47Z"
      },
      {
-         "title": "Where are all the self-directed learners?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307572\"\u003eComments\u003c/a\u003e",
-         "link": "https://saigaddam.medium.com/where-are-all-the-self-directed-learners-ccfb2421e52c",
+         "title": "Helpcare AI (YC F24) Fullstack Engineer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43308332\"\u003eComments\u003c/a\u003e",
+         "link": "https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview",
          "links": [
-             "https://saigaddam.medium.com/where-are-all-the-self-directed-learners-ccfb2421e52c"
+             "https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview"
          ],
-         "published": "Sun, 09 Mar 2025 09:25:28 +0000",
-         "publishedParsed": "2025-03-09T09:25:28Z"
+         "published": "Sun, 09 Mar 2025 12:01:11 +0000",
+         "publishedParsed": "2025-03-09T12:01:11Z"
      },
      {
-         "title": "Stem cell therapy trial reverses \"irreversible\" damage to cornea",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43306734\"\u003eComments\u003c/a\u003e",
-         "link": "https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/",
+         "title": "Presenterm: Markdown Slideshows in the Terminal",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43303752\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/mfontanini/presenterm",
          "links": [
-             "https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/"
+             "https://github.com/mfontanini/presenterm"
          ],
-         "published": "Sun, 09 Mar 2025 06:23:02 +0000",
-         "publishedParsed": "2025-03-09T06:23:02Z"
+         "published": "Sat, 08 Mar 2025 21:36:53 +0000",
+         "publishedParsed": "2025-03-08T21:36:53Z"
      },
      {
-         "title": "Constantly Divisionless Random Numbers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43270781\"\u003eComments\u003c/a\u003e",
-         "link": "https://dotat.at/@/2025-03-05-lemire-inline.html",
+         "title": "Goravel: A Go framework inspired by Laravel",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43306797\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.goravel.dev",
          "links": [
-             "https://dotat.at/@/2025-03-05-lemire-inline.html"
+             "https://www.goravel.dev"
          ],
-         "published": "Wed, 05 Mar 2025 19:05:09 +0000",
-         "publishedParsed": "2025-03-05T19:05:09Z"
+         "published": "Sun, 09 Mar 2025 06:35:06 +0000",
+         "publishedParsed": "2025-03-09T06:35:06Z"
      },
      {
-         "title": "Volkswagen reintroducing physical controls for vital functions",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43298271\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.autocar.co.uk/car-news/new-cars/volkswagen-reintroducing-physical-controls-vital-functions",
+         "title": "Why Go's Error Handling Is Awesome",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43308033\"\u003eComments\u003c/a\u003e",
+         "link": "https://rauljordan.com/why-go-error-handling-is-awesome/",
          "links": [
-             "https://www.autocar.co.uk/car-news/new-cars/volkswagen-reintroducing-physical-controls-vital-functions"
+             "https://rauljordan.com/why-go-error-handling-is-awesome/"
          ],
-         "published": "Sat, 08 Mar 2025 07:25:49 +0000",
-         "publishedParsed": "2025-03-08T07:25:49Z"
-     },
-     {
-         "title": "Yhangry (YC W22) Consumer Marketplace (London Based) Is Hiring",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43306908\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer",
-         "links": [
-             "https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer"
-         ],
-         "published": "Sun, 09 Mar 2025 07:00:03 +0000",
-         "publishedParsed": "2025-03-09T07:00:03Z"
-     },
-     {
-         "title": "Online Embedded Rust Simulator",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43305973\"\u003eComments\u003c/a\u003e",
-         "link": "https://wokwi.com/rust",
-         "links": [
-             "https://wokwi.com/rust"
-         ],
-         "published": "Sun, 09 Mar 2025 03:40:51 +0000",
-         "publishedParsed": "2025-03-09T03:40:51Z"
+         "published": "Sun, 09 Mar 2025 11:15:12 +0000",
+         "publishedParsed": "2025-03-09T11:15:12Z"
      },
      {
          "title": "LFortran Compiles Prima",
@@ -160,14 +120,64 @@
          "publishedParsed": "2025-03-06T15:00:23Z"
      },
      {
-         "title": "Roald Dahl on the death of his daughter (2015)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43266129\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.telegraph.co.uk/books/authors/roald-dahls-darkest-hour/",
+         "title": "Volkswagen reintroducing physical controls for vital functions",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43298271\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.autocar.co.uk/car-news/new-cars/volkswagen-reintroducing-physical-controls-vital-functions",
          "links": [
-             "https://www.telegraph.co.uk/books/authors/roald-dahls-darkest-hour/"
+             "https://www.autocar.co.uk/car-news/new-cars/volkswagen-reintroducing-physical-controls-vital-functions"
          ],
-         "published": "Wed, 05 Mar 2025 13:29:45 +0000",
-         "publishedParsed": "2025-03-05T13:29:45Z"
+         "published": "Sat, 08 Mar 2025 07:25:49 +0000",
+         "publishedParsed": "2025-03-08T07:25:49Z"
+     },
+     {
+         "title": "Constantly Divisionless Random Numbers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43270781\"\u003eComments\u003c/a\u003e",
+         "link": "https://dotat.at/@/2025-03-05-lemire-inline.html",
+         "links": [
+             "https://dotat.at/@/2025-03-05-lemire-inline.html"
+         ],
+         "published": "Wed, 05 Mar 2025 19:05:09 +0000",
+         "publishedParsed": "2025-03-05T19:05:09Z"
+     },
+     {
+         "title": "Online Embedded Rust Simulator",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43305973\"\u003eComments\u003c/a\u003e",
+         "link": "https://wokwi.com/rust",
+         "links": [
+             "https://wokwi.com/rust"
+         ],
+         "published": "Sun, 09 Mar 2025 03:40:51 +0000",
+         "publishedParsed": "2025-03-09T03:40:51Z"
+     },
+     {
+         "title": "Why Layoffs Don't Work",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307755\"\u003eComments\u003c/a\u003e",
+         "link": "https://thehustle.co/originals/why-layoffs-dont-work",
+         "links": [
+             "https://thehustle.co/originals/why-layoffs-dont-work"
+         ],
+         "published": "Sun, 09 Mar 2025 10:07:01 +0000",
+         "publishedParsed": "2025-03-09T10:07:01Z"
+     },
+     {
+         "title": "Stem cell therapy trial reverses \"irreversible\" damage to cornea",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43306734\"\u003eComments\u003c/a\u003e",
+         "link": "https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/",
+         "links": [
+             "https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/"
+         ],
+         "published": "Sun, 09 Mar 2025 06:23:02 +0000",
+         "publishedParsed": "2025-03-09T06:23:02Z"
+     },
+     {
+         "title": "The DOJ still wants Google to sell off Chrome",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43299886\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/",
+         "links": [
+             "https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/"
+         ],
+         "published": "Sat, 08 Mar 2025 12:57:18 +0000",
+         "publishedParsed": "2025-03-08T12:57:18Z"
      },
      {
          "title": "SMBC Parts Ways with Hiveworks",
@@ -190,14 +200,14 @@
          "publishedParsed": "2025-03-09T03:32:04Z"
      },
      {
-         "title": "How much traffic can a pre-rendered Next.js site handle?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43277148\"\u003eComments\u003c/a\u003e",
-         "link": "https://martijnhols.nl/blog/how-much-traffic-can-a-pre-rendered-nextjs-site-handle",
+         "title": "How to know when it's time to go",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307941\"\u003eComments\u003c/a\u003e",
+         "link": "https://bitfieldconsulting.com/posts/when-its-time-to-go",
          "links": [
-             "https://martijnhols.nl/blog/how-much-traffic-can-a-pre-rendered-nextjs-site-handle"
+             "https://bitfieldconsulting.com/posts/when-its-time-to-go"
          ],
-         "published": "Thu, 06 Mar 2025 06:42:00 +0000",
-         "publishedParsed": "2025-03-06T06:42:00Z"
+         "published": "Sun, 09 Mar 2025 10:57:29 +0000",
+         "publishedParsed": "2025-03-09T10:57:29Z"
      },
      {
          "title": "\"Big 3\" science fiction magazines including Asimov's and Analog acquired",
@@ -210,14 +220,24 @@
          "publishedParsed": "2025-03-05T22:47:52Z"
      },
      {
-         "title": "Commodore 64 PETSCII Image (2022)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43276251\"\u003eComments\u003c/a\u003e",
-         "link": "https://medium.com/@8bitsten/commodore-64-petscii-image-f608225714ec",
+         "title": "Spark Texture Compression 1.2",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43284399\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ludicon.com/castano/blog/2025/03/spark-1-2/",
          "links": [
-             "https://medium.com/@8bitsten/commodore-64-petscii-image-f608225714ec"
+             "https://www.ludicon.com/castano/blog/2025/03/spark-1-2/"
          ],
-         "published": "Thu, 06 Mar 2025 03:58:04 +0000",
-         "publishedParsed": "2025-03-06T03:58:04Z"
+         "published": "Thu, 06 Mar 2025 19:49:42 +0000",
+         "publishedParsed": "2025-03-06T19:49:42Z"
+     },
+     {
+         "title": "Roald Dahl on the death of his daughter (2015)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43266129\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.telegraph.co.uk/books/authors/roald-dahls-darkest-hour/",
+         "links": [
+             "https://www.telegraph.co.uk/books/authors/roald-dahls-darkest-hour/"
+         ],
+         "published": "Wed, 05 Mar 2025 13:29:45 +0000",
+         "publishedParsed": "2025-03-05T13:29:45Z"
      },
      {
          "title": "Discovering errors in Donald Knuth's TAOCP",
@@ -230,34 +250,14 @@
          "publishedParsed": "2025-03-08T16:27:00Z"
      },
      {
-         "title": "Show HN: Testeranto – the AI driven test framework for TypeScript projects",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43286005\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.npmjs.com/package/testeranto",
+         "title": "Commodore 64 PETSCII Image (2022)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43276251\"\u003eComments\u003c/a\u003e",
+         "link": "https://medium.com/@8bitsten/commodore-64-petscii-image-f608225714ec",
          "links": [
-             "https://www.npmjs.com/package/testeranto"
+             "https://medium.com/@8bitsten/commodore-64-petscii-image-f608225714ec"
          ],
-         "published": "Thu, 06 Mar 2025 23:15:48 +0000",
-         "publishedParsed": "2025-03-06T23:15:48Z"
-     },
-     {
-         "title": "Magnesium Self-Experiments",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43306599\"\u003eComments\u003c/a\u003e",
-         "link": "https://gwern.net/nootropic/magnesium",
-         "links": [
-             "https://gwern.net/nootropic/magnesium"
-         ],
-         "published": "Sun, 09 Mar 2025 05:44:24 +0000",
-         "publishedParsed": "2025-03-09T05:44:24Z"
-     },
-     {
-         "title": "Deploy from local to production (self-hosted)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43302495\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/bypirob/airo",
-         "links": [
-             "https://github.com/bypirob/airo"
-         ],
-         "published": "Sat, 08 Mar 2025 18:54:17 +0000",
-         "publishedParsed": "2025-03-08T18:54:17Z"
+         "published": "Thu, 06 Mar 2025 03:58:04 +0000",
+         "publishedParsed": "2025-03-06T03:58:04Z"
      },
      {
          "title": "Discworld Rules",
@@ -270,23 +270,33 @@
          "publishedParsed": "2025-03-08T12:48:11Z"
      },
      {
-         "title": "Unseen photos of U2 and The Smiths released as Maxwell Hall Archive is unveiled",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43274498\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.salford.ac.uk/news/unseen-photos-of-u2-and-the-smiths-released-as-maxwell-hall-digital-archive-is-unveiled",
+         "title": "Deploy from local to production (self-hosted)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43302495\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/bypirob/airo",
          "links": [
-             "https://www.salford.ac.uk/news/unseen-photos-of-u2-and-the-smiths-released-as-maxwell-hall-digital-archive-is-unveiled"
+             "https://github.com/bypirob/airo"
          ],
-         "published": "Thu, 06 Mar 2025 00:03:58 +0000",
-         "publishedParsed": "2025-03-06T00:03:58Z"
+         "published": "Sat, 08 Mar 2025 18:54:17 +0000",
+         "publishedParsed": "2025-03-08T18:54:17Z"
      },
      {
-         "title": "Why Layoffs Don't Work",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307755\"\u003eComments\u003c/a\u003e",
-         "link": "https://thehustle.co/originals/why-layoffs-dont-work",
+         "title": "Gleam v1.9.0 Released",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307987\"\u003eComments\u003c/a\u003e",
+         "link": "https://gleam.run/news/hello-echo-hello-git/",
          "links": [
-             "https://thehustle.co/originals/why-layoffs-dont-work"
+             "https://gleam.run/news/hello-echo-hello-git/"
          ],
-         "published": "Sun, 09 Mar 2025 10:07:01 +0000",
-         "publishedParsed": "2025-03-09T10:07:01Z"
+         "published": "Sun, 09 Mar 2025 11:06:38 +0000",
+         "publishedParsed": "2025-03-09T11:06:38Z"
+     },
+     {
+         "title": "Reducing latency with esoteric Linux process flags",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43268713\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.recall.ai/post/reducing-latency-by-83-with-esoteric-linux-process-flags",
+         "links": [
+             "https://www.recall.ai/post/reducing-latency-by-83-with-esoteric-linux-process-flags"
+         ],
+         "published": "Wed, 05 Mar 2025 16:26:01 +0000",
+         "publishedParsed": "2025-03-05T16:26:01Z"
      }
  ]
