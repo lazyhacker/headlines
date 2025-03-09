@@ -1,23 +1,13 @@
 [
      {
-         "title": "This blog post passed unit tests",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307933\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.sealambda.com/blog/this-post-passed-unit-tests/",
+         "title": "Improving on std:count_if()'s auto-vectorization",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43302394\"\u003eComments\u003c/a\u003e",
+         "link": "https://nicula.xyz/2025/03/08/improving-stdcountif-vectorization.html",
          "links": [
-             "https://www.sealambda.com/blog/this-post-passed-unit-tests/"
+             "https://nicula.xyz/2025/03/08/improving-stdcountif-vectorization.html"
          ],
-         "published": "Sun, 09 Mar 2025 10:55:39 +0000",
-         "publishedParsed": "2025-03-09T10:55:39Z"
-     },
-     {
-         "title": "Understanding Memory Management, Part 2: C++ and RAII",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307659\"\u003eComments\u003c/a\u003e",
-         "link": "https://educatedguesswork.org/posts/memory-management-2/",
-         "links": [
-             "https://educatedguesswork.org/posts/memory-management-2/"
-         ],
-         "published": "Sun, 09 Mar 2025 09:47:28 +0000",
-         "publishedParsed": "2025-03-09T09:47:28Z"
+         "published": "Sat, 08 Mar 2025 18:44:19 +0000",
+         "publishedParsed": "2025-03-08T18:44:19Z"
      },
      {
          "title": "My 16-month theanine self-experiment",
@@ -30,14 +20,34 @@
          "publishedParsed": "2025-03-09T03:08:12Z"
      },
      {
-         "title": "Posthog/.cursorrules",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43305919\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/PostHog/posthog/blob/master/.cursorrules",
+         "title": "16-Bit to 1-Bit: Visual KV Cache Quantization for Efficient Multimodal LLMs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43268477\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2502.14882",
          "links": [
-             "https://github.com/PostHog/posthog/blob/master/.cursorrules"
+             "https://arxiv.org/abs/2502.14882"
          ],
-         "published": "Sun, 09 Mar 2025 03:30:52 +0000",
-         "publishedParsed": "2025-03-09T03:30:52Z"
+         "published": "Wed, 05 Mar 2025 16:09:26 +0000",
+         "publishedParsed": "2025-03-05T16:09:26Z"
+     },
+     {
+         "title": "Goravel: A Go framework inspired by Laravel",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43306797\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.goravel.dev",
+         "links": [
+             "https://www.goravel.dev"
+         ],
+         "published": "Sun, 09 Mar 2025 06:35:06 +0000",
+         "publishedParsed": "2025-03-09T06:35:06Z"
+     },
+     {
+         "title": "Gleam v1.9.0 Released",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307987\"\u003eComments\u003c/a\u003e",
+         "link": "https://gleam.run/news/hello-echo-hello-git/",
+         "links": [
+             "https://gleam.run/news/hello-echo-hello-git/"
+         ],
+         "published": "Sun, 09 Mar 2025 11:06:38 +0000",
+         "publishedParsed": "2025-03-09T11:06:38Z"
      },
      {
          "title": "AI tools are spotting errors in research papers",
@@ -50,14 +60,24 @@
          "publishedParsed": "2025-03-07T22:54:58Z"
      },
      {
-         "title": "Building an open-source Wi-Fi Mac layer for the ESP32",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43304962\"\u003eComments\u003c/a\u003e",
-         "link": "https://esp32-open-mac.be",
+         "title": "Why Layoffs Don't Work",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307755\"\u003eComments\u003c/a\u003e",
+         "link": "https://thehustle.co/originals/why-layoffs-dont-work",
          "links": [
-             "https://esp32-open-mac.be"
+             "https://thehustle.co/originals/why-layoffs-dont-work"
          ],
-         "published": "Sun, 09 Mar 2025 00:32:56 +0000",
-         "publishedParsed": "2025-03-09T00:32:56Z"
+         "published": "Sun, 09 Mar 2025 10:07:01 +0000",
+         "publishedParsed": "2025-03-09T10:07:01Z"
+     },
+     {
+         "title": "Presenterm: Markdown Slideshows in the Terminal",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43303752\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/mfontanini/presenterm",
+         "links": [
+             "https://github.com/mfontanini/presenterm"
+         ],
+         "published": "Sat, 08 Mar 2025 21:36:53 +0000",
+         "publishedParsed": "2025-03-08T21:36:53Z"
      },
      {
          "title": "Show HN: I built an app to get daily wisdom from Mr. Worldwide",
@@ -80,34 +100,14 @@
          "publishedParsed": "2025-03-09T12:01:11Z"
      },
      {
-         "title": "Presenterm: Markdown Slideshows in the Terminal",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43303752\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/mfontanini/presenterm",
+         "title": "Online Embedded Rust Simulator",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43305973\"\u003eComments\u003c/a\u003e",
+         "link": "https://wokwi.com/rust",
          "links": [
-             "https://github.com/mfontanini/presenterm"
+             "https://wokwi.com/rust"
          ],
-         "published": "Sat, 08 Mar 2025 21:36:53 +0000",
-         "publishedParsed": "2025-03-08T21:36:53Z"
-     },
-     {
-         "title": "Goravel: A Go framework inspired by Laravel",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43306797\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.goravel.dev",
-         "links": [
-             "https://www.goravel.dev"
-         ],
-         "published": "Sun, 09 Mar 2025 06:35:06 +0000",
-         "publishedParsed": "2025-03-09T06:35:06Z"
-     },
-     {
-         "title": "Why Go's Error Handling Is Awesome",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43308033\"\u003eComments\u003c/a\u003e",
-         "link": "https://rauljordan.com/why-go-error-handling-is-awesome/",
-         "links": [
-             "https://rauljordan.com/why-go-error-handling-is-awesome/"
-         ],
-         "published": "Sun, 09 Mar 2025 11:15:12 +0000",
-         "publishedParsed": "2025-03-09T11:15:12Z"
+         "published": "Sun, 09 Mar 2025 03:40:51 +0000",
+         "publishedParsed": "2025-03-09T03:40:51Z"
      },
      {
          "title": "LFortran Compiles Prima",
@@ -120,74 +120,34 @@
          "publishedParsed": "2025-03-06T15:00:23Z"
      },
      {
-         "title": "Volkswagen reintroducing physical controls for vital functions",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43298271\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.autocar.co.uk/car-news/new-cars/volkswagen-reintroducing-physical-controls-vital-functions",
+         "title": "Building an open-source Wi-Fi Mac layer for the ESP32",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43304962\"\u003eComments\u003c/a\u003e",
+         "link": "https://esp32-open-mac.be",
          "links": [
-             "https://www.autocar.co.uk/car-news/new-cars/volkswagen-reintroducing-physical-controls-vital-functions"
+             "https://esp32-open-mac.be"
          ],
-         "published": "Sat, 08 Mar 2025 07:25:49 +0000",
-         "publishedParsed": "2025-03-08T07:25:49Z"
+         "published": "Sun, 09 Mar 2025 00:32:56 +0000",
+         "publishedParsed": "2025-03-09T00:32:56Z"
      },
      {
-         "title": "Constantly Divisionless Random Numbers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43270781\"\u003eComments\u003c/a\u003e",
-         "link": "https://dotat.at/@/2025-03-05-lemire-inline.html",
+         "title": "Where are all the self-directed learners?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307572\"\u003eComments\u003c/a\u003e",
+         "link": "https://saigaddam.medium.com/where-are-all-the-self-directed-learners-ccfb2421e52c",
          "links": [
-             "https://dotat.at/@/2025-03-05-lemire-inline.html"
+             "https://saigaddam.medium.com/where-are-all-the-self-directed-learners-ccfb2421e52c"
          ],
-         "published": "Wed, 05 Mar 2025 19:05:09 +0000",
-         "publishedParsed": "2025-03-05T19:05:09Z"
+         "published": "Sun, 09 Mar 2025 09:25:28 +0000",
+         "publishedParsed": "2025-03-09T09:25:28Z"
      },
      {
-         "title": "Online Embedded Rust Simulator",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43305973\"\u003eComments\u003c/a\u003e",
-         "link": "https://wokwi.com/rust",
+         "title": "Show HN: C++ AWS MSK IAM Auth Implementation – Goodbye Kafka Passwords",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43284293\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/timeplus-io/proton/blob/develop/src/IO/Kafka/AwsMskIamSigner.cpp",
          "links": [
-             "https://wokwi.com/rust"
+             "https://github.com/timeplus-io/proton/blob/develop/src/IO/Kafka/AwsMskIamSigner.cpp"
          ],
-         "published": "Sun, 09 Mar 2025 03:40:51 +0000",
-         "publishedParsed": "2025-03-09T03:40:51Z"
-     },
-     {
-         "title": "Why Layoffs Don't Work",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307755\"\u003eComments\u003c/a\u003e",
-         "link": "https://thehustle.co/originals/why-layoffs-dont-work",
-         "links": [
-             "https://thehustle.co/originals/why-layoffs-dont-work"
-         ],
-         "published": "Sun, 09 Mar 2025 10:07:01 +0000",
-         "publishedParsed": "2025-03-09T10:07:01Z"
-     },
-     {
-         "title": "Stem cell therapy trial reverses \"irreversible\" damage to cornea",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43306734\"\u003eComments\u003c/a\u003e",
-         "link": "https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/",
-         "links": [
-             "https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/"
-         ],
-         "published": "Sun, 09 Mar 2025 06:23:02 +0000",
-         "publishedParsed": "2025-03-09T06:23:02Z"
-     },
-     {
-         "title": "The DOJ still wants Google to sell off Chrome",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43299886\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/",
-         "links": [
-             "https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/"
-         ],
-         "published": "Sat, 08 Mar 2025 12:57:18 +0000",
-         "publishedParsed": "2025-03-08T12:57:18Z"
-     },
-     {
-         "title": "SMBC Parts Ways with Hiveworks",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43269614\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.smbc-comics.com/comic/announcement-2",
-         "links": [
-             "https://www.smbc-comics.com/comic/announcement-2"
-         ],
-         "published": "Wed, 05 Mar 2025 17:30:44 +0000",
-         "publishedParsed": "2025-03-05T17:30:44Z"
+         "published": "Thu, 06 Mar 2025 19:39:08 +0000",
+         "publishedParsed": "2025-03-06T19:39:08Z"
      },
      {
          "title": "H3: For indexing geographies into a hexagonal grid, by Uber",
@@ -198,6 +158,16 @@
          ],
          "published": "Sun, 09 Mar 2025 03:32:04 +0000",
          "publishedParsed": "2025-03-09T03:32:04Z"
+     },
+     {
+         "title": "Stem cell therapy trial reverses \"irreversible\" damage to cornea",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43306734\"\u003eComments\u003c/a\u003e",
+         "link": "https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/",
+         "links": [
+             "https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/"
+         ],
+         "published": "Sun, 09 Mar 2025 06:23:02 +0000",
+         "publishedParsed": "2025-03-09T06:23:02Z"
      },
      {
          "title": "How to know when it's time to go",
@@ -220,16 +190,6 @@
          "publishedParsed": "2025-03-05T22:47:52Z"
      },
      {
-         "title": "Spark Texture Compression 1.2",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43284399\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ludicon.com/castano/blog/2025/03/spark-1-2/",
-         "links": [
-             "https://www.ludicon.com/castano/blog/2025/03/spark-1-2/"
-         ],
-         "published": "Thu, 06 Mar 2025 19:49:42 +0000",
-         "publishedParsed": "2025-03-06T19:49:42Z"
-     },
-     {
          "title": "Roald Dahl on the death of his daughter (2015)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43266129\"\u003eComments\u003c/a\u003e",
          "link": "https://www.telegraph.co.uk/books/authors/roald-dahls-darkest-hour/",
@@ -240,14 +200,14 @@
          "publishedParsed": "2025-03-05T13:29:45Z"
      },
      {
-         "title": "Discovering errors in Donald Knuth's TAOCP",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43301342\"\u003eComments\u003c/a\u003e",
-         "link": "https://glthr.com/discovering-errors-in-donald-knuths-taocp",
+         "title": "I've been using Claude Code for a couple of days",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307809\"\u003eComments\u003c/a\u003e",
+         "link": "https://twitter.com/Steve_Yegge/status/1898674257808515242",
          "links": [
-             "https://glthr.com/discovering-errors-in-donald-knuths-taocp"
+             "https://twitter.com/Steve_Yegge/status/1898674257808515242"
          ],
-         "published": "Sat, 08 Mar 2025 16:27:00 +0000",
-         "publishedParsed": "2025-03-08T16:27:00Z"
+         "published": "Sun, 09 Mar 2025 10:20:50 +0000",
+         "publishedParsed": "2025-03-09T10:20:50Z"
      },
      {
          "title": "Commodore 64 PETSCII Image (2022)",
@@ -260,6 +220,16 @@
          "publishedParsed": "2025-03-06T03:58:04Z"
      },
      {
+         "title": "Discovering errors in Donald Knuth's TAOCP",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43301342\"\u003eComments\u003c/a\u003e",
+         "link": "https://glthr.com/discovering-errors-in-donald-knuths-taocp",
+         "links": [
+             "https://glthr.com/discovering-errors-in-donald-knuths-taocp"
+         ],
+         "published": "Sat, 08 Mar 2025 16:27:00 +0000",
+         "publishedParsed": "2025-03-08T16:27:00Z"
+     },
+     {
          "title": "Discworld Rules",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43299815\"\u003eComments\u003c/a\u003e",
          "link": "https://contraptions.venkateshrao.com/p/discworld-rules",
@@ -268,6 +238,16 @@
          ],
          "published": "Sat, 08 Mar 2025 12:48:11 +0000",
          "publishedParsed": "2025-03-08T12:48:11Z"
+     },
+     {
+         "title": "SMBC Parts Ways with Hiveworks",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43269614\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.smbc-comics.com/comic/announcement-2",
+         "links": [
+             "https://www.smbc-comics.com/comic/announcement-2"
+         ],
+         "published": "Wed, 05 Mar 2025 17:30:44 +0000",
+         "publishedParsed": "2025-03-05T17:30:44Z"
      },
      {
          "title": "Deploy from local to production (self-hosted)",
@@ -280,23 +260,23 @@
          "publishedParsed": "2025-03-08T18:54:17Z"
      },
      {
-         "title": "Gleam v1.9.0 Released",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307987\"\u003eComments\u003c/a\u003e",
-         "link": "https://gleam.run/news/hello-echo-hello-git/",
+         "title": "Spark Texture Compression 1.2",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43284399\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ludicon.com/castano/blog/2025/03/spark-1-2/",
          "links": [
-             "https://gleam.run/news/hello-echo-hello-git/"
+             "https://www.ludicon.com/castano/blog/2025/03/spark-1-2/"
          ],
-         "published": "Sun, 09 Mar 2025 11:06:38 +0000",
-         "publishedParsed": "2025-03-09T11:06:38Z"
+         "published": "Thu, 06 Mar 2025 19:49:42 +0000",
+         "publishedParsed": "2025-03-06T19:49:42Z"
      },
      {
-         "title": "Reducing latency with esoteric Linux process flags",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43268713\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.recall.ai/post/reducing-latency-by-83-with-esoteric-linux-process-flags",
+         "title": "Long Read: Lessons from Building Semantic Search for GitHub and Why I Failed",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43299659\"\u003eComments\u003c/a\u003e",
+         "link": "https://tzx.notion.site/What-I-Learned-Building-a-Free-Semantic-Search-Tool-for-GitHub-and-Why-I-Failed-1a09b742c7918033b318f3a5d7dc9751",
          "links": [
-             "https://www.recall.ai/post/reducing-latency-by-83-with-esoteric-linux-process-flags"
+             "https://tzx.notion.site/What-I-Learned-Building-a-Free-Semantic-Search-Tool-for-GitHub-and-Why-I-Failed-1a09b742c7918033b318f3a5d7dc9751"
          ],
-         "published": "Wed, 05 Mar 2025 16:26:01 +0000",
-         "publishedParsed": "2025-03-05T16:26:01Z"
+         "published": "Sat, 08 Mar 2025 12:23:46 +0000",
+         "publishedParsed": "2025-03-08T12:23:46Z"
      }
  ]
