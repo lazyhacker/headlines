@@ -1,5 +1,15 @@
 [
      {
+         "title": "ESP32 Undocumented Bluetooth Commands: Clearing the Air",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43330331\"\u003eComments\u003c/a\u003e",
+         "link": "https://developer.espressif.com/blog/2025/03/esp32-bluetooth-clearing-the-air/",
+         "links": [
+             "https://developer.espressif.com/blog/2025/03/esp32-bluetooth-clearing-the-air/"
+         ],
+         "published": "Tue, 11 Mar 2025 08:21:59 +0000",
+         "publishedParsed": "2025-03-11T08:21:59Z"
+     },
+     {
          "title": "A Supersolid Made Using Photons",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43329427\"\u003eComments\u003c/a\u003e",
          "link": "https://www.photonicsonline.com/doc/a-super-solid-made-using-pho-tons-0001",
@@ -8,16 +18,6 @@
          ],
          "published": "Tue, 11 Mar 2025 05:30:45 +0000",
          "publishedParsed": "2025-03-11T05:30:45Z"
-     },
-     {
-         "title": "A succinct email in just a subject line",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43329580\"\u003eComments\u003c/a\u003e",
-         "link": "https://rubenerd.com/a-succinct-email-in-just-a-subject-line/",
-         "links": [
-             "https://rubenerd.com/a-succinct-email-in-just-a-subject-line/"
-         ],
-         "published": "Tue, 11 Mar 2025 05:59:00 +0000",
-         "publishedParsed": "2025-03-11T05:59:00Z"
      },
      {
          "title": "Show HN: Seven39, a social media app that is only open for 3 hours every evening",
@@ -40,16 +40,6 @@
          "publishedParsed": "2025-03-11T00:11:33Z"
      },
      {
-         "title": "Hackintoshing as a sustainable environmental practice",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43301848\"\u003eComments\u003c/a\u003e",
-         "link": "https://opengears.medium.com/hackintoshing-as-a-sustainable-environmental-practice-78baf2cdd353",
-         "links": [
-             "https://opengears.medium.com/hackintoshing-as-a-sustainable-environmental-practice-78baf2cdd353"
-         ],
-         "published": "Sat, 08 Mar 2025 17:36:54 +0000",
-         "publishedParsed": "2025-03-08T17:36:54Z"
-     },
-     {
          "title": "Software-Defined Radio for Engineers (2018) [pdf]",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43323071\"\u003eComments\u003c/a\u003e",
          "link": "https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf",
@@ -60,14 +50,24 @@
          "publishedParsed": "2025-03-10T17:40:40Z"
      },
      {
-         "title": "Mathematical Foundations of Reinforcement Learning",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43323946\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning",
+         "title": "How Facebook Marketplace is keeping young people on the platform",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43308296\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cnbc.com/2025/03/08/how-facebook-marketplace-is-keeping-young-people-on-the-platform-.html",
          "links": [
-             "https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning"
+             "https://www.cnbc.com/2025/03/08/how-facebook-marketplace-is-keeping-young-people-on-the-platform-.html"
          ],
-         "published": "Mon, 10 Mar 2025 18:27:32 +0000",
-         "publishedParsed": "2025-03-10T18:27:32Z"
+         "published": "Sun, 09 Mar 2025 11:56:13 +0000",
+         "publishedParsed": "2025-03-09T11:56:13Z"
+     },
+     {
+         "title": "Neonatal fungi: lifelong metabolic health via macrophage β cell development",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43305881\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.science.org/doi/10.1126/science.adn0953",
+         "links": [
+             "https://www.science.org/doi/10.1126/science.adn0953"
+         ],
+         "published": "Sun, 09 Mar 2025 03:23:26 +0000",
+         "publishedParsed": "2025-03-09T03:23:26Z"
      },
      {
          "title": "Asking LLMs to create my game Shepard's Dog",
@@ -80,16 +80,6 @@
          "publishedParsed": "2025-03-08T10:06:01Z"
      },
      {
-         "title": "Canon EF and RF Lenses – All Autofocus Motors",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43320230\"\u003eComments\u003c/a\u003e",
-         "link": "https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html",
-         "links": [
-             "https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html"
-         ],
-         "published": "Mon, 10 Mar 2025 13:12:38 +0000",
-         "publishedParsed": "2025-03-10T13:12:38Z"
-     },
-     {
          "title": "Bel in Clojure (2022)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43290620\"\u003eComments\u003c/a\u003e",
          "link": "https://stopa.io/post/290",
@@ -98,6 +88,26 @@
          ],
          "published": "Fri, 07 Mar 2025 14:50:09 +0000",
          "publishedParsed": "2025-03-07T14:50:09Z"
+     },
+     {
+         "title": "Mathematical Foundations of Reinforcement Learning",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43323946\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning",
+         "links": [
+             "https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning"
+         ],
+         "published": "Mon, 10 Mar 2025 18:27:32 +0000",
+         "publishedParsed": "2025-03-10T18:27:32Z"
+     },
+     {
+         "title": "Canon EF and RF Lenses – All Autofocus Motors",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43320230\"\u003eComments\u003c/a\u003e",
+         "link": "https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html",
+         "links": [
+             "https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html"
+         ],
+         "published": "Mon, 10 Mar 2025 13:12:38 +0000",
+         "publishedParsed": "2025-03-10T13:12:38Z"
      },
      {
          "title": "HyperShell X Outdoor PowerSuit Exoskeleton",
@@ -110,24 +120,14 @@
          "publishedParsed": "2025-03-07T08:54:00Z"
      },
      {
-         "title": "Zero-Downtime Kubernetes Deployments on AWS with EKS",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43320024\"\u003eComments\u003c/a\u003e",
-         "link": "https://glasskube.dev/blog/kubernetes-zero-downtime-deployments-aws-eks/",
+         "title": "Take a Cold Bath",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43297563\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.lrb.co.uk/the-paper/v47/n04/lucy-wooding/take-a-cold-bath",
          "links": [
-             "https://glasskube.dev/blog/kubernetes-zero-downtime-deployments-aws-eks/"
+             "https://www.lrb.co.uk/the-paper/v47/n04/lucy-wooding/take-a-cold-bath"
          ],
-         "published": "Mon, 10 Mar 2025 12:48:32 +0000",
-         "publishedParsed": "2025-03-10T12:48:32Z"
-     },
-     {
-         "title": "Kubernetes Home – what do you do if your ISP changes your IP addresses?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43308111\"\u003eComments\u003c/a\u003e",
-         "link": "https://vegard.blog.engen.priv.no/?p=423",
-         "links": [
-             "https://vegard.blog.engen.priv.no/?p=423"
-         ],
-         "published": "Sun, 09 Mar 2025 11:29:46 +0000",
-         "publishedParsed": "2025-03-09T11:29:46Z"
+         "published": "Sat, 08 Mar 2025 04:42:58 +0000",
+         "publishedParsed": "2025-03-08T04:42:58Z"
      },
      {
          "title": "The Einstein AI Model",
@@ -138,6 +138,16 @@
          ],
          "published": "Sat, 08 Mar 2025 14:14:22 +0000",
          "publishedParsed": "2025-03-08T14:14:22Z"
+     },
+     {
+         "title": "Zero-Downtime Kubernetes Deployments on AWS with EKS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43320024\"\u003eComments\u003c/a\u003e",
+         "link": "https://glasskube.dev/blog/kubernetes-zero-downtime-deployments-aws-eks/",
+         "links": [
+             "https://glasskube.dev/blog/kubernetes-zero-downtime-deployments-aws-eks/"
+         ],
+         "published": "Mon, 10 Mar 2025 12:48:32 +0000",
+         "publishedParsed": "2025-03-10T12:48:32Z"
      },
      {
          "title": "How to Implement a Cosine Similarity Function in TypeScript",
@@ -160,6 +170,16 @@
          "publishedParsed": "2025-03-10T15:12:57Z"
      },
      {
+         "title": "Firmware update bricks HP printers, makes them unable to use HP cartridges",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43323923\"\u003eComments\u003c/a\u003e",
+         "link": "https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/",
+         "links": [
+             "https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/"
+         ],
+         "published": "Mon, 10 Mar 2025 18:26:27 +0000",
+         "publishedParsed": "2025-03-10T18:26:27Z"
+     },
+     {
          "title": "Arranging invisible icons in quadratic time (2021)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43288691\"\u003eComments\u003c/a\u003e",
          "link": "https://randomascii.wordpress.com/2021/02/16/arranging-invisible-icons-in-quadratic-time/",
@@ -168,16 +188,6 @@
          ],
          "published": "Fri, 07 Mar 2025 09:42:03 +0000",
          "publishedParsed": "2025-03-07T09:42:03Z"
-     },
-     {
-         "title": "STEPS Toward the Reinvention of Programming (2012) [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43323860\"\u003eComments\u003c/a\u003e",
-         "link": "https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf",
-         "links": [
-             "https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf"
-         ],
-         "published": "Mon, 10 Mar 2025 18:22:57 +0000",
-         "publishedParsed": "2025-03-10T18:22:57Z"
      },
      {
          "title": "Music labels will regret coming for the Internet Archive, sound historian says",
@@ -200,6 +210,16 @@
          "publishedParsed": "2025-03-10T14:35:05Z"
      },
      {
+         "title": "STEPS Toward the Reinvention of Programming (2012) [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43323860\"\u003eComments\u003c/a\u003e",
+         "link": "https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf",
+         "links": [
+             "https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf"
+         ],
+         "published": "Mon, 10 Mar 2025 18:22:57 +0000",
+         "publishedParsed": "2025-03-10T18:22:57Z"
+     },
+     {
          "title": "Shef",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43327758\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/eduardoagarcia/shef",
@@ -208,6 +228,16 @@
          ],
          "published": "Tue, 11 Mar 2025 00:16:54 +0000",
          "publishedParsed": "2025-03-11T00:16:54Z"
+     },
+     {
+         "title": "Trees not profits: we're giving up our right to ever sell Ecosia (2018)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43317887\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.ecosia.org/trees-not-profits/",
+         "links": [
+             "https://blog.ecosia.org/trees-not-profits/"
+         ],
+         "published": "Mon, 10 Mar 2025 07:42:11 +0000",
+         "publishedParsed": "2025-03-10T07:42:11Z"
      },
      {
          "title": "Probabilistic Artificial Intelligence",
@@ -228,45 +258,5 @@
          ],
          "published": "Fri, 07 Mar 2025 04:07:18 +0000",
          "publishedParsed": "2025-03-07T04:07:18Z"
-     },
-     {
-         "title": "Trees not profits: we're giving up our right to ever sell Ecosia (2018)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43317887\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.ecosia.org/trees-not-profits/",
-         "links": [
-             "https://blog.ecosia.org/trees-not-profits/"
-         ],
-         "published": "Mon, 10 Mar 2025 07:42:11 +0000",
-         "publishedParsed": "2025-03-10T07:42:11Z"
-     },
-     {
-         "title": "Show HN: Editable Games",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43321688\"\u003eComments\u003c/a\u003e",
-         "link": "https://playscl.com/make",
-         "links": [
-             "https://playscl.com/make"
-         ],
-         "published": "Mon, 10 Mar 2025 15:31:57 +0000",
-         "publishedParsed": "2025-03-10T15:31:57Z"
-     },
-     {
-         "title": "Planes are having their GPS hacked. Could new clocks keep them safe?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43289994\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bbc.com/news/articles/cq6yg204pvmo",
-         "links": [
-             "https://www.bbc.com/news/articles/cq6yg204pvmo"
-         ],
-         "published": "Fri, 07 Mar 2025 13:31:46 +0000",
-         "publishedParsed": "2025-03-07T13:31:46Z"
-     },
-     {
-         "title": "Sigint in Fiction",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307833\"\u003eComments\u003c/a\u003e",
-         "link": "https://siginthistorian.blogspot.com/2025/02/sigint-in-fiction.html",
-         "links": [
-             "https://siginthistorian.blogspot.com/2025/02/sigint-in-fiction.html"
-         ],
-         "published": "Sun, 09 Mar 2025 10:29:27 +0000",
-         "publishedParsed": "2025-03-09T10:29:27Z"
      }
  ]
