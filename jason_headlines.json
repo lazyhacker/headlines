@@ -18,13 +18,13 @@
          ],
          "guid": "https://www.nytimes.com/2025/03/11/science/cats-veterinarians-health.html",
          "categories": [
-             "your-feed-science",
              "Cats",
-             "Animal Behavior",
              "Veterinary Medicine",
+             "Animal Behavior",
              "Darwins Cats",
-             "your-feed-health",
-             "Pets"
+             "Pets",
+             "your-feed-science",
+             "your-feed-health"
          ],
          "dcExt": {
              "creator": [
@@ -131,191 +131,6 @@
                      {
                          "name": "credit",
                          "value": "Katherine Lam",
-                         "attrs": {},
-                         "children": {}
-                     }
-                 ]
-             }
-         }
-     },
-     {
-         "title": "What Slowdown? Xi Says China Must Win the Global Tech Race.",
-         "description": "Xi Jinping wants China to surpass rivals as a tech superpower, undeterred by economic woes or trade wars. Critics ask if this focus neglects struggling citizens.",
-         "link": "https://www.nytimes.com/2025/03/11/world/asia/china-xi-trump.html",
-         "links": [
-             "https://www.nytimes.com/2025/03/11/world/asia/china-xi-trump.html"
-         ],
-         "published": "Tue, 11 Mar 2025 09:02:16 +0000",
-         "publishedParsed": "2025-03-11T09:02:16Z",
-         "author": {
-             "name": "Chris Buckley"
-         },
-         "authors": [
-             {
-                 "name": "Chris Buckley"
-             }
-         ],
-         "guid": "https://www.nytimes.com/2025/03/11/world/asia/china-xi-trump.html",
-         "image": {
-             "url": "https://static01.nyt.com/images/2025/03/11/multimedia/11int-china-xi-01-vjqg/11int-china-xi-01-vjqg-mediumSquareAt3X-v2.jpg"
-         },
-         "categories": [
-             "Science and Technology",
-             "Communist Party of China",
-             "Ministry of State Security of the People's Republic of China",
-             "National People's Congress (China)",
-             "Xi Jinping",
-             "China",
-             "Jiangsu Province (China)",
-             "Economic Conditions and Trends"
-         ],
-         "dcExt": {
-             "creator": [
-                 "Chris Buckley"
-             ]
-         },
-         "extensions": {
-             "atom": {
-                 "link": [
-                     {
-                         "name": "link",
-                         "value": "",
-                         "attrs": {
-                             "href": "https://www.nytimes.com/2025/03/11/world/asia/china-xi-trump.html",
-                             "rel": "standout"
-                         },
-                         "children": {}
-                     }
-                 ]
-             },
-             "dc": {
-                 "creator": [
-                     {
-                         "name": "creator",
-                         "value": "Chris Buckley",
-                         "attrs": {},
-                         "children": {}
-                     }
-                 ]
-             },
-             "media": {
-                 "content": [
-                     {
-                         "name": "content",
-                         "value": "",
-                         "attrs": {
-                             "height": "1801",
-                             "medium": "image",
-                             "url": "https://static01.nyt.com/images/2025/03/11/multimedia/11int-china-xi-01-vjqg/11int-china-xi-01-vjqg-mediumSquareAt3X-v2.jpg",
-                             "width": "1800"
-                         },
-                         "children": {}
-                     }
-                 ],
-                 "credit": [
-                     {
-                         "name": "credit",
-                         "value": "Kevin Frayer/Getty Images",
-                         "attrs": {},
-                         "children": {}
-                     }
-                 ],
-                 "description": [
-                     {
-                         "name": "description",
-                         "value": "China’s leader, Xi Jinping, at the opening session of the legislative session last week. He has used the event as a platform to give his priorities the gloss of public approval.",
-                         "attrs": {},
-                         "children": {}
-                     }
-                 ]
-             }
-         }
-     },
-     {
-         "title": "Hundreds of Civilians in Syria Take Shelter at Russian Air Base",
-         "description": "Footage and satellite images reviewed by The Times show civilians in the compound. Thousands have fled violent unrest in the country’s coastal region.",
-         "link": "https://www.nytimes.com/2025/03/11/world/europe/civilians-shelter-russian-air-base-syria.html",
-         "links": [
-             "https://www.nytimes.com/2025/03/11/world/europe/civilians-shelter-russian-air-base-syria.html"
-         ],
-         "published": "Tue, 11 Mar 2025 12:44:00 +0000",
-         "publishedParsed": "2025-03-11T12:44:00Z",
-         "author": {
-             "name": "Euan Ward, Malachy Browne and Sanjana Varghese"
-         },
-         "authors": [
-             {
-                 "name": "Euan Ward, Malachy Browne and Sanjana Varghese"
-             }
-         ],
-         "guid": "https://www.nytimes.com/2025/03/11/world/europe/civilians-shelter-russian-air-base-syria.html",
-         "image": {
-             "url": "https://static01.nyt.com/images/2025/03/11/multimedia/11syria-airbase-01-cqhv/11syria-airbase-01-cqhv-mediumSquareAt3X.jpg"
-         },
-         "categories": [
-             "War and Armed Conflicts",
-             "Refugees and Displaced Persons",
-             "Military Bases and Installations",
-             "International Relations",
-             "Syria",
-             "Latakia (Syria)",
-             "Russia"
-         ],
-         "dcExt": {
-             "creator": [
-                 "Euan Ward, Malachy Browne and Sanjana Varghese"
-             ]
-         },
-         "extensions": {
-             "atom": {
-                 "link": [
-                     {
-                         "name": "link",
-                         "value": "",
-                         "attrs": {
-                             "href": "https://www.nytimes.com/2025/03/11/world/europe/civilians-shelter-russian-air-base-syria.html",
-                             "rel": "standout"
-                         },
-                         "children": {}
-                     }
-                 ]
-             },
-             "dc": {
-                 "creator": [
-                     {
-                         "name": "creator",
-                         "value": "Euan Ward, Malachy Browne and Sanjana Varghese",
-                         "attrs": {},
-                         "children": {}
-                     }
-                 ]
-             },
-             "media": {
-                 "content": [
-                     {
-                         "name": "content",
-                         "value": "",
-                         "attrs": {
-                             "height": "1800",
-                             "medium": "image",
-                             "url": "https://static01.nyt.com/images/2025/03/11/multimedia/11syria-airbase-01-cqhv/11syria-airbase-01-cqhv-mediumSquareAt3X.jpg",
-                             "width": "1800"
-                         },
-                         "children": {}
-                     }
-                 ],
-                 "credit": [
-                     {
-                         "name": "credit",
-                         "value": "Maxar Technologies, via Reuters",
-                         "attrs": {},
-                         "children": {}
-                     }
-                 ],
-                 "description": [
-                     {
-                         "name": "description",
-                         "value": "A satellite image made available by Maxar Technologies showing crowds and cars gathered at Russia’s Hmeimim air base in Syria.",
                          "attrs": {},
                          "children": {}
                      }
@@ -491,8 +306,8 @@
          "links": [
              "https://www.nytimes.com/2025/03/11/briefing/what-covid-taught-us.html"
          ],
-         "published": "Tue, 11 Mar 2025 10:50:48 +0000",
-         "publishedParsed": "2025-03-11T10:50:48Z",
+         "published": "Tue, 11 Mar 2025 13:26:49 +0000",
+         "publishedParsed": "2025-03-11T13:26:49Z",
          "author": {
              "name": "Claire Cain Miller"
          },
@@ -634,14 +449,103 @@
          }
      },
      {
+         "title": "Southwest Will Begin Charging for Checked Bags, Ending a Beloved Policy",
+         "description": "Customers with the highest loyalty status will be spared from the fee, but others will have to pay for checked bags for flights booked from May 28.",
+         "link": "https://www.nytimes.com/2025/03/11/business/southwest-checked-bags-fee.html",
+         "links": [
+             "https://www.nytimes.com/2025/03/11/business/southwest-checked-bags-fee.html"
+         ],
+         "published": "Tue, 11 Mar 2025 12:47:01 +0000",
+         "publishedParsed": "2025-03-11T12:47:01Z",
+         "author": {
+             "name": "Niraj Chokshi"
+         },
+         "authors": [
+             {
+                 "name": "Niraj Chokshi"
+             }
+         ],
+         "guid": "https://www.nytimes.com/2025/03/11/business/southwest-checked-bags-fee.html",
+         "image": {
+             "url": "https://static01.nyt.com/images/2025/03/11/multimedia/11biz-southwest-bags-fqjz/11biz-southwest-bags-fqjz-mediumSquareAt3X.jpg"
+         },
+         "categories": [
+             "Airlines and Airplanes",
+             "Luggage and Packing",
+             "Aviation Accidents, Safety and Disasters",
+             "Southwest Airlines Company"
+         ],
+         "dcExt": {
+             "creator": [
+                 "Niraj Chokshi"
+             ]
+         },
+         "extensions": {
+             "atom": {
+                 "link": [
+                     {
+                         "name": "link",
+                         "value": "",
+                         "attrs": {
+                             "href": "https://www.nytimes.com/2025/03/11/business/southwest-checked-bags-fee.html",
+                             "rel": "standout"
+                         },
+                         "children": {}
+                     }
+                 ]
+             },
+             "dc": {
+                 "creator": [
+                     {
+                         "name": "creator",
+                         "value": "Niraj Chokshi",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ]
+             },
+             "media": {
+                 "content": [
+                     {
+                         "name": "content",
+                         "value": "",
+                         "attrs": {
+                             "height": "1800",
+                             "medium": "image",
+                             "url": "https://static01.nyt.com/images/2025/03/11/multimedia/11biz-southwest-bags-fqjz/11biz-southwest-bags-fqjz-mediumSquareAt3X.jpg",
+                             "width": "1800"
+                         },
+                         "children": {}
+                     }
+                 ],
+                 "credit": [
+                     {
+                         "name": "credit",
+                         "value": "Desiree Rios for The New York Times",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ],
+                 "description": [
+                     {
+                         "name": "description",
+                         "value": "Southwest Airlines has faced intense investor pressure to make changes as it has struggled to contain costs and boost revenue.",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ]
+             }
+         }
+     },
+     {
          "title": "In ‘Long Bright River,’ Amanda Seyfried Serves and Protects",
          "description": "The actress’s role as a Philadelphia beat cop in this Peacock series seems like an odd fit, but that’s the point. “I just wanted to prove to myself that nothing can feel too foreign,” she said.",
          "link": "https://www.nytimes.com/2025/03/11/arts/television/long-bright-river-amanda-seyfried.html",
          "links": [
              "https://www.nytimes.com/2025/03/11/arts/television/long-bright-river-amanda-seyfried.html"
          ],
-         "published": "Tue, 11 Mar 2025 09:02:58 +0000",
-         "publishedParsed": "2025-03-11T09:02:58Z",
+         "published": "Tue, 11 Mar 2025 13:52:45 +0000",
+         "publishedParsed": "2025-03-11T13:52:45Z",
          "author": {
              "name": "Alexis Soloski"
          },
@@ -747,6 +651,54 @@
          ]
      },
      {
+         "title": "Seven men arrested in Japan for raping daughters, sharing footage in chat group.",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/SassyNec\"\u003e /u/SassyNec \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.straitstimes.com/asia/east-asia/seven-men-arrested-in-japan-for-raping-daughters-sharing-footage-in-chat-group\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1j8qxzy/seven_men_arrested_in_japan_for_raping_daughters/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1j8qxzy/seven_men_arrested_in_japan_for_raping_daughters/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1j8qxzy/seven_men_arrested_in_japan_for_raping_daughters/"
+         ],
+         "updated": "2025-03-11T13:38:08+00:00",
+         "updatedParsed": "2025-03-11T13:38:08Z",
+         "published": "2025-03-11T13:38:08+00:00",
+         "publishedParsed": "2025-03-11T13:38:08Z",
+         "author": {
+             "name": "/u/SassyNec"
+         },
+         "authors": [
+             {
+                 "name": "/u/SassyNec"
+             }
+         ],
+         "guid": "t3_1j8qxzy",
+         "categories": [
+             "r/news"
+         ]
+     },
+     {
+         "title": "Southwest Airlines shifts to paid baggage policy to lift earnings",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/baltinerdist\"\u003e /u/baltinerdist \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.reuters.com/business/aerospace-defense/southwest-airlines-shifts-paid-baggage-policy-lift-earnings-2025-03-11/\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1j8qfcu/southwest_airlines_shifts_to_paid_baggage_policy/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1j8qfcu/southwest_airlines_shifts_to_paid_baggage_policy/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1j8qfcu/southwest_airlines_shifts_to_paid_baggage_policy/"
+         ],
+         "updated": "2025-03-11T13:13:13+00:00",
+         "updatedParsed": "2025-03-11T13:13:13Z",
+         "published": "2025-03-11T13:13:13+00:00",
+         "publishedParsed": "2025-03-11T13:13:13Z",
+         "author": {
+             "name": "/u/baltinerdist"
+         },
+         "authors": [
+             {
+                 "name": "/u/baltinerdist"
+             }
+         ],
+         "guid": "t3_1j8qfcu",
+         "categories": [
+             "r/news"
+         ]
+     },
+     {
          "title": "Moscow airports suspend flights after ‘massive’ Ukrainian drone attack",
          "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/Tuxcali1\"\u003e /u/Tuxcali1 \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.theguardian.com/world/2025/mar/11/moscow-airports-suspend-flights-after-massive-ukrainian-drone-attack\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1j8kpbc/moscow_airports_suspend_flights_after_massive/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
          "link": "https://www.reddit.com/r/news/comments/1j8kpbc/moscow_airports_suspend_flights_after_massive/",
@@ -790,6 +742,54 @@
              }
          ],
          "guid": "t3_1j8l8h5",
+         "categories": [
+             "r/news"
+         ]
+     },
+     {
+         "title": "4 arrested after 5-year-old Michigan boy's death in hyperbaric chamber explosion",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/BlueSkyeAhead\"\u003e /u/BlueSkyeAhead \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.cbsnews.com/detroit/news/four-arrested-fatal-hyperbaric-chamber-explosion/\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1j8r4pu/4_arrested_after_5yearold_michigan_boys_death_in/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1j8r4pu/4_arrested_after_5yearold_michigan_boys_death_in/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1j8r4pu/4_arrested_after_5yearold_michigan_boys_death_in/"
+         ],
+         "updated": "2025-03-11T13:46:55+00:00",
+         "updatedParsed": "2025-03-11T13:46:55Z",
+         "published": "2025-03-11T13:46:55+00:00",
+         "publishedParsed": "2025-03-11T13:46:55Z",
+         "author": {
+             "name": "/u/BlueSkyeAhead"
+         },
+         "authors": [
+             {
+                 "name": "/u/BlueSkyeAhead"
+             }
+         ],
+         "guid": "t3_1j8r4pu",
+         "categories": [
+             "r/news"
+         ]
+     },
+     {
+         "title": "Washington Post editor resigns after accusing CEO of killing column",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/jlbhappy\"\u003e /u/jlbhappy \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.nbcnews.com/news/us-news/washington-post-editor-ruth-marcus-resigns-accusing-ceo-killing-column-rcna195634\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1j82d13/washington_post_editor_resigns_after_accusing_ceo/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1j82d13/washington_post_editor_resigns_after_accusing_ceo/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1j82d13/washington_post_editor_resigns_after_accusing_ceo/"
+         ],
+         "updated": "2025-03-10T16:14:30+00:00",
+         "updatedParsed": "2025-03-10T16:14:30Z",
+         "published": "2025-03-10T16:14:30+00:00",
+         "publishedParsed": "2025-03-10T16:14:30Z",
+         "author": {
+             "name": "/u/jlbhappy"
+         },
+         "authors": [
+             {
+                 "name": "/u/jlbhappy"
+             }
+         ],
+         "guid": "t3_1j82d13",
          "categories": [
              "r/news"
          ]
@@ -915,32 +915,41 @@
          ]
      },
      {
-         "title": "Man shot by dog in Frayser, police say",
-         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/crispy_attic\"\u003e /u/crispy_attic \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.fox13memphis.com/news/man-shot-by-dog-in-frayser-police-say/article_87c5ad76-fdb3-11ef-842e-073ff59d8916.html\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1j81c4o/man_shot_by_dog_in_frayser_police_say/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
-         "link": "https://www.reddit.com/r/news/comments/1j81c4o/man_shot_by_dog_in_frayser_police_say/",
+         "title": "Race to contain fire continues after tanker-container ship collision in North Sea - ABC News",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnhsbEp0eDRISUdXdkFGOFZGODJycUJiaTFMT1A4bWpvTy1XdE9GT2szU25CNmk5N1ZMdHhwNGU5cFFpdDgtaFBUU08wN3BJOHhKazZUbFJ1SkhxRTNzTS1XR0o3VzVRdDZ1ZkRRNTlnUFAwcHo0RFNOMi1pNHdwbmFmMl9uSXdVZDRSaDNsTTBIXzBfQk5XcjRqRVl5NDhqZ0FqZE5tSDFMRjZtczQzNU81UdIBuAFBVV95cUxOemxnMzdRcXViTEhLcG1vU1ZQaC02bkg1c2pjdmVKc1lOa3RsdEc5ODk0Q0trYXJGV090dWx4OVllOW9RV2ZQZ1p5Sm5UVW9HcnZzU1BFaXdldks3UlNtbnRRaXJiR1ZjWjdpLXdxeURuSzMyQlotTkc3YlRSMW1JdDlfSE5Qb2xuUEZoRnQ5cGtwWkoxbzRnQXcwODY4NzhaVTNTS0NyTjBfZGFVek9Fd2RBd3VCZThG?oc=5\" target=\"_blank\"\u003eRace to contain fire continues after tanker-container ship collision in North Sea\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNa0JiZjJhNmN4UWdUT0FwVE5pd202VXhvTXhOZ2hKX1NXS3NJM0NuZ2hyc1VlbVZCTmMzUkJMVnUyQ2xORmtVaWtmcFBNRWdIQ25XTUs3bEhPa243cXVpc1V3dGVEclBqZW1TLU9DTUZZcnEyX3ZsdzVFX2lmNWdMdzI3MDNvLThpX2w2Rk1PNGFlT0dpMXgtRmNkRWZJOXMtUXBtOE9FMA?oc=5\" target=\"_blank\"\u003eCargo ship crash details revealed by crew member who says vessel rammed tanker \"out of the blue\"\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCBS News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaTdBbGVSR0FLUG4tTE43MVZZYmxZU0xjMFNYbHNzZFFnVGlNNE5qTmdjdWxIZHRWVWxWejBud1Q4U0JBNE5HU3dfbGtxaUFtYVF4bFduZXNaVlptcEM3MkNaU1IwWTFFOFZlbXRWX0RRVFdnN1dua3JfNkM0dzhyNW5va2dfdG1nS1loTGpyUWZscF9oTkppRUdFa1RFSER6Z2hVeUhrVWhTTkVMZVpPanFJRk1zTm05dFFF?oc=5\" target=\"_blank\"\u003eCargo ship hits tanker carrying jet fuel for the US military\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eDefense News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQZGprT09IUFdfRWppZms3a09NaDNEM1JBWUFuTWpxdmxnWG15NThBQzR4bmtuMUNFQklZLTBzMUE2cGplaldoT2t3WUZ1Z3BOdzFDRlZaeS0tcFd6Z1lUY3ktTlNvQ0FCUElSVWV1bi11clJKV3dHUTFfbmc1MnYyc1cxenBUTGk2WTYxVkNkUTAyVjVDS0FidFQ3c9IBkgFBVV95cUxNSXVMSkFfRG1yZFBONnpkb0JHOTM3RktXdWdpMFo2NDRwOUJZU1hvMWZEZ2V2b1p0Y3JNWTBoS2VrQXV4Zk5qMHNyQ1ZhWHhUMFhXTWFndG9hQnAzcVBRUjNZcG41cGtJaXlJcTJjdm5sRzhzOUVZdVJxaXFMa3dYeVpoLWxMX04wTUN5VzVqTEdndw?oc=5\" target=\"_blank\"\u003eA fiery collision in the North Sea has raised fears of an environmental disaster. Here’s what we know\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE44YXpjZmxRN200X0IwY1VlS085RGZCX3FrNGhvRG9DQnNDaVRNNTdhc05GaC05YVBHYUVIbjVmUy0yOWFIUXUtLTVIRWN5cEczb1FOVElja1pwUQ?oc=5\" target=\"_blank\"\u003eHow bad could the ship collision be for the environment?\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBBC.com\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnhsbEp0eDRISUdXdkFGOFZGODJycUJiaTFMT1A4bWpvTy1XdE9GT2szU25CNmk5N1ZMdHhwNGU5cFFpdDgtaFBUU08wN3BJOHhKazZUbFJ1SkhxRTNzTS1XR0o3VzVRdDZ1ZkRRNTlnUFAwcHo0RFNOMi1pNHdwbmFmMl9uSXdVZDRSaDNsTTBIXzBfQk5XcjRqRVl5NDhqZ0FqZE5tSDFMRjZtczQzNU81UdIBuAFBVV95cUxOemxnMzdRcXViTEhLcG1vU1ZQaC02bkg1c2pjdmVKc1lOa3RsdEc5ODk0Q0trYXJGV090dWx4OVllOW9RV2ZQZ1p5Sm5UVW9HcnZzU1BFaXdldks3UlNtbnRRaXJiR1ZjWjdpLXdxeURuSzMyQlotTkc3YlRSMW1JdDlfSE5Qb2xuUEZoRnQ5cGtwWkoxbzRnQXcwODY4NzhaVTNTS0NyTjBfZGFVek9Fd2RBd3VCZThG?oc=5",
          "links": [
-             "https://www.reddit.com/r/news/comments/1j81c4o/man_shot_by_dog_in_frayser_police_say/"
+             "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnhsbEp0eDRISUdXdkFGOFZGODJycUJiaTFMT1A4bWpvTy1XdE9GT2szU25CNmk5N1ZMdHhwNGU5cFFpdDgtaFBUU08wN3BJOHhKazZUbFJ1SkhxRTNzTS1XR0o3VzVRdDZ1ZkRRNTlnUFAwcHo0RFNOMi1pNHdwbmFmMl9uSXdVZDRSaDNsTTBIXzBfQk5XcjRqRVl5NDhqZ0FqZE5tSDFMRjZtczQzNU81UdIBuAFBVV95cUxOemxnMzdRcXViTEhLcG1vU1ZQaC02bkg1c2pjdmVKc1lOa3RsdEc5ODk0Q0trYXJGV090dWx4OVllOW9RV2ZQZ1p5Sm5UVW9HcnZzU1BFaXdldks3UlNtbnRRaXJiR1ZjWjdpLXdxeURuSzMyQlotTkc3YlRSMW1JdDlfSE5Qb2xuUEZoRnQ5cGtwWkoxbzRnQXcwODY4NzhaVTNTS0NyTjBfZGFVek9Fd2RBd3VCZThG?oc=5"
          ],
-         "updated": "2025-03-10T15:31:54+00:00",
-         "updatedParsed": "2025-03-10T15:31:54Z",
-         "published": "2025-03-10T15:31:54+00:00",
-         "publishedParsed": "2025-03-10T15:31:54Z",
-         "author": {
-             "name": "/u/crispy_attic"
-         },
-         "authors": [
-             {
-                 "name": "/u/crispy_attic"
-             }
-         ],
-         "guid": "t3_1j81c4o",
-         "categories": [
-             "r/news"
-         ]
+         "published": "Tue, 11 Mar 2025 12:10:46 GMT",
+         "publishedParsed": "2025-03-11T12:10:46Z",
+         "guid": "CBMiswFBVV95cUxPSnhsbEp0eDRISUdXdkFGOFZGODJycUJiaTFMT1A4bWpvTy1XdE9GT2szU25CNmk5N1ZMdHhwNGU5cFFpdDgtaFBUU08wN3BJOHhKazZUbFJ1SkhxRTNzTS1XR0o3VzVRdDZ1ZkRRNTlnUFAwcHo0RFNOMi1pNHdwbmFmMl9uSXdVZDRSaDNsTTBIXzBfQk5XcjRqRVl5NDhqZ0FqZE5tSDFMRjZtczQzNU81UdIBuAFBVV95cUxOemxnMzdRcXViTEhLcG1vU1ZQaC02bkg1c2pjdmVKc1lOa3RsdEc5ODk0Q0trYXJGV090dWx4OVllOW9RV2ZQZ1p5Sm5UVW9HcnZzU1BFaXdldks3UlNtbnRRaXJiR1ZjWjdpLXdxeURuSzMyQlotTkc3YlRSMW1JdDlfSE5Qb2xuUEZoRnQ5cGtwWkoxbzRnQXcwODY4NzhaVTNTS0NyTjBfZGFVek9Fd2RBd3VCZThG"
      },
      {
-         "title": "Pope Francis has restful night amid ongoing improvement - Vatican News",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjBYaUxKaU92Z19RLUFPbGpXbkN4V3hWRWpPakUtTXdZQ0lGVXQ3X3U2MHdtZ3BrRmVjTU9QMGIwSEVFWld3eFEzc0lGdFphYXVIcXpCU3R3LXZmNWFlRVJhaVNfRTc1NUhqc2xoZ1haOGlYRXRoS0x0SU5kYnN1WUNnellPdm84X1dreVZNVmRwMjNzcF9DOE1rMVAxUVRncVE?oc=5\" target=\"_blank\"\u003ePope Francis has restful night amid ongoing improvement\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eVatican News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOa1pPYWdRY1F6RUtQNEtUc2tBUlFCcGJxMHdXbDZSaEJ1ZU5penhDSlFXSzJVakJtbzhhNmloRTY3TFY3UGtpTTlfYWFRV0xwSHA1U2dxZXY1NlNmVUpYZ01WUWZ5dlY4b0JrNnowNlRxTmdIYkZyc3VsRDRiRXZSMzRiZG12Z2tKTElCMlh6YjhYREVIa19YUnAxbFlCd3ZfUFRySkJRVEQzamFvSGl4Vm1RX3pMU3JnZnZiZy03aVFSaGhO0gHKAUFVX3lxTE52cTdvOGJ1b2JZTDlHTmhPS1JnVXBwdl9ZUzc3TVhNLXpQMm44MGxoTFJKaDdtVmF5ZlRGU1d2b2pBaEpGVHJjMXVqYWNoQnY3c2FmcGJfWFFrQ1NVSC12VkVRY3JqVjV3aE5yNXhEdjczQVRlT1dWLU82eWRRT3FJVDFRWHFBY1B3WEkyZ0RjX1RCVjBsVXhyenJyZFdQcW9PdHZ2U3dLeG5mVXJ5TE9wUUE1UTBfV1BBN3lCS0JGZFVobU9CamtkVVE?oc=5\" target=\"_blank\"\u003ePope Francis follows Vatican spiritual retreat as doctors say he's no longer in imminent danger\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNBC\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNWVBlVVoxejBnQVd2bXJwNndtMEctdzg4NGZUeEF6LVVYSHBXNGFoZk9MVmNWZ2pRcDBBMlJjTjhPYlNVT3N5UU91bS1tSDVKd0RteEZWeHRGUG9ISkEzeE1MTXI4YU9ENnlndUswU3ZuVDNUVFZYQ0lkMHpDeDFtaW9na0tfa2lsUTJMNk9PdmRhY1RsSVZseXR1MWVwR3Jnd2hGTw?oc=5\" target=\"_blank\"\u003ePope Francis' health shows improvement as 'guarded' prognosis is lifted\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eUSA TODAY\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0pLWGY4SHAyTnYxRHF2a3FnNzJadkx3WFVQdEtFYldycnZQYkFtYlVBOVFWQ2JuX2lxUi1CV094SGlJRXU4Vy01d2NEdUNVSmg5MGVxTTdoeEl3emUxZzJJMElJMzBUQkdHSW93OXRJQnNyc21Fb0YyU1RLLXdFOXU0Q0N6Y1MxSGZ3b2JFbTRpTjhnNUFWMTlvWTNCMG5aVjE2MFBvQ3HSAVZBVV95cUxNekJFRWJ3WHFxM2VmZURZa0t6S2p3T3lXZjJrMnJoSHl6UWxpYW9ldjZqLU9rWHlISFA3MmZZb2lSUkdfc2R6a25UME1UUUtNTUYwWGNmUQ?oc=5\" target=\"_blank\"\u003eThe pope is no longer in imminent danger, doctors say\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNBC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSXZ3dW03YmhrZFh6U1ZjWFJFUFFQMm9XRldDUDRGNUFBeS1Dcm5KY1ZfTm9ud25qQVltMld2Q1puVjBsT0NsVE05blBDVWprTGIzTmdJNXBzdXdjZGxMSlN3cWE3dDJtc2dyQmRTbmZpbHd4dTY2R2RVZ01vMjhXX0x2MjhDcHNGNW5mTmp2MGp2Q2xjOEdnUF9TQnpDWThUa3kxRE1ERk9rNm_SAbABQVVfeXFMT0R1MHlBcm5iUFhvTEV0N29HZWthUXpnTDZENVlHMEw2OVFicXVCQ2FSSEdqWUg2OUstbm5VOEVrdDd6ZTZKUmpLTjZpXzBLell4VVZET1gxX1daaWhrRDNZWk1naGtRTGZSWDV2STFkNnhsN3lvbHA2Z1BZdGh2bXJrV1R5LXVNTVpuc2RpalpjazBEN2VzYm1zLWxxMk9HVkQzb3BIUGhTOTFZQU1XWV8?oc=5\" target=\"_blank\"\u003ePope has 'peaceful night' after his prognosis improves and is lifted\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "title": "Only seven countries met WHO air quality standards in 2024, data shows - Reuters",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOREJyX2F2X2NPbDlicTBIZFE2SGd5bXdvd0hCcmExTVd3Q3ZWbkg1NnhuWHNiTUFWTmQ1VW56dVkxdFpldEl6NXN6cVpDbEhsNkIxV0NLZ3dHV280ZTdNTy0xd1REc05EeDZoUW9tVEViVDRseGpucFFRemhQRGdDSHYwbmFXZ0x6SmYyOGxWM01lX2R1bVp6OG53RzJLb25sbGczVjZKcUIwWTVFc3o1ZllHMngtWVZnTU4yWGRXRy01RER6NFhKM3dGQnFCYmlXLTF5Rg?oc=5\" target=\"_blank\"\u003eOnly seven countries met WHO air quality standards in 2024, data shows\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eReuters\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNVWVlMlY1NHBTZ1F3SXpCbWVxQ1hXWXBmLWVTbllfMHRDNmFYWEN1ejlOT3g2VGVsUkpqRTdGQmFQWUd2Uk1JSFVtVUI5cHAxYVdjYUZLNzZSbERMMC1oV1FxZzRUNXl3YkZuSnpWamZjVHRIZzVNd0N5OXIxODhXVjJBR2hmZW5lUnFvWW9fWnlDOTFQem9fc0gya3fSAZMBQVVfeXFMUFNoaXp3UlFkOXI0ajI2QjdpdmtUV0lqNEJzMHROVmpIN0xaYTQzd2tXN2RnSGtnbGUyYk9hNkFidGlOZ0JRX3EtbnRlRk5MTXFRQ1JrWjZxRjNHbkhibDZlenRua1hUZlZzLUJRZWpGVzdsNlI1UVB6WXI4UWY0SFVTRzFCMzFBUzNxcnpUX0toOHlr?oc=5\" target=\"_blank\"\u003eThe list of the world’s top 20 most polluted cities is out. All but one are in Asia\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNN2NQbEhJMmw2TGxESVdIaXFpZHlHYzlnajZiamczbUowTTZjN3pkVlUxQ1RfUm94N0QwZFgxRXVIdlRNaWJDcUZBNTRTWi14aWVRLWdrb3A0RFBjNTJXZGpnNXZwb3ppSGExS25WYUthck94cktXblJCZmdoSHJpV2xQQ0llQ0hnN2V5bWRPcVdmbkhOZndWaFlNTUVvRHI4cE45OHNucENqbXphcXN1UVluOFVld3ZqVG5EejlkUURHWEhTbWVXOHZR?oc=5\" target=\"_blank\"\u003eMajority of the world's population breathes dirty air, report says\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003e10TV\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVmlic2lsWkZLa0ZhWVRaZ0JPNjN3OFpobFYtR09YLWF2ajU0UlZ2eW1MOF9nS2RPcXd2NE9JMmNtWlBGa2txSThTSlpibV96SGR1TzNzaWhJQmc5cGl5d3hEMENseFBBNjF2QUVuaFBSMUZpQWMzTkg2YkI0OGVrRVVEMmpFNmFYbUdyekxNOFFMdjZZZVp0WFJPbw?oc=5\" target=\"_blank\"\u003eMost polluted cities in the world — and the U.S. — revealed in annual report\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCBS News\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOREJyX2F2X2NPbDlicTBIZFE2SGd5bXdvd0hCcmExTVd3Q3ZWbkg1NnhuWHNiTUFWTmQ1VW56dVkxdFpldEl6NXN6cVpDbEhsNkIxV0NLZ3dHV280ZTdNTy0xd1REc05EeDZoUW9tVEViVDRseGpucFFRemhQRGdDSHYwbmFXZ0x6SmYyOGxWM01lX2R1bVp6OG53RzJLb25sbGczVjZKcUIwWTVFc3o1ZllHMngtWVZnTU4yWGRXRy01RER6NFhKM3dGQnFCYmlXLTF5Rg?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOREJyX2F2X2NPbDlicTBIZFE2SGd5bXdvd0hCcmExTVd3Q3ZWbkg1NnhuWHNiTUFWTmQ1VW56dVkxdFpldEl6NXN6cVpDbEhsNkIxV0NLZ3dHV280ZTdNTy0xd1REc05EeDZoUW9tVEViVDRseGpucFFRemhQRGdDSHYwbmFXZ0x6SmYyOGxWM01lX2R1bVp6OG53RzJLb25sbGczVjZKcUIwWTVFc3o1ZllHMngtWVZnTU4yWGRXRy01RER6NFhKM3dGQnFCYmlXLTF5Rg?oc=5"
+         ],
+         "published": "Tue, 11 Mar 2025 04:08:00 GMT",
+         "publishedParsed": "2025-03-11T04:08:00Z",
+         "guid": "CBMi1AFBVV95cUxOREJyX2F2X2NPbDlicTBIZFE2SGd5bXdvd0hCcmExTVd3Q3ZWbkg1NnhuWHNiTUFWTmQ1VW56dVkxdFpldEl6NXN6cVpDbEhsNkIxV0NLZ3dHV280ZTdNTy0xd1REc05EeDZoUW9tVEViVDRseGpucFFRemhQRGdDSHYwbmFXZ0x6SmYyOGxWM01lX2R1bVp6OG53RzJLb25sbGczVjZKcUIwWTVFc3o1ZllHMngtWVZnTU4yWGRXRy01RER6NFhKM3dGQnFCYmlXLTF5Rg"
+     },
+     {
+         "title": "Pakistan militants attack train and take passengers hostage - BBC.com",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kVjgzakYxTy1zcDZmSHBFd0hhWUpJTVhtM2t0dUVxbi03czVzdTdmdEpPSTdGVlpDX1FoNmhNd2ZnY09BMkJ1QThlc3ZUTlIwRUt1dmhSMWVkZw?oc=5\" target=\"_blank\"\u003ePakistan militants attack train and take passengers hostage\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBBC.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQRmxfYlV4R3V3WlVqR0Ytd01PdWFvZVBsRWpYNldzMVBJQ2R6MEpEa3dwWmVmdTlPS1BHQXZIZ0JCQy1RZlVxai1UY3VJZnhjeFBkTGhwdXNhcXNRYUdfVV8wRzU1Vk95RnM5SmpWNWRmeTFsQlBLbW1hLXhPekYtUUZZb2JHWDQ3V2hMRWEtMXc?oc=5\" target=\"_blank\"\u003eSeparatists Hijack Train Carrying Over 400 Passengers in Pakistan\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPUnhseGY4QVd0QW1kRHJUWGYtV1dQZ2RKYmNCLUFTaEZrN0FCOXVzbnhMWWpLTk1YRUdwRmdFOVJpY0wyVzhiS0pZQ2o3T2JtZmI2YnJBSklHajJmOWg5eVlVU0RqeTJ2Sy1IRXFVUkhiS3JsTmZISktKTTNzeDI4Uy1oaVlSVkpOMGdDeThZWFBPWXVRRnRZZlJqUk9VUDJ2X0REa1QzeUltYmN2NWh0NFRwb2RTYXM?oc=5\" target=\"_blank\"\u003ePakistan Passenger Train Hijacked, Rebel Group Claims Hundreds Of Hostages\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNDTV\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSDhlbGZDQzNOazMwMDBBZ1B4ZDZqNGluYmI4aXhWeWpPSjY3dUQ1ald6N1V2amE2RzcyLUo2aXhKRVZjN1VuOEUweTNEVUJTV05YM295dzdnNTdnNENlSThZTXZCWW9NcmRLVFRVelAwZ3A1ckkzLXFlaWFjX0V1TDZ6cUFBeDR3MUVVQ1N6V1lYN0FlNnR1OE5semZBcy1lR2NxaWdQYmVXNjTSAbABQVVfeXFMT1R0VG41cHUtUWw0SzZVeUkzM0g0ZXBCYmVzVVlJQzFwMkhBYl9mRDBnVFhrV2V1T1FXMXVCUGhNaXR4V1A0NS14S2ZGaGVfRXBDUURJcVJzUWVsVmFlMnBqYS1VZFlFVWRtMmFFbEl0blJBOWhJV1JhQUF6QTdvRWp0WW8tS0pDb2JtZDRzZVFWV0VRcEdTVmxqRHlvOXMwUmNDX3Jwb3gyRFpTV1V0Yno?oc=5\" target=\"_blank\"\u003eGunmen hijack train in Pakistan’s Balochistan, take hundreds hostage\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAl Jazeera English\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPU1hPX3JOMnMtOTl5TWxQcUNSMWFmRDJGY0FjYVdlbVFpUkdVQWpIY3ZtS1htY2k2YzNyZXVOVVlwYmJHTzZKYXZCUEVoTm1ETUY2ZFQ4VS1LYmVCN2tobl9TQkduTk9HT1dyM2pkRVNqd0toS1l5U0c5SUFZMEdQQ0IzTUNpQnZ0cDVzWGJCeUFlNmVmY3N6MjJqd2c0cEUwUmJPMmpVc2E0VTRjcFNIUG1yS1N4RjBYeDhSLWczaHN5RktFTVZRWUw5c3BKWWU2NGdydjlNblZGeXM5OXk0UkdUU3ZGaE83V00zSkVDSHM?oc=5\" target=\"_blank\"\u003ePakistan train hijack: BLA says 182 hostages in its custody, 20 soldiers killed - What we know so far\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Times of India\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kVjgzakYxTy1zcDZmSHBFd0hhWUpJTVhtM2t0dUVxbi03czVzdTdmdEpPSTdGVlpDX1FoNmhNd2ZnY09BMkJ1QThlc3ZUTlIwRUt1dmhSMWVkZw?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kVjgzakYxTy1zcDZmSHBFd0hhWUpJTVhtM2t0dUVxbi03czVzdTdmdEpPSTdGVlpDX1FoNmhNd2ZnY09BMkJ1QThlc3ZUTlIwRUt1dmhSMWVkZw?oc=5"
+         ],
+         "published": "Tue, 11 Mar 2025 13:33:53 GMT",
+         "publishedParsed": "2025-03-11T13:33:53Z",
+         "guid": "CBMiWkFVX3lxTE5kVjgzakYxTy1zcDZmSHBFd0hhWUpJTVhtM2t0dUVxbi03czVzdTdmdEpPSTdGVlpDX1FoNmhNd2ZnY09BMkJ1QThlc3ZUTlIwRUt1dmhSMWVkZw"
+     },
+     {
+         "title": "Pope Francis continues treatment amid ongoing improvement - Vatican News",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjBYaUxKaU92Z19RLUFPbGpXbkN4V3hWRWpPakUtTXdZQ0lGVXQ3X3U2MHdtZ3BrRmVjTU9QMGIwSEVFWld3eFEzc0lGdFphYXVIcXpCU3R3LXZmNWFlRVJhaVNfRTc1NUhqc2xoZ1haOGlYRXRoS0x0SU5kYnN1WUNnellPdm84X1dreVZNVmRwMjNzcF9DOE1rMVAxUVRncVE?oc=5\" target=\"_blank\"\u003ePope Francis continues treatment amid ongoing improvement\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eVatican News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQQkxhLUZodmR0V3ZaRnloVUc3aHluQlpIN3FWVGhEOE5keXFPQmtzcmg1ODctT1ZIVEJkRlhpVUc1ZVNOMlY2RGlXWGRBcmIwVHY0TFRNNmhKdFdVNThCcTRHXzhqZVZjLXFTS2NrSjBrTW5HRVR5U2U1RWl4STllRUF0eTFHemM?oc=5\" target=\"_blank\"\u003ePope Francis follows Vatican spiritual retreat as doctors say he's no longer in imminent danger\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Associated Press\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5ra0xscmotNWExNnhrd1dzWmZQSjRyckNnMmVaMWF5R3Z1WUhySXVQZUpIOTdwZTJwNmszY21xRFNXWHZxX3AyOUNrZ1V0Si01cF90M0FQVGVJVGphS1dmemZUOEVLZ2cxblpic0NEOFRjQXNwVmc1d2pEOA?oc=5\" target=\"_blank\"\u003ePope out of danger, talk turns to return home\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eYahoo\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE94czJEMEtVTE01V3ZjMTBQSm5Bb19jV0tzcC1NQzBrOEtjYnVCZ0ppVTJaNXE3LTdOLVVMckxqMkNoWFNncFJRWExzcnhOejhPRlNSNURZWnZWZ2FqMDBiODRHaXc1N3kzWTVvREUzUmI?oc=5\" target=\"_blank\"\u003eThe Agonizing Familiarity of the Pope’s Condition\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNWVBlVVoxejBnQVd2bXJwNndtMEctdzg4NGZUeEF6LVVYSHBXNGFoZk9MVmNWZ2pRcDBBMlJjTjhPYlNVT3N5UU91bS1tSDVKd0RteEZWeHRGUG9ISkEzeE1MTXI4YU9ENnlndUswU3ZuVDNUVFZYQ0lkMHpDeDFtaW9na0tfa2lsUTJMNk9PdmRhY1RsSVZseXR1MWVwR3Jnd2hGTw?oc=5\" target=\"_blank\"\u003ePope Francis' health shows improvement as 'guarded' prognosis is lifted\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eUSA TODAY\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjBYaUxKaU92Z19RLUFPbGpXbkN4V3hWRWpPakUtTXdZQ0lGVXQ3X3U2MHdtZ3BrRmVjTU9QMGIwSEVFWld3eFEzc0lGdFphYXVIcXpCU3R3LXZmNWFlRVJhaVNfRTc1NUhqc2xoZ1haOGlYRXRoS0x0SU5kYnN1WUNnellPdm84X1dreVZNVmRwMjNzcF9DOE1rMVAxUVRncVE?oc=5",
          "links": [
              "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjBYaUxKaU92Z19RLUFPbGpXbkN4V3hWRWpPakUtTXdZQ0lGVXQ3X3U2MHdtZ3BrRmVjTU9QMGIwSEVFWld3eFEzc0lGdFphYXVIcXpCU3R3LXZmNWFlRVJhaVNfRTc1NUhqc2xoZ1haOGlYRXRoS0x0SU5kYnN1WUNnellPdm84X1dreVZNVmRwMjNzcF9DOE1rMVAxUVRncVE?oc=5"
@@ -950,30 +959,41 @@
          "guid": "CBMiogFBVV95cUxQYjBYaUxKaU92Z19RLUFPbGpXbkN4V3hWRWpPakUtTXdZQ0lGVXQ3X3U2MHdtZ3BrRmVjTU9QMGIwSEVFWld3eFEzc0lGdFphYXVIcXpCU3R3LXZmNWFlRVJhaVNfRTc1NUhqc2xoZ1haOGlYRXRoS0x0SU5kYnN1WUNnellPdm84X1dreVZNVmRwMjNzcF9DOE1rMVAxUVRncVE"
      },
      {
-         "title": "Drought-stricken Algeria plans to import 1 million sheep ahead of Islam's Eid Al-Adha - NPR",
-         "description": "\u003ca href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE13SWlzcklaN1VDdklUTWh1MUxmOVhJSzJwVlRDVWR4M0twRFJidEdLUDhEZjg0aklLYWh2alZESnRlS1JmZDRIZEVVaTZySVNVaFRWV3dMRUtqZmloVmhLNkRUQ1ZXcE50R3lMcHZma1BSazJaQ3Z6SVowZWk0QkE?oc=5\" target=\"_blank\"\u003eDrought-stricken Algeria plans to import 1 million sheep ahead of Islam's Eid Al-Adha\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNPR\u003c/font\u003e\u003cstrong\u003e\u003ca href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l4NDRlNERSSEZJZUh5WGFLeUlTZ0FQAQ?hl=en-US\u0026gl=US\u0026ceid=US:en\u0026oc=5\" target=\"_blank\"\u003eView Full Coverage on Google News\u003c/a\u003e\u003c/strong\u003e",
-         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13SWlzcklaN1VDdklUTWh1MUxmOVhJSzJwVlRDVWR4M0twRFJidEdLUDhEZjg0aklLYWh2alZESnRlS1JmZDRIZEVVaTZySVNVaFRWV3dMRUtqZmloVmhLNkRUQ1ZXcE50R3lMcHZma1BSazJaQ3Z6SVowZWk0QkE?oc=5",
+         "title": "Australian surfer feared dead after shark attack, police say - The Jerusalem Post",
+         "description": "\u003ca href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wQWZ3eTVNSmRnN1RhY05XQlVEVTlHZTZKM080OEM4UEMxSllKUG5UZ2phc1pYN01QRktXQWlNSnZRbVJkeFhqcGptOFJFMmRZR1UtSUs3RVcySHlnekR3?oc=5\" target=\"_blank\"\u003eAustralian surfer feared dead after shark attack, police say\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Jerusalem Post\u003c/font\u003e\u003cstrong\u003e\u003ca href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lIejlPM0RSSExTTVo3Z1NGdDRDZ0FQAQ?hl=en-US\u0026gl=US\u0026ceid=US:en\u0026oc=5\" target=\"_blank\"\u003eView Full Coverage on Google News\u003c/a\u003e\u003c/strong\u003e",
+         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wQWZ3eTVNSmRnN1RhY05XQlVEVTlHZTZKM080OEM4UEMxSllKUG5UZ2phc1pYN01QRktXQWlNSnZRbVJkeFhqcGptOFJFMmRZR1UtSUs3RVcySHlnekR3?oc=5",
          "links": [
-             "https://news.google.com/rss/articles/CBMif0FVX3lxTE13SWlzcklaN1VDdklUTWh1MUxmOVhJSzJwVlRDVWR4M0twRFJidEdLUDhEZjg0aklLYWh2alZESnRlS1JmZDRIZEVVaTZySVNVaFRWV3dMRUtqZmloVmhLNkRUQ1ZXcE50R3lMcHZma1BSazJaQ3Z6SVowZWk0QkE?oc=5"
+             "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wQWZ3eTVNSmRnN1RhY05XQlVEVTlHZTZKM080OEM4UEMxSllKUG5UZ2phc1pYN01QRktXQWlNSnZRbVJkeFhqcGptOFJFMmRZR1UtSUs3RVcySHlnekR3?oc=5"
          ],
-         "published": "Tue, 11 Mar 2025 06:17:36 GMT",
-         "publishedParsed": "2025-03-11T06:17:36Z",
-         "guid": "CBMif0FVX3lxTE13SWlzcklaN1VDdklUTWh1MUxmOVhJSzJwVlRDVWR4M0twRFJidEdLUDhEZjg0aklLYWh2alZESnRlS1JmZDRIZEVVaTZySVNVaFRWV3dMRUtqZmloVmhLNkRUQ1ZXcE50R3lMcHZma1BSazJaQ3Z6SVowZWk0QkE"
+         "published": "Tue, 11 Mar 2025 05:52:15 GMT",
+         "publishedParsed": "2025-03-11T05:52:15Z",
+         "guid": "CBMiX0FVX3lxTE4wQWZ3eTVNSmRnN1RhY05XQlVEVTlHZTZKM080OEM4UEMxSllKUG5UZ2phc1pYN01QRktXQWlNSnZRbVJkeFhqcGptOFJFMmRZR1UtSUs3RVcySHlnekR3"
      },
      {
-         "title": "The list of the world’s top 20 most polluted cities is out. All but one are in Asia - CNN",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNVWVlMlY1NHBTZ1F3SXpCbWVxQ1hXWXBmLWVTbllfMHRDNmFYWEN1ejlOT3g2VGVsUkpqRTdGQmFQWUd2Uk1JSFVtVUI5cHAxYVdjYUZLNzZSbERMMC1oV1FxZzRUNXl3YkZuSnpWamZjVHRIZzVNd0N5OXIxODhXVjJBR2hmZW5lUnFvWW9fWnlDOTFQem9fc0gya3fSAZMBQVVfeXFMUFNoaXp3UlFkOXI0ajI2QjdpdmtUV0lqNEJzMHROVmpIN0xaYTQzd2tXN2RnSGtnbGUyYk9hNkFidGlOZ0JRX3EtbnRlRk5MTXFRQ1JrWjZxRjNHbkhibDZlenRua1hUZlZzLUJRZWpGVzdsNlI1UVB6WXI4UWY0SFVTRzFCMzFBUzNxcnpUX0toOHlr?oc=5\" target=\"_blank\"\u003eThe list of the world’s top 20 most polluted cities is out. All but one are in Asia\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNRktKb0JTdV9FWFgzUjBQTWc1S0xwTFBodUQ0anViY2dyTzNHNWNXQmdjcXpqU1BTY2M4N005ZXJPUmxuVXFOckMxZ2NkUTRZcVVCSF9tRENtdW1iSWpHTmpFS1NKRlJhSjRScUh0V1NwdG9DdTF4YVQ3Nm5ISDFsTGlfN2E5cTVJekQzVWxhRkxjN3VLRE4yaC11V2RESDjSAVZBVV95cUxPOTQwSkYxaWJFQnZHUkJSODl4UnhNdWZZN2lrdVdTWXJ5bHdsSTRIWHpoM1FvWHF6YzUwYWtWUUhwX1dmQzNkVFM3aVhZV29uRW1pamF1UQ?oc=5\" target=\"_blank\"\u003eIndia has six of the world’s 10 most polluted cities, report shows\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNBC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOREJyX2F2X2NPbDlicTBIZFE2SGd5bXdvd0hCcmExTVd3Q3ZWbkg1NnhuWHNiTUFWTmQ1VW56dVkxdFpldEl6NXN6cVpDbEhsNkIxV0NLZ3dHV280ZTdNTy0xd1REc05EeDZoUW9tVEViVDRseGpucFFRemhQRGdDSHYwbmFXZ0x6SmYyOGxWM01lX2R1bVp6OG53RzJLb25sbGczVjZKcUIwWTVFc3o1ZllHMngtWVZnTU4yWGRXRy01RER6NFhKM3dGQnFCYmlXLTF5Rg?oc=5\" target=\"_blank\"\u003eOnly seven countries met WHO air quality standards in 2024, data shows\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eReuters\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTTM0U0hEVlBhdEJTRDJoSXVOejBjVF9aMENfTFdxUmpUZHV6eDc3MEFFZHdVQkZzRzFyUWMtYlVGNTZPZEtiajVsckxjMEdYRERxQXNZRnZJdklTSThSVm5VbmR3QjdYdzZ1bWd5cDA2ZDRIYXRWMU12aC11RjNoeXZMLS1fc09hSDBnWW9VZXBQb3l6WnRkRzZ0WC1HcDNyZTI5VzRoNGdsYXBSNDFXUlNWR3BoTDg4aWxuSExZeVY4QQ?oc=5\" target=\"_blank\"\u003eOnly seven countries worldwide meet WHO dirty air guidelines, study shows\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Guardian\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSGVwZEI2UWxxakQ0UThSLTBfbUJYZXRrdXNIQVRFS2xDZmswM251d3hLLVF5OGQ3NGt6eDdyUG9LUmFPV3hfbVJiY1BDbGNqV0lwT2ZycTUtVi1MbFljUE5EdTU3ZVFxMWlrUW5FNlRkZTNvSF81VHBzRDVJdVJWQjNheEEya25Ja2t6anRHLWVnQXA0Tkhmcnp1RzljSS1ITWVJNm44QnlMZUVRdTVpU1d0VU9jOGQ3SWtSd0lCblhMdWVESUhkQXVrZGVtNzkyMXNseWJEdE5LNnFh?oc=5\" target=\"_blank\"\u003e13 Of World's 20 Most Polluted Cities In India, Delhi Most Polluted Capital\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNDTV\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVWVlMlY1NHBTZ1F3SXpCbWVxQ1hXWXBmLWVTbllfMHRDNmFYWEN1ejlOT3g2VGVsUkpqRTdGQmFQWUd2Uk1JSFVtVUI5cHAxYVdjYUZLNzZSbERMMC1oV1FxZzRUNXl3YkZuSnpWamZjVHRIZzVNd0N5OXIxODhXVjJBR2hmZW5lUnFvWW9fWnlDOTFQem9fc0gya3fSAZMBQVVfeXFMUFNoaXp3UlFkOXI0ajI2QjdpdmtUV0lqNEJzMHROVmpIN0xaYTQzd2tXN2RnSGtnbGUyYk9hNkFidGlOZ0JRX3EtbnRlRk5MTXFRQ1JrWjZxRjNHbkhibDZlenRua1hUZlZzLUJRZWpGVzdsNlI1UVB6WXI4UWY0SFVTRzFCMzFBUzNxcnpUX0toOHlr?oc=5",
+         "title": "Ukrainian Drones Strike Industrial Site in Russia’s Samara Region - The Moscow Times",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNUS0xZ1llbDlINTJkU2ViVVFhX1g0WW85TEprQ1BaZ2lLeTZaeDEzMERVdkczdEZWVXpIemZDZ1JkZnBkT3FrQWV5cjZzZjIxdHBLZFY3akR5Q1RSVFB5aWZ2djNUQjNibHJ0djY2dngyREVMZzQ2MlJHaWxjVXZsMmxmLWtmdWVRQjhidGx3RGhNM19acjdZSG5Qb0ZNSlpPNVpWMWZla3NXcHlxOC1hVFNJYw?oc=5\" target=\"_blank\"\u003eUkrainian Drones Strike Industrial Site in Russia’s Samara Region\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Moscow Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPRHRydEJGUnhvZ0xoYkVQZ0ltT0xIZXUyb0V5NmJzR2xGQ2l2SWMxcHE1SUp1ejFXQW9TVGJZcVNWbXF0ZEdqbjVnc2w0QmkwVkhtbDJnQURJSlFSQW9rektpRS0wdGlBRjllcXo5d2tvaVk0SlRMbzVmNUVZZFpLS1pYVnpldU50UEcwbHJ4MTN3RkdGaHJDaWM1QTJqMnNVSXc?oc=5\" target=\"_blank\"\u003ePutin unwilling to compromise on Ukraine, sets maximalist demands, Bloomberg reports.\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eKyiv Independent\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUN0amg5VlNQNlA3VHVYelA0NTZDTE5ic29XYWxsZ2JENGpRZG05NTZxUUFOR2MyY1VrejkyY2FUaWtiVTBhV1AxMEtnbWJ5Q254YkFXbkVQaTNEa2lHcnVfNUdpOWxfNlM1NU51RkMtMTZTYkFNcmpuMFRjSDVaMzZJZHp2RDFrS2dFU0p5Qng2cXppYk93ZThzNEJBRVAtYWowM2JSQlMzYlAyb0E5Z1RIQ3g?oc=5\" target=\"_blank\"\u003eUkrainian military says it hit oil refineries in two Russian regions\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eReuters\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XSlZEZmFWc3lTNTFqNFBvSzFWR0hNT3hvZzkyZEFNOF9zVnZmRUdXQmp6N1YzeENDNWhvcXE0cEpEZ3R6RXhYY3d0WTdHVkdSenBkUXJuOWxTTnFBclhXV0Mxa1XSAXBBVV95cUxPdVlEcmVXSk5sS2FrQ0tGN2V1ZDdWd1NnQzNrd2d0RjRvN2NtSHlPckVMWDZvcGVWNmszWW5mQ3FSajB6RGx3ZHZQdHBQckpvYl9rYVZXeS00TzJ1OE9TRFo5bk5HaExobUs5MnM1RWVr?oc=5\" target=\"_blank\"\u003eDefence Intelligence of Ukraine drones attack Russian oil refinery producing fuel for supersonic jets – video\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eUkrainska Pravda\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPOEM4dTRETGU0bjFrVTFsempCcUFCelNqd1FOMzZOZ2FQSWpDUFlDa3hVUGtUVEQ2NWtsMEYwTEMtMzVHNzN6YXg5OGdfUXF0TWlGWGF0bWRZUDBiVmlZdXRoU196Wkg2NkF2UWhsSFhjTnpvTFhqUHNZUXM1ajFBSEtvd0JrLV80RzBqUU1tdFNvQlhL?oc=5\" target=\"_blank\"\u003eDrones attack Ryazan, Moscow region, and more - Details\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eRBC-Ukraine\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUS0xZ1llbDlINTJkU2ViVVFhX1g0WW85TEprQ1BaZ2lLeTZaeDEzMERVdkczdEZWVXpIemZDZ1JkZnBkT3FrQWV5cjZzZjIxdHBLZFY3akR5Q1RSVFB5aWZ2djNUQjNibHJ0djY2dngyREVMZzQ2MlJHaWxjVXZsMmxmLWtmdWVRQjhidGx3RGhNM19acjdZSG5Qb0ZNSlpPNVpWMWZla3NXcHlxOC1hVFNJYw?oc=5",
          "links": [
-             "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVWVlMlY1NHBTZ1F3SXpCbWVxQ1hXWXBmLWVTbllfMHRDNmFYWEN1ejlOT3g2VGVsUkpqRTdGQmFQWUd2Uk1JSFVtVUI5cHAxYVdjYUZLNzZSbERMMC1oV1FxZzRUNXl3YkZuSnpWamZjVHRIZzVNd0N5OXIxODhXVjJBR2hmZW5lUnFvWW9fWnlDOTFQem9fc0gya3fSAZMBQVVfeXFMUFNoaXp3UlFkOXI0ajI2QjdpdmtUV0lqNEJzMHROVmpIN0xaYTQzd2tXN2RnSGtnbGUyYk9hNkFidGlOZ0JRX3EtbnRlRk5MTXFRQ1JrWjZxRjNHbkhibDZlenRua1hUZlZzLUJRZWpGVzdsNlI1UVB6WXI4UWY0SFVTRzFCMzFBUzNxcnpUX0toOHlr?oc=5"
+             "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUS0xZ1llbDlINTJkU2ViVVFhX1g0WW85TEprQ1BaZ2lLeTZaeDEzMERVdkczdEZWVXpIemZDZ1JkZnBkT3FrQWV5cjZzZjIxdHBLZFY3akR5Q1RSVFB5aWZ2djNUQjNibHJ0djY2dngyREVMZzQ2MlJHaWxjVXZsMmxmLWtmdWVRQjhidGx3RGhNM19acjdZSG5Qb0ZNSlpPNVpWMWZla3NXcHlxOC1hVFNJYw?oc=5"
          ],
-         "published": "Tue, 11 Mar 2025 04:01:00 GMT",
-         "publishedParsed": "2025-03-11T04:01:00Z",
-         "guid": "CBMinAFBVV95cUxNVWVlMlY1NHBTZ1F3SXpCbWVxQ1hXWXBmLWVTbllfMHRDNmFYWEN1ejlOT3g2VGVsUkpqRTdGQmFQWUd2Uk1JSFVtVUI5cHAxYVdjYUZLNzZSbERMMC1oV1FxZzRUNXl3YkZuSnpWamZjVHRIZzVNd0N5OXIxODhXVjJBR2hmZW5lUnFvWW9fWnlDOTFQem9fc0gya3fSAZMBQVVfeXFMUFNoaXp3UlFkOXI0ajI2QjdpdmtUV0lqNEJzMHROVmpIN0xaYTQzd2tXN2RnSGtnbGUyYk9hNkFidGlOZ0JRX3EtbnRlRk5MTXFRQ1JrWjZxRjNHbkhibDZlenRua1hUZlZzLUJRZWpGVzdsNlI1UVB6WXI4UWY0SFVTRzFCMzFBUzNxcnpUX0toOHlr"
+         "published": "Mon, 10 Mar 2025 09:44:26 GMT",
+         "publishedParsed": "2025-03-10T09:44:26Z",
+         "guid": "CBMiswFBVV95cUxNUS0xZ1llbDlINTJkU2ViVVFhX1g0WW85TEprQ1BaZ2lLeTZaeDEzMERVdkczdEZWVXpIemZDZ1JkZnBkT3FrQWV5cjZzZjIxdHBLZFY3akR5Q1RSVFB5aWZ2djNUQjNibHJ0djY2dngyREVMZzQ2MlJHaWxjVXZsMmxmLWtmdWVRQjhidGx3RGhNM19acjdZSG5Qb0ZNSlpPNVpWMWZla3NXcHlxOC1hVFNJYw"
+     },
+     {
+         "title": "Dalai Lama says his successor to be born outside China - Reuters",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd25Gci1UV0ZKMzRsZFJGN0NJVmUtTjZ1NkZRZHJQdXBCLVh2WGx1cFdQWTZiMlZiN2Z1UFVla2JxOS00alhiWXJMTjF3bkpWX0N4UTBtR0Z2MnNDNC1XMEZGVnNTSXI4ZzlwdFd6cG1OaW5ocnV6NFk0RlFla05UbFBmWHJMYTFTdjN5NEtDVTdubFp4MTAySm5kNHF6SE5pcWRVZ2RQNDBsUQ?oc=5\" target=\"_blank\"\u003eDalai Lama says his successor to be born outside China\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eReuters\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNeE00WXV3TUJneWFQa3EwU3p6dWVDajBFRTZfRi1TLTFucHBPQlNTbDlpSUZjckdNMGlDa0RUaHZsRlZKVVdSSUEzTzNFTzQ1LUZaZDlON2E0bnRoRi1ya2toa2NxUTlOS0VVcGRBUlptSHNfNF9NaDZEYkQza0NISS00aW54NW9YYVdENkVha0VUVGtM0gGaAUFVX3lxTFBrdTM4NU9rVTJyQ21WaG5FYVRiTGNOaC0zdVFFcTNWMG55UzhvaW96NVJOMTNEZzdHOUJ4ZXVMTG02Mjlvc1NrcUtyTnNTd1lLSGFhVXpJUEhKaTl2eG1ySENOZExvN0ZNclM0Rno4SV9JOW1OQWFBMVVDQkFkai16dXVnWXR6VkU4V2VaaHJLUHptalNReDM0bkE?oc=5\" target=\"_blank\"\u003eDalai Lama says his successor to be born outside China - but Beijing says it is their decision\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eSky News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNckxFWWN4V0hwaTNWOW00T1Y4RVBEdjVKS09FNFI1YkhlaEtIdjltY3NYbEFVWl9LQkFIU19vZjNmd2EzUWNvb3NUMGhNRXdGeEtSNUF6Sk9zWHBWVk5RemRTb1FFc3RBaERZcGNHRUpPdk9Za2Zyd3JpcVNNbThGZzBMU1gwM0NWZVg3bXc1SjFWd3U4NFg1N0FrOFdfLU0tMTNLVHRVS2JQaFM3X0x4cDNhSkZQYmUzVzl4b25xRU5jQ0xVWUhLY3BqZFJMWVFkdWdFWmlLcVJQSWIzcHNudTh4NlZLV0owTWxpekdRdnRSV1RzZ0E?oc=5\" target=\"_blank\"\u003eChina slams Dalai Lama, says Beijing will choose Buddhist leader's successor\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eHindustan Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1DYUMtZ1NSblUzNXBoOUVSYVhDMnBUcVd4NF9ROTRwMjJ6ZnBjRGxkY0hBc09lbkptdTVjWmNoU3pua1RVM1RfTFYwUkV2TXRIM2FYaHJUampaQldTdzFLd3FfaHBwekRSY25KLXV2dDdKek1PNXdQN3FGU2RtT2c?oc=5\" target=\"_blank\"\u003eOpinion | Dalai Lama: My hope for the Tibetan people and China\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Washington Post\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTThmQ1BoWE01MTRMbTlwS1NXQjBmb0F0RDkyUGFxNlNVZ0hiQnRHZ3pLSkx4YkZ6MDFfRzZ1QWRzN1BvM1pieTZmV19TZjdodkhudFRkdVgtaXpaX05ZbUt2ZXU3RVBxd1FIUlRRVTN1d25xY1dObUVVTEUtZ2hQeldWUFV2aFQxZXVKc0xQYTFfM0hLNUFpRTBvSGdtTzNoMk9IeVdzNlhFMWdaSUV4Sjg4UGNWT2hOTzk0?oc=5\" target=\"_blank\"\u003eIn new book, Dalai Lama offers a 'framework for Tibet's future' after his death\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eLa Croix International\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd25Gci1UV0ZKMzRsZFJGN0NJVmUtTjZ1NkZRZHJQdXBCLVh2WGx1cFdQWTZiMlZiN2Z1UFVla2JxOS00alhiWXJMTjF3bkpWX0N4UTBtR0Z2MnNDNC1XMEZGVnNTSXI4ZzlwdFd6cG1OaW5ocnV6NFk0RlFla05UbFBmWHJMYTFTdjN5NEtDVTdubFp4MTAySm5kNHF6SE5pcWRVZ2RQNDBsUQ?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd25Gci1UV0ZKMzRsZFJGN0NJVmUtTjZ1NkZRZHJQdXBCLVh2WGx1cFdQWTZiMlZiN2Z1UFVla2JxOS00alhiWXJMTjF3bkpWX0N4UTBtR0Z2MnNDNC1XMEZGVnNTSXI4ZzlwdFd6cG1OaW5ocnV6NFk0RlFla05UbFBmWHJMYTFTdjN5NEtDVTdubFp4MTAySm5kNHF6SE5pcWRVZ2RQNDBsUQ?oc=5"
+         ],
+         "published": "Tue, 11 Mar 2025 08:15:31 GMT",
+         "publishedParsed": "2025-03-11T08:15:31Z",
+         "guid": "CBMiqgFBVV95cUxOd25Gci1UV0ZKMzRsZFJGN0NJVmUtTjZ1NkZRZHJQdXBCLVh2WGx1cFdQWTZiMlZiN2Z1UFVla2JxOS00alhiWXJMTjF3bkpWX0N4UTBtR0Z2MnNDNC1XMEZGVnNTSXI4ZzlwdFd6cG1OaW5ocnV6NFk0RlFla05UbFBmWHJMYTFTdjN5NEtDVTdubFp4MTAySm5kNHF6SE5pcWRVZ2RQNDBsUQ"
      },
      {
          "title": "A horrific killing spree shakes Syria - The Economist",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOMkt0MW1sbl9vb1dkMWc0cVprUkJPRElQbTJrS29XSGxjeTcwZkIzbnhOMEc2azA1Nm1fLWFsQkh5NF8wZ2JpdjdBX0JjcUFSYVJpMEZ5TTVfN2VlZzRnTTB5T0NVRWV4Mm52clZjWTFYM1E0MXlSRDZKYUtpTUIycFI5ZXJ6eU01amVJVnNIdk1FVy15ZXM3UWpUUU9ZZw?oc=5\" target=\"_blank\"\u003eA horrific killing spree shakes Syria\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Economist\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZy03NzZMZjI5cDdYTHJ4QUUzV1FUWFZxLXc2OGUwT05ucXhYS3ZyX1k3bjRwMU1MX0VaYjJoTXFkR3I2QjJLcEdNSERjRTR6TG1mSHFUbmk1eXY5SlRYd1duME9DbkxHSHNnS1pVVEE0dDBYeE1yQkIyMThBdkU2MGZmd3BmVXU0dnNLNHZBRW9QU3RtVmVuamFYa1NJWlJNcVlUSWpNcWZmemplUFNxazRNd3M5aVhERkxz0gHAAUFVX3lxTE56Ny15aFF1NUxJVWY5NDNYeDBuOEVpaWowYmJJWEVWeTM2YmctXzVGbFdLNUFUeTVGZUgzY2tyNWg4MjAzc2hqNFlUSXFBWFAyLUo5UE8wT2RNTi1LSXJIdC1JTkczMlBqbjZIRUhBTVprbkNqS21jeHNMc3lubVdZa1VhZXA0SUZmalU4OEZnU1Fjd2lEZ09BWHBHcW5ybjBnZDg4QV92MXFVRXZXRWx3Qk5oMWloSTE3YWl0UjJiag?oc=5\" target=\"_blank\"\u003eReligious slaughter in Syria shows need for US, Europe to 'keep a close eye' on Islamist regime: Greek FM\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFox News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOSkwyTTBiQTJGQjUwT1Uzb28tM1RRZ2IzcU53RUhhSHNUS1kzYlpqR2F3YWVZZnMwTGVSM2YzcXJIRGlyVVZBS05tUE5FUEx6NjdCQ0R1OEhrcjV3WEt6OUVtbmk4MXEzU0c0U0k1bVVLenhQMHZuRThvLXU2bHd6ZE95enhrXzBnVHR6THFtTk9IWXlWYmUyQzV6emxTcTdySlhQY05TRENWdFZjMTNNRWJRbzctUdIBuwFBVV95cUxPVGNYWDJMTzBRbmNZR3dRWm9CYjZtM0twYnFNN1RGQ05jSmEza0Y0RENoaFRVTTRoRlIyUXl4TkttOFk3ODRxSk4xVWotZGRuT2VCOTJ4ZjFpSzNVMlBVYzU5SWwwd25wWTB2bVhtaDllLWhib3NUanJUYlhXdXZjYlhvVWFnOHcwX254czZFMWNDWElfeGlRUHZNZHIyVkZYSEt1RUxQMTBrT0JHdUN0MVptMjJ3Q2NITGNV?oc=5\" target=\"_blank\"\u003eA Syrian man barely escaped a wave of sectarian killings. His brothers did not\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUVMbFJxa3hxUnJUQVNrLWtiTm9NS2EyUGg2aXBjMUFTdEIyTFlrNWRSZnpndGl0dG1SQjN5TlFoc25ZVFg2RVlUYVhmTnNUX2J6NF9VZGNoSGhtMnozaUJEVDJnSFNUcF8yZFpIMXIzR3V0Q2RMZmw4dXRDUlJBV3ptWlVZWXVmaG9TRDQtLS1jN3dLSGlN?oc=5\" target=\"_blank\"\u003eVideo verified by CNN shows graphic extent of violence in Syria\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNbG5mcVNWSmtqYllDMUk3QXBiekhmM3FZRkdaVzJhakdYV0s3bE9vS0NGWjhzRnVNUUZLSlBreW92WTVPaEJqSkN4UER3b1p4eXp3OUdDT3lzdzdhX192MW1VZFBXdTkxSHA3eEtYSlptc2ZJQ1k3WUJZNEdHdi1KZ1RPXzJwRWxXNXMxTA?oc=5\" target=\"_blank\"\u003eMore than 1,300 Syrians killed in 72 hours amid clashes and acts of revenge\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNPR\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOMkt0MW1sbl9vb1dkMWc0cVprUkJPRElQbTJrS29XSGxjeTcwZkIzbnhOMEc2azA1Nm1fLWFsQkh5NF8wZ2JpdjdBX0JjcUFSYVJpMEZ5TTVfN2VlZzRnTTB5T0NVRWV4Mm52clZjWTFYM1E0MXlSRDZKYUtpTUIycFI5ZXJ6eU01amVJVnNIdk1FVy15ZXM3UWpUUU9ZZw?oc=5\" target=\"_blank\"\u003eA horrific killing spree shakes Syria\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Economist\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZy03NzZMZjI5cDdYTHJ4QUUzV1FUWFZxLXc2OGUwT05ucXhYS3ZyX1k3bjRwMU1MX0VaYjJoTXFkR3I2QjJLcEdNSERjRTR6TG1mSHFUbmk1eXY5SlRYd1duME9DbkxHSHNnS1pVVEE0dDBYeE1yQkIyMThBdkU2MGZmd3BmVXU0dnNLNHZBRW9QU3RtVmVuamFYa1NJWlJNcVlUSWpNcWZmemplUFNxazRNd3M5aVhERkxz0gHAAUFVX3lxTE56Ny15aFF1NUxJVWY5NDNYeDBuOEVpaWowYmJJWEVWeTM2YmctXzVGbFdLNUFUeTVGZUgzY2tyNWg4MjAzc2hqNFlUSXFBWFAyLUo5UE8wT2RNTi1LSXJIdC1JTkczMlBqbjZIRUhBTVprbkNqS21jeHNMc3lubVdZa1VhZXA0SUZmalU4OEZnU1Fjd2lEZ09BWHBHcW5ybjBnZDg4QV92MXFVRXZXRWx3Qk5oMWloSTE3YWl0UjJiag?oc=5\" target=\"_blank\"\u003eReligious slaughter in Syria shows need for US, Europe to 'keep a close eye' on Islamist regime: Greek FM\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFox News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWW93MjBRSy1OaXM1eTl5Y2dBaDVKd0dYeUExaHFBWlh0NUtrZDFBdXlJSXk2eU1Ld3lpQ1cwek12OG1ZLWlQRWdoWFRHNlFiVEx2MU9WeHgwY0YyNVYxYlp4MmJtdG5uWVpqV3B4LW1rODdleXRIVU52b3E0SUhLSmFsTGNIVnR6ejBZQ05OSFQzcWozd3c1RHpZbzJ0R3ZrVlBMRGhxeGU5WmNvdURkcXJ6ZGRuWW5GRGIxRFRmazRhQQ?oc=5\" target=\"_blank\"\u003eSyrian fact-finding committee for sectarian killings says no one above the law\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eReuters\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUVMbFJxa3hxUnJUQVNrLWtiTm9NS2EyUGg2aXBjMUFTdEIyTFlrNWRSZnpndGl0dG1SQjN5TlFoc25ZVFg2RVlUYVhmTnNUX2J6NF9VZGNoSGhtMnozaUJEVDJnSFNUcF8yZFpIMXIzR3V0Q2RMZmw4dXRDUlJBV3ptWlVZWXVmaG9TRDQtLS1jN3dLSGlN?oc=5\" target=\"_blank\"\u003eVideo verified by CNN shows graphic extent of violence in Syria\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0UTNMMzdycFZLYk40UUdmUlpZcWdpRHV4NGgzNFlmeTlTWW1YVkdRdTVSaXpOOWVScnZGSmtmRWNsRzh4cE9wWWhib0hRYzFDbXpSbGdBS2MxZlJz?oc=5\" target=\"_blank\"\u003eAlawite Syrians to 'Post': We need Israel's help from jihadist atrocities - exclusive\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Jerusalem Post\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMkt0MW1sbl9vb1dkMWc0cVprUkJPRElQbTJrS29XSGxjeTcwZkIzbnhOMEc2azA1Nm1fLWFsQkh5NF8wZ2JpdjdBX0JjcUFSYVJpMEZ5TTVfN2VlZzRnTTB5T0NVRWV4Mm52clZjWTFYM1E0MXlSRDZKYUtpTUIycFI5ZXJ6eU01amVJVnNIdk1FVy15ZXM3UWpUUU9ZZw?oc=5",
          "links": [
              "https://news.google.com/rss/articles/CBMingFBVV95cUxOMkt0MW1sbl9vb1dkMWc0cVprUkJPRElQbTJrS29XSGxjeTcwZkIzbnhOMEc2azA1Nm1fLWFsQkh5NF8wZ2JpdjdBX0JjcUFSYVJpMEZ5TTVfN2VlZzRnTTB5T0NVRWV4Mm52clZjWTFYM1E0MXlSRDZKYUtpTUIycFI5ZXJ6eU01amVJVnNIdk1FVy15ZXM3UWpUUU9ZZw?oc=5"
@@ -983,8 +1003,19 @@
          "guid": "CBMingFBVV95cUxOMkt0MW1sbl9vb1dkMWc0cVprUkJPRElQbTJrS29XSGxjeTcwZkIzbnhOMEc2azA1Nm1fLWFsQkh5NF8wZ2JpdjdBX0JjcUFSYVJpMEZ5TTVfN2VlZzRnTTB5T0NVRWV4Mm52clZjWTFYM1E0MXlSRDZKYUtpTUIycFI5ZXJ6eU01amVJVnNIdk1FVy15ZXM3UWpUUU9ZZw"
      },
      {
+         "title": "Flight cancellations at Germany's Hamburg Airport affect more than 40,000 passengers after strike - The Associated Press",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNREt2RmJiTGhTSUoycnZvV2dDTE9oWndOSDdETnN2NmpiY1VnX1hSMHN5YTJFdXYycGdEVWlvLUN2aGRDb0lPSjNjb05aR19fUXlNZGh3RFV0MVFIOWl0MS1qX0pNaFlUTlo5bjFrNjd0dTZXX1NlZUlrVF95UUlVVnpRT0w1c21FVWxMSVRaTUUyQm91?oc=5\" target=\"_blank\"\u003eFlight cancellations at Germany's Hamburg Airport affect more than 40,000 passengers after strike\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Associated Press\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVY1aTQ2QmJmYWRyaFZwYTRIVmFrd2VJMmNHc3pGak13UW9wZFBVekNfYjhOeGxUbnRhSFJDT2sxZDNqbEVRc2hqV1VRMk5iOFQ5NE4yb0hrWGVFVThqbF9Wc216eVNITW1lcjJWc0Y4ZTB1Y2JQYVUzQjBoc2JSakJDcmYzMHJ3Q1RYTGtyVG9uOVhOLXJhaGtUNFpaR21mRl9ETEhXVFlpRDZxWjJBYlVEOA?oc=5\" target=\"_blank\"\u003e24-hour strike at German airports on Monday to impact half a million people\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eReuters\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQcVk4NEdrekJhVzd2NGVJaXNSTFJUcGJwSzZLT002UzJsUUdVMW0zQ3I2TW0xQ3gzcmhQTm9WanZhZElwRlQzdlVMakt1cDBlUVNMc19uaGZ1WVRSc0drb3hpNWxSWXBpMkpBaE5uOEdjQnZzeUhCaFZ2V2VqX1lscW45akc3ZlZwSmfSAYoBQVVfeXFMTWVUTE9oUmVEUlJqOURYVzd5a2x3czBBR05qUHc0dkQzVkw5Uk1EeHJkWlJpTHRSRTRiaHRqUlo1amc4bDVOT0w1SUhvOHZCRXhCZG54MDI1MVlYUHduYlhEb25scklTT0VDd0dlcmFWbkFEMTdXUUZEcU9pUVJGR3VLSUlsQXZaSTRB?oc=5\" target=\"_blank\"\u003eStrikes to hit Frankfurt, 10 other German airports\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eDW (English)\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmdIS01nMlpwa2I3V2RsTXIzdVRnTmZzQkNFYmJZTjZHc3R0NEpqY3ZPaGwxRWxlS1doY2hQTUdHRENKeG1BbHozMVA0MWJSNm13dGphaEx2UUVzUHdGcm1zNzN2TmppbDFlT0FodHYtRTlJSE1yeUZyR0VEUnFCN0ZlM3BrdzJZQkt6TUdiVW92MVQtQUl4WkVCVTdxWm8x0gGXAUFVX3lxTE1fXzR4Vk00Ny1FbVFmcU11bnlVQ3dGZExnM19KTWJRNElsa21FcWlwN2VrRkdYNTYzUWd2QUJVcE04NkllSVZ5LVh1dzFidHh5SEpYQWVMVmZxYi1lSFVCdUJZVUVRVnRDOFVVeHE0dVp2TjBqSG5hQ1Q2dnFmSTlzX24yVXZOYzhadFJtNnY4ZFhFUVNDSG8?oc=5\" target=\"_blank\"\u003eStrikes disrupt hundreds of flights at 13 airports in Germany\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNREt2RmJiTGhTSUoycnZvV2dDTE9oWndOSDdETnN2NmpiY1VnX1hSMHN5YTJFdXYycGdEVWlvLUN2aGRDb0lPSjNjb05aR19fUXlNZGh3RFV0MVFIOWl0MS1qX0pNaFlUTlo5bjFrNjd0dTZXX1NlZUlrVF95UUlVVnpRT0w1c21FVWxMSVRaTUUyQm91?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMilAFBVV95cUxNREt2RmJiTGhTSUoycnZvV2dDTE9oWndOSDdETnN2NmpiY1VnX1hSMHN5YTJFdXYycGdEVWlvLUN2aGRDb0lPSjNjb05aR19fUXlNZGh3RFV0MVFIOWl0MS1qX0pNaFlUTlo5bjFrNjd0dTZXX1NlZUlrVF95UUlVVnpRT0w1c21FVWxMSVRaTUUyQm91?oc=5"
+         ],
+         "published": "Mon, 10 Mar 2025 04:59:00 GMT",
+         "publishedParsed": "2025-03-10T04:59:00Z",
+         "guid": "CBMilAFBVV95cUxNREt2RmJiTGhTSUoycnZvV2dDTE9oWndOSDdETnN2NmpiY1VnX1hSMHN5YTJFdXYycGdEVWlvLUN2aGRDb0lPSjNjb05aR19fUXlNZGh3RFV0MVFIOWl0MS1qX0pNaFlUTlo5bjFrNjd0dTZXX1NlZUlrVF95UUlVVnpRT0w1c21FVWxMSVRaTUUyQm91"
+     },
+     {
          "title": "Guatemala's Fuego volcano erupts: authorities call for evacuation of 30,000 people - Euronews",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQX0VxLXZiblRBRV9GekhlRWJqc3lDel9RWVFCbmVzTEFRZ3lOUVB2QW9zYVJCVnNteVh0N1RhQlV0Q3hTSENyNHFfRmR2UHRJUDVVNlN3QW5Eb2xYSWxOajY1ZU1GNFVzMlM2Zk13ZjhUTUlLM2JkTHY1bGFMbE1BMGhqR0JKZmpLQUc5UTF2bXhQRG02Sng1bUxKakZjS0xWYno2UWE4aHF1WkpYUmdqNHZHa1FMdw?oc=5\" target=\"_blank\"\u003eGuatemala's Fuego volcano erupts: authorities call for evacuation of 30,000 people\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eEuronews\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE15aVdCaV94R3FFN3Z6Mmplb1dramt5eWFIaWc1LWhOSENHdVVwRExWMTdTbHN2S0Z5RW8yc0dmeUdVVFVLaFJBQV9KVEhsdldLM3NUM29VYUlBeUppekZvNTNhN0s3Nk1qVVo0U3dKMmVjaU1pbDJIU0hlN28?oc=5\" target=\"_blank\"\u003e‘Strong eruption’ of volcano in Guatemala forces evacuations\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Guardian\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPbVNmWE5YUFhWeDVNMzF1YmFIUkdDT3dURzJvdkplX1BreFhzNGtnT3N0WDVuRzBNZ1A4b3FSNHFjTTVRNk41ZlV3V09yUDFVR3JFLWI3RjJhSmVtY1hvaUNIU1Zla3p4MkJ4MHI3SHlMcTZWdFJhUWlnQWc4bVE5ZzVrWTJzOVJpUE5GMFA1RQ?oc=5\" target=\"_blank\"\u003eGuatemala volcanic eruption deemed over after spewing lava, evacuations\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eYahoo\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNQVBneWpWSWx4OTlQX21za0lINmJITU0tZ2tHczFqdUdXOW9JMGd1SnFDTnVNcE15eTg1djducDhVZ09qYVFWUHY5U2lIZDhHRGxRTXRzLVlySFB0RDVqaFlYS2pseWtmMWFYVExWdEFuTFN4dFdmaEpoOGZxWUxvLWhpS3VBNU1uaWR1ck1QSQ?oc=5\" target=\"_blank\"\u003ePyroclastic flows surge down Fuego volcano, Guatemala\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Watchers\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNzJCOXNUZ0tMY2EwdGpYTWRIdWNrY2FnM2dVQUdybmFEV3pPRGRaNzZMVDJOSTY4Z2ZPLVpla2llSXhFTGRJSEhTcU5iM3ZuU0g2T2x6RGFUbkVCMWVMUjBzUE5FN1l1N2lIT3A5c09rZGV1VUlOczgxbkw3SUVxSngtb1VCWkMtazlfWWhlWVk0RFdKMzBBQVZxb1BBajR2N1VHSTBuenRKZ9IBrwFBVV95cUxQM2pObE1TWHJzX1ZnWFdwS2M1bGZmX1RXcENFNlQ3MHVZVkstTE1mdTZUUUFCMHZvWWNqaHFWc3lxNXhfdDFnUjVwVWdacUVkeTdMck1CTUtnYWJJRUs4UC0xbWYwUUh0Um9vai1nZ0lEYTJZXzNweFg3NE1wUzQ3b1NwN0ZKTmVoQWd5Slk1WVNGV0dUWnpSdlZKRnoxQnlBTjRFRkU4U3FkWVJiclNZ?oc=5\" target=\"_blank\"\u003eGuatemala's Volcano of Fire erupts and forces evacuations\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQX0VxLXZiblRBRV9GekhlRWJqc3lDel9RWVFCbmVzTEFRZ3lOUVB2QW9zYVJCVnNteVh0N1RhQlV0Q3hTSENyNHFfRmR2UHRJUDVVNlN3QW5Eb2xYSWxOajY1ZU1GNFVzMlM2Zk13ZjhUTUlLM2JkTHY1bGFMbE1BMGhqR0JKZmpLQUc5UTF2bXhQRG02Sng1bUxKakZjS0xWYno2UWE4aHF1WkpYUmdqNHZHa1FMdw?oc=5\" target=\"_blank\"\u003eGuatemala's Fuego volcano erupts: authorities call for evacuation of 30,000 people\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eEuronews\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE0yUXc1Y05aNVNqZWVhYWN5d3NsX1ZDd2RuQUxQNjU4c0JSc25aalR5NHUwcmx2b3gtNHJoY09YTmdNdUIwTGdjdkc0azdpQ3ZsQlJkSmhHbFZmeFluX0FFd0N5MnVlaGZFMmo2R3B2SjNxVGs3eXFIWThBQQ?oc=5\" target=\"_blank\"\u003eSee photos of Volcano of Fire in Guatemala eruption\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCBS News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE15aVdCaV94R3FFN3Z6Mmplb1dramt5eWFIaWc1LWhOSENHdVVwRExWMTdTbHN2S0Z5RW8yc0dmeUdVVFVLaFJBQV9KVEhsdldLM3NUM29VYUlBeUppekZvNTNhN0s3Nk1qVVo0U3dKMmVjaU1pbDJIU0hlN28?oc=5\" target=\"_blank\"\u003e‘Strong eruption’ of volcano in Guatemala forces evacuations\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Guardian\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNQVBneWpWSWx4OTlQX21za0lINmJITU0tZ2tHczFqdUdXOW9JMGd1SnFDTnVNcE15eTg1djducDhVZ09qYVFWUHY5U2lIZDhHRGxRTXRzLVlySFB0RDVqaFlYS2pseWtmMWFYVExWdEFuTFN4dFdmaEpoOGZxWUxvLWhpS3VBNU1uaWR1ck1QSQ?oc=5\" target=\"_blank\"\u003ePyroclastic flows surge down Fuego volcano, Guatemala\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Watchers\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNzJCOXNUZ0tMY2EwdGpYTWRIdWNrY2FnM2dVQUdybmFEV3pPRGRaNzZMVDJOSTY4Z2ZPLVpla2llSXhFTGRJSEhTcU5iM3ZuU0g2T2x6RGFUbkVCMWVMUjBzUE5FN1l1N2lIT3A5c09rZGV1VUlOczgxbkw3SUVxSngtb1VCWkMtazlfWWhlWVk0RFdKMzBBQVZxb1BBajR2N1VHSTBuenRKZ9IBrwFBVV95cUxQM2pObE1TWHJzX1ZnWFdwS2M1bGZmX1RXcENFNlQ3MHVZVkstTE1mdTZUUUFCMHZvWWNqaHFWc3lxNXhfdDFnUjVwVWdacUVkeTdMck1CTUtnYWJJRUs4UC0xbWYwUUh0Um9vai1nZ0lEYTJZXzNweFg3NE1wUzQ3b1NwN0ZKTmVoQWd5Slk1WVNGV0dUWnpSdlZKRnoxQnlBTjRFRkU4U3FkWVJiclNZ?oc=5\" target=\"_blank\"\u003eGuatemala's Volcano of Fire erupts and forces evacuations\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX0VxLXZiblRBRV9GekhlRWJqc3lDel9RWVFCbmVzTEFRZ3lOUVB2QW9zYVJCVnNteVh0N1RhQlV0Q3hTSENyNHFfRmR2UHRJUDVVNlN3QW5Eb2xYSWxOajY1ZU1GNFVzMlM2Zk13ZjhUTUlLM2JkTHY1bGFMbE1BMGhqR0JKZmpLQUc5UTF2bXhQRG02Sng1bUxKakZjS0xWYno2UWE4aHF1WkpYUmdqNHZHa1FMdw?oc=5",
          "links": [
              "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX0VxLXZiblRBRV9GekhlRWJqc3lDel9RWVFCbmVzTEFRZ3lOUVB2QW9zYVJCVnNteVh0N1RhQlV0Q3hTSENyNHFfRmR2UHRJUDVVNlN3QW5Eb2xYSWxOajY1ZU1GNFVzMlM2Zk13ZjhUTUlLM2JkTHY1bGFMbE1BMGhqR0JKZmpLQUc5UTF2bXhQRG02Sng1bUxKakZjS0xWYno2UWE4aHF1WkpYUmdqNHZHa1FMdw?oc=5"
@@ -995,7 +1026,7 @@
      },
      {
          "title": "Argentina flooding: 16 killed as two girls swept away by rising waters - The Guardian",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5oVFhHU2V6ZnRhRjRJbnIwYjhEWElpTm8ycWR5YllwLXJ3NmhVLVM5R0phc1U4TWZJOXhMYnhIOWxodW9URm96d1k0MHNkLXFXRDZyUXlaa3NZcHBMYmZhUU81NlR5ZU05M0NLU0p3OG5Ddw?oc=5\" target=\"_blank\"\u003eArgentina flooding: 16 killed as two girls swept away by rising waters\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Guardian\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNRDQ4dm5NUGlGeF8taGUyVko2WkEtWnpwOFFjclBpQ3Z3MjdodGFBSlNReVpCWHh6OExWWk83NUFmSS1zcGFkQ3cwQTVqYnA4VG1sUk5RdFF2dmktSTQ5YTYwd041NHpDTEdtVFRNZ2o0V0ZSMmNQYlpGSHdFWE5LTVBRN2hPLUFqMloxc1l1Rm54VjdITGJjMXRaYjFWV25CVi1iZW54YU1SdGVhTnVwQ1JZZGU?oc=5\" target=\"_blank\"\u003ePope: May God comfort those suffering catastrophic Argentinian floods\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eVatican News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxcEUtY3AwSGRScWc1RWUwWEdqWl9uSzNoVFB3WlRQMXdpdURNajZSWEZRaGdhTHdqbV92WkllLXZWc0JGU0NFTjZkLVFnNS1fRTR2b0VfQWx4Zw?oc=5\" target=\"_blank\"\u003eArgentine city of Bahía Blanca hit by deadly floods after storm\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBBC.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR3VwTlRPQklUSzJLWEoxR2VPbUJ6YUtzeW9Gd1pfc2NiVzFIWWxnVVJYUkItUFBvWnJJcWV2M1ZLQlNEVGsybzgtZ0dScmlZdmlSajhHU2lrb3hxaDFsSmhFT1RtZklJOUtoQjFnek9DVmZZaXlseWFVWFQ3V2pIVkNmNGUyZFlpUjZlV0FXQ3pEUXBMam1lWlFfcUNpZGR5YURSU1JRR3MwTVRtbWtRaV85Z0x3RjRyMjFDYWFDemVVQ1BKeFpUZQ?oc=5\" target=\"_blank\"\u003eArgentina floods kill at least 10 in Bahia Blanca port city\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eReuters\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOaDE2cmktOEhjRXQ5emV2a2JCNE5wcnJMNW42NjVyYmp0dFFwOXNTSWM5bVl4Q2NjUDVFUnlGVFhVaTRkWjRFN3BNazU1OFlFSWxlbVhicXU4bi1xR09FTHZXQkpfemJodmFtVml6YWRuYlpWQ3kyQ3F0bzdXdkVqdXZYZU5uREMxbWVDZ2w1eVBqczVCbkx0ZjJacUk?oc=5\" target=\"_blank\"\u003eOfficials say heavy rains in Argentina kill at least 16 as dozens reported missing\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Associated Press\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5oVFhHU2V6ZnRhRjRJbnIwYjhEWElpTm8ycWR5YllwLXJ3NmhVLVM5R0phc1U4TWZJOXhMYnhIOWxodW9URm96d1k0MHNkLXFXRDZyUXlaa3NZcHBMYmZhUU81NlR5ZU05M0NLU0p3OG5Ddw?oc=5\" target=\"_blank\"\u003eArgentina flooding: 16 killed as two girls swept away by rising waters\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Guardian\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNRDQ4dm5NUGlGeF8taGUyVko2WkEtWnpwOFFjclBpQ3Z3MjdodGFBSlNReVpCWHh6OExWWk83NUFmSS1zcGFkQ3cwQTVqYnA4VG1sUk5RdFF2dmktSTQ5YTYwd041NHpDTEdtVFRNZ2o0V0ZSMmNQYlpGSHdFWE5LTVBRN2hPLUFqMloxc1l1Rm54VjdITGJjMXRaYjFWV25CVi1iZW54YU1SdGVhTnVwQ1JZZGU?oc=5\" target=\"_blank\"\u003ePope: May God comfort those suffering catastrophic Argentinian floods\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eVatican News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR3VwTlRPQklUSzJLWEoxR2VPbUJ6YUtzeW9Gd1pfc2NiVzFIWWxnVVJYUkItUFBvWnJJcWV2M1ZLQlNEVGsybzgtZ0dScmlZdmlSajhHU2lrb3hxaDFsSmhFT1RtZklJOUtoQjFnek9DVmZZaXlseWFVWFQ3V2pIVkNmNGUyZFlpUjZlV0FXQ3pEUXBMam1lWlFfcUNpZGR5YURSU1JRR3MwTVRtbWtRaV85Z0x3RjRyMjFDYWFDemVVQ1BKeFpUZQ?oc=5\" target=\"_blank\"\u003eArgentina floods kill at least 10 in Bahia Blanca port city\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eReuters\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WYlhhVjRZeHAway1kOTFtVG1SaTI0eFJKYUlWN3htOHQtemtFeHlmTW92SDNaaGVqN0MtUXpKQjdUS1Q2TnhmZ2wyRmw4YllIamtCQzhldk03QQ?oc=5\" target=\"_blank\"\u003eBahía Blanca: Residents flee homes in flooded Argentine city\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBBC.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOaDE2cmktOEhjRXQ5emV2a2JCNE5wcnJMNW42NjVyYmp0dFFwOXNTSWM5bVl4Q2NjUDVFUnlGVFhVaTRkWjRFN3BNazU1OFlFSWxlbVhicXU4bi1xR09FTHZXQkpfemJodmFtVml6YWRuYlpWQ3kyQ3F0bzdXdkVqdXZYZU5uREMxbWVDZ2w1eVBqczVCbkx0ZjJacUk?oc=5\" target=\"_blank\"\u003eOfficials say heavy rains in Argentina kill at least 16 as dozens reported missing\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Associated Press\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oVFhHU2V6ZnRhRjRJbnIwYjhEWElpTm8ycWR5YllwLXJ3NmhVLVM5R0phc1U4TWZJOXhMYnhIOWxodW9URm96d1k0MHNkLXFXRDZyUXlaa3NZcHBMYmZhUU81NlR5ZU05M0NLU0p3OG5Ddw?oc=5",
          "links": [
              "https://news.google.com/rss/articles/CBMickFVX3lxTE5oVFhHU2V6ZnRhRjRJbnIwYjhEWElpTm8ycWR5YllwLXJ3NmhVLVM5R0phc1U4TWZJOXhMYnhIOWxodW9URm96d1k0MHNkLXFXRDZyUXlaa3NZcHBMYmZhUU81NlR5ZU05M0NLU0p3OG5Ddw?oc=5"
@@ -1005,30 +1036,41 @@
          "guid": "CBMickFVX3lxTE5oVFhHU2V6ZnRhRjRJbnIwYjhEWElpTm8ycWR5YllwLXJ3NmhVLVM5R0phc1U4TWZJOXhMYnhIOWxodW9URm96d1k0MHNkLXFXRDZyUXlaa3NZcHBMYmZhUU81NlR5ZU05M0NLU0p3OG5Ddw"
      },
      {
-         "title": "China's capital city is making AI education mandatory, even for elementary schoolers - Business Insider",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWFhubXBlaWZpdFllbWxQcXhKZWEtVDZXeXl6NGpScm5qM3I5Wm0zRndnU2VKb29PelJXdEswZHJ3aWFfbldUWEU5Z1VFMjkzWWp2N2FiT0YxLVdKVThUMU9WN0E3MTJwcjVDZlpOUVNadWhsdU03TXFDQ252OWoxdGVQd05HVmRwOU14M0FRRU5rYnJzbkRpQWlMYXdYVDk3c1B6aUkteVNIa0E?oc=5\" target=\"_blank\"\u003eChina's capital city is making AI education mandatory, even for elementary schoolers\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBusiness Insider\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQSkdkQldwNWZGWG96S2M0Szc4N1h3c05SRkRPOFlqUFdCU05ybFhKeFdLd1lmTURub1NldkNnT3pscldZbXNtTjdQYzM0SHVMU1VCQ3RBUUJxbl8xVGcyWTYzci1IbFBxTmc0XzlXQnROMF9FTUlTbmZ3c2wtSlVkeXBqMTZJek1aclM1QU95Z21ZOUFxSXN3NE1rbUNwcXVIbXJ2RW5zejRoM0x2SDVrVHpGUWFJUGRaNU1ic1c4X0VBaFpuaWVz?oc=5\" target=\"_blank\"\u003eChina's top universities expand enrolment to beef up capabilities in AI, strategic areas\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eReuters\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHBCbkxqT3prT21HSUlFVTFLMWw2dnBFQjlxbHdUYVNOTTh3a1BfWmtUb2w4eDIzR201UjhBRmpsTUk4YS1KNWhpeEw2d1NNNGl1WE1NZWIyNjA4aU1McnhwbmszVGlnTE5oUDYxSGdVWGRYVWZtNjFFVDA1VUpkNjg3b0VnWVJLalJJZHRDYW5FaGN2TEJzZmZvSEhNdFRxV1pHa1ViTXBRTWlGS3VCcUlVRGFmU00?oc=5\" target=\"_blank\"\u003eBeijing to Roll Out AI Courses for Kids to Boost Sector’s Growth\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBloomberg\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9iaUZWMXdBaG5jZTFxYXZvT3ZsX0p1YVV2T0FLTFJxdnFXNk0wdjZvODF1RFFHSFgya3pGQm1SZjZaSDNRd0lCTVJNb3dNajdUbVBLNlBKb0FsR2xMUzFSNkQwUzd0aC1PQzdMdkh2NVVoQ29MbU9IWXV5TUFMU0U?oc=5\" target=\"_blank\"\u003eChina to launch AI courses for primary, secondary school students\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNA\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNNUk2S09FUW8yMElKQkg0SFFsUXdfLTVkZlBReTlTdS10dUYzbW45c29fT2FJVDdHVkIwd1ZnaG8wT3B3YnNOck9sRjFCNzVqUlhHbXU2U3E3ekJFVVQ4ZDB1N1MxcS1WaGVSemcwMEdya05kN1JiTmVsYnB2cEZfbEpPQjFhbnRGbnVtU3lZblFDMGJPTmhyX0EyQ3BBUkkyQTdQcTB1MHNVUHBPQUZJbQ?oc=5\" target=\"_blank\"\u003eChina's six-year-olds are already being offered AI classes in school in a bid to train the next generation of DeepSeek founders\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFortune\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWFhubXBlaWZpdFllbWxQcXhKZWEtVDZXeXl6NGpScm5qM3I5Wm0zRndnU2VKb29PelJXdEswZHJ3aWFfbldUWEU5Z1VFMjkzWWp2N2FiT0YxLVdKVThUMU9WN0E3MTJwcjVDZlpOUVNadWhsdU03TXFDQ252OWoxdGVQd05HVmRwOU14M0FRRU5rYnJzbkRpQWlMYXdYVDk3c1B6aUkteVNIa0E?oc=5",
+         "title": "China's six-year-olds are already being offered AI classes in school in a bid to train the next generation of DeepSeek founders - Fortune",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNNUk2S09FUW8yMElKQkg0SFFsUXdfLTVkZlBReTlTdS10dUYzbW45c29fT2FJVDdHVkIwd1ZnaG8wT3B3YnNOck9sRjFCNzVqUlhHbXU2U3E3ekJFVVQ4ZDB1N1MxcS1WaGVSemcwMEdya05kN1JiTmVsYnB2cEZfbEpPQjFhbnRGbnVtU3lZblFDMGJPTmhyX0EyQ3BBUkkyQTdQcTB1MHNVUHBPQUZJbQ?oc=5\" target=\"_blank\"\u003eChina's six-year-olds are already being offered AI classes in school in a bid to train the next generation of DeepSeek founders\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFortune\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQSkdkQldwNWZGWG96S2M0Szc4N1h3c05SRkRPOFlqUFdCU05ybFhKeFdLd1lmTURub1NldkNnT3pscldZbXNtTjdQYzM0SHVMU1VCQ3RBUUJxbl8xVGcyWTYzci1IbFBxTmc0XzlXQnROMF9FTUlTbmZ3c2wtSlVkeXBqMTZJek1aclM1QU95Z21ZOUFxSXN3NE1rbUNwcXVIbXJ2RW5zejRoM0x2SDVrVHpGUWFJUGRaNU1ic1c4X0VBaFpuaWVz?oc=5\" target=\"_blank\"\u003eChina's top universities expand enrolment to beef up capabilities in AI, strategic areas\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eReuters\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWFhubXBlaWZpdFllbWxQcXhKZWEtVDZXeXl6NGpScm5qM3I5Wm0zRndnU2VKb29PelJXdEswZHJ3aWFfbldUWEU5Z1VFMjkzWWp2N2FiT0YxLVdKVThUMU9WN0E3MTJwcjVDZlpOUVNadWhsdU03TXFDQ252OWoxdGVQd05HVmRwOU14M0FRRU5rYnJzbkRpQWlMYXdYVDk3c1B6aUkteVNIa0E?oc=5\" target=\"_blank\"\u003eChina's capital city is making AI education mandatory, even for elementary schoolers\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBusiness Insider\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBnaWZBdjh0UVFaQzBVUVdPS3F3Nm5EeF9EaE1DX2QwVkxNRThoSC01ZzE3Z09JZmJuUllQb2NkTTQ3eHd0MkMzOGJlVThRbVBOQWV2ZWJ0OHliUTFjNWt5bzMxeTNRcXNId1M2RXlSLWRWaDRDSmgxR0FR?oc=5\" target=\"_blank\"\u003eChina’s six-year-olds are already being offered AI classes in school in a bid to train the next generation of DeepSeek founders\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eYahoo\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHBCbkxqT3prT21HSUlFVTFLMWw2dnBFQjlxbHdUYVNOTTh3a1BfWmtUb2w4eDIzR201UjhBRmpsTUk4YS1KNWhpeEw2d1NNNGl1WE1NZWIyNjA4aU1McnhwbmszVGlnTE5oUDYxSGdVWGRYVWZtNjFFVDA1VUpkNjg3b0VnWVJLalJJZHRDYW5FaGN2TEJzZmZvSEhNdFRxV1pHa1ViTXBRTWlGS3VCcUlVRGFmU00?oc=5\" target=\"_blank\"\u003eBeijing to Roll Out AI Courses for Kids to Boost Sector’s Growth\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBloomberg\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNUk2S09FUW8yMElKQkg0SFFsUXdfLTVkZlBReTlTdS10dUYzbW45c29fT2FJVDdHVkIwd1ZnaG8wT3B3YnNOck9sRjFCNzVqUlhHbXU2U3E3ekJFVVQ4ZDB1N1MxcS1WaGVSemcwMEdya05kN1JiTmVsYnB2cEZfbEpPQjFhbnRGbnVtU3lZblFDMGJPTmhyX0EyQ3BBUkkyQTdQcTB1MHNVUHBPQUZJbQ?oc=5",
          "links": [
-             "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWFhubXBlaWZpdFllbWxQcXhKZWEtVDZXeXl6NGpScm5qM3I5Wm0zRndnU2VKb29PelJXdEswZHJ3aWFfbldUWEU5Z1VFMjkzWWp2N2FiT0YxLVdKVThUMU9WN0E3MTJwcjVDZlpOUVNadWhsdU03TXFDQ252OWoxdGVQd05HVmRwOU14M0FRRU5rYnJzbkRpQWlMYXdYVDk3c1B6aUkteVNIa0E?oc=5"
+             "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNUk2S09FUW8yMElKQkg0SFFsUXdfLTVkZlBReTlTdS10dUYzbW45c29fT2FJVDdHVkIwd1ZnaG8wT3B3YnNOck9sRjFCNzVqUlhHbXU2U3E3ekJFVVQ4ZDB1N1MxcS1WaGVSemcwMEdya05kN1JiTmVsYnB2cEZfbEpPQjFhbnRGbnVtU3lZblFDMGJPTmhyX0EyQ3BBUkkyQTdQcTB1MHNVUHBPQUZJbQ?oc=5"
          ],
-         "published": "Mon, 10 Mar 2025 09:07:00 GMT",
-         "publishedParsed": "2025-03-10T09:07:00Z",
-         "guid": "CBMiqwFBVV95cUxNWFhubXBlaWZpdFllbWxQcXhKZWEtVDZXeXl6NGpScm5qM3I5Wm0zRndnU2VKb29PelJXdEswZHJ3aWFfbldUWEU5Z1VFMjkzWWp2N2FiT0YxLVdKVThUMU9WN0E3MTJwcjVDZlpOUVNadWhsdU03TXFDQ252OWoxdGVQd05HVmRwOU14M0FRRU5rYnJzbkRpQWlMYXdYVDk3c1B6aUkteVNIa0E"
+         "published": "Mon, 10 Mar 2025 16:02:00 GMT",
+         "publishedParsed": "2025-03-10T16:02:00Z",
+         "guid": "CBMisAFBVV95cUxNNUk2S09FUW8yMElKQkg0SFFsUXdfLTVkZlBReTlTdS10dUYzbW45c29fT2FJVDdHVkIwd1ZnaG8wT3B3YnNOck9sRjFCNzVqUlhHbXU2U3E3ekJFVVQ4ZDB1N1MxcS1WaGVSemcwMEdya05kN1JiTmVsYnB2cEZfbEpPQjFhbnRGbnVtU3lZblFDMGJPTmhyX0EyQ3BBUkkyQTdQcTB1MHNVUHBPQUZJbQ"
      },
      {
-         "title": "New York fires 2,000 prison guards who refuse to return to work after wildcat strike - NBC News",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmJiYnJ5NkRNQWVqdURUY2lzVnBiUm4ycjhhVUxnYk5hYUFFNXViX3dKa2R0b2FMSUtfUzQ5eU1jX1YxYnRkTXdUR3czUW9LV1NyQkFjVHgyU1c1SWhRRlcxYXJLbG9iY0llWFc0bHBsRnBjSG13azFBM0dxN1FtQjBBTmY0Y1Vrc0NDOE9ZOTVFNkEwRW96ZjlWejFJYks4aXpjOEs4b2xDeEU1U3N0czZwRmZvd9IBVkFVX3lxTE5ZRzhIb0FrUTQ0T1pYN2k2cndPTWZYT2FWc01qTFJtaks0N1BrT0lzQ0NXOVBmcW13b1BFdGlrX29mTVJNUFFqZGxIM1V3b2Z3RVVsYVhB?oc=5\" target=\"_blank\"\u003eNew York fires 2,000 prison guards who refuse to return to work after wildcat strike\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNBC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPcjI4UlRjUkhrcG9zY2RXbmhXTHJvbDNpVmE2V0x6NS1VSmRRMG16RjRWS2FwVHJ0aWJUaHRfZXVwQWFfOHZUaHNVYXJHNGlwOWJJWkJscVJQZnhUUjhHUjMyVzNxNThrdGNSUXVpWTBMLWtlRkVCTWdHZ2tSM0RXNjBvLWloSXI4dXdpU0wyZV9HYWxWa1B2UHZlZWhwRFlvTGI3T2oxZ2Z1d1IzOVJaaGlR0gG3AUFVX3lxTFBlajFXRFZqT2pxX0QteEdaaXl6S1JoTU1sM2V3OW9MbHJkS1g5RG91Um10MXVuYWZRRkVQOFI2S0ZPZTdKTzRUMXpxWkhZZ2IyUWtSWDlQUkU2RkJ5NW9QOWVyMXREMFp4WU1FUE9PT2UyeGh0cVBjRFpxODh0RzZFZWZnQk1wcGpLRXFSOUJrLURqbXJoWUNNTXZBM0xrbDBPVFdjblFQYWtRR21MaTY3alNkMUxqVQ?oc=5\" target=\"_blank\"\u003eNew York fires more than 2,000 prison guards for refusing to return to work after illegal strike\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFox News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQOEdsYU5FWkpSSGhaRkgxcWhCamduWXNHRlI1d1pWM21sUjAzZzNwZlpyWmVaU0Nsb0Y5TUhxenBja1BQb0NsRWtUZ0xSWjcxVWlyTGJDcG1WazB0N1ozcjU1S01kUTg2U2t4amV1RGJfZk16MndZN0xnTUlMNkFndXNmTnQ0RmExZmFJUEQ5RG5aaFVHQTQ2d0s3OFd5VXJ4dDVJcDROOEE0VHJiUUZR?oc=5\" target=\"_blank\"\u003eDOCCS commissioner: 'The strike is over' as 2,000 COs terminated\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eSpectrum News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNV2NlcHZtMjhGeDk4dzZ2SEY2WUpHSUpjQ1RNMGRlc0gzWW53QlBOR2JvODJ6MkxMdk5zTzB6WTNMM3JYOGFoMTc4eG5MbW5qU0xrWWdBdXRIQ3dJYkdQNFl4THBzMHI4RGp2YURuVmxmSWs5Zjc1WlJSVDFfSlpJaUtHRGo4a3hfLXN2aTA0b0h2cklLZXFaZ1Y3bw?oc=5\" target=\"_blank\"\u003eAnonymous NYS corrections officer dissatisfied with new agreement\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003e13WHAM-TV\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQT0JRbnNYOHFrZEtyaGhhWWQ1aEh0Um9oR0I5amdlTy1xYU51WWlNZFpyZmZjOHZHQ0JEODRwSVFJdW9MbTBQT0xQTkJCalhvQVFYa2VIeUtJWmFzMnB0OUZxVzN5Vlc4Q3JWeE5nRmdrdXdINzdOeU5RbEpoSEJqV1JjUXhzNElrQ09sb2VhX0V6cV9GLXpsYXF6Ymp5RzRIakJTTw?oc=5\" target=\"_blank\"\u003eNY declares prison strike over and will fire 2K correction officers\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eTimes Union \u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmJiYnJ5NkRNQWVqdURUY2lzVnBiUm4ycjhhVUxnYk5hYUFFNXViX3dKa2R0b2FMSUtfUzQ5eU1jX1YxYnRkTXdUR3czUW9LV1NyQkFjVHgyU1c1SWhRRlcxYXJLbG9iY0llWFc0bHBsRnBjSG13azFBM0dxN1FtQjBBTmY0Y1Vrc0NDOE9ZOTVFNkEwRW96ZjlWejFJYks4aXpjOEs4b2xDeEU1U3N0czZwRmZvd9IBVkFVX3lxTE5ZRzhIb0FrUTQ0T1pYN2k2cndPTWZYT2FWc01qTFJtaks0N1BrT0lzQ0NXOVBmcW13b1BFdGlrX29mTVJNUFFqZGxIM1V3b2Z3RVVsYVhB?oc=5",
+         "title": "Medical transport helicopter crash leaves crew members, pilot dead - ABC News",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkE0ejZSZUgtUTRtZ0hBR085VzFyWmZpT2hSVXlOSWwwckpuRnRZcllCT1JyNnY2VmtBZXhmb0NFUUQ2aHc2SjRZRWRFREl2YlkybVVkN0U0am5GT0NwRTgycjB6VWY2QjBkVUp0SGFpZUpTMHZDbnhxQ0tTOFNHTDhuSUhhWHAzZ1hfT1hydlBRdnFheTZLSmg0eUhnM1U?oc=5\" target=\"_blank\"\u003eMedical transport helicopter crash leaves crew members, pilot dead\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQa2tIM2tWaVNyczBOQ0hoejlLNWRhWm93VDY3bmZ1b24tenhEWUZoWnk5MHFTeWdZbi1RTUpqRzNxQ2tWZFVzbUxJUEtvaHg0V0lJd2hESFBjX2N2QWlSc0pNM051cGYzOW4zZ2NoNERpNDUyZjRTeGJHWm1ueDItTnRQQkIyTHM?oc=5\" target=\"_blank\"\u003eOfficials: Medical helicopter crashes near the Natchez Trace, fatalities confirmed\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWLBT\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNN29wZ3RES3R6TEVXX3dEYi02ZE5yQy00YkRVNUs5azNHeUozR2huZE9xcVhDZ3NOTXhOQ1JSbjJNRld5V1N4VGZ1ZEVjazlkYkV4bE9pcTB1VXZVNEJ2dHpHNF9CcFVvUkNpNGNUeVcwd1hBR24welJDOGNYZzhNZjc4RUotTW5nVG9TTVFjQjc1Z2pjMEtuZXhDVdIBoAFBVV95cUxNOW5YWUFUbk9TUW1xV0xreEVtTy03UkJLN2UtMERrSVpsM2ZSLVg2RVY3akhwX0JHWXZWeVYyOFZxRzU4UU8tdXIwU3ZDdEdiLWNqc0tMSkczN29HNHZnOXlFdWxtUGdvWDFNMXlsUUVDZkdfdzlIQmVNTGlsOTZHYW1Ddmx6am9RQVVESTlpYUI4VlZ6M2t4dWZybWNvUk9E?oc=5\" target=\"_blank\"\u003eMedical helicopter crash in Mississippi kills pilot and 2 hospital workers\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCBS News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNTHZ4RzBjV1paNW5iYkZBWmdyZUZmMXJHUDQwWTFtNURlWEF1dGtfRmg2VTRiNS1WdWVuMUR6SUM1N0F3SHladHVLQUJtUkNfVEJiZjFicDVROVRiNUhVRzhqd0RzaDNLclRuZVRJMk1UN1F5OFRBX2tGVzlUd21hYTllZFh5Zw?oc=5\" target=\"_blank\"\u003e3 People Killed in Medical Helicopter Crash in Mississippi\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkE0ejZSZUgtUTRtZ0hBR085VzFyWmZpT2hSVXlOSWwwckpuRnRZcllCT1JyNnY2VmtBZXhmb0NFUUQ2aHc2SjRZRWRFREl2YlkybVVkN0U0am5GT0NwRTgycjB6VWY2QjBkVUp0SGFpZUpTMHZDbnhxQ0tTOFNHTDhuSUhhWHAzZ1hfT1hydlBRdnFheTZLSmg0eUhnM1U?oc=5",
          "links": [
-             "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmJiYnJ5NkRNQWVqdURUY2lzVnBiUm4ycjhhVUxnYk5hYUFFNXViX3dKa2R0b2FMSUtfUzQ5eU1jX1YxYnRkTXdUR3czUW9LV1NyQkFjVHgyU1c1SWhRRlcxYXJLbG9iY0llWFc0bHBsRnBjSG13azFBM0dxN1FtQjBBTmY0Y1Vrc0NDOE9ZOTVFNkEwRW96ZjlWejFJYks4aXpjOEs4b2xDeEU1U3N0czZwRmZvd9IBVkFVX3lxTE5ZRzhIb0FrUTQ0T1pYN2k2cndPTWZYT2FWc01qTFJtaks0N1BrT0lzQ0NXOVBmcW13b1BFdGlrX29mTVJNUFFqZGxIM1V3b2Z3RVVsYVhB?oc=5"
+             "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkE0ejZSZUgtUTRtZ0hBR085VzFyWmZpT2hSVXlOSWwwckpuRnRZcllCT1JyNnY2VmtBZXhmb0NFUUQ2aHc2SjRZRWRFREl2YlkybVVkN0U0am5GT0NwRTgycjB6VWY2QjBkVUp0SGFpZUpTMHZDbnhxQ0tTOFNHTDhuSUhhWHAzZ1hfT1hydlBRdnFheTZLSmg0eUhnM1U?oc=5"
          ],
-         "published": "Tue, 11 Mar 2025 08:05:57 GMT",
-         "publishedParsed": "2025-03-11T08:05:57Z",
-         "guid": "CBMitgFBVV95cUxNYmJiYnJ5NkRNQWVqdURUY2lzVnBiUm4ycjhhVUxnYk5hYUFFNXViX3dKa2R0b2FMSUtfUzQ5eU1jX1YxYnRkTXdUR3czUW9LV1NyQkFjVHgyU1c1SWhRRlcxYXJLbG9iY0llWFc0bHBsRnBjSG13azFBM0dxN1FtQjBBTmY0Y1Vrc0NDOE9ZOTVFNkEwRW96ZjlWejFJYks4aXpjOEs4b2xDeEU1U3N0czZwRmZvd9IBVkFVX3lxTE5ZRzhIb0FrUTQ0T1pYN2k2cndPTWZYT2FWc01qTFJtaks0N1BrT0lzQ0NXOVBmcW13b1BFdGlrX29mTVJNUFFqZGxIM1V3b2Z3RVVsYVhB"
+         "published": "Tue, 11 Mar 2025 03:09:56 GMT",
+         "publishedParsed": "2025-03-11T03:09:56Z",
+         "guid": "CBMinwFBVV95cUxQVkE0ejZSZUgtUTRtZ0hBR085VzFyWmZpT2hSVXlOSWwwckpuRnRZcllCT1JyNnY2VmtBZXhmb0NFUUQ2aHc2SjRZRWRFREl2YlkybVVkN0U0am5GT0NwRTgycjB6VWY2QjBkVUp0SGFpZUpTMHZDbnhxQ0tTOFNHTDhuSUhhWHAzZ1hfT1hydlBRdnFheTZLSmg0eUhnM1U"
+     },
+     {
+         "title": "15 injured when school bus overturns in New Jersey - ABC News",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNX0RNSTRPT1FqbkVDal9tZGRrSW9aYjFRa2V5VG8zcjJiQ0dCYXAwaFFWd2JYdFVDVXY2TXZqYmlLRW8wQVRiekFhbFJQcnFrbVcxYW1hUWpHeE1ST0hfT2Z0N0NOX0ZfcV9sTjFSWDI3M001N2k5MmZYX3dzRms5aXdYejFuZjhZNXI4OVRCaGJRcmlkaWNILVZnUWdER03SAaQBQVVfeXFMUHVvRUZ5V1oyZXpCWUlSbGxNdlNxMTRzUkdPUVM3dGZ1NEZXUF9UajhjeGVKaEZOTWZEd0JUeVVGdEpqOUdWcU1lQi1TQjhuelI5TDdxYmNuSDdKaXhyZXNxbHZBTHowYmFmQndxc2g1a3B0eTlqeVhqVnlyZEJ1WHBYNzRxQlRoSmczNW5adWlCT1VkbnRtRmhhTDVNYWVZX0k0ZmM?oc=5\" target=\"_blank\"\u003e15 injured when school bus overturns in New Jersey\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVW1EeDgzV1JnWDVDTFJVcXI1SDZuNkNDV2ppeEstZTZUTnhmSzhDSEtBOVdJc3VleVp4elpZeFFoTVhXTXJyajZ1RlR4eVFFaDBXMjFtNzJJZTZNSnJrd01WMEVVbWEzUVhWbWNJNi1zSWJQTTFzNGJQUmJsOGlYOEYtUjAzdEtrMVY5VENjUWJIb0dHd20zOHJjSdIBowFBVV95cUxQOTJJUGxhM0xQX2pSY2lsaW5LblJleV81ek9RajMybVhpaklmQklxUXl6c09jNTZKakVUNk96Mzd1Q1pzQjlXa1Z6TXBuMmE1dG5aSk9CTllGWlEtd3BwNElyYTN4VGNTRzNzTFExWS1UXzFOdE5XQU1CQXNMcnZxTGZmSk56aUlMOFpMdE5ZMmhoVEY0R3FwUURtQzhjdGlTVE5v?oc=5\" target=\"_blank\"\u003e15 hurt after school bus overturns on New Jersey highway, officials say\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNBC New York\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOWGQ2RjhmVjh2MkRzb3JWVUZsd3ZSTGNUci1ibzNMRFRkTUtvRDJYUkJSVC1yRjFOV2JVakpla2xsSXZhd0RIMzd3SF93RVNYR05Td0RKNWpZX1BrQ0tkT0FUbkhJUXdybVdJWXk1blZXN1poY1RWZ25hYU5rNnZMel9xaVlaS1JxTWpzVkhZNGNMbldCa0pqWU5td05FQ01seHM4MjlodjYtN0czOExvQTVncXAzblVnUWpXU9IBwgFBVV95cUxOdVB1bEJuNVRDTUdCbXVaRW9lSkRFSzloWVV2R050OTd2YUhDTGt5T0dTUEFEZTJtWlliTVRoNGU0bnF0RjBiWC1PUURwQUtyVEREa2xlcFR2V0lkam4zcHVFY2ZYLUpIaUY3b2p2NUJTYlprdEdkM0E0NHgwWnN4NWZKS0pobFdzUFVsQlBjR0tCWlY2VndQYmdiQUY5bnpfSGJWaXhWNHBRU2V0RFo5RTJ0QzNoOFJrVjZrNmZ1czNRdw?oc=5\" target=\"_blank\"\u003eGSP overturned bus: 14-year-old critical after getting pinned under vehicle on Garden State Parkway in NJ\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC7 New York\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNWHMxTENVT2FkbXhKWE9Qbi16ajFaRUpSSG5nUXJqb3JzVTVlZEFNX0hOU2dnNFp3dHVIWDNHREZhR1R4Y0Vjdy0yZGJuT2NEWExsTENNNkowdVJaSEhhNHZueUl6a2FTQXh2RGlRMFF3T21NUmU5cklIQjREOXBtOFhuYnYxYnhoR2l1aXVkUktlc3oxUEF6dUJfXzBPOXdjNlg3OXFwbFJMbEVSN3A1RGNzN3RDZkU?oc=5\" target=\"_blank\"\u003eSchool bus overturns on parkway in Montvale, injuring 14 children\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNews 12 New Jersey\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9zRldsbWFSZlp0TFJVRXZGX1VVS09iUGRmSUZCLWRpdDN5U01fVzhpZzNRVmQ5a2JVbUpQaHJKWmFGa3E0bFJsNnJGOG5rdXFMSjhGU0NRcFZoS2x1QU5Ub1VQY0hSTVMtWUgwMjFmbGNoYmNRRHFWeFZDWm1Ddw?oc=5\" target=\"_blank\"\u003e13 Injured as School Bus Overturns on New Jersey Highway\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX0RNSTRPT1FqbkVDal9tZGRrSW9aYjFRa2V5VG8zcjJiQ0dCYXAwaFFWd2JYdFVDVXY2TXZqYmlLRW8wQVRiekFhbFJQcnFrbVcxYW1hUWpHeE1ST0hfT2Z0N0NOX0ZfcV9sTjFSWDI3M001N2k5MmZYX3dzRms5aXdYejFuZjhZNXI4OVRCaGJRcmlkaWNILVZnUWdER03SAaQBQVVfeXFMUHVvRUZ5V1oyZXpCWUlSbGxNdlNxMTRzUkdPUVM3dGZ1NEZXUF9UajhjeGVKaEZOTWZEd0JUeVVGdEpqOUdWcU1lQi1TQjhuelI5TDdxYmNuSDdKaXhyZXNxbHZBTHowYmFmQndxc2g1a3B0eTlqeVhqVnlyZEJ1WHBYNzRxQlRoSmczNW5adWlCT1VkbnRtRmhhTDVNYWVZX0k0ZmM?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX0RNSTRPT1FqbkVDal9tZGRrSW9aYjFRa2V5VG8zcjJiQ0dCYXAwaFFWd2JYdFVDVXY2TXZqYmlLRW8wQVRiekFhbFJQcnFrbVcxYW1hUWpHeE1ST0hfT2Z0N0NOX0ZfcV9sTjFSWDI3M001N2k5MmZYX3dzRms5aXdYejFuZjhZNXI4OVRCaGJRcmlkaWNILVZnUWdER03SAaQBQVVfeXFMUHVvRUZ5V1oyZXpCWUlSbGxNdlNxMTRzUkdPUVM3dGZ1NEZXUF9UajhjeGVKaEZOTWZEd0JUeVVGdEpqOUdWcU1lQi1TQjhuelI5TDdxYmNuSDdKaXhyZXNxbHZBTHowYmFmQndxc2g1a3B0eTlqeVhqVnlyZEJ1WHBYNzRxQlRoSmczNW5adWlCT1VkbnRtRmhhTDVNYWVZX0k0ZmM?oc=5"
+         ],
+         "published": "Tue, 11 Mar 2025 13:30:00 GMT",
+         "publishedParsed": "2025-03-11T13:30:00Z",
+         "guid": "CBMinwFBVV95cUxNX0RNSTRPT1FqbkVDal9tZGRrSW9aYjFRa2V5VG8zcjJiQ0dCYXAwaFFWd2JYdFVDVXY2TXZqYmlLRW8wQVRiekFhbFJQcnFrbVcxYW1hUWpHeE1ST0hfT2Z0N0NOX0ZfcV9sTjFSWDI3M001N2k5MmZYX3dzRms5aXdYejFuZjhZNXI4OVRCaGJRcmlkaWNILVZnUWdER03SAaQBQVVfeXFMUHVvRUZ5V1oyZXpCWUlSbGxNdlNxMTRzUkdPUVM3dGZ1NEZXUF9UajhjeGVKaEZOTWZEd0JUeVVGdEpqOUdWcU1lQi1TQjhuelI5TDdxYmNuSDdKaXhyZXNxbHZBTHowYmFmQndxc2g1a3B0eTlqeVhqVnlyZEJ1WHBYNzRxQlRoSmczNW5adWlCT1VkbnRtRmhhTDVNYWVZX0k0ZmM"
      },
      {
          "title": "New details emerge in search for missing University of Pittsburgh student Sudiksha Konanki in the Dominican Republic - ABC News",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzBaYXhIYjBVdUY2WGRUVmNWbmppNkxtWXBtZUthNTRoaXAtM3ZsUllQUl9tOHRXTlA1b3NXTFIzQVhNQ25mN1VLNTlOZzRGNmxxYng3SjV3WVpfaC1MaTFYWHQyMlUzdmdfMDVXQkhjSDc2RUNOMkIwSFl1M3hISWhjVWhqUEVpaGlzY0J2S0twak5HXzg2TzFFTkEzRmU3OWZnNUNaYXhoYm9t0gGyAUFVX3lxTE9fRkRtaGpma3VId0VXaml5WW5GSDd2ZzVPMEtHVzAyYjRsZk9DSk15NTEwaWJLdTRLNHBIZzMyMzJ5ekIxTk5ONEdUNm9LNHJGLVdzOTRmdDMzY0d4SUxkR3hEaGFvcHc1MFh1Y3JaMmdRTElhUHZ5Q0YzUmh2RGNPY0ZJUW5SalJVb0RzdWNLUFotTFd4SWY0Q3hnR2NEbzdkQlkzU2V5RTEtcXN2OXR5QlE?oc=5\" target=\"_blank\"\u003eNew details emerge in search for missing University of Pittsburgh student Sudiksha Konanki in the Dominican Republic\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWDgzZ1hMY0drVDFYUXRURV9laUdnemRrRHdfbXRtbnhmTlRDNjJhd3pqa1FkYm1LaEp3WWN6VWVHUkJDaHphMGRaTE9XdC1GTUh4ejdDQVVzSmhUOFN5UHRQOXRrM1ZreGhYdlJzZ29IYlJkVXlxWVNWSXZZelhSYXh4OUJaOW01d1hCbQ?oc=5\" target=\"_blank\"\u003eAmerican college student missing in Dominican Republic didn't drown, Natalee Holloway private eye believes\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eYahoo\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQakotWDFycFBqTWhkMTktay1IUHNlM2EtdVZWM3VFem9kMmQ4MGhNamJIdzdNbExIMlgtQU5tcUhNTmZscG9sMnNESXgySnpLYzJ6UUFCR2N6NnZ5N2R1Sm53MmJMVXhIQzlzTlZjbzlENVlZU3o2Y25UbGxsZnRUTnNtQjJpTWpwUFd4ZHpMVVlUUUlqbjMxeHh6ZXplTDR1MmtJVDhGenU3T3N6eFlKWmloM2w0NkpRbFpuRnBTRmFqUXR5?oc=5\" target=\"_blank\"\u003eDetails emerge in disappearance of US student in Dominican Republic\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eUSA TODAY\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR1lKYnJfRkhLZnRaOWFYbWRjQTBnUnJic0lQM1VnTTBfX296bXlhUTlKeVpoVVBkV3F3N2JDemhVRnRhcVZTRnJxbm5Pc0FVSXlxMzc3WWZkRG9fWkdXek5uZGZtWlZONGFkdnNNWHRYZUVoNW9JVkwxOUN5TTBGSVJ2Z1l1WGg0RWQ1bEJRVy1XaGNWeThYcXNSMWMwUkNDQjlSMjJoYUNNWmY1d0psOW5tQlVieEFNZXlGTHBuMVJMS1hvZ2t0c1lKM2ZCbEtQalp0NU1WMEJ0UGhrTXM3WktB?oc=5\" target=\"_blank\"\u003ePolice interview man last seen with Loudoun Co. college student who disappeared in Dominican Republic\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWTOP\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlBvZVdvNHZrZUNUSGFySFJtVW1RbGVPNl9od0llZUlIOWpaTmpQWEI2c0Z3cklSeTFucU00ZmZ4MFNLVlBmV1EtQnlFMGRyMllfTkZMS09aLXc3OEIwSXFPODdOb0dKQnF5WWpTLXBiOEp1dXpCTURRdmVCSS1KTW8yOUtfWFQtTTJqR3Mxc0poWkXSAZgBQVVfeXFMTXVOcG5ENWZVcS1MXzk5clN0V09JNURQZ3JyRHhQXzM0dDRDbEUwRW1jdi1tcVhTU2ZoWFppaUVULW80bWFjNS1hczB1SEJ3MUdDOXZqWkprQ3FBWmJfVFcybGY4YlI0RjdkREY4M3ZsVFBNOTdSd1ZBb2lzUUJJdExwNkV0MmkxWERMRXFBQWxnQU1qQlh2VUM?oc=5\" target=\"_blank\"\u003eAmerican college student believed to have drowned in big wave: report\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFox News\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzBaYXhIYjBVdUY2WGRUVmNWbmppNkxtWXBtZUthNTRoaXAtM3ZsUllQUl9tOHRXTlA1b3NXTFIzQVhNQ25mN1VLNTlOZzRGNmxxYng3SjV3WVpfaC1MaTFYWHQyMlUzdmdfMDVXQkhjSDc2RUNOMkIwSFl1M3hISWhjVWhqUEVpaGlzY0J2S0twak5HXzg2TzFFTkEzRmU3OWZnNUNaYXhoYm9t0gGyAUFVX3lxTE9fRkRtaGpma3VId0VXaml5WW5GSDd2ZzVPMEtHVzAyYjRsZk9DSk15NTEwaWJLdTRLNHBIZzMyMzJ5ekIxTk5ONEdUNm9LNHJGLVdzOTRmdDMzY0d4SUxkR3hEaGFvcHc1MFh1Y3JaMmdRTElhUHZ5Q0YzUmh2RGNPY0ZJUW5SalJVb0RzdWNLUFotTFd4SWY0Q3hnR2NEbzdkQlkzU2V5RTEtcXN2OXR5QlE?oc=5\" target=\"_blank\"\u003eNew details emerge in search for missing University of Pittsburgh student Sudiksha Konanki in the Dominican Republic\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPSXd2OWxxN0pkRDdBUm5NNm5UY2Q0eWx0Z2dvbVBWb002M2UxVHkwM0RIT1p6WDFfQ0ZjNUZVWVFsSXFySUs0YkljaE5IOUVlSHFnXzF3YWxrMnpPR0E1QUxscjhZcE40V1BvVXNROE9JZzgyc3l3RXRmaUpITXY3M2JmRDhEaV9WRFh2NkZ4SWFHdG52OVdkRkNwM0xvcE1TR013VThBYXBXSS1PV0dITnBrU3RCR0NKVnFLNWZ3S0gydkZIUG1J0gHMAUFVX3lxTE83RENoUERBeUpkZFl2NEtMcXN1TWd5aEltM0daUjJRN3UtVFF0Nk9maVhaejhHd3l3amhlekpTTXFtR01TMHN1T2x2b0Rqd0JwLS12aTdQSmVKcXJNNml5T2s3dll2RDdqSjBWejFTdk1ob2RqbXVVUkcydVdWOTdwR3pINUVCcnduam41NUQ0bTJ0XzA2b0p4dGRSSmgzUzY0amFWUThFUDV0em1rb19xQUNJbTEweUh2RDdYZ1Z4STNXbURzMUg1eHdOSQ?oc=5\" target=\"_blank\"\u003eSudiksha Konanki disappearance: Dominican Republic traveler claims resort didn't give info on beach safety\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFox News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOU29INmpVVzQyOHlDZnFjVk5Dem13V0dlbGlzY0dCQ3UtQjZXeVJZcXZVWVJGajNXUWJ2YU8yQVpYR0JuSmYteVAzTFJzQXc1NWUtSUJnMjdVZU1kNm1EcW81OEJYUEVHTTFPWklXblQ1aFNvMkZNdUdMUWZOMmRiODNIV09jemNaYk1tTTZKQdIBhgFBVV95cUxOZmlnS3pyNnZCeUtjSFBKb0tncTJkMDc4V2tIaVRBVTlicTNNcXh2eTlhQjdZR2F0QnV2SXpJZDVLSGdocEx0MlBwenlJNzk1ZWtjM19ETUxqMjV1WVIxM1c0ZWZaUU9SOWZMVVJ4NGdzRzItblNxVGF1LWdwZEtUdFdXdXgwUQ?oc=5\" target=\"_blank\"\u003eWhat we know about the US college student missing in Dominican Republic\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWDgzZ1hMY0drVDFYUXRURV9laUdnemRrRHdfbXRtbnhmTlRDNjJhd3pqa1FkYm1LaEp3WWN6VWVHUkJDaHphMGRaTE9XdC1GTUh4ejdDQVVzSmhUOFN5UHRQOXRrM1ZreGhYdlJzZ29IYlJkVXlxWVNWSXZZelhSYXh4OUJaOW01d1hCbQ?oc=5\" target=\"_blank\"\u003eAmerican college student missing in Dominican Republic didn't drown, Natalee Holloway private eye believes\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eYahoo\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzBaYXhIYjBVdUY2WGRUVmNWbmppNkxtWXBtZUthNTRoaXAtM3ZsUllQUl9tOHRXTlA1b3NXTFIzQVhNQ25mN1VLNTlOZzRGNmxxYng3SjV3WVpfaC1MaTFYWHQyMlUzdmdfMDVXQkhjSDc2RUNOMkIwSFl1M3hISWhjVWhqUEVpaGlzY0J2S0twak5HXzg2TzFFTkEzRmU3OWZnNUNaYXhoYm9t0gGyAUFVX3lxTE9fRkRtaGpma3VId0VXaml5WW5GSDd2ZzVPMEtHVzAyYjRsZk9DSk15NTEwaWJLdTRLNHBIZzMyMzJ5ekIxTk5ONEdUNm9LNHJGLVdzOTRmdDMzY0d4SUxkR3hEaGFvcHc1MFh1Y3JaMmdRTElhUHZ5Q0YzUmh2RGNPY0ZJUW5SalJVb0RzdWNLUFotTFd4SWY0Q3hnR2NEbzdkQlkzU2V5RTEtcXN2OXR5QlE?oc=5",
          "links": [
              "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzBaYXhIYjBVdUY2WGRUVmNWbmppNkxtWXBtZUthNTRoaXAtM3ZsUllQUl9tOHRXTlA1b3NXTFIzQVhNQ25mN1VLNTlOZzRGNmxxYng3SjV3WVpfaC1MaTFYWHQyMlUzdmdfMDVXQkhjSDc2RUNOMkIwSFl1M3hISWhjVWhqUEVpaGlzY0J2S0twak5HXzg2TzFFTkEzRmU3OWZnNUNaYXhoYm9t0gGyAUFVX3lxTE9fRkRtaGpma3VId0VXaml5WW5GSDd2ZzVPMEtHVzAyYjRsZk9DSk15NTEwaWJLdTRLNHBIZzMyMzJ5ekIxTk5ONEdUNm9LNHJGLVdzOTRmdDMzY0d4SUxkR3hEaGFvcHc1MFh1Y3JaMmdRTElhUHZ5Q0YzUmh2RGNPY0ZJUW5SalJVb0RzdWNLUFotTFd4SWY0Q3hnR2NEbzdkQlkzU2V5RTEtcXN2OXR5QlE?oc=5"
@@ -1039,7 +1081,7 @@
      },
      {
          "title": "A 4-year-old’s mom ate his ice cream. He called the cops - CNN",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQbVR2M1UwV29MT0k5WWZvbzlMTkgwc0VKNjBPUHl5SVhaNjlxWVJpX19uM2FkcjRKeWVlWlVrM3JISGtQSTMtQWZNbC1Pc1RPaVJXdWc4SDZ5T3RCQWFTTm1adjZ0NC0tTDE3T085RHIyUGdfMXprYUF2V3F4Q2pLQ3dn0gF4QVVfeXFMTTJRWGVsdm5GVG9Td2RvNDJYbkZnb1lrTFlobXMtNm4tMkVyeWVnSHE1MV9tQ19jdExWNUExRFVENGo1WG5RXzQyY3pLQVhhM0NlN2ZhYzlUc1A4NjVRYmJUTE1tMktRZjRGY291X0JCUGthS2JzOVYy?oc=5\" target=\"_blank\"\u003eA 4-year-old’s mom ate his ice cream. He called the cops\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFIwODhRNF9TSnVvNi1idFlieWFWdlhRaE91VHlLdGx3MHVkMEVMRlgxSmJTanRySHpqUFpycmd1R2taZU15cDgzVjdULTRFRjFob3BUYkgxWGEwckhSX1hxeWNPTXRvMjBHNThRYVFDMU5fQ3JMbEhxZm5BOWNHNFJPdlR3WXNNWVp0c0NETDZGdk1pSUFDMDk2c3psYVhL?oc=5\" target=\"_blank\"\u003eWisconsin boy, 4, calls 911 because his mom 'ate his ice cream.'\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eUSA TODAY\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQRjFydkVVOEJZamNXaE5FUk5EUHFSTjA3OS1QckxrbE9pOHJVNWtuUWtIVHIybjlWMFpVOEkzWGhicVJTakdjZ3lOOGpEWmgtR2xjSU1zTmFQeWg5UUpfUF9mRGQ0ZlB0NHU4RWVzNlQ5aTAwY1BDZHJTTUE1bWFOZ1RIdUVMUdIBiwFBVV95cUxORVdhOUxEV3oyOFpPMnk0QVdzZjYzdGVMcmh6cGZZcDloOXFnZGlFbGJHRHktN0tGUnBoeUNJb2dDMnlSc0toUncxLTBsRWRaVm1rZVFRT2F5WW5qZWdWVXl6cE1UVDZ0RVFKa19IUzFWN1dLV0o1UkNMel82ZURDRlJsTUU2eld3MHc4?oc=5\" target=\"_blank\"\u003e4-year-old boy calls 911 after 'bad mom' eats his ice cream\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkx5b0N2QlMwSWM1US0tblB4SkdudFBieXRUUU9jYXhiWHo0ZmJuZFkyN2J4R0N3UDRMZFZxMm5GcTJwQTBRRHhkZTUwZGlCMXpkeXVkenVIX1F6RjhFQUhBR3Q3dGwzbGFDeHU4Y1NwZmV2RHZtQld6aGVWVWJrUmt6VVc5LVNhZC1BME1fRHAyb3ZTUHpFOXJtMFBFNjdTbVY3dnVWZEpMcjlJRFF4R0lRbXRYLTFMUHBZaVlTeDA?oc=5\" target=\"_blank\"\u003e4-year-old calls police in Wisconsin after mom eats his ice cream\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Associated Press\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQeVlPZl9MNDNQZUtXMEdNeldQUVJLekN1OEFxcGUwSDgzYUw4bzR0VHNIOWVwX2c2cUtNM1BCNGJsU2o0ZkF4bUY3SFE0U3lVdW5nZlEzcWx2dVJtOHNXRVJhcGt4cFJpd2pxVU1KTEhFdzltWWVuNzk5SDgzbGhWaC1hSlN5OGlnLTdIZGZ2QlY2bWNYbGVfVXZnOW1JdWsxR1Nn?oc=5\" target=\"_blank\"\u003e4-Year-Old Wisconsin Boy Calls the Police After His Mom Eats His Ice Cream: ‘Come Get My Mommy\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003ePEOPLE\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQbVR2M1UwV29MT0k5WWZvbzlMTkgwc0VKNjBPUHl5SVhaNjlxWVJpX19uM2FkcjRKeWVlWlVrM3JISGtQSTMtQWZNbC1Pc1RPaVJXdWc4SDZ5T3RCQWFTTm1adjZ0NC0tTDE3T085RHIyUGdfMXprYUF2V3F4Q2pLQ3dn0gF4QVVfeXFMTTJRWGVsdm5GVG9Td2RvNDJYbkZnb1lrTFlobXMtNm4tMkVyeWVnSHE1MV9tQ19jdExWNUExRFVENGo1WG5RXzQyY3pLQVhhM0NlN2ZhYzlUc1A4NjVRYmJUTE1tMktRZjRGY291X0JCUGthS2JzOVYy?oc=5\" target=\"_blank\"\u003eA 4-year-old’s mom ate his ice cream. He called the cops\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQRjFydkVVOEJZamNXaE5FUk5EUHFSTjA3OS1QckxrbE9pOHJVNWtuUWtIVHIybjlWMFpVOEkzWGhicVJTakdjZ3lOOGpEWmgtR2xjSU1zTmFQeWg5UUpfUF9mRGQ0ZlB0NHU4RWVzNlQ5aTAwY1BDZHJTTUE1bWFOZ1RIdUVMUdIBiwFBVV95cUxORVdhOUxEV3oyOFpPMnk0QVdzZjYzdGVMcmh6cGZZcDloOXFnZGlFbGJHRHktN0tGUnBoeUNJb2dDMnlSc0toUncxLTBsRWRaVm1rZVFRT2F5WW5qZWdWVXl6cE1UVDZ0RVFKa19IUzFWN1dLV0o1UkNMel82ZURDRlJsTUU2eld3MHc4?oc=5\" target=\"_blank\"\u003e4-year-old boy calls 911 after 'bad mom' eats his ice cream\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkx5b0N2QlMwSWM1US0tblB4SkdudFBieXRUUU9jYXhiWHo0ZmJuZFkyN2J4R0N3UDRMZFZxMm5GcTJwQTBRRHhkZTUwZGlCMXpkeXVkenVIX1F6RjhFQUhBR3Q3dGwzbGFDeHU4Y1NwZmV2RHZtQld6aGVWVWJrUmt6VVc5LVNhZC1BME1fRHAyb3ZTUHpFOXJtMFBFNjdTbVY3dnVWZEpMcjlJRFF4R0lRbXRYLTFMUHBZaVlTeDA?oc=5\" target=\"_blank\"\u003e4-year-old calls police in Wisconsin after mom eats his ice cream\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Associated Press\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFIwODhRNF9TSnVvNi1idFlieWFWdlhRaE91VHlLdGx3MHVkMEVMRlgxSmJTanRySHpqUFpycmd1R2taZU15cDgzVjdULTRFRjFob3BUYkgxWGEwckhSX1hxeWNPTXRvMjBHNThRYVFDMU5fQ3JMbEhxZm5BOWNHNFJPdlR3WXNNWVp0c0NETDZGdk1pSUFDMDk2c3psYVhL?oc=5\" target=\"_blank\"\u003eWisconsin boy, 4, calls 911 because his mom 'ate his ice cream.'\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eUSA TODAY\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQeVlPZl9MNDNQZUtXMEdNeldQUVJLekN1OEFxcGUwSDgzYUw4bzR0VHNIOWVwX2c2cUtNM1BCNGJsU2o0ZkF4bUY3SFE0U3lVdW5nZlEzcWx2dVJtOHNXRVJhcGt4cFJpd2pxVU1KTEhFdzltWWVuNzk5SDgzbGhWaC1hSlN5OGlnLTdIZGZ2QlY2bWNYbGVfVXZnOW1JdWsxR1Nn?oc=5\" target=\"_blank\"\u003e4-Year-Old Wisconsin Boy Calls the Police After His Mom Eats His Ice Cream: ‘Come Get My Mommy\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003ePEOPLE\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbVR2M1UwV29MT0k5WWZvbzlMTkgwc0VKNjBPUHl5SVhaNjlxWVJpX19uM2FkcjRKeWVlWlVrM3JISGtQSTMtQWZNbC1Pc1RPaVJXdWc4SDZ5T3RCQWFTTm1adjZ0NC0tTDE3T085RHIyUGdfMXprYUF2V3F4Q2pLQ3dn0gF4QVVfeXFMTTJRWGVsdm5GVG9Td2RvNDJYbkZnb1lrTFlobXMtNm4tMkVyeWVnSHE1MV9tQ19jdExWNUExRFVENGo1WG5RXzQyY3pLQVhhM0NlN2ZhYzlUc1A4NjVRYmJUTE1tMktRZjRGY291X0JCUGthS2JzOVYy?oc=5",
          "links": [
              "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbVR2M1UwV29MT0k5WWZvbzlMTkgwc0VKNjBPUHl5SVhaNjlxWVJpX19uM2FkcjRKeWVlWlVrM3JISGtQSTMtQWZNbC1Pc1RPaVJXdWc4SDZ5T3RCQWFTTm1adjZ0NC0tTDE3T085RHIyUGdfMXprYUF2V3F4Q2pLQ3dn0gF4QVVfeXFMTTJRWGVsdm5GVG9Td2RvNDJYbkZnb1lrTFlobXMtNm4tMkVyeWVnSHE1MV9tQ19jdExWNUExRFVENGo1WG5RXzQyY3pLQVhhM0NlN2ZhYzlUc1A4NjVRYmJUTE1tMktRZjRGY291X0JCUGthS2JzOVYy?oc=5"
@@ -1047,61 +1089,6 @@
          "published": "Tue, 11 Mar 2025 11:27:00 GMT",
          "publishedParsed": "2025-03-11T11:27:00Z",
          "guid": "CBMiggFBVV95cUxQbVR2M1UwV29MT0k5WWZvbzlMTkgwc0VKNjBPUHl5SVhaNjlxWVJpX19uM2FkcjRKeWVlWlVrM3JISGtQSTMtQWZNbC1Pc1RPaVJXdWc4SDZ5T3RCQWFTTm1adjZ0NC0tTDE3T085RHIyUGdfMXprYUF2V3F4Q2pLQ3dn0gF4QVVfeXFMTTJRWGVsdm5GVG9Td2RvNDJYbkZnb1lrTFlobXMtNm4tMkVyeWVnSHE1MV9tQ19jdExWNUExRFVENGo1WG5RXzQyY3pLQVhhM0NlN2ZhYzlUc1A4NjVRYmJUTE1tMktRZjRGY291X0JCUGthS2JzOVYy"
-     },
-     {
-         "title": "3 People Killed in Medical Helicopter Crash in Mississippi - The New York Times",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNTHZ4RzBjV1paNW5iYkZBWmdyZUZmMXJHUDQwWTFtNURlWEF1dGtfRmg2VTRiNS1WdWVuMUR6SUM1N0F3SHladHVLQUJtUkNfVEJiZjFicDVROVRiNUhVRzhqd0RzaDNLclRuZVRJMk1UN1F5OFRBX2tGVzlUd21hYTllZFh5Zw?oc=5\" target=\"_blank\"\u003e3 People Killed in Medical Helicopter Crash in Mississippi\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQa2tIM2tWaVNyczBOQ0hoejlLNWRhWm93VDY3bmZ1b24tenhEWUZoWnk5MHFTeWdZbi1RTUpqRzNxQ2tWZFVzbUxJUEtvaHg0V0lJd2hESFBjX2N2QWlSc0pNM051cGYzOW4zZ2NoNERpNDUyZjRTeGJHWm1ueDItTnRQQkIyTHM?oc=5\" target=\"_blank\"\u003eOfficials: Medical helicopter crashes near the Natchez Trace, fatalities confirmed\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWLBT\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMizAJBVV95cUxPazZERlpqVzdXUFZUWFVZS2ZnMURhN09ha0NGaFRCZ2Q1VGNHeDFRQi0zanBlb1FsY1l5WEx4cHh6M1NpcVlfaHZHMXQwRE1sRlNyekdBcDB2MnhXVGdUUjVVNHJGWnpDMUlRNW9QV2h4Yk5hNlU1OW9jNmx3RHZWNm5mczVwVUVaYUlkMzl5SjRhbW0xRU9WVmdxUkJfcUk4T0RJLVFUN29SYmYyYmZqTTJ0YnBrb2NfSFgwbUNNVUU2QWRPbEliRzVHcEFhdmdoY1I2Q2VPMFhDX1VBMkZ3RFFZRkhHYnpsRFU0S2l3ZmUyRnNVV3FlOFZuSk9TOTRkZWFjZU1PZFlLemJTY2FFTF9abWtMeTBOSjhRV19Fa2dXQmY5UXBEVHNCSDFWRW4tRjBuZGRwc2FFamhTbTVab3UyWXRfdjVVVk1wMQ?oc=5\" target=\"_blank\"\u003eMedical helicopter crash in Mississippi kills 3, investigation underway\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eKOMO News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkE0ejZSZUgtUTRtZ0hBR085VzFyWmZpT2hSVXlOSWwwckpuRnRZcllCT1JyNnY2VmtBZXhmb0NFUUQ2aHc2SjRZRWRFREl2YlkybVVkN0U0am5GT0NwRTgycjB6VWY2QjBkVUp0SGFpZUpTMHZDbnhxQ0tTOFNHTDhuSUhhWHAzZ1hfT1hydlBRdnFheTZLSmg0eUhnM1XSAaQBQVVfeXFMTXlrTUNPczlRMXVKMG55Y0tGeXZXWkpmSnMyTk1LaUFNMHZ5ckNKY2ZSQ21BbjF5UGRRcWVpT05QYjNnMVNiSU5xNHVFWjJwcUQyX0tWNy11TWNPVUdqTWMwR0xEXzl3SUNpcmZObU1NaEhhSDYyS3pRS2ZlUjJKM0JmaEstOG9fM2lud093d0JKLW5nME9xdGUzRU85OUIzQi12aHo?oc=5\" target=\"_blank\"\u003eMedical transport helicopter crash leaves crew members, pilot dead\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPUDBIU0YxSHJSU0hWTkxkM05ZOXozUE9reE1BQVZCWlRxWXZBdjV0YWFsTDZqTlVQM1oya1RGLUJGajBPZElrOW9tNmoyN1c3bkxvTENvLTNpSnR5d1RpMzNJVTB0UHVTYWQwbFp3Uk5rV2FfX0Vscm5OZUprcUdocUZBMUFmajVUendmbFFaSF9EUnNFVTBJc9IBngFBVV95cUxNWVpxbmRUbTFkR0x2YUtsN0hPdG9HMndFdnlLSXBtdFpiRW5ZVW9Fbnl3YjdvNGV1cTVPZmZlVy1CaGItTDRJamNRVE9HMTlpcXJWZ0pwWnd3VWRpRWRQQWJzRHFMemUyc3hnbkYyNEhDN0FBUUJoSjUwcUtXVlg0ckFkcTRUbkFHSzBGaWZCbW9vT0V0MXFVSlNSa2Z1QQ?oc=5\" target=\"_blank\"\u003e3 killed after medical helicopter crashes near Natchez Trace\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWJTV\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTHZ4RzBjV1paNW5iYkZBWmdyZUZmMXJHUDQwWTFtNURlWEF1dGtfRmg2VTRiNS1WdWVuMUR6SUM1N0F3SHladHVLQUJtUkNfVEJiZjFicDVROVRiNUhVRzhqd0RzaDNLclRuZVRJMk1UN1F5OFRBX2tGVzlUd21hYTllZFh5Zw?oc=5",
-         "links": [
-             "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTHZ4RzBjV1paNW5iYkZBWmdyZUZmMXJHUDQwWTFtNURlWEF1dGtfRmg2VTRiNS1WdWVuMUR6SUM1N0F3SHladHVLQUJtUkNfVEJiZjFicDVROVRiNUhVRzhqd0RzaDNLclRuZVRJMk1UN1F5OFRBX2tGVzlUd21hYTllZFh5Zw?oc=5"
-         ],
-         "published": "Tue, 11 Mar 2025 05:00:00 GMT",
-         "publishedParsed": "2025-03-11T05:00:00Z",
-         "guid": "CBMihgFBVV95cUxNTHZ4RzBjV1paNW5iYkZBWmdyZUZmMXJHUDQwWTFtNURlWEF1dGtfRmg2VTRiNS1WdWVuMUR6SUM1N0F3SHladHVLQUJtUkNfVEJiZjFicDVROVRiNUhVRzhqd0RzaDNLclRuZVRJMk1UN1F5OFRBX2tGVzlUd21hYTllZFh5Zw"
-     },
-     {
-         "title": "The University of Pittsburgh orders a hiring freeze for faculty, staff - 90.5 WESA",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0hKanRQNFdqMkhfanJVcXFCX2ZyWjQ0eWttVFg1aVVhZVRGNzNNU05OZ0w1elRXaFZFcDNtTHJoem5TLVhpcmNDNzlFWmw0bm1FVXQ3UkFTbDNNRzgxdk11ZDYzUWhlRmo5UUQwcXh1cEs0TU1UM0tabGFBTnpqU0J5bE55OE9jdGp1VmVQdw?oc=5\" target=\"_blank\"\u003eThe University of Pittsburgh orders a hiring freeze for faculty, staff\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003e90.5 WESA\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQQy1TMC1YT0cyZkhMNE05U2doNFdhRl9DWXZRM0FmZkFiYWU4elRzUE9jVWhyM052bmNJR29GdFFZWk1VdThZUG5BMHBiOWp3SUFxVWdyQmt0dU9kZFhLaFpZU3VkSUttek96cTVtZ2draXNNY3RXVUxrM0gtME9lbEEwSk80NW9nM0preWZ0RXZwZTdZ?oc=5\" target=\"_blank\"\u003e‘Uncharted territory.’ Harvard and MIT freeze hiring as Trump widens crackdown on universities.\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Boston Globe\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ0dCT0FYcjA5UHBSaDA4UTZPT1V2Z0ZSVm9qSjNfcWNKTjlmQ0ZzdXJJR0JHNXlPRWE4N0xTUExOeFpXY0tCVWQ1NVRvUTB0RUpxTVcyRFJQbXlIMHpkanpMQlFNSmMxWXp3LW1YX2tkOWo4ZEJ1MjNRSHVGbk1yd3RHZk9zTVZC?oc=5\" target=\"_blank\"\u003eNews Market: ️ Cutbacks at UPenn\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAxios\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ0hpdm9UZTl3QjRWNjBYWVF1WDA4RTNLeEVRN0hWRWVTcngwR0JGWXBvZVptTUFsR3lRdDh2SVJLYUNCZjNpZTFzdEhaNTgtRTJtalIxU2pXNjU1d0drdmN0bFpvVVYxaEp4eXFUdGRBcDkxOVF1NWpQSnc5LXl4aFdVQXo1ZGVSTUY5VGF6NFUxUmVoUEdHVFBB?oc=5\" target=\"_blank\"\u003eAs Trump Goes After Universities, Students Are Now on the Chopping Block\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOSkpYZjY0bEg0TmpQbER4V09sbUcteDFyVWdwc283TTZXZThlOUJmaDZtYldCQnptWGFjU0VNOG8yM3FrMFByMmJJRGgxQWtMc2QwWFU1TldyRHRvQ0pzLTI4SjYyVkU5aVg3TnFlS21HMU5ETHdpbDZzNlJVekpLY2piR0JuZmRCcDB6dDRmZlRnS1ZRaUY0?oc=5\" target=\"_blank\"\u003ePitt freezes all hiring amid funding cutbacks\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eTribLIVE\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0hKanRQNFdqMkhfanJVcXFCX2ZyWjQ0eWttVFg1aVVhZVRGNzNNU05OZ0w1elRXaFZFcDNtTHJoem5TLVhpcmNDNzlFWmw0bm1FVXQ3UkFTbDNNRzgxdk11ZDYzUWhlRmo5UUQwcXh1cEs0TU1UM0tabGFBTnpqU0J5bE55OE9jdGp1VmVQdw?oc=5",
-         "links": [
-             "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0hKanRQNFdqMkhfanJVcXFCX2ZyWjQ0eWttVFg1aVVhZVRGNzNNU05OZ0w1elRXaFZFcDNtTHJoem5TLVhpcmNDNzlFWmw0bm1FVXQ3UkFTbDNNRzgxdk11ZDYzUWhlRmo5UUQwcXh1cEs0TU1UM0tabGFBTnpqU0J5bE55OE9jdGp1VmVQdw?oc=5"
-         ],
-         "published": "Mon, 10 Mar 2025 20:27:00 GMT",
-         "publishedParsed": "2025-03-10T20:27:00Z",
-         "guid": "CBMijwFBVV95cUxNV0hKanRQNFdqMkhfanJVcXFCX2ZyWjQ0eWttVFg1aVVhZVRGNzNNU05OZ0w1elRXaFZFcDNtTHJoem5TLVhpcmNDNzlFWmw0bm1FVXQ3UkFTbDNNRzgxdk11ZDYzUWhlRmo5UUQwcXh1cEs0TU1UM0tabGFBTnpqU0J5bE55OE9jdGp1VmVQdw"
-     },
-     {
-         "title": "Syrian Government Signs Breakthrough Deal With Kurdish-Led Forces - The New York Times",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNUW1jOXA4WHlXUHBpWHVuUmZhRXltSUtmR1U5c2p3bWIwZHh2cXItT1NhdnpValJmVy1QUnRKTE0tTHVPeHBsd0duWmNWTU5NcEM0SFVCdnFEdnF6X2plX2xEMTVkZGhSZ2pwZkhBd0dCbENEZHRvZkt0VWNDZS1ZUUtOZTI?oc=5\" target=\"_blank\"\u003eSyrian Government Signs Breakthrough Deal With Kurdish-Led Forces\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWZfMV9JaXJBdkhCNWNRcXdjZXQyejJGNko5Z0tBZ2lpakNjVmxZYkhRVlhjTk50T1dfV0ZSNE1zNGIzTW5wcDNwZVV3ZTJjVmtsUnpVcWMxQUJ2ZnZMSVk5bkhGb2dpV2tWTGVRMmx5VE5QTVlLU0dnZmZPV2pUUEcyTUlYRERkYk9JeGVEbXFTSTBGSmNDYVJ2ODJ0dWNrR21kWXJnVGVwNFMtZTNlbnBFb9IBVkFVX3lxTE5tNHV0WDVMOVNEOFRyMHlQM3Q2ZktfS2d3dE0ta040c2JmSk4xWVJmRmRWYVg3WmxyU19KQ2NJT1A0bjFFRUl0aEI1N0ItYXl3NXdSenpB?oc=5\" target=\"_blank\"\u003eIn a big step for Syria, U.S.-backed Kurdish forces will merge with government army\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNBC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ09ESXpjWndmbGo2ZllQZVRsZlFaNTJ1M1A5eGdBMzVrWDJnRkxPVkpGcFN4X3Bfb1AyTHRxR3FTLW50bVNVODJlT0tqVE9hdlNKWkItQ0xrMDYtdmk4Q0twWFB2OXNYeFVJaWdXLXpHejBCMFJYc0FIcHlfOWxSSWxsVDR3eEg3Y0M1SWdvTUpmakgxMlBDbDY1WQ?oc=5\" target=\"_blank\"\u003eSyrian Kurds celebrate deal with Damascus as coastal residents remain wary after violence\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Independent\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOZTFJQWlBelRPVkhwTDhRNVo5aDlKRVFKY0VPZW5UcUU2VkY5aVpVMFRZVVUyVGhEWVR3VU1vRTNYU01nc3hsMDZ5alNmVjJySUtLVm5rWmQtNUNma25IUDUzMGxLbGN3TGFGRDlXSzU5aDc3UWJTLXJPTXVGSFBaTWE3MVNva0pFU3RBWTVqYmZ3TGN1Ny1xZUI2UG1iM3F1cjFiejlBWDlsNnEwbVBnRHF2alh2anl5eVNRSjBSM3d5T20zckpR?oc=5\" target=\"_blank\"\u003eSyria's interim president signs deal with Kurdish-led SDF to merge forces\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eReuters\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOV3I2bGZSc21PNnVBNHZxaTZpWG1iUXVMTUZWQWYtQzQ3azB6VDg5SmktYmdhVmJKZDNibnRVcFhyVXJKVms1d2VLVXpTWF9rVi1JY0xQY2R4Mnl0aE1VTEstd3JST0JvOE44dmJvSGdKSzdoVkJRamxBeWtmYnRkc1BSN09Kd3pqUlJVZjlCd9IBhgFBVV95cUxON3pMWFo1dFQ2alpIN1ozRUlsSmg0eE5xSXRXVGNSeEUzbjljTFhjYXBrRkZKLTBDOFNmTjNTWDB3c01jaDF1MVpCemViQjE5NzlIMjFqUUR3TkdMTGxJdFVTSjVFSkp5XzFDbUVBMzRST3gtS3VQdUQ5TTVGclF3dGlsMFh5QQ?oc=5\" target=\"_blank\"\u003eSyria’s new government strikes deal to integrate powerful Kurdish rival in landmark agreement\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUW1jOXA4WHlXUHBpWHVuUmZhRXltSUtmR1U5c2p3bWIwZHh2cXItT1NhdnpValJmVy1QUnRKTE0tTHVPeHBsd0duWmNWTU5NcEM0SFVCdnFEdnF6X2plX2xEMTVkZGhSZ2pwZkhBd0dCbENEZHRvZkt0VWNDZS1ZUUtOZTI?oc=5",
-         "links": [
-             "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUW1jOXA4WHlXUHBpWHVuUmZhRXltSUtmR1U5c2p3bWIwZHh2cXItT1NhdnpValJmVy1QUnRKTE0tTHVPeHBsd0duWmNWTU5NcEM0SFVCdnFEdnF6X2plX2xEMTVkZGhSZ2pwZkhBd0dCbENEZHRvZkt0VWNDZS1ZUUtOZTI?oc=5"
-         ],
-         "published": "Mon, 10 Mar 2025 21:22:30 GMT",
-         "publishedParsed": "2025-03-10T21:22:30Z",
-         "guid": "CBMihAFBVV95cUxNUW1jOXA4WHlXUHBpWHVuUmZhRXltSUtmR1U5c2p3bWIwZHh2cXItT1NhdnpValJmVy1QUnRKTE0tTHVPeHBsd0duWmNWTU5NcEM0SFVCdnFEdnF6X2plX2xEMTVkZGhSZ2pwZkhBd0dCbENEZHRvZkt0VWNDZS1ZUUtOZTI"
-     },
-     {
-         "title": "Tornado Hits Florida TV Station During Live Weather Broadcast - The Weather Channel",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNc04tTDdnaFQ1NW81X3FxNjVmeWRsenFEQkd2QzNXTXNxZmxiTEJYNVE3bkR5aG5yVGUzOVRSYjlhSG9qY1ZTY1J4UGxyQUJmMEhTM3FrSEIyYXRGcm9PQ1hWeUxYMzd6c1NCNzFTMHZiX1hEcHBUNmI5R1BmUGcxUzdCeHgtUk15ck1WdWRXSERPV28?oc=5\" target=\"_blank\"\u003eTornado Hits Florida TV Station During Live Weather Broadcast\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Weather Channel\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQNWZNMXpTMlplOHhkLXhnWnNfSFFESllncV8tVk91VXVHNnhpUm9PTTY4X0pIb3QydXhlRjhpQVdIWFI2STh0MXl0QWhISEJYWjZDbk5pOVRoZmdWNTJSSmpKZGNFVDYtdzNwMUkzemw1Q3RmdEVfQ1Rpd2ZCVlNuSzBKdVJ5dw?oc=5\" target=\"_blank\"\u003eNational Weather Service confirms EF2 tornado hit Florida subdivision, TV station. See photos\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eYahoo\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOYlBOS0x3ZGZKaU9LMDBxd19NQ1o1SDFfUkFlekQtUkdVQW9sejIxX29BbC1pS3lCZ01iaFhOeFBlT2RwZWxZTmJndzk0di1xS0ZBclhhS1JFUzRwNUdHd2VQRHpmdDhkUkxORlgxS0ZRRXNIWUhCYmRIZ2tTZWh6REtR?oc=5\" target=\"_blank\"\u003eLongwood homeowners assess damage after EF2 tornado\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWESH 2 Orlando\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE12Z0w5YmxvNm5XNVFXWXBXM0JHSXM1QmFqOWJiTU5mb3BqZjVPQ0JEdEJjWlZlb2MyMnotV3Q4NW5xd08wR1FVNkR2TkM1N2NHU0lyQWlWaTNCZDZEbjQwYUZ5aVpod0VpbXFCUW5ER3pjelBJc1gtaTl3?oc=5\" target=\"_blank\"\u003eHome collapses in Longwood as strong storms move across Central Florida\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNews 13 Orlando\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSk1OWkluTUkyWFVQaHdYMkZkSHp6RFVZS2xKeDdxNzZMc1VqMWRuWVI4TmJHbUs2RTdGS0c4cFR0SEJpS2hUTGUxdl95WF9aSVlscXhWM1Y1cDlNQjBrdEFGRFRFV0F0dzdmZlppNk4xR3B1RW1qVWt6d2N6UGt0U1dWUmNYVUN1LXNXWE95dFFhbk1Nei1sam5HYw?oc=5\" target=\"_blank\"\u003eFlorida EF-2 tornado destroys homes after hitting FOX 35 Orlando TV station during live newscast\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFox Weather \u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc04tTDdnaFQ1NW81X3FxNjVmeWRsenFEQkd2QzNXTXNxZmxiTEJYNVE3bkR5aG5yVGUzOVRSYjlhSG9qY1ZTY1J4UGxyQUJmMEhTM3FrSEIyYXRGcm9PQ1hWeUxYMzd6c1NCNzFTMHZiX1hEcHBUNmI5R1BmUGcxUzdCeHgtUk15ck1WdWRXSERPV28?oc=5",
-         "links": [
-             "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc04tTDdnaFQ1NW81X3FxNjVmeWRsenFEQkd2QzNXTXNxZmxiTEJYNVE3bkR5aG5yVGUzOVRSYjlhSG9qY1ZTY1J4UGxyQUJmMEhTM3FrSEIyYXRGcm9PQ1hWeUxYMzd6c1NCNzFTMHZiX1hEcHBUNmI5R1BmUGcxUzdCeHgtUk15ck1WdWRXSERPV28?oc=5"
-         ],
-         "published": "Mon, 10 Mar 2025 21:53:32 GMT",
-         "publishedParsed": "2025-03-10T21:53:32Z",
-         "guid": "CBMikwFBVV95cUxNc04tTDdnaFQ1NW81X3FxNjVmeWRsenFEQkd2QzNXTXNxZmxiTEJYNVE3bkR5aG5yVGUzOVRSYjlhSG9qY1ZTY1J4UGxyQUJmMEhTM3FrSEIyYXRGcm9PQ1hWeUxYMzd6c1NCNzFTMHZiX1hEcHBUNmI5R1BmUGcxUzdCeHgtUk15ck1WdWRXSERPV28"
-     },
-     {
-         "title": "New York prison strike ends as 75% of officers return to work, officials say - Gothamist",
-         "description": "\u003ca href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOMmhLZHhzZldCOFBWQmI5TWp1cUNhZWx1OVBLdUVNYlVYZDE5eGlOYkpkVWpUTUx1WlVVVWotSVA2RTY2bHVzaUtfY3BsYzB5U2xFNHd0TnVTbV96N1pmNF9tYmdvM2lPWnFQT2l0eks2VThrYlJ3c0p1U3dGNHAyYUxpZWFkeDhIVjhkNWdtZC1RRG5WQ01DR0NQWDRlbDNZcUlR?oc=5\" target=\"_blank\"\u003eNew York prison strike ends as 75% of officers return to work, officials say\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eGothamist\u003c/font\u003e\u003cstrong\u003e\u003ca href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pQbmR5ekRSRWg3RlIyRlhyZURDZ0FQAQ?hl=en-US\u0026gl=US\u0026ceid=US:en\u0026oc=5\" target=\"_blank\"\u003eView Full Coverage on Google News\u003c/a\u003e\u003c/strong\u003e",
-         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMmhLZHhzZldCOFBWQmI5TWp1cUNhZWx1OVBLdUVNYlVYZDE5eGlOYkpkVWpUTUx1WlVVVWotSVA2RTY2bHVzaUtfY3BsYzB5U2xFNHd0TnVTbV96N1pmNF9tYmdvM2lPWnFQT2l0eks2VThrYlJ3c0p1U3dGNHAyYUxpZWFkeDhIVjhkNWdtZC1RRG5WQ01DR0NQWDRlbDNZcUlR?oc=5",
-         "links": [
-             "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMmhLZHhzZldCOFBWQmI5TWp1cUNhZWx1OVBLdUVNYlVYZDE5eGlOYkpkVWpUTUx1WlVVVWotSVA2RTY2bHVzaUtfY3BsYzB5U2xFNHd0TnVTbV96N1pmNF9tYmdvM2lPWnFQT2l0eks2VThrYlJ3c0p1U3dGNHAyYUxpZWFkeDhIVjhkNWdtZC1RRG5WQ01DR0NQWDRlbDNZcUlR?oc=5"
-         ],
-         "published": "Mon, 10 Mar 2025 23:20:00 GMT",
-         "publishedParsed": "2025-03-10T23:20:00Z",
-         "guid": "CBMiowFBVV95cUxOMmhLZHhzZldCOFBWQmI5TWp1cUNhZWx1OVBLdUVNYlVYZDE5eGlOYkpkVWpUTUx1WlVVVWotSVA2RTY2bHVzaUtfY3BsYzB5U2xFNHd0TnVTbV96N1pmNF9tYmdvM2lPWnFQT2l0eks2VThrYlJ3c0p1U3dGNHAyYUxpZWFkeDhIVjhkNWdtZC1RRG5WQ01DR0NQWDRlbDNZcUlR"
      },
      {
          "title": "Show HN: Factorio Learning Environment – Agents Build Factories",
@@ -1114,6 +1101,26 @@
          "publishedParsed": "2025-03-11T12:02:02Z"
      },
      {
+         "title": "Mapping the University of Chicago's 135-Year Expansion into Hyde Park and Beyond",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43332424\"\u003eComments\u003c/a\u003e",
+         "link": "https://chicagomaroon.github.io/data-visualizations/2025/uchicago-property/",
+         "links": [
+             "https://chicagomaroon.github.io/data-visualizations/2025/uchicago-property/"
+         ],
+         "published": "Tue, 11 Mar 2025 13:50:22 +0000",
+         "publishedParsed": "2025-03-11T13:50:22Z"
+     },
+     {
+         "title": "A 10x Faster TypeScript",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43332830\"\u003eComments\u003c/a\u003e",
+         "link": "https://devblogs.microsoft.com/typescript/typescript-native-port/",
+         "links": [
+             "https://devblogs.microsoft.com/typescript/typescript-native-port/"
+         ],
+         "published": "Tue, 11 Mar 2025 14:32:23 +0000",
+         "publishedParsed": "2025-03-11T14:32:23Z"
+     },
+     {
          "title": "Representing Type Lattices Compactly",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43331914\"\u003eComments\u003c/a\u003e",
          "link": "https://bernsteinbear.com/blog/lattice-bitset/",
@@ -1122,6 +1129,26 @@
          ],
          "published": "Tue, 11 Mar 2025 12:50:02 +0000",
          "publishedParsed": "2025-03-11T12:50:02Z"
+     },
+     {
+         "title": "Anomalous Ionization in the Central Molecular Zone by Sub-GeV Dark Matter",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43332788\"\u003eComments\u003c/a\u003e",
+         "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.101001",
+         "links": [
+             "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.101001"
+         ],
+         "published": "Tue, 11 Mar 2025 14:27:45 +0000",
+         "publishedParsed": "2025-03-11T14:27:45Z"
+     },
+     {
+         "title": "Short Conversations with Poets: Dong Li",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43333091\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.mcsweeneys.net/articles/dong-li",
+         "links": [
+             "https://www.mcsweeneys.net/articles/dong-li"
+         ],
+         "published": "Tue, 11 Mar 2025 14:56:37 +0000",
+         "publishedParsed": "2025-03-11T14:56:37Z"
      },
      {
          "title": "What Makes Code Hard to Read: Visual Patterns of Complexity (2023)",
@@ -1134,6 +1161,16 @@
          "publishedParsed": "2025-03-11T10:07:17Z"
      },
      {
+         "title": "Modern Baby: A pioneering computer from Manchester",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43329761\"\u003eComments\u003c/a\u003e",
+         "link": "https://thechipletter.substack.com/p/modern-baby",
+         "links": [
+             "https://thechipletter.substack.com/p/modern-baby"
+         ],
+         "published": "Tue, 11 Mar 2025 06:37:14 +0000",
+         "publishedParsed": "2025-03-11T06:37:14Z"
+     },
+     {
          "title": "Show HN: Seven39, a social media app that is only open for 3 hours every evening",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43328095\"\u003eComments\u003c/a\u003e",
          "link": "https://www.seven39.com",
@@ -1142,16 +1179,6 @@
          ],
          "published": "Tue, 11 Mar 2025 01:05:10 +0000",
          "publishedParsed": "2025-03-11T01:05:10Z"
-     },
-     {
-         "title": "Local Deep Research – ArXiv, wiki and other searches included",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43330164\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/LearningCircuit/local-deep-research",
-         "links": [
-             "https://github.com/LearningCircuit/local-deep-research"
-         ],
-         "published": "Tue, 11 Mar 2025 07:51:32 +0000",
-         "publishedParsed": "2025-03-11T07:51:32Z"
      },
      {
          "title": "Sidekick: Local-first native macOS LLM app",
@@ -1164,14 +1191,24 @@
          "publishedParsed": "2025-03-09T08:08:02Z"
      },
      {
-         "title": "Kissing moons may explain why Earth's moon is so large",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43304205\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cbc.ca/radio/quirks/kissing-moons-may-explain-why-earth-s-moon-is-so-large-1.7428016",
+         "title": "Local Deep Research – ArXiv, wiki and other searches included",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43330164\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/LearningCircuit/local-deep-research",
          "links": [
-             "https://www.cbc.ca/radio/quirks/kissing-moons-may-explain-why-earth-s-moon-is-so-large-1.7428016"
+             "https://github.com/LearningCircuit/local-deep-research"
          ],
-         "published": "Sat, 08 Mar 2025 22:35:44 +0000",
-         "publishedParsed": "2025-03-08T22:35:44Z"
+         "published": "Tue, 11 Mar 2025 07:51:32 +0000",
+         "publishedParsed": "2025-03-11T07:51:32Z"
+     },
+     {
+         "title": "The US island that speaks Elizabethan English",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43332752\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english",
+         "links": [
+             "https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english"
+         ],
+         "published": "Tue, 11 Mar 2025 14:24:48 +0000",
+         "publishedParsed": "2025-03-11T14:24:48Z"
      },
      {
          "title": "Bending Spacetime in the Basement (1997)",
@@ -1184,6 +1221,26 @@
          "publishedParsed": "2025-03-11T00:11:33Z"
      },
      {
+         "title": "Kissing moons may explain why Earth's moon is so large",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43304205\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cbc.ca/radio/quirks/kissing-moons-may-explain-why-earth-s-moon-is-so-large-1.7428016",
+         "links": [
+             "https://www.cbc.ca/radio/quirks/kissing-moons-may-explain-why-earth-s-moon-is-so-large-1.7428016"
+         ],
+         "published": "Sat, 08 Mar 2025 22:35:44 +0000",
+         "publishedParsed": "2025-03-08T22:35:44Z"
+     },
+     {
+         "title": "When Crocodiles Attack: The Ramree Island Massacre",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43291258\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.atlasobscura.com/articles/the-ramree-island-massacre",
+         "links": [
+             "https://www.atlasobscura.com/articles/the-ramree-island-massacre"
+         ],
+         "published": "Fri, 07 Mar 2025 16:03:18 +0000",
+         "publishedParsed": "2025-03-07T16:03:18Z"
+     },
+     {
          "title": "Bel in Clojure (2022)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43290620\"\u003eComments\u003c/a\u003e",
          "link": "https://stopa.io/post/290",
@@ -1192,16 +1249,6 @@
          ],
          "published": "Fri, 07 Mar 2025 14:50:09 +0000",
          "publishedParsed": "2025-03-07T14:50:09Z"
-     },
-     {
-         "title": "Asking LLMs to create my game Shepard's Dog",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43298945\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/vnglst/when-ai-fails/blob/main/shepards-dog/README.md",
-         "links": [
-             "https://github.com/vnglst/when-ai-fails/blob/main/shepards-dog/README.md"
-         ],
-         "published": "Sat, 08 Mar 2025 10:06:01 +0000",
-         "publishedParsed": "2025-03-08T10:06:01Z"
      },
      {
          "title": "Neonatal fungi: lifelong metabolic health via macrophage β cell development",
@@ -1234,16 +1281,6 @@
          "publishedParsed": "2025-03-10T13:12:38Z"
      },
      {
-         "title": "HyperShell X Outdoor PowerSuit Exoskeleton",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43288410\"\u003eComments\u003c/a\u003e",
-         "link": "https://hypershell.tech/en-us",
-         "links": [
-             "https://hypershell.tech/en-us"
-         ],
-         "published": "Fri, 07 Mar 2025 08:54:00 +0000",
-         "publishedParsed": "2025-03-07T08:54:00Z"
-     },
-     {
          "title": "What made the Irish famine so deadly",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43326275\"\u003eComments\u003c/a\u003e",
          "link": "https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review",
@@ -1254,34 +1291,14 @@
          "publishedParsed": "2025-03-10T21:24:06Z"
      },
      {
-         "title": "Formal Verification of Zero-Downtime Database Migration in PlusCal",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43306776\"\u003eComments\u003c/a\u003e",
-         "link": "https://biradarganesh25.github.io/pluscal/db_migration.html",
+         "title": "3dfx: So powerful, it's kind of ridiculous (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43287327\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous",
          "links": [
-             "https://biradarganesh25.github.io/pluscal/db_migration.html"
+             "https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous"
          ],
-         "published": "Sun, 09 Mar 2025 06:31:11 +0000",
-         "publishedParsed": "2025-03-09T06:31:11Z"
-     },
-     {
-         "title": "The Einstein AI Model",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43300414\"\u003eComments\u003c/a\u003e",
-         "link": "https://thomwolf.io/blog/scientific-ai.html",
-         "links": [
-             "https://thomwolf.io/blog/scientific-ai.html"
-         ],
-         "published": "Sat, 08 Mar 2025 14:14:22 +0000",
-         "publishedParsed": "2025-03-08T14:14:22Z"
-     },
-     {
-         "title": "Firmware update bricks HP printers, makes them unable to use HP cartridges",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43323923\"\u003eComments\u003c/a\u003e",
-         "link": "https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/",
-         "links": [
-             "https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/"
-         ],
-         "published": "Mon, 10 Mar 2025 18:26:27 +0000",
-         "publishedParsed": "2025-03-10T18:26:27Z"
+         "published": "Fri, 07 Mar 2025 04:07:18 +0000",
+         "publishedParsed": "2025-03-07T04:07:18Z"
      },
      {
          "title": "Shef",
@@ -1294,24 +1311,64 @@
          "publishedParsed": "2025-03-11T00:16:54Z"
      },
      {
-         "title": "Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43321523\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.kuzudb.com/post/kuzu-wasm-rag/",
+         "title": "Formal Verification of Zero-Downtime Database Migration in PlusCal",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43306776\"\u003eComments\u003c/a\u003e",
+         "link": "https://biradarganesh25.github.io/pluscal/db_migration.html",
          "links": [
-             "https://blog.kuzudb.com/post/kuzu-wasm-rag/"
+             "https://biradarganesh25.github.io/pluscal/db_migration.html"
          ],
-         "published": "Mon, 10 Mar 2025 15:12:57 +0000",
-         "publishedParsed": "2025-03-10T15:12:57Z"
+         "published": "Sun, 09 Mar 2025 06:31:11 +0000",
+         "publishedParsed": "2025-03-09T06:31:11Z"
      },
      {
-         "title": "How to Implement a Cosine Similarity Function in TypeScript",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307541\"\u003eComments\u003c/a\u003e",
-         "link": "https://alexop.dev/posts/how-to-implement-a-cosine-similarity-function-in-typescript-for-vector-comparison/",
+         "title": "People are just as bad as my LLMs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43323755\"\u003eComments\u003c/a\u003e",
+         "link": "https://wilsoniumite.com/2025/03/10/people-are-just-as-bad-as-my-llms/",
          "links": [
-             "https://alexop.dev/posts/how-to-implement-a-cosine-similarity-function-in-typescript-for-vector-comparison/"
+             "https://wilsoniumite.com/2025/03/10/people-are-just-as-bad-as-my-llms/"
          ],
-         "published": "Sun, 09 Mar 2025 09:20:20 +0000",
-         "publishedParsed": "2025-03-09T09:20:20Z"
+         "published": "Mon, 10 Mar 2025 18:16:26 +0000",
+         "publishedParsed": "2025-03-10T18:16:26Z"
+     },
+     {
+         "title": "How to Minify Godot's Build Size (93MB –\u003e 6.4MB EXE)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43332718\"\u003eComments\u003c/a\u003e",
+         "link": "https://popcar.bearblog.dev/how-to-minify-godots-build-size/",
+         "links": [
+             "https://popcar.bearblog.dev/how-to-minify-godots-build-size/"
+         ],
+         "published": "Tue, 11 Mar 2025 14:21:05 +0000",
+         "publishedParsed": "2025-03-11T14:21:05Z"
+     },
+     {
+         "title": "Show HN: Generate Version 7 UUID's for a Timestamp",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43332226\"\u003eComments\u003c/a\u003e",
+         "link": "https://uuidv7.org/",
+         "links": [
+             "https://uuidv7.org/"
+         ],
+         "published": "Tue, 11 Mar 2025 13:27:36 +0000",
+         "publishedParsed": "2025-03-11T13:27:36Z"
+     },
+     {
+         "title": "The Einstein AI Model",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43300414\"\u003eComments\u003c/a\u003e",
+         "link": "https://thomwolf.io/blog/scientific-ai.html",
+         "links": [
+             "https://thomwolf.io/blog/scientific-ai.html"
+         ],
+         "published": "Sat, 08 Mar 2025 14:14:22 +0000",
+         "publishedParsed": "2025-03-08T14:14:22Z"
+     },
+     {
+         "title": "New Zealand's $16B health dept managed finances with single Excel spreadsheet",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43330206\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theregister.com/2025/03/10/nz_health_excel_spreadsheet/",
+         "links": [
+             "https://www.theregister.com/2025/03/10/nz_health_excel_spreadsheet/"
+         ],
+         "published": "Tue, 11 Mar 2025 07:56:19 +0000",
+         "publishedParsed": "2025-03-11T07:56:19Z"
      },
      {
          "title": "Extreme poverty in India has dropped to negligible levels",
@@ -1322,75 +1379,5 @@
          ],
          "published": "Tue, 11 Mar 2025 05:19:50 +0000",
          "publishedParsed": "2025-03-11T05:19:50Z"
-     },
-     {
-         "title": "A technical history of Acorn Computers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43321131\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.mcmordie.co.uk/acornhistory/index.shtml",
-         "links": [
-             "https://www.mcmordie.co.uk/acornhistory/index.shtml"
-         ],
-         "published": "Mon, 10 Mar 2025 14:35:05 +0000",
-         "publishedParsed": "2025-03-10T14:35:05Z"
-     },
-     {
-         "title": "STEPS Toward the Reinvention of Programming (2012) [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43323860\"\u003eComments\u003c/a\u003e",
-         "link": "https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf",
-         "links": [
-             "https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf"
-         ],
-         "published": "Mon, 10 Mar 2025 18:22:57 +0000",
-         "publishedParsed": "2025-03-10T18:22:57Z"
-     },
-     {
-         "title": "Music labels will regret coming for the Internet Archive, sound historian says",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43322245\"\u003eComments\u003c/a\u003e",
-         "link": "https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/",
-         "links": [
-             "https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/"
-         ],
-         "published": "Mon, 10 Mar 2025 16:28:44 +0000",
-         "publishedParsed": "2025-03-10T16:28:44Z"
-     },
-     {
-         "title": "Arranging invisible icons in quadratic time (2021)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43288691\"\u003eComments\u003c/a\u003e",
-         "link": "https://randomascii.wordpress.com/2021/02/16/arranging-invisible-icons-in-quadratic-time/",
-         "links": [
-             "https://randomascii.wordpress.com/2021/02/16/arranging-invisible-icons-in-quadratic-time/"
-         ],
-         "published": "Fri, 07 Mar 2025 09:42:03 +0000",
-         "publishedParsed": "2025-03-07T09:42:03Z"
-     },
-     {
-         "title": "Probabilistic Artificial Intelligence",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43318624\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2502.05244",
-         "links": [
-             "https://arxiv.org/abs/2502.05244"
-         ],
-         "published": "Mon, 10 Mar 2025 09:50:33 +0000",
-         "publishedParsed": "2025-03-10T09:50:33Z"
-     },
-     {
-         "title": "Meta must defend claim it stripped copyright info from Llama's training fodder",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43329795\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theregister.com/2025/03/11/meta_dmca_copyright_removal_case/",
-         "links": [
-             "https://www.theregister.com/2025/03/11/meta_dmca_copyright_removal_case/"
-         ],
-         "published": "Tue, 11 Mar 2025 06:44:13 +0000",
-         "publishedParsed": "2025-03-11T06:44:13Z"
-     },
-     {
-         "title": "Zero-Downtime Kubernetes Deployments on AWS with EKS",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43320024\"\u003eComments\u003c/a\u003e",
-         "link": "https://glasskube.dev/blog/kubernetes-zero-downtime-deployments-aws-eks/",
-         "links": [
-             "https://glasskube.dev/blog/kubernetes-zero-downtime-deployments-aws-eks/"
-         ],
-         "published": "Mon, 10 Mar 2025 12:48:32 +0000",
-         "publishedParsed": "2025-03-10T12:48:32Z"
      }
  ]
