@@ -1,5 +1,35 @@
 [
      {
+         "title": "The DuckDB Local UI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43342712\"\u003eComments\u003c/a\u003e",
+         "link": "https://duckdb.org/2025/03/12/duckdb-ui.html",
+         "links": [
+             "https://duckdb.org/2025/03/12/duckdb-ui.html"
+         ],
+         "published": "Wed, 12 Mar 2025 12:56:01 +0000",
+         "publishedParsed": "2025-03-12T12:56:01Z"
+     },
+     {
+         "title": "Peer-to-peer file transfers in the browser",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43342361\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/kern/filepizza",
+         "links": [
+             "https://github.com/kern/filepizza"
+         ],
+         "published": "Wed, 12 Mar 2025 12:08:43 +0000",
+         "publishedParsed": "2025-03-12T12:08:43Z"
+     },
+     {
+         "title": "The Future Is Niri",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43342178\"\u003eComments\u003c/a\u003e",
+         "link": "https://ersei.net/en/blog/niri",
+         "links": [
+             "https://ersei.net/en/blog/niri"
+         ],
+         "published": "Wed, 12 Mar 2025 11:42:16 +0000",
+         "publishedParsed": "2025-03-12T11:42:16Z"
+     },
+     {
          "title": "First Ammonia-Fueled Ship Hits a Snag",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43342071\"\u003eComments\u003c/a\u003e",
          "link": "https://spectrum.ieee.org/ammonia-fuel-2671266100",
@@ -18,16 +48,6 @@
          ],
          "published": "Sun, 09 Mar 2025 11:53:58 +0000",
          "publishedParsed": "2025-03-09T11:53:58Z"
-     },
-     {
-         "title": "Happy 20th Birthday, Y Combinator",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43332658\"\u003eComments\u003c/a\u003e",
-         "link": "https://twitter.com/garrytan/status/1899092996702048709",
-         "links": [
-             "https://twitter.com/garrytan/status/1899092996702048709"
-         ],
-         "published": "Tue, 11 Mar 2025 14:14:35 +0000",
-         "publishedParsed": "2025-03-11T14:14:35Z"
      },
      {
          "title": "Gemma 3 Technical Report [pdf]",
@@ -50,34 +70,14 @@
          "publishedParsed": "2025-03-12T05:21:33Z"
      },
      {
-         "title": "Peer-to-peer file transfers in the browser",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43342361\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/kern/filepizza",
+         "title": "Definite clause grammars and symbolic differentiation",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43309696\"\u003eComments\u003c/a\u003e",
+         "link": "https://bitsandtheorems.com/definite-clause-grammars-and-symbolic-differentiation/",
          "links": [
-             "https://github.com/kern/filepizza"
+             "https://bitsandtheorems.com/definite-clause-grammars-and-symbolic-differentiation/"
          ],
-         "published": "Wed, 12 Mar 2025 12:08:43 +0000",
-         "publishedParsed": "2025-03-12T12:08:43Z"
-     },
-     {
-         "title": "Beyond Diffusion: Inductive Moment Matching",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43339563\"\u003eComments\u003c/a\u003e",
-         "link": "https://lumalabs.ai/news/inductive-moment-matching",
-         "links": [
-             "https://lumalabs.ai/news/inductive-moment-matching"
-         ],
-         "published": "Wed, 12 Mar 2025 03:05:47 +0000",
-         "publishedParsed": "2025-03-12T03:05:47Z"
-     },
-     {
-         "title": "Pivot Robotics (YC W24) Is Hiring",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43342301\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/pivot-robotics/jobs/0sRNlmU-robotics-software-engineer",
-         "links": [
-             "https://www.ycombinator.com/companies/pivot-robotics/jobs/0sRNlmU-robotics-software-engineer"
-         ],
-         "published": "Wed, 12 Mar 2025 12:00:28 +0000",
-         "publishedParsed": "2025-03-12T12:00:28Z"
+         "published": "Sun, 09 Mar 2025 15:10:38 +0000",
+         "publishedParsed": "2025-03-09T15:10:38Z"
      },
      {
          "title": "The Startup CTO's Handbook",
@@ -90,14 +90,14 @@
          "publishedParsed": "2025-03-11T22:18:42Z"
      },
      {
-         "title": "A more robust raw OpenBSD syscall demo",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43340385\"\u003eComments\u003c/a\u003e",
-         "link": "https://nullprogram.com/blog/2025/03/06/",
+         "title": "Beyond Diffusion: Inductive Moment Matching",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43339563\"\u003eComments\u003c/a\u003e",
+         "link": "https://lumalabs.ai/news/inductive-moment-matching",
          "links": [
-             "https://nullprogram.com/blog/2025/03/06/"
+             "https://lumalabs.ai/news/inductive-moment-matching"
          ],
-         "published": "Wed, 12 Mar 2025 06:11:41 +0000",
-         "publishedParsed": "2025-03-12T06:11:41Z"
+         "published": "Wed, 12 Mar 2025 03:05:47 +0000",
+         "publishedParsed": "2025-03-12T03:05:47Z"
      },
      {
          "title": "Fastplotlib: GPU-accelerated, fast, and interactive plotting library",
@@ -110,14 +110,14 @@
          "publishedParsed": "2025-03-11T16:33:24Z"
      },
      {
-         "title": "The Future Is Niri",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43342178\"\u003eComments\u003c/a\u003e",
-         "link": "https://ersei.net/en/blog/niri",
+         "title": "Pivot Robotics (YC W24) Is Hiring",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43342301\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/pivot-robotics/jobs/0sRNlmU-robotics-software-engineer",
          "links": [
-             "https://ersei.net/en/blog/niri"
+             "https://www.ycombinator.com/companies/pivot-robotics/jobs/0sRNlmU-robotics-software-engineer"
          ],
-         "published": "Wed, 12 Mar 2025 11:42:16 +0000",
-         "publishedParsed": "2025-03-12T11:42:16Z"
+         "published": "Wed, 12 Mar 2025 12:00:28 +0000",
+         "publishedParsed": "2025-03-12T12:00:28Z"
      },
      {
          "title": "Show HN: XPipe, a shell connection hub for SSH, Docker, K8s, VMs, and more",
@@ -130,24 +130,24 @@
          "publishedParsed": "2025-03-12T03:16:28Z"
      },
      {
-         "title": "A Committed Year",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307845\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ramijames.com/thoughts/a-committed-year",
+         "title": "Happy 20th Birthday, Y Combinator",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43332658\"\u003eComments\u003c/a\u003e",
+         "link": "https://twitter.com/garrytan/status/1899092996702048709",
          "links": [
-             "https://www.ramijames.com/thoughts/a-committed-year"
+             "https://twitter.com/garrytan/status/1899092996702048709"
          ],
-         "published": "Sun, 09 Mar 2025 10:32:54 +0000",
-         "publishedParsed": "2025-03-09T10:32:54Z"
+         "published": "Tue, 11 Mar 2025 14:14:35 +0000",
+         "publishedParsed": "2025-03-11T14:14:35Z"
      },
      {
-         "title": "Space Invaders",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43341789\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.computerarcheology.com/Arcade/SpaceInvaders/",
+         "title": "A more robust raw OpenBSD syscall demo",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43340385\"\u003eComments\u003c/a\u003e",
+         "link": "https://nullprogram.com/blog/2025/03/06/",
          "links": [
-             "https://www.computerarcheology.com/Arcade/SpaceInvaders/"
+             "https://nullprogram.com/blog/2025/03/06/"
          ],
-         "published": "Wed, 12 Mar 2025 10:46:18 +0000",
-         "publishedParsed": "2025-03-12T10:46:18Z"
+         "published": "Wed, 12 Mar 2025 06:11:41 +0000",
+         "publishedParsed": "2025-03-12T06:11:41Z"
      },
      {
          "title": "New tools for building agents",
@@ -160,26 +160,6 @@
          "publishedParsed": "2025-03-11T17:04:57Z"
      },
      {
-         "title": "Show HN: Factorio Learning Environment – Agents Build Factories",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43331582\"\u003eComments\u003c/a\u003e",
-         "link": "https://jackhopkins.github.io/factorio-learning-environment/",
-         "links": [
-             "https://jackhopkins.github.io/factorio-learning-environment/"
-         ],
-         "published": "Tue, 11 Mar 2025 12:02:02 +0000",
-         "publishedParsed": "2025-03-11T12:02:02Z"
-     },
-     {
-         "title": "Show HN: VSC – An open source 3D Rendering Engine in C++",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43339584\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/WW92030-STORAGE/VSC",
-         "links": [
-             "https://github.com/WW92030-STORAGE/VSC"
-         ],
-         "published": "Wed, 12 Mar 2025 03:08:23 +0000",
-         "publishedParsed": "2025-03-12T03:08:23Z"
-     },
-     {
          "title": "NASA to launch space observatory that will map 450M galaxies",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43296184\"\u003eComments\u003c/a\u003e",
          "link": "https://www.nbcnews.com/science/space/nasa-spherex-space-observatory-launch-map-galaxies-universe-rcna190877",
@@ -188,6 +168,26 @@
          ],
          "published": "Sat, 08 Mar 2025 00:07:15 +0000",
          "publishedParsed": "2025-03-08T00:07:15Z"
+     },
+     {
+         "title": "How far neuroscience is from understanding brains (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43342407\"\u003eComments\u003c/a\u003e",
+         "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10585277/",
+         "links": [
+             "https://pmc.ncbi.nlm.nih.gov/articles/PMC10585277/"
+         ],
+         "published": "Wed, 12 Mar 2025 12:13:42 +0000",
+         "publishedParsed": "2025-03-12T12:13:42Z"
+     },
+     {
+         "title": "Azure's Weakest Link? How API Connections Spill Secrets",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43340505\"\u003eComments\u003c/a\u003e",
+         "link": "https://binarysecurity.no/posts/2025/03/api-connections",
+         "links": [
+             "https://binarysecurity.no/posts/2025/03/api-connections"
+         ],
+         "published": "Wed, 12 Mar 2025 06:43:07 +0000",
+         "publishedParsed": "2025-03-12T06:43:07Z"
      },
      {
          "title": "A look at the creative process behind Bluey and Cocomelon (2024)",
@@ -210,44 +210,14 @@
          "publishedParsed": "2025-03-09T19:08:45Z"
      },
      {
-         "title": "Quantum state engineering\u0026photon statistics at electromagnetic time interfaces",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43303765\"\u003eComments\u003c/a\u003e",
-         "link": "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013120",
+         "title": "Show HN: VSC – An open source 3D Rendering Engine in C++",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43339584\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/WW92030-STORAGE/VSC",
          "links": [
-             "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013120"
+             "https://github.com/WW92030-STORAGE/VSC"
          ],
-         "published": "Sat, 08 Mar 2025 21:38:29 +0000",
-         "publishedParsed": "2025-03-08T21:38:29Z"
-     },
-     {
-         "title": "Sovereign Lumber",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43307861\"\u003eComments\u003c/a\u003e",
-         "link": "https://mill.plainopen.com/sovereign-lumber",
-         "links": [
-             "https://mill.plainopen.com/sovereign-lumber"
-         ],
-         "published": "Sun, 09 Mar 2025 10:38:28 +0000",
-         "publishedParsed": "2025-03-09T10:38:28Z"
-     },
-     {
-         "title": "Azure's Weakest Link? How API Connections Spill Secrets",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43340505\"\u003eComments\u003c/a\u003e",
-         "link": "https://binarysecurity.no/posts/2025/03/api-connections",
-         "links": [
-             "https://binarysecurity.no/posts/2025/03/api-connections"
-         ],
-         "published": "Wed, 12 Mar 2025 06:43:07 +0000",
-         "publishedParsed": "2025-03-12T06:43:07Z"
-     },
-     {
-         "title": "How far neuroscience is from understanding brains (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43342407\"\u003eComments\u003c/a\u003e",
-         "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10585277/",
-         "links": [
-             "https://pmc.ncbi.nlm.nih.gov/articles/PMC10585277/"
-         ],
-         "published": "Wed, 12 Mar 2025 12:13:42 +0000",
-         "publishedParsed": "2025-03-12T12:13:42Z"
+         "published": "Wed, 12 Mar 2025 03:08:23 +0000",
+         "publishedParsed": "2025-03-12T03:08:23Z"
      },
      {
          "title": "Sorting algorithms with CUDA",
@@ -270,14 +240,34 @@
          "publishedParsed": "2025-03-11T10:07:17Z"
      },
      {
-         "title": "The US island that speaks Elizabethan English",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43332752\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english",
+         "title": "Launch HN: Sift Dev (YC W25) – AI-Powered Datadog Alternative",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43334589\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=43334589",
          "links": [
-             "https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english"
+             "https://news.ycombinator.com/item?id=43334589"
          ],
-         "published": "Tue, 11 Mar 2025 14:24:48 +0000",
-         "publishedParsed": "2025-03-11T14:24:48Z"
+         "published": "Tue, 11 Mar 2025 17:00:46 +0000",
+         "publishedParsed": "2025-03-11T17:00:46Z"
+     },
+     {
+         "title": "Quantum state engineering, photon statistics at electromagnetic time interfaces",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43303765\"\u003eComments\u003c/a\u003e",
+         "link": "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013120",
+         "links": [
+             "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013120"
+         ],
+         "published": "Sat, 08 Mar 2025 21:38:29 +0000",
+         "publishedParsed": "2025-03-08T21:38:29Z"
+     },
+     {
+         "title": "AI-Generated Voice Evidence Poses Dangers in Court",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43333484\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court",
+         "links": [
+             "https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court"
+         ],
+         "published": "Tue, 11 Mar 2025 15:32:46 +0000",
+         "publishedParsed": "2025-03-11T15:32:46Z"
      },
      {
          "title": "A 10x Faster TypeScript",
@@ -290,13 +280,23 @@
          "publishedParsed": "2025-03-11T14:32:23Z"
      },
      {
-         "title": "Launch HN: Sift Dev (YC W25) – AI-Powered Datadog Alternative",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43334589\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=43334589",
+         "title": "Show HN: Krep a High-Performance String Search Utility Written in C",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43333946\"\u003eComments\u003c/a\u003e",
+         "link": "https://davidesantangelo.github.io/krep/",
          "links": [
-             "https://news.ycombinator.com/item?id=43334589"
+             "https://davidesantangelo.github.io/krep/"
          ],
-         "published": "Tue, 11 Mar 2025 17:00:46 +0000",
-         "publishedParsed": "2025-03-11T17:00:46Z"
+         "published": "Tue, 11 Mar 2025 16:12:43 +0000",
+         "publishedParsed": "2025-03-11T16:12:43Z"
+     },
+     {
+         "title": "The US island that speaks Elizabethan English",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43332752\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english",
+         "links": [
+             "https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english"
+         ],
+         "published": "Tue, 11 Mar 2025 14:24:48 +0000",
+         "publishedParsed": "2025-03-11T14:24:48Z"
      }
  ]
