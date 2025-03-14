@@ -1,6 +1,16 @@
 [
      {
-         "title": "Samsung bricked their home theater systems through automated firmware update",
+         "title": "Kerning, the Hard Way",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43366479\"\u003eComments\u003c/a\u003e",
+         "link": "https://home.octetfont.com/blog/kerning-hard.html",
+         "links": [
+             "https://home.octetfont.com/blog/kerning-hard.html"
+         ],
+         "published": "Fri, 14 Mar 2025 19:47:12 +0000",
+         "publishedParsed": "2025-03-14T19:47:12Z"
+     },
+     {
+         "title": "Samsung Q990D unresponsive after 1020 firmware update",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43364016\"\u003eComments\u003c/a\u003e",
          "link": "https://us.community.samsung.com/t5/Home-Theater/Samsung-Q990D-unresponsive-after-1020-firmware-update/td-p/3168571",
          "links": [
@@ -10,14 +20,24 @@
          "publishedParsed": "2025-03-14T16:10:04Z"
      },
      {
-         "title": "The 2FA app that tells you when you get `314159` (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43363918\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.jacobstechtavern.com/p/building-a-2fa-app-that-detects-patterns",
+         "title": "Decrypting encrypted files from Akira ransomware using a bunch of GPUs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43365083\"\u003eComments\u003c/a\u003e",
+         "link": "https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/",
          "links": [
-             "https://blog.jacobstechtavern.com/p/building-a-2fa-app-that-detects-patterns"
+             "https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/"
          ],
-         "published": "Fri, 14 Mar 2025 16:00:06 +0000",
-         "publishedParsed": "2025-03-14T16:00:06Z"
+         "published": "Fri, 14 Mar 2025 17:45:33 +0000",
+         "publishedParsed": "2025-03-14T17:45:33Z"
+     },
+     {
+         "title": "Athena landed in a dark crater where the temperature was minus 280° F",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43359412\"\u003eComments\u003c/a\u003e",
+         "link": "https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/",
+         "links": [
+             "https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/"
+         ],
+         "published": "Fri, 14 Mar 2025 03:46:11 +0000",
+         "publishedParsed": "2025-03-14T03:46:11Z"
      },
      {
          "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
@@ -30,16 +50,6 @@
          "publishedParsed": "2025-03-14T14:39:00Z"
      },
      {
-         "title": "Block Diffusion: Interpolating Between Autoregressive and Diffusion Models",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43363247\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2503.09573",
-         "links": [
-             "https://arxiv.org/abs/2503.09573"
-         ],
-         "published": "Fri, 14 Mar 2025 14:58:32 +0000",
-         "publishedParsed": "2025-03-14T14:58:32Z"
-     },
-     {
          "title": "Exo: Exocompilation for productive programming of hardware accelerators",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43365734\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/exo-lang/exo",
@@ -50,6 +60,16 @@
          "publishedParsed": "2025-03-14T18:35:47Z"
      },
      {
+         "title": "A 2FA app that tells you when you get `314159` (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43363918\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.jacobstechtavern.com/p/building-a-2fa-app-that-detects-patterns",
+         "links": [
+             "https://blog.jacobstechtavern.com/p/building-a-2fa-app-that-detects-patterns"
+         ],
+         "published": "Fri, 14 Mar 2025 16:00:06 +0000",
+         "publishedParsed": "2025-03-14T16:00:06Z"
+     },
+     {
          "title": "Briar: Peer to Peer Encrypted Messaging",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43363031\"\u003eComments\u003c/a\u003e",
          "link": "https://briarproject.org/how-it-works/",
@@ -58,6 +78,26 @@
          ],
          "published": "Fri, 14 Mar 2025 14:36:23 +0000",
          "publishedParsed": "2025-03-14T14:36:23Z"
+     },
+     {
+         "title": "Block Diffusion: Interpolating Between Autoregressive and Diffusion Models",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43363247\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2503.09573",
+         "links": [
+             "https://arxiv.org/abs/2503.09573"
+         ],
+         "published": "Fri, 14 Mar 2025 14:58:32 +0000",
+         "publishedParsed": "2025-03-14T14:58:32Z"
+     },
+     {
+         "title": "Ask HN: Any insider takes on Yann LeCun's push against current architectures?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43325049\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=43325049",
+         "links": [
+             "https://news.ycombinator.com/item?id=43325049"
+         ],
+         "published": "Mon, 10 Mar 2025 19:41:37 +0000",
+         "publishedParsed": "2025-03-10T19:41:37Z"
      },
      {
          "title": "I-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox",
@@ -80,14 +120,14 @@
          "publishedParsed": "2025-03-10T14:33:10Z"
      },
      {
-         "title": "Any insider takes on Yann LeCun's push against current architectures?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43325049\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=43325049",
+         "title": "Owl: Optimized Workforce Learning for multi-agent collaboration",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43331673\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/camel-ai/owl",
          "links": [
-             "https://news.ycombinator.com/item?id=43325049"
+             "https://github.com/camel-ai/owl"
          ],
-         "published": "Mon, 10 Mar 2025 19:41:37 +0000",
-         "publishedParsed": "2025-03-10T19:41:37Z"
+         "published": "Tue, 11 Mar 2025 12:14:13 +0000",
+         "publishedParsed": "2025-03-11T12:14:13Z"
      },
      {
          "title": "Prequel (YC W21) Is Hiring a Strong Front End Engineer",
@@ -100,134 +140,14 @@
          "publishedParsed": "2025-03-14T17:00:21Z"
      },
      {
-         "title": "My Scammer Girlfriend: Baiting a Romance Fraudster",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43339212\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bentasker.co.uk/posts/blog/security/seducing-a-romance-scammer.html",
+         "title": "A look at Firefox forks",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43361959\"\u003eComments\u003c/a\u003e",
+         "link": "https://lwn.net/Articles/1012453/",
          "links": [
-             "https://www.bentasker.co.uk/posts/blog/security/seducing-a-romance-scammer.html"
+             "https://lwn.net/Articles/1012453/"
          ],
-         "published": "Wed, 12 Mar 2025 01:55:32 +0000",
-         "publishedParsed": "2025-03-12T01:55:32Z"
-     },
-     {
-         "title": "Show HN: CodeVideo – Two years in the making to build an event-sourced IDE",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43363276\"\u003eComments\u003c/a\u003e",
-         "link": "https://studio.codevideo.io",
-         "links": [
-             "https://studio.codevideo.io"
-         ],
-         "published": "Fri, 14 Mar 2025 15:01:01 +0000",
-         "publishedParsed": "2025-03-14T15:01:01Z"
-     },
-     {
-         "title": "The Cassowary Linear Arithmetic Constraint Solving Algorithm [pdf] (2002)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43362528\"\u003eComments\u003c/a\u003e",
-         "link": "https://constraints.cs.washington.edu/solvers/cassowary-tochi.pdf",
-         "links": [
-             "https://constraints.cs.washington.edu/solvers/cassowary-tochi.pdf"
-         ],
-         "published": "Fri, 14 Mar 2025 13:36:20 +0000",
-         "publishedParsed": "2025-03-14T13:36:20Z"
-     },
-     {
-         "title": "Stoicism's appeal to the rich and powerful (2019)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43363014\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.exurbe.com/stoicisms-appeal-to-the-rich-and-powerful/",
-         "links": [
-             "https://www.exurbe.com/stoicisms-appeal-to-the-rich-and-powerful/"
-         ],
-         "published": "Fri, 14 Mar 2025 14:35:00 +0000",
-         "publishedParsed": "2025-03-14T14:35:00Z"
-     },
-     {
-         "title": "Why do transit agencies keep falling for the hydrogen bus myth?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43363293\"\u003eComments\u003c/a\u003e",
-         "link": "https://cleantechnica.com/2025/03/13/why-do-transit-agencies-keep-falling-for-the-hydrogen-bus-myth/",
-         "links": [
-             "https://cleantechnica.com/2025/03/13/why-do-transit-agencies-keep-falling-for-the-hydrogen-bus-myth/"
-         ],
-         "published": "Fri, 14 Mar 2025 15:03:01 +0000",
-         "publishedParsed": "2025-03-14T15:03:01Z"
-     },
-     {
-         "title": "Decrypting encrypted files from Akira ransomware using a bunch of GPUs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43365083\"\u003eComments\u003c/a\u003e",
-         "link": "https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/",
-         "links": [
-             "https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/"
-         ],
-         "published": "Fri, 14 Mar 2025 17:45:33 +0000",
-         "publishedParsed": "2025-03-14T17:45:33Z"
-     },
-     {
-         "title": "Chrome for Android doesn't have extensions, but Edge now has a whole store",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43365523\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=43365523",
-         "links": [
-             "https://news.ycombinator.com/item?id=43365523"
-         ],
-         "published": "Fri, 14 Mar 2025 18:19:02 +0000",
-         "publishedParsed": "2025-03-14T18:19:02Z"
-     },
-     {
-         "title": "TinyKVM: Fast sandbox that runs on top of Varnish",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43358980\"\u003eComments\u003c/a\u003e",
-         "link": "https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox",
-         "links": [
-             "https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox"
-         ],
-         "published": "Fri, 14 Mar 2025 02:12:11 +0000",
-         "publishedParsed": "2025-03-14T02:12:11Z"
-     },
-     {
-         "title": "The Lost Art of Logarithms",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43356314\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.lostartoflogarithms.com/",
-         "links": [
-             "https://www.lostartoflogarithms.com/"
-         ],
-         "published": "Thu, 13 Mar 2025 19:05:17 +0000",
-         "publishedParsed": "2025-03-13T19:05:17Z"
-     },
-     {
-         "title": "The Church FAQ",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43358947\"\u003eComments\u003c/a\u003e",
-         "link": "https://whatever.scalzi.com/2025/03/13/the-church-faq/",
-         "links": [
-             "https://whatever.scalzi.com/2025/03/13/the-church-faq/"
-         ],
-         "published": "Fri, 14 Mar 2025 02:00:35 +0000",
-         "publishedParsed": "2025-03-14T02:00:35Z"
-     },
-     {
-         "title": "AMD's Strix Halo – Under the Hood",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43360894\"\u003eComments\u003c/a\u003e",
-         "link": "https://chipsandcheese.com/p/amds-strix-halo-under-the-hood",
-         "links": [
-             "https://chipsandcheese.com/p/amds-strix-halo-under-the-hood"
-         ],
-         "published": "Fri, 14 Mar 2025 09:23:58 +0000",
-         "publishedParsed": "2025-03-14T09:23:58Z"
-     },
-     {
-         "title": "“Normal” engineers are the key to great teams",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43356995\"\u003eComments\u003c/a\u003e",
-         "link": "https://spectrum.ieee.org/10x-engineer",
-         "links": [
-             "https://spectrum.ieee.org/10x-engineer"
-         ],
-         "published": "Thu, 13 Mar 2025 20:35:47 +0000",
-         "publishedParsed": "2025-03-13T20:35:47Z"
-     },
-     {
-         "title": "(Any) 8-hour time-restricted-eating window effective for weight loss",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43364843\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nia.nih.gov/news/timeframe-8-hour-restricted-eating-irrelevant-weight-loss",
-         "links": [
-             "https://www.nia.nih.gov/news/timeframe-8-hour-restricted-eating-irrelevant-weight-loss"
-         ],
-         "published": "Fri, 14 Mar 2025 17:24:39 +0000",
-         "publishedParsed": "2025-03-14T17:24:39Z"
+         "published": "Fri, 14 Mar 2025 12:25:04 +0000",
+         "publishedParsed": "2025-03-14T12:25:04Z"
      },
      {
          "title": "In S3 simplicity is table stakes",
@@ -240,17 +160,47 @@
          "publishedParsed": "2025-03-14T11:55:17Z"
      },
      {
-         "title": "Show HN: Pi Labs – AI scoring and optimization tools for software engineers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43362535\"\u003eComments\u003c/a\u003e",
-         "link": "https://build.withpi.ai/dashboard",
+         "title": "My Scammer Girlfriend: Baiting a Romance Fraudster",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43339212\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bentasker.co.uk/posts/blog/security/seducing-a-romance-scammer.html",
          "links": [
-             "https://build.withpi.ai/dashboard"
+             "https://www.bentasker.co.uk/posts/blog/security/seducing-a-romance-scammer.html"
          ],
-         "published": "Fri, 14 Mar 2025 13:37:18 +0000",
-         "publishedParsed": "2025-03-14T13:37:18Z"
+         "published": "Wed, 12 Mar 2025 01:55:32 +0000",
+         "publishedParsed": "2025-03-12T01:55:32Z"
      },
      {
-         "title": "You Can Make Postgres Scale",
+         "title": "Why do transit agencies keep falling for the hydrogen bus myth?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43363293\"\u003eComments\u003c/a\u003e",
+         "link": "https://cleantechnica.com/2025/03/13/why-do-transit-agencies-keep-falling-for-the-hydrogen-bus-myth/",
+         "links": [
+             "https://cleantechnica.com/2025/03/13/why-do-transit-agencies-keep-falling-for-the-hydrogen-bus-myth/"
+         ],
+         "published": "Fri, 14 Mar 2025 15:03:01 +0000",
+         "publishedParsed": "2025-03-14T15:03:01Z"
+     },
+     {
+         "title": "Show HN: OCR Benchmark Focusing on Automation",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43347524\"\u003eComments\u003c/a\u003e",
+         "link": "https://nanonets.com/automation-benchmark",
+         "links": [
+             "https://nanonets.com/automation-benchmark"
+         ],
+         "published": "Wed, 12 Mar 2025 20:49:38 +0000",
+         "publishedParsed": "2025-03-12T20:49:38Z"
+     },
+     {
+         "title": "The Internet of Beefs (2020)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43331607\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ribbonfarm.com/2020/01/16/the-internet-of-beefs/",
+         "links": [
+             "https://www.ribbonfarm.com/2020/01/16/the-internet-of-beefs/"
+         ],
+         "published": "Tue, 11 Mar 2025 12:05:12 +0000",
+         "publishedParsed": "2025-03-11T12:05:12Z"
+     },
+     {
+         "title": "Making Postgres scale",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43364668\"\u003eComments\u003c/a\u003e",
          "link": "https://pgdog.dev/blog/you-can-make-postgres-scale",
          "links": [
@@ -260,23 +210,83 @@
          "publishedParsed": "2025-03-14T17:07:11Z"
      },
      {
-         "title": "Apple's Siri Chief Calls AI Delays Ugly and Embarrassing, Promises Fixes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43365517\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bloomberg.com/news/articles/2025-03-14/apple-s-siri-chief-calls-ai-delays-ugly-and-embarrassing-promises-fixes",
+         "title": "Show HN: CodeVideo – Two years in the making to build an event-sourced IDE",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43363276\"\u003eComments\u003c/a\u003e",
+         "link": "https://studio.codevideo.io",
          "links": [
-             "https://www.bloomberg.com/news/articles/2025-03-14/apple-s-siri-chief-calls-ai-delays-ugly-and-embarrassing-promises-fixes"
+             "https://studio.codevideo.io"
          ],
-         "published": "Fri, 14 Mar 2025 18:18:34 +0000",
-         "publishedParsed": "2025-03-14T18:18:34Z"
+         "published": "Fri, 14 Mar 2025 15:01:01 +0000",
+         "publishedParsed": "2025-03-14T15:01:01Z"
      },
      {
-         "title": "Liu Jiakun Receives the 2025 Pritzker Architecture Prize",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43327506\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.pritzkerprize.com/laureates/liu-jiakun",
+         "title": "Chrome for Android doesn't have extensions, but Edge now has a whole store",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43365523\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=43365523",
          "links": [
-             "https://www.pritzkerprize.com/laureates/liu-jiakun"
+             "https://news.ycombinator.com/item?id=43365523"
          ],
-         "published": "Mon, 10 Mar 2025 23:41:45 +0000",
-         "publishedParsed": "2025-03-10T23:41:45Z"
+         "published": "Fri, 14 Mar 2025 18:19:02 +0000",
+         "publishedParsed": "2025-03-14T18:19:02Z"
+     },
+     {
+         "title": "AMD's Strix Halo under the hood",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43360894\"\u003eComments\u003c/a\u003e",
+         "link": "https://chipsandcheese.com/p/amds-strix-halo-under-the-hood",
+         "links": [
+             "https://chipsandcheese.com/p/amds-strix-halo-under-the-hood"
+         ],
+         "published": "Fri, 14 Mar 2025 09:23:58 +0000",
+         "publishedParsed": "2025-03-14T09:23:58Z"
+     },
+     {
+         "title": "The Cassowary Linear Arithmetic Constraint Solving Algorithm [pdf] (2002)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43362528\"\u003eComments\u003c/a\u003e",
+         "link": "https://constraints.cs.washington.edu/solvers/cassowary-tochi.pdf",
+         "links": [
+             "https://constraints.cs.washington.edu/solvers/cassowary-tochi.pdf"
+         ],
+         "published": "Fri, 14 Mar 2025 13:36:20 +0000",
+         "publishedParsed": "2025-03-14T13:36:20Z"
+     },
+     {
+         "title": "TinyKVM: Fast sandbox that runs on top of Varnish",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43358980\"\u003eComments\u003c/a\u003e",
+         "link": "https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox",
+         "links": [
+             "https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox"
+         ],
+         "published": "Fri, 14 Mar 2025 02:12:11 +0000",
+         "publishedParsed": "2025-03-14T02:12:11Z"
+     },
+     {
+         "title": "Stoicism's appeal to the rich and powerful (2019)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43363014\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.exurbe.com/stoicisms-appeal-to-the-rich-and-powerful/",
+         "links": [
+             "https://www.exurbe.com/stoicisms-appeal-to-the-rich-and-powerful/"
+         ],
+         "published": "Fri, 14 Mar 2025 14:35:00 +0000",
+         "publishedParsed": "2025-03-14T14:35:00Z"
+     },
+     {
+         "title": "The Lost Art of Logarithms",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43356314\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.lostartoflogarithms.com/",
+         "links": [
+             "https://www.lostartoflogarithms.com/"
+         ],
+         "published": "Thu, 13 Mar 2025 19:05:17 +0000",
+         "publishedParsed": "2025-03-13T19:05:17Z"
+     },
+     {
+         "title": "“Normal” engineers are the key to great teams",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43356995\"\u003eComments\u003c/a\u003e",
+         "link": "https://spectrum.ieee.org/10x-engineer",
+         "links": [
+             "https://spectrum.ieee.org/10x-engineer"
+         ],
+         "published": "Thu, 13 Mar 2025 20:35:47 +0000",
+         "publishedParsed": "2025-03-13T20:35:47Z"
      }
  ]
