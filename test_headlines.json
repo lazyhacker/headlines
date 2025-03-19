@@ -1,5 +1,15 @@
 [
      {
+         "title": "Crew-9 Returns to Earth",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43408540\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.spacex.com/launches/mission/?missionId=crew-9-return",
+         "links": [
+             "https://www.spacex.com/launches/mission/?missionId=crew-9-return"
+         ],
+         "published": "Wed, 19 Mar 2025 05:32:52 +0000",
+         "publishedParsed": "2025-03-19T05:32:52Z"
+     },
+     {
          "title": "Make Ubuntu packages 90% faster by rebuilding them",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43406710\"\u003eComments\u003c/a\u003e",
          "link": "https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097",
@@ -30,6 +40,16 @@
          "publishedParsed": "2025-03-18T16:23:21Z"
      },
      {
+         "title": "Some notes on Grafana Loki's new \"structured metadata\"",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43378019\"\u003eComments\u003c/a\u003e",
+         "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiStructuredMetadata",
+         "links": [
+             "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiStructuredMetadata"
+         ],
+         "published": "Sun, 16 Mar 2025 10:38:57 +0000",
+         "publishedParsed": "2025-03-16T10:38:57Z"
+     },
+     {
          "title": "Visualising data structures and algorithms through animation",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43378436\"\u003eComments\u003c/a\u003e",
          "link": "https://visualgo.net/en",
@@ -50,16 +70,6 @@
          "publishedParsed": "2025-03-18T17:07:39Z"
      },
      {
-         "title": "Some notes on Grafana Loki's new \"structured metadata\"",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43378019\"\u003eComments\u003c/a\u003e",
-         "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiStructuredMetadata",
-         "links": [
-             "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiStructuredMetadata"
-         ],
-         "published": "Sun, 16 Mar 2025 10:38:57 +0000",
-         "publishedParsed": "2025-03-16T10:38:57Z"
-     },
-     {
          "title": "Artificial Intelligence: Foundations of Computational Agents",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43378226\"\u003eComments\u003c/a\u003e",
          "link": "https://artint.info/index.html",
@@ -68,16 +78,6 @@
          ],
          "published": "Sun, 16 Mar 2025 11:36:23 +0000",
          "publishedParsed": "2025-03-16T11:36:23Z"
-     },
-     {
-         "title": "SheepShaver is an open source PowerPC Apple Macintosh emulator",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43377998\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.emaculation.com/doku.php/sheepshaver",
-         "links": [
-             "https://www.emaculation.com/doku.php/sheepshaver"
-         ],
-         "published": "Sun, 16 Mar 2025 10:32:02 +0000",
-         "publishedParsed": "2025-03-16T10:32:02Z"
      },
      {
          "title": "Google to buy Wiz for $32B",
@@ -110,16 +110,6 @@
          "publishedParsed": "2025-03-18T17:30:13Z"
      },
      {
-         "title": "Karatsuba Matrix Multiplication and Its Efficient Hardware Implementations",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43372227\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2501.08889",
-         "links": [
-             "https://arxiv.org/abs/2501.08889"
-         ],
-         "published": "Sat, 15 Mar 2025 12:55:10 +0000",
-         "publishedParsed": "2025-03-15T12:55:10Z"
-     },
-     {
          "title": "Show HN: \"Git who\" – A new CLI tool for industrial-scale Git blaming",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43404548\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/sinclairtarget/git-who",
@@ -128,6 +118,16 @@
          ],
          "published": "Tue, 18 Mar 2025 20:20:09 +0000",
          "publishedParsed": "2025-03-18T20:20:09Z"
+     },
+     {
+         "title": "Karatsuba Matrix Multiplication and Its Efficient Hardware Implementations",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43372227\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2501.08889",
+         "links": [
+             "https://arxiv.org/abs/2501.08889"
+         ],
+         "published": "Sat, 15 Mar 2025 12:55:10 +0000",
+         "publishedParsed": "2025-03-15T12:55:10Z"
      },
      {
          "title": "Gnome / mutter triple buffering patch merged",
@@ -140,24 +140,14 @@
          "publishedParsed": "2025-03-15T11:20:48Z"
      },
      {
-         "title": "Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43404858\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/ai-dynamo/dynamo",
+         "title": "SheepShaver is an open source PowerPC Apple Macintosh emulator",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43377998\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.emaculation.com/doku.php/sheepshaver",
          "links": [
-             "https://github.com/ai-dynamo/dynamo"
+             "https://www.emaculation.com/doku.php/sheepshaver"
          ],
-         "published": "Tue, 18 Mar 2025 20:44:14 +0000",
-         "publishedParsed": "2025-03-18T20:44:14Z"
-     },
-     {
-         "title": "Preview: Amazon S3 Tables and Lakehouse in DuckDB",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43401421\"\u003eComments\u003c/a\u003e",
-         "link": "https://duckdb.org/2025/03/14/preview-amazon-s3-tables.html",
-         "links": [
-             "https://duckdb.org/2025/03/14/preview-amazon-s3-tables.html"
-         ],
-         "published": "Tue, 18 Mar 2025 16:36:20 +0000",
-         "publishedParsed": "2025-03-18T16:36:20Z"
+         "published": "Sun, 16 Mar 2025 10:32:02 +0000",
+         "publishedParsed": "2025-03-16T10:32:02Z"
      },
      {
          "title": "US appeals court rules AI generated art cannot be copyrighted",
@@ -170,14 +160,34 @@
          "publishedParsed": "2025-03-18T18:17:33Z"
      },
      {
-         "title": "Amazon to kill off local Alexa processing, all voice requests shipped to cloud",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43402115\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theregister.com/2025/03/17/amazon_kills_on_device_alexa/",
+         "title": "Preview: Amazon S3 Tables and Lakehouse in DuckDB",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43401421\"\u003eComments\u003c/a\u003e",
+         "link": "https://duckdb.org/2025/03/14/preview-amazon-s3-tables.html",
          "links": [
-             "https://www.theregister.com/2025/03/17/amazon_kills_on_device_alexa/"
+             "https://duckdb.org/2025/03/14/preview-amazon-s3-tables.html"
          ],
-         "published": "Tue, 18 Mar 2025 17:27:46 +0000",
-         "publishedParsed": "2025-03-18T17:27:46Z"
+         "published": "Tue, 18 Mar 2025 16:36:20 +0000",
+         "publishedParsed": "2025-03-18T16:36:20Z"
+     },
+     {
+         "title": "Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43404858\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/ai-dynamo/dynamo",
+         "links": [
+             "https://github.com/ai-dynamo/dynamo"
+         ],
+         "published": "Tue, 18 Mar 2025 20:44:14 +0000",
+         "publishedParsed": "2025-03-18T20:44:14Z"
+     },
+     {
+         "title": "Ask HN: Where do you browse and chat outside of here?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43408194\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=43408194",
+         "links": [
+             "https://news.ycombinator.com/item?id=43408194"
+         ],
+         "published": "Wed, 19 Mar 2025 04:07:13 +0000",
+         "publishedParsed": "2025-03-19T04:07:13Z"
      },
      {
          "title": "This is no world for an axolotl",
@@ -190,6 +200,16 @@
          "publishedParsed": "2025-03-15T16:26:51Z"
      },
      {
+         "title": "Reviving the modprobe_path Technique: Overcoming search_binary_handler() Patch",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43374843\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.theori.io/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch-2dcb8f0fae04",
+         "links": [
+             "https://blog.theori.io/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch-2dcb8f0fae04"
+         ],
+         "published": "Sat, 15 Mar 2025 20:04:29 +0000",
+         "publishedParsed": "2025-03-15T20:04:29Z"
+     },
+     {
          "title": "20 Years of YC / HN",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43394951\"\u003eComments\u003c/a\u003e",
          "link": "https://vickiboykis.com/2025/03/17/20-years-of-yc/",
@@ -198,26 +218,6 @@
          ],
          "published": "Tue, 18 Mar 2025 01:52:18 +0000",
          "publishedParsed": "2025-03-18T01:52:18Z"
-     },
-     {
-         "title": "Rust on the RP2350 (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43378571\"\u003eComments\u003c/a\u003e",
-         "link": "https://thejpster.org.uk/blog/blog-2024-08-08/",
-         "links": [
-             "https://thejpster.org.uk/blog/blog-2024-08-08/"
-         ],
-         "published": "Sun, 16 Mar 2025 12:42:02 +0000",
-         "publishedParsed": "2025-03-16T12:42:02Z"
-     },
-     {
-         "title": "SheepIt Render Farm server code goes open source",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43368863\"\u003eComments\u003c/a\u003e",
-         "link": "https://gitlab.com/sheepitrenderfarm",
-         "links": [
-             "https://gitlab.com/sheepitrenderfarm"
-         ],
-         "published": "Sat, 15 Mar 2025 00:42:22 +0000",
-         "publishedParsed": "2025-03-15T00:42:22Z"
      },
      {
          "title": "Show HN: I made a live multiplayer Minesweeper game",
@@ -230,14 +230,24 @@
          "publishedParsed": "2025-03-18T11:17:44Z"
      },
      {
-         "title": "PeerTube v7.1 Is Out",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43403377\"\u003eComments\u003c/a\u003e",
-         "link": "https://joinpeertube.org/news/release-7.1",
+         "title": "SheepIt Render Farm server code goes open source",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43368863\"\u003eComments\u003c/a\u003e",
+         "link": "https://gitlab.com/sheepitrenderfarm",
          "links": [
-             "https://joinpeertube.org/news/release-7.1"
+             "https://gitlab.com/sheepitrenderfarm"
          ],
-         "published": "Tue, 18 Mar 2025 18:56:53 +0000",
-         "publishedParsed": "2025-03-18T18:56:53Z"
+         "published": "Sat, 15 Mar 2025 00:42:22 +0000",
+         "publishedParsed": "2025-03-15T00:42:22Z"
+     },
+     {
+         "title": "Rust on the RP2350 (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43378571\"\u003eComments\u003c/a\u003e",
+         "link": "https://thejpster.org.uk/blog/blog-2024-08-08/",
+         "links": [
+             "https://thejpster.org.uk/blog/blog-2024-08-08/"
+         ],
+         "published": "Sun, 16 Mar 2025 12:42:02 +0000",
+         "publishedParsed": "2025-03-16T12:42:02Z"
      },
      {
          "title": "A Tale of Four Kernels [pdf] (2008)",
@@ -250,24 +260,14 @@
          "publishedParsed": "2025-03-18T20:25:27Z"
      },
      {
-         "title": "Verification-First Development",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43402102\"\u003eComments\u003c/a\u003e",
-         "link": "https://buttondown.com/hillelwayne/archive/verification-first-development/",
+         "title": "Spaceium Inc (YC S24) Is Hiring a Software Engineer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43401772\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/spaceium-inc/jobs/XGMVnH3-software-engineer",
          "links": [
-             "https://buttondown.com/hillelwayne/archive/verification-first-development/"
+             "https://www.ycombinator.com/companies/spaceium-inc/jobs/XGMVnH3-software-engineer"
          ],
-         "published": "Tue, 18 Mar 2025 17:26:51 +0000",
-         "publishedParsed": "2025-03-18T17:26:51Z"
-     },
-     {
-         "title": "Shopkeeper",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43375918\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.robinsloan.com/newsletters/shopkeeper/",
-         "links": [
-             "https://www.robinsloan.com/newsletters/shopkeeper/"
-         ],
-         "published": "Sat, 15 Mar 2025 23:40:27 +0000",
-         "publishedParsed": "2025-03-15T23:40:27Z"
+         "published": "Tue, 18 Mar 2025 17:01:16 +0000",
+         "publishedParsed": "2025-03-18T17:01:16Z"
      },
      {
          "title": "Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf (2022)",
@@ -280,13 +280,13 @@
          "publishedParsed": "2025-03-18T07:59:50Z"
      },
      {
-         "title": "Spaceium Inc (YC S24) Is Hiring a Software Engineer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43401772\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/spaceium-inc/jobs/XGMVnH3-software-engineer",
+         "title": "Ask HN: How Do I Escape Homelessness After Rebuilding My Mental Health?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43402315\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=43402315",
          "links": [
-             "https://www.ycombinator.com/companies/spaceium-inc/jobs/XGMVnH3-software-engineer"
+             "https://news.ycombinator.com/item?id=43402315"
          ],
-         "published": "Tue, 18 Mar 2025 17:01:16 +0000",
-         "publishedParsed": "2025-03-18T17:01:16Z"
+         "published": "Tue, 18 Mar 2025 17:42:21 +0000",
+         "publishedParsed": "2025-03-18T17:42:21Z"
      }
  ]
