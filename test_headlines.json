@@ -1,5 +1,35 @@
 [
      {
+         "title": "Claude can now search the web",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43425655\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.anthropic.com/news/web-search",
+         "links": [
+             "https://www.anthropic.com/news/web-search"
+         ],
+         "published": "Thu, 20 Mar 2025 16:51:12 +0000",
+         "publishedParsed": "2025-03-20T16:51:12Z"
+     },
+     {
+         "title": "CVE-2024-54471: Leaking Passwords (and More!) on macOS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43425605\"\u003eComments\u003c/a\u003e",
+         "link": "https://wts.dev/posts/password-leak/",
+         "links": [
+             "https://wts.dev/posts/password-leak/"
+         ],
+         "published": "Thu, 20 Mar 2025 16:47:17 +0000",
+         "publishedParsed": "2025-03-20T16:47:17Z"
+     },
+     {
+         "title": "OpenAI Audio Models",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43426022\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.openai.fm/",
+         "links": [
+             "https://www.openai.fm/"
+         ],
+         "published": "Thu, 20 Mar 2025 17:18:00 +0000",
+         "publishedParsed": "2025-03-20T17:18:00Z"
+     },
+     {
          "title": "ACARS Drama",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43424065\"\u003eComments\u003c/a\u003e",
          "link": "https://acarsdrama.com/",
@@ -20,16 +50,6 @@
          "publishedParsed": "2025-03-20T12:25:31Z"
      },
      {
-         "title": "Powers of 2 with all even digits",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43421934\"\u003eComments\u003c/a\u003e",
-         "link": "https://oeis.org/A068994",
-         "links": [
-             "https://oeis.org/A068994"
-         ],
-         "published": "Thu, 20 Mar 2025 11:55:13 +0000",
-         "publishedParsed": "2025-03-20T11:55:13Z"
-     },
-     {
          "title": "Oxygen discovered in most distant known galaxy",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43422909\"\u003eComments\u003c/a\u003e",
          "link": "https://www.eso.org/public/news/eso2507/",
@@ -40,34 +60,14 @@
          "publishedParsed": "2025-03-20T13:21:34Z"
      },
      {
-         "title": "Understanding Solar Energy",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43422033\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.construction-physics.com/p/understanding-solar-energy",
+         "title": "Powers of 2 with all even digits",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43421934\"\u003eComments\u003c/a\u003e",
+         "link": "https://oeis.org/A068994",
          "links": [
-             "https://www.construction-physics.com/p/understanding-solar-energy"
+             "https://oeis.org/A068994"
          ],
-         "published": "Thu, 20 Mar 2025 12:09:32 +0000",
-         "publishedParsed": "2025-03-20T12:09:32Z"
-     },
-     {
-         "title": "I fear for the unauthenticated web",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43424340\"\u003eComments\u003c/a\u003e",
-         "link": "https://sethmlarson.dev/i-fear-for-the-unauthenticated-web",
-         "links": [
-             "https://sethmlarson.dev/i-fear-for-the-unauthenticated-web"
-         ],
-         "published": "Thu, 20 Mar 2025 14:58:23 +0000",
-         "publishedParsed": "2025-03-20T14:58:23Z"
-     },
-     {
-         "title": "The Last Drops of Mexico City",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43423032\"\u003eComments\u003c/a\u003e",
-         "link": "https://mexicocitywater.longlead.com",
-         "links": [
-             "https://mexicocitywater.longlead.com"
-         ],
-         "published": "Thu, 20 Mar 2025 13:28:44 +0000",
-         "publishedParsed": "2025-03-20T13:28:44Z"
+         "published": "Thu, 20 Mar 2025 11:55:13 +0000",
+         "publishedParsed": "2025-03-20T11:55:13Z"
      },
      {
          "title": "Grease: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code",
@@ -90,6 +90,16 @@
          "publishedParsed": "2025-03-20T08:00:54Z"
      },
      {
+         "title": "Pump.co (YC S22) Is Hiring",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43425766\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/pump-co/jobs/7kB7DNb-email-outreach-manager",
+         "links": [
+             "https://www.ycombinator.com/companies/pump-co/jobs/7kB7DNb-email-outreach-manager"
+         ],
+         "published": "Thu, 20 Mar 2025 17:01:08 +0000",
+         "publishedParsed": "2025-03-20T17:01:08Z"
+     },
+     {
          "title": "The Pain That Is GitHub Actions",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43419701\"\u003eComments\u003c/a\u003e",
          "link": "https://www.feldera.com/blog/the-pain-that-is-github-actions",
@@ -108,6 +118,26 @@
          ],
          "published": "Thu, 20 Mar 2025 13:41:35 +0000",
          "publishedParsed": "2025-03-20T13:41:35Z"
+     },
+     {
+         "title": "Understanding Solar Energy",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43422033\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.construction-physics.com/p/understanding-solar-energy",
+         "links": [
+             "https://www.construction-physics.com/p/understanding-solar-energy"
+         ],
+         "published": "Thu, 20 Mar 2025 12:09:32 +0000",
+         "publishedParsed": "2025-03-20T12:09:32Z"
+     },
+     {
+         "title": "Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries (20",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43399170\"\u003eComments\u003c/a\u003e",
+         "link": "https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/",
+         "links": [
+             "https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/"
+         ],
+         "published": "Tue, 18 Mar 2025 13:23:57 +0000",
+         "publishedParsed": "2025-03-18T13:23:57Z"
      },
      {
          "title": "How I accepted myself into Canada's largest AI hackathon",
@@ -130,14 +160,14 @@
          "publishedParsed": "2025-03-17T10:40:05Z"
      },
      {
-         "title": "Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43421979\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.sievedata.com/",
+         "title": "Show HN: AgentKit – JavaScript Alternative to OpenAI Agents SDK with Native MCP",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43426164\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/inngest/agent-kit",
          "links": [
-             "https://www.sievedata.com/"
+             "https://github.com/inngest/agent-kit"
          ],
-         "published": "Thu, 20 Mar 2025 12:01:05 +0000",
-         "publishedParsed": "2025-03-20T12:01:05Z"
+         "published": "Thu, 20 Mar 2025 17:27:46 +0000",
+         "publishedParsed": "2025-03-20T17:27:46Z"
      },
      {
          "title": "Show HN: I built a MCP server so Claude can play Minesweeper",
@@ -150,14 +180,14 @@
          "publishedParsed": "2025-03-20T07:58:57Z"
      },
      {
-         "title": "LED's Efficiency Exceeds 100%",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43425351\"\u003eComments\u003c/a\u003e",
-         "link": "https://phys.org/news/2012-03-efficiency.html",
+         "title": "Show HN: We made a photo search engine for homes for sale",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43392875\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=43392875",
          "links": [
-             "https://phys.org/news/2012-03-efficiency.html"
+             "https://news.ycombinator.com/item?id=43392875"
          ],
-         "published": "Thu, 20 Mar 2025 16:26:58 +0000",
-         "publishedParsed": "2025-03-20T16:26:58Z"
+         "published": "Mon, 17 Mar 2025 21:25:37 +0000",
+         "publishedParsed": "2025-03-17T21:25:37Z"
      },
      {
          "title": "SoftBank Group to Acquire Ampere Computing for 6.5B",
@@ -168,16 +198,6 @@
          ],
          "published": "Thu, 20 Mar 2025 01:58:47 +0000",
          "publishedParsed": "2025-03-20T01:58:47Z"
-     },
-     {
-         "title": "Show HN: We made a photo search engine for homes for sale",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43392875\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=43392875",
-         "links": [
-             "https://news.ycombinator.com/item?id=43392875"
-         ],
-         "published": "Mon, 17 Mar 2025 21:25:37 +0000",
-         "publishedParsed": "2025-03-17T21:25:37Z"
      },
      {
          "title": "Bolt3D: Generating 3D Scenes in Seconds",
@@ -210,14 +230,24 @@
          "publishedParsed": "2025-03-20T04:57:12Z"
      },
      {
-         "title": "Austral: A Systems Language with Linear Types and Capabilities (2022)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43419928\"\u003eComments\u003c/a\u003e",
-         "link": "https://borretti.me/article/introducing-austral",
+         "title": "ChatGPT hit with privacy complaint over defamatory hallucinations",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43425561\"\u003eComments\u003c/a\u003e",
+         "link": "https://techcrunch.com/2025/03/19/chatgpt-hit-with-privacy-complaint-over-defamatory-hallucinations/",
          "links": [
-             "https://borretti.me/article/introducing-austral"
+             "https://techcrunch.com/2025/03/19/chatgpt-hit-with-privacy-complaint-over-defamatory-hallucinations/"
          ],
-         "published": "Thu, 20 Mar 2025 04:37:09 +0000",
-         "publishedParsed": "2025-03-20T04:37:09Z"
+         "published": "Thu, 20 Mar 2025 16:44:10 +0000",
+         "publishedParsed": "2025-03-20T16:44:10Z"
+     },
+     {
+         "title": "SAR-DT Reveals Internal Structure of the Great Pyramid of Giza",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43427197\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.mdpi.com/2072-4292/14/20/5231",
+         "links": [
+             "https://www.mdpi.com/2072-4292/14/20/5231"
+         ],
+         "published": "Thu, 20 Mar 2025 18:38:12 +0000",
+         "publishedParsed": "2025-03-20T18:38:12Z"
      },
      {
          "title": "Hunyuan3D-2-Turbo: fast high-quality shape generation in ~1s on a 4090",
@@ -230,6 +260,16 @@
          "publishedParsed": "2025-03-20T01:58:29Z"
      },
      {
+         "title": "Austral: A Systems Language with Linear Types and Capabilities (2022)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43419928\"\u003eComments\u003c/a\u003e",
+         "link": "https://borretti.me/article/introducing-austral",
+         "links": [
+             "https://borretti.me/article/introducing-austral"
+         ],
+         "published": "Thu, 20 Mar 2025 04:37:09 +0000",
+         "publishedParsed": "2025-03-20T04:37:09Z"
+     },
+     {
          "title": "FOSS infrastructure is under attack by AI companies",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43422413\"\u003eComments\u003c/a\u003e",
          "link": "https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/",
@@ -240,36 +280,6 @@
          "publishedParsed": "2025-03-20T12:50:49Z"
      },
      {
-         "title": "AI Blindspots – Blindspots in LLMs I've noticed while AI coding",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43414393\"\u003eComments\u003c/a\u003e",
-         "link": "https://ezyang.github.io/ai-blindspots/",
-         "links": [
-             "https://ezyang.github.io/ai-blindspots/"
-         ],
-         "published": "Wed, 19 Mar 2025 16:48:32 +0000",
-         "publishedParsed": "2025-03-19T16:48:32Z"
-     },
-     {
-         "title": "Michael Seibel is leaving Y Combinator",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43423762\"\u003eComments\u003c/a\u003e",
-         "link": "https://twitter.com/mwseibel/status/1902510758925365590",
-         "links": [
-             "https://twitter.com/mwseibel/status/1902510758925365590"
-         ],
-         "published": "Thu, 20 Mar 2025 14:10:39 +0000",
-         "publishedParsed": "2025-03-20T14:10:39Z"
-     },
-     {
-         "title": "LLM Agents Are Simply Graph – Tutorial for Dummies",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43417511\"\u003eComments\u003c/a\u003e",
-         "link": "https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial",
-         "links": [
-             "https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial"
-         ],
-         "published": "Wed, 19 Mar 2025 21:29:13 +0000",
-         "publishedParsed": "2025-03-19T21:29:13Z"
-     },
-     {
          "title": "C++26: Deprecating or removing library features",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43420477\"\u003eComments\u003c/a\u003e",
          "link": "https://www.sandordargo.com/blog/2025/03/19/cpp26-deprecate-remove-library-features",
@@ -278,15 +288,5 @@
          ],
          "published": "Thu, 20 Mar 2025 07:19:25 +0000",
          "publishedParsed": "2025-03-20T07:19:25Z"
-     },
-     {
-         "title": "Muons used to test the condition of a road bridge in Estonia",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43378358\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.err.ee/1609634600/muons-used-to-test-the-condition-of-a-road-bridge-in-estonia",
-         "links": [
-             "https://news.err.ee/1609634600/muons-used-to-test-the-condition-of-a-road-bridge-in-estonia"
-         ],
-         "published": "Sun, 16 Mar 2025 12:05:53 +0000",
-         "publishedParsed": "2025-03-16T12:05:53Z"
      }
  ]
