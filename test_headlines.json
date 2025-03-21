@@ -1,6 +1,6 @@
 [
      {
-         "title": "Pen and Paper Exercises in Machine Learning",
+         "title": "Pen and Paper Exercises in Machine Learning (2022)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43440267\"\u003eComments\u003c/a\u003e",
          "link": "https://arxiv.org/abs/2206.13446",
          "links": [
@@ -8,6 +8,16 @@
          ],
          "published": "Fri, 21 Mar 2025 20:07:12 +0000",
          "publishedParsed": "2025-03-21T20:07:12Z"
+     },
+     {
+         "title": "The little book about OS development",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43440473\"\u003eComments\u003c/a\u003e",
+         "link": "https://littleosbook.github.io/",
+         "links": [
+             "https://littleosbook.github.io/"
+         ],
+         "published": "Fri, 21 Mar 2025 20:30:32 +0000",
+         "publishedParsed": "2025-03-21T20:30:32Z"
      },
      {
          "title": "IronRDP: a Rust implementation of Microsoft's RDP protocol",
@@ -30,14 +40,14 @@
          "publishedParsed": "2025-03-21T17:43:25Z"
      },
      {
-         "title": "Chunking Attacks on File Backup Services Using Content-Deﬁned Chunking [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43438601\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.daemonology.net/blog/chunking-attacks.pdf",
+         "title": "Oxidizing Ubuntu: adopting Rust utilities by default",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43403821\"\u003eComments\u003c/a\u003e",
+         "link": "https://lwn.net/SubscriberLink/1014002/580b8750bf02cf41/",
          "links": [
-             "https://www.daemonology.net/blog/chunking-attacks.pdf"
+             "https://lwn.net/SubscriberLink/1014002/580b8750bf02cf41/"
          ],
-         "published": "Fri, 21 Mar 2025 17:30:34 +0000",
-         "publishedParsed": "2025-03-21T17:30:34Z"
+         "published": "Tue, 18 Mar 2025 19:25:17 +0000",
+         "publishedParsed": "2025-03-18T19:25:17Z"
      },
      {
          "title": "Global population datasets systematically underrepresent rural population",
@@ -48,6 +58,66 @@
          ],
          "published": "Tue, 18 Mar 2025 11:50:38 +0000",
          "publishedParsed": "2025-03-18T11:50:38Z"
+     },
+     {
+         "title": "Lock Contention",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43390401\"\u003eComments\u003c/a\u003e",
+         "link": "https://maksimkita.com/blog/lock-contention.html",
+         "links": [
+             "https://maksimkita.com/blog/lock-contention.html"
+         ],
+         "published": "Mon, 17 Mar 2025 16:47:08 +0000",
+         "publishedParsed": "2025-03-17T16:47:08Z"
+     },
+     {
+         "title": "'Bluey's World': How a Cute Aussie Puppy Became a $2B Juggernaut",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43410874\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.hollywoodreporter.com/tv/tv-features/blueys-world-success-puppy-juggernaut-1236164905/",
+         "links": [
+             "https://www.hollywoodreporter.com/tv/tv-features/blueys-world-success-puppy-juggernaut-1236164905/"
+         ],
+         "published": "Wed, 19 Mar 2025 12:14:46 +0000",
+         "publishedParsed": "2025-03-19T12:14:46Z"
+     },
+     {
+         "title": "I want a good parallel computer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43440174\"\u003eComments\u003c/a\u003e",
+         "link": "https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html",
+         "links": [
+             "https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html"
+         ],
+         "published": "Fri, 21 Mar 2025 19:55:42 +0000",
+         "publishedParsed": "2025-03-21T19:55:42Z"
+     },
+     {
+         "title": "DNA evidence says first Americans came from Asia",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43429622\"\u003eComments\u003c/a\u003e",
+         "link": "https://factsanddetails.com/world/cat56/sub361/entry-8944.html",
+         "links": [
+             "https://factsanddetails.com/world/cat56/sub361/entry-8944.html"
+         ],
+         "published": "Thu, 20 Mar 2025 22:14:28 +0000",
+         "publishedParsed": "2025-03-20T22:14:28Z"
+     },
+     {
+         "title": "MySQL transactions per second vs. fsyncs per second (2020)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43440920\"\u003eComments\u003c/a\u003e",
+         "link": "https://sirupsen.com/napkin/problem-10-mysql-transactions-per-second",
+         "links": [
+             "https://sirupsen.com/napkin/problem-10-mysql-transactions-per-second"
+         ],
+         "published": "Fri, 21 Mar 2025 21:18:39 +0000",
+         "publishedParsed": "2025-03-21T21:18:39Z"
+     },
+     {
+         "title": "Chunking Attacks on File Backup Services Using Content-Deﬁned Chunking [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43438601\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.daemonology.net/blog/chunking-attacks.pdf",
+         "links": [
+             "https://www.daemonology.net/blog/chunking-attacks.pdf"
+         ],
+         "published": "Fri, 21 Mar 2025 17:30:34 +0000",
+         "publishedParsed": "2025-03-21T17:30:34Z"
      },
      {
          "title": "Ancient DNA Shows Stone Age Europeans Voyaged by Sea to Africa",
@@ -80,6 +150,16 @@
          "publishedParsed": "2025-03-21T10:49:41Z"
      },
      {
+         "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43438166\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=43438166",
+         "links": [
+             "https://news.ycombinator.com/item?id=43438166"
+         ],
+         "published": "Fri, 21 Mar 2025 17:00:58 +0000",
+         "publishedParsed": "2025-03-21T17:00:58Z"
+     },
+     {
          "title": "Show HN: Hyperbrowser MCP Server – Connect AI agents to the web through browsers",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43425767\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/hyperbrowserai/mcp",
@@ -90,14 +170,34 @@
          "publishedParsed": "2025-03-20T17:01:12Z"
      },
      {
-         "title": "Piccolo: Large-Scale Graph Processing with Fine-Grained In-Memory Scatter-Gather",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43439987\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2503.05116",
+         "title": "Liberapay",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43398539\"\u003eComments\u003c/a\u003e",
+         "link": "https://en.liberapay.com/",
          "links": [
-             "https://arxiv.org/abs/2503.05116"
+             "https://en.liberapay.com/"
          ],
-         "published": "Fri, 21 Mar 2025 19:30:32 +0000",
-         "publishedParsed": "2025-03-21T19:30:32Z"
+         "published": "Tue, 18 Mar 2025 12:21:12 +0000",
+         "publishedParsed": "2025-03-18T12:21:12Z"
+     },
+     {
+         "title": "Jagged Flash Attention Optimization",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43402361\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.shaped.ai/blog/jagged-flash-attention-optimization",
+         "links": [
+             "https://www.shaped.ai/blog/jagged-flash-attention-optimization"
+         ],
+         "published": "Tue, 18 Mar 2025 17:45:49 +0000",
+         "publishedParsed": "2025-03-18T17:45:49Z"
+     },
+     {
+         "title": "Frink",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43440046\"\u003eComments\u003c/a\u003e",
+         "link": "https://frinklang.org/",
+         "links": [
+             "https://frinklang.org/"
+         ],
+         "published": "Fri, 21 Mar 2025 19:39:17 +0000",
+         "publishedParsed": "2025-03-21T19:39:17Z"
      },
      {
          "title": "Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch",
@@ -110,24 +210,14 @@
          "publishedParsed": "2025-03-21T13:29:11Z"
      },
      {
-         "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43438166\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=43438166",
+         "title": "Piccolo: Large-Scale Graph Processing with Fine-Grained In-Memory Scatter-Gather",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43439987\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2503.05116",
          "links": [
-             "https://news.ycombinator.com/item?id=43438166"
+             "https://arxiv.org/abs/2503.05116"
          ],
-         "published": "Fri, 21 Mar 2025 17:00:58 +0000",
-         "publishedParsed": "2025-03-21T17:00:58Z"
-     },
-     {
-         "title": "Researcher uses AI to make texts that are thousands of years old readable (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43407196\"\u003eComments\u003c/a\u003e",
-         "link": "https://phys.org/news/2023-02-ai-texts-thousands-years-readable.html",
-         "links": [
-             "https://phys.org/news/2023-02-ai-texts-thousands-years-readable.html"
-         ],
-         "published": "Wed, 19 Mar 2025 00:59:07 +0000",
-         "publishedParsed": "2025-03-19T00:59:07Z"
+         "published": "Fri, 21 Mar 2025 19:30:32 +0000",
+         "publishedParsed": "2025-03-21T19:30:32Z"
      },
      {
          "title": "Legged Locomotion Meets Skateboarding",
@@ -150,16 +240,6 @@
          "publishedParsed": "2025-03-21T06:08:04Z"
      },
      {
-         "title": "Lock Contention",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43390401\"\u003eComments\u003c/a\u003e",
-         "link": "https://maksimkita.com/blog/lock-contention.html",
-         "links": [
-             "https://maksimkita.com/blog/lock-contention.html"
-         ],
-         "published": "Mon, 17 Mar 2025 16:47:08 +0000",
-         "publishedParsed": "2025-03-17T16:47:08Z"
-     },
-     {
          "title": "Even the worst mass extinction had its oases",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43408487\"\u003eComments\u003c/a\u003e",
          "link": "https://arstechnica.com/science/2025/03/even-the-worst-mass-extinction-had-its-oases/",
@@ -168,6 +248,16 @@
          ],
          "published": "Wed, 19 Mar 2025 05:21:33 +0000",
          "publishedParsed": "2025-03-19T05:21:33Z"
+     },
+     {
+         "title": "Researcher uses AI to make texts that are thousands of years old readable (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43407196\"\u003eComments\u003c/a\u003e",
+         "link": "https://phys.org/news/2023-02-ai-texts-thousands-years-readable.html",
+         "links": [
+             "https://phys.org/news/2023-02-ai-texts-thousands-years-readable.html"
+         ],
+         "published": "Wed, 19 Mar 2025 00:59:07 +0000",
+         "publishedParsed": "2025-03-19T00:59:07Z"
      },
      {
          "title": "Wheel Reinventor’s Principles (2024)",
@@ -180,26 +270,6 @@
          "publishedParsed": "2025-03-21T12:16:45Z"
      },
      {
-         "title": "Oxidizing Ubuntu: adopting Rust utilities by default",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43403821\"\u003eComments\u003c/a\u003e",
-         "link": "https://lwn.net/SubscriberLink/1014002/580b8750bf02cf41/",
-         "links": [
-             "https://lwn.net/SubscriberLink/1014002/580b8750bf02cf41/"
-         ],
-         "published": "Tue, 18 Mar 2025 19:25:17 +0000",
-         "publishedParsed": "2025-03-18T19:25:17Z"
-     },
-     {
-         "title": "DNA evidence says first Americans came from Asia",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43429622\"\u003eComments\u003c/a\u003e",
-         "link": "https://factsanddetails.com/world/cat56/sub361/entry-8944.html",
-         "links": [
-             "https://factsanddetails.com/world/cat56/sub361/entry-8944.html"
-         ],
-         "published": "Thu, 20 Mar 2025 22:14:28 +0000",
-         "publishedParsed": "2025-03-20T22:14:28Z"
-     },
-     {
          "title": "Population much more than 8.2B, rural areas underestimated",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43439883\"\u003eComments\u003c/a\u003e",
          "link": "https://www.popularmechanics.com/science/environment/a64222314/human-population-count/",
@@ -208,65 +278,5 @@
          ],
          "published": "Fri, 21 Mar 2025 19:19:54 +0000",
          "publishedParsed": "2025-03-21T19:19:54Z"
-     },
-     {
-         "title": "German company set for first commercial rocket launch from Europe",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43439759\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.msn.com/en-us/technology/space-exploration/german-company-set-for-first-commercial-rocket-launch-from-europe/ar-AA1Boq4F",
-         "links": [
-             "https://www.msn.com/en-us/technology/space-exploration/german-company-set-for-first-commercial-rocket-launch-from-europe/ar-AA1Boq4F"
-         ],
-         "published": "Fri, 21 Mar 2025 19:06:59 +0000",
-         "publishedParsed": "2025-03-21T19:06:59Z"
-     },
-     {
-         "title": "Specializing Python with E-Graphs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43398908\"\u003eComments\u003c/a\u003e",
-         "link": "https://vectorfold.studio/blog/egglog",
-         "links": [
-             "https://vectorfold.studio/blog/egglog"
-         ],
-         "published": "Tue, 18 Mar 2025 12:58:40 +0000",
-         "publishedParsed": "2025-03-18T12:58:40Z"
-     },
-     {
-         "title": "Ask HN: What is the simplest data orchestration tool you've worked with?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43439939\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=43439939",
-         "links": [
-             "https://news.ycombinator.com/item?id=43439939"
-         ],
-         "published": "Fri, 21 Mar 2025 19:24:54 +0000",
-         "publishedParsed": "2025-03-21T19:24:54Z"
-     },
-     {
-         "title": "Apple shuffles AI executive ranks in bid to turn around Siri",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43431675\"\u003eComments\u003c/a\u003e",
-         "link": "https://finance.yahoo.com/news/apple-shuffles-ai-executive-ranks-162500488.html",
-         "links": [
-             "https://finance.yahoo.com/news/apple-shuffles-ai-executive-ranks-162500488.html"
-         ],
-         "published": "Fri, 21 Mar 2025 04:01:00 +0000",
-         "publishedParsed": "2025-03-21T04:01:00Z"
-     },
-     {
-         "title": "Napkin Math Tool",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43389455\"\u003eComments\u003c/a\u003e",
-         "link": "https://taylor.town/napkin-math",
-         "links": [
-             "https://taylor.town/napkin-math"
-         ],
-         "published": "Mon, 17 Mar 2025 15:16:03 +0000",
-         "publishedParsed": "2025-03-17T15:16:03Z"
-     },
-     {
-         "title": "How 'Careless People' is becoming a bigger problem for Meta",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43440449\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theverge.com/command-line-newsletter/634080/careless-people-sarah-wynn-williams-book-meta-congress",
-         "links": [
-             "https://www.theverge.com/command-line-newsletter/634080/careless-people-sarah-wynn-williams-book-meta-congress"
-         ],
-         "published": "Fri, 21 Mar 2025 20:28:09 +0000",
-         "publishedParsed": "2025-03-21T20:28:09Z"
      }
  ]
