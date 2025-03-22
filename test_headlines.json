@@ -1,15 +1,5 @@
 [
      {
-         "title": "\"Vibe Coding\" vs. Reality",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43448432\"\u003eComments\u003c/a\u003e",
-         "link": "https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html",
-         "links": [
-             "https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html"
-         ],
-         "published": "Sat, 22 Mar 2025 20:35:51 +0000",
-         "publishedParsed": "2025-03-22T20:35:51Z"
-     },
-     {
          "title": "The polar vortex is hitting the brakes",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43448023\"\u003eComments\u003c/a\u003e",
          "link": "https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes",
@@ -18,6 +8,16 @@
          ],
          "published": "Sat, 22 Mar 2025 19:31:38 +0000",
          "publishedParsed": "2025-03-22T19:31:38Z"
+     },
+     {
+         "title": "NixOS and reproducible builds could have detected the xz backdoor",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43448075\"\u003eComments\u003c/a\u003e",
+         "link": "https://luj.fr/blog/how-nixos-could-have-detected-xz.html",
+         "links": [
+             "https://luj.fr/blog/how-nixos-could-have-detected-xz.html"
+         ],
+         "published": "Sat, 22 Mar 2025 19:39:59 +0000",
+         "publishedParsed": "2025-03-22T19:39:59Z"
      },
      {
          "title": "Map Features in OpenStreetMap with Computer Vision",
@@ -40,14 +40,24 @@
          "publishedParsed": "2025-03-22T14:39:04Z"
      },
      {
-         "title": "Most AI value will come from broad automation, not from R\u0026D",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43447616\"\u003eComments\u003c/a\u003e",
-         "link": "https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d",
+         "title": "CVE-2025-29927 – Next.js",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43448723\"\u003eComments\u003c/a\u003e",
+         "link": "https://nextjs.org/blog/cve-2025-29927",
          "links": [
-             "https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d"
+             "https://nextjs.org/blog/cve-2025-29927"
          ],
-         "published": "Sat, 22 Mar 2025 18:35:00 +0000",
-         "publishedParsed": "2025-03-22T18:35:00Z"
+         "published": "Sat, 22 Mar 2025 21:19:07 +0000",
+         "publishedParsed": "2025-03-22T21:19:07Z"
+     },
+     {
+         "title": "Mathematical Methods for Physics [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43448193\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf",
+         "links": [
+             "https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf"
+         ],
+         "published": "Sat, 22 Mar 2025 19:58:52 +0000",
+         "publishedParsed": "2025-03-22T19:58:52Z"
      },
      {
          "title": "Tencent's 'Hunyuan-T1'–The First Mamba-Powered Ultra-Large Model",
@@ -60,6 +70,36 @@
          "publishedParsed": "2025-03-22T17:25:32Z"
      },
      {
+         "title": "Quitting an Intel x86 Hypervisor",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43448457\"\u003eComments\u003c/a\u003e",
+         "link": "https://halobates.de/blog/p/446",
+         "links": [
+             "https://halobates.de/blog/p/446"
+         ],
+         "published": "Sat, 22 Mar 2025 20:42:04 +0000",
+         "publishedParsed": "2025-03-22T20:42:04Z"
+     },
+     {
+         "title": "CEO of AI ad-tech firm pledging \"world free of fraud\" sentenced for fraud",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43448606\"\u003eComments\u003c/a\u003e",
+         "link": "https://arstechnica.com/gadgets/2025/03/ceo-of-ai-ad-tech-firm-pledging-world-free-of-fraud-sentenced-for-fraud/",
+         "links": [
+             "https://arstechnica.com/gadgets/2025/03/ceo-of-ai-ad-tech-firm-pledging-world-free-of-fraud-sentenced-for-fraud/"
+         ],
+         "published": "Sat, 22 Mar 2025 21:02:40 +0000",
+         "publishedParsed": "2025-03-22T21:02:40Z"
+     },
+     {
+         "title": "Leaping AI (YC W25) Is Hiring",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43448584\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer",
+         "links": [
+             "https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer"
+         ],
+         "published": "Sat, 22 Mar 2025 21:00:16 +0000",
+         "publishedParsed": "2025-03-22T21:00:16Z"
+     },
+     {
          "title": "Landrun: Sandbox any Linux process using Landlock, no root or containers",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43445662\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/Zouuup/landrun",
@@ -70,14 +110,24 @@
          "publishedParsed": "2025-03-22T13:56:59Z"
      },
      {
-         "title": "Mathematical Methods for Physics [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43448193\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf",
+         "title": "Magical Instant Bullets",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43429427\"\u003eComments\u003c/a\u003e",
+         "link": "https://militaryrealism.blog/2025/03/20/magical-instant-bullets/",
          "links": [
-             "https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf"
+             "https://militaryrealism.blog/2025/03/20/magical-instant-bullets/"
          ],
-         "published": "Sat, 22 Mar 2025 19:58:52 +0000",
-         "publishedParsed": "2025-03-22T19:58:52Z"
+         "published": "Thu, 20 Mar 2025 21:55:20 +0000",
+         "publishedParsed": "2025-03-20T21:55:20Z"
+     },
+     {
+         "title": "Trapping misbehaving bots in an AI Labyrinth",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43411725\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.cloudflare.com/ai-labyrinth/",
+         "links": [
+             "https://blog.cloudflare.com/ai-labyrinth/"
+         ],
+         "published": "Wed, 19 Mar 2025 13:31:07 +0000",
+         "publishedParsed": "2025-03-19T13:31:07Z"
      },
      {
          "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
@@ -100,6 +150,16 @@
          "publishedParsed": "2025-03-22T14:10:30Z"
      },
      {
+         "title": "California Attorney General issues consumer alert for 23andMe customers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43447421\"\u003eComments\u003c/a\u003e",
+         "link": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-urgently-issues-consumer-alert-23andme-customers",
+         "links": [
+             "https://oag.ca.gov/news/press-releases/attorney-general-bonta-urgently-issues-consumer-alert-23andme-customers"
+         ],
+         "published": "Sat, 22 Mar 2025 17:55:38 +0000",
+         "publishedParsed": "2025-03-22T17:55:38Z"
+     },
+     {
          "title": "Differential Geometry: A First Course in Curves and Surfaces [pdf]",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43445614\"\u003eComments\u003c/a\u003e",
          "link": "https://math.franklin.uga.edu/sites/default/files/users/user317/ShifrinDiffGeo.pdf",
@@ -120,16 +180,6 @@
          "publishedParsed": "2025-03-22T17:05:22Z"
      },
      {
-         "title": "Trapping misbehaving bots in an AI Labyrinth",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43411725\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.cloudflare.com/ai-labyrinth/",
-         "links": [
-             "https://blog.cloudflare.com/ai-labyrinth/"
-         ],
-         "published": "Wed, 19 Mar 2025 13:31:07 +0000",
-         "publishedParsed": "2025-03-19T13:31:07Z"
-     },
-     {
          "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43445894\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/sail-sg/understand-r1-zero",
@@ -138,16 +188,6 @@
          ],
          "published": "Sat, 22 Mar 2025 14:35:12 +0000",
          "publishedParsed": "2025-03-22T14:35:12Z"
-     },
-     {
-         "title": "Derivatives and Logarithms of 3D Transforms",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43430498\"\u003eComments\u003c/a\u003e",
-         "link": "https://nosferalatu.com/./DerivativesLogarithmsTransforms.html",
-         "links": [
-             "https://nosferalatu.com/./DerivativesLogarithmsTransforms.html"
-         ],
-         "published": "Fri, 21 Mar 2025 00:06:36 +0000",
-         "publishedParsed": "2025-03-21T00:06:36Z"
      },
      {
          "title": "Monster Cables picked the wrong guy to threaten (2008)",
@@ -160,24 +200,34 @@
          "publishedParsed": "2025-03-22T00:30:37Z"
      },
      {
-         "title": "Hubble Captures Vivid Auroras in Jupiter's Atmosphere (2016)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43418343\"\u003eComments\u003c/a\u003e",
-         "link": "https://science.nasa.gov/missions/hubble/hubble-captures-vivid-auroras-in-jupiters-atmosphere/",
+         "title": "Most AI value will come from broad automation, not from R\u0026D",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43447616\"\u003eComments\u003c/a\u003e",
+         "link": "https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d",
          "links": [
-             "https://science.nasa.gov/missions/hubble/hubble-captures-vivid-auroras-in-jupiters-atmosphere/"
+             "https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d"
          ],
-         "published": "Wed, 19 Mar 2025 23:29:28 +0000",
-         "publishedParsed": "2025-03-19T23:29:28Z"
+         "published": "Sat, 22 Mar 2025 18:35:00 +0000",
+         "publishedParsed": "2025-03-22T18:35:00Z"
      },
      {
-         "title": "NixOS and reproducible builds could have detected the xz backdoor",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43448075\"\u003eComments\u003c/a\u003e",
-         "link": "https://luj.fr/blog/how-nixos-could-have-detected-xz.html",
+         "title": "Derivatives and Logarithms of 3D Transforms",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43430498\"\u003eComments\u003c/a\u003e",
+         "link": "https://nosferalatu.com/./DerivativesLogarithmsTransforms.html",
          "links": [
-             "https://luj.fr/blog/how-nixos-could-have-detected-xz.html"
+             "https://nosferalatu.com/./DerivativesLogarithmsTransforms.html"
          ],
-         "published": "Sat, 22 Mar 2025 19:39:59 +0000",
-         "publishedParsed": "2025-03-22T19:39:59Z"
+         "published": "Fri, 21 Mar 2025 00:06:36 +0000",
+         "publishedParsed": "2025-03-21T00:06:36Z"
+     },
+     {
+         "title": "“Vibe Coding” vs. Reality",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43448432\"\u003eComments\u003c/a\u003e",
+         "link": "https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html",
+         "links": [
+             "https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html"
+         ],
+         "published": "Sat, 22 Mar 2025 20:35:51 +0000",
+         "publishedParsed": "2025-03-22T20:35:51Z"
      },
      {
          "title": "Crabtime: Zig’s Comptime in Rust",
@@ -190,14 +240,24 @@
          "publishedParsed": "2025-03-19T18:44:11Z"
      },
      {
-         "title": "Safe Shell String Interpolation",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43447311\"\u003eComments\u003c/a\u003e",
-         "link": "https://samwing.dev/posts/zJonlrXabVoc",
+         "title": "Show HN: We made an MCP server so Cursor can debug Node.js on its own",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43446659\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger",
          "links": [
-             "https://samwing.dev/posts/zJonlrXabVoc"
+             "https://www.npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger"
          ],
-         "published": "Sat, 22 Mar 2025 17:37:25 +0000",
-         "publishedParsed": "2025-03-22T17:37:25Z"
+         "published": "Sat, 22 Mar 2025 15:57:26 +0000",
+         "publishedParsed": "2025-03-22T15:57:26Z"
+     },
+     {
+         "title": "Hubble Captures Vivid Auroras in Jupiter's Atmosphere (2016)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43418343\"\u003eComments\u003c/a\u003e",
+         "link": "https://science.nasa.gov/missions/hubble/hubble-captures-vivid-auroras-in-jupiters-atmosphere/",
+         "links": [
+             "https://science.nasa.gov/missions/hubble/hubble-captures-vivid-auroras-in-jupiters-atmosphere/"
+         ],
+         "published": "Wed, 19 Mar 2025 23:29:28 +0000",
+         "publishedParsed": "2025-03-19T23:29:28Z"
      },
      {
          "title": "Scallop – A Language for Neurosymbolic Programming",
@@ -210,16 +270,6 @@
          "publishedParsed": "2025-03-22T04:45:08Z"
      },
      {
-         "title": "There's no emotion we ought to think harder about than anger",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43448408\"\u003eComments\u003c/a\u003e",
-         "link": "https://aeon.co/essays/there-s-no-emotion-we-ought-to-think-harder-about-than-anger",
-         "links": [
-             "https://aeon.co/essays/there-s-no-emotion-we-ought-to-think-harder-about-than-anger"
-         ],
-         "published": "Sat, 22 Mar 2025 20:31:47 +0000",
-         "publishedParsed": "2025-03-22T20:31:47Z"
-     },
-     {
          "title": "Blue Ghost lander captures sunset shots on moon before falling silent",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43410302\"\u003eComments\u003c/a\u003e",
          "link": "https://phys.org/news/2025-03-blue-ghost-lander-captures-stunning.html",
@@ -230,16 +280,6 @@
          "publishedParsed": "2025-03-19T10:45:37Z"
      },
      {
-         "title": "Pen and Paper Exercises in Machine Learning (2022)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43440267\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2206.13446",
-         "links": [
-             "https://arxiv.org/abs/2206.13446"
-         ],
-         "published": "Fri, 21 Mar 2025 20:07:12 +0000",
-         "publishedParsed": "2025-03-21T20:07:12Z"
-     },
-     {
          "title": "When you deleted /lib on Linux while still connected via SSH (2022)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43444160\"\u003eComments\u003c/a\u003e",
          "link": "https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/",
@@ -248,25 +288,5 @@
          ],
          "published": "Sat, 22 Mar 2025 07:24:05 +0000",
          "publishedParsed": "2025-03-22T07:24:05Z"
-     },
-     {
-         "title": "Show HN: We made an MCP server so Cursor can debug Node.js on its own",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43446659\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger",
-         "links": [
-             "https://www.npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger"
-         ],
-         "published": "Sat, 22 Mar 2025 15:57:26 +0000",
-         "publishedParsed": "2025-03-22T15:57:26Z"
-     },
-     {
-         "title": "IronRDP: a Rust implementation of Microsoft's RDP protocol",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43436894\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Devolutions/IronRDP",
-         "links": [
-             "https://github.com/Devolutions/IronRDP"
-         ],
-         "published": "Fri, 21 Mar 2025 15:35:27 +0000",
-         "publishedParsed": "2025-03-21T15:35:27Z"
      }
  ]
