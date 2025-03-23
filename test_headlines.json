@@ -1,5 +1,45 @@
 [
      {
+         "title": "The SeL4 Microkernel: An Introduction [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43452185\"\u003eComments\u003c/a\u003e",
+         "link": "https://sel4.systems/About/seL4-whitepaper.pdf",
+         "links": [
+             "https://sel4.systems/About/seL4-whitepaper.pdf"
+         ],
+         "published": "Sun, 23 Mar 2025 11:09:28 +0000",
+         "publishedParsed": "2025-03-23T11:09:28Z"
+     },
+     {
+         "title": "Ask HN: Difficulties with Going Back to School",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43452945\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=43452945",
+         "links": [
+             "https://news.ycombinator.com/item?id=43452945"
+         ],
+         "published": "Sun, 23 Mar 2025 13:54:06 +0000",
+         "publishedParsed": "2025-03-23T13:54:06Z"
+     },
+     {
+         "title": "argp: GNU-style command line argument parser for Go",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43452525\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/tdewolff/argp",
+         "links": [
+             "https://github.com/tdewolff/argp"
+         ],
+         "published": "Sun, 23 Mar 2025 12:45:21 +0000",
+         "publishedParsed": "2025-03-23T12:45:21Z"
+     },
+     {
+         "title": "The Worst Programmer I Know (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43452649\"\u003eComments\u003c/a\u003e",
+         "link": "https://dannorth.net/the-worst-programmer/",
+         "links": [
+             "https://dannorth.net/the-worst-programmer/"
+         ],
+         "published": "Sun, 23 Mar 2025 13:08:45 +0000",
+         "publishedParsed": "2025-03-23T13:08:45Z"
+     },
+     {
          "title": "Improving recommendation systems and search in the age of LLMs",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43450732\"\u003eComments\u003c/a\u003e",
          "link": "https://eugeneyan.com/writing/recsys-llm/",
@@ -8,16 +48,6 @@
          ],
          "published": "Sun, 23 Mar 2025 03:40:05 +0000",
          "publishedParsed": "2025-03-23T03:40:05Z"
-     },
-     {
-         "title": "Feral pig meat transmits rare bacteria",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43414743\"\u003eComments\u003c/a\u003e",
-         "link": "https://arstechnica.com/health/2025/03/florida-man-eats-feral-pig-meat-contracts-rare-biothreat-bacteria/",
-         "links": [
-             "https://arstechnica.com/health/2025/03/florida-man-eats-feral-pig-meat-contracts-rare-biothreat-bacteria/"
-         ],
-         "published": "Wed, 19 Mar 2025 17:17:06 +0000",
-         "publishedParsed": "2025-03-19T17:17:06Z"
      },
      {
          "title": "The case of the critical section that let multiple threads enter a block of code",
@@ -30,6 +60,46 @@
          "publishedParsed": "2025-03-23T08:14:25Z"
      },
      {
+         "title": "Neanderthals may have eaten maggots as part of their diet",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43446174\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.science.org/content/article/neanderthals-may-have-eaten-maggots-part-their-diet",
+         "links": [
+             "https://www.science.org/content/article/neanderthals-may-have-eaten-maggots-part-their-diet"
+         ],
+         "published": "Sat, 22 Mar 2025 15:03:01 +0000",
+         "publishedParsed": "2025-03-22T15:03:01Z"
+     },
+     {
+         "title": "Feral pig meat transmits rare bacteria",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43414743\"\u003eComments\u003c/a\u003e",
+         "link": "https://arstechnica.com/health/2025/03/florida-man-eats-feral-pig-meat-contracts-rare-biothreat-bacteria/",
+         "links": [
+             "https://arstechnica.com/health/2025/03/florida-man-eats-feral-pig-meat-contracts-rare-biothreat-bacteria/"
+         ],
+         "published": "Wed, 19 Mar 2025 17:17:06 +0000",
+         "publishedParsed": "2025-03-19T17:17:06Z"
+     },
+     {
+         "title": "Next.js and the corrupt middleware: the authorizing artifact",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43451485\"\u003eComments\u003c/a\u003e",
+         "link": "https://zhero-web-sec.github.io/research-and-things/nextjs-and-the-corrupt-middleware",
+         "links": [
+             "https://zhero-web-sec.github.io/research-and-things/nextjs-and-the-corrupt-middleware"
+         ],
+         "published": "Sun, 23 Mar 2025 07:57:40 +0000",
+         "publishedParsed": "2025-03-23T07:57:40Z"
+     },
+     {
+         "title": "How to create value objects in Ruby – the idiomatic way",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43421324\"\u003eComments\u003c/a\u003e",
+         "link": "https://allaboutcoding.ghinda.com/how-to-create-value-objects-in-ruby-the-idiomatic-way",
+         "links": [
+             "https://allaboutcoding.ghinda.com/how-to-create-value-objects-in-ruby-the-idiomatic-way"
+         ],
+         "published": "Thu, 20 Mar 2025 10:03:17 +0000",
+         "publishedParsed": "2025-03-20T10:03:17Z"
+     },
+     {
          "title": "Hadrius (YC W23) Is Hiring Engineers with Ambitious Career Goals",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43452413\"\u003eComments\u003c/a\u003e",
          "link": "https://www.ycombinator.com/companies/hadrius/jobs/CObSGR0-founding-software-engineer-tech-lead",
@@ -38,6 +108,16 @@
          ],
          "published": "Sun, 23 Mar 2025 12:15:51 +0000",
          "publishedParsed": "2025-03-23T12:15:51Z"
+     },
+     {
+         "title": "Hardware-Aware Coding: CPU Architecture Concepts Every Developer Should Know",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43452431\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.codingconfessions.com/p/hardware-aware-coding",
+         "links": [
+             "https://blog.codingconfessions.com/p/hardware-aware-coding"
+         ],
+         "published": "Sun, 23 Mar 2025 12:20:27 +0000",
+         "publishedParsed": "2025-03-23T12:20:27Z"
      },
      {
          "title": "EmptyEpsilon open source spaceship bridge simulator",
@@ -80,6 +160,16 @@
          "publishedParsed": "2025-03-22T14:39:04Z"
      },
      {
+         "title": "The polar vortex is hitting the brakes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43448023\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes",
+         "links": [
+             "https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes"
+         ],
+         "published": "Sat, 22 Mar 2025 19:31:38 +0000",
+         "publishedParsed": "2025-03-22T19:31:38Z"
+     },
+     {
          "title": "Map Features in OpenStreetMap with Computer Vision",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43447335\"\u003eComments\u003c/a\u003e",
          "link": "https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/",
@@ -88,26 +178,6 @@
          ],
          "published": "Sat, 22 Mar 2025 17:42:10 +0000",
          "publishedParsed": "2025-03-22T17:42:10Z"
-     },
-     {
-         "title": "The Barnacle Goose Myth",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43431881\"\u003eComments\u003c/a\u003e",
-         "link": "https://en.wikipedia.org/wiki/Barnacle_goose_myth",
-         "links": [
-             "https://en.wikipedia.org/wiki/Barnacle_goose_myth"
-         ],
-         "published": "Fri, 21 Mar 2025 04:35:19 +0000",
-         "publishedParsed": "2025-03-21T04:35:19Z"
-     },
-     {
-         "title": "Scientists program stem cells to mimic first days of embryonic development",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43431057\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ucsc.edu/2025/03/shariati-cellstemcell-25.html",
-         "links": [
-             "https://news.ucsc.edu/2025/03/shariati-cellstemcell-25.html"
-         ],
-         "published": "Fri, 21 Mar 2025 01:45:19 +0000",
-         "publishedParsed": "2025-03-21T01:45:19Z"
      },
      {
          "title": "Landrun: Sandbox any Linux process using Landlock, no root or containers",
@@ -120,14 +190,14 @@
          "publishedParsed": "2025-03-22T13:56:59Z"
      },
      {
-         "title": "I made \"Character AI\" for learning",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43452320\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=43452320",
+         "title": "Next.js version 15.2.3 has been released to address a security vulnerability",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43448723\"\u003eComments\u003c/a\u003e",
+         "link": "https://nextjs.org/blog/cve-2025-29927",
          "links": [
-             "https://news.ycombinator.com/item?id=43452320"
+             "https://nextjs.org/blog/cve-2025-29927"
          ],
-         "published": "Sun, 23 Mar 2025 11:46:59 +0000",
-         "publishedParsed": "2025-03-23T11:46:59Z"
+         "published": "Sat, 22 Mar 2025 21:19:07 +0000",
+         "publishedParsed": "2025-03-22T21:19:07Z"
      },
      {
          "title": "300-year-old Polish beech voted Tree of the Year",
@@ -140,14 +210,24 @@
          "publishedParsed": "2025-03-19T20:37:58Z"
      },
      {
-         "title": "Quitting an Intel x86 Hypervisor",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43448457\"\u003eComments\u003c/a\u003e",
-         "link": "https://halobates.de/blog/p/446",
+         "title": "Euclid opens data treasure trove, offers glimpse of deep fields",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43425855\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_opens_data_treasure_trove_offers_glimpse_of_deep_fields",
          "links": [
-             "https://halobates.de/blog/p/446"
+             "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_opens_data_treasure_trove_offers_glimpse_of_deep_fields"
          ],
-         "published": "Sat, 22 Mar 2025 20:42:04 +0000",
-         "publishedParsed": "2025-03-22T20:42:04Z"
+         "published": "Thu, 20 Mar 2025 17:07:11 +0000",
+         "publishedParsed": "2025-03-20T17:07:11Z"
+     },
+     {
+         "title": "Scientists program stem cells to mimic first days of embryonic development",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43431057\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ucsc.edu/2025/03/shariati-cellstemcell-25.html",
+         "links": [
+             "https://news.ucsc.edu/2025/03/shariati-cellstemcell-25.html"
+         ],
+         "published": "Fri, 21 Mar 2025 01:45:19 +0000",
+         "publishedParsed": "2025-03-21T01:45:19Z"
      },
      {
          "title": "A single-fibre computer enables textile networks and distributed inference",
@@ -158,6 +238,36 @@
          ],
          "published": "Wed, 19 Mar 2025 11:39:01 +0000",
          "publishedParsed": "2025-03-19T11:39:01Z"
+     },
+     {
+         "title": "Stop using the elbow criterion for k-means",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43450550\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2212.12189",
+         "links": [
+             "https://arxiv.org/abs/2212.12189"
+         ],
+         "published": "Sun, 23 Mar 2025 02:51:38 +0000",
+         "publishedParsed": "2025-03-23T02:51:38Z"
+     },
+     {
+         "title": "Quitting an Intel x86 Hypervisor",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43448457\"\u003eComments\u003c/a\u003e",
+         "link": "https://halobates.de/blog/p/446",
+         "links": [
+             "https://halobates.de/blog/p/446"
+         ],
+         "published": "Sat, 22 Mar 2025 20:42:04 +0000",
+         "publishedParsed": "2025-03-22T20:42:04Z"
+     },
+     {
+         "title": "Most AI value will come from broad automation, not from R \u0026 D",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43447616\"\u003eComments\u003c/a\u003e",
+         "link": "https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d",
+         "links": [
+             "https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d"
+         ],
+         "published": "Sat, 22 Mar 2025 18:35:00 +0000",
+         "publishedParsed": "2025-03-22T18:35:00Z"
      },
      {
          "title": "Matched and Deleted",
@@ -178,115 +288,5 @@
          ],
          "published": "Wed, 19 Mar 2025 21:15:39 +0000",
          "publishedParsed": "2025-03-19T21:15:39Z"
-     },
-     {
-         "title": "Stop using the elbow criterion for k-means",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43450550\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2212.12189",
-         "links": [
-             "https://arxiv.org/abs/2212.12189"
-         ],
-         "published": "Sun, 23 Mar 2025 02:51:38 +0000",
-         "publishedParsed": "2025-03-23T02:51:38Z"
-     },
-     {
-         "title": "The Vectrex Computer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43449326\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.amigalove.com/viewtopic.php?t=2887",
-         "links": [
-             "https://www.amigalove.com/viewtopic.php?t=2887"
-         ],
-         "published": "Sat, 22 Mar 2025 22:52:21 +0000",
-         "publishedParsed": "2025-03-22T22:52:21Z"
-     },
-     {
-         "title": "Crabtime: Zig’s Comptime in Rust",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43415820\"\u003eComments\u003c/a\u003e",
-         "link": "https://crates.io/crates/crabtime",
-         "links": [
-             "https://crates.io/crates/crabtime"
-         ],
-         "published": "Wed, 19 Mar 2025 18:44:11 +0000",
-         "publishedParsed": "2025-03-19T18:44:11Z"
-     },
-     {
-         "title": "Show HN: FastOpenAPI – automated docs for many Python frameworks",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43445720\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/mr-fatalyst/fastopenapi",
-         "links": [
-             "https://github.com/mr-fatalyst/fastopenapi"
-         ],
-         "published": "Sat, 22 Mar 2025 14:10:30 +0000",
-         "publishedParsed": "2025-03-22T14:10:30Z"
-     },
-     {
-         "title": "Metabolism Can Shape Cells' Destinies",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43436663\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.quantamagazine.org/how-metabolism-can-shape-cells-destinies-20250321/",
-         "links": [
-             "https://www.quantamagazine.org/how-metabolism-can-shape-cells-destinies-20250321/"
-         ],
-         "published": "Fri, 21 Mar 2025 15:13:35 +0000",
-         "publishedParsed": "2025-03-21T15:13:35Z"
-     },
-     {
-         "title": "Derivatives and Logarithms of 3D Transforms",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43430498\"\u003eComments\u003c/a\u003e",
-         "link": "https://nosferalatu.com/./DerivativesLogarithmsTransforms.html",
-         "links": [
-             "https://nosferalatu.com/./DerivativesLogarithmsTransforms.html"
-         ],
-         "published": "Fri, 21 Mar 2025 00:06:36 +0000",
-         "publishedParsed": "2025-03-21T00:06:36Z"
-     },
-     {
-         "title": "Show HN: We made an MCP server so Cursor can debug Node.js on its own",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43446659\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger",
-         "links": [
-             "https://www.npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger"
-         ],
-         "published": "Sat, 22 Mar 2025 15:57:26 +0000",
-         "publishedParsed": "2025-03-22T15:57:26Z"
-     },
-     {
-         "title": "The Race to Decipher Cuneiform in the 19th Century",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43424038\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.smithsonianmag.com/history/mystery-worlds-oldest-writing-system-remained-unsolved-until-four-scholars-raced-decipher-it-180985954/",
-         "links": [
-             "https://www.smithsonianmag.com/history/mystery-worlds-oldest-writing-system-remained-unsolved-until-four-scholars-raced-decipher-it-180985954/"
-         ],
-         "published": "Thu, 20 Mar 2025 14:30:30 +0000",
-         "publishedParsed": "2025-03-20T14:30:30Z"
-     },
-     {
-         "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43446442\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=xJzrU38pGWc",
-         "links": [
-             "https://www.youtube.com/watch?v=xJzrU38pGWc"
-         ],
-         "published": "Sat, 22 Mar 2025 15:30:48 +0000",
-         "publishedParsed": "2025-03-22T15:30:48Z"
-     },
-     {
-         "title": "Bra and KET: String Interpolation in AmigaDOS",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43447126\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.datagubbe.se/braket/",
-         "links": [
-             "https://www.datagubbe.se/braket/"
-         ],
-         "published": "Sat, 22 Mar 2025 17:05:22 +0000",
-         "publishedParsed": "2025-03-22T17:05:22Z"
-     },
-     {
-         "title": "When you deleted /lib on Linux while still connected via SSH (2022)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43444160\"\u003eComments\u003c/a\u003e",
-         "link": "https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/",
-         "links": [
-             "https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/"
-         ],
-         "published": "Sat, 22 Mar 2025 07:24:05 +0000",
-         "publishedParsed": "2025-03-22T07:24:05Z"
      }
  ]
