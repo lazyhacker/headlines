@@ -1,6 +1,6 @@
 [
      {
-         "title": "Stoop Coffee: How a Simple Idea Transformed My Neighborhood",
+         "title": "Stoop Coffee: A simple idea transformed my neighborhood",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43473618\"\u003eComments\u003c/a\u003e",
          "link": "https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed",
          "links": [
@@ -8,6 +8,16 @@
          ],
          "published": "Tue, 25 Mar 2025 17:16:45 +0000",
          "publishedParsed": "2025-03-25T17:16:45Z"
+     },
+     {
+         "title": "Ruby, Ractors, and Lock-Free Data Structures",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43451285\"\u003eComments\u003c/a\u003e",
+         "link": "https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/",
+         "links": [
+             "https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/"
+         ],
+         "published": "Sun, 23 Mar 2025 06:55:11 +0000",
+         "publishedParsed": "2025-03-23T06:55:11Z"
      },
      {
          "title": "4o Image Generation",
@@ -20,36 +30,6 @@
          "publishedParsed": "2025-03-25T18:06:02Z"
      },
      {
-         "title": "Kylie Minogue song about a typeface",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43473358\"\u003eComments\u003c/a\u003e",
-         "link": "https://abcdinamo.com/news/german-bold-italic",
-         "links": [
-             "https://abcdinamo.com/news/german-bold-italic"
-         ],
-         "published": "Tue, 25 Mar 2025 16:51:09 +0000",
-         "publishedParsed": "2025-03-25T16:51:09Z"
-     },
-     {
-         "title": "Gemini 2.5: Our most intelligent AI model",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43473489\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/",
-         "links": [
-             "https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/"
-         ],
-         "published": "Tue, 25 Mar 2025 17:01:54 +0000",
-         "publishedParsed": "2025-03-25T17:01:54Z"
-     },
-     {
-         "title": "The Ethics of Spreading Life in the Cosmos",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43474250\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.centauri-dreams.org/2025/03/25/the-ethics-of-spreading-life-in-the-cosmos/",
-         "links": [
-             "https://www.centauri-dreams.org/2025/03/25/the-ethics-of-spreading-life-in-the-cosmos/"
-         ],
-         "published": "Tue, 25 Mar 2025 18:21:30 +0000",
-         "publishedParsed": "2025-03-25T18:21:30Z"
-     },
-     {
          "title": "Deciphering language processing in the human brain through LLM representations",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43439501\"\u003eComments\u003c/a\u003e",
          "link": "https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/",
@@ -60,14 +40,34 @@
          "publishedParsed": "2025-03-21T18:44:37Z"
      },
      {
-         "title": "VGGT: Visual Geometry Grounded Transformer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43470651\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/facebookresearch/vggt",
+         "title": "Kylie Minogue song about a typeface",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43473358\"\u003eComments\u003c/a\u003e",
+         "link": "https://abcdinamo.com/news/german-bold-italic",
          "links": [
-             "https://github.com/facebookresearch/vggt"
+             "https://abcdinamo.com/news/german-bold-italic"
          ],
-         "published": "Tue, 25 Mar 2025 12:59:26 +0000",
-         "publishedParsed": "2025-03-25T12:59:26Z"
+         "published": "Tue, 25 Mar 2025 16:51:09 +0000",
+         "publishedParsed": "2025-03-25T16:51:09Z"
+     },
+     {
+         "title": "Is Robert Frost Even a Good Poet?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43468498\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theparisreview.org/blog/2025/03/17/is-robert-frost-even-a-good-poet/",
+         "links": [
+             "https://www.theparisreview.org/blog/2025/03/17/is-robert-frost-even-a-good-poet/"
+         ],
+         "published": "Tue, 25 Mar 2025 06:11:46 +0000",
+         "publishedParsed": "2025-03-25T06:11:46Z"
+     },
+     {
+         "title": "Gemini 2.5",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43473489\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/",
+         "links": [
+             "https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/"
+         ],
+         "published": "Tue, 25 Mar 2025 17:01:54 +0000",
+         "publishedParsed": "2025-03-25T17:01:54Z"
      },
      {
          "title": "Whose code am I running in GitHub Actions?",
@@ -80,54 +80,54 @@
          "publishedParsed": "2025-03-25T17:17:05Z"
      },
      {
-         "title": "Borne Back Ceaselessly into the Past: Fitzgerald, Gatsby and WWI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43472320\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theworldwar.org/learn/about-wwi/borne-back-ceaselessly-past-fitzgerald-gatsby-and-wwi",
+         "title": "Optimizing ML Training with Metagradient Descent",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43476134\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2503.13751",
          "links": [
-             "https://www.theworldwar.org/learn/about-wwi/borne-back-ceaselessly-past-fitzgerald-gatsby-and-wwi"
+             "https://arxiv.org/abs/2503.13751"
          ],
-         "published": "Tue, 25 Mar 2025 15:11:56 +0000",
-         "publishedParsed": "2025-03-25T15:11:56Z"
+         "published": "Tue, 25 Mar 2025 21:22:35 +0000",
+         "publishedParsed": "2025-03-25T21:22:35Z"
      },
      {
-         "title": "Activeloop (YC S18) Is Hiring Senior Python Back End and AI Search Engineers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43473478\"\u003eComments\u003c/a\u003e",
-         "link": "https://careers.activeloop.ai/",
+         "title": "Devs say AI crawlers dominate traffic, forcing blocks on entire countries",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43476337\"\u003eComments\u003c/a\u003e",
+         "link": "https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/",
          "links": [
-             "https://careers.activeloop.ai/"
+             "https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/"
          ],
-         "published": "Tue, 25 Mar 2025 17:00:36 +0000",
-         "publishedParsed": "2025-03-25T17:00:36Z"
+         "published": "Tue, 25 Mar 2025 21:42:37 +0000",
+         "publishedParsed": "2025-03-25T21:42:37Z"
      },
      {
-         "title": "The Jakt Programming Language",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43437752\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/SerenityOS/jakt",
+         "title": "VGGT: Visual Geometry Grounded Transformer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43470651\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/facebookresearch/vggt",
          "links": [
-             "https://github.com/SerenityOS/jakt"
+             "https://github.com/facebookresearch/vggt"
          ],
-         "published": "Fri, 21 Mar 2025 16:34:26 +0000",
-         "publishedParsed": "2025-03-21T16:34:26Z"
+         "published": "Tue, 25 Mar 2025 12:59:26 +0000",
+         "publishedParsed": "2025-03-25T12:59:26Z"
      },
      {
-         "title": "Were large soda lakes the cradle of life?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43472668\"\u003eComments\u003c/a\u003e",
-         "link": "https://ethz.ch/en/news-and-events/eth-news/news/2025/03/were-large-soda-lakes-the-cradle-of-life.html",
+         "title": "If you get the chance, always run more extra network fiber cabling",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43471177\"\u003eComments\u003c/a\u003e",
+         "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunMoreExtraNetworkFiber",
          "links": [
-             "https://ethz.ch/en/news-and-events/eth-news/news/2025/03/were-large-soda-lakes-the-cradle-of-life.html"
+             "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunMoreExtraNetworkFiber"
          ],
-         "published": "Tue, 25 Mar 2025 15:42:58 +0000",
-         "publishedParsed": "2025-03-25T15:42:58Z"
+         "published": "Tue, 25 Mar 2025 13:40:59 +0000",
+         "publishedParsed": "2025-03-25T13:40:59Z"
      },
      {
-         "title": "Why is C the symbol for the speed of light? (2004)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43472663\"\u003eComments\u003c/a\u003e",
-         "link": "https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html",
+         "title": "The highest-ranking personal blogs of Hacker News",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43474505\"\u003eComments\u003c/a\u003e",
+         "link": "https://refactoringenglish.com/tools/hn-popularity/",
          "links": [
-             "https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html"
+             "https://refactoringenglish.com/tools/hn-popularity/"
          ],
-         "published": "Tue, 25 Mar 2025 15:42:03 +0000",
-         "publishedParsed": "2025-03-25T15:42:03Z"
+         "published": "Tue, 25 Mar 2025 18:48:57 +0000",
+         "publishedParsed": "2025-03-25T18:48:57Z"
      },
      {
          "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH",
@@ -140,54 +140,24 @@
          "publishedParsed": "2025-03-25T13:22:09Z"
      },
      {
-         "title": "My Favorite C++ Pattern: X Macros (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43472143\"\u003eComments\u003c/a\u003e",
-         "link": "https://danilafe.com/blog/chapel_x_macros/",
+         "title": "Why is C the symbol for the speed of light? (2004)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43472663\"\u003eComments\u003c/a\u003e",
+         "link": "https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html",
          "links": [
-             "https://danilafe.com/blog/chapel_x_macros/"
+             "https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html"
          ],
-         "published": "Tue, 25 Mar 2025 14:57:59 +0000",
-         "publishedParsed": "2025-03-25T14:57:59Z"
+         "published": "Tue, 25 Mar 2025 15:42:03 +0000",
+         "publishedParsed": "2025-03-25T15:42:03Z"
      },
      {
-         "title": "Show HN: Feudle – a daily puzzle game built with AI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43471939\"\u003eComments\u003c/a\u003e",
-         "link": "https://feudlegame.com",
+         "title": "Chicago-Sized Iceberg Hid Ancient Ecosystem, Scientists Reveal",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43452725\"\u003eComments\u003c/a\u003e",
+         "link": "https://gizmodo.com/chicago-sized-iceberg-hid-ancient-ecosystem-scientists-reveal-2000579125",
          "links": [
-             "https://feudlegame.com"
+             "https://gizmodo.com/chicago-sized-iceberg-hid-ancient-ecosystem-scientists-reveal-2000579125"
          ],
-         "published": "Tue, 25 Mar 2025 14:42:21 +0000",
-         "publishedParsed": "2025-03-25T14:42:21Z"
-     },
-     {
-         "title": "Show HN: Fingernotes – handwritten notes which become their own preview image",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43451222\"\u003eComments\u003c/a\u003e",
-         "link": "https://fingernotes.com/note/97513380",
-         "links": [
-             "https://fingernotes.com/note/97513380"
-         ],
-         "published": "Sun, 23 Mar 2025 06:32:19 +0000",
-         "publishedParsed": "2025-03-23T06:32:19Z"
-     },
-     {
-         "title": "Polypane, The browser for ambitious web developers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43451700\"\u003eComments\u003c/a\u003e",
-         "link": "https://polypane.app/",
-         "links": [
-             "https://polypane.app/"
-         ],
-         "published": "Sun, 23 Mar 2025 09:07:17 +0000",
-         "publishedParsed": "2025-03-23T09:07:17Z"
-     },
-     {
-         "title": "How 'animal methods bias' is affecting research careers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43440143\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nature.com/articles/d41586-025-00593-3",
-         "links": [
-             "https://www.nature.com/articles/d41586-025-00593-3"
-         ],
-         "published": "Fri, 21 Mar 2025 19:51:42 +0000",
-         "publishedParsed": "2025-03-21T19:51:42Z"
+         "published": "Sun, 23 Mar 2025 13:19:07 +0000",
+         "publishedParsed": "2025-03-23T13:19:07Z"
      },
      {
          "title": "Scientists break down plastic using a simple, inexpensive catalyst and air",
@@ -200,83 +170,133 @@
          "publishedParsed": "2025-03-21T20:12:49Z"
      },
      {
-         "title": "Search My Site – open-source search engine for personal and independent websites",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43467541\"\u003eComments\u003c/a\u003e",
-         "link": "https://searchmysite.net",
+         "title": "Activeloop (YC S18) Is Hiring Senior Python Back End and AI Search Engineers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43473478\"\u003eComments\u003c/a\u003e",
+         "link": "https://careers.activeloop.ai/",
          "links": [
-             "https://searchmysite.net"
+             "https://careers.activeloop.ai/"
          ],
-         "published": "Tue, 25 Mar 2025 02:19:03 +0000",
-         "publishedParsed": "2025-03-25T02:19:03Z"
+         "published": "Tue, 25 Mar 2025 17:00:36 +0000",
+         "publishedParsed": "2025-03-25T17:00:36Z"
      },
      {
-         "title": "Hann: A Fast Approximate Nearest Neighbor Search Library for Go",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43470162\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/habedi/hann",
+         "title": "Show HN: Fingernotes – handwritten notes which become their own preview image",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43451222\"\u003eComments\u003c/a\u003e",
+         "link": "https://fingernotes.com/note/97513380",
          "links": [
-             "https://github.com/habedi/hann"
+             "https://fingernotes.com/note/97513380"
          ],
-         "published": "Tue, 25 Mar 2025 11:57:11 +0000",
-         "publishedParsed": "2025-03-25T11:57:11Z"
+         "published": "Sun, 23 Mar 2025 06:32:19 +0000",
+         "publishedParsed": "2025-03-23T06:32:19Z"
      },
      {
-         "title": "Reflecting on WikiTok",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43468491\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.aizk.sh/posts/reflecting-on-wikitok",
+         "title": "What's Happening to Students?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43476365\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.honest-broker.com/p/whats-happening-to-students",
          "links": [
-             "https://www.aizk.sh/posts/reflecting-on-wikitok"
+             "https://www.honest-broker.com/p/whats-happening-to-students"
          ],
-         "published": "Tue, 25 Mar 2025 06:09:11 +0000",
-         "publishedParsed": "2025-03-25T06:09:11Z"
+         "published": "Tue, 25 Mar 2025 21:47:20 +0000",
+         "publishedParsed": "2025-03-25T21:47:20Z"
      },
      {
-         "title": "Bitcoin in the bush – the crypto mine in remote Zambia",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43473265\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bbc.com/news/articles/cly4xe373p4o",
+         "title": "Simonw/Ollama-models-atom-feed",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43451579\"\u003eComments\u003c/a\u003e",
+         "link": "https://simonwillison.net/2025/Mar/22/ollama-models-atom-feed/",
          "links": [
-             "https://www.bbc.com/news/articles/cly4xe373p4o"
+             "https://simonwillison.net/2025/Mar/22/ollama-models-atom-feed/"
          ],
-         "published": "Tue, 25 Mar 2025 16:40:55 +0000",
-         "publishedParsed": "2025-03-25T16:40:55Z"
+         "published": "Sun, 23 Mar 2025 08:32:40 +0000",
+         "publishedParsed": "2025-03-23T08:32:40Z"
      },
      {
-         "title": "A study reveals that deciduous trees' roots remain active in winter",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43448035\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.creaf.cat/en/articules/deciduous-trees-roots-remain-active-winter",
+         "title": "My Favorite C++ Pattern: X Macros (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43472143\"\u003eComments\u003c/a\u003e",
+         "link": "https://danilafe.com/blog/chapel_x_macros/",
          "links": [
-             "https://www.creaf.cat/en/articules/deciduous-trees-roots-remain-active-winter"
+             "https://danilafe.com/blog/chapel_x_macros/"
          ],
-         "published": "Sat, 22 Mar 2025 19:33:16 +0000",
-         "publishedParsed": "2025-03-22T19:33:16Z"
+         "published": "Tue, 25 Mar 2025 14:57:59 +0000",
+         "publishedParsed": "2025-03-25T14:57:59Z"
      },
      {
-         "title": "BBC – Organizing music for organic discovery",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43473681\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bbc.co.uk/rd/articles/2025-03-orbit-music-discovery-organise-analysis/",
+         "title": "The Jakt Programming Language",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43437752\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/SerenityOS/jakt",
          "links": [
-             "https://www.bbc.co.uk/rd/articles/2025-03-orbit-music-discovery-organise-analysis/"
+             "https://github.com/SerenityOS/jakt"
          ],
-         "published": "Tue, 25 Mar 2025 17:22:42 +0000",
-         "publishedParsed": "2025-03-25T17:22:42Z"
+         "published": "Fri, 21 Mar 2025 16:34:26 +0000",
+         "publishedParsed": "2025-03-21T16:34:26Z"
      },
      {
-         "title": "Writing your own C++ standard library from scratch",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43468976\"\u003eComments\u003c/a\u003e",
-         "link": "https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html",
+         "title": "Sell Yourself Sell Your Work",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43476249\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn",
          "links": [
-             "https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html"
+             "https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn"
          ],
-         "published": "Tue, 25 Mar 2025 08:10:36 +0000",
-         "publishedParsed": "2025-03-25T08:10:36Z"
+         "published": "Tue, 25 Mar 2025 21:35:16 +0000",
+         "publishedParsed": "2025-03-25T21:35:16Z"
      },
      {
-         "title": "The Lost Towers of the Guelph-Ghibelline Wars",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43452588\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.exurbe.com/the-lost-towers-of-the-guelph-ghibelline-wars/",
+         "title": "Borne Back Ceaselessly into the Past: Fitzgerald, Gatsby and WWI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43472320\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theworldwar.org/learn/about-wwi/borne-back-ceaselessly-past-fitzgerald-gatsby-and-wwi",
          "links": [
-             "https://www.exurbe.com/the-lost-towers-of-the-guelph-ghibelline-wars/"
+             "https://www.theworldwar.org/learn/about-wwi/borne-back-ceaselessly-past-fitzgerald-gatsby-and-wwi"
          ],
-         "published": "Sun, 23 Mar 2025 12:58:41 +0000",
-         "publishedParsed": "2025-03-23T12:58:41Z"
+         "published": "Tue, 25 Mar 2025 15:11:56 +0000",
+         "publishedParsed": "2025-03-25T15:11:56Z"
+     },
+     {
+         "title": "What Killed Innovation?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43470971\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.shirleywu.studio/notebook/2025-02-innovation-killer",
+         "links": [
+             "https://www.shirleywu.studio/notebook/2025-02-innovation-killer"
+         ],
+         "published": "Tue, 25 Mar 2025 13:26:01 +0000",
+         "publishedParsed": "2025-03-25T13:26:01Z"
+     },
+     {
+         "title": "Were large soda lakes the cradle of life?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43472668\"\u003eComments\u003c/a\u003e",
+         "link": "https://ethz.ch/en/news-and-events/eth-news/news/2025/03/were-large-soda-lakes-the-cradle-of-life.html",
+         "links": [
+             "https://ethz.ch/en/news-and-events/eth-news/news/2025/03/were-large-soda-lakes-the-cradle-of-life.html"
+         ],
+         "published": "Tue, 25 Mar 2025 15:42:58 +0000",
+         "publishedParsed": "2025-03-25T15:42:58Z"
+     },
+     {
+         "title": "Show HN: Feudle – a daily puzzle game built with AI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43471939\"\u003eComments\u003c/a\u003e",
+         "link": "https://feudlegame.com",
+         "links": [
+             "https://feudlegame.com"
+         ],
+         "published": "Tue, 25 Mar 2025 14:42:21 +0000",
+         "publishedParsed": "2025-03-25T14:42:21Z"
+     },
+     {
+         "title": "How 'animal methods bias' is affecting research careers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43440143\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nature.com/articles/d41586-025-00593-3",
+         "links": [
+             "https://www.nature.com/articles/d41586-025-00593-3"
+         ],
+         "published": "Fri, 21 Mar 2025 19:51:42 +0000",
+         "publishedParsed": "2025-03-21T19:51:42Z"
+     },
+     {
+         "title": "Polypane, The browser for ambitious web developers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43451700\"\u003eComments\u003c/a\u003e",
+         "link": "https://polypane.app/",
+         "links": [
+             "https://polypane.app/"
+         ],
+         "published": "Sun, 23 Mar 2025 09:07:17 +0000",
+         "publishedParsed": "2025-03-23T09:07:17Z"
      }
  ]
