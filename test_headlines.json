@@ -1,5 +1,15 @@
 [
      {
+         "title": "OpenAI adds MCP support to Agents SDK",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43485566\"\u003eComments\u003c/a\u003e",
+         "link": "https://openai.github.io/openai-agents-python/mcp/",
+         "links": [
+             "https://openai.github.io/openai-agents-python/mcp/"
+         ],
+         "published": "Wed, 26 Mar 2025 18:55:29 +0000",
+         "publishedParsed": "2025-03-26T18:55:29Z"
+     },
+     {
          "title": "Debian bookworm live images now reproducible",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43484520\"\u003eComments\u003c/a\u003e",
          "link": "https://lwn.net/Articles/1015402/",
@@ -8,16 +18,6 @@
          ],
          "published": "Wed, 26 Mar 2025 17:22:22 +0000",
          "publishedParsed": "2025-03-26T17:22:22Z"
-     },
-     {
-         "title": "Good-bye core types; Hello Go as we know and love it",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43483842\"\u003eComments\u003c/a\u003e",
-         "link": "https://go.dev/blog/coretypes",
-         "links": [
-             "https://go.dev/blog/coretypes"
-         ],
-         "published": "Wed, 26 Mar 2025 16:18:14 +0000",
-         "publishedParsed": "2025-03-26T16:18:14Z"
      },
      {
          "title": "A love letter to the CSV format",
@@ -30,56 +30,6 @@
          "publishedParsed": "2025-03-26T17:08:56Z"
      },
      {
-         "title": "Sharding Pgvector",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43484399\"\u003eComments\u003c/a\u003e",
-         "link": "https://pgdog.dev/blog/sharding-pgvector",
-         "links": [
-             "https://pgdog.dev/blog/sharding-pgvector"
-         ],
-         "published": "Wed, 26 Mar 2025 17:10:30 +0000",
-         "publishedParsed": "2025-03-26T17:10:30Z"
-     },
-     {
-         "title": "Kilo Code: Speedrunning open source coding AI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43483802\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.kilocode.ai/p/kilo-code-speedrunning-open-source-coding-ai",
-         "links": [
-             "https://blog.kilocode.ai/p/kilo-code-speedrunning-open-source-coding-ai"
-         ],
-         "published": "Wed, 26 Mar 2025 16:15:31 +0000",
-         "publishedParsed": "2025-03-26T16:15:31Z"
-     },
-     {
-         "title": "MCP server for Ghidra",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43474490\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/LaurieWired/GhidraMCP",
-         "links": [
-             "https://github.com/LaurieWired/GhidraMCP"
-         ],
-         "published": "Tue, 25 Mar 2025 18:47:37 +0000",
-         "publishedParsed": "2025-03-25T18:47:37Z"
-     },
-     {
-         "title": "Coordinating the Superbowl's visual fidelity with Elixir",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43479094\"\u003eComments\u003c/a\u003e",
-         "link": "https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/",
-         "links": [
-             "https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/"
-         ],
-         "published": "Wed, 26 Mar 2025 05:19:22 +0000",
-         "publishedParsed": "2025-03-26T05:19:22Z"
-     },
-     {
-         "title": "Google’s two-year frenzy to catch up with OpenAI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43437028\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/",
-         "links": [
-             "https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/"
-         ],
-         "published": "Fri, 21 Mar 2025 15:44:51 +0000",
-         "publishedParsed": "2025-03-21T15:44:51Z"
-     },
-     {
          "title": "Malware found on NPM infecting local package with reverse shell",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43484845\"\u003eComments\u003c/a\u003e",
          "link": "https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell",
@@ -90,164 +40,34 @@
          "publishedParsed": "2025-03-26T17:53:47Z"
      },
      {
-         "title": "Weave (YC W25) is hiring a founding product engineer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43484283\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/weave-3/jobs/E0LFOgu-founding-product-engineer",
+         "title": "Good-bye core types; Hello Go as we know and love it",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43483842\"\u003eComments\u003c/a\u003e",
+         "link": "https://go.dev/blog/coretypes",
          "links": [
-             "https://www.ycombinator.com/companies/weave-3/jobs/E0LFOgu-founding-product-engineer"
+             "https://go.dev/blog/coretypes"
          ],
-         "published": "Wed, 26 Mar 2025 17:00:00 +0000",
-         "publishedParsed": "2025-03-26T17:00:00Z"
+         "published": "Wed, 26 Mar 2025 16:18:14 +0000",
+         "publishedParsed": "2025-03-26T16:18:14Z"
      },
      {
-         "title": "Microsoft Study: AI Makes Human Cognition \"Atrophied and Unprepared\"",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43484224\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.404media.co/microsoft-study-finds-ai-makes-human-cognition-atrophied-and-unprepared-3/",
+         "title": "Playwright Tools for MCP",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43485740\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/microsoft/playwright-mcp",
          "links": [
-             "https://www.404media.co/microsoft-study-finds-ai-makes-human-cognition-atrophied-and-unprepared-3/"
+             "https://github.com/microsoft/playwright-mcp"
          ],
-         "published": "Wed, 26 Mar 2025 16:54:51 +0000",
-         "publishedParsed": "2025-03-26T16:54:51Z"
+         "published": "Wed, 26 Mar 2025 19:07:39 +0000",
+         "publishedParsed": "2025-03-26T19:07:39Z"
      },
      {
-         "title": "Heap-overflowing Llama.cpp to RCE",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43451935\"\u003eComments\u003c/a\u003e",
-         "link": "https://retr0.blog/blog/llama-rpc-rce",
+         "title": "Problems with the Heap",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43485980\"\u003eComments\u003c/a\u003e",
+         "link": "https://rachelbythebay.com/w/2025/03/26/atop/",
          "links": [
-             "https://retr0.blog/blog/llama-rpc-rce"
+             "https://rachelbythebay.com/w/2025/03/26/atop/"
          ],
-         "published": "Sun, 23 Mar 2025 10:02:02 +0000",
-         "publishedParsed": "2025-03-23T10:02:02Z"
-     },
-     {
-         "title": "Linux kernel 6.14 is a big leap forward in performance and Windows compatibility",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43483567\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.zdnet.com/article/linux-kernel-6-14-is-a-big-leap-forward-in-performance-and-windows-compatibility/",
-         "links": [
-             "https://www.zdnet.com/article/linux-kernel-6-14-is-a-big-leap-forward-in-performance-and-windows-compatibility/"
-         ],
-         "published": "Wed, 26 Mar 2025 15:54:28 +0000",
-         "publishedParsed": "2025-03-26T15:54:28Z"
-     },
-     {
-         "title": "Gemma3 Function Calling",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43451406\"\u003eComments\u003c/a\u003e",
-         "link": "https://ai.google.dev/gemma/docs/capabilities/function-calling",
-         "links": [
-             "https://ai.google.dev/gemma/docs/capabilities/function-calling"
-         ],
-         "published": "Sun, 23 Mar 2025 07:31:15 +0000",
-         "publishedParsed": "2025-03-23T07:31:15Z"
-     },
-     {
-         "title": "Fragment of a human face aged over one million years discovered",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43455251\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.sciencedaily.com/releases/2025/03/250312123847.htm",
-         "links": [
-             "https://www.sciencedaily.com/releases/2025/03/250312123847.htm"
-         ],
-         "published": "Sun, 23 Mar 2025 19:33:44 +0000",
-         "publishedParsed": "2025-03-23T19:33:44Z"
-     },
-     {
-         "title": "An Interview with Zen Chief Architect Mike Clark",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43464362\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.computerenhance.com/p/an-interview-with-zen-chief-architect",
-         "links": [
-             "https://www.computerenhance.com/p/an-interview-with-zen-chief-architect"
-         ],
-         "published": "Mon, 24 Mar 2025 19:05:49 +0000",
-         "publishedParsed": "2025-03-24T19:05:49Z"
-     },
-     {
-         "title": "Has the decline of knowledge work begun?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43473495\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nytimes.com/2025/03/25/business/economy/white-collar-layoffs.html",
-         "links": [
-             "https://www.nytimes.com/2025/03/25/business/economy/white-collar-layoffs.html"
-         ],
-         "published": "Tue, 25 Mar 2025 17:02:33 +0000",
-         "publishedParsed": "2025-03-25T17:02:33Z"
-     },
-     {
-         "title": "'Naive' science fan faces jail for plutonium import",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43449645\"\u003eComments\u003c/a\u003e",
-         "link": "https://au.news.yahoo.com/naive-science-fan-faces-jail-053025281.html",
-         "links": [
-             "https://au.news.yahoo.com/naive-science-fan-faces-jail-053025281.html"
-         ],
-         "published": "Sat, 22 Mar 2025 23:46:36 +0000",
-         "publishedParsed": "2025-03-22T23:46:36Z"
-     },
-     {
-         "title": "A glitch in an online survey replaced the word 'yes' with 'forks'",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43441880\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.pewresearch.org/decoded/2025/03/21/how-a-glitch-in-an-online-survey-replaced-the-word-yes-with-forks/",
-         "links": [
-             "https://www.pewresearch.org/decoded/2025/03/21/how-a-glitch-in-an-online-survey-replaced-the-word-yes-with-forks/"
-         ],
-         "published": "Fri, 21 Mar 2025 23:40:00 +0000",
-         "publishedParsed": "2025-03-21T23:40:00Z"
-     },
-     {
-         "title": "High-Performance PNG Decoding",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43451187\"\u003eComments\u003c/a\u003e",
-         "link": "https://blend2d.com/blog/png-image-codec.html",
-         "links": [
-             "https://blend2d.com/blog/png-image-codec.html"
-         ],
-         "published": "Sun, 23 Mar 2025 06:22:14 +0000",
-         "publishedParsed": "2025-03-23T06:22:14Z"
-     },
-     {
-         "title": "Google will develop Android OS behind closed doors starting next week",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43484927\"\u003eComments\u003c/a\u003e",
-         "link": "https://9to5google.com/2025/03/26/google-android-aosp-developement-private/",
-         "links": [
-             "https://9to5google.com/2025/03/26/google-android-aosp-developement-private/"
-         ],
-         "published": "Wed, 26 Mar 2025 18:01:51 +0000",
-         "publishedParsed": "2025-03-26T18:01:51Z"
-     },
-     {
-         "title": "Hyperlight WASM: Fast, secure, and OS-free",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43482556\"\u003eComments\u003c/a\u003e",
-         "link": "https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/",
-         "links": [
-             "https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/"
-         ],
-         "published": "Wed, 26 Mar 2025 14:18:51 +0000",
-         "publishedParsed": "2025-03-26T14:18:51Z"
-     },
-     {
-         "title": "Pi Pico Rx – A crystal radio for the digital age?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43452420\"\u003eComments\u003c/a\u003e",
-         "link": "https://101-things.readthedocs.io/en/latest/radio_receiver.html",
-         "links": [
-             "https://101-things.readthedocs.io/en/latest/radio_receiver.html"
-         ],
-         "published": "Sun, 23 Mar 2025 12:18:10 +0000",
-         "publishedParsed": "2025-03-23T12:18:10Z"
-     },
-     {
-         "title": "Fast columnar JSON decoding with arrow-rs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43454238\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.arroyo.dev/blog/fast-arrow-json-decoding",
-         "links": [
-             "https://www.arroyo.dev/blog/fast-arrow-json-decoding"
-         ],
-         "published": "Sun, 23 Mar 2025 17:10:27 +0000",
-         "publishedParsed": "2025-03-23T17:10:27Z"
-     },
-     {
-         "title": "Trapping misbehaving bots in an AI Labyrinth",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43411725\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.cloudflare.com/ai-labyrinth/",
-         "links": [
-             "https://blog.cloudflare.com/ai-labyrinth/"
-         ],
-         "published": "Wed, 19 Mar 2025 13:31:07 +0000",
-         "publishedParsed": "2025-03-19T13:31:07Z"
+         "published": "Wed, 26 Mar 2025 19:23:36 +0000",
+         "publishedParsed": "2025-03-26T19:23:36Z"
      },
      {
          "title": "Botswana Successfully Launches First Satellite, Botsat-1",
@@ -260,23 +80,203 @@
          "publishedParsed": "2025-03-26T16:02:56Z"
      },
      {
-         "title": "Servo vs. Ladybird",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43484427\"\u003eComments\u003c/a\u003e",
-         "link": "https://thelibre.news/servo-vs-ladybird/",
+         "title": "MCP server for Ghidra",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43474490\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/LaurieWired/GhidraMCP",
          "links": [
-             "https://thelibre.news/servo-vs-ladybird/"
+             "https://github.com/LaurieWired/GhidraMCP"
          ],
-         "published": "Wed, 26 Mar 2025 17:12:53 +0000",
-         "publishedParsed": "2025-03-26T17:12:53Z"
+         "published": "Tue, 25 Mar 2025 18:47:37 +0000",
+         "publishedParsed": "2025-03-25T18:47:37Z"
      },
      {
-         "title": "Unofficial Windows 7 Service Pack 2",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43445103\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/i486girl/win7-sp2",
+         "title": "Building a Firecracker-Powered Course Platform to Learn Docker and Kubernetes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43486647\"\u003eComments\u003c/a\u003e",
+         "link": "https://iximiuz.com/en/posts/iximiuz-labs-story/",
          "links": [
-             "https://github.com/i486girl/win7-sp2"
+             "https://iximiuz.com/en/posts/iximiuz-labs-story/"
          ],
-         "published": "Sat, 22 Mar 2025 11:45:03 +0000",
-         "publishedParsed": "2025-03-22T11:45:03Z"
+         "published": "Wed, 26 Mar 2025 20:08:32 +0000",
+         "publishedParsed": "2025-03-26T20:08:32Z"
+     },
+     {
+         "title": "Sharding Pgvector",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43484399\"\u003eComments\u003c/a\u003e",
+         "link": "https://pgdog.dev/blog/sharding-pgvector",
+         "links": [
+             "https://pgdog.dev/blog/sharding-pgvector"
+         ],
+         "published": "Wed, 26 Mar 2025 17:10:30 +0000",
+         "publishedParsed": "2025-03-26T17:10:30Z"
+     },
+     {
+         "title": "Gemma3 Function Calling",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43451406\"\u003eComments\u003c/a\u003e",
+         "link": "https://ai.google.dev/gemma/docs/capabilities/function-calling",
+         "links": [
+             "https://ai.google.dev/gemma/docs/capabilities/function-calling"
+         ],
+         "published": "Sun, 23 Mar 2025 07:31:15 +0000",
+         "publishedParsed": "2025-03-23T07:31:15Z"
+     },
+     {
+         "title": "Weave (YC W25) is hiring a founding product engineer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43484283\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/weave-3/jobs/E0LFOgu-founding-product-engineer",
+         "links": [
+             "https://www.ycombinator.com/companies/weave-3/jobs/E0LFOgu-founding-product-engineer"
+         ],
+         "published": "Wed, 26 Mar 2025 17:00:00 +0000",
+         "publishedParsed": "2025-03-26T17:00:00Z"
+     },
+     {
+         "title": "Writing Programs with Ncurses",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43452789\"\u003eComments\u003c/a\u003e",
+         "link": "https://invisible-island.net/ncurses/ncurses-intro.html",
+         "links": [
+             "https://invisible-island.net/ncurses/ncurses-intro.html"
+         ],
+         "published": "Sun, 23 Mar 2025 13:27:26 +0000",
+         "publishedParsed": "2025-03-23T13:27:26Z"
+     },
+     {
+         "title": "Google will develop Android OS behind closed doors starting next week",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43484927\"\u003eComments\u003c/a\u003e",
+         "link": "https://9to5google.com/2025/03/26/google-android-aosp-developement-private/",
+         "links": [
+             "https://9to5google.com/2025/03/26/google-android-aosp-developement-private/"
+         ],
+         "published": "Wed, 26 Mar 2025 18:01:51 +0000",
+         "publishedParsed": "2025-03-26T18:01:51Z"
+     },
+     {
+         "title": "Oracle customers confirm data stolen in alleged cloud breach is valid",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43486945\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/",
+         "links": [
+             "https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/"
+         ],
+         "published": "Wed, 26 Mar 2025 20:31:13 +0000",
+         "publishedParsed": "2025-03-26T20:31:13Z"
+     },
+     {
+         "title": "Google makes Android development private, will continue open source releases",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43485950\"\u003eComments\u003c/a\u003e",
+         "link": "https://arstechnica.com/gadgets/2025/03/google-makes-android-development-private-will-continue-open-source-releases/",
+         "links": [
+             "https://arstechnica.com/gadgets/2025/03/google-makes-android-development-private-will-continue-open-source-releases/"
+         ],
+         "published": "Wed, 26 Mar 2025 19:21:51 +0000",
+         "publishedParsed": "2025-03-26T19:21:51Z"
+     },
+     {
+         "title": "Kilo Code: Speedrunning open source coding AI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43483802\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.kilocode.ai/p/kilo-code-speedrunning-open-source-coding-ai",
+         "links": [
+             "https://blog.kilocode.ai/p/kilo-code-speedrunning-open-source-coding-ai"
+         ],
+         "published": "Wed, 26 Mar 2025 16:15:31 +0000",
+         "publishedParsed": "2025-03-26T16:15:31Z"
+     },
+     {
+         "title": "How to Delete Your 23andMe Data",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43486236\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.eff.org/deeplinks/2025/03/how-delete-your-23andme-data",
+         "links": [
+             "https://www.eff.org/deeplinks/2025/03/how-delete-your-23andme-data"
+         ],
+         "published": "Wed, 26 Mar 2025 19:41:20 +0000",
+         "publishedParsed": "2025-03-26T19:41:20Z"
+     },
+     {
+         "title": "Heap-overflowing Llama.cpp to RCE",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43451935\"\u003eComments\u003c/a\u003e",
+         "link": "https://retr0.blog/blog/llama-rpc-rce",
+         "links": [
+             "https://retr0.blog/blog/llama-rpc-rce"
+         ],
+         "published": "Sun, 23 Mar 2025 10:02:02 +0000",
+         "publishedParsed": "2025-03-23T10:02:02Z"
+     },
+     {
+         "title": "Google’s two-year frenzy to catch up with OpenAI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43437028\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/",
+         "links": [
+             "https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/"
+         ],
+         "published": "Fri, 21 Mar 2025 15:44:51 +0000",
+         "publishedParsed": "2025-03-21T15:44:51Z"
+     },
+     {
+         "title": "Collapse OS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43482705\"\u003eComments\u003c/a\u003e",
+         "link": "http://collapseos.org/",
+         "links": [
+             "http://collapseos.org/"
+         ],
+         "published": "Wed, 26 Mar 2025 14:34:32 +0000",
+         "publishedParsed": "2025-03-26T14:34:32Z"
+     },
+     {
+         "title": "An Interview with Zen Chief Architect Mike Clark",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43464362\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.computerenhance.com/p/an-interview-with-zen-chief-architect",
+         "links": [
+             "https://www.computerenhance.com/p/an-interview-with-zen-chief-architect"
+         ],
+         "published": "Mon, 24 Mar 2025 19:05:49 +0000",
+         "publishedParsed": "2025-03-24T19:05:49Z"
+     },
+     {
+         "title": "Linux kernel 6.14 is a big leap forward in performance and Windows compatibility",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43483567\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.zdnet.com/article/linux-kernel-6-14-is-a-big-leap-forward-in-performance-and-windows-compatibility/",
+         "links": [
+             "https://www.zdnet.com/article/linux-kernel-6-14-is-a-big-leap-forward-in-performance-and-windows-compatibility/"
+         ],
+         "published": "Wed, 26 Mar 2025 15:54:28 +0000",
+         "publishedParsed": "2025-03-26T15:54:28Z"
+     },
+     {
+         "title": "All clothing is handmade (2022)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43450515\"\u003eComments\u003c/a\u003e",
+         "link": "https://ruthtillman.com/post/all-clothing-is-handmade/",
+         "links": [
+             "https://ruthtillman.com/post/all-clothing-is-handmade/"
+         ],
+         "published": "Sun, 23 Mar 2025 02:43:54 +0000",
+         "publishedParsed": "2025-03-23T02:43:54Z"
+     },
+     {
+         "title": "The Impact of Generative AI on Critical Thinking [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43484224\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf",
+         "links": [
+             "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf"
+         ],
+         "published": "Wed, 26 Mar 2025 16:54:51 +0000",
+         "publishedParsed": "2025-03-26T16:54:51Z"
+     },
+     {
+         "title": "Tao: Using test-time compute to train efficient LLMs without labeled data",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43486199\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.databricks.com/blog/tao-using-test-time-compute-train-efficient-llms-without-labeled-data",
+         "links": [
+             "https://www.databricks.com/blog/tao-using-test-time-compute-train-efficient-llms-without-labeled-data"
+         ],
+         "published": "Wed, 26 Mar 2025 19:38:35 +0000",
+         "publishedParsed": "2025-03-26T19:38:35Z"
+     },
+     {
+         "title": "High-Performance PNG Decoding",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43451187\"\u003eComments\u003c/a\u003e",
+         "link": "https://blend2d.com/blog/png-image-codec.html",
+         "links": [
+             "https://blend2d.com/blog/png-image-codec.html"
+         ],
+         "published": "Sun, 23 Mar 2025 06:22:14 +0000",
+         "publishedParsed": "2025-03-23T06:22:14Z"
      }
  ]
