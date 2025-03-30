@@ -20,14 +20,14 @@
          "publishedParsed": "2025-03-30T03:14:36Z"
      },
      {
-         "title": "Towards fearless SIMD, 7 years later",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43519823\"\u003eComments\u003c/a\u003e",
-         "link": "https://linebender.org/blog/towards-fearless-simd/",
+         "title": "Bringing Record and Replay debugging everywhere on Linux",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43481652\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md",
          "links": [
-             "https://linebender.org/blog/towards-fearless-simd/"
+             "https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md"
          ],
-         "published": "Sat, 29 Mar 2025 23:52:00 +0000",
-         "publishedParsed": "2025-03-29T23:52:00Z"
+         "published": "Wed, 26 Mar 2025 12:49:09 +0000",
+         "publishedParsed": "2025-03-26T12:49:09Z"
      },
      {
          "title": "Convert Linux to Windows",
@@ -40,14 +40,14 @@
          "publishedParsed": "2025-03-29T21:34:02Z"
      },
      {
-         "title": "Atop 2.11 heap problems",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43518560\"\u003eComments\u003c/a\u003e",
-         "link": "https://openwall.com/lists/oss-security/2025/03/29/1",
+         "title": "Towards fearless SIMD, 7 years later",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43519823\"\u003eComments\u003c/a\u003e",
+         "link": "https://linebender.org/blog/towards-fearless-simd/",
          "links": [
-             "https://openwall.com/lists/oss-security/2025/03/29/1"
+             "https://linebender.org/blog/towards-fearless-simd/"
          ],
-         "published": "Sat, 29 Mar 2025 20:43:42 +0000",
-         "publishedParsed": "2025-03-29T20:43:42Z"
+         "published": "Sat, 29 Mar 2025 23:52:00 +0000",
+         "publishedParsed": "2025-03-29T23:52:00Z"
      },
      {
          "title": "Why Apple's Severance gets edited over remote desktop software",
@@ -58,6 +58,26 @@
          ],
          "published": "Sat, 29 Mar 2025 18:00:48 +0000",
          "publishedParsed": "2025-03-29T18:00:48Z"
+     },
+     {
+         "title": "Atop 2.11 heap problems",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43518560\"\u003eComments\u003c/a\u003e",
+         "link": "https://openwall.com/lists/oss-security/2025/03/29/1",
+         "links": [
+             "https://openwall.com/lists/oss-security/2025/03/29/1"
+         ],
+         "published": "Sat, 29 Mar 2025 20:43:42 +0000",
+         "publishedParsed": "2025-03-29T20:43:42Z"
+     },
+     {
+         "title": "Self-contained Python scripts with uv",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43519669\"\u003eComments\u003c/a\u003e",
+         "link": "http://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv/",
+         "links": [
+             "http://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv/"
+         ],
+         "published": "Sat, 29 Mar 2025 23:22:58 +0000",
+         "publishedParsed": "2025-03-29T23:22:58Z"
      },
      {
          "title": "Commercials that David Lynch directed (2018)",
@@ -80,14 +100,14 @@
          "publishedParsed": "2025-03-29T16:38:01Z"
      },
      {
-         "title": "Self-contained Python scripts with uv",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43519669\"\u003eComments\u003c/a\u003e",
-         "link": "http://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv/",
+         "title": "C. Elegans: The Worm That No Computer Scientist Can Crack",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43490290\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.wired.com/story/openworm-worm-simulator-biology-code/",
          "links": [
-             "http://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv/"
+             "https://www.wired.com/story/openworm-worm-simulator-biology-code/"
          ],
-         "published": "Sat, 29 Mar 2025 23:22:58 +0000",
-         "publishedParsed": "2025-03-29T23:22:58Z"
+         "published": "Thu, 27 Mar 2025 04:02:56 +0000",
+         "publishedParsed": "2025-03-27T04:02:56Z"
      },
      {
          "title": "Paged Out #6 [pdf]",
@@ -98,26 +118,6 @@
          ],
          "published": "Sat, 29 Mar 2025 18:12:03 +0000",
          "publishedParsed": "2025-03-29T18:12:03Z"
-     },
-     {
-         "title": "Msgpack23 – A modern, header-only C++ library for MessagePack (de)serialization",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43519930\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/rwindegger/msgpack23",
-         "links": [
-             "https://github.com/rwindegger/msgpack23"
-         ],
-         "published": "Sun, 30 Mar 2025 00:15:47 +0000",
-         "publishedParsed": "2025-03-30T00:15:47Z"
-     },
-     {
-         "title": "The Mysterious Flow of Fluid in the Brain",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43482863\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/",
-         "links": [
-             "https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/"
-         ],
-         "published": "Wed, 26 Mar 2025 14:49:02 +0000",
-         "publishedParsed": "2025-03-26T14:49:02Z"
      },
      {
          "title": "The disappearance of Gaia, ESA spacecraft will be turned off on 27 March 2025",
@@ -150,14 +150,14 @@
          "publishedParsed": "2025-03-29T20:00:33Z"
      },
      {
-         "title": "6502 as a Service",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43520428\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.emulationonline.com/systems/chiplab/6502-lab-available/",
+         "title": "The Mysterious Flow of Fluid in the Brain",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43482863\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/",
          "links": [
-             "https://www.emulationonline.com/systems/chiplab/6502-lab-available/"
+             "https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/"
          ],
-         "published": "Sun, 30 Mar 2025 01:34:10 +0000",
-         "publishedParsed": "2025-03-30T01:34:10Z"
+         "published": "Wed, 26 Mar 2025 14:49:02 +0000",
+         "publishedParsed": "2025-03-26T14:49:02Z"
      },
      {
          "title": "Lvgl: Embedded graphics library to create beautiful UIs",
@@ -170,44 +170,14 @@
          "publishedParsed": "2025-03-29T18:42:43Z"
      },
      {
-         "title": "A timeline of IBM keyboard history",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43520297\"\u003eComments\u003c/a\u003e",
-         "link": "https://sharktastica.co.uk/wip/timeline",
+         "title": "6502 as a Service",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43520428\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.emulationonline.com/systems/chiplab/6502-lab-available/",
          "links": [
-             "https://sharktastica.co.uk/wip/timeline"
+             "https://www.emulationonline.com/systems/chiplab/6502-lab-available/"
          ],
-         "published": "Sun, 30 Mar 2025 01:15:24 +0000",
-         "publishedParsed": "2025-03-30T01:15:24Z"
-     },
-     {
-         "title": "C. Elegans: The Worm That No Computer Scientist Can Crack",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43490290\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.wired.com/story/openworm-worm-simulator-biology-code/",
-         "links": [
-             "https://www.wired.com/story/openworm-worm-simulator-biology-code/"
-         ],
-         "published": "Thu, 27 Mar 2025 04:02:56 +0000",
-         "publishedParsed": "2025-03-27T04:02:56Z"
-     },
-     {
-         "title": "Veloren – voxel action-adventure role-playing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43517337\"\u003eComments\u003c/a\u003e",
-         "link": "https://veloren.net/",
-         "links": [
-             "https://veloren.net/"
-         ],
-         "published": "Sat, 29 Mar 2025 18:05:08 +0000",
-         "publishedParsed": "2025-03-29T18:05:08Z"
-     },
-     {
-         "title": "Spark AI (YC W24) is hiring a full-stack engineer in San Francisco",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43518695\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack",
-         "links": [
-             "https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack"
-         ],
-         "published": "Sat, 29 Mar 2025 21:00:35 +0000",
-         "publishedParsed": "2025-03-29T21:00:35Z"
+         "published": "Sun, 30 Mar 2025 01:34:10 +0000",
+         "publishedParsed": "2025-03-30T01:34:10Z"
      },
      {
          "title": "Koto Programming Language",
@@ -220,34 +190,14 @@
          "publishedParsed": "2025-03-29T12:14:48Z"
      },
      {
-         "title": "Gate: AI and Automation Scenario Explorer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43481607\"\u003eComments\u003c/a\u003e",
-         "link": "https://epoch.ai/gate",
+         "title": "Some Reflections After a Month of Tracking My Own Online Activity",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43482468\"\u003eComments\u003c/a\u003e",
+         "link": "https://mcwhittemore.com/posts/page-activity-report-2025-03-20.html",
          "links": [
-             "https://epoch.ai/gate"
+             "https://mcwhittemore.com/posts/page-activity-report-2025-03-20.html"
          ],
-         "published": "Wed, 26 Mar 2025 12:44:36 +0000",
-         "publishedParsed": "2025-03-26T12:44:36Z"
-     },
-     {
-         "title": "Electric power generation from Earth's rotation through its own magnetic field",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43520716\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2503.15790",
-         "links": [
-             "https://arxiv.org/abs/2503.15790"
-         ],
-         "published": "Sun, 30 Mar 2025 02:29:44 +0000",
-         "publishedParsed": "2025-03-30T02:29:44Z"
-     },
-     {
-         "title": "Introduction to Open Source Laptop Project",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43481024\"\u003eComments\u003c/a\u003e",
-         "link": "https://resources.altium.com/p/open-source-laptop-part-one",
-         "links": [
-             "https://resources.altium.com/p/open-source-laptop-part-one"
-         ],
-         "published": "Wed, 26 Mar 2025 11:32:27 +0000",
-         "publishedParsed": "2025-03-26T11:32:27Z"
+         "published": "Wed, 26 Mar 2025 14:10:36 +0000",
+         "publishedParsed": "2025-03-26T14:10:36Z"
      },
      {
          "title": "Real Time Chess – A physical chess board without the concept of turns",
@@ -260,6 +210,26 @@
          "publishedParsed": "2025-03-29T11:41:54Z"
      },
      {
+         "title": "Veloren – voxel action-adventure role-playing",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43517337\"\u003eComments\u003c/a\u003e",
+         "link": "https://veloren.net/",
+         "links": [
+             "https://veloren.net/"
+         ],
+         "published": "Sat, 29 Mar 2025 18:05:08 +0000",
+         "publishedParsed": "2025-03-29T18:05:08Z"
+     },
+     {
+         "title": "Introduction to Open Source Laptop Project",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43481024\"\u003eComments\u003c/a\u003e",
+         "link": "https://resources.altium.com/p/open-source-laptop-part-one",
+         "links": [
+             "https://resources.altium.com/p/open-source-laptop-part-one"
+         ],
+         "published": "Wed, 26 Mar 2025 11:32:27 +0000",
+         "publishedParsed": "2025-03-26T11:32:27Z"
+     },
+     {
          "title": "Vramfs: Vram Based Filesystem for Linux",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43517234\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/Overv/vramfs",
@@ -270,14 +240,24 @@
          "publishedParsed": "2025-03-29T17:51:12Z"
      },
      {
-         "title": "My TV started playing a video in full screen by itself. What happened?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43520074\"\u003eComments\u003c/a\u003e",
-         "link": "https://support.vizio.com/s/article/Ambient-or-Scenic-Mode-showing-on-my-TV?language=en_US",
+         "title": "Spark AI (YC W24) is hiring a full-stack engineer in San Francisco",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43518695\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack",
          "links": [
-             "https://support.vizio.com/s/article/Ambient-or-Scenic-Mode-showing-on-my-TV?language=en_US"
+             "https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack"
          ],
-         "published": "Sun, 30 Mar 2025 00:41:45 +0000",
-         "publishedParsed": "2025-03-30T00:41:45Z"
+         "published": "Sat, 29 Mar 2025 21:00:35 +0000",
+         "publishedParsed": "2025-03-29T21:00:35Z"
+     },
+     {
+         "title": "A timeline of IBM keyboard history",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43520297\"\u003eComments\u003c/a\u003e",
+         "link": "https://sharktastica.co.uk/wip/timeline",
+         "links": [
+             "https://sharktastica.co.uk/wip/timeline"
+         ],
+         "published": "Sun, 30 Mar 2025 01:15:24 +0000",
+         "publishedParsed": "2025-03-30T01:15:24Z"
      },
      {
          "title": "OSS-SEC: Three bypasses of Ubuntu's unprivileged user namespace restrictions",
@@ -288,5 +268,25 @@
          ],
          "published": "Sat, 29 Mar 2025 19:07:44 +0000",
          "publishedParsed": "2025-03-29T19:07:44Z"
+     },
+     {
+         "title": "Electric power generation from Earth's rotation through its own magnetic field",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43520716\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2503.15790",
+         "links": [
+             "https://arxiv.org/abs/2503.15790"
+         ],
+         "published": "Sun, 30 Mar 2025 02:29:44 +0000",
+         "publishedParsed": "2025-03-30T02:29:44Z"
+     },
+     {
+         "title": "\"Moonshots\" Initiative to Secure the Future of RISC OS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43519100\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.riscosopen.org/news/articles/2025/03/28/moonshots-initiative-to-secure-the-future-of-the-os",
+         "links": [
+             "https://www.riscosopen.org/news/articles/2025/03/28/moonshots-initiative-to-secure-the-future-of-the-os"
+         ],
+         "published": "Sat, 29 Mar 2025 21:58:42 +0000",
+         "publishedParsed": "2025-03-29T21:58:42Z"
      }
  ]
