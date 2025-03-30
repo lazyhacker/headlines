@@ -1,13 +1,13 @@
 [
      {
-         "title": "USGS: M 7.1 Earthquake – 90 km SE of Pangai, Tonga",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43523875\"\u003eComments\u003c/a\u003e",
-         "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pntq/executive",
+         "title": "Blue95: a desktop for your childhood home's computer room",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43524937\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/winblues/blue95",
          "links": [
-             "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pntq/executive"
+             "https://github.com/winblues/blue95"
          ],
-         "published": "Sun, 30 Mar 2025 13:10:12 +0000",
-         "publishedParsed": "2025-03-30T13:10:12Z"
+         "published": "Sun, 30 Mar 2025 15:30:22 +0000",
+         "publishedParsed": "2025-03-30T15:30:22Z"
      },
      {
          "title": "Rust Any part 3: we have upcasts",
@@ -20,6 +20,16 @@
          "publishedParsed": "2025-03-30T11:15:12Z"
      },
      {
+         "title": "The Child and the Shadow by Ursula Le Guin [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43525079\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.johnirons.com/pdfs/shadowleguin.pdf",
+         "links": [
+             "https://www.johnirons.com/pdfs/shadowleguin.pdf"
+         ],
+         "published": "Sun, 30 Mar 2025 15:49:19 +0000",
+         "publishedParsed": "2025-03-30T15:49:19Z"
+     },
+     {
          "title": "Tail Call Recursion in Java with ASM (2023)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43523741\"\u003eComments\u003c/a\u003e",
          "link": "https://unlinkedlist.org/2023/03/19/tail-call-recursion-in-java-with-asm/",
@@ -28,6 +38,16 @@
          ],
          "published": "Sun, 30 Mar 2025 12:47:07 +0000",
          "publishedParsed": "2025-03-30T12:47:07Z"
+     },
+     {
+         "title": "Span\u003cT\u003e.SequenceEquals is faster than memcmp",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43524665\"\u003eComments\u003c/a\u003e",
+         "link": "https://richardcocks.github.io/2025-03-30-FasterThanMemCmp.html",
+         "links": [
+             "https://richardcocks.github.io/2025-03-30-FasterThanMemCmp.html"
+         ],
+         "published": "Sun, 30 Mar 2025 14:53:33 +0000",
+         "publishedParsed": "2025-03-30T14:53:33Z"
      },
      {
          "title": "Everyone knows all the apps on your phone",
@@ -40,6 +60,16 @@
          "publishedParsed": "2025-03-29T21:26:32Z"
      },
      {
+         "title": "Functors, Applicatives, and Monads",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43504175\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.thecoder.cafe/p/functors-applicatives-monads",
+         "links": [
+             "https://www.thecoder.cafe/p/functors-applicatives-monads"
+         ],
+         "published": "Fri, 28 Mar 2025 11:46:57 +0000",
+         "publishedParsed": "2025-03-28T11:46:57Z"
+     },
+     {
          "title": "Four Lectures on Standard ML (1989) [pdf]",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43522363\"\u003eComments\u003c/a\u003e",
          "link": "https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf",
@@ -48,16 +78,6 @@
          ],
          "published": "Sun, 30 Mar 2025 08:14:11 +0000",
          "publishedParsed": "2025-03-30T08:14:11Z"
-     },
-     {
-         "title": "Bringing Record and Replay debugging everywhere on Linux",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43481652\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md",
-         "links": [
-             "https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md"
-         ],
-         "published": "Wed, 26 Mar 2025 12:49:09 +0000",
-         "publishedParsed": "2025-03-26T12:49:09Z"
      },
      {
          "title": "Charlie Brown and Franz Stigler incident (1943)",
@@ -70,14 +90,34 @@
          "publishedParsed": "2025-03-27T23:12:16Z"
      },
      {
-         "title": "Calculate Throughput with LLVM's Scheduling Model",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43507725\"\u003eComments\u003c/a\u003e",
-         "link": "https://myhsu.xyz/llvm-sched-interval-throughput/",
+         "title": "Bringing Record and Replay debugging everywhere on Linux",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43481652\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md",
          "links": [
-             "https://myhsu.xyz/llvm-sched-interval-throughput/"
+             "https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md"
          ],
-         "published": "Fri, 28 Mar 2025 17:04:21 +0000",
-         "publishedParsed": "2025-03-28T17:04:21Z"
+         "published": "Wed, 26 Mar 2025 12:49:09 +0000",
+         "publishedParsed": "2025-03-26T12:49:09Z"
+     },
+     {
+         "title": "Isar Aerospace launches Spectrum, fails early in first stage flight",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43524784\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nasaspaceflight.com/2025/03/isar-first-launch/",
+         "links": [
+             "https://www.nasaspaceflight.com/2025/03/isar-first-launch/"
+         ],
+         "published": "Sun, 30 Mar 2025 15:08:54 +0000",
+         "publishedParsed": "2025-03-30T15:08:54Z"
+     },
+     {
+         "title": "Testing the latest AI tools for prototyping and building simple websites",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43484944\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.codeyam.com/p/testing-the-latest-ai-tools-for-prototyping",
+         "links": [
+             "https://blog.codeyam.com/p/testing-the-latest-ai-tools-for-prototyping"
+         ],
+         "published": "Wed, 26 Mar 2025 18:03:21 +0000",
+         "publishedParsed": "2025-03-26T18:03:21Z"
      },
      {
          "title": "Self-contained Python scripts with uv",
@@ -90,24 +130,14 @@
          "publishedParsed": "2025-03-29T23:22:58Z"
      },
      {
-         "title": "In Defense of the Rat",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43524394\"\u003eComments\u003c/a\u003e",
-         "link": "https://hakaimagazine.com/features/in-defense-of-the-rat/",
+         "title": "An Ode to the Game Boy Advance",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43524534\"\u003eComments\u003c/a\u003e",
+         "link": "https://brainbaking.com/post/2025/03/an-ode-to-the-game-boy-advance/",
          "links": [
-             "https://hakaimagazine.com/features/in-defense-of-the-rat/"
+             "https://brainbaking.com/post/2025/03/an-ode-to-the-game-boy-advance/"
          ],
-         "published": "Sun, 30 Mar 2025 14:15:51 +0000",
-         "publishedParsed": "2025-03-30T14:15:51Z"
-     },
-     {
-         "title": "Convert Linux to Windows",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43518917\"\u003eComments\u003c/a\u003e",
-         "link": "https://philipbohun.com/blog/0007.html",
-         "links": [
-             "https://philipbohun.com/blog/0007.html"
-         ],
-         "published": "Sat, 29 Mar 2025 21:34:02 +0000",
-         "publishedParsed": "2025-03-29T21:34:02Z"
+         "published": "Sun, 30 Mar 2025 14:35:26 +0000",
+         "publishedParsed": "2025-03-30T14:35:26Z"
      },
      {
          "title": "Kalua: An OpenWrt extension for building large mesh-networks",
@@ -120,34 +150,14 @@
          "publishedParsed": "2025-03-30T07:15:49Z"
      },
      {
-         "title": "Towards fearless SIMD, 7 years later",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43519823\"\u003eComments\u003c/a\u003e",
-         "link": "https://linebender.org/blog/towards-fearless-simd/",
+         "title": "Convert Linux to Windows",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43518917\"\u003eComments\u003c/a\u003e",
+         "link": "https://philipbohun.com/blog/0007.html",
          "links": [
-             "https://linebender.org/blog/towards-fearless-simd/"
+             "https://philipbohun.com/blog/0007.html"
          ],
-         "published": "Sat, 29 Mar 2025 23:52:00 +0000",
-         "publishedParsed": "2025-03-29T23:52:00Z"
-     },
-     {
-         "title": "Rust Adopting Ferrocene Language Specification",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43498071\"\u003eComments\u003c/a\u003e",
-         "link": "https://lwn.net/Articles/1015636/",
-         "links": [
-             "https://lwn.net/Articles/1015636/"
-         ],
-         "published": "Thu, 27 Mar 2025 20:55:57 +0000",
-         "publishedParsed": "2025-03-27T20:55:57Z"
-     },
-     {
-         "title": "Show HN: Cloud-Ready Postgres MCP Server",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43520953\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/stuzero/pg-mcp",
-         "links": [
-             "https://github.com/stuzero/pg-mcp"
-         ],
-         "published": "Sun, 30 Mar 2025 03:14:36 +0000",
-         "publishedParsed": "2025-03-30T03:14:36Z"
+         "published": "Sat, 29 Mar 2025 21:34:02 +0000",
+         "publishedParsed": "2025-03-29T21:34:02Z"
      },
      {
          "title": "Why Apple's Severance gets edited over remote desktop software",
@@ -160,6 +170,26 @@
          "publishedParsed": "2025-03-29T18:00:48Z"
      },
      {
+         "title": "Lehmer's Continued Fraction Factorization Algorithm",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43524385\"\u003eComments\u003c/a\u003e",
+         "link": "https://leetarxiv.substack.com/p/continued-fraction-factorize-factorization",
+         "links": [
+             "https://leetarxiv.substack.com/p/continued-fraction-factorize-factorization"
+         ],
+         "published": "Sun, 30 Mar 2025 14:15:15 +0000",
+         "publishedParsed": "2025-03-30T14:15:15Z"
+     },
+     {
+         "title": "In Defense of the Rat",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43524394\"\u003eComments\u003c/a\u003e",
+         "link": "https://hakaimagazine.com/features/in-defense-of-the-rat/",
+         "links": [
+             "https://hakaimagazine.com/features/in-defense-of-the-rat/"
+         ],
+         "published": "Sun, 30 Mar 2025 14:15:51 +0000",
+         "publishedParsed": "2025-03-30T14:15:51Z"
+     },
+     {
          "title": "Accessible open textbooks in math-heavy disciplines",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43516733\"\u003eComments\u003c/a\u003e",
          "link": "https://richardzach.org/2025/03/accessible-open-textbooks-in-math-heavy-disciplines/",
@@ -168,6 +198,16 @@
          ],
          "published": "Sat, 29 Mar 2025 16:38:01 +0000",
          "publishedParsed": "2025-03-29T16:38:01Z"
+     },
+     {
+         "title": "The way we're thinking about breaking changes is silly",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43497506\"\u003eComments\u003c/a\u003e",
+         "link": "https://welltypedwitch.bearblog.dev/the-way-were-thinking-about-breaking-changes-is-really-silly/",
+         "links": [
+             "https://welltypedwitch.bearblog.dev/the-way-were-thinking-about-breaking-changes-is-really-silly/"
+         ],
+         "published": "Thu, 27 Mar 2025 19:59:43 +0000",
+         "publishedParsed": "2025-03-27T19:59:43Z"
      },
      {
          "title": "Paged Out #6 [pdf]",
@@ -180,14 +220,44 @@
          "publishedParsed": "2025-03-29T18:12:03Z"
      },
      {
-         "title": "Atop 2.11 heap problems",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43518560\"\u003eComments\u003c/a\u003e",
-         "link": "https://openwall.com/lists/oss-security/2025/03/29/1",
+         "title": "Show HN: Cloud-Ready Postgres MCP Server",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43520953\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/stuzero/pg-mcp",
          "links": [
-             "https://openwall.com/lists/oss-security/2025/03/29/1"
+             "https://github.com/stuzero/pg-mcp"
          ],
-         "published": "Sat, 29 Mar 2025 20:43:42 +0000",
-         "publishedParsed": "2025-03-29T20:43:42Z"
+         "published": "Sun, 30 Mar 2025 03:14:36 +0000",
+         "publishedParsed": "2025-03-30T03:14:36Z"
+     },
+     {
+         "title": "SHH – Sonic Hedgehog Protein",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43525432\"\u003eComments\u003c/a\u003e",
+         "link": "https://en.wikipedia.org/wiki/Sonic_hedgehog_protein",
+         "links": [
+             "https://en.wikipedia.org/wiki/Sonic_hedgehog_protein"
+         ],
+         "published": "Sun, 30 Mar 2025 16:36:06 +0000",
+         "publishedParsed": "2025-03-30T16:36:06Z"
+     },
+     {
+         "title": "Towards fearless SIMD, 7 years later",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43519823\"\u003eComments\u003c/a\u003e",
+         "link": "https://linebender.org/blog/towards-fearless-simd/",
+         "links": [
+             "https://linebender.org/blog/towards-fearless-simd/"
+         ],
+         "published": "Sat, 29 Mar 2025 23:52:00 +0000",
+         "publishedParsed": "2025-03-29T23:52:00Z"
+     },
+     {
+         "title": "Lvgl: Embedded graphics library to create beautiful UIs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43517576\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/lvgl/lvgl",
+         "links": [
+             "https://github.com/lvgl/lvgl"
+         ],
+         "published": "Sat, 29 Mar 2025 18:42:43 +0000",
+         "publishedParsed": "2025-03-29T18:42:43Z"
      },
      {
          "title": "Sim Daltonism: The color blindness simulator",
@@ -210,46 +280,6 @@
          "publishedParsed": "2025-03-29T20:00:33Z"
      },
      {
-         "title": "The way we're thinking about breaking changes is silly",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43497506\"\u003eComments\u003c/a\u003e",
-         "link": "https://welltypedwitch.bearblog.dev/the-way-were-thinking-about-breaking-changes-is-really-silly/",
-         "links": [
-             "https://welltypedwitch.bearblog.dev/the-way-were-thinking-about-breaking-changes-is-really-silly/"
-         ],
-         "published": "Thu, 27 Mar 2025 19:59:43 +0000",
-         "publishedParsed": "2025-03-27T19:59:43Z"
-     },
-     {
-         "title": "Lvgl: Embedded graphics library to create beautiful UIs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43517576\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/lvgl/lvgl",
-         "links": [
-             "https://github.com/lvgl/lvgl"
-         ],
-         "published": "Sat, 29 Mar 2025 18:42:43 +0000",
-         "publishedParsed": "2025-03-29T18:42:43Z"
-     },
-     {
-         "title": "Certified randomness using a trapped-ion quantum processor",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43484100\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nature.com/articles/s41586-025-08737-1",
-         "links": [
-             "https://www.nature.com/articles/s41586-025-08737-1"
-         ],
-         "published": "Wed, 26 Mar 2025 16:41:18 +0000",
-         "publishedParsed": "2025-03-26T16:41:18Z"
-     },
-     {
-         "title": "The disappearance of Gaia, ESA spacecraft will be turned off on 27 March 2025",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43485514\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cosmos.esa.int/web/gaia/news",
-         "links": [
-             "https://www.cosmos.esa.int/web/gaia/news"
-         ],
-         "published": "Wed, 26 Mar 2025 18:51:00 +0000",
-         "publishedParsed": "2025-03-26T18:51:00Z"
-     },
-     {
          "title": "XAN: A Modern CSV-Centric Data Manipulation Toolkit for the Terminal",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43494894\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/medialab/xan",
@@ -258,25 +288,5 @@
          ],
          "published": "Thu, 27 Mar 2025 15:50:08 +0000",
          "publishedParsed": "2025-03-27T15:50:08Z"
-     },
-     {
-         "title": "It's five grand a day to miss our S3 exit",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43489698\"\u003eComments\u003c/a\u003e",
-         "link": "https://world.hey.com/dhh/it-s-five-grand-a-day-to-miss-our-s3-exit-b8293563",
-         "links": [
-             "https://world.hey.com/dhh/it-s-five-grand-a-day-to-miss-our-s3-exit-b8293563"
-         ],
-         "published": "Thu, 27 Mar 2025 02:02:40 +0000",
-         "publishedParsed": "2025-03-27T02:02:40Z"
-     },
-     {
-         "title": "Commercials that David Lynch directed (2018)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43518466\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.openculture.com/2018/07/watch-commercials-david-lynch-directed-big-30-minute-compilation.html",
-         "links": [
-             "https://www.openculture.com/2018/07/watch-commercials-david-lynch-directed-big-30-minute-compilation.html"
-         ],
-         "published": "Sat, 29 Mar 2025 20:31:21 +0000",
-         "publishedParsed": "2025-03-29T20:31:21Z"
      }
  ]
