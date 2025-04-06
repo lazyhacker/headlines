@@ -20,6 +20,16 @@
          "publishedParsed": "2025-04-06T09:42:28Z"
      },
      {
+         "title": "QVQ-Max: Think with Evidence",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43570676\"\u003eComments\u003c/a\u003e",
+         "link": "https://qwenlm.github.io/blog/qvq-max-preview/",
+         "links": [
+             "https://qwenlm.github.io/blog/qvq-max-preview/"
+         ],
+         "published": "Thu, 03 Apr 2025 14:55:17 +0000",
+         "publishedParsed": "2025-04-03T14:55:17Z"
+     },
+     {
          "title": "SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43599967\"\u003eComments\u003c/a\u003e",
          "link": "https://machinelearning.apple.com/research/seedlm-compressing",
@@ -40,16 +50,6 @@
          "publishedParsed": "2025-04-05T23:46:19Z"
      },
      {
-         "title": "Remote Work's Long-Term Effects: Why Dell and Amazon Are Bringing Employees Back",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43600441\"\u003eComments\u003c/a\u003e",
-         "link": "https://timestripe.com/magazine/blog/remote-works-long-term-effects/",
-         "links": [
-             "https://timestripe.com/magazine/blog/remote-works-long-term-effects/"
-         ],
-         "published": "Sun, 06 Apr 2025 10:45:08 +0000",
-         "publishedParsed": "2025-04-06T10:45:08Z"
-     },
-     {
          "title": "The order of files in /etc/ssh/sshd_config.d/ matters",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43573507\"\u003eComments\u003c/a\u003e",
          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters",
@@ -58,6 +58,16 @@
          ],
          "published": "Thu, 03 Apr 2025 18:25:48 +0000",
          "publishedParsed": "2025-04-03T18:25:48Z"
+     },
+     {
+         "title": "Blacksmithing and Lisp",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43566651\"\u003eComments\u003c/a\u003e",
+         "link": "http://funcall.blogspot.com/2025/04/blacksmithing-and-lisp.html",
+         "links": [
+             "http://funcall.blogspot.com/2025/04/blacksmithing-and-lisp.html"
+         ],
+         "published": "Thu, 03 Apr 2025 08:34:11 +0000",
+         "publishedParsed": "2025-04-03T08:34:11Z"
      },
      {
          "title": "My Browser WASM't Prepared for This. Using DuckDB, Apache Arrow and Web Workers",
@@ -90,16 +100,6 @@
          "publishedParsed": "2025-04-06T06:55:55Z"
      },
      {
-         "title": "The Llama 4 herd",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43595585\"\u003eComments\u003c/a\u003e",
-         "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
-         "links": [
-             "https://ai.meta.com/blog/llama-4-multimodal-intelligence/"
-         ],
-         "published": "Sat, 05 Apr 2025 18:33:56 +0000",
-         "publishedParsed": "2025-04-05T18:33:56Z"
-     },
-     {
          "title": "What if we made advertising illegal?",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43595269\"\u003eComments\u003c/a\u003e",
          "link": "https://simone.org/advertising/",
@@ -110,6 +110,16 @@
          "publishedParsed": "2025-04-05T17:57:46Z"
      },
      {
+         "title": "The Llama 4 herd",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43595585\"\u003eComments\u003c/a\u003e",
+         "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+         "links": [
+             "https://ai.meta.com/blog/llama-4-multimodal-intelligence/"
+         ],
+         "published": "Sat, 05 Apr 2025 18:33:56 +0000",
+         "publishedParsed": "2025-04-05T18:33:56Z"
+     },
+     {
          "title": "Show HN: I built a word game. My mom thinks it's great. What do you think?",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43593789\"\u003eComments\u003c/a\u003e",
          "link": "https://www.whatsit.today/",
@@ -118,16 +128,6 @@
          ],
          "published": "Sat, 05 Apr 2025 14:26:02 +0000",
          "publishedParsed": "2025-04-05T14:26:02Z"
-     },
-     {
-         "title": "Blacksmithing and Lisp",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43566651\"\u003eComments\u003c/a\u003e",
-         "link": "http://funcall.blogspot.com/2025/04/blacksmithing-and-lisp.html",
-         "links": [
-             "http://funcall.blogspot.com/2025/04/blacksmithing-and-lisp.html"
-         ],
-         "published": "Thu, 03 Apr 2025 08:34:11 +0000",
-         "publishedParsed": "2025-04-03T08:34:11Z"
      },
      {
          "title": "Serving Vector Tiles, Fast",
@@ -150,14 +150,24 @@
          "publishedParsed": "2025-04-05T17:59:55Z"
      },
      {
-         "title": "What is an Ethernet cable? Here's how to connect to the internet without Wi-Fi",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43579777\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.businessinsider.com/guides/tech/what-is-an-ethernet-cable",
+         "title": "Show HN: LocalScore – Local LLM Benchmark",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43572134\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.localscore.ai/download",
          "links": [
-             "https://www.businessinsider.com/guides/tech/what-is-an-ethernet-cable"
+             "https://www.localscore.ai/download"
          ],
-         "published": "Fri, 04 Apr 2025 08:54:05 +0000",
-         "publishedParsed": "2025-04-04T08:54:05Z"
+         "published": "Thu, 03 Apr 2025 16:32:32 +0000",
+         "publishedParsed": "2025-04-03T16:32:32Z"
+     },
+     {
+         "title": "Understanding Hydration Errors by Building a SSR React Project",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43583134\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.propelauth.com/post/understanding-hydration-errors",
+         "links": [
+             "https://www.propelauth.com/post/understanding-hydration-errors"
+         ],
+         "published": "Fri, 04 Apr 2025 14:41:48 +0000",
+         "publishedParsed": "2025-04-04T14:41:48Z"
      },
      {
          "title": "North America Is Dripping from Below, Geoscientists Discover",
@@ -180,16 +190,6 @@
          "publishedParsed": "2025-04-05T15:54:01Z"
      },
      {
-         "title": "Dynamic Register Allocation on AMD's RDNA 4 GPU Architecture",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43595223\"\u003eComments\u003c/a\u003e",
-         "link": "https://chipsandcheese.com/p/dynamic-register-allocation-on-amds",
-         "links": [
-             "https://chipsandcheese.com/p/dynamic-register-allocation-on-amds"
-         ],
-         "published": "Sat, 05 Apr 2025 17:51:49 +0000",
-         "publishedParsed": "2025-04-05T17:51:49Z"
-     },
-     {
          "title": "A Vision for WebAssembly Support in Swift",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43593596\"\u003eComments\u003c/a\u003e",
          "link": "https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060",
@@ -200,14 +200,14 @@
          "publishedParsed": "2025-04-05T13:58:18Z"
      },
      {
-         "title": "Photons, neutrinos, and gravitational-wave astronomy",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43564591\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.as.arizona.edu/~mrenzo/courses/notes-lecture-GWprog.html",
+         "title": "Dynamic Register Allocation on AMD's RDNA 4 GPU Architecture",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43595223\"\u003eComments\u003c/a\u003e",
+         "link": "https://chipsandcheese.com/p/dynamic-register-allocation-on-amds",
          "links": [
-             "https://www.as.arizona.edu/~mrenzo/courses/notes-lecture-GWprog.html"
+             "https://chipsandcheese.com/p/dynamic-register-allocation-on-amds"
          ],
-         "published": "Thu, 03 Apr 2025 04:00:27 +0000",
-         "publishedParsed": "2025-04-03T04:00:27Z"
+         "published": "Sat, 05 Apr 2025 17:51:49 +0000",
+         "publishedParsed": "2025-04-05T17:51:49Z"
      },
      {
          "title": "Emulating an iPhone in QEMU",
@@ -220,26 +220,6 @@
          "publishedParsed": "2025-04-05T10:57:00Z"
      },
      {
-         "title": "Understanding Hydration Errors by Building a SSR React Project",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43583134\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.propelauth.com/post/understanding-hydration-errors",
-         "links": [
-             "https://www.propelauth.com/post/understanding-hydration-errors"
-         ],
-         "published": "Fri, 04 Apr 2025 14:41:48 +0000",
-         "publishedParsed": "2025-04-04T14:41:48Z"
-     },
-     {
-         "title": "What's in that bright red fire retardant? No one will say, so we had it tested",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43578348\"\u003eComments\u003c/a\u003e",
-         "link": "https://laist.com/news/climate-environment/how-much-toxic-heavy-metal-is-in-that-bright-red-fire-retardant-we-had-it-tested-to-find-out",
-         "links": [
-             "https://laist.com/news/climate-environment/how-much-toxic-heavy-metal-is-in-that-bright-red-fire-retardant-we-had-it-tested-to-find-out"
-         ],
-         "published": "Fri, 04 Apr 2025 04:32:52 +0000",
-         "publishedParsed": "2025-04-04T04:32:52Z"
-     },
-     {
          "title": "We are still using 88x31 buttons",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43596570\"\u003eComments\u003c/a\u003e",
          "link": "https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons",
@@ -248,6 +228,16 @@
          ],
          "published": "Sat, 05 Apr 2025 20:26:36 +0000",
          "publishedParsed": "2025-04-05T20:26:36Z"
+     },
+     {
+         "title": "Photons, neutrinos, and gravitational-wave astronomy",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43564591\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.as.arizona.edu/~mrenzo/courses/notes-lecture-GWprog.html",
+         "links": [
+             "https://www.as.arizona.edu/~mrenzo/courses/notes-lecture-GWprog.html"
+         ],
+         "published": "Thu, 03 Apr 2025 04:00:27 +0000",
+         "publishedParsed": "2025-04-03T04:00:27Z"
      },
      {
          "title": "Diagnosing bugs preventing sleep on Windows",
@@ -260,16 +250,6 @@
          "publishedParsed": "2025-04-02T10:40:33Z"
      },
      {
-         "title": "Rules for Negotiating a Job Offer (2016)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43596864\"\u003eComments\u003c/a\u003e",
-         "link": "https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/",
-         "links": [
-             "https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/"
-         ],
-         "published": "Sat, 05 Apr 2025 21:15:00 +0000",
-         "publishedParsed": "2025-04-05T21:15:00Z"
-     },
-     {
          "title": "The Importance of Fact-Checking",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43549893\"\u003eComments\u003c/a\u003e",
          "link": "https://lithub.com/on-the-episode-that-changed-ira-glasss-this-american-life-forever/",
@@ -278,6 +258,26 @@
          ],
          "published": "Tue, 01 Apr 2025 18:20:56 +0000",
          "publishedParsed": "2025-04-01T18:20:56Z"
+     },
+     {
+         "title": "Jumping Spiders",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43549469\"\u003eComments\u003c/a\u003e",
+         "link": "https://digital.tnconservationist.org/publication/?i=663361\u0026article_id=3697028\u0026view=articleBrowser",
+         "links": [
+             "https://digital.tnconservationist.org/publication/?i=663361\u0026article_id=3697028\u0026view=articleBrowser"
+         ],
+         "published": "Tue, 01 Apr 2025 17:33:13 +0000",
+         "publishedParsed": "2025-04-01T17:33:13Z"
+     },
+     {
+         "title": "Compilers: Incrementally and Extensibly (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43593088\"\u003eComments\u003c/a\u003e",
+         "link": "https://okmij.org/ftp/tagless-final/Compiler/index.html",
+         "links": [
+             "https://okmij.org/ftp/tagless-final/Compiler/index.html"
+         ],
+         "published": "Sat, 05 Apr 2025 12:55:00 +0000",
+         "publishedParsed": "2025-04-05T12:55:00Z"
      },
      {
          "title": "Open Source Coalition Announces 'Model-Signing' to Strengthen ML Supply Chain",
