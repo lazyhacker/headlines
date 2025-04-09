@@ -1,25 +1,5 @@
 [
      {
-         "title": "The Agent2Agent Protocol (A2A)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631381\"\u003eComments\u003c/a\u003e",
-         "link": "https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/",
-         "links": [
-             "https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/"
-         ],
-         "published": "Wed, 09 Apr 2025 12:38:20 +0000",
-         "publishedParsed": "2025-04-09T12:38:20Z"
-     },
-     {
-         "title": "Ironwood: The first Google TPU for the age of inference",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631274\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/",
-         "links": [
-             "https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/"
-         ],
-         "published": "Wed, 09 Apr 2025 12:24:19 +0000",
-         "publishedParsed": "2025-04-09T12:24:19Z"
-     },
-     {
          "title": "GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43635295\"\u003eComments\u003c/a\u003e",
          "link": "https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/",
@@ -28,6 +8,26 @@
          ],
          "published": "Wed, 09 Apr 2025 18:07:14 +0000",
          "publishedParsed": "2025-04-09T18:07:14Z"
+     },
+     {
+         "title": "Baking the Y Combinator from Scratch",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43636230\"\u003eComments\u003c/a\u003e",
+         "link": "https://the-nerve-blog.ghost.io/baking-the-y-combinator-from-scratch-part-1/",
+         "links": [
+             "https://the-nerve-blog.ghost.io/baking-the-y-combinator-from-scratch-part-1/"
+         ],
+         "published": "Wed, 09 Apr 2025 19:04:12 +0000",
+         "publishedParsed": "2025-04-09T19:04:12Z"
+     },
+     {
+         "title": "Show HN: Aqua Voice 2 – Fast Voice Input for Mac and Windows",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43634005\"\u003eComments\u003c/a\u003e",
+         "link": "https://withaqua.com",
+         "links": [
+             "https://withaqua.com"
+         ],
+         "published": "Wed, 09 Apr 2025 16:31:06 +0000",
+         "publishedParsed": "2025-04-09T16:31:06Z"
      },
      {
          "title": "How much do you think it costs to make a pair of Nike shoes in Asia?",
@@ -40,6 +40,46 @@
          "publishedParsed": "2025-04-09T12:58:39Z"
      },
      {
+         "title": "Ironwood: The first Google TPU for the age of inference",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631274\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/",
+         "links": [
+             "https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/"
+         ],
+         "published": "Wed, 09 Apr 2025 12:24:19 +0000",
+         "publishedParsed": "2025-04-09T12:24:19Z"
+     },
+     {
+         "title": "The Agent2Agent Protocol (A2A)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631381\"\u003eComments\u003c/a\u003e",
+         "link": "https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/",
+         "links": [
+             "https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/"
+         ],
+         "published": "Wed, 09 Apr 2025 12:38:20 +0000",
+         "publishedParsed": "2025-04-09T12:38:20Z"
+     },
+     {
+         "title": "Show HN: Obelisk – a WASM-based deterministic workflow engine",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43636568\"\u003eComments\u003c/a\u003e",
+         "link": "https://obeli.sk/",
+         "links": [
+             "https://obeli.sk/"
+         ],
+         "published": "Wed, 09 Apr 2025 19:24:40 +0000",
+         "publishedParsed": "2025-04-09T19:24:40Z"
+     },
+     {
+         "title": "Keeping it Old-Tool: REPL habits of a grug-brained Clojure programmer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43636860\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.evalapply.org/posts/demo-clojure-workflow-scicloj/index.html",
+         "links": [
+             "https://www.evalapply.org/posts/demo-clojure-workflow-scicloj/index.html"
+         ],
+         "published": "Wed, 09 Apr 2025 19:44:50 +0000",
+         "publishedParsed": "2025-04-09T19:44:50Z"
+     },
+     {
          "title": "The chroot Technique – a Swiss army multitool for Linux systems",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43632379\"\u003eComments\u003c/a\u003e",
          "link": "https://livesys.se/posts/the-chroot-technique/",
@@ -50,44 +90,14 @@
          "publishedParsed": "2025-04-09T14:12:47Z"
      },
      {
-         "title": "Visual Reasoning Is Coming Soon",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43633568\"\u003eComments\u003c/a\u003e",
-         "link": "http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/",
+         "title": "Photographs of 19th Century Japan",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631251\"\u003eComments\u003c/a\u003e",
+         "link": "https://cosmographia.substack.com/p/photographs-of-old-japan",
          "links": [
-             "http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/"
+             "https://cosmographia.substack.com/p/photographs-of-old-japan"
          ],
-         "published": "Wed, 09 Apr 2025 15:58:30 +0000",
-         "publishedParsed": "2025-04-09T15:58:30Z"
-     },
-     {
-         "title": "SpacetimeDB",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631822\"\u003eComments\u003c/a\u003e",
-         "link": "https://spacetimedb.com/",
-         "links": [
-             "https://spacetimedb.com/"
-         ],
-         "published": "Wed, 09 Apr 2025 13:27:30 +0000",
-         "publishedParsed": "2025-04-09T13:27:30Z"
-     },
-     {
-         "title": "MapStructur – Self-hosted map editor with draggable markers and Docker support",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43635460\"\u003eComments\u003c/a\u003e",
-         "link": "https://itfourall.com/mapstruct.php",
-         "links": [
-             "https://itfourall.com/mapstruct.php"
-         ],
-         "published": "Wed, 09 Apr 2025 18:19:13 +0000",
-         "publishedParsed": "2025-04-09T18:19:13Z"
-     },
-     {
-         "title": "Quality-of-Life in Tetris Games",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631656\"\u003eComments\u003c/a\u003e",
-         "link": "https://jcarlosroldan.com/post/355",
-         "links": [
-             "https://jcarlosroldan.com/post/355"
-         ],
-         "published": "Wed, 09 Apr 2025 13:10:44 +0000",
-         "publishedParsed": "2025-04-09T13:10:44Z"
+         "published": "Wed, 09 Apr 2025 12:20:06 +0000",
+         "publishedParsed": "2025-04-09T12:20:06Z"
      },
      {
          "title": "Show HN: I built an app to generate story relationships using Mermaidjs",
@@ -100,17 +110,37 @@
          "publishedParsed": "2025-04-09T15:34:27Z"
      },
      {
-         "title": "Hardening the Firefox Front End with Content Security Policies",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43630388\"\u003eComments\u003c/a\u003e",
-         "link": "https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html",
+         "title": "Quality-of-Life in Tetris Games",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631656\"\u003eComments\u003c/a\u003e",
+         "link": "https://jcarlosroldan.com/post/355",
          "links": [
-             "https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html"
+             "https://jcarlosroldan.com/post/355"
          ],
-         "published": "Wed, 09 Apr 2025 09:34:16 +0000",
-         "publishedParsed": "2025-04-09T09:34:16Z"
+         "published": "Wed, 09 Apr 2025 13:10:44 +0000",
+         "publishedParsed": "2025-04-09T13:10:44Z"
      },
      {
-         "title": "Anthropic launches its own $200 plan",
+         "title": "Meta II a syntax-oriented compiler writing language (1964)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43635855\"\u003eComments\u003c/a\u003e",
+         "link": "https://dl.acm.org/citation.cfm?doid=800257.808896",
+         "links": [
+             "https://dl.acm.org/citation.cfm?doid=800257.808896"
+         ],
+         "published": "Wed, 09 Apr 2025 18:43:09 +0000",
+         "publishedParsed": "2025-04-09T18:43:09Z"
+     },
+     {
+         "title": "Visual Reasoning Is Coming Soon",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43633568\"\u003eComments\u003c/a\u003e",
+         "link": "http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/",
+         "links": [
+             "http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/"
+         ],
+         "published": "Wed, 09 Apr 2025 15:58:30 +0000",
+         "publishedParsed": "2025-04-09T15:58:30Z"
+     },
+     {
+         "title": "Claude's Max Plan",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43635296\"\u003eComments\u003c/a\u003e",
          "link": "https://www.anthropic.com/news/max-plan",
          "links": [
@@ -130,24 +160,64 @@
          "publishedParsed": "2025-04-09T06:02:01Z"
      },
      {
-         "title": "Ask HN: Why is uptalk intonation so prevalent in ChatGPT voices?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43634517\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=43634517",
+         "title": "Gaussian Splatting Alternative: WebGL Implementation of Nvidia's SVRaster",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43616711\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/samuelm2/svraster-webgl",
          "links": [
-             "https://news.ycombinator.com/item?id=43634517"
+             "https://github.com/samuelm2/svraster-webgl"
          ],
-         "published": "Wed, 09 Apr 2025 17:04:53 +0000",
-         "publishedParsed": "2025-04-09T17:04:53Z"
+         "published": "Mon, 07 Apr 2025 22:40:05 +0000",
+         "publishedParsed": "2025-04-07T22:40:05Z"
      },
      {
-         "title": "Photographs of 19th Century Japan",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631251\"\u003eComments\u003c/a\u003e",
-         "link": "https://cosmographia.substack.com/p/photographs-of-old-japan",
+         "title": "Terms of Centaur Service",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43617910\"\u003eComments\u003c/a\u003e",
+         "link": "https://contraptions.venkateshrao.com/p/terms-of-centaur-service",
          "links": [
-             "https://cosmographia.substack.com/p/photographs-of-old-japan"
+             "https://contraptions.venkateshrao.com/p/terms-of-centaur-service"
          ],
-         "published": "Wed, 09 Apr 2025 12:20:06 +0000",
-         "publishedParsed": "2025-04-09T12:20:06Z"
+         "published": "Tue, 08 Apr 2025 02:45:42 +0000",
+         "publishedParsed": "2025-04-08T02:45:42Z"
+     },
+     {
+         "title": "Antiviral chewing gum to reduce influenza and herpes simplex virus transmission",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43636302\"\u003eComments\u003c/a\u003e",
+         "link": "https://penntoday.upenn.edu/news/penn-dental-antiviral-chewing-gum-reduce-influenza-and-herpes-simplex-virus-transmission",
+         "links": [
+             "https://penntoday.upenn.edu/news/penn-dental-antiviral-chewing-gum-reduce-influenza-and-herpes-simplex-virus-transmission"
+         ],
+         "published": "Wed, 09 Apr 2025 19:09:27 +0000",
+         "publishedParsed": "2025-04-09T19:09:27Z"
+     },
+     {
+         "title": "Show HN: Comparing product rankings by OpenAI, Anthropic, and Perplexity",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43632831\"\u003eComments\u003c/a\u003e",
+         "link": "https://productrank.ai/",
+         "links": [
+             "https://productrank.ai/"
+         ],
+         "published": "Wed, 09 Apr 2025 14:53:01 +0000",
+         "publishedParsed": "2025-04-09T14:53:01Z"
+     },
+     {
+         "title": "SpacetimeDB",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631822\"\u003eComments\u003c/a\u003e",
+         "link": "https://spacetimedb.com/",
+         "links": [
+             "https://spacetimedb.com/"
+         ],
+         "published": "Wed, 09 Apr 2025 13:27:30 +0000",
+         "publishedParsed": "2025-04-09T13:27:30Z"
+     },
+     {
+         "title": "Hardening the Firefox Front End with Content Security Policies",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43630388\"\u003eComments\u003c/a\u003e",
+         "link": "https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html",
+         "links": [
+             "https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html"
+         ],
+         "published": "Wed, 09 Apr 2025 09:34:16 +0000",
+         "publishedParsed": "2025-04-09T09:34:16Z"
      },
      {
          "title": "Doing the Prospero-Challenge in RPython",
@@ -170,24 +240,14 @@
          "publishedParsed": "2025-04-09T15:07:53Z"
      },
      {
-         "title": "Fake job seekers are flooding US companies that are hiring for remote positions",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631384\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cnbc.com/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html",
+         "title": "ProtoGS: Efficient and High-Quality Rendering with 3D Gaussian Prototypes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43636596\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2503.17486",
          "links": [
-             "https://www.cnbc.com/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html"
+             "https://arxiv.org/abs/2503.17486"
          ],
-         "published": "Wed, 09 Apr 2025 12:39:16 +0000",
-         "publishedParsed": "2025-04-09T12:39:16Z"
-     },
-     {
-         "title": "How University Students Use Claude",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43633383\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude",
-         "links": [
-             "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude"
-         ],
-         "published": "Wed, 09 Apr 2025 15:41:38 +0000",
-         "publishedParsed": "2025-04-09T15:41:38Z"
+         "published": "Wed, 09 Apr 2025 19:26:22 +0000",
+         "publishedParsed": "2025-04-09T19:26:22Z"
      },
      {
          "title": "Show HN: Fermi – A Wordle-style game for order-of-magnitude thinking",
@@ -208,65 +268,5 @@
          ],
          "published": "Wed, 09 Apr 2025 17:26:02 +0000",
          "publishedParsed": "2025-04-09T17:26:02Z"
-     },
-     {
-         "title": "A guide to reduce screen time",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43630661\"\u003eComments\u003c/a\u003e",
-         "link": "https://speedbumpapp.com/en/blog/how-to-reduce-screen-time/",
-         "links": [
-             "https://speedbumpapp.com/en/blog/how-to-reduce-screen-time/"
-         ],
-         "published": "Wed, 09 Apr 2025 10:34:42 +0000",
-         "publishedParsed": "2025-04-09T10:34:42Z"
-     },
-     {
-         "title": "How to lock down your phone if you're traveling to the U.S.",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43630624\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.washingtonpost.com/technology/2025/03/27/cbp-cell-phones-devices-traveling-us/",
-         "links": [
-             "https://www.washingtonpost.com/technology/2025/03/27/cbp-cell-phones-devices-traveling-us/"
-         ],
-         "published": "Wed, 09 Apr 2025 10:27:36 +0000",
-         "publishedParsed": "2025-04-09T10:27:36Z"
-     },
-     {
-         "title": "'Sun-Like' Stars",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43629887\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.centauri-dreams.org/2025/04/08/on-sun-like-stars/",
-         "links": [
-             "https://www.centauri-dreams.org/2025/04/08/on-sun-like-stars/"
-         ],
-         "published": "Wed, 09 Apr 2025 08:01:38 +0000",
-         "publishedParsed": "2025-04-09T08:01:38Z"
-     },
-     {
-         "title": "Man pages are great, man readers are the problem",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631672\"\u003eComments\u003c/a\u003e",
-         "link": "https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/",
-         "links": [
-             "https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/"
-         ],
-         "published": "Wed, 09 Apr 2025 13:11:50 +0000",
-         "publishedParsed": "2025-04-09T13:11:50Z"
-     },
-     {
-         "title": "Microphone Input Noise Comparison",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43602652\"\u003eComments\u003c/a\u003e",
-         "link": "https://avisoft.com/recorder-tests/",
-         "links": [
-             "https://avisoft.com/recorder-tests/"
-         ],
-         "published": "Sun, 06 Apr 2025 16:23:53 +0000",
-         "publishedParsed": "2025-04-06T16:23:53Z"
-     },
-     {
-         "title": "Show HN: Comparing product rankings by OpenAI, Anthropic, and Perplexity",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43632831\"\u003eComments\u003c/a\u003e",
-         "link": "https://productrank.ai/",
-         "links": [
-             "https://productrank.ai/"
-         ],
-         "published": "Wed, 09 Apr 2025 14:53:01 +0000",
-         "publishedParsed": "2025-04-09T14:53:01Z"
      }
  ]
