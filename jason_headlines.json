@@ -1,5 +1,168 @@
 [
      {
+         "title": "Jon Hamm Finds His Way Back to the Hilltop",
+         "description": "For the actor, the decade since “Mad Men” ended has been a period of personal change and mixed professional success. Suddenly, he is everywhere again.",
+         "link": "https://www.nytimes.com/2025/04/10/arts/television/jon-hamm-your-friends-and-neighbors.html",
+         "links": [
+             "https://www.nytimes.com/2025/04/10/arts/television/jon-hamm-your-friends-and-neighbors.html"
+         ],
+         "published": "Thu, 10 Apr 2025 15:45:14 +0000",
+         "publishedParsed": "2025-04-10T15:45:14Z",
+         "author": {
+             "name": "Austin Considine and Adali Schell"
+         },
+         "authors": [
+             {
+                 "name": "Austin Considine and Adali Schell"
+             }
+         ],
+         "guid": "https://www.nytimes.com/2025/04/10/arts/television/jon-hamm-your-friends-and-neighbors.html",
+         "image": {
+             "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13cul-hamm-promo-zktq/13cul-hamm-promo-zktq-mediumSquareAt3X.jpg"
+         },
+         "categories": [
+             "Television",
+             "Actors and Actresses",
+             "Content Type: Personal Profile",
+             "Hamm, Jon",
+             "Your Friends \u0026 Neighbors (TV Program)",
+             "Mad Men (TV Program)"
+         ],
+         "dcExt": {
+             "creator": [
+                 "Austin Considine and Adali Schell"
+             ]
+         },
+         "extensions": {
+             "atom": {
+                 "link": [
+                     {
+                         "name": "link",
+                         "value": "",
+                         "attrs": {
+                             "href": "https://www.nytimes.com/2025/04/10/arts/television/jon-hamm-your-friends-and-neighbors.html",
+                             "rel": "standout"
+                         },
+                         "children": {}
+                     }
+                 ]
+             },
+             "dc": {
+                 "creator": [
+                     {
+                         "name": "creator",
+                         "value": "Austin Considine and Adali Schell",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ]
+             },
+             "media": {
+                 "content": [
+                     {
+                         "name": "content",
+                         "value": "",
+                         "attrs": {
+                             "height": "1800",
+                             "medium": "image",
+                             "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13cul-hamm-promo-zktq/13cul-hamm-promo-zktq-mediumSquareAt3X.jpg",
+                             "width": "1800"
+                         },
+                         "children": {}
+                     }
+                 ],
+                 "credit": [
+                     {
+                         "name": "credit",
+                         "value": "Adali Schell for The New York Times",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ]
+             }
+         }
+     },
+     {
+         "title": "An Expedition for Thousands of Sandhill Cranes in Nebraska",
+         "description": "Each spring, hundreds of thousands of cranes converge in Nebraska. The phenomenon draws in artists, conservationists and curious friends alike.",
+         "link": "https://www.nytimes.com/2025/04/10/style/cranes-migration-nebraska.html",
+         "links": [
+             "https://www.nytimes.com/2025/04/10/style/cranes-migration-nebraska.html"
+         ],
+         "published": "Thu, 10 Apr 2025 13:58:42 +0000",
+         "publishedParsed": "2025-04-10T13:58:42Z",
+         "author": {
+             "name": "Alice Gregory and Erinn Springer"
+         },
+         "authors": [
+             {
+                 "name": "Alice Gregory and Erinn Springer"
+             }
+         ],
+         "guid": "https://www.nytimes.com/2025/04/10/style/cranes-migration-nebraska.html",
+         "image": {
+             "url": "https://static01.nyt.com/images/2025/04/04/multimedia/ST-NEBRASKA-CRANES-vidcovers-01-hfvz/ST-NEBRASKA-CRANES-vidcovers-01-hfvz-mediumSquareAt3X.jpg"
+         },
+         "categories": [
+             "Berger, Sheila (Artist)",
+             "Nebraska",
+             "The Wind Whistling in the Cranes (Book)"
+         ],
+         "dcExt": {
+             "creator": [
+                 "Alice Gregory and Erinn Springer"
+             ]
+         },
+         "extensions": {
+             "atom": {
+                 "link": [
+                     {
+                         "name": "link",
+                         "value": "",
+                         "attrs": {
+                             "href": "https://www.nytimes.com/2025/04/10/style/cranes-migration-nebraska.html",
+                             "rel": "standout"
+                         },
+                         "children": {}
+                     }
+                 ]
+             },
+             "dc": {
+                 "creator": [
+                     {
+                         "name": "creator",
+                         "value": "Alice Gregory and Erinn Springer",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ]
+             },
+             "media": {
+                 "content": [
+                     {
+                         "name": "content",
+                         "value": "",
+                         "attrs": {
+                             "height": "1800",
+                             "medium": "image",
+                             "url": "https://static01.nyt.com/images/2025/04/04/multimedia/ST-NEBRASKA-CRANES-vidcovers-01-hfvz/ST-NEBRASKA-CRANES-vidcovers-01-hfvz-mediumSquareAt3X.jpg",
+                             "width": "1800"
+                         },
+                         "children": {}
+                     }
+                 ],
+                 "credit": [
+                     {
+                         "name": "credit",
+                         "value": "Erinn Springer for The New York Times",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ]
+             }
+         }
+     },
+     {
          "title": "5 Science-Backed Longevity Hacks That Don’t Cost a Fortune",
          "description": "You don’t need a $40,000 gym membership to live a longer, healthier life.",
          "link": "https://www.nytimes.com/2025/04/10/well/longevity-low-cost-tips.html",
@@ -74,39 +237,45 @@
          }
      },
      {
-         "title": "Jon Hamm Finds His Way Back to the Hilltop",
-         "description": "For the actor, the decade since “Mad Men” ended has been a period of personal change and mixed professional success. Suddenly, he is everywhere again.",
-         "link": "https://www.nytimes.com/2025/04/10/arts/television/jon-hamm-your-friends-and-neighbors.html",
+         "title": "Cabot Creamery Butter Is Recalled Over Fecal Contamination Risk",
+         "description": "The company said it was voluntarily recalling 189 cases of its eight-ounce, sea-salted Extra Creamy Premium Butter after it found elevated levels of coliform bacteria.",
+         "link": "https://www.nytimes.com/2025/04/10/business/cabot-creamery-butter-recall.html",
          "links": [
-             "https://www.nytimes.com/2025/04/10/arts/television/jon-hamm-your-friends-and-neighbors.html"
+             "https://www.nytimes.com/2025/04/10/business/cabot-creamery-butter-recall.html"
          ],
-         "published": "Thu, 10 Apr 2025 15:45:14 +0000",
-         "publishedParsed": "2025-04-10T15:45:14Z",
+         "published": "Thu, 10 Apr 2025 17:52:36 +0000",
+         "publishedParsed": "2025-04-10T17:52:36Z",
          "author": {
-             "name": "Austin Considine and Adali Schell"
+             "name": "Johnny Diaz"
          },
          "authors": [
              {
-                 "name": "Austin Considine and Adali Schell"
+                 "name": "Johnny Diaz"
              }
          ],
-         "guid": "https://www.nytimes.com/2025/04/10/arts/television/jon-hamm-your-friends-and-neighbors.html",
+         "guid": "https://www.nytimes.com/2025/04/10/business/cabot-creamery-butter-recall.html",
          "image": {
-             "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13cul-hamm-promo-zktq/13cul-hamm-promo-zktq-mediumSquareAt3X.jpg"
+             "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-butter1-jptw/10xp-butter1-jptw-mediumSquareAt3X.jpg"
          },
          "categories": [
-             "Television",
-             "Actors and Actresses",
-             "Content Type: Personal Profile",
-             "Hamm, Jon",
-             "Aniston, Jennifer",
-             "Peet, Amanda",
-             "Mad Men (TV Program)",
-             "Your Friends \u0026 Neighbors (TV Program)"
+             "Recalls and Bans of Products",
+             "Bacteria",
+             "Feces",
+             "Cabot Creamery",
+             "Food and Drug Administration",
+             "Centers for Disease Control and Prevention",
+             "Waitsfield (Vt)",
+             "Arkansas",
+             "Connecticut",
+             "Maine",
+             "New Hampshire",
+             "Pennsylvania",
+             "Vermont",
+             "New York State"
          ],
          "dcExt": {
              "creator": [
-                 "Austin Considine and Adali Schell"
+                 "Johnny Diaz"
              ]
          },
          "extensions": {
@@ -116,7 +285,7 @@
                          "name": "link",
                          "value": "",
                          "attrs": {
-                             "href": "https://www.nytimes.com/2025/04/10/arts/television/jon-hamm-your-friends-and-neighbors.html",
+                             "href": "https://www.nytimes.com/2025/04/10/business/cabot-creamery-butter-recall.html",
                              "rel": "standout"
                          },
                          "children": {}
@@ -127,7 +296,7 @@
                  "creator": [
                      {
                          "name": "creator",
-                         "value": "Austin Considine and Adali Schell",
+                         "value": "Johnny Diaz",
                          "attrs": {},
                          "children": {}
                      }
@@ -139,9 +308,9 @@
                          "name": "content",
                          "value": "",
                          "attrs": {
-                             "height": "1800",
+                             "height": "1799",
                              "medium": "image",
-                             "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13cul-hamm-promo-zktq/13cul-hamm-promo-zktq-mediumSquareAt3X.jpg",
+                             "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-butter1-jptw/10xp-butter1-jptw-mediumSquareAt3X.jpg",
                              "width": "1800"
                          },
                          "children": {}
@@ -150,7 +319,7 @@
                  "credit": [
                      {
                          "name": "credit",
-                         "value": "Adali Schell for The New York Times",
+                         "value": "Cabot Creamery, via Associated Press",
                          "attrs": {},
                          "children": {}
                      }
@@ -159,35 +328,35 @@
          }
      },
      {
-         "title": "Search Ends for Victims in Dominican Republic Roof Collapse That Killed 221",
-         "description": "The collapse of the roof at Jet Set, one of Santo Domingo’s most popular nightclubs, killed many prominent Dominicans, including baseball players and politicians.",
-         "link": "https://www.nytimes.com/2025/04/10/world/americas/dominican-republic-nightclub-collapse-deaths.html",
+         "title": "Neutrinos Are Shrinking, and That’s a Good Thing for Physics",
+         "description": "A new estimate of the ghostly particle’s maximum possible mass brings physicists a tad closer to understanding the universe.",
+         "link": "https://www.nytimes.com/2025/04/10/science/neutrinos-mass-physics.html",
          "links": [
-             "https://www.nytimes.com/2025/04/10/world/americas/dominican-republic-nightclub-collapse-deaths.html"
+             "https://www.nytimes.com/2025/04/10/science/neutrinos-mass-physics.html"
          ],
-         "published": "Thu, 10 Apr 2025 16:13:46 +0000",
-         "publishedParsed": "2025-04-10T16:13:46Z",
+         "published": "Thu, 10 Apr 2025 18:09:56 +0000",
+         "publishedParsed": "2025-04-10T18:09:56Z",
          "author": {
-             "name": "Frances Robles"
+             "name": "Katrina Miller"
          },
          "authors": [
              {
-                 "name": "Frances Robles"
+                 "name": "Katrina Miller"
              }
          ],
-         "guid": "https://www.nytimes.com/2025/04/10/world/americas/dominican-republic-nightclub-collapse-deaths.html",
+         "guid": "https://www.nytimes.com/2025/04/10/science/neutrinos-mass-physics.html",
          "image": {
-             "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-dominican-collapse-chgq/10int-dominican-collapse-chgq-mediumSquareAt3X.jpg"
+             "url": "https://static01.nyt.com/images/2025/04/10/science/10HS-neutrino/10HS-neutrino-mediumSquareAt3X.jpg"
          },
          "categories": [
-             "Bars and Nightclubs",
-             "Deaths (Fatalities)",
-             "Roofs",
-             "Dominican Republic"
+             "Neutrinos",
+             "Physics",
+             "Research",
+             "Science (Journal)"
          ],
          "dcExt": {
              "creator": [
-                 "Frances Robles"
+                 "Katrina Miller"
              ]
          },
          "extensions": {
@@ -197,7 +366,7 @@
                          "name": "link",
                          "value": "",
                          "attrs": {
-                             "href": "https://www.nytimes.com/2025/04/10/world/americas/dominican-republic-nightclub-collapse-deaths.html",
+                             "href": "https://www.nytimes.com/2025/04/10/science/neutrinos-mass-physics.html",
                              "rel": "standout"
                          },
                          "children": {}
@@ -208,7 +377,7 @@
                  "creator": [
                      {
                          "name": "creator",
-                         "value": "Frances Robles",
+                         "value": "Katrina Miller",
                          "attrs": {},
                          "children": {}
                      }
@@ -222,7 +391,7 @@
                          "attrs": {
                              "height": "1800",
                              "medium": "image",
-                             "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-dominican-collapse-chgq/10int-dominican-collapse-chgq-mediumSquareAt3X.jpg",
+                             "url": "https://static01.nyt.com/images/2025/04/10/science/10HS-neutrino/10HS-neutrino-mediumSquareAt3X.jpg",
                              "width": "1800"
                          },
                          "children": {}
@@ -231,7 +400,7 @@
                  "credit": [
                      {
                          "name": "credit",
-                         "value": "Francesco Spotorno/Agence France-Presse — Getty Images",
+                         "value": "Uwe Anspach/picture alliance, via Getty Images",
                          "attrs": {},
                          "children": {}
                      }
@@ -239,13 +408,61 @@
                  "description": [
                      {
                          "name": "description",
-                         "value": "Rescue workers at the Jet Set nightclub in Santo Domingo, Dominican Republic, on Wednesday, the day after its roof collapsed, killing over 200 people.",
+                         "value": "A spectrometer of the Karlsruhe Tritium Neutrino Experiment in Germany in 2016.",
                          "attrs": {},
                          "children": {}
                      }
                  ]
              }
          }
+     },
+     {
+         "title": "Police shoot best-selling author and wife of Weezer bassist, saying she pointed gun at officers",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/Draxtonsmitz\"\u003e /u/Draxtonsmitz \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.nbcnews.com/news/us-news/police-shoot-wife-weezers-bassist-say-pointed-gun-officers-rcna200543\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1jw0yot/police_shoot_bestselling_author_and_wife_of/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1jw0yot/police_shoot_bestselling_author_and_wife_of/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1jw0yot/police_shoot_bestselling_author_and_wife_of/"
+         ],
+         "updated": "2025-04-10T15:40:00+00:00",
+         "updatedParsed": "2025-04-10T15:40:00Z",
+         "published": "2025-04-10T15:40:00+00:00",
+         "publishedParsed": "2025-04-10T15:40:00Z",
+         "author": {
+             "name": "/u/Draxtonsmitz"
+         },
+         "authors": [
+             {
+                 "name": "/u/Draxtonsmitz"
+             }
+         ],
+         "guid": "t3_1jw0yot",
+         "categories": [
+             "r/news"
+         ]
+     },
+     {
+         "title": "600 pounds of marijuana stolen from Colorado State Patrol evidence trailer",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/No-Information6622\"\u003e /u/No-Information6622 \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.cbsnews.com/colorado/news/600-pounds-marijuana-stolen-colorado-state-patrol-evidence-trailer/\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1jw40wz/600_pounds_of_marijuana_stolen_from_colorado/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1jw40wz/600_pounds_of_marijuana_stolen_from_colorado/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1jw40wz/600_pounds_of_marijuana_stolen_from_colorado/"
+         ],
+         "updated": "2025-04-10T17:47:30+00:00",
+         "updatedParsed": "2025-04-10T17:47:30Z",
+         "published": "2025-04-10T17:47:30+00:00",
+         "publishedParsed": "2025-04-10T17:47:30Z",
+         "author": {
+             "name": "/u/No-Information6622"
+         },
+         "authors": [
+             {
+                 "name": "/u/No-Information6622"
+             }
+         ],
+         "guid": "t3_1jw40wz",
+         "categories": [
+             "r/news"
+         ]
      },
      {
          "title": "Missouri woman accused of trading child for monkey",
@@ -296,19 +513,19 @@
          ]
      },
      {
-         "title": "More than 200 dead after Dominican Republic nightclub disaster, as search for survivors ends - CNN",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSUVSZFhCUk1aeUNQMVpMNGVvZzBHVmFXMnhNYmxsM3hnQkFxREQwQThaS282ZFQyVks5Vm1KNFZvYjRKZHE3R25CVkZzZnBJcnRzdXd5WTYwNmVWMHJJcWx2SHZvRFJIQktXMDYxaXRVWXV6TUFNQmR0TzhCSVpOc0ZfVTgxRnllRDlKQWE0NHhOa1d0ajRsdFE2bzhNNTJMUFZCZXFHUTPSAZ8BQVVfeXFMTU1hblRWeWFlT2hPSE1YSExjNFJWT3hUMDJmWldqeEZHWC1CZ3JfOE1JbkdwclgxZEFXNUZDN3I4TXpKdWphUWJRVlpNMzJvd1FtTTZhREd6T0RMeEl1dW01c2pJb1NIVFRVSGI4OFdoNzA1QkNuVmxTejU4dVV1UlprdWh0OHZxSFhSRjRpZFQxbEhvV0ZsRGV4UVExWmw4?oc=5\" target=\"_blank\"\u003eMore than 200 dead after Dominican Republic nightclub disaster, as search for survivors ends\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQWW84cndGeWU0engxdmdCa01pVWJ2OEdhSlhpX0lpNzYyQnNFaXpybUZkblVBamZLNzFCVEpMT1VYMkcxQ0F5Si1lc0pvaEZwTUE2U2RtR1hIU1VzSlFDQUNOMW44cTRFY3ZGZGQyZF94ZnRIaGpZQWYzX09qMFJvRUlUS0pidFltY0E?oc=5\" target=\"_blank\"\u003eCelebrities Join in Mourning the Jet Set Nightclub Tragedy\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Cut\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2RFQVQ1TmlCOUJvWmtwRGtqOXJRTzJ3b1l2VkxwTjVuVllPMlZidGo2WTdPYXd5UXhpaDNpbnhjWlpRLWEzMjh6NE1zcnlpYmRqQUF3bGM3U0xhSFNxUFYwUmZTYlg3TFhWMl9TUzJDWm5jd21YUEQ0U253WVN2cklZMERtT2lPajZ5TFZkMVVfM3lzN3FvakpTRUI4SEY4c1Vn?oc=5\" target=\"_blank\"\u003ePedro Martinez: Family missing after roof collapse\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eESPN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmdDQkxYclJjQlp4X0NwU2ZuYldYQ3YtUnJjMFNBcV83QXloblhBaWVNODF2R0pMREt2ZVUzT0JLdkhYY29EeEFKN1FsajdTdXdmakZTQ0hBMVNyeTZiaFBjaEpGOVIxVXFDR2RtMnloeWx0d3FmOEpjaHJtY1prZW0wRWNrUzlKU0lSdnV0RHhqQXQwTEZtc21uVllPM0hzU0hF?oc=5\" target=\"_blank\"\u003e5 Songs by Rubby Pérez, the Singer Lost in the Dominican Republic Roof Collapse\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQaEkzNGVHc2RkQzF1aFVZWWdMaXo4ZFZFdFV0OF9tdS03RzBaWk9kMENMYUtnOG5ZMVY0WnVDVFU5MWs1Z2tEbl8zVXBNUmVTOEcycnVFR0VWVmI3RFE4QWcteUxCZEZfRjJncUFpU3pwR084WnI1dU1XVmJDcklLazgzTVJ5VVZjV0ZUYk9qcXVQeHEwOUl2aHp5YzNsV0VqaTdYTzNhZjF5UHZsbGcxMW1nYnJ4Q1k?oc=5\" target=\"_blank\"\u003eMLB's Pedro Martinez Speaks on Missing Family in Tragic Collapse\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eUs Weekly\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSUVSZFhCUk1aeUNQMVpMNGVvZzBHVmFXMnhNYmxsM3hnQkFxREQwQThaS282ZFQyVks5Vm1KNFZvYjRKZHE3R25CVkZzZnBJcnRzdXd5WTYwNmVWMHJJcWx2SHZvRFJIQktXMDYxaXRVWXV6TUFNQmR0TzhCSVpOc0ZfVTgxRnllRDlKQWE0NHhOa1d0ajRsdFE2bzhNNTJMUFZCZXFHUTPSAZ8BQVVfeXFMTU1hblRWeWFlT2hPSE1YSExjNFJWT3hUMDJmWldqeEZHWC1CZ3JfOE1JbkdwclgxZEFXNUZDN3I4TXpKdWphUWJRVlpNMzJvd1FtTTZhREd6T0RMeEl1dW01c2pJb1NIVFRVSGI4OFdoNzA1QkNuVmxTejU4dVV1UlprdWh0OHZxSFhSRjRpZFQxbEhvV0ZsRGV4UVExWmw4?oc=5",
+         "title": "Photos: Nightclub roof collapse in Dominican Republic - CNN",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNN0Rqb084cU00SjYxNFNDUDhfYnRwV1kzNm40S1NMa1hWcmoxN3pYSlJLSk1HaUN5VjEzUS1IUzRwN1VKN0Zpc2xBV1VDRDZwdjVpVElMVllsMjRvbDlHcDlyb3hFdEhUOEp2dEc2V29Wb1E0bTMyZWNocHU1UXhRM2M0ZGRraWlJTEdld1dqN20yUQ?oc=5\" target=\"_blank\"\u003ePhotos: Nightclub roof collapse in Dominican Republic\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSUVSZFhCUk1aeUNQMVpMNGVvZzBHVmFXMnhNYmxsM3hnQkFxREQwQThaS282ZFQyVks5Vm1KNFZvYjRKZHE3R25CVkZzZnBJcnRzdXd5WTYwNmVWMHJJcWx2SHZvRFJIQktXMDYxaXRVWXV6TUFNQmR0TzhCSVpOc0ZfVTgxRnllRDlKQWE0NHhOa1d0ajRsdFE2bzhNNTJMUFZCZXFHUTPSAZ8BQVVfeXFMTU1hblRWeWFlT2hPSE1YSExjNFJWT3hUMDJmWldqeEZHWC1CZ3JfOE1JbkdwclgxZEFXNUZDN3I4TXpKdWphUWJRVlpNMzJvd1FtTTZhREd6T0RMeEl1dW01c2pJb1NIVFRVSGI4OFdoNzA1QkNuVmxTejU4dVV1UlprdWh0OHZxSFhSRjRpZFQxbEhvV0ZsRGV4UVExWmw4?oc=5\" target=\"_blank\"\u003eMore than 200 dead after Dominican Republic nightclub disaster, as search for survivors ends\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBDXzJuM2JEUzVaVU52VThLb1Nqc1lhMmwzbnpIQ3Zmc2hJbTllRDcxYUs5LTQxekNQR2RVak5hQVlUT0Mwa0lXTnpZN0tMUUEyenlOcUhjTHFIdlVJZkQyakVfYTNERU1mSWdpazBEdHRfNXBOcVdWVGhWUnREQm8?oc=5\" target=\"_blank\"\u003eWhy did a Dominican nightclub roof cave in?\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eYahoo\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmdDQkxYclJjQlp4X0NwU2ZuYldYQ3YtUnJjMFNBcV83QXloblhBaWVNODF2R0pMREt2ZVUzT0JLdkhYY29EeEFKN1FsajdTdXdmakZTQ0hBMVNyeTZiaFBjaEpGOVIxVXFDR2RtMnloeWx0d3FmOEpjaHJtY1prZW0wRWNrUzlKU0lSdnV0RHhqQXQwTEZtc21uVllPM0hzU0hF?oc=5\" target=\"_blank\"\u003e5 Songs by Rubby Pérez, the Singer Lost in the Dominican Republic Roof Collapse\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlhQZGh3d29oZEswSnZsTExEakZXVVcwTHJ0eTZ0RlVnWmhBVElyYld4N3lBdllZZ0t4X2tkR0ZuNjQzU3NpeUtZVUg0RnByYVhzRWh0NkJaajNTNXl4eHRQQ1Q5U2tKQ2RzZ3JMbzlCb25iYlR5amw2QWh0YjZ4aFZ5c3RUcTZwWnplQTAyZzFjQUxia1NjVEFYcUpaaWJhcmdrS3pYb3pyQdIBrwFBVV95cUxQa0ZJeG9nNEQ3azRyUHlsUDhPZXllSWk1ekg5NXI1Nk9JR3REakFxOWZfMHZMN1BDcGpQa2NfZnlQRGt1WndwcmlWUldHWEZKRXBOWERTRjFvN05mVThzeXVQTUt4c1VWa1JBZ25xNmx1TWtyQ3hKQ18wRFdvNW9MT3c2VmJ2NU1waVdoY3hwQnktaUpfdUdBc0VXQ29UbVBSNXFYZHFXYnk1VWphUFM0?oc=5\" target=\"_blank\"\u003eOver 220 dead, including former MLB pitcher Octavio Dotel, after roof collapses at Dominican Republic nightclub\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN0Rqb084cU00SjYxNFNDUDhfYnRwV1kzNm40S1NMa1hWcmoxN3pYSlJLSk1HaUN5VjEzUS1IUzRwN1VKN0Zpc2xBV1VDRDZwdjVpVElMVllsMjRvbDlHcDlyb3hFdEhUOEp2dEc2V29Wb1E0bTMyZWNocHU1UXhRM2M0ZGRraWlJTEdld1dqN20yUQ?oc=5",
          "links": [
-             "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSUVSZFhCUk1aeUNQMVpMNGVvZzBHVmFXMnhNYmxsM3hnQkFxREQwQThaS282ZFQyVks5Vm1KNFZvYjRKZHE3R25CVkZzZnBJcnRzdXd5WTYwNmVWMHJJcWx2SHZvRFJIQktXMDYxaXRVWXV6TUFNQmR0TzhCSVpOc0ZfVTgxRnllRDlKQWE0NHhOa1d0ajRsdFE2bzhNNTJMUFZCZXFHUTPSAZ8BQVVfeXFMTU1hblRWeWFlT2hPSE1YSExjNFJWT3hUMDJmWldqeEZHWC1CZ3JfOE1JbkdwclgxZEFXNUZDN3I4TXpKdWphUWJRVlpNMzJvd1FtTTZhREd6T0RMeEl1dW01c2pJb1NIVFRVSGI4OFdoNzA1QkNuVmxTejU4dVV1UlprdWh0OHZxSFhSRjRpZFQxbEhvV0ZsRGV4UVExWmw4?oc=5"
+             "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN0Rqb084cU00SjYxNFNDUDhfYnRwV1kzNm40S1NMa1hWcmoxN3pYSlJLSk1HaUN5VjEzUS1IUzRwN1VKN0Zpc2xBV1VDRDZwdjVpVElMVllsMjRvbDlHcDlyb3hFdEhUOEp2dEc2V29Wb1E0bTMyZWNocHU1UXhRM2M0ZGRraWlJTEdld1dqN20yUQ?oc=5"
          ],
-         "published": "Thu, 10 Apr 2025 14:40:00 GMT",
-         "publishedParsed": "2025-04-10T14:40:00Z",
-         "guid": "CBMiqAFBVV95cUxOSUVSZFhCUk1aeUNQMVpMNGVvZzBHVmFXMnhNYmxsM3hnQkFxREQwQThaS282ZFQyVks5Vm1KNFZvYjRKZHE3R25CVkZzZnBJcnRzdXd5WTYwNmVWMHJJcWx2SHZvRFJIQktXMDYxaXRVWXV6TUFNQmR0TzhCSVpOc0ZfVTgxRnllRDlKQWE0NHhOa1d0ajRsdFE2bzhNNTJMUFZCZXFHUTPSAZ8BQVVfeXFMTU1hblRWeWFlT2hPSE1YSExjNFJWT3hUMDJmWldqeEZHWC1CZ3JfOE1JbkdwclgxZEFXNUZDN3I4TXpKdWphUWJRVlpNMzJvd1FtTTZhREd6T0RMeEl1dW01c2pJb1NIVFRVSGI4OFdoNzA1QkNuVmxTejU4dVV1UlprdWh0OHZxSFhSRjRpZFQxbEhvV0ZsRGV4UVExWmw4"
+         "published": "Thu, 10 Apr 2025 15:11:00 GMT",
+         "publishedParsed": "2025-04-10T15:11:00Z",
+         "guid": "CBMikgFBVV95cUxNN0Rqb084cU00SjYxNFNDUDhfYnRwV1kzNm40S1NMa1hWcmoxN3pYSlJLSk1HaUN5VjEzUS1IUzRwN1VKN0Zpc2xBV1VDRDZwdjVpVElMVllsMjRvbDlHcDlyb3hFdEhUOEp2dEc2V29Wb1E0bTMyZWNocHU1UXhRM2M0ZGRraWlJTEdld1dqN20yUQ"
      },
      {
          "title": "King and Queen leave Italy after state visit - BBC",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WGpzYjk4dFBBYkVvclRyM0pTOTkzYzZpVzlTRUpucnlBSGkxb0NkU3FNSEw1NUc4U1NKMHQwQmlkSUtwSUJWU01pcDQyS2tPdkVsYVY5SFlxUdIBX0FVX3lxTE1RU2Z2MjlUUVBaS1AtZ08wRmppZXJPYmVVaHlJMzUwdEgwd2hyTnVOc0daSmlYVE5US1FxVEdLZVYyNGRTRUhTbFlHY1JnSUtWbEV1NG14ZUx2aDdwaFNB?oc=5\" target=\"_blank\"\u003eKing and Queen leave Italy after state visit\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBBC\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU0lDR3V1Zjd0bEpSSndEckdpUkZWT0xud3hDdW9qVFJERmNHS1lBQjBkajJDQUJ0UXl4djgtbXA3ZmhjSjhDU204UW9uMG1IRjB0S0FTSm9BX2l4NHJEVFMzdk9Zc1dVSDZBUVZGb2Vtc0RvYzRwV05iTlp0cC1WTVBnWWIxSkZ4SWJSdjBtYkZ3NVBSR24wRDRubzdOc1o4Z1dDTmIxbG9ublhtcnNBcnQtcjBRZGtWaWtFMmJMQU9oSWRRM0szVg?oc=5\" target=\"_blank\"\u003eUK royals meet Italy’s president and enjoy a special tour of Rome’s Colosseum\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAP News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVVLaHdRX0FVOEpLZXJhcVpfaFB4N0NfY1BKekxxVUpORHlBWlpncGdjUEZqU0Y4cmpRcGJqWVNwVVI1Mnpyc1J6VXNoSmlIVTVGUXh0bkpUdWJVQVdxRkZPU1BFZFRSQ2phZVZLVm9IcmtNZWQ0aUxfLWlGVU9sa2FxYm5TdE91dDd2U0owcVJ2VG95TEJ2UnBUWUp1Rnh2T2tZbVh2YlB5UFZtb0w4aWFvQTdJZzhvVE52Wkd4Qnlwbms?oc=5\" target=\"_blank\"\u003e'Dear to my heart': King Charles III addresses Italian parliament in Rome in historic first\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eEuronews.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPTzJjR2V3X1N0RGlzZE4zZEo0Y01DYVlaY2h1Sm45TGlRZWxqcWpiVEN4ZWNQU1U4RVFINUE1VFVMX2tQdk9TWEgxbUMyeXBwSDU5YUNQbGt0eVZnU1pjMTVKRkRPNm5YTEY3UHc5RFdVWkppNGpCaDNkcnlCa3VFWjJYMXhjellvUzY3R3phemlBSTZOeEM3RDBlNGIyMjh0TnBJd1NjVE03dEZzWi1UNw?oc=5\" target=\"_blank\"\u003eKing Charles and Queen Camilla Attend Glam State Banquet in Italy on Their 20th Wedding Anniversary\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003ePeople.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNYk9MVzRNZTFRRzIwQUdmbkZ1VVV4eDBnUzFKU1ExbDRuV0RjWFVCdkhZanM4NGNPa3JKMUJJNng3QWNtMlFvNDBHTzV2SUtsMGNCSVRvbVdRSUNjamRDNGMtMzNGei00ZUMtaVpoeTdxd21GOTFyaEQ2OFludldWZ0Exd3ZTbW8?oc=5\" target=\"_blank\"\u003eThe King and Queen visit Italy\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Royal Family\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WGpzYjk4dFBBYkVvclRyM0pTOTkzYzZpVzlTRUpucnlBSGkxb0NkU3FNSEw1NUc4U1NKMHQwQmlkSUtwSUJWU01pcDQyS2tPdkVsYVY5SFlxUdIBX0FVX3lxTE1RU2Z2MjlUUVBaS1AtZ08wRmppZXJPYmVVaHlJMzUwdEgwd2hyTnVOc0daSmlYVE5US1FxVEdLZVYyNGRTRUhTbFlHY1JnSUtWbEV1NG14ZUx2aDdwaFNB?oc=5\" target=\"_blank\"\u003eKing and Queen leave Italy after state visit\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBBC\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU0lDR3V1Zjd0bEpSSndEckdpUkZWT0xud3hDdW9qVFJERmNHS1lBQjBkajJDQUJ0UXl4djgtbXA3ZmhjSjhDU204UW9uMG1IRjB0S0FTSm9BX2l4NHJEVFMzdk9Zc1dVSDZBUVZGb2Vtc0RvYzRwV05iTlp0cC1WTVBnWWIxSkZ4SWJSdjBtYkZ3NVBSR24wRDRubzdOc1o4Z1dDTmIxbG9ublhtcnNBcnQtcjBRZGtWaWtFMmJMQU9oSWRRM0szVg?oc=5\" target=\"_blank\"\u003eUK royals meet Italy’s president and enjoy a special tour of Rome’s Colosseum\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAP News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVVLaHdRX0FVOEpLZXJhcVpfaFB4N0NfY1BKekxxVUpORHlBWlpncGdjUEZqU0Y4cmpRcGJqWVNwVVI1Mnpyc1J6VXNoSmlIVTVGUXh0bkpUdWJVQVdxRkZPU1BFZFRSQ2phZVZLVm9IcmtNZWQ0aUxfLWlGVU9sa2FxYm5TdE91dDd2U0owcVJ2VG95TEJ2UnBUWUp1Rnh2T2tZbVh2YlB5UFZtb0w4aWFvQTdJZzhvVE52Wkd4Qnlwbms?oc=5\" target=\"_blank\"\u003e'Dear to my heart': King Charles III addresses Italian parliament in Rome in historic first\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eEuronews.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9teW1UTEFKTGRvbC02LWUydUVDNUZlUmVTTjhyX2wtRnhOTFlEcTdROFpRUUVROWM3c09ZVkFDcm5mV2VaM283dTZqVk1DM3JoTW42Yi1uVW56Z0xwcEtGWTVabEhsdl9IQmNBeUg3UGV5aWdBTThKUlpGVQ?oc=5\" target=\"_blank\"\u003ePope Francis meets privately with King Charles and Queen Camilla during his Vatican convalescence\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eYahoo\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNYk9MVzRNZTFRRzIwQUdmbkZ1VVV4eDBnUzFKU1ExbDRuV0RjWFVCdkhZanM4NGNPa3JKMUJJNng3QWNtMlFvNDBHTzV2SUtsMGNCSVRvbVdRSUNjamRDNGMtMzNGei00ZUMtaVpoeTdxd21GOTFyaEQ2OFludldWZ0Exd3ZTbW8?oc=5\" target=\"_blank\"\u003eThe King and Queen visit Italy\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Royal Family\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WGpzYjk4dFBBYkVvclRyM0pTOTkzYzZpVzlTRUpucnlBSGkxb0NkU3FNSEw1NUc4U1NKMHQwQmlkSUtwSUJWU01pcDQyS2tPdkVsYVY5SFlxUdIBX0FVX3lxTE1RU2Z2MjlUUVBaS1AtZ08wRmppZXJPYmVVaHlJMzUwdEgwd2hyTnVOc0daSmlYVE5US1FxVEdLZVYyNGRTRUhTbFlHY1JnSUtWbEV1NG14ZUx2aDdwaFNB?oc=5",
          "links": [
              "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WGpzYjk4dFBBYkVvclRyM0pTOTkzYzZpVzlTRUpucnlBSGkxb0NkU3FNSEw1NUc4U1NKMHQwQmlkSUtwSUJWU01pcDQyS2tPdkVsYVY5SFlxUdIBX0FVX3lxTE1RU2Z2MjlUUVBaS1AtZ08wRmppZXJPYmVVaHlJMzUwdEgwd2hyTnVOc0daSmlYVE5US1FxVEdLZVYyNGRTRUhTbFlHY1JnSUtWbEV1NG14ZUx2aDdwaFNB?oc=5"
@@ -318,14 +535,89 @@
          "guid": "CBMiWkFVX3lxTE50WGpzYjk4dFBBYkVvclRyM0pTOTkzYzZpVzlTRUpucnlBSGkxb0NkU3FNSEw1NUc4U1NKMHQwQmlkSUtwSUJWU01pcDQyS2tPdkVsYVY5SFlxUdIBX0FVX3lxTE1RU2Z2MjlUUVBaS1AtZ08wRmppZXJPYmVVaHlJMzUwdEgwd2hyTnVOc0daSmlYVE5US1FxVEdLZVYyNGRTRUhTbFlHY1JnSUtWbEV1NG14ZUx2aDdwaFNB"
      },
      {
-         "title": "Why Tap a Wheel of Cheese?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43644970\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cheeseprofessor.com/blog/cheese-wheel-tapping",
+         "title": "Canadian citizen extradited to India for alleged role in deadly 2008 Mumbai attacks - The Guardian",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPRDcwS1pIQmZadTFsbUI0MVdsazdsanhCLVpETTNqVS1URVV3S2p1NGhtWEhoQ0cxU2JPOVkxQmVLMXNzS1RSOFZmQ2JlOXljLWpIYzhPY2dlcVZOVThNVi1RWm9aYWxEbXBjaC13bVFLV0ZNYWlQMHAyVTV3MXF5cDBpMEJBUEtpVVE?oc=5\" target=\"_blank\"\u003eCanadian citizen extradited to India for alleged role in deadly 2008 Mumbai attacks\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Guardian\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVXZDN0FhVlh4dVlGZm5JUmhmeW1PQWY1WHRKd1ByZFAwZUp5SDA3cjhlTUdZQWR1b3FCZHlHR2hFY0pWbTBsNzFYWXRGajE3RDdDbkxoYVdGQVRpdnNzWk1XV0hHRHYxcjgxSWtxUXBxOVhPRERPcFNzUGkzUEdCcVpKV0t2eGdFRUtlNnA2U0ZXNU5HUW5fM3F3WWxFSFc2Qzlfd24xOGxObTZORElGZGlUbWVPUHN4X2V4WEFSc1JxQnc?oc=5\" target=\"_blank\"\u003e'Disgraced': PM Modi's 2011 tweet on Tahawwur Rana goes viral\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eTimes of India\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNHJhbUtyT1d4R1FLWld6Q3lFbW5td2xMSUtCdHNjTGgyQ3VJc3lOa0JteDRHbmxSOEdlaU5lTWN3MWFRYUlxUk9tUFhlQlVoQTAtaThBRDlNZnpMWUFZZExMeVhJVzZmUGpNeVFkUVRTcnhjTHJDbUk4SEFyaW9IcE9nOGlXR2EwMXd6WFc4bmdvYUItbFBCYWRiSlhCNDdNTEJLem8wdTdDSmF6ZnZ1UTRuS1RoaGxwSkhTWGRsX3VIZw?oc=5\" target=\"_blank\"\u003e'Tahawwur Rana May Reveal More Names': Ex Anti-Terror Agency Official\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNDTV\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZTlBfZGxoMUI4Sk5STDdCZzZBNEh6aTRqZUZ4Rk05cTVzTkROblhmRm4zTFhOU0hsWnZrVjIyc3U3cnYxSGdIT2tvZW5jSkZwODY5eEU3ZElYdw?oc=5\" target=\"_blank\"\u003eTahawwur Hussain Rana: 26/11 Mumbai attack accused reaches India after extradition from US\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBBC\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ1ZjYW9sckNtTFRybXo3TDRQVmoxOXgxOFhadm5renpEMFNOSWlnOXR1U09DVDFYNjU2VmVRZ2d6SFlkckpYU043c0ZpWlFfTkdNRk54TThxUkREQlVMSEc1N1RubWtTSGtvSGJBZi01cHAzOEtYQWZlMVVZN0t6cU04eXM0Mm1RMGprdkhDUndYd3JXZ3VXNHdFOTNPbU9IY01HcWFxU0lfZ9IBoAFBVV95cUxNZ2FIYmE3U2VKR1RYQXpaemxNakhyVTZ5QWEwUE5rOUdSdFdETFVYSFQwV3kycGI5OWFJc1ZGamZqRmpjUE5lT1gyYzNYNVVYN0ttUHlHaE91N29IOVpzSDhKY3Z4enJDZUI5RFJwMXU4aHNQbGllUmcyb3l3dklKZkFRdHlrdTFWSUo2bXFfeUtfQlhRU2J5eWNFUzlyVkJk?oc=5\" target=\"_blank\"\u003eAlleged co-conspirator in Mumbai terror attacks lands in India after being extradited from US\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRDcwS1pIQmZadTFsbUI0MVdsazdsanhCLVpETTNqVS1URVV3S2p1NGhtWEhoQ0cxU2JPOVkxQmVLMXNzS1RSOFZmQ2JlOXljLWpIYzhPY2dlcVZOVThNVi1RWm9aYWxEbXBjaC13bVFLV0ZNYWlQMHAyVTV3MXF5cDBpMEJBUEtpVVE?oc=5",
          "links": [
-             "https://www.cheeseprofessor.com/blog/cheese-wheel-tapping"
+             "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRDcwS1pIQmZadTFsbUI0MVdsazdsanhCLVpETTNqVS1URVV3S2p1NGhtWEhoQ0cxU2JPOVkxQmVLMXNzS1RSOFZmQ2JlOXljLWpIYzhPY2dlcVZOVThNVi1RWm9aYWxEbXBjaC13bVFLV0ZNYWlQMHAyVTV3MXF5cDBpMEJBUEtpVVE?oc=5"
          ],
-         "published": "Thu, 10 Apr 2025 15:35:04 +0000",
-         "publishedParsed": "2025-04-10T15:35:04Z"
+         "published": "Thu, 10 Apr 2025 16:39:00 GMT",
+         "publishedParsed": "2025-04-10T16:39:00Z",
+         "guid": "CBMiigFBVV95cUxPRDcwS1pIQmZadTFsbUI0MVdsazdsanhCLVpETTNqVS1URVV3S2p1NGhtWEhoQ0cxU2JPOVkxQmVLMXNzS1RSOFZmQ2JlOXljLWpIYzhPY2dlcVZOVThNVi1RWm9aYWxEbXBjaC13bVFLV0ZNYWlQMHAyVTV3MXF5cDBpMEJBUEtpVVE"
+     },
+     {
+         "title": "Video shows 4 captive Ukrainian troops killed by men identified as Russian forces - ABC News",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZFRXcUVFZVF4dlpfNkxUOFZYQjVxSV9vTDVaczh1TUxJMGRfX3F1d0J3QzcxWmVQUndhTEUwaENPNDVWN0ZSLU9JZTdrZ2JMaGx4RFRFU0dMZEpKV2c3dWdVb0VuZGxrUGdsNjRPYkM4b3JnS1lza01DYUkyX0RJcVhIZUZzZlltb1BKQzZKN04xcl92cjRtWERZYzkxdG5tVzZueEpPVHhYd9IBrwFBVV95cUxPa2xpYzVCRDRKd1o3a055VzBIVUd0aXl6LWowQXY0Z1Zpb0E2YVR1ckhoREt6a3NMX1FvRGdJaGg3UkFZZTFnNVRWUXhZRVJWME13SVlYNTN6Z2ItTFBad2IyeHp4bV9uNnNSMnYzOXdZYUczX3A3RXp4MTFRVFBnQzRRcDF3TGxodFE3dnlONTNfVzlwWDdmQVFRU0szV2Z2U1lXc0NfeXg1TnBCOTFv?oc=5\" target=\"_blank\"\u003eVideo shows 4 captive Ukrainian troops killed by men identified as Russian forces\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUnpSX2lYcjkzZ0M1RmNTR0x0Z25hODFaejhZbHJpVVl4ZmNxSm82MlBsbUJEcWNZQmhwNlFTYnlXbktsY3JzOXFUaGtCS1pmc2M1Z2pjSV9mbHNLYjN6VS1yZVQzQVk5eGpGcDBOMzdaMWJ1RUlzZUxYMTZmanB0dmY2ZVFkOE1ZTHlQY1k1bTFWVm9qWXVsWW01b2VYcGpTVlBNU1gwTnN5dw?oc=5\" target=\"_blank\"\u003eA video shows men identified as Russian troops holding Ukrainian POWs. Then the killing begins\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAP News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQNHRvOEx5ZEU4YlFWR00tN2l5ZE5KWm8zXzRtcHoyZUFwbjZZUDJlelR0UWZkdmZBblBVTWNRN1JVNjNtWjZIRjJaUXZnWGZFLWlmNUplLW9vS1dJTWFGNWFOYVJUUG9mUkxqaXg3dlFJY0lrbmZ0MDQyQ2lURFE3YlN0NXZLMEwzR1dJM0l5b2FvNndVQWRsWFRB0gGfAUFVX3lxTE1OenZCS3BnQzR3V3JQUy1uaU1xeTJ0X05vN2dieXEwUF9mWnBYUFZpdGNGTTBVZG51SWJoRGRwVTlZUEl1dElOMDRpejNGVzRKWE9BQWhHQ2ZqQ3dOMElVYVdhcHRxODAxSExvc2dQSWxOZlVITnFIY3ZOVHlpSEFzekFzdVNkdmFEZ2pZeklQVkJoRkJaMzZOUmhWLVM4UQ?oc=5\" target=\"_blank\"\u003eDrone video appears to show Russian troops execute 4 Ukrainian POWs, AP analysis finds\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCBS News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQVzIwQy1yME14bGczMF91cHZ0VFN2ZDFzU3o2ZEl3M0s3Qk9qUk4tN3owMG5Wa3hXUDA1ZTZmNlREcXpXTndJcVdaMkk5OEFmRXYtNGpzbm9WaDBoVzVDWnNkSjFyUUVQWGxuRFhiSHlOM0N2RHBzak5QTUFZcFRULXdoeW82OFVHRnc?oc=5\" target=\"_blank\"\u003eRussia Executes P.O.W.s Without Caring Who Watches, Ukraine Says\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OUkRIQktWcGthdEtwWW1TQmlKV0UzazVPMHYtZ0JtLU5od3BDWEswLUxiaXFtczF2UHgxZm01ZXRIdmEtOC11VWdMeVJDNXd4dDhIZjlCYmdBbVQ2SmRCXzdySlTSAXBBVV95cUxQRUQwOWQtdUVuUjJEMmZQblFocE9xMWJsaEUyckU2U09WMEhPcGh6VGlZb1dtU0lVSWpzTWJGekxIazBod1EzaUJPZnRXcUhmSkRVaUVxYmtqQ013TlRHZHZMZk15NUxiZ0pQbzhZbTMz?oc=5\" target=\"_blank\"\u003eShocking video shows execution of four Ukrainian soldiers after surrender: Kyiv accuses Russia of war crime\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eУкраїнська правда\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZFRXcUVFZVF4dlpfNkxUOFZYQjVxSV9vTDVaczh1TUxJMGRfX3F1d0J3QzcxWmVQUndhTEUwaENPNDVWN0ZSLU9JZTdrZ2JMaGx4RFRFU0dMZEpKV2c3dWdVb0VuZGxrUGdsNjRPYkM4b3JnS1lza01DYUkyX0RJcVhIZUZzZlltb1BKQzZKN04xcl92cjRtWERZYzkxdG5tVzZueEpPVHhYd9IBrwFBVV95cUxPa2xpYzVCRDRKd1o3a055VzBIVUd0aXl6LWowQXY0Z1Zpb0E2YVR1ckhoREt6a3NMX1FvRGdJaGg3UkFZZTFnNVRWUXhZRVJWME13SVlYNTN6Z2ItTFBad2IyeHp4bV9uNnNSMnYzOXdZYUczX3A3RXp4MTFRVFBnQzRRcDF3TGxodFE3dnlONTNfVzlwWDdmQVFRU0szV2Z2U1lXc0NfeXg1TnBCOTFv?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZFRXcUVFZVF4dlpfNkxUOFZYQjVxSV9vTDVaczh1TUxJMGRfX3F1d0J3QzcxWmVQUndhTEUwaENPNDVWN0ZSLU9JZTdrZ2JMaGx4RFRFU0dMZEpKV2c3dWdVb0VuZGxrUGdsNjRPYkM4b3JnS1lza01DYUkyX0RJcVhIZUZzZlltb1BKQzZKN04xcl92cjRtWERZYzkxdG5tVzZueEpPVHhYd9IBrwFBVV95cUxPa2xpYzVCRDRKd1o3a055VzBIVUd0aXl6LWowQXY0Z1Zpb0E2YVR1ckhoREt6a3NMX1FvRGdJaGg3UkFZZTFnNVRWUXhZRVJWME13SVlYNTN6Z2ItTFBad2IyeHp4bV9uNnNSMnYzOXdZYUczX3A3RXp4MTFRVFBnQzRRcDF3TGxodFE3dnlONTNfVzlwWDdmQVFRU0szV2Z2U1lXc0NfeXg1TnBCOTFv?oc=5"
+         ],
+         "published": "Thu, 10 Apr 2025 06:37:56 GMT",
+         "publishedParsed": "2025-04-10T06:37:56Z",
+         "guid": "CBMiqgFBVV95cUxNZFRXcUVFZVF4dlpfNkxUOFZYQjVxSV9vTDVaczh1TUxJMGRfX3F1d0J3QzcxWmVQUndhTEUwaENPNDVWN0ZSLU9JZTdrZ2JMaGx4RFRFU0dMZEpKV2c3dWdVb0VuZGxrUGdsNjRPYkM4b3JnS1lza01DYUkyX0RJcVhIZUZzZlltb1BKQzZKN04xcl92cjRtWERZYzkxdG5tVzZueEpPVHhYd9IBrwFBVV95cUxPa2xpYzVCRDRKd1o3a055VzBIVUd0aXl6LWowQXY0Z1Zpb0E2YVR1ckhoREt6a3NMX1FvRGdJaGg3UkFZZTFnNVRWUXhZRVJWME13SVlYNTN6Z2ItTFBad2IyeHp4bV9uNnNSMnYzOXdZYUczX3A3RXp4MTFRVFBnQzRRcDF3TGxodFE3dnlONTNfVzlwWDdmQVFRU0szV2Z2U1lXc0NfeXg1TnBCOTFv"
+     },
+     {
+         "title": "King Charles and Queen Camilla visit Pope Francis on their anniversary - Vatican News",
+         "description": "\u003ca href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPTWpBVWhPMVRUN2xyTmV2cUFhN0ZzMG1ETjhLdDVZVTVZdVpkRjFBWWUzcVQ4MmIxaDdBMTQ3dDFCSmEwV3RZZllVT1NyMW1yZk9jdk5OSTZIT1A4RlAyN2hRbmxVVTBaM0V2Qmg5U1BYZ0FYb1d0MjFleWF5TmpIaDBmV1BnS05CMDdGeVk4SFFLSnIzSjZHY0NIM0Y4UFJhOWotX3ZlMmU0SVZKc3c?oc=5\" target=\"_blank\"\u003eKing Charles and Queen Camilla visit Pope Francis on their anniversary\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eVatican News\u003c/font\u003e\u003cstrong\u003e\u003ca href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lfN3F6T0RSRzdMcGZfQUM2UFJ5Z0FQAQ?hl=en-US\u0026gl=US\u0026ceid=US:en\u0026oc=5\" target=\"_blank\"\u003eView Full Coverage on Google News\u003c/a\u003e\u003c/strong\u003e",
+         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTWpBVWhPMVRUN2xyTmV2cUFhN0ZzMG1ETjhLdDVZVTVZdVpkRjFBWWUzcVQ4MmIxaDdBMTQ3dDFCSmEwV3RZZllVT1NyMW1yZk9jdk5OSTZIT1A4RlAyN2hRbmxVVTBaM0V2Qmg5U1BYZ0FYb1d0MjFleWF5TmpIaDBmV1BnS05CMDdGeVk4SFFLSnIzSjZHY0NIM0Y4UFJhOWotX3ZlMmU0SVZKc3c?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTWpBVWhPMVRUN2xyTmV2cUFhN0ZzMG1ETjhLdDVZVTVZdVpkRjFBWWUzcVQ4MmIxaDdBMTQ3dDFCSmEwV3RZZllVT1NyMW1yZk9jdk5OSTZIT1A4RlAyN2hRbmxVVTBaM0V2Qmg5U1BYZ0FYb1d0MjFleWF5TmpIaDBmV1BnS05CMDdGeVk4SFFLSnIzSjZHY0NIM0Y4UFJhOWotX3ZlMmU0SVZKc3c?oc=5"
+         ],
+         "published": "Wed, 09 Apr 2025 18:46:05 GMT",
+         "publishedParsed": "2025-04-09T18:46:05Z",
+         "guid": "CBMirgFBVV95cUxPTWpBVWhPMVRUN2xyTmV2cUFhN0ZzMG1ETjhLdDVZVTVZdVpkRjFBWWUzcVQ4MmIxaDdBMTQ3dDFCSmEwV3RZZllVT1NyMW1yZk9jdk5OSTZIT1A4RlAyN2hRbmxVVTBaM0V2Qmg5U1BYZ0FYb1d0MjFleWF5TmpIaDBmV1BnS05CMDdGeVk4SFFLSnIzSjZHY0NIM0Y4UFJhOWotX3ZlMmU0SVZKc3c"
+     },
+     {
+         "title": "Lori Vallow accused of being argumentative during cross-examination of woman who briefly dated her husband - NBC News",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQRXctcXZRUy1VN0lOZGZwZEdDc05ZVTFvbUJLMjhEdEtKYWVpM1JvMmJvdklaY0wxZFRnX3pKdFdZSkNDcXh3Z18yOVAtbFpmeFZCX3lvMzV1RXlzY3g2OU5NRDRhZEFuRU12QzR1WUJqTHFLV2xTOG1BcUdKeFVfY2xHSVVmRkk3b0ZpU1R6UFk2YVM2a0NCMUlOa3NhUdIBVkFVX3lxTE1tSTRLTzUybEIxR2VxUk83MHV2OExlNzFGX3lmVWs4dHpEOC1BQUNPeENRdFlZT19mTVBrRGJhMEdsWlhVS0NCclF0ZkdDSmM2eEcyeHRR?oc=5\" target=\"_blank\"\u003eLori Vallow accused of being argumentative during cross-examination of woman who briefly dated her husband\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNBC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNU3l3ZUdBZUJZM2o4dk1LR1poaDVuUndWa3RSQmhyT1QwMHJNeFhOWjExeTZIc2x1bk9BZm9jLUd4Uld2N1B6UEVfUUJzbERwUy03YWxZQlhkR0ZUV3BQcW1hdFdXdU1uR0Jsc282R281bU85alpfSG1kaU9VTENwWGlzOA?oc=5\" target=\"_blank\"\u003eLori Vallow Daybell starts a new murder trial, acting as her own attorney\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNPR\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWVhODdNNFFiZXhpY3lkSXd1YTBNSWNOZXVXUUFoWEVNQjBhcHp2WTVyVGk2YXRRSHFiR2QyTjl0MndTc2E1RFk5dG9lQzlxa25KZmxudFBocnI4RFAtb2tjRUltQkxNQ3BCbzZpOGcyQkxZRm5JTkhLdzhLR3ctUmU5c0FWd1A2NjJwb0tSZE1PYmxDUjRuV2xCOTNKVmZNSmtuak55WGhVNkkyRDBNcFhDTHRaWXNJemQ1aA?oc=5\" target=\"_blank\"\u003eWoman says Vallow mentioned changing insurance beneficiary the day before his death\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eKSL News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxObmc2ZlhQTzh1akQzQmdZcVljWXVGTTM2ZlR5Wno0aVdCc0g0SjFZY1ZzdjNRa0dLb01MOUZaU3F2eVN1UU9oOTRsT1daWkNRY1h3Ml9BaWRaenRidDhYUFZrSThRakNpT0R1b0VYZGxkblN1LWluWkVIVDc2d1VodlF5dkgtdFZEUXpCYjZMd0VUVG5yd19hdjFhc192bnVvdzRvSVN3Z0dfUnpXY0x2Z0pyYUFmWHctZ3ZNeDE1N1VFbFRndDZSR1p3RQ?oc=5\" target=\"_blank\"\u003eLIVE UPDATES: Adam Cox, Lori Vallow Daybell's brother, takes the stand on Day 4 of Arizona trial\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eEast Idaho News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUjBCZVg1UTZON0VxcE5FM1hlaVFZRjZsZUFFNlhzUXlqcFlOTi1DdWZRQmdDVXlkMURTT0tzeVgtUnJjeTl4M0tFMzF3WndWNlRKVlRyRkhUOHNQeVFzZWZMUUJCYTVRVnRvS3ZPRFBZbFE5eGdyRW1rdDlFMURFeTQ2SU8zUmhrUzN1LUhKUlNiMUdSclVoR1ZHYW5FUTFUSmd0TEJaQkM1MnVQeThucDRQVmUxS0xmbGt6czNWNEt1N2ZJYTE2Y2xMU2w2eHFrdDFrMjVqeU52cXViTnc?oc=5\" target=\"_blank\"\u003eDay 3 of Lori Vallow Daybell trial ends with testimony about 'dark spirits'\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003e12News\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRXctcXZRUy1VN0lOZGZwZEdDc05ZVTFvbUJLMjhEdEtKYWVpM1JvMmJvdklaY0wxZFRnX3pKdFdZSkNDcXh3Z18yOVAtbFpmeFZCX3lvMzV1RXlzY3g2OU5NRDRhZEFuRU12QzR1WUJqTHFLV2xTOG1BcUdKeFVfY2xHSVVmRkk3b0ZpU1R6UFk2YVM2a0NCMUlOa3NhUdIBVkFVX3lxTE1tSTRLTzUybEIxR2VxUk83MHV2OExlNzFGX3lmVWs4dHpEOC1BQUNPeENRdFlZT19mTVBrRGJhMEdsWlhVS0NCclF0ZkdDSmM2eEcyeHRR?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMingFBVV95cUxQRXctcXZRUy1VN0lOZGZwZEdDc05ZVTFvbUJLMjhEdEtKYWVpM1JvMmJvdklaY0wxZFRnX3pKdFdZSkNDcXh3Z18yOVAtbFpmeFZCX3lvMzV1RXlzY3g2OU5NRDRhZEFuRU12QzR1WUJqTHFLV2xTOG1BcUdKeFVfY2xHSVVmRkk3b0ZpU1R6UFk2YVM2a0NCMUlOa3NhUdIBVkFVX3lxTE1tSTRLTzUybEIxR2VxUk83MHV2OExlNzFGX3lmVWs4dHpEOC1BQUNPeENRdFlZT19mTVBrRGJhMEdsWlhVS0NCclF0ZkdDSmM2eEcyeHRR?oc=5"
+         ],
+         "published": "Thu, 10 Apr 2025 15:30:24 GMT",
+         "publishedParsed": "2025-04-10T15:30:24Z",
+         "guid": "CBMingFBVV95cUxQRXctcXZRUy1VN0lOZGZwZEdDc05ZVTFvbUJLMjhEdEtKYWVpM1JvMmJvdklaY0wxZFRnX3pKdFdZSkNDcXh3Z18yOVAtbFpmeFZCX3lvMzV1RXlzY3g2OU5NRDRhZEFuRU12QzR1WUJqTHFLV2xTOG1BcUdKeFVfY2xHSVVmRkk3b0ZpU1R6UFk2YVM2a0NCMUlOa3NhUdIBVkFVX3lxTE1tSTRLTzUybEIxR2VxUk83MHV2OExlNzFGX3lmVWs4dHpEOC1BQUNPeENRdFlZT19mTVBrRGJhMEdsWlhVS0NCclF0ZkdDSmM2eEcyeHRR"
+     },
+     {
+         "title": "‘Frankenjet’ stealth fighter made from two wrecked warplanes joins US Air Force fleet - CNN",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQZk1xZ0tWUTBUblVWTzhsdkl5Y19Del9BcjdNNUI3RlBfZGpYOTRKOWtSUy10SXR5MVl6MnpsamNjTG1DaDdhTW5EbXZ1RGtOTEJ4NVlra1JzWDJHeHlPeEdLbWxxNzRHdk1jcnhNVDZlV1hId3pYeDZLbndEQ25PbTc2R3FmYVo3Wm42VTRlTVZ3cC1ZVVVKN3lSLXAteDQ2ZmfSAZgBQVVfeXFMTWdRVG9KMXFyU3FyQmdKaE0xTHN2WnRqVlYtT1BlSDBoVGdycEhaRlh2aUpfeTNSaDl6YnBnRk92SHU1dnZ0dTlKYWdIWnFrRUNiZUp5RVlhUGVCb3h6NDFBazc2MC1mY3ZXUjhBaTJZX3paOVowbVBEWW4wNE5EanlkWnlMNVVBN2ZaVjZFRjRGczN5ZEJfNUg?oc=5\" target=\"_blank\"\u003e‘Frankenjet’ stealth fighter made from two wrecked warplanes joins US Air Force fleet\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0R0cF9ncE5CRldkaWRJaUt5RjhES3h6TVFINURyNWtfQWpOOEhPdXVLYUQwdDNLc3pxdE9GQmVaSHFUMFNEaVRITjlQdlFVNE1mb2ljNWY4ZDRNWmVBcWxsbnkzc1N0NnYzUFZ6OUNoTWoxT0ZJX0JxRjBjNjd4TnhsV3NmajdtTFZsRnFwc3NsZHhLNTRweFhiU0RSYjNFQkVFZ2ZMS0RUM3AwLUdxeEZSMDM?oc=5\" target=\"_blank\"\u003eHill Air Force Base assembles first-ever ‘Frankenjet’ from crashed F-35s, saving millions\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eKUTV\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOOEQtN1djM21CMWZPSl85a28wV3pBb0g5SDI0bHVYNHZCZWxYUUo4a3VqMlUtSEFGNUpONnVUZnBhOURoaW5qd2xkVnJDeDlVdEl4N1FpTkVWZnpRM0p0NXN1a3ZSWnh0ZXpiV3VQZFFBVFZhZW1oaXkzUks1aFpEUmliY0JMeExpYi1YRXJtblF0cHhUMm1tRWsyUW9KelNxbVZjQdIBqgFBVV95cUxQNkFiWnhjX1dXWGRPOHpOVHZNcE56U3hNQUxCdUVjNTByMXZOZTFRVUtyRmdhLUxDSlBHQXU3Xzd2cWEtM3AtaWs0OXFRR0FKR2xXVmg3QW11bTJ0ZnRVYkZwbXJnYzNOaWg1TXM3RHpuR3JNYlU2WXdYQ2ZQRWQzdXZaay1wd0dfWm5uOHdNS3ZsZHpYaHN6T21sUXZTbW9wTjNCWHJfYlhvdw?oc=5\" target=\"_blank\"\u003e\"Frankenjet\" stealth fighter made from 2 wrecked warplanes is now fully operational, Air Force says\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCBS News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPcDd5NDUzeTNIaW0yV2dsUnVvLUw3eUNLZGczN1gtNDVIdkhkVHhMZTNyc3JMbXI3YTVCR2FfY1MtTWMzZ3F4LVRFU3EtN3FKTWk3QndrYnRCdHFxZnZaaGlvWGZEb2dVdGdYN1E3aWRZU01RZUFQbHVlR2lLclM3Rnhxc0V0c3pGUy1lZm1QV2o?oc=5\" target=\"_blank\"\u003eNews - The Fully Operational “Frankenjet”: A Commitment to Innovation\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eDVIDS\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNb3l1WF9yUEhlTWZCYnNpUGRpZEp0bDJiSHYzSl8zZUNfS1JzTS1GeVVuMGpkRUV2VHNnWFZWZ2Z6eFdlVzdnanFwQ2FRWW9BV0dVVy1Mc3psaC1MbUZIcWZ1eTBpeTY4MW5MOFdRV1c0YXJ5NnRqSWVxTmFET2ctTnYxbmhJUTZocC11S283U1hBZGR6TWNoa1JJZ2JaU205UUpXUnBUOHZ0UjVUQ2c?oc=5\" target=\"_blank\"\u003eAir Force F-35A ‘Frankenjet’ returns to the skies\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAir Force Times\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZk1xZ0tWUTBUblVWTzhsdkl5Y19Del9BcjdNNUI3RlBfZGpYOTRKOWtSUy10SXR5MVl6MnpsamNjTG1DaDdhTW5EbXZ1RGtOTEJ4NVlra1JzWDJHeHlPeEdLbWxxNzRHdk1jcnhNVDZlV1hId3pYeDZLbndEQ25PbTc2R3FmYVo3Wm42VTRlTVZ3cC1ZVVVKN3lSLXAteDQ2ZmfSAZgBQVVfeXFMTWdRVG9KMXFyU3FyQmdKaE0xTHN2WnRqVlYtT1BlSDBoVGdycEhaRlh2aUpfeTNSaDl6YnBnRk92SHU1dnZ0dTlKYWdIWnFrRUNiZUp5RVlhUGVCb3h6NDFBazc2MC1mY3ZXUjhBaTJZX3paOVowbVBEWW4wNE5EanlkWnlMNVVBN2ZaVjZFRjRGczN5ZEJfNUg?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZk1xZ0tWUTBUblVWTzhsdkl5Y19Del9BcjdNNUI3RlBfZGpYOTRKOWtSUy10SXR5MVl6MnpsamNjTG1DaDdhTW5EbXZ1RGtOTEJ4NVlra1JzWDJHeHlPeEdLbWxxNzRHdk1jcnhNVDZlV1hId3pYeDZLbndEQ25PbTc2R3FmYVo3Wm42VTRlTVZ3cC1ZVVVKN3lSLXAteDQ2ZmfSAZgBQVVfeXFMTWdRVG9KMXFyU3FyQmdKaE0xTHN2WnRqVlYtT1BlSDBoVGdycEhaRlh2aUpfeTNSaDl6YnBnRk92SHU1dnZ0dTlKYWdIWnFrRUNiZUp5RVlhUGVCb3h6NDFBazc2MC1mY3ZXUjhBaTJZX3paOVowbVBEWW4wNE5EanlkWnlMNVVBN2ZaVjZFRjRGczN5ZEJfNUg?oc=5"
+         ],
+         "published": "Thu, 10 Apr 2025 04:51:00 GMT",
+         "publishedParsed": "2025-04-10T04:51:00Z",
+         "guid": "CBMiogFBVV95cUxQZk1xZ0tWUTBUblVWTzhsdkl5Y19Del9BcjdNNUI3RlBfZGpYOTRKOWtSUy10SXR5MVl6MnpsamNjTG1DaDdhTW5EbXZ1RGtOTEJ4NVlra1JzWDJHeHlPeEdLbWxxNzRHdk1jcnhNVDZlV1hId3pYeDZLbndEQ25PbTc2R3FmYVo3Wm42VTRlTVZ3cC1ZVVVKN3lSLXAteDQ2ZmfSAZgBQVVfeXFMTWdRVG9KMXFyU3FyQmdKaE0xTHN2WnRqVlYtT1BlSDBoVGdycEhaRlh2aUpfeTNSaDl6YnBnRk92SHU1dnZ0dTlKYWdIWnFrRUNiZUp5RVlhUGVCb3h6NDFBazc2MC1mY3ZXUjhBaTJZX3paOVowbVBEWW4wNE5EanlkWnlMNVVBN2ZaVjZFRjRGczN5ZEJfNUg"
+     },
+     {
+         "title": "Garfield Minus Garfield",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43646095\"\u003eComments\u003c/a\u003e",
+         "link": "https://garfieldminusgarfield.net",
+         "links": [
+             "https://garfieldminusgarfield.net"
+         ],
+         "published": "Thu, 10 Apr 2025 17:21:03 +0000",
+         "publishedParsed": "2025-04-10T17:21:03Z"
+     },
+     {
+         "title": "Big Book of R",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43646219\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bigbookofr.com/",
+         "links": [
+             "https://www.bigbookofr.com/"
+         ],
+         "published": "Thu, 10 Apr 2025 17:34:19 +0000",
+         "publishedParsed": "2025-04-10T17:34:19Z"
+     },
+     {
+         "title": "Demystifying the (Shebang): Kernel Adventures",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43646698\"\u003eComments\u003c/a\u003e",
+         "link": "https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/",
+         "links": [
+             "https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/"
+         ],
+         "published": "Thu, 10 Apr 2025 18:21:45 +0000",
+         "publishedParsed": "2025-04-10T18:21:45Z"
      },
      {
          "title": "Usability Improvements in GCC 15",
@@ -338,6 +630,26 @@
          "publishedParsed": "2025-04-10T14:03:54Z"
      },
      {
+         "title": "Controlling Language and Diffusion Models by Transporting Activations",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43646466\"\u003eComments\u003c/a\u003e",
+         "link": "https://machinelearning.apple.com/research/transporting-activations",
+         "links": [
+             "https://machinelearning.apple.com/research/transporting-activations"
+         ],
+         "published": "Thu, 10 Apr 2025 17:58:02 +0000",
+         "publishedParsed": "2025-04-10T17:58:02Z"
+     },
+     {
+         "title": "SDL2 for macOS 9 \"rough draft\"",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43645183\"\u003eComments\u003c/a\u003e",
+         "link": "https://macintoshgarden.org/apps/sdl2-macos-9-rough-draft",
+         "links": [
+             "https://macintoshgarden.org/apps/sdl2-macos-9-rough-draft"
+         ],
+         "published": "Thu, 10 Apr 2025 15:54:50 +0000",
+         "publishedParsed": "2025-04-10T15:54:50Z"
+     },
+     {
          "title": "Owning my own data, part 1: Integrating a self-hosted calendar solution",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43643343\"\u003eComments\u003c/a\u003e",
          "link": "https://emilygorcenski.com/post/owning-my-own-data-part-1-integrating-a-self-hosted-calendar-solution/",
@@ -346,6 +658,16 @@
          ],
          "published": "Thu, 10 Apr 2025 12:59:54 +0000",
          "publishedParsed": "2025-04-10T12:59:54Z"
+     },
+     {
+         "title": "Show HN: Koreo – The platform engineering toolkit for Kubernetes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43644351\"\u003eComments\u003c/a\u003e",
+         "link": "https://koreo.dev/",
+         "links": [
+             "https://koreo.dev/"
+         ],
+         "published": "Thu, 10 Apr 2025 14:48:20 +0000",
+         "publishedParsed": "2025-04-10T14:48:20Z"
      },
      {
          "title": "Hacker News Hug of Deaf",
@@ -358,34 +680,14 @@
          "publishedParsed": "2025-04-10T09:09:03Z"
      },
      {
-         "title": "The 2025 AI Index Report",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43644662\"\u003eComments\u003c/a\u003e",
-         "link": "https://hai.stanford.edu/ai-index/2025-ai-index-report",
+         "title": "Legion Health (YC S21) is hiring engineers to rebuild psychiatry with AI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43645901\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/legion-health/jobs/mqDWIWN-founding-engineer-build-ai-native-ops-for-mental-health-yc-s21-1m-arr",
          "links": [
-             "https://hai.stanford.edu/ai-index/2025-ai-index-report"
+             "https://www.ycombinator.com/companies/legion-health/jobs/mqDWIWN-founding-engineer-build-ai-native-ops-for-mental-health-yc-s21-1m-arr"
          ],
-         "published": "Thu, 10 Apr 2025 15:13:12 +0000",
-         "publishedParsed": "2025-04-10T15:13:12Z"
-     },
-     {
-         "title": "ELD: A new open-source embedded linker tool for embedded systems",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43644966\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.qualcomm.com/developer/blog/2025/04/eld-new-open-source-embedded-linker-tool-for-embedded-systems",
-         "links": [
-             "https://www.qualcomm.com/developer/blog/2025/04/eld-new-open-source-embedded-linker-tool-for-embedded-systems"
-         ],
-         "published": "Thu, 10 Apr 2025 15:34:45 +0000",
-         "publishedParsed": "2025-04-10T15:34:45Z"
-     },
-     {
-         "title": "Arroyo (YC W23) has been acquired by Cloudflare",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43643968\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.arroyo.dev/blog/arroyo-is-joining-cloudflare",
-         "links": [
-             "https://www.arroyo.dev/blog/arroyo-is-joining-cloudflare"
-         ],
-         "published": "Thu, 10 Apr 2025 14:12:44 +0000",
-         "publishedParsed": "2025-04-10T14:12:44Z"
+         "published": "Thu, 10 Apr 2025 17:01:11 +0000",
+         "publishedParsed": "2025-04-10T17:01:11Z"
      },
      {
          "title": "A surprising enum size optimization in the Rust compiler",
@@ -398,16 +700,6 @@
          "publishedParsed": "2025-04-07T22:30:45Z"
      },
      {
-         "title": "Elliptical Python Programming",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43643292\"\u003eComments\u003c/a\u003e",
-         "link": "https://susam.net/elliptical-python-programming.html",
-         "links": [
-             "https://susam.net/elliptical-python-programming.html"
-         ],
-         "published": "Thu, 10 Apr 2025 12:53:56 +0000",
-         "publishedParsed": "2025-04-10T12:53:56Z"
-     },
-     {
          "title": "Hunt for Red October 1990 (2016)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43641469\"\u003eComments\u003c/a\u003e",
          "link": "http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html",
@@ -418,54 +710,54 @@
          "publishedParsed": "2025-04-10T07:11:37Z"
      },
      {
-         "title": "smartfunc: Turn Docstrings into LLM-Functions",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43619884\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/koaning/smartfunc",
+         "title": "Colossus for Rapid Storage",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43639642\"\u003eComments\u003c/a\u003e",
+         "link": "https://cloud.google.com/blog/products/storage-data-transfer/how-the-colossus-stateful-protocol-benefits-rapid-storage",
          "links": [
-             "https://github.com/koaning/smartfunc"
+             "https://cloud.google.com/blog/products/storage-data-transfer/how-the-colossus-stateful-protocol-benefits-rapid-storage"
          ],
-         "published": "Tue, 08 Apr 2025 09:43:11 +0000",
-         "publishedParsed": "2025-04-08T09:43:11Z"
+         "published": "Thu, 10 Apr 2025 01:05:30 +0000",
+         "publishedParsed": "2025-04-10T01:05:30Z"
      },
      {
-         "title": "Show HN: Pledge – A Lightweight Reactive Framework for Swift (No Rx Overhead)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43641576\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/gokulnair2001/Pledge",
+         "title": "The Difference Between Municipal Fire Trucks and Airport Fire Trucks",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43608422\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.piercemfg.com/pierce/blog/difference-between-municipal-and-airport-fire-trucks",
          "links": [
-             "https://github.com/gokulnair2001/Pledge"
+             "https://www.piercemfg.com/pierce/blog/difference-between-municipal-and-airport-fire-trucks"
          ],
-         "published": "Thu, 10 Apr 2025 07:33:54 +0000",
-         "publishedParsed": "2025-04-10T07:33:54Z"
+         "published": "Mon, 07 Apr 2025 06:27:03 +0000",
+         "publishedParsed": "2025-04-07T06:27:03Z"
      },
      {
-         "title": "We Designed TigerBeetle's Docs from Scratch",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43610566\"\u003eComments\u003c/a\u003e",
-         "link": "https://tigerbeetle.com/blog/2025-02-27-why-we-designed-tigerbeetles-docs-from-scratch/",
+         "title": "Arroyo (YC W23) has been acquired by Cloudflare",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43643968\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.arroyo.dev/blog/arroyo-is-joining-cloudflare",
          "links": [
-             "https://tigerbeetle.com/blog/2025-02-27-why-we-designed-tigerbeetles-docs-from-scratch/"
+             "https://www.arroyo.dev/blog/arroyo-is-joining-cloudflare"
          ],
-         "published": "Mon, 07 Apr 2025 12:35:03 +0000",
-         "publishedParsed": "2025-04-07T12:35:03Z"
+         "published": "Thu, 10 Apr 2025 14:12:44 +0000",
+         "publishedParsed": "2025-04-10T14:12:44Z"
      },
      {
-         "title": "TVMC: Time-Varying Mesh Compression",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43643441\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/SINRG-Lab/TVMC",
+         "title": "Elliptical Python Programming",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43643292\"\u003eComments\u003c/a\u003e",
+         "link": "https://susam.net/elliptical-python-programming.html",
          "links": [
-             "https://github.com/SINRG-Lab/TVMC"
+             "https://susam.net/elliptical-python-programming.html"
          ],
-         "published": "Thu, 10 Apr 2025 13:13:34 +0000",
-         "publishedParsed": "2025-04-10T13:13:34Z"
+         "published": "Thu, 10 Apr 2025 12:53:56 +0000",
+         "publishedParsed": "2025-04-10T12:53:56Z"
      },
      {
-         "title": "Native frame transposition coming to Emacs 31",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43619437\"\u003eComments\u003c/a\u003e",
-         "link": "https://p.bauherren.ovh/blog/tech/new_window_cmds",
+         "title": "Blue Shield Data Breach (Google Ads)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43645331\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.blueshieldca.com/notice-of-data-breach",
          "links": [
-             "https://p.bauherren.ovh/blog/tech/new_window_cmds"
+             "https://news.blueshieldca.com/notice-of-data-breach"
          ],
-         "published": "Tue, 08 Apr 2025 08:10:06 +0000",
-         "publishedParsed": "2025-04-08T08:10:06Z"
+         "published": "Thu, 10 Apr 2025 16:09:12 +0000",
+         "publishedParsed": "2025-04-10T16:09:12Z"
      },
      {
          "title": "Busy Bar",
@@ -478,24 +770,64 @@
          "publishedParsed": "2025-04-10T13:23:58Z"
      },
      {
-         "title": ".localhost Domains",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43644043\"\u003eComments\u003c/a\u003e",
-         "link": "https://inclouds.space/localhost-domains",
+         "title": "Why Tap a Wheel of Cheese?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43644970\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cheeseprofessor.com/blog/cheese-wheel-tapping",
          "links": [
-             "https://inclouds.space/localhost-domains"
+             "https://www.cheeseprofessor.com/blog/cheese-wheel-tapping"
          ],
-         "published": "Thu, 10 Apr 2025 14:19:06 +0000",
-         "publishedParsed": "2025-04-10T14:19:06Z"
+         "published": "Thu, 10 Apr 2025 15:35:04 +0000",
+         "publishedParsed": "2025-04-10T15:35:04Z"
      },
      {
-         "title": "Learning to Program with Haiku",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43640403\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.haiku-os.org/development/learning_to_program_with_haiku",
+         "title": "We Designed TigerBeetle's Docs from Scratch",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43610566\"\u003eComments\u003c/a\u003e",
+         "link": "https://tigerbeetle.com/blog/2025-02-27-why-we-designed-tigerbeetles-docs-from-scratch/",
          "links": [
-             "https://www.haiku-os.org/development/learning_to_program_with_haiku"
+             "https://tigerbeetle.com/blog/2025-02-27-why-we-designed-tigerbeetles-docs-from-scratch/"
          ],
-         "published": "Thu, 10 Apr 2025 03:41:49 +0000",
-         "publishedParsed": "2025-04-10T03:41:49Z"
+         "published": "Mon, 07 Apr 2025 12:35:03 +0000",
+         "publishedParsed": "2025-04-07T12:35:03Z"
+     },
+     {
+         "title": "smartfunc: Turn Docstrings into LLM-Functions",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43619884\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/koaning/smartfunc",
+         "links": [
+             "https://github.com/koaning/smartfunc"
+         ],
+         "published": "Tue, 08 Apr 2025 09:43:11 +0000",
+         "publishedParsed": "2025-04-08T09:43:11Z"
+     },
+     {
+         "title": "Isaac Asimov describes how AI will liberate humans and their creativity (1992)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43644179\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html",
+         "links": [
+             "https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html"
+         ],
+         "published": "Thu, 10 Apr 2025 14:30:54 +0000",
+         "publishedParsed": "2025-04-10T14:30:54Z"
+     },
+     {
+         "title": "Native frame transposition coming to Emacs 31",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43619437\"\u003eComments\u003c/a\u003e",
+         "link": "https://p.bauherren.ovh/blog/tech/new_window_cmds",
+         "links": [
+             "https://p.bauherren.ovh/blog/tech/new_window_cmds"
+         ],
+         "published": "Tue, 08 Apr 2025 08:10:06 +0000",
+         "publishedParsed": "2025-04-08T08:10:06Z"
+     },
+     {
+         "title": "\"The Form of a Demon and the Heart of a Person\"",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43618286\"\u003eComments\u003c/a\u003e",
+         "link": "https://publicdomainreview.org/collection/yamauba-and-kintaro/",
+         "links": [
+             "https://publicdomainreview.org/collection/yamauba-and-kintaro/"
+         ],
+         "published": "Tue, 08 Apr 2025 04:12:07 +0000",
+         "publishedParsed": "2025-04-08T04:12:07Z"
      },
      {
          "title": "Sleep is essential – researchers are trying to work out why",
@@ -518,103 +850,43 @@
          "publishedParsed": "2025-04-10T12:39:34Z"
      },
      {
-         "title": "Saturn's moon Titan could harbor life, but only a tiny amount",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43616173\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.arizona.edu/news/saturns-moon-titan-could-harbor-life-only-tiny-amount-study-finds",
+         "title": "Show HN: Pledge – A Lightweight Reactive Framework for Swift (No Rx Overhead)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43641576\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/gokulnair2001/Pledge",
          "links": [
-             "https://news.arizona.edu/news/saturns-moon-titan-could-harbor-life-only-tiny-amount-study-finds"
+             "https://github.com/gokulnair2001/Pledge"
          ],
-         "published": "Mon, 07 Apr 2025 21:31:09 +0000",
-         "publishedParsed": "2025-04-07T21:31:09Z"
+         "published": "Thu, 10 Apr 2025 07:33:54 +0000",
+         "publishedParsed": "2025-04-10T07:33:54Z"
      },
      {
-         "title": "Cells are swapping their mitochondria. What does this mean for our health?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43627917\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nature.com/articles/d41586-025-01064-5",
+         "title": "TVMC: Time-Varying Mesh Compression",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43643441\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/SINRG-Lab/TVMC",
          "links": [
-             "https://www.nature.com/articles/d41586-025-01064-5"
+             "https://github.com/SINRG-Lab/TVMC"
          ],
-         "published": "Wed, 09 Apr 2025 00:55:31 +0000",
-         "publishedParsed": "2025-04-09T00:55:31Z"
+         "published": "Thu, 10 Apr 2025 13:13:34 +0000",
+         "publishedParsed": "2025-04-10T13:13:34Z"
      },
      {
-         "title": "Photographs of 19th Century Japan",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43631251\"\u003eComments\u003c/a\u003e",
-         "link": "https://cosmographia.substack.com/p/photographs-of-old-japan",
+         "title": ".localhost Domains",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43644043\"\u003eComments\u003c/a\u003e",
+         "link": "https://inclouds.space/localhost-domains",
          "links": [
-             "https://cosmographia.substack.com/p/photographs-of-old-japan"
+             "https://inclouds.space/localhost-domains"
          ],
-         "published": "Wed, 09 Apr 2025 12:20:06 +0000",
-         "publishedParsed": "2025-04-09T12:20:06Z"
+         "published": "Thu, 10 Apr 2025 14:19:06 +0000",
+         "publishedParsed": "2025-04-10T14:19:06Z"
      },
      {
-         "title": "Telli (YC F24) is hiring founding engineers in Berlin, Germany (on-site)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43641407\"\u003eComments\u003c/a\u003e",
-         "link": "http://hi.telli.com/eng",
+         "title": "Learning to Program with Haiku",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43640403\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.haiku-os.org/development/learning_to_program_with_haiku",
          "links": [
-             "http://hi.telli.com/eng"
+             "https://www.haiku-os.org/development/learning_to_program_with_haiku"
          ],
-         "published": "Thu, 10 Apr 2025 07:00:35 +0000",
-         "publishedParsed": "2025-04-10T07:00:35Z"
-     },
-     {
-         "title": "GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43635295\"\u003eComments\u003c/a\u003e",
-         "link": "https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/",
-         "links": [
-             "https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/"
-         ],
-         "published": "Wed, 09 Apr 2025 18:07:14 +0000",
-         "publishedParsed": "2025-04-09T18:07:14Z"
-     },
-     {
-         "title": "How University Students Use Claude",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43633383\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude",
-         "links": [
-             "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude"
-         ],
-         "published": "Wed, 09 Apr 2025 15:41:38 +0000",
-         "publishedParsed": "2025-04-09T15:41:38Z"
-     },
-     {
-         "title": "The next generation of Bazel builds",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43601356\"\u003eComments\u003c/a\u003e",
-         "link": "https://blogsystem5.substack.com/p/bazel-next-generation",
-         "links": [
-             "https://blogsystem5.substack.com/p/bazel-next-generation"
-         ],
-         "published": "Sun, 06 Apr 2025 13:40:56 +0000",
-         "publishedParsed": "2025-04-06T13:40:56Z"
-     },
-     {
-         "title": "Firebase Studio",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43635783\"\u003eComments\u003c/a\u003e",
-         "link": "https://firebase.studio",
-         "links": [
-             "https://firebase.studio"
-         ],
-         "published": "Wed, 09 Apr 2025 18:39:03 +0000",
-         "publishedParsed": "2025-04-09T18:39:03Z"
-     },
-     {
-         "title": "Google Cloud Rapid Storage",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43639642\"\u003eComments\u003c/a\u003e",
-         "link": "https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer",
-         "links": [
-             "https://cloud.google.com/blog/products/compute/whats-new-with-ai-hypercomputer"
-         ],
-         "published": "Thu, 10 Apr 2025 01:05:30 +0000",
-         "publishedParsed": "2025-04-10T01:05:30Z"
-     },
-     {
-         "title": "Design System Options for Rails",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43640480\"\u003eComments\u003c/a\u003e",
-         "link": "https://businessclasskit.com/blog/design-system-options-for-rails",
-         "links": [
-             "https://businessclasskit.com/blog/design-system-options-for-rails"
-         ],
-         "published": "Thu, 10 Apr 2025 03:55:07 +0000",
-         "publishedParsed": "2025-04-10T03:55:07Z"
+         "published": "Thu, 10 Apr 2025 03:41:49 +0000",
+         "publishedParsed": "2025-04-10T03:41:49Z"
      }
  ]
