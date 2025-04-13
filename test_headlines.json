@@ -1,15 +1,5 @@
 [
      {
-         "title": "The Dark Side of the Moomins",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43672593\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson",
-         "links": [
-             "https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson"
-         ],
-         "published": "Sun, 13 Apr 2025 13:15:57 +0000",
-         "publishedParsed": "2025-04-13T13:15:57Z"
-     },
-     {
          "title": "Skywork-OR1: new SOTA 32B thinking model with open weight",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43673151\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/SkyworkAI/Skywork-OR1",
@@ -20,14 +10,24 @@
          "publishedParsed": "2025-04-13T14:42:16Z"
      },
      {
-         "title": "Wasting Inferences with Aider",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43672712\"\u003eComments\u003c/a\u003e",
-         "link": "https://worksonmymachine.substack.com/p/wasting-inferences-with-aider",
+         "title": "Why Fennel?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43673551\"\u003eComments\u003c/a\u003e",
+         "link": "https://fennel-lang.org/rationale",
          "links": [
-             "https://worksonmymachine.substack.com/p/wasting-inferences-with-aider"
+             "https://fennel-lang.org/rationale"
          ],
-         "published": "Sun, 13 Apr 2025 13:36:17 +0000",
-         "publishedParsed": "2025-04-13T13:36:17Z"
+         "published": "Sun, 13 Apr 2025 15:37:05 +0000",
+         "publishedParsed": "2025-04-13T15:37:05Z"
+     },
+     {
+         "title": "The Dark Side of the Moomins",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43672593\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson",
+         "links": [
+             "https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson"
+         ],
+         "published": "Sun, 13 Apr 2025 13:15:57 +0000",
+         "publishedParsed": "2025-04-13T13:15:57Z"
      },
      {
          "title": "Whenever – typed and DST-safe datetimes for Python",
@@ -40,26 +40,6 @@
          "publishedParsed": "2025-04-13T09:12:19Z"
      },
      {
-         "title": "Cargo-mutants:zombie: Inject bugs and see if your tests catch them",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43647605\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/sourcefrog/cargo-mutants",
-         "links": [
-             "https://github.com/sourcefrog/cargo-mutants"
-         ],
-         "published": "Thu, 10 Apr 2025 20:10:14 +0000",
-         "publishedParsed": "2025-04-10T20:10:14Z"
-     },
-     {
-         "title": "Philip K. Dick: Stanisław Lem Is a Communist Committee",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43660520\"\u003eComments\u003c/a\u003e",
-         "link": "https://culture.pl/en/article/philip-k-dick-stanislaw-lem-is-a-communist-committee",
-         "links": [
-             "https://culture.pl/en/article/philip-k-dick-stanislaw-lem-is-a-communist-committee"
-         ],
-         "published": "Sat, 12 Apr 2025 01:31:45 +0000",
-         "publishedParsed": "2025-04-12T01:31:45Z"
-     },
-     {
          "title": "A tricky Commodore PET repair: tracking down 6 1/2 bad chips",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43673862\"\u003eComments\u003c/a\u003e",
          "link": "http://www.righto.com/2025/04/commodore-pet-repair.html",
@@ -70,24 +50,34 @@
          "publishedParsed": "2025-04-13T16:15:00Z"
      },
      {
-         "title": "Compute's Gazette Magazine Returns After 35 Yrs, Will Focus on Retro Computing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43671861\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.computesgazette.com/",
+         "title": "Wasting Inferences with Aider",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43672712\"\u003eComments\u003c/a\u003e",
+         "link": "https://worksonmymachine.substack.com/p/wasting-inferences-with-aider",
          "links": [
-             "https://www.computesgazette.com/"
+             "https://worksonmymachine.substack.com/p/wasting-inferences-with-aider"
          ],
-         "published": "Sun, 13 Apr 2025 11:01:16 +0000",
-         "publishedParsed": "2025-04-13T11:01:16Z"
+         "published": "Sun, 13 Apr 2025 13:36:17 +0000",
+         "publishedParsed": "2025-04-13T13:36:17Z"
      },
      {
-         "title": "BPS is a GPS alternative that nobody's heard of",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43669308\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard",
+         "title": "Cargo-mutants:zombie: Inject bugs and see if your tests catch them",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43647605\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/sourcefrog/cargo-mutants",
          "links": [
-             "https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard"
+             "https://github.com/sourcefrog/cargo-mutants"
          ],
-         "published": "Sun, 13 Apr 2025 01:31:38 +0000",
-         "publishedParsed": "2025-04-13T01:31:38Z"
+         "published": "Thu, 10 Apr 2025 20:10:14 +0000",
+         "publishedParsed": "2025-04-10T20:10:14Z"
+     },
+     {
+         "title": "The Secret History of the Manicule, the Little Hand That's Everywhere",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43639617\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.messynessychic.com/2025/03/07/the-secret-history-of-the-manicule-little-hand-thats-everywhere/",
+         "links": [
+             "https://www.messynessychic.com/2025/03/07/the-secret-history-of-the-manicule-little-hand-thats-everywhere/"
+         ],
+         "published": "Thu, 10 Apr 2025 01:01:43 +0000",
+         "publishedParsed": "2025-04-10T01:01:43Z"
      },
      {
          "title": "AMD NPU and Xilinx Versal AI Engines Signal Processing in Radio Astronomy (2024) [pdf]",
@@ -100,6 +90,26 @@
          "publishedParsed": "2025-04-13T11:16:18Z"
      },
      {
+         "title": "BPS is a GPS alternative that nobody's heard of",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43669308\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard",
+         "links": [
+             "https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard"
+         ],
+         "published": "Sun, 13 Apr 2025 01:31:38 +0000",
+         "publishedParsed": "2025-04-13T01:31:38Z"
+     },
+     {
+         "title": "More than 1,500 new fonts – including all-time favorites – come to Adobe Fonts",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43634853\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.adobe.com/en/publish/2025/04/08/more-than-1500-new-fonts-including-all-time-favorites-come-to-adobe-fonts",
+         "links": [
+             "https://blog.adobe.com/en/publish/2025/04/08/more-than-1500-new-fonts-including-all-time-favorites-come-to-adobe-fonts"
+         ],
+         "published": "Wed, 09 Apr 2025 17:33:05 +0000",
+         "publishedParsed": "2025-04-09T17:33:05Z"
+     },
+     {
          "title": "Show HN: Chonky – a neural approach for text semantic chunking",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43652968\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/mirth/chonky",
@@ -110,14 +120,14 @@
          "publishedParsed": "2025-04-11T12:18:39Z"
      },
      {
-         "title": "Fake images that fooled the world",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43662339\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world",
+         "title": "Compute's Gazette Magazine Returns After 35 Yrs, Will Focus on Retro Computing",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43671861\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.computesgazette.com/",
          "links": [
-             "https://www.theguardian.com/artanddesign/2025/apr/12/28-fake-images-that-fooled-the-world"
+             "https://www.computesgazette.com/"
          ],
-         "published": "Sat, 12 Apr 2025 07:56:52 +0000",
-         "publishedParsed": "2025-04-12T07:56:52Z"
+         "published": "Sun, 13 Apr 2025 11:01:16 +0000",
+         "publishedParsed": "2025-04-13T11:01:16Z"
      },
      {
          "title": "Nice things with SVG",
@@ -130,84 +140,14 @@
          "publishedParsed": "2025-04-12T17:40:09Z"
      },
      {
-         "title": "Making SNES ROMs using C#",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43673011\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.reddit.com/r/dotnet/s/fhm4TUNhlX",
+         "title": "Using bad hardware: why I work in the terminal (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43673262\"\u003eComments\u003c/a\u003e",
+         "link": "https://colean.cc/journal/2024/08sep.html",
          "links": [
-             "https://www.reddit.com/r/dotnet/s/fhm4TUNhlX"
+             "https://colean.cc/journal/2024/08sep.html"
          ],
-         "published": "Sun, 13 Apr 2025 14:21:48 +0000",
-         "publishedParsed": "2025-04-13T14:21:48Z"
-     },
-     {
-         "title": "Nominal Aphasia: Problems in Name Retrieval",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43648536\"\u003eComments\u003c/a\u003e",
-         "link": "https://serendipstudio.org/exchange/darlene-forde/nominal-aphasia-problems-name-retrieval",
-         "links": [
-             "https://serendipstudio.org/exchange/darlene-forde/nominal-aphasia-problems-name-retrieval"
-         ],
-         "published": "Thu, 10 Apr 2025 22:12:47 +0000",
-         "publishedParsed": "2025-04-10T22:12:47Z"
-     },
-     {
-         "title": "WebTUI – A CSS Library That Brings the Beauty of Terminal UIs to the Browser",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43668250\"\u003eComments\u003c/a\u003e",
-         "link": "https://webtui.ironclad.sh",
-         "links": [
-             "https://webtui.ironclad.sh"
-         ],
-         "published": "Sat, 12 Apr 2025 22:02:58 +0000",
-         "publishedParsed": "2025-04-12T22:02:58Z"
-     },
-     {
-         "title": "Why Pascal Is Not My Favorite Programming Language (1981) [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43672975\"\u003eComments\u003c/a\u003e",
-         "link": "https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf",
-         "links": [
-             "https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf"
-         ],
-         "published": "Sun, 13 Apr 2025 14:16:20 +0000",
-         "publishedParsed": "2025-04-13T14:16:20Z"
-     },
-     {
-         "title": "Telling the Bees",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43636948\"\u003eComments\u003c/a\u003e",
-         "link": "https://emergencemagazine.org/essay/telling-the-bees/",
-         "links": [
-             "https://emergencemagazine.org/essay/telling-the-bees/"
-         ],
-         "published": "Wed, 09 Apr 2025 19:49:37 +0000",
-         "publishedParsed": "2025-04-09T19:49:37Z"
-     },
-     {
-         "title": "How I install personal versions of programs on Unix",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43662031\"\u003eComments\u003c/a\u003e",
-         "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MyPersonalProgramsSetup",
-         "links": [
-             "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MyPersonalProgramsSetup"
-         ],
-         "published": "Sat, 12 Apr 2025 07:01:56 +0000",
-         "publishedParsed": "2025-04-12T07:01:56Z"
-     },
-     {
-         "title": "How to not build a two stage model rocket",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43669981\"\u003eComments\u003c/a\u003e",
-         "link": "https://knowone08.gitbook.io/vgecrocketry",
-         "links": [
-             "https://knowone08.gitbook.io/vgecrocketry"
-         ],
-         "published": "Sun, 13 Apr 2025 04:00:28 +0000",
-         "publishedParsed": "2025-04-13T04:00:28Z"
-     },
-     {
-         "title": "Osprey – Browser extension that protects you from malicious websites",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43671871\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Foulest/Osprey",
-         "links": [
-             "https://github.com/Foulest/Osprey"
-         ],
-         "published": "Sun, 13 Apr 2025 11:03:41 +0000",
-         "publishedParsed": "2025-04-13T11:03:41Z"
+         "published": "Sun, 13 Apr 2025 14:57:37 +0000",
+         "publishedParsed": "2025-04-13T14:57:37Z"
      },
      {
          "title": "RNA interference and nanomedicine team up to fight dangerous fungal infections",
@@ -220,24 +160,34 @@
          "publishedParsed": "2025-04-10T17:03:37Z"
      },
      {
-         "title": "Experimental release of GrapheneOS for Pixel 9a",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43669185\"\u003eComments\u003c/a\u003e",
-         "link": "https://grapheneos.social/@GrapheneOS/114327666433966529",
+         "title": "WebTUI – A CSS Library That Brings the Beauty of Terminal UIs to the Browser",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43668250\"\u003eComments\u003c/a\u003e",
+         "link": "https://webtui.ironclad.sh",
          "links": [
-             "https://grapheneos.social/@GrapheneOS/114327666433966529"
+             "https://webtui.ironclad.sh"
          ],
-         "published": "Sun, 13 Apr 2025 01:05:31 +0000",
-         "publishedParsed": "2025-04-13T01:05:31Z"
+         "published": "Sat, 12 Apr 2025 22:02:58 +0000",
+         "publishedParsed": "2025-04-12T22:02:58Z"
      },
      {
-         "title": "Emacs Lisp Elements",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43665046\"\u003eComments\u003c/a\u003e",
-         "link": "https://protesilaos.com/emacs/emacs-lisp-elements",
+         "title": "Nominal Aphasia: Problems in Name Retrieval",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43648536\"\u003eComments\u003c/a\u003e",
+         "link": "https://serendipstudio.org/exchange/darlene-forde/nominal-aphasia-problems-name-retrieval",
          "links": [
-             "https://protesilaos.com/emacs/emacs-lisp-elements"
+             "https://serendipstudio.org/exchange/darlene-forde/nominal-aphasia-problems-name-retrieval"
          ],
-         "published": "Sat, 12 Apr 2025 15:09:14 +0000",
-         "publishedParsed": "2025-04-12T15:09:14Z"
+         "published": "Thu, 10 Apr 2025 22:12:47 +0000",
+         "publishedParsed": "2025-04-10T22:12:47Z"
+     },
+     {
+         "title": "How to not build a two stage model rocket",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43669981\"\u003eComments\u003c/a\u003e",
+         "link": "https://knowone08.gitbook.io/vgecrocketry",
+         "links": [
+             "https://knowone08.gitbook.io/vgecrocketry"
+         ],
+         "published": "Sun, 13 Apr 2025 04:00:28 +0000",
+         "publishedParsed": "2025-04-13T04:00:28Z"
      },
      {
          "title": "I ditched my laptop for a pocketable mini PC and a pair of AR glasses",
@@ -250,6 +200,76 @@
          "publishedParsed": "2025-04-12T21:50:39Z"
      },
      {
+         "title": "Emacs Lisp Elements",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43665046\"\u003eComments\u003c/a\u003e",
+         "link": "https://protesilaos.com/emacs/emacs-lisp-elements",
+         "links": [
+             "https://protesilaos.com/emacs/emacs-lisp-elements"
+         ],
+         "published": "Sat, 12 Apr 2025 15:09:14 +0000",
+         "publishedParsed": "2025-04-12T15:09:14Z"
+     },
+     {
+         "title": "Making SNES ROMs using C#",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43673011\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.reddit.com/r/dotnet/s/fhm4TUNhlX",
+         "links": [
+             "https://www.reddit.com/r/dotnet/s/fhm4TUNhlX"
+         ],
+         "published": "Sun, 13 Apr 2025 14:21:48 +0000",
+         "publishedParsed": "2025-04-13T14:21:48Z"
+     },
+     {
+         "title": "How I install personal versions of programs on Unix",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43662031\"\u003eComments\u003c/a\u003e",
+         "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MyPersonalProgramsSetup",
+         "links": [
+             "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MyPersonalProgramsSetup"
+         ],
+         "published": "Sat, 12 Apr 2025 07:01:56 +0000",
+         "publishedParsed": "2025-04-12T07:01:56Z"
+     },
+     {
+         "title": "Tesla Releases Stripped RWD Cybertruck: So Much Worse for Not Much Less Money",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43673235\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.jalopnik.com/1832213/tesla-releases-cheaper-rwd-cybertruck/",
+         "links": [
+             "https://www.jalopnik.com/1832213/tesla-releases-cheaper-rwd-cybertruck/"
+         ],
+         "published": "Sun, 13 Apr 2025 14:55:02 +0000",
+         "publishedParsed": "2025-04-13T14:55:02Z"
+     },
+     {
+         "title": "Telling the Bees",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43636948\"\u003eComments\u003c/a\u003e",
+         "link": "https://emergencemagazine.org/essay/telling-the-bees/",
+         "links": [
+             "https://emergencemagazine.org/essay/telling-the-bees/"
+         ],
+         "published": "Wed, 09 Apr 2025 19:49:37 +0000",
+         "publishedParsed": "2025-04-09T19:49:37Z"
+     },
+     {
+         "title": "Please Don't Sell Space in Your Homelab (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43674267\"\u003eComments\u003c/a\u003e",
+         "link": "https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/",
+         "links": [
+             "https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/"
+         ],
+         "published": "Sun, 13 Apr 2025 17:13:09 +0000",
+         "publishedParsed": "2025-04-13T17:13:09Z"
+     },
+     {
+         "title": "How much oranger do red orange bags make oranges look?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43673761\"\u003eComments\u003c/a\u003e",
+         "link": "https://alexanderell.is/posts/orange/",
+         "links": [
+             "https://alexanderell.is/posts/orange/"
+         ],
+         "published": "Sun, 13 Apr 2025 16:02:28 +0000",
+         "publishedParsed": "2025-04-13T16:02:28Z"
+     },
+     {
          "title": "Why is there a “small house” in IBM's Code page 437?",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43667010\"\u003eComments\u003c/a\u003e",
          "link": "https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/",
@@ -260,43 +280,13 @@
          "publishedParsed": "2025-04-12T18:55:17Z"
      },
      {
-         "title": "Cross-Entropy and KL Divergence",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43670171\"\u003eComments\u003c/a\u003e",
-         "link": "https://eli.thegreenplace.net/2025/cross-entropy-and-kl-divergence/",
+         "title": "Experimental release of GrapheneOS for Pixel 9a",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43669185\"\u003eComments\u003c/a\u003e",
+         "link": "https://grapheneos.social/@GrapheneOS/114327666433966529",
          "links": [
-             "https://eli.thegreenplace.net/2025/cross-entropy-and-kl-divergence/"
+             "https://grapheneos.social/@GrapheneOS/114327666433966529"
          ],
-         "published": "Sun, 13 Apr 2025 04:48:48 +0000",
-         "publishedParsed": "2025-04-13T04:48:48Z"
-     },
-     {
-         "title": "Show HN: memEx, a personal knowledge base inspired by zettlekasten and org-mode",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43667061\"\u003eComments\u003c/a\u003e",
-         "link": "https://gitea.bubbletea.dev/shibao/memex",
-         "links": [
-             "https://gitea.bubbletea.dev/shibao/memex"
-         ],
-         "published": "Sat, 12 Apr 2025 19:02:26 +0000",
-         "publishedParsed": "2025-04-12T19:02:26Z"
-     },
-     {
-         "title": "Hunter-gatherer sea voyages extended to remotest Mediterranean islands",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43673575\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nature.com/articles/s41586-025-08780-y",
-         "links": [
-             "https://www.nature.com/articles/s41586-025-08780-y"
-         ],
-         "published": "Sun, 13 Apr 2025 15:40:21 +0000",
-         "publishedParsed": "2025-04-13T15:40:21Z"
-     },
-     {
-         "title": "The Bitter Prediction",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43662686\"\u003eComments\u003c/a\u003e",
-         "link": "https://4zm.org/2025/04/05/bitter-prediction.html",
-         "links": [
-             "https://4zm.org/2025/04/05/bitter-prediction.html"
-         ],
-         "published": "Sat, 12 Apr 2025 09:05:32 +0000",
-         "publishedParsed": "2025-04-12T09:05:32Z"
+         "published": "Sun, 13 Apr 2025 01:05:31 +0000",
+         "publishedParsed": "2025-04-13T01:05:31Z"
      }
  ]
