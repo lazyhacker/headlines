@@ -1,15 +1,5 @@
 [
      {
-         "title": "Writing my own dithering algorithm in Racket",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43675309\"\u003eComments\u003c/a\u003e",
-         "link": "https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket",
-         "links": [
-             "https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket"
-         ],
-         "published": "Sun, 13 Apr 2025 19:43:03 +0000",
-         "publishedParsed": "2025-04-13T19:43:03Z"
-     },
-     {
          "title": "Open guide to equity compensation",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43675126\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/jlevy/og-equity-compensation",
@@ -20,6 +10,16 @@
          "publishedParsed": "2025-04-13T19:13:37Z"
      },
      {
+         "title": "Writing my own dithering algorithm in Racket",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43675309\"\u003eComments\u003c/a\u003e",
+         "link": "https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket",
+         "links": [
+             "https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket"
+         ],
+         "published": "Sun, 13 Apr 2025 19:43:03 +0000",
+         "publishedParsed": "2025-04-13T19:43:03Z"
+     },
+     {
          "title": "Why Fennel?",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43673551\"\u003eComments\u003c/a\u003e",
          "link": "https://fennel-lang.org/rationale",
@@ -28,6 +28,16 @@
          ],
          "published": "Sun, 13 Apr 2025 15:37:05 +0000",
          "publishedParsed": "2025-04-13T15:37:05Z"
+     },
+     {
+         "title": "An Introduction to Abstract Mathematics [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43675310\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.math.uci.edu/~ndonalds/math13/notes.pdf",
+         "links": [
+             "https://www.math.uci.edu/~ndonalds/math13/notes.pdf"
+         ],
+         "published": "Sun, 13 Apr 2025 19:43:11 +0000",
+         "publishedParsed": "2025-04-13T19:43:11Z"
      },
      {
          "title": "Mistakes and cool things to do with arena allocators",
@@ -50,16 +60,6 @@
          "publishedParsed": "2025-04-13T13:15:57Z"
      },
      {
-         "title": "Peering into the Linux Kernel with Trace",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43663817\"\u003eComments\u003c/a\u003e",
-         "link": "https://alexdowad.github.io/peering-in-the-kernel-with-trace/",
-         "links": [
-             "https://alexdowad.github.io/peering-in-the-kernel-with-trace/"
-         ],
-         "published": "Sat, 12 Apr 2025 12:29:48 +0000",
-         "publishedParsed": "2025-04-12T12:29:48Z"
-     },
-     {
          "title": "Exwm: Emacs X Window Manager",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43674233\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/emacs-exwm/exwm",
@@ -68,6 +68,16 @@
          ],
          "published": "Sun, 13 Apr 2025 17:08:49 +0000",
          "publishedParsed": "2025-04-13T17:08:49Z"
+     },
+     {
+         "title": "Implementing DeepSeek R1's GRPO algorithm from scratch",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43674825\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/policy-gradient/GRPO-Zero",
+         "links": [
+             "https://github.com/policy-gradient/GRPO-Zero"
+         ],
+         "published": "Sun, 13 Apr 2025 18:33:05 +0000",
+         "publishedParsed": "2025-04-13T18:33:05Z"
      },
      {
          "title": "Wasting Inferences with Aider",
@@ -80,6 +90,26 @@
          "publishedParsed": "2025-04-13T13:36:17Z"
      },
      {
+         "title": "Whenever – typed and DST-safe datetimes for Python",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43671308\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/ariebovenberg/whenever",
+         "links": [
+             "https://github.com/ariebovenberg/whenever"
+         ],
+         "published": "Sun, 13 Apr 2025 09:12:19 +0000",
+         "publishedParsed": "2025-04-13T09:12:19Z"
+     },
+     {
+         "title": "Peering into the Linux Kernel with Trace",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43663817\"\u003eComments\u003c/a\u003e",
+         "link": "https://alexdowad.github.io/peering-in-the-kernel-with-trace/",
+         "links": [
+             "https://alexdowad.github.io/peering-in-the-kernel-with-trace/"
+         ],
+         "published": "Sat, 12 Apr 2025 12:29:48 +0000",
+         "publishedParsed": "2025-04-12T12:29:48Z"
+     },
+     {
          "title": "A tricky Commodore PET repair: tracking down 6 1/2 bad chips",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43673862\"\u003eComments\u003c/a\u003e",
          "link": "http://www.righto.com/2025/04/commodore-pet-repair.html",
@@ -90,14 +120,14 @@
          "publishedParsed": "2025-04-13T16:15:00Z"
      },
      {
-         "title": "Whenever – typed and DST-safe datetimes for Python",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43671308\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/ariebovenberg/whenever",
+         "title": "GeoDeep's AI Detection on Maxar's Satellite Imagery",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43653078\"\u003eComments\u003c/a\u003e",
+         "link": "https://tech.marksblogg.com/geodeep-maxar-ai-detection.html",
          "links": [
-             "https://github.com/ariebovenberg/whenever"
+             "https://tech.marksblogg.com/geodeep-maxar-ai-detection.html"
          ],
-         "published": "Sun, 13 Apr 2025 09:12:19 +0000",
-         "publishedParsed": "2025-04-13T09:12:19Z"
+         "published": "Fri, 11 Apr 2025 12:34:31 +0000",
+         "publishedParsed": "2025-04-11T12:34:31Z"
      },
      {
          "title": "How much oranger do red orange bags make oranges look?",
@@ -110,16 +140,6 @@
          "publishedParsed": "2025-04-13T16:02:28Z"
      },
      {
-         "title": "Skywork-OR1: new SOTA 32B thinking model with open weight",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43673151\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/SkyworkAI/Skywork-OR1",
-         "links": [
-             "https://github.com/SkyworkAI/Skywork-OR1"
-         ],
-         "published": "Sun, 13 Apr 2025 14:42:16 +0000",
-         "publishedParsed": "2025-04-13T14:42:16Z"
-     },
-     {
          "title": "Cargo-mutants:zombie: Inject bugs and see if your tests catch them",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43647605\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/sourcefrog/cargo-mutants",
@@ -128,26 +148,6 @@
          ],
          "published": "Thu, 10 Apr 2025 20:10:14 +0000",
          "publishedParsed": "2025-04-10T20:10:14Z"
-     },
-     {
-         "title": "An Introduction to Abstract Mathematics [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43675310\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.math.uci.edu/~ndonalds/math13/notes.pdf",
-         "links": [
-             "https://www.math.uci.edu/~ndonalds/math13/notes.pdf"
-         ],
-         "published": "Sun, 13 Apr 2025 19:43:11 +0000",
-         "publishedParsed": "2025-04-13T19:43:11Z"
-     },
-     {
-         "title": "A Reddit bot drove me insane",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43672139\"\u003eComments\u003c/a\u003e",
-         "link": "https://posthuman.blog/this-reddit-post-fried-my-brain/",
-         "links": [
-             "https://posthuman.blog/this-reddit-post-fried-my-brain/"
-         ],
-         "published": "Sun, 13 Apr 2025 12:03:05 +0000",
-         "publishedParsed": "2025-04-13T12:03:05Z"
      },
      {
          "title": "The Manicule: The little hand that's everywhere",
@@ -160,14 +160,14 @@
          "publishedParsed": "2025-04-10T01:01:43Z"
      },
      {
-         "title": "Don't sell space in your homelab (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43674267\"\u003eComments\u003c/a\u003e",
-         "link": "https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/",
+         "title": "A Reddit bot drove me insane",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43672139\"\u003eComments\u003c/a\u003e",
+         "link": "https://posthuman.blog/this-reddit-post-fried-my-brain/",
          "links": [
-             "https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/"
+             "https://posthuman.blog/this-reddit-post-fried-my-brain/"
          ],
-         "published": "Sun, 13 Apr 2025 17:13:09 +0000",
-         "publishedParsed": "2025-04-13T17:13:09Z"
+         "published": "Sun, 13 Apr 2025 12:03:05 +0000",
+         "publishedParsed": "2025-04-13T12:03:05Z"
      },
      {
          "title": "BPS is a GPS alternative that nobody's heard of",
@@ -190,16 +190,6 @@
          "publishedParsed": "2025-04-12T22:32:19Z"
      },
      {
-         "title": "Experimental release of GrapheneOS for Pixel 9a",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43669185\"\u003eComments\u003c/a\u003e",
-         "link": "https://grapheneos.social/@GrapheneOS/114327666433966529",
-         "links": [
-             "https://grapheneos.social/@GrapheneOS/114327666433966529"
-         ],
-         "published": "Sun, 13 Apr 2025 01:05:31 +0000",
-         "publishedParsed": "2025-04-13T01:05:31Z"
-     },
-     {
          "title": "Why Pascal is not my favorite programming language (1981) [pdf]",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43672975\"\u003eComments\u003c/a\u003e",
          "link": "https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf",
@@ -210,14 +200,34 @@
          "publishedParsed": "2025-04-13T14:16:20Z"
      },
      {
-         "title": "AMD NPU and Xilinx Versal AI Engines Signal Processing in Radio Astronomy (2024) [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43671940\"\u003eComments\u003c/a\u003e",
-         "link": "https://git.astron.nl/RD/acap/-/raw/main/Presentation_FPL24_Vincent_Sprave.pdf",
+         "title": "Lotka–Volterra Equations",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43647275\"\u003eComments\u003c/a\u003e",
+         "link": "https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations",
          "links": [
-             "https://git.astron.nl/RD/acap/-/raw/main/Presentation_FPL24_Vincent_Sprave.pdf"
+             "https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations"
          ],
-         "published": "Sun, 13 Apr 2025 11:16:18 +0000",
-         "publishedParsed": "2025-04-13T11:16:18Z"
+         "published": "Thu, 10 Apr 2025 19:28:05 +0000",
+         "publishedParsed": "2025-04-10T19:28:05Z"
+     },
+     {
+         "title": "Experimental release of GrapheneOS for Pixel 9a",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43669185\"\u003eComments\u003c/a\u003e",
+         "link": "https://grapheneos.social/@GrapheneOS/114327666433966529",
+         "links": [
+             "https://grapheneos.social/@GrapheneOS/114327666433966529"
+         ],
+         "published": "Sun, 13 Apr 2025 01:05:31 +0000",
+         "publishedParsed": "2025-04-13T01:05:31Z"
+     },
+     {
+         "title": "Skywork-OR1: new SOTA 32B thinking model with open weight",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43673151\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/SkyworkAI/Skywork-OR1",
+         "links": [
+             "https://github.com/SkyworkAI/Skywork-OR1"
+         ],
+         "published": "Sun, 13 Apr 2025 14:42:16 +0000",
+         "publishedParsed": "2025-04-13T14:42:16Z"
      },
      {
          "title": "Compute's Gazette Magazine Returns After 35 Yrs, Will Focus on Retro Computing",
@@ -230,24 +240,34 @@
          "publishedParsed": "2025-04-13T11:01:16Z"
      },
      {
-         "title": "RNA interference and nanomedicine team up to fight dangerous fungal infections",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43645925\"\u003eComments\u003c/a\u003e",
-         "link": "https://phys.org/news/2025-03-rna-nanomedicine-dangerous-fungal-infections.html",
+         "title": "Don't sell space in your homelab (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43674267\"\u003eComments\u003c/a\u003e",
+         "link": "https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/",
          "links": [
-             "https://phys.org/news/2025-03-rna-nanomedicine-dangerous-fungal-infections.html"
+             "https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/"
          ],
-         "published": "Thu, 10 Apr 2025 17:03:37 +0000",
-         "publishedParsed": "2025-04-10T17:03:37Z"
+         "published": "Sun, 13 Apr 2025 17:13:09 +0000",
+         "publishedParsed": "2025-04-13T17:13:09Z"
      },
      {
-         "title": "Show HN: Chonky – a neural approach for text semantic chunking",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43652968\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/mirth/chonky",
+         "title": "Structural Optimization of I-Beams via Typographical Analysis",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43648401\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.researchgate.net/publication/390635826_Structural_Optimization_of_I-Beams_via_Typographical_Analysis_A_Comparative_Study_of_Alphabetical_Cross-Sections",
          "links": [
-             "https://github.com/mirth/chonky"
+             "https://www.researchgate.net/publication/390635826_Structural_Optimization_of_I-Beams_via_Typographical_Analysis_A_Comparative_Study_of_Alphabetical_Cross-Sections"
          ],
-         "published": "Fri, 11 Apr 2025 12:18:39 +0000",
-         "publishedParsed": "2025-04-11T12:18:39Z"
+         "published": "Thu, 10 Apr 2025 21:53:56 +0000",
+         "publishedParsed": "2025-04-10T21:53:56Z"
+     },
+     {
+         "title": "AMD NPU and Xilinx Versal AI Engines Signal Processing in Radio Astronomy (2024) [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43671940\"\u003eComments\u003c/a\u003e",
+         "link": "https://git.astron.nl/RD/acap/-/raw/main/Presentation_FPL24_Vincent_Sprave.pdf",
+         "links": [
+             "https://git.astron.nl/RD/acap/-/raw/main/Presentation_FPL24_Vincent_Sprave.pdf"
+         ],
+         "published": "Sun, 13 Apr 2025 11:16:18 +0000",
+         "publishedParsed": "2025-04-13T11:16:18Z"
      },
      {
          "title": "How Monty Python and the Holy Grail became a comedy legend",
@@ -258,25 +278,5 @@
          ],
          "published": "Wed, 09 Apr 2025 19:58:40 +0000",
          "publishedParsed": "2025-04-09T19:58:40Z"
-     },
-     {
-         "title": "Problems with Go channels (2016)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43670373\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.jtolio.com/2016/03/go-channels-are-bad-and-you-should-feel-bad/",
-         "links": [
-             "https://www.jtolio.com/2016/03/go-channels-are-bad-and-you-should-feel-bad/"
-         ],
-         "published": "Sun, 13 Apr 2025 05:43:15 +0000",
-         "publishedParsed": "2025-04-13T05:43:15Z"
-     },
-     {
-         "title": "WebTUI – A CSS Library That Brings the Beauty of Terminal UIs to the Browser",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43668250\"\u003eComments\u003c/a\u003e",
-         "link": "https://webtui.ironclad.sh",
-         "links": [
-             "https://webtui.ironclad.sh"
-         ],
-         "published": "Sat, 12 Apr 2025 22:02:58 +0000",
-         "publishedParsed": "2025-04-12T22:02:58Z"
      }
  ]
