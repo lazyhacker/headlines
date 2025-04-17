@@ -1,6 +1,16 @@
 [
      {
-         "title": "Jellyfin as a Spotify Alternative",
+         "title": "Zoom outage caused by accidental 'shutting down' of the zoom.us domain",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43711957\"\u003eComments\u003c/a\u003e",
+         "link": "https://status.zoom.us/incidents/pw9r9vnq5rvk",
+         "links": [
+             "https://status.zoom.us/incidents/pw9r9vnq5rvk"
+         ],
+         "published": "Thu, 17 Apr 2025 00:55:49 +0000",
+         "publishedParsed": "2025-04-17T00:55:49Z"
+     },
+     {
+         "title": "Jellyfin as a Spotify alternative",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43711706\"\u003eComments\u003c/a\u003e",
          "link": "https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/",
          "links": [
@@ -8,16 +18,6 @@
          ],
          "published": "Thu, 17 Apr 2025 00:10:51 +0000",
          "publishedParsed": "2025-04-17T00:10:51Z"
-     },
-     {
-         "title": "Demolishing the Fry's Electronics in Burbank",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43677862\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.latimes.com/00000196-230a-d4c4-abd7-fb5a95770000-123",
-         "links": [
-             "https://www.latimes.com/00000196-230a-d4c4-abd7-fb5a95770000-123"
-         ],
-         "published": "Mon, 14 Apr 2025 03:43:55 +0000",
-         "publishedParsed": "2025-04-14T03:43:55Z"
      },
      {
          "title": "OpenAI Codex CLI: Lightweight coding agent that runs in your terminal",
@@ -40,14 +40,24 @@
          "publishedParsed": "2025-04-16T14:28:36Z"
      },
      {
-         "title": "Unix files have (at least) two sizes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43679764\"\u003eComments\u003c/a\u003e",
-         "link": "https://utcc.utoronto.ca/~cks/space/blog/unix/UnixFilesTwoSizes",
+         "title": "Concurrency in Haskell: Fast, Simple, Correct",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43679906\"\u003eComments\u003c/a\u003e",
+         "link": "https://bitbashing.io/haskell-concurrency.html",
          "links": [
-             "https://utcc.utoronto.ca/~cks/space/blog/unix/UnixFilesTwoSizes"
+             "https://bitbashing.io/haskell-concurrency.html"
          ],
-         "published": "Mon, 14 Apr 2025 10:18:12 +0000",
-         "publishedParsed": "2025-04-14T10:18:12Z"
+         "published": "Mon, 14 Apr 2025 10:47:32 +0000",
+         "publishedParsed": "2025-04-14T10:47:32Z"
+     },
+     {
+         "title": "Show HN: Plandex v2 – open source AI coding agent for large projects and tasks",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43710576\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/plandex-ai/plandex",
+         "links": [
+             "https://github.com/plandex-ai/plandex"
+         ],
+         "published": "Wed, 16 Apr 2025 21:26:42 +0000",
+         "publishedParsed": "2025-04-16T21:26:42Z"
      },
      {
          "title": "12-factor Agents: Patterns of reliable LLM applications",
@@ -60,6 +70,16 @@
          "publishedParsed": "2025-04-15T22:38:04Z"
      },
      {
+         "title": "TLS certificate lifetimes will officially reduce to 47 days",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43693900\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days",
+         "links": [
+             "https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days"
+         ],
+         "published": "Tue, 15 Apr 2025 15:09:22 +0000",
+         "publishedParsed": "2025-04-15T15:09:22Z"
+     },
+     {
          "title": "Damn Vulnerable MCP Server",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43707021\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/harishsg993010/damn-vulnerable-MCP-server",
@@ -68,6 +88,26 @@
          ],
          "published": "Wed, 16 Apr 2025 16:00:21 +0000",
          "publishedParsed": "2025-04-16T16:00:21Z"
+     },
+     {
+         "title": "\"Vivarium\": The keeper of a lab's animals stumbles onto a secret [fiction]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43710761\"\u003eComments\u003c/a\u003e",
+         "link": "https://jsomers.net/vivarium/",
+         "links": [
+             "https://jsomers.net/vivarium/"
+         ],
+         "published": "Wed, 16 Apr 2025 21:46:10 +0000",
+         "publishedParsed": "2025-04-16T21:46:10Z"
+     },
+     {
+         "title": "Demolishing the Fry's Electronics in Burbank",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43677862\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.latimes.com/00000196-230a-d4c4-abd7-fb5a95770000-123",
+         "links": [
+             "https://www.latimes.com/00000196-230a-d4c4-abd7-fb5a95770000-123"
+         ],
+         "published": "Mon, 14 Apr 2025 03:43:55 +0000",
+         "publishedParsed": "2025-04-14T03:43:55Z"
      },
      {
          "title": "Man who built ISP instead of paying Comcast expands to hundreds of homes (2022)",
@@ -80,6 +120,16 @@
          "publishedParsed": "2025-04-16T20:06:50Z"
      },
      {
+         "title": "Unix files have (at least) two sizes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43679764\"\u003eComments\u003c/a\u003e",
+         "link": "https://utcc.utoronto.ca/~cks/space/blog/unix/UnixFilesTwoSizes",
+         "links": [
+             "https://utcc.utoronto.ca/~cks/space/blog/unix/UnixFilesTwoSizes"
+         ],
+         "published": "Mon, 14 Apr 2025 10:18:12 +0000",
+         "publishedParsed": "2025-04-14T10:18:12Z"
+     },
+     {
          "title": "Query Engines: Push vs. Pull (2021)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43678533\"\u003eComments\u003c/a\u003e",
          "link": "https://justinjaffray.com/query-engines-push-vs.-pull/",
@@ -90,44 +140,34 @@
          "publishedParsed": "2025-04-14T06:15:59Z"
      },
      {
-         "title": "TLS certificate lifetimes will officially reduce to 47 days",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43693900\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days",
+         "title": "How Nintendo bled Atari games to death",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43704596\"\u003eComments\u003c/a\u003e",
+         "link": "https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/",
          "links": [
-             "https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days"
+             "https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/"
          ],
-         "published": "Tue, 15 Apr 2025 15:09:22 +0000",
-         "publishedParsed": "2025-04-15T15:09:22Z"
+         "published": "Wed, 16 Apr 2025 12:33:33 +0000",
+         "publishedParsed": "2025-04-16T12:33:33Z"
      },
      {
-         "title": "Breaking the Llama Community License",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43676254\"\u003eComments\u003c/a\u003e",
-         "link": "https://notes.victor.earth/youre-probably-breaking-the-llama-community-license/",
+         "title": "How a Forgotten Battle Created a More Peaceful World",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43711001\"\u003eComments\u003c/a\u003e",
+         "link": "https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a",
          "links": [
-             "https://notes.victor.earth/youre-probably-breaking-the-llama-community-license/"
+             "https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a"
          ],
-         "published": "Sun, 13 Apr 2025 22:15:08 +0000",
-         "publishedParsed": "2025-04-13T22:15:08Z"
+         "published": "Wed, 16 Apr 2025 22:21:14 +0000",
+         "publishedParsed": "2025-04-16T22:21:14Z"
      },
      {
-         "title": "Astronomers Detect a Possible Signature of Life on a Distant Planet",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43711376\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html",
+         "title": "Kermit: A typeface for kids",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43704904\"\u003eComments\u003c/a\u003e",
+         "link": "https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/",
          "links": [
-             "https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html"
+             "https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/"
          ],
-         "published": "Wed, 16 Apr 2025 23:20:31 +0000",
-         "publishedParsed": "2025-04-16T23:20:31Z"
-     },
-     {
-         "title": "OneSignal (YC S11) Is Hiring Engineers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43710330\"\u003eComments\u003c/a\u003e",
-         "link": "https://onesignal.com/careers",
-         "links": [
-             "https://onesignal.com/careers"
-         ],
-         "published": "Wed, 16 Apr 2025 21:00:11 +0000",
-         "publishedParsed": "2025-04-16T21:00:11Z"
+         "published": "Wed, 16 Apr 2025 12:57:13 +0000",
+         "publishedParsed": "2025-04-16T12:57:13Z"
      },
      {
          "title": "OpenAI o3 and o4-mini",
@@ -150,34 +190,14 @@
          "publishedParsed": "2025-04-15T09:52:18Z"
      },
      {
-         "title": "RakuAST Grant Report",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43709042\"\u003eComments\u003c/a\u003e",
-         "link": "https://niner.name/blog/rakuast_grant_report/index.html",
+         "title": "CVE Foundation",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43704430\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.thecvefoundation.org/home",
          "links": [
-             "https://niner.name/blog/rakuast_grant_report/index.html"
+             "https://www.thecvefoundation.org/home"
          ],
-         "published": "Wed, 16 Apr 2025 18:55:12 +0000",
-         "publishedParsed": "2025-04-16T18:55:12Z"
-     },
-     {
-         "title": "Kermit: A typeface for kids",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43704904\"\u003eComments\u003c/a\u003e",
-         "link": "https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/",
-         "links": [
-             "https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/"
-         ],
-         "published": "Wed, 16 Apr 2025 12:57:13 +0000",
-         "publishedParsed": "2025-04-16T12:57:13Z"
-     },
-     {
-         "title": "Nintendo Bled Atari Games to Death",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43704596\"\u003eComments\u003c/a\u003e",
-         "link": "https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/",
-         "links": [
-             "https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/"
-         ],
-         "published": "Wed, 16 Apr 2025 12:33:33 +0000",
-         "publishedParsed": "2025-04-16T12:33:33Z"
+         "published": "Wed, 16 Apr 2025 12:16:35 +0000",
+         "publishedParsed": "2025-04-16T12:16:35Z"
      },
      {
          "title": "Reproducing Hacker News writing style fingerprinting",
@@ -190,54 +210,54 @@
          "publishedParsed": "2025-04-16T13:57:42Z"
      },
      {
-         "title": "Dirty tricks 6502 programmers use (2019)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43705649\"\u003eComments\u003c/a\u003e",
-         "link": "https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html",
+         "title": "OneSignal (YC S11) Is Hiring Engineers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43710330\"\u003eComments\u003c/a\u003e",
+         "link": "https://onesignal.com/careers",
          "links": [
-             "https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html"
+             "https://onesignal.com/careers"
          ],
-         "published": "Wed, 16 Apr 2025 13:58:36 +0000",
-         "publishedParsed": "2025-04-16T13:58:36Z"
+         "published": "Wed, 16 Apr 2025 21:00:11 +0000",
+         "publishedParsed": "2025-04-16T21:00:11Z"
      },
      {
-         "title": "Microsoft researchers developed a hyper-efficient AI model that can run on CPUs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43711227\"\u003eComments\u003c/a\u003e",
-         "link": "https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/",
+         "title": "Breaking the Llama Community License",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43676254\"\u003eComments\u003c/a\u003e",
+         "link": "https://notes.victor.earth/youre-probably-breaking-the-llama-community-license/",
          "links": [
-             "https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/"
+             "https://notes.victor.earth/youre-probably-breaking-the-llama-community-license/"
          ],
-         "published": "Wed, 16 Apr 2025 22:57:54 +0000",
-         "publishedParsed": "2025-04-16T22:57:54Z"
+         "published": "Sun, 13 Apr 2025 22:15:08 +0000",
+         "publishedParsed": "2025-04-13T22:15:08Z"
      },
      {
-         "title": "CVE Foundation",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43704430\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.thecvefoundation.org/home",
+         "title": "In Two Moves, AlphaGo and Lee Sedol Redefined the Future (2016)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43670921\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/",
          "links": [
-             "https://www.thecvefoundation.org/home"
+             "https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/"
          ],
-         "published": "Wed, 16 Apr 2025 12:16:35 +0000",
-         "publishedParsed": "2025-04-16T12:16:35Z"
+         "published": "Sun, 13 Apr 2025 07:51:16 +0000",
+         "publishedParsed": "2025-04-13T07:51:16Z"
      },
      {
-         "title": "Four Kinds of Optimisation (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43679831\"\u003eComments\u003c/a\u003e",
-         "link": "https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html",
+         "title": "Nix Trigonometric Math Library from Ground Zero",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43669540\"\u003eComments\u003c/a\u003e",
+         "link": "https://lantian.pub/en/article/modify-computer/nix-trigonometric-math-library-from-zero.lantian/",
          "links": [
-             "https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html"
+             "https://lantian.pub/en/article/modify-computer/nix-trigonometric-math-library-from-zero.lantian/"
          ],
-         "published": "Mon, 14 Apr 2025 10:31:52 +0000",
-         "publishedParsed": "2025-04-14T10:31:52Z"
+         "published": "Sun, 13 Apr 2025 02:23:48 +0000",
+         "publishedParsed": "2025-04-13T02:23:48Z"
      },
      {
-         "title": "Tech workers are leaving notes in robot taxis seeking workers and lovers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43673425\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.washingtonpost.com/technology/2025/04/12/waymo-handwritten-notes-jobs-ads/",
+         "title": "Sony Unveils the Smallest and Lightest Lidar Depth Sensor",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43712115\"\u003eComments\u003c/a\u003e",
+         "link": "https://petapixel.com/2025/04/15/sony-unveils-the-worlds-smallest-and-lightest-lidar-depth-sensor/",
          "links": [
-             "https://www.washingtonpost.com/technology/2025/04/12/waymo-handwritten-notes-jobs-ads/"
+             "https://petapixel.com/2025/04/15/sony-unveils-the-worlds-smallest-and-lightest-lidar-depth-sensor/"
          ],
-         "published": "Sun, 13 Apr 2025 15:20:55 +0000",
-         "publishedParsed": "2025-04-13T15:20:55Z"
+         "published": "Thu, 17 Apr 2025 01:19:41 +0000",
+         "publishedParsed": "2025-04-17T01:19:41Z"
      },
      {
          "title": "A high-throughput parser for the Zig programming language",
@@ -250,43 +270,33 @@
          "publishedParsed": "2025-04-16T14:11:53Z"
      },
      {
-         "title": "Show HN: Plandex v2 – open source AI coding agent for large projects and tasks",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43710576\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/plandex-ai/plandex",
+         "title": "Microsoft researchers developed a hyper-efficient AI model that can run on CPUs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43711227\"\u003eComments\u003c/a\u003e",
+         "link": "https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/",
          "links": [
-             "https://github.com/plandex-ai/plandex"
+             "https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/"
          ],
-         "published": "Wed, 16 Apr 2025 21:26:42 +0000",
-         "publishedParsed": "2025-04-16T21:26:42Z"
+         "published": "Wed, 16 Apr 2025 22:57:54 +0000",
+         "publishedParsed": "2025-04-16T22:57:54Z"
      },
      {
-         "title": "Launch HN: Jasmine (YC S22) – Automating REC compliance and payouts for solar",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43705065\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=43705065",
+         "title": "RakuAST Grant Report",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43709042\"\u003eComments\u003c/a\u003e",
+         "link": "https://niner.name/blog/rakuast_grant_report/index.html",
          "links": [
-             "https://news.ycombinator.com/item?id=43705065"
+             "https://niner.name/blog/rakuast_grant_report/index.html"
          ],
-         "published": "Wed, 16 Apr 2025 13:11:12 +0000",
-         "publishedParsed": "2025-04-16T13:11:12Z"
+         "published": "Wed, 16 Apr 2025 18:55:12 +0000",
+         "publishedParsed": "2025-04-16T18:55:12Z"
      },
      {
-         "title": "Science, the Endless Frontier (1945) [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43705796\"\u003eComments\u003c/a\u003e",
-         "link": "https://nsf-gov-resources.nsf.gov/2023-04/EndlessFrontier75th_w.pdf",
+         "title": "Dirty tricks 6502 programmers use (2019)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43705649\"\u003eComments\u003c/a\u003e",
+         "link": "https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html",
          "links": [
-             "https://nsf-gov-resources.nsf.gov/2023-04/EndlessFrontier75th_w.pdf"
+             "https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html"
          ],
-         "published": "Wed, 16 Apr 2025 14:09:22 +0000",
-         "publishedParsed": "2025-04-16T14:09:22Z"
-     },
-     {
-         "title": "Terak Museum",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43708726\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.threedee.com/jcm/terak/index.html",
-         "links": [
-             "https://www.threedee.com/jcm/terak/index.html"
-         ],
-         "published": "Wed, 16 Apr 2025 18:24:43 +0000",
-         "publishedParsed": "2025-04-16T18:24:43Z"
+         "published": "Wed, 16 Apr 2025 13:58:36 +0000",
+         "publishedParsed": "2025-04-16T13:58:36Z"
      }
  ]
