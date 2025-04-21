@@ -1,13 +1,23 @@
 [
      {
-         "title": "Regex Isn't Hard (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43750314\"\u003eComments\u003c/a\u003e",
-         "link": "https://timkellogg.me/blog/2023/07/11/regex",
+         "title": "Getting Forked by Microsoft",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43750535\"\u003eComments\u003c/a\u003e",
+         "link": "https://philiplaine.com/posts/getting-forked-by-microsoft/",
          "links": [
-             "https://timkellogg.me/blog/2023/07/11/regex"
+             "https://philiplaine.com/posts/getting-forked-by-microsoft/"
          ],
-         "published": "Mon, 21 Apr 2025 10:35:34 +0000",
-         "publishedParsed": "2025-04-21T10:35:34Z"
+         "published": "Mon, 21 Apr 2025 11:05:44 +0000",
+         "publishedParsed": "2025-04-21T11:05:44Z"
+     },
+     {
+         "title": "Pipelining might be my favorite programming language feature",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43751076\"\u003eComments\u003c/a\u003e",
+         "link": "https://herecomesthemoon.net/2025/04/pipelining/",
+         "links": [
+             "https://herecomesthemoon.net/2025/04/pipelining/"
+         ],
+         "published": "Mon, 21 Apr 2025 12:16:16 +0000",
+         "publishedParsed": "2025-04-21T12:16:16Z"
      },
      {
          "title": "Python's new t-strings",
@@ -20,16 +30,6 @@
          "publishedParsed": "2025-04-21T04:31:35Z"
      },
      {
-         "title": "The effect of deactivating Facebook and Instagram on users' emotional state",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43748486\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nber.org/papers/w33697",
-         "links": [
-             "https://www.nber.org/papers/w33697"
-         ],
-         "published": "Mon, 21 Apr 2025 04:24:15 +0000",
-         "publishedParsed": "2025-04-21T04:24:15Z"
-     },
-     {
          "title": "Reverse engineering the obfuscated TikTok VM",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43747921\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering",
@@ -38,6 +38,26 @@
          ],
          "published": "Mon, 21 Apr 2025 01:59:03 +0000",
          "publishedParsed": "2025-04-21T01:59:03Z"
+     },
+     {
+         "title": "Haskelling My Python",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43728056\"\u003eComments\u003c/a\u003e",
+         "link": "https://unnamed.website/posts/haskelling-my-python/",
+         "links": [
+             "https://unnamed.website/posts/haskelling-my-python/"
+         ],
+         "published": "Fri, 18 Apr 2025 13:45:56 +0000",
+         "publishedParsed": "2025-04-18T13:45:56Z"
+     },
+     {
+         "title": "The effect of deactivating Facebook and Instagram on users' emotional state",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43748486\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nber.org/papers/w33697",
+         "links": [
+             "https://www.nber.org/papers/w33697"
+         ],
+         "published": "Mon, 21 Apr 2025 04:24:15 +0000",
+         "publishedParsed": "2025-04-21T04:24:15Z"
      },
      {
          "title": "Things Zig comptime won't do",
@@ -70,6 +90,16 @@
          "publishedParsed": "2025-04-17T14:20:13Z"
      },
      {
+         "title": "Are ChatGPT and co harming human intelligence?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43750165\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theguardian.com/technology/2025/apr/19/dont-ask-what-ai-can-do-for-us-ask-what-it-is-doing-to-us-are-chatgpt-and-co-harming-human-intelligence",
+         "links": [
+             "https://www.theguardian.com/technology/2025/apr/19/dont-ask-what-ai-can-do-for-us-ask-what-it-is-doing-to-us-are-chatgpt-and-co-harming-human-intelligence"
+         ],
+         "published": "Mon, 21 Apr 2025 10:05:05 +0000",
+         "publishedParsed": "2025-04-21T10:05:05Z"
+     },
+     {
          "title": "Show HN: I built an AI that turns GitHub codebases into easy tutorials",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43739456\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/The-Pocket/Tutorial-Codebase-Knowledge",
@@ -80,6 +110,26 @@
          "publishedParsed": "2025-04-19T21:04:41Z"
      },
      {
+         "title": "Reworking 30 lines of Linux code could cut power use by up to 30 percent",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43749271\"\u003eComments\u003c/a\u003e",
+         "link": "https://spectrum.ieee.org/data-center-energy-consumption",
+         "links": [
+             "https://spectrum.ieee.org/data-center-energy-consumption"
+         ],
+         "published": "Mon, 21 Apr 2025 07:34:07 +0000",
+         "publishedParsed": "2025-04-21T07:34:07Z"
+     },
+     {
+         "title": "Why R the Critical Value and Emergent Behavior of Large Language Models Fake?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43732906\"\u003eComments\u003c/a\u003e",
+         "link": "https://cacm.acm.org/blogcacm/why-are-the-critical-value-and-emergent-behavior-of-large-language-models-llms-fake/",
+         "links": [
+             "https://cacm.acm.org/blogcacm/why-are-the-critical-value-and-emergent-behavior-of-large-language-models-llms-fake/"
+         ],
+         "published": "Fri, 18 Apr 2025 23:48:23 +0000",
+         "publishedParsed": "2025-04-18T23:48:23Z"
+     },
+     {
          "title": "TikZJax: Embedding LaTeX Drawings in HTML",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43746831\"\u003eComments\u003c/a\u003e",
          "link": "https://tikzjax.com/",
@@ -88,16 +138,6 @@
          ],
          "published": "Sun, 20 Apr 2025 22:04:22 +0000",
          "publishedParsed": "2025-04-20T22:04:22Z"
-     },
-     {
-         "title": "I thought I bought a camera, but no DJI sold me a license to use it [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43748133\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=aUOnQ_boqCw",
-         "links": [
-             "https://www.youtube.com/watch?v=aUOnQ_boqCw"
-         ],
-         "published": "Mon, 21 Apr 2025 02:47:55 +0000",
-         "publishedParsed": "2025-04-21T02:47:55Z"
      },
      {
          "title": "Find the Odd Disk",
@@ -120,26 +160,6 @@
          "publishedParsed": "2025-04-21T00:21:27Z"
      },
      {
-         "title": "Banana Pi BPI-RV2 RISC-V gateway board",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43735734\"\u003eComments\u003c/a\u003e",
-         "link": "https://docs.banana-pi.org/en/BPI-RV2/BananaPi_BPI-RV2",
-         "links": [
-             "https://docs.banana-pi.org/en/BPI-RV2/BananaPi_BPI-RV2"
-         ],
-         "published": "Sat, 19 Apr 2025 11:37:16 +0000",
-         "publishedParsed": "2025-04-19T11:37:16Z"
-     },
-     {
-         "title": "Regular Expression Derivatives in Python [pdf] [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43714579\"\u003eComments\u003c/a\u003e",
-         "link": "https://archive.fosdem.org/2018/schedule/event/python_regex_derivatives/attachments/slides/2363/export/events/attachments/python_regex_derivatives/slides/2363/fosdem2018.pdf",
-         "links": [
-             "https://archive.fosdem.org/2018/schedule/event/python_regex_derivatives/attachments/slides/2363/export/events/attachments/python_regex_derivatives/slides/2363/fosdem2018.pdf"
-         ],
-         "published": "Thu, 17 Apr 2025 09:24:16 +0000",
-         "publishedParsed": "2025-04-17T09:24:16Z"
-     },
-     {
          "title": "Jagged AGI: o3, Gemini 2.5, and everything after",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43744173\"\u003eComments\u003c/a\u003e",
          "link": "https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything",
@@ -148,6 +168,16 @@
          ],
          "published": "Sun, 20 Apr 2025 14:55:33 +0000",
          "publishedParsed": "2025-04-20T14:55:33Z"
+     },
+     {
+         "title": "How encryption for Cinema Movies works",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43745281\"\u003eComments\u003c/a\u003e",
+         "link": "https://serverless.industries/2024/05/31/digital-cinema.en.html",
+         "links": [
+             "https://serverless.industries/2024/05/31/digital-cinema.en.html"
+         ],
+         "published": "Sun, 20 Apr 2025 17:52:50 +0000",
+         "publishedParsed": "2025-04-20T17:52:50Z"
      },
      {
          "title": "Signal Carnival",
@@ -170,16 +200,6 @@
          "publishedParsed": "2025-04-20T19:41:29Z"
      },
      {
-         "title": "How encryption for Cinema Movies works",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43745281\"\u003eComments\u003c/a\u003e",
-         "link": "https://serverless.industries/2024/05/31/digital-cinema.en.html",
-         "links": [
-             "https://serverless.industries/2024/05/31/digital-cinema.en.html"
-         ],
-         "published": "Sun, 20 Apr 2025 17:52:50 +0000",
-         "publishedParsed": "2025-04-20T17:52:50Z"
-     },
-     {
          "title": "Taking Notes with Joplin",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43734732\"\u003eComments\u003c/a\u003e",
          "link": "https://lwn.net/Articles/1016400/",
@@ -200,24 +220,14 @@
          "publishedParsed": "2025-04-19T18:42:46Z"
      },
      {
-         "title": "Turing-Drawings",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43744609\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/maximecb/Turing-Drawings",
+         "title": "FurtherAI (YC W24) Is Hiring Software and AI Engineers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43746491\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/furtherai/jobs",
          "links": [
-             "https://github.com/maximecb/Turing-Drawings"
+             "https://www.ycombinator.com/companies/furtherai/jobs"
          ],
-         "published": "Sun, 20 Apr 2025 16:00:29 +0000",
-         "publishedParsed": "2025-04-20T16:00:29Z"
-     },
-     {
-         "title": "The Joy of Linux Theming in the Age of Bootable Containers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43743784\"\u003eComments\u003c/a\u003e",
-         "link": "https://blues.win/posts/joy-of-linux-theming/",
-         "links": [
-             "https://blues.win/posts/joy-of-linux-theming/"
-         ],
-         "published": "Sun, 20 Apr 2025 13:56:06 +0000",
-         "publishedParsed": "2025-04-20T13:56:06Z"
+         "published": "Sun, 20 Apr 2025 21:00:37 +0000",
+         "publishedParsed": "2025-04-20T21:00:37Z"
      },
      {
          "title": "X-Ray Defence",
@@ -230,14 +240,14 @@
          "publishedParsed": "2025-04-17T20:28:05Z"
      },
      {
-         "title": "Healthy soil is the hidden ingredient",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43710451\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nature.com/articles/d41586-025-01026-x",
+         "title": "The Joy of Linux Theming in the Age of Bootable Containers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43743784\"\u003eComments\u003c/a\u003e",
+         "link": "https://blues.win/posts/joy-of-linux-theming/",
          "links": [
-             "https://www.nature.com/articles/d41586-025-01026-x"
+             "https://blues.win/posts/joy-of-linux-theming/"
          ],
-         "published": "Wed, 16 Apr 2025 21:13:55 +0000",
-         "publishedParsed": "2025-04-16T21:13:55Z"
+         "published": "Sun, 20 Apr 2025 13:56:06 +0000",
+         "publishedParsed": "2025-04-20T13:56:06Z"
      },
      {
          "title": "Decomposing Transactional Systems",
@@ -250,23 +260,23 @@
          "publishedParsed": "2025-04-20T20:54:56Z"
      },
      {
-         "title": "FurtherAI (YC W24) Is Hiring Software and AI Engineers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43746491\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/furtherai/jobs",
+         "title": "Healthy soil is the hidden ingredient",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43710451\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nature.com/articles/d41586-025-01026-x",
          "links": [
-             "https://www.ycombinator.com/companies/furtherai/jobs"
+             "https://www.nature.com/articles/d41586-025-01026-x"
          ],
-         "published": "Sun, 20 Apr 2025 21:00:37 +0000",
-         "publishedParsed": "2025-04-20T21:00:37Z"
+         "published": "Wed, 16 Apr 2025 21:13:55 +0000",
+         "publishedParsed": "2025-04-16T21:13:55Z"
      },
      {
-         "title": "New Proof Settles Decades-Old Bet About Connected Networks",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43745261\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/",
+         "title": "Molecules that fight infection also act on the brain",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43718175\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.mit.edu/2025/molecules-fighting-infection-act-in-brain-inducing-anxiety-or-sociability-0407",
          "links": [
-             "https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/"
+             "https://news.mit.edu/2025/molecules-fighting-infection-act-in-brain-inducing-anxiety-or-sociability-0407"
          ],
-         "published": "Sun, 20 Apr 2025 17:48:40 +0000",
-         "publishedParsed": "2025-04-20T17:48:40Z"
+         "published": "Thu, 17 Apr 2025 15:19:37 +0000",
+         "publishedParsed": "2025-04-17T15:19:37Z"
      }
  ]
