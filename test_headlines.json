@@ -1,5 +1,15 @@
 [
      {
+         "title": "OpenAI releases image generation in the API",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43786506\"\u003eComments\u003c/a\u003e",
+         "link": "https://openai.com/index/image-generation-api/",
+         "links": [
+             "https://openai.com/index/image-generation-api/"
+         ],
+         "published": "Thu, 24 Apr 2025 19:27:51 +0000",
+         "publishedParsed": "2025-04-24T19:27:51Z"
+     },
+     {
          "title": "One quantum transition makes light at 21 cm",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43784721\"\u003eComments\u003c/a\u003e",
          "link": "https://bigthink.com/starts-with-a-bang/21cm-magic-length/",
@@ -20,44 +30,14 @@
          "publishedParsed": "2025-04-24T12:26:38Z"
      },
      {
-         "title": "Should every startup give up and go home? AI Acquisitions and consolidation",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43785919\"\u003eComments\u003c/a\u003e",
-         "link": "https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation",
+         "title": "OpenVSX, which VSCode forks rely on for extensions, down for 24 hours",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43785039\"\u003eComments\u003c/a\u003e",
+         "link": "https://status.open-vsx.org/",
          "links": [
-             "https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation"
+             "https://status.open-vsx.org/"
          ],
-         "published": "Thu, 24 Apr 2025 18:31:01 +0000",
-         "publishedParsed": "2025-04-24T18:31:01Z"
-     },
-     {
-         "title": "Three Fundamental Flaws of SIMD ISAs (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43783416\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/",
-         "links": [
-             "https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/"
-         ],
-         "published": "Thu, 24 Apr 2025 14:42:03 +0000",
-         "publishedParsed": "2025-04-24T14:42:03Z"
-     },
-     {
-         "title": "Show HN: Lemon Slice Live, a real-time video-audio AI model",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43785044\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=43785044",
-         "links": [
-             "https://news.ycombinator.com/item?id=43785044"
-         ],
-         "published": "Thu, 24 Apr 2025 17:10:14 +0000",
-         "publishedParsed": "2025-04-24T17:10:14Z"
-     },
-     {
-         "title": "Instant SQL for results as you type in DuckDB UI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43782406\"\u003eComments\u003c/a\u003e",
-         "link": "https://motherduck.com/blog/introducing-instant-sql/",
-         "links": [
-             "https://motherduck.com/blog/introducing-instant-sql/"
-         ],
-         "published": "Thu, 24 Apr 2025 13:23:26 +0000",
-         "publishedParsed": "2025-04-24T13:23:26Z"
+         "published": "Thu, 24 Apr 2025 17:09:56 +0000",
+         "publishedParsed": "2025-04-24T17:09:56Z"
      },
      {
          "title": "On loyalty to Your Employer",
@@ -70,6 +50,36 @@
          "publishedParsed": "2025-04-24T09:43:48Z"
      },
      {
+         "title": "Show HN: Lemon Slice Live – Have a video call with a transformer model",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43785044\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=43785044",
+         "links": [
+             "https://news.ycombinator.com/item?id=43785044"
+         ],
+         "published": "Thu, 24 Apr 2025 17:10:14 +0000",
+         "publishedParsed": "2025-04-24T17:10:14Z"
+     },
+     {
+         "title": "Three Fundamental Flaws of SIMD ISAs (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43783416\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/",
+         "links": [
+             "https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/"
+         ],
+         "published": "Thu, 24 Apr 2025 14:42:03 +0000",
+         "publishedParsed": "2025-04-24T14:42:03Z"
+     },
+     {
+         "title": "Instant SQL for results as you type in DuckDB UI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43782406\"\u003eComments\u003c/a\u003e",
+         "link": "https://motherduck.com/blog/introducing-instant-sql/",
+         "links": [
+             "https://motherduck.com/blog/introducing-instant-sql/"
+         ],
+         "published": "Thu, 24 Apr 2025 13:23:26 +0000",
+         "publishedParsed": "2025-04-24T13:23:26Z"
+     },
+     {
          "title": "A Principled Approach to Querying Data – A Type-Safe Search DSL",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43784200\"\u003eComments\u003c/a\u003e",
          "link": "https://www.claudiu-ivan.com/writing/search-dsl",
@@ -78,26 +88,6 @@
          ],
          "published": "Thu, 24 Apr 2025 15:53:15 +0000",
          "publishedParsed": "2025-04-24T15:53:15Z"
-     },
-     {
-         "title": "Bild AI (YC W25) is hiring a founding engineer in SF",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43784946\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer",
-         "links": [
-             "https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer"
-         ],
-         "published": "Thu, 24 Apr 2025 17:00:38 +0000",
-         "publishedParsed": "2025-04-24T17:00:38Z"
-     },
-     {
-         "title": "Show HN: Zev – Remember (or discover) terminal commands",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43784668\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/dtnewman/zev",
-         "links": [
-             "https://github.com/dtnewman/zev"
-         ],
-         "published": "Thu, 24 Apr 2025 16:33:54 +0000",
-         "publishedParsed": "2025-04-24T16:33:54Z"
      },
      {
          "title": "Show HN: Infat – Declaritive application assocation manager for macOS",
@@ -110,14 +100,14 @@
          "publishedParsed": "2025-04-24T17:37:52Z"
      },
      {
-         "title": "Scancity: QR Codes for the Discerning",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43785896\"\u003eComments\u003c/a\u003e",
-         "link": "https://scancity.net",
+         "title": "Mark Zuckerberg says social media is over",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43780377\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over",
          "links": [
-             "https://scancity.net"
+             "https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over"
          ],
-         "published": "Thu, 24 Apr 2025 18:28:59 +0000",
-         "publishedParsed": "2025-04-24T18:28:59Z"
+         "published": "Thu, 24 Apr 2025 08:19:23 +0000",
+         "publishedParsed": "2025-04-24T08:19:23Z"
      },
      {
          "title": "Ask HN: Share your AI prompt that stumps every model",
@@ -130,14 +120,44 @@
          "publishedParsed": "2025-04-24T13:11:22Z"
      },
      {
-         "title": "Creating your own federated microblog",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43780785\"\u003eComments\u003c/a\u003e",
-         "link": "https://fedify.dev/tutorial/microblog",
+         "title": "Bild AI (YC W25) is hiring a founding engineer in SF",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43784946\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer",
          "links": [
-             "https://fedify.dev/tutorial/microblog"
+             "https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer"
          ],
-         "published": "Thu, 24 Apr 2025 09:37:57 +0000",
-         "publishedParsed": "2025-04-24T09:37:57Z"
+         "published": "Thu, 24 Apr 2025 17:00:38 +0000",
+         "publishedParsed": "2025-04-24T17:00:38Z"
+     },
+     {
+         "title": "Show HN: I reverse engineered top websites to build an animated UI library",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43785464\"\u003eComments\u003c/a\u003e",
+         "link": "https://reverseui.com",
+         "links": [
+             "https://reverseui.com"
+         ],
+         "published": "Thu, 24 Apr 2025 17:47:09 +0000",
+         "publishedParsed": "2025-04-24T17:47:09Z"
+     },
+     {
+         "title": "Asymmetric Content Moderation in Search Markets: The Case of Adult Websites",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43784056\"\u003eComments\u003c/a\u003e",
+         "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5106235",
+         "links": [
+             "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5106235"
+         ],
+         "published": "Thu, 24 Apr 2025 15:38:44 +0000",
+         "publishedParsed": "2025-04-24T15:38:44Z"
+     },
+     {
+         "title": "Show HN: Zev – Remember (or discover) terminal commands",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43784668\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/dtnewman/zev",
+         "links": [
+             "https://github.com/dtnewman/zev"
+         ],
+         "published": "Thu, 24 Apr 2025 16:33:54 +0000",
+         "publishedParsed": "2025-04-24T16:33:54Z"
      },
      {
          "title": "A Tour Inside the IBM Z17",
@@ -150,24 +170,34 @@
          "publishedParsed": "2025-04-24T15:33:16Z"
      },
      {
-         "title": "You Need Customers to Succeed in Small Business",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43783487\"\u003eComments\u003c/a\u003e",
-         "link": "https://goodenough.us/blog/2025-04-24-you-need-customers-to-succeed-in-small-business/",
+         "title": "Creating your own federated microblog",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43780785\"\u003eComments\u003c/a\u003e",
+         "link": "https://fedify.dev/tutorial/microblog",
          "links": [
-             "https://goodenough.us/blog/2025-04-24-you-need-customers-to-succeed-in-small-business/"
+             "https://fedify.dev/tutorial/microblog"
          ],
-         "published": "Thu, 24 Apr 2025 14:47:40 +0000",
-         "publishedParsed": "2025-04-24T14:47:40Z"
+         "published": "Thu, 24 Apr 2025 09:37:57 +0000",
+         "publishedParsed": "2025-04-24T09:37:57Z"
      },
      {
-         "title": "OpenVSX, which VSCode forks rely on for extensions, down for 24 hours",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43785039\"\u003eComments\u003c/a\u003e",
-         "link": "https://status.open-vsx.org/",
+         "title": "Acquisitions, consolidation, and innovation in AI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43785919\"\u003eComments\u003c/a\u003e",
+         "link": "https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation",
          "links": [
-             "https://status.open-vsx.org/"
+             "https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation"
          ],
-         "published": "Thu, 24 Apr 2025 17:09:56 +0000",
-         "publishedParsed": "2025-04-24T17:09:56Z"
+         "published": "Thu, 24 Apr 2025 18:31:01 +0000",
+         "publishedParsed": "2025-04-24T18:31:01Z"
+     },
+     {
+         "title": "Three things everyone should know about Vision Transformers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43784205\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2203.09795",
+         "links": [
+             "https://arxiv.org/abs/2203.09795"
+         ],
+         "published": "Thu, 24 Apr 2025 15:53:24 +0000",
+         "publishedParsed": "2025-04-24T15:53:24Z"
      },
      {
          "title": "Assignment 5: Cars and Key Fobs",
@@ -180,34 +210,34 @@
          "publishedParsed": "2025-04-24T09:53:22Z"
      },
      {
-         "title": "AI Horseless Carriages",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43773813\"\u003eComments\u003c/a\u003e",
-         "link": "https://koomen.dev/essays/horseless-carriages/",
+         "title": "PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43786514\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2503.19779",
          "links": [
-             "https://koomen.dev/essays/horseless-carriages/"
+             "https://arxiv.org/abs/2503.19779"
          ],
-         "published": "Wed, 23 Apr 2025 16:19:56 +0000",
-         "publishedParsed": "2025-04-23T16:19:56Z"
+         "published": "Thu, 24 Apr 2025 19:28:29 +0000",
+         "publishedParsed": "2025-04-24T19:28:29Z"
      },
      {
-         "title": "io_uring based rootkit can bypass syscall-focused Linux security tools",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43785769\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.armosec.io/blog/io_uring-rootkit-bypasses-linux-security",
+         "title": "Careless People",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43780363\"\u003eComments\u003c/a\u003e",
+         "link": "https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf",
          "links": [
-             "https://www.armosec.io/blog/io_uring-rootkit-bypasses-linux-security"
+             "https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf"
          ],
-         "published": "Thu, 24 Apr 2025 18:16:56 +0000",
-         "publishedParsed": "2025-04-24T18:16:56Z"
+         "published": "Thu, 24 Apr 2025 08:17:11 +0000",
+         "publishedParsed": "2025-04-24T08:17:11Z"
      },
      {
-         "title": "Three things everyone should know about Vision Transformers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43784205\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2203.09795",
+         "title": "Show HN: I made my own TRMNL e-ink device",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43781465\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.stavros.io/posts/making-a-trmnl-device/",
          "links": [
-             "https://arxiv.org/abs/2203.09795"
+             "https://www.stavros.io/posts/making-a-trmnl-device/"
          ],
-         "published": "Thu, 24 Apr 2025 15:53:24 +0000",
-         "publishedParsed": "2025-04-24T15:53:24Z"
+         "published": "Thu, 24 Apr 2025 11:34:10 +0000",
+         "publishedParsed": "2025-04-24T11:34:10Z"
      },
      {
          "title": "Show HN: My from-scratch OS kernel that runs DOOM",
@@ -248,15 +278,5 @@
          ],
          "published": "Wed, 23 Apr 2025 21:47:27 +0000",
          "publishedParsed": "2025-04-23T21:47:27Z"
-     },
-     {
-         "title": "Google contract prevented Motorola from setting Perplexity as default assistant",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43776512\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bloomberg.com/news/articles/2025-04-23/perplexity-executive-says-google-blocked-motorola-s-use-of-ai-assistant",
-         "links": [
-             "https://www.bloomberg.com/news/articles/2025-04-23/perplexity-executive-says-google-blocked-motorola-s-use-of-ai-assistant"
-         ],
-         "published": "Wed, 23 Apr 2025 20:52:19 +0000",
-         "publishedParsed": "2025-04-23T20:52:19Z"
      }
  ]
