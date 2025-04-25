@@ -1,6 +1,6 @@
 [
      {
-         "title": "70% Size, 100% Accuracy: Lossless LLM Compression via Dynamic-Length Float",
+         "title": "Lossless LLM compression for efficient GPU inference via dynamic-length float",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43796935\"\u003eComments\u003c/a\u003e",
          "link": "https://arxiv.org/abs/2504.11651",
          "links": [
@@ -8,6 +8,16 @@
          ],
          "published": "Fri, 25 Apr 2025 18:20:53 +0000",
          "publishedParsed": "2025-04-25T18:20:53Z"
+     },
+     {
+         "title": "Show HN: Formalizing Principia Mathematica using Lean",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43797256\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/ndrwnaguib/principia",
+         "links": [
+             "https://github.com/ndrwnaguib/principia"
+         ],
+         "published": "Fri, 25 Apr 2025 18:49:30 +0000",
+         "publishedParsed": "2025-04-25T18:49:30Z"
      },
      {
          "title": "Writing \"/etc/hosts\" breaks the Substack editor",
@@ -20,14 +30,24 @@
          "publishedParsed": "2025-04-25T13:48:30Z"
      },
      {
-         "title": "Show HN: Magnitude – open-source, AI-native test framework for web apps",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43796003\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/magnitudedev/magnitude",
+         "title": "Curry: A functional logic programming language",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43797212\"\u003eComments\u003c/a\u003e",
+         "link": "https://curry-lang.org/",
          "links": [
-             "https://github.com/magnitudedev/magnitude"
+             "https://curry-lang.org/"
          ],
-         "published": "Fri, 25 Apr 2025 17:00:35 +0000",
-         "publishedParsed": "2025-04-25T17:00:35Z"
+         "published": "Fri, 25 Apr 2025 18:46:22 +0000",
+         "publishedParsed": "2025-04-25T18:46:22Z"
+     },
+     {
+         "title": "Differential Coverage for Debugging",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43795090\"\u003eComments\u003c/a\u003e",
+         "link": "https://research.swtch.com/diffcover",
+         "links": [
+             "https://research.swtch.com/diffcover"
+         ],
+         "published": "Fri, 25 Apr 2025 16:01:24 +0000",
+         "publishedParsed": "2025-04-25T16:01:24Z"
      },
      {
          "title": "Eurorack Knob Idea",
@@ -40,6 +60,16 @@
          "publishedParsed": "2025-04-25T13:19:02Z"
      },
      {
+         "title": "Show HN: Magnitude – open-source, AI-native test framework for web apps",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43796003\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/magnitudedev/magnitude",
+         "links": [
+             "https://github.com/magnitudedev/magnitude"
+         ],
+         "published": "Fri, 25 Apr 2025 17:00:35 +0000",
+         "publishedParsed": "2025-04-25T17:00:35Z"
+     },
+     {
          "title": "Tumor-derived erythropoietin acts as immunosuppressive switch in cancer immunity",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43794110\"\u003eComments\u003c/a\u003e",
          "link": "https://www.science.org/doi/10.1126/science.adr3026",
@@ -48,16 +78,6 @@
          ],
          "published": "Fri, 25 Apr 2025 14:42:27 +0000",
          "publishedParsed": "2025-04-25T14:42:27Z"
-     },
-     {
-         "title": "Curry: A Functional Logic Programming Language",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43797212\"\u003eComments\u003c/a\u003e",
-         "link": "https://curry-lang.org/",
-         "links": [
-             "https://curry-lang.org/"
-         ],
-         "published": "Fri, 25 Apr 2025 18:46:22 +0000",
-         "publishedParsed": "2025-04-25T18:46:22Z"
      },
      {
          "title": "A $20k American-made electric pickup with no paint, no stereo, no screen",
@@ -70,7 +90,27 @@
          "publishedParsed": "2025-04-25T15:01:37Z"
      },
      {
-         "title": "Large Language Models, Small Labor Market Effects [pdf]",
+         "title": "Paper2Code: Automating Code Generation from Scientific Papers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43796419\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2504.17192",
+         "links": [
+             "https://arxiv.org/abs/2504.17192"
+         ],
+         "published": "Fri, 25 Apr 2025 17:36:15 +0000",
+         "publishedParsed": "2025-04-25T17:36:15Z"
+     },
+     {
+         "title": "Done in by Time",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43797505\"\u003eComments\u003c/a\u003e",
+         "link": "https://thelampmagazine.com/issues/issue-27/done-in-by-time",
+         "links": [
+             "https://thelampmagazine.com/issues/issue-27/done-in-by-time"
+         ],
+         "published": "Fri, 25 Apr 2025 19:12:50 +0000",
+         "publishedParsed": "2025-04-25T19:12:50Z"
+     },
+     {
+         "title": "Large language models, small labor market effects [pdf]",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43791385\"\u003eComments\u003c/a\u003e",
          "link": "https://bfi.uchicago.edu/wp-content/uploads/2025/04/BFI_WP_2025-56-1.pdf",
          "links": [
@@ -80,17 +120,7 @@
          "publishedParsed": "2025-04-25T08:15:18Z"
      },
      {
-         "title": "Show HN: Bertrand Russell's Principia Mathematica in Lean",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43797256\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/ndrwnaguib/principia",
-         "links": [
-             "https://github.com/ndrwnaguib/principia"
-         ],
-         "published": "Fri, 25 Apr 2025 18:49:30 +0000",
-         "publishedParsed": "2025-04-25T18:49:30Z"
-     },
-     {
-         "title": "Foundry (YC F24) Is Hiring – Come Build a World Model for the Web",
+         "title": "Foundry (YC F24) is hiring – Come build a world model for the web",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43795996\"\u003eComments\u003c/a\u003e",
          "link": "https://news.ycombinator.com/item?id=43795996",
          "links": [
@@ -100,14 +130,44 @@
          "publishedParsed": "2025-04-25T17:00:19Z"
      },
      {
-         "title": "Paper2Code: Automating Code Generation from Scientific Papers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43796419\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2504.17192",
+         "title": "GCC 15.1",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43792248\"\u003eComments\u003c/a\u003e",
+         "link": "https://gcc.gnu.org/gcc-15/",
          "links": [
-             "https://arxiv.org/abs/2504.17192"
+             "https://gcc.gnu.org/gcc-15/"
          ],
-         "published": "Fri, 25 Apr 2025 17:36:15 +0000",
-         "publishedParsed": "2025-04-25T17:36:15Z"
+         "published": "Fri, 25 Apr 2025 10:53:59 +0000",
+         "publishedParsed": "2025-04-25T10:53:59Z"
+     },
+     {
+         "title": "Tales of the Yucca Man (2018)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43797774\"\u003eComments\u003c/a\u003e",
+         "link": "https://longreads.com/2018/04/25/the-known-unknown-tales-of-the-yucca-man/",
+         "links": [
+             "https://longreads.com/2018/04/25/the-known-unknown-tales-of-the-yucca-man/"
+         ],
+         "published": "Fri, 25 Apr 2025 19:39:15 +0000",
+         "publishedParsed": "2025-04-25T19:39:15Z"
+     },
+     {
+         "title": "Programming in D: Tutorial and Reference",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43798009\"\u003eComments\u003c/a\u003e",
+         "link": "https://ddili.org/ders/d.en/",
+         "links": [
+             "https://ddili.org/ders/d.en/"
+         ],
+         "published": "Fri, 25 Apr 2025 20:06:33 +0000",
+         "publishedParsed": "2025-04-25T20:06:33Z"
+     },
+     {
+         "title": "Echo – Open Hardware Music Player",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43777677\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/amachronic/echoplayer",
+         "links": [
+             "https://github.com/amachronic/echoplayer"
+         ],
+         "published": "Wed, 23 Apr 2025 23:11:39 +0000",
+         "publishedParsed": "2025-04-23T23:11:39Z"
      },
      {
          "title": "A Love Letter to People Who Believe in People",
@@ -130,6 +190,16 @@
          "publishedParsed": "2025-04-24T05:05:45Z"
      },
      {
+         "title": "Notation as a Tool of Thought (1979)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43789593\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.jsoftware.com/papers/tot.htm",
+         "links": [
+             "https://www.jsoftware.com/papers/tot.htm"
+         ],
+         "published": "Fri, 25 Apr 2025 02:30:34 +0000",
+         "publishedParsed": "2025-04-25T02:30:34Z"
+     },
+     {
          "title": "Exploiting Undefined Behavior in C/C++ Programs: The Performance Impact [pdf]",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43766263\"\u003eComments\u003c/a\u003e",
          "link": "https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf",
@@ -140,14 +210,24 @@
          "publishedParsed": "2025-04-22T21:01:48Z"
      },
      {
-         "title": "Notation as a Tool of Thought (1979)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43789593\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.jsoftware.com/papers/tot.htm",
+         "title": "Next-Gen GPU Programming: Hands-On with Mojo and Max Modular HQ",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43797058\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.youtube.com/live/uul6hZ5NXC8?si=mKxZJy2xAD-rOc3g",
          "links": [
-             "https://www.jsoftware.com/papers/tot.htm"
+             "https://www.youtube.com/live/uul6hZ5NXC8?si=mKxZJy2xAD-rOc3g"
          ],
-         "published": "Fri, 25 Apr 2025 02:30:34 +0000",
-         "publishedParsed": "2025-04-25T02:30:34Z"
+         "published": "Fri, 25 Apr 2025 18:32:23 +0000",
+         "publishedParsed": "2025-04-25T18:32:23Z"
+     },
+     {
+         "title": "\"Poetry City\": Iowa City, Iowa",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43790603\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.publicbooks.org/poetry-city-iowa-city-iowa/",
+         "links": [
+             "https://www.publicbooks.org/poetry-city-iowa-city-iowa/"
+         ],
+         "published": "Fri, 25 Apr 2025 06:05:58 +0000",
+         "publishedParsed": "2025-04-25T06:05:58Z"
      },
      {
          "title": "Huge reproducibility project fails to validate biomedical studies",
@@ -170,34 +250,14 @@
          "publishedParsed": "2025-04-25T14:31:40Z"
      },
      {
-         "title": "\"Poetry City\": Iowa City, Iowa",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43790603\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.publicbooks.org/poetry-city-iowa-city-iowa/",
+         "title": "Mary MacLane, the Wild Woman from Butte",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43790683\"\u003eComments\u003c/a\u003e",
+         "link": "https://publicdomainreview.org/essay/i-am-making-the-world-my-confessor/",
          "links": [
-             "https://www.publicbooks.org/poetry-city-iowa-city-iowa/"
+             "https://publicdomainreview.org/essay/i-am-making-the-world-my-confessor/"
          ],
-         "published": "Fri, 25 Apr 2025 06:05:58 +0000",
-         "publishedParsed": "2025-04-25T06:05:58Z"
-     },
-     {
-         "title": "What If We Could Rebuild Kafka from Scratch?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43790420\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.morling.dev/blog/what-if-we-could-rebuild-kafka-from-scratch/",
-         "links": [
-             "https://www.morling.dev/blog/what-if-we-could-rebuild-kafka-from-scratch/"
-         ],
-         "published": "Fri, 25 Apr 2025 05:34:52 +0000",
-         "publishedParsed": "2025-04-25T05:34:52Z"
-     },
-     {
-         "title": "Dolphins Communicate with 'Fountains of Pee'",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43795961\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.scientificamerican.com/article/dolphins-communicate-with-fountains-of-pee/",
-         "links": [
-             "https://www.scientificamerican.com/article/dolphins-communicate-with-fountains-of-pee/"
-         ],
-         "published": "Fri, 25 Apr 2025 16:58:00 +0000",
-         "publishedParsed": "2025-04-25T16:58:00Z"
+         "published": "Fri, 25 Apr 2025 06:20:12 +0000",
+         "publishedParsed": "2025-04-25T06:20:12Z"
      },
      {
          "title": "Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals",
@@ -210,26 +270,6 @@
          "publishedParsed": "2025-04-24T22:10:15Z"
      },
      {
-         "title": "Mary MacLane, the Wild Woman from Butte",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43790683\"\u003eComments\u003c/a\u003e",
-         "link": "https://publicdomainreview.org/essay/i-am-making-the-world-my-confessor/",
-         "links": [
-             "https://publicdomainreview.org/essay/i-am-making-the-world-my-confessor/"
-         ],
-         "published": "Fri, 25 Apr 2025 06:20:12 +0000",
-         "publishedParsed": "2025-04-25T06:20:12Z"
-     },
-     {
-         "title": "Write an Interpreter in Ruby",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43795504\"\u003eComments\u003c/a\u003e",
-         "link": "https://speakerdeck.com/marioariasc/write-an-interpreter-in-ruby",
-         "links": [
-             "https://speakerdeck.com/marioariasc/write-an-interpreter-in-ruby"
-         ],
-         "published": "Fri, 25 Apr 2025 16:26:24 +0000",
-         "publishedParsed": "2025-04-25T16:26:24Z"
-     },
-     {
          "title": "I wrote to the address in the GPLv2 license notice (2022)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43781888\"\u003eComments\u003c/a\u003e",
          "link": "https://code.mendhak.com/gpl-v2-address-letter/",
@@ -240,43 +280,13 @@
          "publishedParsed": "2025-04-24T12:26:38Z"
      },
      {
-         "title": "Show HN: BugStalker - a modern Rust debugger",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43793627\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/godzie44/BugStalker",
+         "title": "What If We Could Rebuild Kafka from Scratch?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43790420\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.morling.dev/blog/what-if-we-could-rebuild-kafka-from-scratch/",
          "links": [
-             "https://github.com/godzie44/BugStalker"
+             "https://www.morling.dev/blog/what-if-we-could-rebuild-kafka-from-scratch/"
          ],
-         "published": "Fri, 25 Apr 2025 13:58:55 +0000",
-         "publishedParsed": "2025-04-25T13:58:55Z"
-     },
-     {
-         "title": "I made a college punching bag for rejected highschoolers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43794217\"\u003eComments\u003c/a\u003e",
-         "link": "https://ex.plor.ing/blog/post/college-punch",
-         "links": [
-             "https://ex.plor.ing/blog/post/college-punch"
-         ],
-         "published": "Fri, 25 Apr 2025 14:53:52 +0000",
-         "publishedParsed": "2025-04-25T14:53:52Z"
-     },
-     {
-         "title": "Exercise before bed is linked with disrupted sleep",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43795700\"\u003eComments\u003c/a\u003e",
-         "link": "https://medicalxpress.com/news/2025-04-bed-linked-disrupted.html",
-         "links": [
-             "https://medicalxpress.com/news/2025-04-bed-linked-disrupted.html"
-         ],
-         "published": "Fri, 25 Apr 2025 16:38:19 +0000",
-         "publishedParsed": "2025-04-25T16:38:19Z"
-     },
-     {
-         "title": "Tarpit ideas: What they are and how to avoid them (2023) [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43774169\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them",
-         "links": [
-             "https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them"
-         ],
-         "published": "Wed, 23 Apr 2025 16:59:36 +0000",
-         "publishedParsed": "2025-04-23T16:59:36Z"
+         "published": "Fri, 25 Apr 2025 05:34:52 +0000",
+         "publishedParsed": "2025-04-25T05:34:52Z"
      }
  ]
