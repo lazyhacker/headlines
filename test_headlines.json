@@ -1,15 +1,5 @@
 [
      {
-         "title": "Some __nonstring__ Turbulence",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43790855\"\u003eComments\u003c/a\u003e",
-         "link": "https://lwn.net/SubscriberLink/1018486/1dcd29863655cb25/",
-         "links": [
-             "https://lwn.net/SubscriberLink/1018486/1dcd29863655cb25/"
-         ],
-         "published": "Fri, 25 Apr 2025 06:46:45 +0000",
-         "publishedParsed": "2025-04-25T06:46:45Z"
-     },
-     {
          "title": "Notation as a Tool of Thought (1979)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43789593\"\u003eComments\u003c/a\u003e",
          "link": "https://www.jsoftware.com/papers/tot.htm",
@@ -18,16 +8,6 @@
          ],
          "published": "Fri, 25 Apr 2025 02:30:34 +0000",
          "publishedParsed": "2025-04-25T02:30:34Z"
-     },
-     {
-         "title": "Avoiding Skill Atrophy in the Age of AI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43791474\"\u003eComments\u003c/a\u003e",
-         "link": "https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age",
-         "links": [
-             "https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age"
-         ],
-         "published": "Fri, 25 Apr 2025 08:30:54 +0000",
-         "publishedParsed": "2025-04-25T08:30:54Z"
      },
      {
          "title": "OpenAI releases image generation in the API",
@@ -50,6 +30,26 @@
          "publishedParsed": "2025-04-24T22:10:15Z"
      },
      {
+         "title": "GCC, the GNU Compiler Collection 15.1 released",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43792248\"\u003eComments\u003c/a\u003e",
+         "link": "https://gcc.gnu.org/gcc-15/",
+         "links": [
+             "https://gcc.gnu.org/gcc-15/"
+         ],
+         "published": "Fri, 25 Apr 2025 10:53:59 +0000",
+         "publishedParsed": "2025-04-25T10:53:59Z"
+     },
+     {
+         "title": "Some __nonstring__ Turbulence",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43790855\"\u003eComments\u003c/a\u003e",
+         "link": "https://lwn.net/SubscriberLink/1018486/1dcd29863655cb25/",
+         "links": [
+             "https://lwn.net/SubscriberLink/1018486/1dcd29863655cb25/"
+         ],
+         "published": "Fri, 25 Apr 2025 06:46:45 +0000",
+         "publishedParsed": "2025-04-25T06:46:45Z"
+     },
+     {
          "title": "I wrote to the address in the GPLv2 license notice (2022)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43781888\"\u003eComments\u003c/a\u003e",
          "link": "https://code.mendhak.com/gpl-v2-address-letter/",
@@ -58,46 +58,6 @@
          ],
          "published": "Thu, 24 Apr 2025 12:26:38 +0000",
          "publishedParsed": "2025-04-24T12:26:38Z"
-     },
-     {
-         "title": "Observability 2.0 and the Database for It",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43789625\"\u003eComments\u003c/a\u003e",
-         "link": "https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database",
-         "links": [
-             "https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database"
-         ],
-         "published": "Fri, 25 Apr 2025 02:39:00 +0000",
-         "publishedParsed": "2025-04-25T02:39:00Z"
-     },
-     {
-         "title": "National Airspace System Status",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43787730\"\u003eComments\u003c/a\u003e",
-         "link": "https://nasstatus.faa.gov/",
-         "links": [
-             "https://nasstatus.faa.gov/"
-         ],
-         "published": "Thu, 24 Apr 2025 21:31:09 +0000",
-         "publishedParsed": "2025-04-24T21:31:09Z"
-     },
-     {
-         "title": "DeepMind releases Lyria 2 music generation model",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43790093\"\u003eComments\u003c/a\u003e",
-         "link": "https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/",
-         "links": [
-             "https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/"
-         ],
-         "published": "Fri, 25 Apr 2025 04:25:15 +0000",
-         "publishedParsed": "2025-04-25T04:25:15Z"
-     },
-     {
-         "title": "OpenVSX, which VSCode forks rely on for extensions, down for 24 hours",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43785039\"\u003eComments\u003c/a\u003e",
-         "link": "https://status.open-vsx.org/",
-         "links": [
-             "https://status.open-vsx.org/"
-         ],
-         "published": "Thu, 24 Apr 2025 17:09:56 +0000",
-         "publishedParsed": "2025-04-24T17:09:56Z"
      },
      {
          "title": "Tarpit ideas: What are tarpit ideas and how to avoid them (2023) [video]",
@@ -110,44 +70,14 @@
          "publishedParsed": "2025-04-23T16:59:36Z"
      },
      {
-         "title": "You Can Be a Great Designer and Be Completely Unknown",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43787676\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown",
+         "title": "OpenVSX, which VSCode forks rely on for extensions, down for 24 hours",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43785039\"\u003eComments\u003c/a\u003e",
+         "link": "https://status.open-vsx.org/",
          "links": [
-             "https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown"
+             "https://status.open-vsx.org/"
          ],
-         "published": "Thu, 24 Apr 2025 21:24:58 +0000",
-         "publishedParsed": "2025-04-24T21:24:58Z"
-     },
-     {
-         "title": "Easily setup new MacBooks",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43791941\"\u003eComments\u003c/a\u003e",
-         "link": "https://catalins.tech/how-i-setup-new-macbooks/",
-         "links": [
-             "https://catalins.tech/how-i-setup-new-macbooks/"
-         ],
-         "published": "Fri, 25 Apr 2025 09:57:46 +0000",
-         "publishedParsed": "2025-04-25T09:57:46Z"
-     },
-     {
-         "title": "Ask HN: Share your AI prompt that stumps every model",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43782299\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=43782299",
-         "links": [
-             "https://news.ycombinator.com/item?id=43782299"
-         ],
-         "published": "Thu, 24 Apr 2025 13:11:22 +0000",
-         "publishedParsed": "2025-04-24T13:11:22Z"
-     },
-     {
-         "title": "Prepper Disk",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43790409\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.prepperdisk.com/",
-         "links": [
-             "https://www.prepperdisk.com/"
-         ],
-         "published": "Fri, 25 Apr 2025 05:32:10 +0000",
-         "publishedParsed": "2025-04-25T05:32:10Z"
+         "published": "Thu, 24 Apr 2025 17:09:56 +0000",
+         "publishedParsed": "2025-04-24T17:09:56Z"
      },
      {
          "title": "A Visual Journey Through Async Rust",
@@ -160,14 +90,34 @@
          "publishedParsed": "2025-04-25T00:50:35Z"
      },
      {
-         "title": "One quantum transition makes light at 21 cm",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43784721\"\u003eComments\u003c/a\u003e",
-         "link": "https://bigthink.com/starts-with-a-bang/21cm-magic-length/",
+         "title": "Ask HN: Share your AI prompt that stumps every model",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43782299\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=43782299",
          "links": [
-             "https://bigthink.com/starts-with-a-bang/21cm-magic-length/"
+             "https://news.ycombinator.com/item?id=43782299"
          ],
-         "published": "Thu, 24 Apr 2025 16:38:54 +0000",
-         "publishedParsed": "2025-04-24T16:38:54Z"
+         "published": "Thu, 24 Apr 2025 13:11:22 +0000",
+         "publishedParsed": "2025-04-24T13:11:22Z"
+     },
+     {
+         "title": "Avoiding Skill Atrophy in the Age of AI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43791474\"\u003eComments\u003c/a\u003e",
+         "link": "https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age",
+         "links": [
+             "https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age"
+         ],
+         "published": "Fri, 25 Apr 2025 08:30:54 +0000",
+         "publishedParsed": "2025-04-25T08:30:54Z"
+     },
+     {
+         "title": "DeepMind releases Lyria 2 music generation model",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43790093\"\u003eComments\u003c/a\u003e",
+         "link": "https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/",
+         "links": [
+             "https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/"
+         ],
+         "published": "Fri, 25 Apr 2025 04:25:15 +0000",
+         "publishedParsed": "2025-04-25T04:25:15Z"
      },
      {
          "title": "Instant SQL for results as you type in DuckDB UI",
@@ -180,24 +130,14 @@
          "publishedParsed": "2025-04-24T13:23:26Z"
      },
      {
-         "title": "Show HN: Faasta – A self-hosted Serverless platform for WASM-wasi-HTTP in Rust",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43789010\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/fourlexboehm/faasta",
+         "title": "One quantum transition makes light at 21 cm",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43784721\"\u003eComments\u003c/a\u003e",
+         "link": "https://bigthink.com/starts-with-a-bang/21cm-magic-length/",
          "links": [
-             "https://github.com/fourlexboehm/faasta"
+             "https://bigthink.com/starts-with-a-bang/21cm-magic-length/"
          ],
-         "published": "Fri, 25 Apr 2025 00:31:05 +0000",
-         "publishedParsed": "2025-04-25T00:31:05Z"
-     },
-     {
-         "title": "PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43786514\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2503.19779",
-         "links": [
-             "https://arxiv.org/abs/2503.19779"
-         ],
-         "published": "Thu, 24 Apr 2025 19:28:29 +0000",
-         "publishedParsed": "2025-04-24T19:28:29Z"
+         "published": "Thu, 24 Apr 2025 16:38:54 +0000",
+         "publishedParsed": "2025-04-24T16:38:54Z"
      },
      {
          "title": "Show HN: Lemon Slice Live – Have a video call with a transformer model",
@@ -210,14 +150,34 @@
          "publishedParsed": "2025-04-24T17:10:14Z"
      },
      {
-         "title": "Show HN: I built Lovable for text bots and mini apps",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43780918\"\u003eComments\u003c/a\u003e",
-         "link": "https://plutonic.dev",
+         "title": "You Can Be a Great Designer and Be Completely Unknown",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43787676\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown",
          "links": [
-             "https://plutonic.dev"
+             "https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown"
          ],
-         "published": "Thu, 24 Apr 2025 10:03:53 +0000",
-         "publishedParsed": "2025-04-24T10:03:53Z"
+         "published": "Thu, 24 Apr 2025 21:24:58 +0000",
+         "publishedParsed": "2025-04-24T21:24:58Z"
+     },
+     {
+         "title": "PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43786514\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2503.19779",
+         "links": [
+             "https://arxiv.org/abs/2503.19779"
+         ],
+         "published": "Thu, 24 Apr 2025 19:28:29 +0000",
+         "publishedParsed": "2025-04-24T19:28:29Z"
+     },
+     {
+         "title": "Show HN: Faasta – A self-hosted Serverless platform for WASM-wasi-HTTP in Rust",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43789010\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/fourlexboehm/faasta",
+         "links": [
+             "https://github.com/fourlexboehm/faasta"
+         ],
+         "published": "Fri, 25 Apr 2025 00:31:05 +0000",
+         "publishedParsed": "2025-04-25T00:31:05Z"
      },
      {
          "title": "Fundamental flaws of SIMD ISAs (2021)",
@@ -230,6 +190,26 @@
          "publishedParsed": "2025-04-24T14:42:03Z"
      },
      {
+         "title": "Show HN: Logiquiz – Daily Self-Referential Puzzles",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43772110\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.logiquiz.com/",
+         "links": [
+             "https://www.logiquiz.com/"
+         ],
+         "published": "Wed, 23 Apr 2025 13:43:39 +0000",
+         "publishedParsed": "2025-04-23T13:43:39Z"
+     },
+     {
+         "title": "Show HN: I built Lovable for text bots and mini apps",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43780918\"\u003eComments\u003c/a\u003e",
+         "link": "https://plutonic.dev",
+         "links": [
+             "https://plutonic.dev"
+         ],
+         "published": "Thu, 24 Apr 2025 10:03:53 +0000",
+         "publishedParsed": "2025-04-24T10:03:53Z"
+     },
+     {
          "title": "A Principled Approach to Querying Data – A Type-Safe Search DSL",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43784200\"\u003eComments\u003c/a\u003e",
          "link": "https://www.claudiu-ivan.com/writing/search-dsl",
@@ -238,16 +218,6 @@
          ],
          "published": "Thu, 24 Apr 2025 15:53:15 +0000",
          "publishedParsed": "2025-04-24T15:53:15Z"
-     },
-     {
-         "title": "Show HN: I reverse engineered top websites to build an animated UI library",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43785464\"\u003eComments\u003c/a\u003e",
-         "link": "https://reverseui.com",
-         "links": [
-             "https://reverseui.com"
-         ],
-         "published": "Thu, 24 Apr 2025 17:47:09 +0000",
-         "publishedParsed": "2025-04-24T17:47:09Z"
      },
      {
          "title": "Asymmetric Content Moderation in Search Markets: The Case of Adult Websites",
@@ -260,6 +230,16 @@
          "publishedParsed": "2025-04-24T15:38:44Z"
      },
      {
+         "title": "Careless People",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43780363\"\u003eComments\u003c/a\u003e",
+         "link": "https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf",
+         "links": [
+             "https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf"
+         ],
+         "published": "Thu, 24 Apr 2025 08:17:11 +0000",
+         "publishedParsed": "2025-04-24T08:17:11Z"
+     },
+     {
          "title": "Microsoft subtracts C/C++ extension from VS Code forks",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43788125\"\u003eComments\u003c/a\u003e",
          "link": "https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/",
@@ -270,33 +250,43 @@
          "publishedParsed": "2025-04-24T22:18:49Z"
      },
      {
-         "title": "There's a Seeker Born Every Minute (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43759466\"\u003eComments\u003c/a\u003e",
-         "link": "https://lareviewofbooks.org/article/theres-a-seeker-born-every-minute/",
+         "title": "Assignment 5: Cars and Key Fobs (2021)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43780876\"\u003eComments\u003c/a\u003e",
+         "link": "https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html",
          "links": [
-             "https://lareviewofbooks.org/article/theres-a-seeker-born-every-minute/"
+             "https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html"
          ],
-         "published": "Tue, 22 Apr 2025 06:05:36 +0000",
-         "publishedParsed": "2025-04-22T06:05:36Z"
+         "published": "Thu, 24 Apr 2025 09:53:22 +0000",
+         "publishedParsed": "2025-04-24T09:53:22Z"
      },
      {
-         "title": "The hidden cost of AI coding",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43775358\"\u003eComments\u003c/a\u003e",
-         "link": "https://terriblesoftware.org/2025/04/23/the-hidden-cost-of-ai-coding/",
+         "title": "I Tried to Buy an Actual Barrel of Crude Oil (2015)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43761572\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bloomberg.com/news/articles/2015-11-03/that-time-i-tried-to-buy-some-crude-oil",
          "links": [
-             "https://terriblesoftware.org/2025/04/23/the-hidden-cost-of-ai-coding/"
+             "https://www.bloomberg.com/news/articles/2015-11-03/that-time-i-tried-to-buy-some-crude-oil"
          ],
-         "published": "Wed, 23 Apr 2025 18:44:47 +0000",
-         "publishedParsed": "2025-04-23T18:44:47Z"
+         "published": "Tue, 22 Apr 2025 12:58:43 +0000",
+         "publishedParsed": "2025-04-22T12:58:43Z"
      },
      {
-         "title": "Swift Container Plugin",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43788994\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/apple/swift-container-plugin",
+         "title": "Show HN: Infat – Declaritive application assocation manager for macOS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43785350\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/philocalyst/infat",
          "links": [
-             "https://github.com/apple/swift-container-plugin"
+             "https://github.com/philocalyst/infat"
          ],
-         "published": "Fri, 25 Apr 2025 00:28:35 +0000",
-         "publishedParsed": "2025-04-25T00:28:35Z"
+         "published": "Thu, 24 Apr 2025 17:37:52 +0000",
+         "publishedParsed": "2025-04-24T17:37:52Z"
+     },
+     {
+         "title": "Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43773563\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/trycua/cua",
+         "links": [
+             "https://github.com/trycua/cua"
+         ],
+         "published": "Wed, 23 Apr 2025 15:55:05 +0000",
+         "publishedParsed": "2025-04-23T15:55:05Z"
      }
  ]
