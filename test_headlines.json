@@ -1,5 +1,15 @@
 [
      {
+         "title": "Cloth",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43801179\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cloudofoz.com/verlet-test/",
+         "links": [
+             "https://www.cloudofoz.com/verlet-test/"
+         ],
+         "published": "Sat, 26 Apr 2025 05:31:52 +0000",
+         "publishedParsed": "2025-04-26T05:31:52Z"
+     },
+     {
          "title": "I wrote a book called \"Crap Towns\". It seemed funny at the time",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43799820\"\u003eComments\u003c/a\u003e",
          "link": "https://samj.substack.com/p/that-joke-isnt-funny-any-more",
@@ -30,6 +40,16 @@
          "publishedParsed": "2025-04-25T18:20:53Z"
      },
      {
+         "title": "Show HN: Empty Enter Expander – Type less in the terminal with this tool",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43800574\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/waszabi/empty-enter-expander",
+         "links": [
+             "https://github.com/waszabi/empty-enter-expander"
+         ],
+         "published": "Sat, 26 Apr 2025 03:09:47 +0000",
+         "publishedParsed": "2025-04-26T03:09:47Z"
+     },
+     {
          "title": "Parallel ./configure",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43799396\"\u003eComments\u003c/a\u003e",
          "link": "https://tavianator.com/2025/configure.html",
@@ -38,16 +58,6 @@
          ],
          "published": "Fri, 25 Apr 2025 23:19:56 +0000",
          "publishedParsed": "2025-04-25T23:19:56Z"
-     },
-     {
-         "title": "Colossal Cave Adventure (1976)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43800222\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/wh0am1-dev/adventure",
-         "links": [
-             "https://github.com/wh0am1-dev/adventure"
-         ],
-         "published": "Sat, 26 Apr 2025 01:52:32 +0000",
-         "publishedParsed": "2025-04-26T01:52:32Z"
      },
      {
          "title": "World Emulation via Neural Network",
@@ -60,26 +70,6 @@
          "publishedParsed": "2025-04-25T21:33:57Z"
      },
      {
-         "title": "Show HN: I used OpenAI's new image API for a personalized coloring book service",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43791992\"\u003eComments\u003c/a\u003e",
-         "link": "https://clevercoloringbook.com/",
-         "links": [
-             "https://clevercoloringbook.com/"
-         ],
-         "published": "Fri, 25 Apr 2025 10:05:39 +0000",
-         "publishedParsed": "2025-04-25T10:05:39Z"
-     },
-     {
-         "title": "I designed my LED matrix PCB with code",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43798832\"\u003eComments\u003c/a\u003e",
-         "link": "https://docs.tscircuit.com/tutorials/building-led-matrix",
-         "links": [
-             "https://docs.tscircuit.com/tutorials/building-led-matrix"
-         ],
-         "published": "Fri, 25 Apr 2025 21:43:33 +0000",
-         "publishedParsed": "2025-04-25T21:43:33Z"
-     },
-     {
          "title": "Writing \"/etc/hosts\" breaks the Substack editor",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43793526\"\u003eComments\u003c/a\u003e",
          "link": "https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack",
@@ -88,6 +78,16 @@
          ],
          "published": "Fri, 25 Apr 2025 13:48:30 +0000",
          "publishedParsed": "2025-04-25T13:48:30Z"
+     },
+     {
+         "title": "Colossal Cave Adventure (1976)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43800222\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/wh0am1-dev/adventure",
+         "links": [
+             "https://github.com/wh0am1-dev/adventure"
+         ],
+         "published": "Sat, 26 Apr 2025 01:52:32 +0000",
+         "publishedParsed": "2025-04-26T01:52:32Z"
      },
      {
          "title": "Show HN: Formalizing Principia Mathematica using Lean",
@@ -100,14 +100,14 @@
          "publishedParsed": "2025-04-25T18:49:30Z"
      },
      {
-         "title": "Show HN: Empty Enter Expander – Type less in the terminal with this tool",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43800574\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/waszabi/empty-enter-expander",
+         "title": "I designed my LED matrix PCB with code",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43798832\"\u003eComments\u003c/a\u003e",
+         "link": "https://docs.tscircuit.com/tutorials/building-led-matrix",
          "links": [
-             "https://github.com/waszabi/empty-enter-expander"
+             "https://docs.tscircuit.com/tutorials/building-led-matrix"
          ],
-         "published": "Sat, 26 Apr 2025 03:09:47 +0000",
-         "publishedParsed": "2025-04-26T03:09:47Z"
+         "published": "Fri, 25 Apr 2025 21:43:33 +0000",
+         "publishedParsed": "2025-04-25T21:43:33Z"
      },
      {
          "title": "Eurorack Knob Idea",
@@ -130,14 +130,14 @@
          "publishedParsed": "2025-04-26T00:08:14Z"
      },
      {
-         "title": "Paper2Code: Automating Code Generation from Scientific Papers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43796419\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2504.17192",
+         "title": "Show HN: I used OpenAI's new image API for a personalized coloring book service",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43791992\"\u003eComments\u003c/a\u003e",
+         "link": "https://clevercoloringbook.com/",
          "links": [
-             "https://arxiv.org/abs/2504.17192"
+             "https://clevercoloringbook.com/"
          ],
-         "published": "Fri, 25 Apr 2025 17:36:15 +0000",
-         "publishedParsed": "2025-04-25T17:36:15Z"
+         "published": "Fri, 25 Apr 2025 10:05:39 +0000",
+         "publishedParsed": "2025-04-25T10:05:39Z"
      },
      {
          "title": "A $20k American-made electric pickup with no paint, no stereo, no screen",
@@ -150,16 +150,6 @@
          "publishedParsed": "2025-04-25T15:01:37Z"
      },
      {
-         "title": "Show HN: Magnitude – open-source, AI-native test framework for web apps",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43796003\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/magnitudedev/magnitude",
-         "links": [
-             "https://github.com/magnitudedev/magnitude"
-         ],
-         "published": "Fri, 25 Apr 2025 17:00:35 +0000",
-         "publishedParsed": "2025-04-25T17:00:35Z"
-     },
-     {
          "title": "Reproducibility project fails to validate dozens of biomedical studies",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43795300\"\u003eComments\u003c/a\u003e",
          "link": "https://www.nature.com/articles/d41586-025-01266-x",
@@ -168,16 +158,6 @@
          ],
          "published": "Fri, 25 Apr 2025 16:14:08 +0000",
          "publishedParsed": "2025-04-25T16:14:08Z"
-     },
-     {
-         "title": "Curry: A functional logic programming language",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43797212\"\u003eComments\u003c/a\u003e",
-         "link": "https://curry-lang.org/",
-         "links": [
-             "https://curry-lang.org/"
-         ],
-         "published": "Fri, 25 Apr 2025 18:46:22 +0000",
-         "publishedParsed": "2025-04-25T18:46:22Z"
      },
      {
          "title": "Programming in D: Tutorial and Reference",
@@ -200,14 +180,34 @@
          "publishedParsed": "2025-04-25T14:42:27Z"
      },
      {
-         "title": "Gym Class (YC W22) Is Hiring Character Animation Engineering Lead",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43798467\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal",
+         "title": "Paper2Code: Automating Code Generation from Scientific Papers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43796419\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2504.17192",
          "links": [
-             "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal"
+             "https://arxiv.org/abs/2504.17192"
          ],
-         "published": "Fri, 25 Apr 2025 21:01:05 +0000",
-         "publishedParsed": "2025-04-25T21:01:05Z"
+         "published": "Fri, 25 Apr 2025 17:36:15 +0000",
+         "publishedParsed": "2025-04-25T17:36:15Z"
+     },
+     {
+         "title": "Show HN: Magnitude – open-source, AI-native test framework for web apps",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43796003\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/magnitudedev/magnitude",
+         "links": [
+             "https://github.com/magnitudedev/magnitude"
+         ],
+         "published": "Fri, 25 Apr 2025 17:00:35 +0000",
+         "publishedParsed": "2025-04-25T17:00:35Z"
+     },
+     {
+         "title": "Curry: A functional logic programming language",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43797212\"\u003eComments\u003c/a\u003e",
+         "link": "https://curry-lang.org/",
+         "links": [
+             "https://curry-lang.org/"
+         ],
+         "published": "Fri, 25 Apr 2025 18:46:22 +0000",
+         "publishedParsed": "2025-04-25T18:46:22Z"
      },
      {
          "title": "GCC 15.1",
@@ -220,14 +220,14 @@
          "publishedParsed": "2025-04-25T10:53:59Z"
      },
      {
-         "title": "Differential Coverage for Debugging",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43795090\"\u003eComments\u003c/a\u003e",
-         "link": "https://research.swtch.com/diffcover",
+         "title": "Amazon Japan ordered to pay 35M. yen for allowing listing of fakes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43800988\"\u003eComments\u003c/a\u003e",
+         "link": "https://mainichi.jp/english/articles/20250425/p2g/00m/0bu/047000c",
          "links": [
-             "https://research.swtch.com/diffcover"
+             "https://mainichi.jp/english/articles/20250425/p2g/00m/0bu/047000c"
          ],
-         "published": "Fri, 25 Apr 2025 16:01:24 +0000",
-         "publishedParsed": "2025-04-25T16:01:24Z"
+         "published": "Sat, 26 Apr 2025 04:39:02 +0000",
+         "publishedParsed": "2025-04-26T04:39:02Z"
      },
      {
          "title": "ACM's flagship magazine seeks submissions by/for practitioners",
@@ -238,6 +238,16 @@
          ],
          "published": "Fri, 25 Apr 2025 23:04:54 +0000",
          "publishedParsed": "2025-04-25T23:04:54Z"
+     },
+     {
+         "title": "Gym Class (YC W22) Is Hiring Character Animation Engineering Lead",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43798467\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal",
+         "links": [
+             "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal"
+         ],
+         "published": "Fri, 25 Apr 2025 21:01:05 +0000",
+         "publishedParsed": "2025-04-25T21:01:05Z"
      },
      {
          "title": "Large language models, small labor market effects [pdf]",
@@ -278,15 +288,5 @@
          ],
          "published": "Sat, 26 Apr 2025 01:39:28 +0000",
          "publishedParsed": "2025-04-26T01:39:28Z"
-     },
-     {
-         "title": "The VTech Socratic Method",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43779398\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.leadedsolder.com/2025/04/22/vtech-socrates-pickup.html",
-         "links": [
-             "https://www.leadedsolder.com/2025/04/22/vtech-socrates-pickup.html"
-         ],
-         "published": "Thu, 24 Apr 2025 05:05:45 +0000",
-         "publishedParsed": "2025-04-24T05:05:45Z"
      }
  ]
