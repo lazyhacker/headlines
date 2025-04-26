@@ -10,7 +10,7 @@
          "publishedParsed": "2025-04-25T18:20:53Z"
      },
      {
-         "title": "I Designed My LED Matrix PCB with Code Instead of Traditional EDA Tools",
+         "title": "I designed my LED matrix PCB with code",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43798832\"\u003eComments\u003c/a\u003e",
          "link": "https://docs.tscircuit.com/tutorials/building-led-matrix",
          "links": [
@@ -20,14 +20,24 @@
          "publishedParsed": "2025-04-25T21:43:33Z"
      },
      {
-         "title": "Show HN: A modern spreadsheet with Python integration",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43796898\"\u003eComments\u003c/a\u003e",
-         "link": "https://citadel5.com/gs-calc.htm",
+         "title": "World Emulation via Neural Network",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43798757\"\u003eComments\u003c/a\u003e",
+         "link": "https://madebyoll.in/posts/world_emulation_via_dnn/",
          "links": [
-             "https://citadel5.com/gs-calc.htm"
+             "https://madebyoll.in/posts/world_emulation_via_dnn/"
          ],
-         "published": "Fri, 25 Apr 2025 18:17:45 +0000",
-         "publishedParsed": "2025-04-25T18:17:45Z"
+         "published": "Fri, 25 Apr 2025 21:33:57 +0000",
+         "publishedParsed": "2025-04-25T21:33:57Z"
+     },
+     {
+         "title": "Show HN: I used OpenAI's new image API for a personalized coloring book service",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43791992\"\u003eComments\u003c/a\u003e",
+         "link": "https://clevercoloringbook.com/",
+         "links": [
+             "https://clevercoloringbook.com/"
+         ],
+         "published": "Fri, 25 Apr 2025 10:05:39 +0000",
+         "publishedParsed": "2025-04-25T10:05:39Z"
      },
      {
          "title": "Show HN: Formalizing Principia Mathematica using Lean",
@@ -50,16 +60,6 @@
          "publishedParsed": "2025-04-25T13:48:30Z"
      },
      {
-         "title": "World Emulation via DNN",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43798757\"\u003eComments\u003c/a\u003e",
-         "link": "https://madebyoll.in/posts/world_emulation_via_dnn/",
-         "links": [
-             "https://madebyoll.in/posts/world_emulation_via_dnn/"
-         ],
-         "published": "Fri, 25 Apr 2025 21:33:57 +0000",
-         "publishedParsed": "2025-04-25T21:33:57Z"
-     },
-     {
          "title": "Curry: A functional logic programming language",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43797212\"\u003eComments\u003c/a\u003e",
          "link": "https://curry-lang.org/",
@@ -68,36 +68,6 @@
          ],
          "published": "Fri, 25 Apr 2025 18:46:22 +0000",
          "publishedParsed": "2025-04-25T18:46:22Z"
-     },
-     {
-         "title": "Paper2Code: Automating Code Generation from Scientific Papers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43796419\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2504.17192",
-         "links": [
-             "https://arxiv.org/abs/2504.17192"
-         ],
-         "published": "Fri, 25 Apr 2025 17:36:15 +0000",
-         "publishedParsed": "2025-04-25T17:36:15Z"
-     },
-     {
-         "title": "Programming in D: Tutorial and Reference",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43798009\"\u003eComments\u003c/a\u003e",
-         "link": "https://ddili.org/ders/d.en/",
-         "links": [
-             "https://ddili.org/ders/d.en/"
-         ],
-         "published": "Fri, 25 Apr 2025 20:06:33 +0000",
-         "publishedParsed": "2025-04-25T20:06:33Z"
-     },
-     {
-         "title": "Gym Class (YC W22) Is Hiring Character Animation Engineering Lead",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43798467\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal",
-         "links": [
-             "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal"
-         ],
-         "published": "Fri, 25 Apr 2025 21:01:05 +0000",
-         "publishedParsed": "2025-04-25T21:01:05Z"
      },
      {
          "title": "Show HN: Magnitude – open-source, AI-native test framework for web apps",
@@ -120,6 +90,36 @@
          "publishedParsed": "2025-04-25T13:19:02Z"
      },
      {
+         "title": "Paper2Code: Automating Code Generation from Scientific Papers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43796419\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2504.17192",
+         "links": [
+             "https://arxiv.org/abs/2504.17192"
+         ],
+         "published": "Fri, 25 Apr 2025 17:36:15 +0000",
+         "publishedParsed": "2025-04-25T17:36:15Z"
+     },
+     {
+         "title": "Reproducibility project fails to validate dozens of biomedical studies",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43795300\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nature.com/articles/d41586-025-01266-x",
+         "links": [
+             "https://www.nature.com/articles/d41586-025-01266-x"
+         ],
+         "published": "Fri, 25 Apr 2025 16:14:08 +0000",
+         "publishedParsed": "2025-04-25T16:14:08Z"
+     },
+     {
+         "title": "Programming in D: Tutorial and Reference",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43798009\"\u003eComments\u003c/a\u003e",
+         "link": "https://ddili.org/ders/d.en/",
+         "links": [
+             "https://ddili.org/ders/d.en/"
+         ],
+         "published": "Fri, 25 Apr 2025 20:06:33 +0000",
+         "publishedParsed": "2025-04-25T20:06:33Z"
+     },
+     {
          "title": "A $20k American-made electric pickup with no paint, no stereo, no screen",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43794284\"\u003eComments\u003c/a\u003e",
          "link": "https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos",
@@ -128,6 +128,26 @@
          ],
          "published": "Fri, 25 Apr 2025 15:01:37 +0000",
          "publishedParsed": "2025-04-25T15:01:37Z"
+     },
+     {
+         "title": "Gym Class (YC W22) Is Hiring Character Animation Engineering Lead",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43798467\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal",
+         "links": [
+             "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal"
+         ],
+         "published": "Fri, 25 Apr 2025 21:01:05 +0000",
+         "publishedParsed": "2025-04-25T21:01:05Z"
+     },
+     {
+         "title": "Parallel ./configure",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43799396\"\u003eComments\u003c/a\u003e",
+         "link": "https://tavianator.com/2025/configure.html",
+         "links": [
+             "https://tavianator.com/2025/configure.html"
+         ],
+         "published": "Fri, 25 Apr 2025 23:19:56 +0000",
+         "publishedParsed": "2025-04-25T23:19:56Z"
      },
      {
          "title": "Tumor-derived erythropoietin acts as immunosuppressive switch in cancer immunity",
@@ -140,26 +160,6 @@
          "publishedParsed": "2025-04-25T14:42:27Z"
      },
      {
-         "title": "Differential Coverage for Debugging",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43795090\"\u003eComments\u003c/a\u003e",
-         "link": "https://research.swtch.com/diffcover",
-         "links": [
-             "https://research.swtch.com/diffcover"
-         ],
-         "published": "Fri, 25 Apr 2025 16:01:24 +0000",
-         "publishedParsed": "2025-04-25T16:01:24Z"
-     },
-     {
-         "title": "Show HN: I used OpenAI's new image API for a personalized coloring book service",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43791992\"\u003eComments\u003c/a\u003e",
-         "link": "https://clevercoloringbook.com/",
-         "links": [
-             "https://clevercoloringbook.com/"
-         ],
-         "published": "Fri, 25 Apr 2025 10:05:39 +0000",
-         "publishedParsed": "2025-04-25T10:05:39Z"
-     },
-     {
          "title": "GCC 15.1",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43792248\"\u003eComments\u003c/a\u003e",
          "link": "https://gcc.gnu.org/gcc-15/",
@@ -168,6 +168,16 @@
          ],
          "published": "Fri, 25 Apr 2025 10:53:59 +0000",
          "publishedParsed": "2025-04-25T10:53:59Z"
+     },
+     {
+         "title": "Differential Coverage for Debugging",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43795090\"\u003eComments\u003c/a\u003e",
+         "link": "https://research.swtch.com/diffcover",
+         "links": [
+             "https://research.swtch.com/diffcover"
+         ],
+         "published": "Fri, 25 Apr 2025 16:01:24 +0000",
+         "publishedParsed": "2025-04-25T16:01:24Z"
      },
      {
          "title": "Large language models, small labor market effects [pdf]",
@@ -180,6 +190,16 @@
          "publishedParsed": "2025-04-25T08:15:18Z"
      },
      {
+         "title": "Show HN: A modern spreadsheet with Python integration",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43796898\"\u003eComments\u003c/a\u003e",
+         "link": "https://citadel5.com/gs-calc.htm",
+         "links": [
+             "https://citadel5.com/gs-calc.htm"
+         ],
+         "published": "Fri, 25 Apr 2025 18:17:45 +0000",
+         "publishedParsed": "2025-04-25T18:17:45Z"
+     },
+     {
          "title": "A Love Letter to People Who Believe in People",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43788255\"\u003eComments\u003c/a\u003e",
          "link": "https://www.swiss-miss.com/2025/04/a-love-letter-to-people-who-believe-in-people.html",
@@ -188,6 +208,16 @@
          ],
          "published": "Thu, 24 Apr 2025 22:35:01 +0000",
          "publishedParsed": "2025-04-24T22:35:01Z"
+     },
+     {
+         "title": "The Policy Puppetry Prompt: Novel bypass for major LLMs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43793280\"\u003eComments\u003c/a\u003e",
+         "link": "https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/",
+         "links": [
+             "https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/"
+         ],
+         "published": "Fri, 25 Apr 2025 13:18:17 +0000",
+         "publishedParsed": "2025-04-25T13:18:17Z"
      },
      {
          "title": "Echo – Open Hardware Music Player",
@@ -200,14 +230,14 @@
          "publishedParsed": "2025-04-23T23:11:39Z"
      },
      {
-         "title": "Done in by Time",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43797505\"\u003eComments\u003c/a\u003e",
-         "link": "https://thelampmagazine.com/issues/issue-27/done-in-by-time",
+         "title": "Rockets, robots and supercars made in Greece",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43797750\"\u003eComments\u003c/a\u003e",
+         "link": "https://greekanalyst.substack.com/p/rockets-robots-and-supercars-made",
          "links": [
-             "https://thelampmagazine.com/issues/issue-27/done-in-by-time"
+             "https://greekanalyst.substack.com/p/rockets-robots-and-supercars-made"
          ],
-         "published": "Fri, 25 Apr 2025 19:12:50 +0000",
-         "publishedParsed": "2025-04-25T19:12:50Z"
+         "published": "Fri, 25 Apr 2025 19:37:04 +0000",
+         "publishedParsed": "2025-04-25T19:37:04Z"
      },
      {
          "title": "The VTech Socratic Method",
@@ -230,34 +260,14 @@
          "publishedParsed": "2025-04-25T02:30:34Z"
      },
      {
-         "title": "Exploiting Undefined Behavior in C/C++ Programs: The Performance Impact [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43766263\"\u003eComments\u003c/a\u003e",
-         "link": "https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf",
+         "title": "Done in by Time",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43797505\"\u003eComments\u003c/a\u003e",
+         "link": "https://thelampmagazine.com/issues/issue-27/done-in-by-time",
          "links": [
-             "https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf"
+             "https://thelampmagazine.com/issues/issue-27/done-in-by-time"
          ],
-         "published": "Tue, 22 Apr 2025 21:01:48 +0000",
-         "publishedParsed": "2025-04-22T21:01:48Z"
-     },
-     {
-         "title": "Mary MacLane, the Wild Woman from Butte",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43790683\"\u003eComments\u003c/a\u003e",
-         "link": "https://publicdomainreview.org/essay/i-am-making-the-world-my-confessor/",
-         "links": [
-             "https://publicdomainreview.org/essay/i-am-making-the-world-my-confessor/"
-         ],
-         "published": "Fri, 25 Apr 2025 06:20:12 +0000",
-         "publishedParsed": "2025-04-25T06:20:12Z"
-     },
-     {
-         "title": "Tales of the Yucca Man (2018)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43797774\"\u003eComments\u003c/a\u003e",
-         "link": "https://longreads.com/2018/04/25/the-known-unknown-tales-of-the-yucca-man/",
-         "links": [
-             "https://longreads.com/2018/04/25/the-known-unknown-tales-of-the-yucca-man/"
-         ],
-         "published": "Fri, 25 Apr 2025 19:39:15 +0000",
-         "publishedParsed": "2025-04-25T19:39:15Z"
+         "published": "Fri, 25 Apr 2025 19:12:50 +0000",
+         "publishedParsed": "2025-04-25T19:12:50Z"
      },
      {
          "title": "Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals",
@@ -270,13 +280,13 @@
          "publishedParsed": "2025-04-24T22:10:15Z"
      },
      {
-         "title": "What If We Could Rebuild Kafka from Scratch?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43790420\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.morling.dev/blog/what-if-we-could-rebuild-kafka-from-scratch/",
+         "title": "Exploiting Undefined Behavior in C/C++ Programs: The Performance Impact [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43766263\"\u003eComments\u003c/a\u003e",
+         "link": "https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf",
          "links": [
-             "https://www.morling.dev/blog/what-if-we-could-rebuild-kafka-from-scratch/"
+             "https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf"
          ],
-         "published": "Fri, 25 Apr 2025 05:34:52 +0000",
-         "publishedParsed": "2025-04-25T05:34:52Z"
+         "published": "Tue, 22 Apr 2025 21:01:48 +0000",
+         "publishedParsed": "2025-04-22T21:01:48Z"
      }
  ]
