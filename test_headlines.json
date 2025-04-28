@@ -1,5 +1,15 @@
 [
      {
+         "title": "I built a hardware processor that runs Python",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43820228\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.runpyxl.com/gpio",
+         "links": [
+             "https://www.runpyxl.com/gpio"
+         ],
+         "published": "Mon, 28 Apr 2025 11:44:54 +0000",
+         "publishedParsed": "2025-04-28T11:44:54Z"
+     },
+     {
          "title": "Deep dive into how DOS games do copy protection by making themselves unwinnable",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43820076\"\u003eComments\u003c/a\u003e",
          "link": "https://mrwint.github.io/winter/writeup/writeup.html",
@@ -10,14 +20,24 @@
          "publishedParsed": "2025-04-28T11:29:39Z"
      },
      {
-         "title": "I built a hardware processor that runs Python",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43820228\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.runpyxl.com/gpio",
+         "title": "We Found Insurance Fraud in Our Crash Data",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43821578\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.levs.fyi/blog/we-found-insurance-fraud-in-our-crash-data/",
          "links": [
-             "https://www.runpyxl.com/gpio"
+             "https://www.levs.fyi/blog/we-found-insurance-fraud-in-our-crash-data/"
          ],
-         "published": "Mon, 28 Apr 2025 11:44:54 +0000",
-         "publishedParsed": "2025-04-28T11:44:54Z"
+         "published": "Mon, 28 Apr 2025 13:57:34 +0000",
+         "publishedParsed": "2025-04-28T13:57:34Z"
+     },
+     {
+         "title": "Tiny-LLM – a course of serving LLM on Apple Silicon for systems engineers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43820022\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/skyzh/tiny-llm",
+         "links": [
+             "https://github.com/skyzh/tiny-llm"
+         ],
+         "published": "Mon, 28 Apr 2025 11:24:41 +0000",
+         "publishedParsed": "2025-04-28T11:24:41Z"
      },
      {
          "title": "Internet in a Box",
@@ -40,14 +60,14 @@
          "publishedParsed": "2025-04-28T00:38:53Z"
      },
      {
-         "title": "Reports of widespread power cuts in Spain and Portugal",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43820043\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bbc.com/news/live/c9wpq8xrvd9t",
+         "title": "Unauthorised AI Bots on Reddit Are Eroding Sociality",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43821600\"\u003eComments\u003c/a\u003e",
+         "link": "https://mssv.net/2025/04/27/unauthorised-ai-bots-on-r-changemyview-are-eroding-sociality/",
          "links": [
-             "https://www.bbc.com/news/live/c9wpq8xrvd9t"
+             "https://mssv.net/2025/04/27/unauthorised-ai-bots-on-r-changemyview-are-eroding-sociality/"
          ],
-         "published": "Mon, 28 Apr 2025 11:26:34 +0000",
-         "publishedParsed": "2025-04-28T11:26:34Z"
+         "published": "Mon, 28 Apr 2025 13:59:44 +0000",
+         "publishedParsed": "2025-04-28T13:59:44Z"
      },
      {
          "title": "AI helps unravel a cause of Alzheimer’s and identify a therapeutic candidate",
@@ -80,26 +100,6 @@
          "publishedParsed": "2025-04-28T12:00:16Z"
      },
      {
-         "title": "Reversing the Fossilization of Computer Science Conferences",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43818518\"\u003eComments\u003c/a\u003e",
-         "link": "https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/",
-         "links": [
-             "https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/"
-         ],
-         "published": "Mon, 28 Apr 2025 07:17:42 +0000",
-         "publishedParsed": "2025-04-28T07:17:42Z"
-     },
-     {
-         "title": "I just want to code (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43814708\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.zachbellay.com/daily/i-just-want-to-code/",
-         "links": [
-             "https://www.zachbellay.com/daily/i-just-want-to-code/"
-         ],
-         "published": "Sun, 27 Apr 2025 20:08:38 +0000",
-         "publishedParsed": "2025-04-27T20:08:38Z"
-     },
-     {
          "title": "Ask HN: What are you working on? (April 2025)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43815523\"\u003eComments\u003c/a\u003e",
          "link": "https://news.ycombinator.com/item?id=43815523",
@@ -108,116 +108,6 @@
          ],
          "published": "Sun, 27 Apr 2025 22:08:21 +0000",
          "publishedParsed": "2025-04-27T22:08:21Z"
-     },
-     {
-         "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43817377\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2412.15287",
-         "links": [
-             "https://arxiv.org/abs/2412.15287"
-         ],
-         "published": "Mon, 28 Apr 2025 03:56:46 +0000",
-         "publishedParsed": "2025-04-28T03:56:46Z"
-     },
-     {
-         "title": "Show HN: Cleverb.ee – open-source agent that writes a cited research report",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43817423\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/SureScaleAI/cleverbee",
-         "links": [
-             "https://github.com/SureScaleAI/cleverbee"
-         ],
-         "published": "Mon, 28 Apr 2025 04:04:32 +0000",
-         "publishedParsed": "2025-04-28T04:04:32Z"
-     },
-     {
-         "title": "Read the Obits",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43813175\"\u003eComments\u003c/a\u003e",
-         "link": "https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/",
-         "links": [
-             "https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/"
-         ],
-         "published": "Sun, 27 Apr 2025 16:40:30 +0000",
-         "publishedParsed": "2025-04-27T16:40:30Z"
-     },
-     {
-         "title": "Making a game from scratch using only a guitar [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43820144\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=wesICmc48UE",
-         "links": [
-             "https://www.youtube.com/watch?v=wesICmc48UE"
-         ],
-         "published": "Mon, 28 Apr 2025 11:37:16 +0000",
-         "publishedParsed": "2025-04-28T11:37:16Z"
-     },
-     {
-         "title": "To 'Reclaim Future-Making', Amazon Workers Published Collection of SciFi Stories",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43816697\"\u003eComments\u003c/a\u003e",
-         "link": "https://afteramazon.world/",
-         "links": [
-             "https://afteramazon.world/"
-         ],
-         "published": "Mon, 28 Apr 2025 01:32:57 +0000",
-         "publishedParsed": "2025-04-28T01:32:57Z"
-     },
-     {
-         "title": "Did 5G kill the IMSI catcher?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43813083\"\u003eComments\u003c/a\u003e",
-         "link": "https://zetier.com/5g-imsi-catcher/",
-         "links": [
-             "https://zetier.com/5g-imsi-catcher/"
-         ],
-         "published": "Sun, 27 Apr 2025 16:27:57 +0000",
-         "publishedParsed": "2025-04-27T16:27:57Z"
-     },
-     {
-         "title": "Nationwide Power Outages Also Disrupt Internet Traffic in Portugal and Spain",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43819914\"\u003eComments\u003c/a\u003e",
-         "link": "https://twitter.com/CloudflareRadar/status/1916811587408536055",
-         "links": [
-             "https://twitter.com/CloudflareRadar/status/1916811587408536055"
-         ],
-         "published": "Mon, 28 Apr 2025 11:10:19 +0000",
-         "publishedParsed": "2025-04-28T11:10:19Z"
-     },
-     {
-         "title": "Widespread power outage hits Spain and neighboring countries France and Portugal",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43820740\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theverge.com/news/657017/major-blackout-spain-portugal-france-europe",
-         "links": [
-             "https://www.theverge.com/news/657017/major-blackout-spain-portugal-france-europe"
-         ],
-         "published": "Mon, 28 Apr 2025 12:29:44 +0000",
-         "publishedParsed": "2025-04-28T12:29:44Z"
-     },
-     {
-         "title": "Presentation Slides with Markdown",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43816634\"\u003eComments\u003c/a\u003e",
-         "link": "https://sli.dev",
-         "links": [
-             "https://sli.dev"
-         ],
-         "published": "Mon, 28 Apr 2025 01:21:01 +0000",
-         "publishedParsed": "2025-04-28T01:21:01Z"
-     },
-     {
-         "title": "Show HN: I486SX_soft_FPU – Software FPU Emulator for NetBSD 10 on 486SX",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43815116\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/mezantrop/i486SX_soft_FPU",
-         "links": [
-             "https://github.com/mezantrop/i486SX_soft_FPU"
-         ],
-         "published": "Sun, 27 Apr 2025 21:04:13 +0000",
-         "publishedParsed": "2025-04-27T21:04:13Z"
-     },
-     {
-         "title": "The suburban office park that launched Silicon Valley",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43815558\"\u003eComments\u003c/a\u003e",
-         "link": "https://thehustle.co/originals/the-suburban-office-park-that-launched-silicon-valley",
-         "links": [
-             "https://thehustle.co/originals/the-suburban-office-park-that-launched-silicon-valley"
-         ],
-         "published": "Sun, 27 Apr 2025 22:14:32 +0000",
-         "publishedParsed": "2025-04-27T22:14:32Z"
      },
      {
          "title": "Naur's \"Programming as Theory Building\" and LLMs replacing human programmers",
@@ -230,14 +120,74 @@
          "publishedParsed": "2025-04-28T06:16:19Z"
      },
      {
-         "title": "Reverse geocoding is hard",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43812323\"\u003eComments\u003c/a\u003e",
-         "link": "https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/",
+         "title": "Reversing the Fossilization of Computer Science Conferences",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43818518\"\u003eComments\u003c/a\u003e",
+         "link": "https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/",
          "links": [
-             "https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/"
+             "https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/"
          ],
-         "published": "Sun, 27 Apr 2025 14:45:36 +0000",
-         "publishedParsed": "2025-04-27T14:45:36Z"
+         "published": "Mon, 28 Apr 2025 07:17:42 +0000",
+         "publishedParsed": "2025-04-28T07:17:42Z"
+     },
+     {
+         "title": "Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43817377\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2412.15287",
+         "links": [
+             "https://arxiv.org/abs/2412.15287"
+         ],
+         "published": "Mon, 28 Apr 2025 03:56:46 +0000",
+         "publishedParsed": "2025-04-28T03:56:46Z"
+     },
+     {
+         "title": "Presentation Slides with Markdown",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43816634\"\u003eComments\u003c/a\u003e",
+         "link": "https://sli.dev",
+         "links": [
+             "https://sli.dev"
+         ],
+         "published": "Mon, 28 Apr 2025 01:21:01 +0000",
+         "publishedParsed": "2025-04-28T01:21:01Z"
+     },
+     {
+         "title": "I just want to code (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43814708\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.zachbellay.com/daily/i-just-want-to-code/",
+         "links": [
+             "https://www.zachbellay.com/daily/i-just-want-to-code/"
+         ],
+         "published": "Sun, 27 Apr 2025 20:08:38 +0000",
+         "publishedParsed": "2025-04-27T20:08:38Z"
+     },
+     {
+         "title": "To 'Reclaim Future-Making', Amazon Workers Published Collection of SciFi Stories",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43816697\"\u003eComments\u003c/a\u003e",
+         "link": "https://afteramazon.world/",
+         "links": [
+             "https://afteramazon.world/"
+         ],
+         "published": "Mon, 28 Apr 2025 01:32:57 +0000",
+         "publishedParsed": "2025-04-28T01:32:57Z"
+     },
+     {
+         "title": "Read the Obits",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43813175\"\u003eComments\u003c/a\u003e",
+         "link": "https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/",
+         "links": [
+             "https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/"
+         ],
+         "published": "Sun, 27 Apr 2025 16:40:30 +0000",
+         "publishedParsed": "2025-04-27T16:40:30Z"
+     },
+     {
+         "title": "Did 5G kill the IMSI catcher?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43813083\"\u003eComments\u003c/a\u003e",
+         "link": "https://zetier.com/5g-imsi-catcher/",
+         "links": [
+             "https://zetier.com/5g-imsi-catcher/"
+         ],
+         "published": "Sun, 27 Apr 2025 16:27:57 +0000",
+         "publishedParsed": "2025-04-27T16:27:57Z"
      },
      {
          "title": "New material gives copper superalloy-like strength",
@@ -250,6 +200,36 @@
          "publishedParsed": "2025-04-28T00:19:26Z"
      },
      {
+         "title": "The suburban office park that launched Silicon Valley",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43815558\"\u003eComments\u003c/a\u003e",
+         "link": "https://thehustle.co/originals/the-suburban-office-park-that-launched-silicon-valley",
+         "links": [
+             "https://thehustle.co/originals/the-suburban-office-park-that-launched-silicon-valley"
+         ],
+         "published": "Sun, 27 Apr 2025 22:14:32 +0000",
+         "publishedParsed": "2025-04-27T22:14:32Z"
+     },
+     {
+         "title": "Reverse geocoding is hard",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43812323\"\u003eComments\u003c/a\u003e",
+         "link": "https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/",
+         "links": [
+             "https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/"
+         ],
+         "published": "Sun, 27 Apr 2025 14:45:36 +0000",
+         "publishedParsed": "2025-04-27T14:45:36Z"
+     },
+     {
+         "title": "Show HN: I486SX_soft_FPU – Software FPU Emulator for NetBSD 10 on 486SX",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43815116\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/mezantrop/i486SX_soft_FPU",
+         "links": [
+             "https://github.com/mezantrop/i486SX_soft_FPU"
+         ],
+         "published": "Sun, 27 Apr 2025 21:04:13 +0000",
+         "publishedParsed": "2025-04-27T21:04:13Z"
+     },
+     {
          "title": "Boxie – an always offline audio player for my 3 year old",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43814934\"\u003eComments\u003c/a\u003e",
          "link": "https://mariozechner.at/posts/2025-04-20-boxie/",
@@ -260,14 +240,24 @@
          "publishedParsed": "2025-04-27T20:40:33Z"
      },
      {
-         "title": "The coming knowledge-work supply-chain crisis",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43812459\"\u003eComments\u003c/a\u003e",
-         "link": "https://worksonmymachine.substack.com/p/the-coming-knowledge-work-supply",
+         "title": "Making a game from scratch using only a guitar [video]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43820144\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.youtube.com/watch?v=wesICmc48UE",
          "links": [
-             "https://worksonmymachine.substack.com/p/the-coming-knowledge-work-supply"
+             "https://www.youtube.com/watch?v=wesICmc48UE"
          ],
-         "published": "Sun, 27 Apr 2025 15:10:06 +0000",
-         "publishedParsed": "2025-04-27T15:10:06Z"
+         "published": "Mon, 28 Apr 2025 11:37:16 +0000",
+         "publishedParsed": "2025-04-28T11:37:16Z"
+     },
+     {
+         "title": "Show HN: Bhvr, a Bun and Hono and Vite and React Starter",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43811016\"\u003eComments\u003c/a\u003e",
+         "link": "https://bhvr.dev",
+         "links": [
+             "https://bhvr.dev"
+         ],
+         "published": "Sun, 27 Apr 2025 11:02:32 +0000",
+         "publishedParsed": "2025-04-27T11:02:32Z"
      },
      {
          "title": "How a Pipe Organ Works (2020)",
@@ -278,15 +268,5 @@
          ],
          "published": "Sun, 27 Apr 2025 20:53:03 +0000",
          "publishedParsed": "2025-04-27T20:53:03Z"
-     },
-     {
-         "title": "Computer Architects Can't Find the Average",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43815510\"\u003eComments\u003c/a\u003e",
-         "link": "https://dgsq.net/2025-04-27-averages/",
-         "links": [
-             "https://dgsq.net/2025-04-27-averages/"
-         ],
-         "published": "Sun, 27 Apr 2025 22:06:31 +0000",
-         "publishedParsed": "2025-04-27T22:06:31Z"
      }
  ]
