@@ -1,5 +1,45 @@
 [
      {
+         "title": "O3 beats a master-level GeoGuessr player, even with fake EXIF data",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43835044\"\u003eComments\u003c/a\u003e",
+         "link": "https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master",
+         "links": [
+             "https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master"
+         ],
+         "published": "Tue, 29 Apr 2025 16:48:42 +0000",
+         "publishedParsed": "2025-04-29T16:48:42Z"
+     },
+     {
+         "title": "I made my AI think harder by making it argue with itself. It works stupidly well",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43835445\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts",
+         "links": [
+             "https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts"
+         ],
+         "published": "Tue, 29 Apr 2025 17:19:04 +0000",
+         "publishedParsed": "2025-04-29T17:19:04Z"
+     },
+     {
+         "title": "Bamba: An open-source LLM that crosses a transformer with an SSM",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43835495\"\u003eComments\u003c/a\u003e",
+         "link": "https://research.ibm.com/blog/bamba-ssm-transformer-model",
+         "links": [
+             "https://research.ibm.com/blog/bamba-ssm-transformer-model"
+         ],
+         "published": "Tue, 29 Apr 2025 17:24:29 +0000",
+         "publishedParsed": "2025-04-29T17:24:29Z"
+     },
+     {
+         "title": "Everything we announced at our first-ever LlamaCon",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43835424\"\u003eComments\u003c/a\u003e",
+         "link": "https://ai.meta.com/blog/llamacon-llama-news/?_fb_noscript=1",
+         "links": [
+             "https://ai.meta.com/blog/llamacon-llama-news/?_fb_noscript=1"
+         ],
+         "published": "Tue, 29 Apr 2025 17:17:23 +0000",
+         "publishedParsed": "2025-04-29T17:17:23Z"
+     },
+     {
          "title": "ArkFlow: High-performance Rust stream processing engine",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43833310\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/arkflow-rs/arkflow",
@@ -20,7 +60,7 @@
          "publishedParsed": "2025-04-29T05:45:53Z"
      },
      {
-         "title": "Why performance optimization is hard work",
+         "title": "Performance optimization is hard because it's fundamentally a brute-force task",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43831705\"\u003eComments\u003c/a\u003e",
          "link": "https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/",
          "links": [
@@ -28,6 +68,26 @@
          ],
          "published": "Tue, 29 Apr 2025 12:29:44 +0000",
          "publishedParsed": "2025-04-29T12:29:44Z"
+     },
+     {
+         "title": "Programming languages should have a tree traversal primitive",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43831628\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.tylerglaiel.com/p/programming-languages-should-have",
+         "links": [
+             "https://blog.tylerglaiel.com/p/programming-languages-should-have"
+         ],
+         "published": "Tue, 29 Apr 2025 12:23:19 +0000",
+         "publishedParsed": "2025-04-29T12:23:19Z"
+     },
+     {
+         "title": "Hestus, Inc. (YC S24) Is Hiring an ML Engineer to Revolutionize CAD",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43835216\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/hestus-inc/jobs/WQVdwX8-machine-learning-engineer",
+         "links": [
+             "https://www.ycombinator.com/companies/hestus-inc/jobs/WQVdwX8-machine-learning-engineer"
+         ],
+         "published": "Tue, 29 Apr 2025 17:01:15 +0000",
+         "publishedParsed": "2025-04-29T17:01:15Z"
      },
      {
          "title": "Firefox tab groups are here",
@@ -40,26 +100,6 @@
          "publishedParsed": "2025-04-29T15:37:10Z"
      },
      {
-         "title": "Pyrefly - A faster Python type checker written in Rust",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43831524\"\u003eComments\u003c/a\u003e",
-         "link": "https://pyrefly.org/",
-         "links": [
-             "https://pyrefly.org/"
-         ],
-         "published": "Tue, 29 Apr 2025 12:13:31 +0000",
-         "publishedParsed": "2025-04-29T12:13:31Z"
-     },
-     {
-         "title": "O3 Beats a Master-Level GeoGuessr Player–Even with Fake EXIF Data",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43835044\"\u003eComments\u003c/a\u003e",
-         "link": "https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master",
-         "links": [
-             "https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master"
-         ],
-         "published": "Tue, 29 Apr 2025 16:48:42 +0000",
-         "publishedParsed": "2025-04-29T16:48:42Z"
-     },
-     {
          "title": "Show HN: A Chrome extension that will auto-reject non-essential cookies",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43831298\"\u003eComments\u003c/a\u003e",
          "link": "https://blog.bymitch.com/posts/reject-cookies/",
@@ -70,14 +110,14 @@
          "publishedParsed": "2025-04-29T11:49:55Z"
      },
      {
-         "title": "Show HN: Flowcode – Turing-complete visual programming platform",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43830193\"\u003eComments\u003c/a\u003e",
-         "link": "https://app.getflowcode.io/playground/example1",
+         "title": "Show HN: Beatsync – perfect audio sync across multiple devices",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43835584\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/freeman-jiang/beatsync",
          "links": [
-             "https://app.getflowcode.io/playground/example1"
+             "https://github.com/freeman-jiang/beatsync"
          ],
-         "published": "Tue, 29 Apr 2025 09:04:35 +0000",
-         "publishedParsed": "2025-04-29T09:04:35Z"
+         "published": "Tue, 29 Apr 2025 17:32:25 +0000",
+         "publishedParsed": "2025-04-29T17:32:25Z"
      },
      {
          "title": "Qwen3: Think deeper, act faster",
@@ -90,14 +130,14 @@
          "publishedParsed": "2025-04-28T20:44:25Z"
      },
      {
-         "title": "Why did Windows 7 log on slower for months if you had a solid color background?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43827214\"\u003eComments\u003c/a\u003e",
-         "link": "https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121",
+         "title": "Show HN: Flowcode – Turing-complete visual programming platform",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43830193\"\u003eComments\u003c/a\u003e",
+         "link": "https://app.getflowcode.io/playground/example1",
          "links": [
-             "https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121"
+             "https://app.getflowcode.io/playground/example1"
          ],
-         "published": "Mon, 28 Apr 2025 23:27:11 +0000",
-         "publishedParsed": "2025-04-28T23:27:11Z"
+         "published": "Tue, 29 Apr 2025 09:04:35 +0000",
+         "publishedParsed": "2025-04-29T09:04:35Z"
      },
      {
          "title": "A single line of code cost $8000",
@@ -110,6 +150,36 @@
          "publishedParsed": "2025-04-29T05:40:35Z"
      },
      {
+         "title": "Gaussian Splatting Meets ROS2",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43831363\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/shadygm/ROSplat",
+         "links": [
+             "https://github.com/shadygm/ROSplat"
+         ],
+         "published": "Tue, 29 Apr 2025 11:57:17 +0000",
+         "publishedParsed": "2025-04-29T11:57:17Z"
+     },
+     {
+         "title": "Why did Windows 7 log on slower for months if you had a solid color background?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43827214\"\u003eComments\u003c/a\u003e",
+         "link": "https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121",
+         "links": [
+             "https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121"
+         ],
+         "published": "Mon, 28 Apr 2025 23:27:11 +0000",
+         "publishedParsed": "2025-04-28T23:27:11Z"
+     },
+     {
+         "title": "Beyond Performance: Measuring the Environmental Impact of Analytical Databases",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43835623\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2504.18980",
+         "links": [
+             "https://arxiv.org/abs/2504.18980"
+         ],
+         "published": "Tue, 29 Apr 2025 17:35:48 +0000",
+         "publishedParsed": "2025-04-29T17:35:48Z"
+     },
+     {
          "title": "Try Switching to Kagi",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43829490\"\u003eComments\u003c/a\u003e",
          "link": "https://daringfireball.net/2025/04/try_switching_to_kagi",
@@ -118,6 +188,16 @@
          ],
          "published": "Tue, 29 Apr 2025 07:08:50 +0000",
          "publishedParsed": "2025-04-29T07:08:50Z"
+     },
+     {
+         "title": "How to build Intrinsic Motivation: a review of the science",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43830544\"\u003eComments\u003c/a\u003e",
+         "link": "https://erringtowardsanswers.substack.com/p/intrinsic-motivation",
+         "links": [
+             "https://erringtowardsanswers.substack.com/p/intrinsic-motivation"
+         ],
+         "published": "Tue, 29 Apr 2025 09:59:04 +0000",
+         "publishedParsed": "2025-04-29T09:59:04Z"
      },
      {
          "title": "Generative AI is not replacing jobs or hurting wages at all, say economists",
@@ -130,14 +210,24 @@
          "publishedParsed": "2025-04-29T10:08:09Z"
      },
      {
-         "title": "Gaussian Splatting Meets ROS2",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43831363\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/shadygm/ROSplat",
+         "title": "The One-Person Framework in Practice",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43826584\"\u003eComments\u003c/a\u003e",
+         "link": "https://link.mail.beehiiv.com/ss/c/u001.5SRwDQ9qxPQW8vmD5Do73b3R4eTCi2vXqPyztEk6wMFC9_fqEAcDVx6xEJ96T4BSMXrPS7z5exEBSTF4pF48z8SqJkJnkAwMUW9LtYdd8lWmvkDinT92nsk5HmXOHdWgLsysm9FMGrqmu7dnG57cXpga8ZOe8X0IV8pyeC3AswdRMaitfT307y7naP-_6W5CiolKhXCKrEndMGCW2PftFUu9ieYOxpVJ_fhu82gAh-4/4g1/wA_MG-I5SVCyR3KY66oEaQ/h30/h001.kLDFZMgisudi21zmTPbd_O8U7X98d4UxYqZjQTb_D7o",
          "links": [
-             "https://github.com/shadygm/ROSplat"
+             "https://link.mail.beehiiv.com/ss/c/u001.5SRwDQ9qxPQW8vmD5Do73b3R4eTCi2vXqPyztEk6wMFC9_fqEAcDVx6xEJ96T4BSMXrPS7z5exEBSTF4pF48z8SqJkJnkAwMUW9LtYdd8lWmvkDinT92nsk5HmXOHdWgLsysm9FMGrqmu7dnG57cXpga8ZOe8X0IV8pyeC3AswdRMaitfT307y7naP-_6W5CiolKhXCKrEndMGCW2PftFUu9ieYOxpVJ_fhu82gAh-4/4g1/wA_MG-I5SVCyR3KY66oEaQ/h30/h001.kLDFZMgisudi21zmTPbd_O8U7X98d4UxYqZjQTb_D7o"
          ],
-         "published": "Tue, 29 Apr 2025 11:57:17 +0000",
-         "publishedParsed": "2025-04-29T11:57:17Z"
+         "published": "Mon, 28 Apr 2025 21:58:52 +0000",
+         "publishedParsed": "2025-04-28T21:58:52Z"
+     },
+     {
+         "title": "Meta AI App built with Llama 4",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43833783\"\u003eComments\u003c/a\u003e",
+         "link": "https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/",
+         "links": [
+             "https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/"
+         ],
+         "published": "Tue, 29 Apr 2025 15:13:27 +0000",
+         "publishedParsed": "2025-04-29T15:13:27Z"
      },
      {
          "title": "Heart disease deaths worldwide linked to chemical widely used in plastics",
@@ -148,5 +238,55 @@
          ],
          "published": "Tue, 29 Apr 2025 11:35:03 +0000",
          "publishedParsed": "2025-04-29T11:35:03Z"
+     },
+     {
+         "title": "One-sixth of the planet's cropland has toxic levels of one or more metals",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43832765\"\u003eComments\u003c/a\u003e",
+         "link": "https://english.elpais.com/science-tech/2025-04-17/one-sixth-of-the-planets-cropland-has-toxic-levels-of-one-or-more-metals.html",
+         "links": [
+             "https://english.elpais.com/science-tech/2025-04-17/one-sixth-of-the-planets-cropland-has-toxic-levels-of-one-or-more-metals.html"
+         ],
+         "published": "Tue, 29 Apr 2025 14:00:58 +0000",
+         "publishedParsed": "2025-04-29T14:00:58Z"
+     },
+     {
+         "title": "Pyrefly - A faster Python type checker written in Rust",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43831524\"\u003eComments\u003c/a\u003e",
+         "link": "https://pyrefly.org/",
+         "links": [
+             "https://pyrefly.org/"
+         ],
+         "published": "Tue, 29 Apr 2025 12:13:31 +0000",
+         "publishedParsed": "2025-04-29T12:13:31Z"
+     },
+     {
+         "title": "One Million Chessboards",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43825336\"\u003eComments\u003c/a\u003e",
+         "link": "https://onemillionchessboards.com/#199,276",
+         "links": [
+             "https://onemillionchessboards.com/#199,276"
+         ],
+         "published": "Mon, 28 Apr 2025 19:52:02 +0000",
+         "publishedParsed": "2025-04-28T19:52:02Z"
+     },
+     {
+         "title": "After 53 years, a failed Soviet Venus spacecraft is crashing back to Earth",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43831602\"\u003eComments\u003c/a\u003e",
+         "link": "https://gizmodo.com/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth-2000595234",
+         "links": [
+             "https://gizmodo.com/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth-2000595234"
+         ],
+         "published": "Tue, 29 Apr 2025 12:20:10 +0000",
+         "publishedParsed": "2025-04-29T12:20:10Z"
+     },
+     {
+         "title": "Ask HN: What are you working on? (April 2025)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43815523\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=43815523",
+         "links": [
+             "https://news.ycombinator.com/item?id=43815523"
+         ],
+         "published": "Sun, 27 Apr 2025 22:08:21 +0000",
+         "publishedParsed": "2025-04-27T22:08:21Z"
      }
  ]
