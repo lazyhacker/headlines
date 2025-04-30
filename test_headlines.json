@@ -1,15 +1,5 @@
 [
      {
-         "title": "Waymo partners with Toyota to bring autonomous driving to personal vehicles",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43839123\"\u003eComments\u003c/a\u003e",
-         "link": "https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership",
-         "links": [
-             "https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership"
-         ],
-         "published": "Tue, 29 Apr 2025 23:06:02 +0000",
-         "publishedParsed": "2025-04-29T23:06:02Z"
-     },
-     {
          "title": "Jepsen: Amazon RDS for PostgreSQL 17.4",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43833195\"\u003eComments\u003c/a\u003e",
          "link": "https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4",
@@ -30,24 +20,14 @@
          "publishedParsed": "2025-04-29T17:19:04Z"
      },
      {
-         "title": "Help ChatGPT discover your products",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43839539\"\u003eComments\u003c/a\u003e",
-         "link": "https://openai.com/chatgpt/search-product-discovery/",
+         "title": "I use zip bombs to protect my server",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43826798\"\u003eComments\u003c/a\u003e",
+         "link": "https://idiallo.com/blog/zipbomb-protection",
          "links": [
-             "https://openai.com/chatgpt/search-product-discovery/"
+             "https://idiallo.com/blog/zipbomb-protection"
          ],
-         "published": "Tue, 29 Apr 2025 23:59:36 +0000",
-         "publishedParsed": "2025-04-29T23:59:36Z"
-     },
-     {
-         "title": "Path Isn't Real on Linux",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43838856\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.danielh.cc/blog/path",
-         "links": [
-             "https://blog.danielh.cc/blog/path"
-         ],
-         "published": "Tue, 29 Apr 2025 22:35:35 +0000",
-         "publishedParsed": "2025-04-29T22:35:35Z"
+         "published": "Mon, 28 Apr 2025 22:28:56 +0000",
+         "publishedParsed": "2025-04-28T22:28:56Z"
      },
      {
          "title": "Bamba: An open-source LLM that crosses a transformer with an SSM",
@@ -60,6 +40,26 @@
          "publishedParsed": "2025-04-29T17:24:29Z"
      },
      {
+         "title": "An illustrated guide to automatic sparse differentiation",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43828423\"\u003eComments\u003c/a\u003e",
+         "link": "https://iclr-blogposts.github.io/2025/blog/sparse-autodiff/",
+         "links": [
+             "https://iclr-blogposts.github.io/2025/blog/sparse-autodiff/"
+         ],
+         "published": "Tue, 29 Apr 2025 03:18:52 +0000",
+         "publishedParsed": "2025-04-29T03:18:52Z"
+     },
+     {
+         "title": "Path Isn't Real on Linux",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43838856\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.danielh.cc/blog/path",
+         "links": [
+             "https://blog.danielh.cc/blog/path"
+         ],
+         "published": "Tue, 29 Apr 2025 22:35:35 +0000",
+         "publishedParsed": "2025-04-29T22:35:35Z"
+     },
+     {
          "title": "Everything we announced at our first LlamaCon",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43835424\"\u003eComments\u003c/a\u003e",
          "link": "https://ai.meta.com/blog/llamacon-llama-news/?_fb_noscript=1",
@@ -68,16 +68,6 @@
          ],
          "published": "Tue, 29 Apr 2025 17:17:23 +0000",
          "publishedParsed": "2025-04-29T17:17:23Z"
-     },
-     {
-         "title": "I use zip bombs to protect my server",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43826798\"\u003eComments\u003c/a\u003e",
-         "link": "https://idiallo.com/blog/zipbomb-protection",
-         "links": [
-             "https://idiallo.com/blog/zipbomb-protection"
-         ],
-         "published": "Mon, 28 Apr 2025 22:28:56 +0000",
-         "publishedParsed": "2025-04-28T22:28:56Z"
      },
      {
          "title": "It's School time: Adventures in hacking an old Kindle",
@@ -90,26 +80,6 @@
          "publishedParsed": "2025-04-28T15:02:04Z"
      },
      {
-         "title": "Show HN: Beatsync – perfect audio sync across multiple devices",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43835584\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/freeman-jiang/beatsync",
-         "links": [
-             "https://github.com/freeman-jiang/beatsync"
-         ],
-         "published": "Tue, 29 Apr 2025 17:32:25 +0000",
-         "publishedParsed": "2025-04-29T17:32:25Z"
-     },
-     {
-         "title": "China's Clinical Trial Boom",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43822396\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.asimov.press/p/china-trials",
-         "links": [
-             "https://www.asimov.press/p/china-trials"
-         ],
-         "published": "Mon, 28 Apr 2025 15:13:39 +0000",
-         "publishedParsed": "2025-04-28T15:13:39Z"
-     },
-     {
          "title": "Performance optimization is hard because it's fundamentally a brute-force task",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43831705\"\u003eComments\u003c/a\u003e",
          "link": "https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/",
@@ -120,24 +90,24 @@
          "publishedParsed": "2025-04-29T12:29:44Z"
      },
      {
-         "title": "Modern Realty (YC S24) Is Hiring",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43837996\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.workatastartup.com/jobs/66546",
+         "title": "Show HN: Beatsync – perfect audio sync across multiple devices",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43835584\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/freeman-jiang/beatsync",
          "links": [
-             "https://www.workatastartup.com/jobs/66546"
+             "https://github.com/freeman-jiang/beatsync"
          ],
-         "published": "Tue, 29 Apr 2025 21:00:05 +0000",
-         "publishedParsed": "2025-04-29T21:00:05Z"
+         "published": "Tue, 29 Apr 2025 17:32:25 +0000",
+         "publishedParsed": "2025-04-29T17:32:25Z"
      },
      {
-         "title": "ArkFlow: High-performance Rust stream processing engine",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43833310\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/arkflow-rs/arkflow",
+         "title": "All the Women I Met in Jail",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43840062\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.harpersbazaar.com/culture/features/a64577728/domestic-violence-law/",
          "links": [
-             "https://github.com/arkflow-rs/arkflow"
+             "https://www.harpersbazaar.com/culture/features/a64577728/domestic-violence-law/"
          ],
-         "published": "Tue, 29 Apr 2025 14:38:43 +0000",
-         "publishedParsed": "2025-04-29T14:38:43Z"
+         "published": "Wed, 30 Apr 2025 01:04:58 +0000",
+         "publishedParsed": "2025-04-30T01:04:58Z"
      },
      {
          "title": "Programming languages should have a tree traversal primitive",
@@ -150,14 +120,14 @@
          "publishedParsed": "2025-04-29T12:23:19Z"
      },
      {
-         "title": "Show HN: A Chrome extension that will auto-reject non-essential cookies",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43831298\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.bymitch.com/posts/reject-cookies/",
+         "title": "ArkFlow: High-performance Rust stream processing engine",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43833310\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/arkflow-rs/arkflow",
          "links": [
-             "https://blog.bymitch.com/posts/reject-cookies/"
+             "https://github.com/arkflow-rs/arkflow"
          ],
-         "published": "Tue, 29 Apr 2025 11:49:55 +0000",
-         "publishedParsed": "2025-04-29T11:49:55Z"
+         "published": "Tue, 29 Apr 2025 14:38:43 +0000",
+         "publishedParsed": "2025-04-29T14:38:43Z"
      },
      {
          "title": "Show HN: An MCP server for understanding AWS costs",
@@ -170,14 +140,34 @@
          "publishedParsed": "2025-04-25T14:43:57Z"
      },
      {
-         "title": "An illustrated guide to automatic sparse differentiation",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43828423\"\u003eComments\u003c/a\u003e",
-         "link": "https://iclr-blogposts.github.io/2025/blog/sparse-autodiff/",
+         "title": "Show HN: A Chrome extension that will auto-reject non-essential cookies",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43831298\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.bymitch.com/posts/reject-cookies/",
          "links": [
-             "https://iclr-blogposts.github.io/2025/blog/sparse-autodiff/"
+             "https://blog.bymitch.com/posts/reject-cookies/"
          ],
-         "published": "Tue, 29 Apr 2025 03:18:52 +0000",
-         "publishedParsed": "2025-04-29T03:18:52Z"
+         "published": "Tue, 29 Apr 2025 11:49:55 +0000",
+         "publishedParsed": "2025-04-29T11:49:55Z"
+     },
+     {
+         "title": "Modern Realty (YC S24) Is Hiring",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43837996\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.workatastartup.com/jobs/66546",
+         "links": [
+             "https://www.workatastartup.com/jobs/66546"
+         ],
+         "published": "Tue, 29 Apr 2025 21:00:05 +0000",
+         "publishedParsed": "2025-04-29T21:00:05Z"
+     },
+     {
+         "title": "Show HN: I build a Fantasy NHL app in 3 days with Claude AI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43805275\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=43805275",
+         "links": [
+             "https://news.ycombinator.com/item?id=43805275"
+         ],
+         "published": "Sat, 26 Apr 2025 17:04:07 +0000",
+         "publishedParsed": "2025-04-26T17:04:07Z"
      },
      {
          "title": "Firefox tab groups are here",
@@ -190,24 +180,14 @@
          "publishedParsed": "2025-04-29T15:37:10Z"
      },
      {
-         "title": "O3 beats a master-level GeoGuessr player, even with fake EXIF data",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43835044\"\u003eComments\u003c/a\u003e",
-         "link": "https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master",
+         "title": "WorldGen: Open-source 3D scene generator for Game/VR/XR",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43824548\"\u003eComments\u003c/a\u003e",
+         "link": "https://worldgen.github.io/",
          "links": [
-             "https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master"
+             "https://worldgen.github.io/"
          ],
-         "published": "Tue, 29 Apr 2025 16:48:42 +0000",
-         "publishedParsed": "2025-04-29T16:48:42Z"
-     },
-     {
-         "title": "Princeton Engineering Anomalies Research (2010)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43815406\"\u003eComments\u003c/a\u003e",
-         "link": "https://pearlab.icrl.org/theory.html",
-         "links": [
-             "https://pearlab.icrl.org/theory.html"
-         ],
-         "published": "Sun, 27 Apr 2025 21:49:30 +0000",
-         "publishedParsed": "2025-04-27T21:49:30Z"
+         "published": "Mon, 28 Apr 2025 18:39:19 +0000",
+         "publishedParsed": "2025-04-28T18:39:19Z"
      },
      {
          "title": "Finding paths of least action with gradient descent (2023)",
@@ -218,6 +198,36 @@
          ],
          "published": "Sat, 26 Apr 2025 06:24:32 +0000",
          "publishedParsed": "2025-04-26T06:24:32Z"
+     },
+     {
+         "title": "O3 beats a master-level GeoGuessr player, even with fake EXIF data",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43835044\"\u003eComments\u003c/a\u003e",
+         "link": "https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master",
+         "links": [
+             "https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master"
+         ],
+         "published": "Tue, 29 Apr 2025 16:48:42 +0000",
+         "publishedParsed": "2025-04-29T16:48:42Z"
+     },
+     {
+         "title": "China's Clinical Trial Boom",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43822396\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.asimov.press/p/china-trials",
+         "links": [
+             "https://www.asimov.press/p/china-trials"
+         ],
+         "published": "Mon, 28 Apr 2025 15:13:39 +0000",
+         "publishedParsed": "2025-04-28T15:13:39Z"
+     },
+     {
+         "title": "Waymo and Toyota outline partnership to advance autonomous driving deployment",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43839123\"\u003eComments\u003c/a\u003e",
+         "link": "https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership",
+         "links": [
+             "https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership"
+         ],
+         "published": "Tue, 29 Apr 2025 23:06:02 +0000",
+         "publishedParsed": "2025-04-29T23:06:02Z"
      },
      {
          "title": "Show HN: An interactive demo of QR codes' error correction",
@@ -240,14 +250,24 @@
          "publishedParsed": "2025-04-26T17:23:49Z"
      },
      {
-         "title": "Show HN: Flowcode – Turing-complete visual programming platform",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43830193\"\u003eComments\u003c/a\u003e",
-         "link": "https://app.getflowcode.io/playground/example1",
+         "title": "Indian court orders blocking of Proton Mail",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43834942\"\u003eComments\u003c/a\u003e",
+         "link": "https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/",
          "links": [
-             "https://app.getflowcode.io/playground/example1"
+             "https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/"
          ],
-         "published": "Tue, 29 Apr 2025 09:04:35 +0000",
-         "publishedParsed": "2025-04-29T09:04:35Z"
+         "published": "Tue, 29 Apr 2025 16:41:27 +0000",
+         "publishedParsed": "2025-04-29T16:41:27Z"
+     },
+     {
+         "title": "Princeton Engineering Anomalies Research (2010)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43815406\"\u003eComments\u003c/a\u003e",
+         "link": "https://pearlab.icrl.org/theory.html",
+         "links": [
+             "https://pearlab.icrl.org/theory.html"
+         ],
+         "published": "Sun, 27 Apr 2025 21:49:30 +0000",
+         "publishedParsed": "2025-04-27T21:49:30Z"
      },
      {
          "title": "LibreLingo – FOSS Alternative to Duolingo",
@@ -260,23 +280,13 @@
          "publishedParsed": "2025-04-29T05:45:53Z"
      },
      {
-         "title": "The last masters of Afro-Colombian machete fencing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43833762\"\u003eComments\u003c/a\u003e",
-         "link": "https://globalvoices.org/2025/04/19/the-last-masters-of-afro-colombian-machete-fencing-fight-to-save-their-tradition/",
+         "title": "Show HN: Flowcode – Turing-complete visual programming platform",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43830193\"\u003eComments\u003c/a\u003e",
+         "link": "https://app.getflowcode.io/playground/example1",
          "links": [
-             "https://globalvoices.org/2025/04/19/the-last-masters-of-afro-colombian-machete-fencing-fight-to-save-their-tradition/"
+             "https://app.getflowcode.io/playground/example1"
          ],
-         "published": "Tue, 29 Apr 2025 15:11:28 +0000",
-         "publishedParsed": "2025-04-29T15:11:28Z"
-     },
-     {
-         "title": "A single line of code cost $8000",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43829006\"\u003eComments\u003c/a\u003e",
-         "link": "https://pietrasiak.com/one-line-of-code-that-did-cost-dollar8000",
-         "links": [
-             "https://pietrasiak.com/one-line-of-code-that-did-cost-dollar8000"
-         ],
-         "published": "Tue, 29 Apr 2025 05:40:35 +0000",
-         "publishedParsed": "2025-04-29T05:40:35Z"
+         "published": "Tue, 29 Apr 2025 09:04:35 +0000",
+         "publishedParsed": "2025-04-29T09:04:35Z"
      }
  ]
