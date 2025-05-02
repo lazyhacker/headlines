@@ -1,15 +1,5 @@
 [
      {
-         "title": "Third Party Cookies Must Be Removed",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43865132\"\u003eComments\u003c/a\u003e",
-         "link": "https://w3ctag.github.io/web-without-3p-cookies/",
-         "links": [
-             "https://w3ctag.github.io/web-without-3p-cookies/"
-         ],
-         "published": "Fri, 02 May 2025 01:03:10 +0000",
-         "publishedParsed": "2025-05-02T01:03:10Z"
-     },
-     {
          "title": "Redis is open source again",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43859446\"\u003eComments\u003c/a\u003e",
          "link": "https://antirez.com/news/151",
@@ -20,14 +10,14 @@
          "publishedParsed": "2025-05-01T15:56:35Z"
      },
      {
-         "title": "Chrome Origin Trial: Device Bound Session Credentials",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43865379\"\u003eComments\u003c/a\u003e",
-         "link": "https://developer.chrome.com/blog/dbsc-origin-trial",
+         "title": "Third party cookies must be removed",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43865132\"\u003eComments\u003c/a\u003e",
+         "link": "https://w3ctag.github.io/web-without-3p-cookies/",
          "links": [
-             "https://developer.chrome.com/blog/dbsc-origin-trial"
+             "https://w3ctag.github.io/web-without-3p-cookies/"
          ],
-         "published": "Fri, 02 May 2025 01:54:39 +0000",
-         "publishedParsed": "2025-05-02T01:54:39Z"
+         "published": "Fri, 02 May 2025 01:03:10 +0000",
+         "publishedParsed": "2025-05-02T01:03:10Z"
      },
      {
          "title": "Claude Integrations",
@@ -40,7 +30,17 @@
          "publishedParsed": "2025-05-01T16:02:14Z"
      },
      {
-         "title": "The Day Anubis Saved Our Websites from a DDoS Attack",
+         "title": "Chrome Origin Trial: Device Bound Session Credentials",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43865379\"\u003eComments\u003c/a\u003e",
+         "link": "https://developer.chrome.com/blog/dbsc-origin-trial",
+         "links": [
+             "https://developer.chrome.com/blog/dbsc-origin-trial"
+         ],
+         "published": "Fri, 02 May 2025 01:54:39 +0000",
+         "publishedParsed": "2025-05-02T01:54:39Z"
+     },
+     {
+         "title": "Anubis saved our websites from a DDoS attack",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43864108\"\u003eComments\u003c/a\u003e",
          "link": "https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/",
          "links": [
@@ -60,26 +60,6 @@
          "publishedParsed": "2025-04-30T23:46:00Z"
      },
      {
-         "title": "Felix86: Run x86-64 programs on RISC-V Linux",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43864800\"\u003eComments\u003c/a\u003e",
-         "link": "https://felix86.com/",
-         "links": [
-             "https://felix86.com/"
-         ],
-         "published": "Fri, 02 May 2025 00:07:23 +0000",
-         "publishedParsed": "2025-05-02T00:07:23Z"
-     },
-     {
-         "title": "XAI Dev Leaks API Key for Private SpaceX, Tesla LLMs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43865097\"\u003eComments\u003c/a\u003e",
-         "link": "https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/",
-         "links": [
-             "https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/"
-         ],
-         "published": "Fri, 02 May 2025 00:56:02 +0000",
-         "publishedParsed": "2025-05-02T00:56:02Z"
-     },
-     {
          "title": "Ask HN: Who is hiring? (May 2025)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43858554\"\u003eComments\u003c/a\u003e",
          "link": "https://news.ycombinator.com/item?id=43858554",
@@ -90,14 +70,24 @@
          "publishedParsed": "2025-05-01T15:00:46Z"
      },
      {
-         "title": "LLMs for Engineering: Teaching Models to Design High Powered Rockets",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43851212\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2504.19394",
+         "title": "Felix86: Run x86-64 programs on RISC-V Linux",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43864800\"\u003eComments\u003c/a\u003e",
+         "link": "https://felix86.com/",
          "links": [
-             "https://arxiv.org/abs/2504.19394"
+             "https://felix86.com/"
          ],
-         "published": "Wed, 30 Apr 2025 22:03:03 +0000",
-         "publishedParsed": "2025-04-30T22:03:03Z"
+         "published": "Fri, 02 May 2025 00:07:23 +0000",
+         "publishedParsed": "2025-05-02T00:07:23Z"
+     },
+     {
+         "title": "Don't watermark your legal PDFs with purple dragons in suits",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43866303\"\u003eComments\u003c/a\u003e",
+         "link": "https://arstechnica.com/tech-policy/2025/05/dont-watermark-your-legal-pdfs-with-purple-dragons-in-suits/",
+         "links": [
+             "https://arstechnica.com/tech-policy/2025/05/dont-watermark-your-legal-pdfs-with-purple-dragons-in-suits/"
+         ],
+         "published": "Fri, 02 May 2025 04:49:02 +0000",
+         "publishedParsed": "2025-05-02T04:49:02Z"
      },
      {
          "title": "Llasa: Llama-Based Speech Synthesis",
@@ -120,6 +110,36 @@
          "publishedParsed": "2025-05-01T21:11:38Z"
      },
      {
+         "title": "When ChatGPT broke the field of NLP: An oral history",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43854776\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/",
+         "links": [
+             "https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/"
+         ],
+         "published": "Thu, 01 May 2025 07:51:39 +0000",
+         "publishedParsed": "2025-05-01T07:51:39Z"
+     },
+     {
+         "title": "Dopamine signals when a fear can be forgotten",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43860726\"\u003eComments\u003c/a\u003e",
+         "link": "https://picower.mit.edu/news/dopamine-signals-when-fear-can-be-forgotten",
+         "links": [
+             "https://picower.mit.edu/news/dopamine-signals-when-fear-can-be-forgotten"
+         ],
+         "published": "Thu, 01 May 2025 17:29:16 +0000",
+         "publishedParsed": "2025-05-01T17:29:16Z"
+     },
+     {
+         "title": "LLMs for Engineering: Teaching Models to Design High Powered Rockets",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43851212\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2504.19394",
+         "links": [
+             "https://arxiv.org/abs/2504.19394"
+         ],
+         "published": "Wed, 30 Apr 2025 22:03:03 +0000",
+         "publishedParsed": "2025-04-30T22:03:03Z"
+     },
+     {
          "title": "DECtalk Archive",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43828099\"\u003eComments\u003c/a\u003e",
          "link": "https://dectalk.nu/",
@@ -130,24 +150,24 @@
          "publishedParsed": "2025-04-29T02:09:48Z"
      },
      {
-         "title": "AI suggestions make writing more generic, Western",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43852088\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.cornell.edu/stories/2025/04/ai-suggestions-make-writing-more-generic-western",
+         "title": "Owen Le Blanc: creator of the first Linux distribution",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43855838\"\u003eComments\u003c/a\u003e",
+         "link": "https://lwn.net/Articles/1017846/",
          "links": [
-             "https://news.cornell.edu/stories/2025/04/ai-suggestions-make-writing-more-generic-western"
+             "https://lwn.net/Articles/1017846/"
          ],
-         "published": "Wed, 30 Apr 2025 23:58:12 +0000",
-         "publishedParsed": "2025-04-30T23:58:12Z"
+         "published": "Thu, 01 May 2025 10:28:05 +0000",
+         "publishedParsed": "2025-05-01T10:28:05Z"
      },
      {
-         "title": "When ChatGPT broke the field of NLP: An oral history",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43854776\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/",
+         "title": "Zoho halts $700M semiconductor plan",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43866321\"\u003eComments\u003c/a\u003e",
+         "link": "https://semiconductorsinsight.com/zoho-halts-700-million-semiconductor-plan/",
          "links": [
-             "https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/"
+             "https://semiconductorsinsight.com/zoho-halts-700-million-semiconductor-plan/"
          ],
-         "published": "Thu, 01 May 2025 07:51:39 +0000",
-         "publishedParsed": "2025-05-01T07:51:39Z"
+         "published": "Fri, 02 May 2025 04:52:38 +0000",
+         "publishedParsed": "2025-05-02T04:52:38Z"
      },
      {
          "title": "Linkwarden: FOSS self-hostable bookmarking with AI-tagging and page archival",
@@ -160,6 +180,56 @@
          "publishedParsed": "2025-05-01T12:28:21Z"
      },
      {
+         "title": "AI code review: Should the author be the reviewer?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43857643\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.greptile.com/blog/ai-code-reviews-conflict",
+         "links": [
+             "https://www.greptile.com/blog/ai-code-reviews-conflict"
+         ],
+         "published": "Thu, 01 May 2025 13:50:38 +0000",
+         "publishedParsed": "2025-05-01T13:50:38Z"
+     },
+     {
+         "title": "Reflecting on a Year of Gamedev in Zig",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43865740\"\u003eComments\u003c/a\u003e",
+         "link": "https://bgthompson.codeberg.page/blog/one-year-zig-gamedev-reflections/",
+         "links": [
+             "https://bgthompson.codeberg.page/blog/one-year-zig-gamedev-reflections/"
+         ],
+         "published": "Fri, 02 May 2025 02:57:51 +0000",
+         "publishedParsed": "2025-05-02T02:57:51Z"
+     },
+     {
+         "title": "New Study: Waymo is reducing serious crashes and making streets safer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43861828\"\u003eComments\u003c/a\u003e",
+         "link": "https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru",
+         "links": [
+             "https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru"
+         ],
+         "published": "Thu, 01 May 2025 18:49:51 +0000",
+         "publishedParsed": "2025-05-01T18:49:51Z"
+     },
+     {
+         "title": "xAI dev leaks API key for private SpaceX, Tesla LLMs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43865097\"\u003eComments\u003c/a\u003e",
+         "link": "https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/",
+         "links": [
+             "https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/"
+         ],
+         "published": "Fri, 02 May 2025 00:56:02 +0000",
+         "publishedParsed": "2025-05-02T00:56:02Z"
+     },
+     {
+         "title": "New species of methane-producing archaea discovered in the human gut",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43851260\"\u003eComments\u003c/a\u003e",
+         "link": "https://phys.org/news/2025-04-microbiologists-species-methane-archaea-human.html",
+         "links": [
+             "https://phys.org/news/2025-04-microbiologists-species-methane-archaea-human.html"
+         ],
+         "published": "Wed, 30 Apr 2025 22:09:03 +0000",
+         "publishedParsed": "2025-04-30T22:09:03Z"
+     },
+     {
          "title": "Offline-First with CouchDB and PouchDB in 2025",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43850550\"\u003eComments\u003c/a\u003e",
          "link": "https://neighbourhood.ie/blog/2025/03/26/offline-first-with-couchdb-and-pouchdb-in-2025",
@@ -170,14 +240,14 @@
          "publishedParsed": "2025-04-30T20:53:22Z"
      },
      {
-         "title": "Ask HN: Who wants to be hired? (May 2025)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43858552\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=43858552",
+         "title": "Bloom Filters",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43866001\"\u003eComments\u003c/a\u003e",
+         "link": "https://eli.thegreenplace.net/2025/bloom-filters/",
          "links": [
-             "https://news.ycombinator.com/item?id=43858552"
+             "https://eli.thegreenplace.net/2025/bloom-filters/"
          ],
-         "published": "Thu, 01 May 2025 15:00:46 +0000",
-         "publishedParsed": "2025-05-01T15:00:46Z"
+         "published": "Fri, 02 May 2025 03:46:06 +0000",
+         "publishedParsed": "2025-05-02T03:46:06Z"
      },
      {
          "title": "Millihertz 5 Mechanical Computer (2022)",
@@ -190,93 +260,23 @@
          "publishedParsed": "2025-05-01T17:04:47Z"
      },
      {
-         "title": "Judge rules Apple executive lied under oath, makes criminal contempt referral",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43856795\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.thebignewsletter.com/p/judge-rules-apple-executive-lied",
+         "title": "Ask HN: Who wants to be hired? (May 2025)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43858552\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=43858552",
          "links": [
-             "https://www.thebignewsletter.com/p/judge-rules-apple-executive-lied"
+             "https://news.ycombinator.com/item?id=43858552"
          ],
-         "published": "Thu, 01 May 2025 12:27:51 +0000",
-         "publishedParsed": "2025-05-01T12:27:51Z"
+         "published": "Thu, 01 May 2025 15:00:46 +0000",
+         "publishedParsed": "2025-05-01T15:00:46Z"
      },
      {
-         "title": "Oxide’s compensation model: how is it going?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43862487\"\u003eComments\u003c/a\u003e",
-         "link": "https://oxide.computer/blog/oxides-compensation-model-how-is-it-going",
+         "title": "AI suggestions make writing more generic, Western",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43852088\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.cornell.edu/stories/2025/04/ai-suggestions-make-writing-more-generic-western",
          "links": [
-             "https://oxide.computer/blog/oxides-compensation-model-how-is-it-going"
+             "https://news.cornell.edu/stories/2025/04/ai-suggestions-make-writing-more-generic-western"
          ],
-         "published": "Thu, 01 May 2025 19:46:10 +0000",
-         "publishedParsed": "2025-05-01T19:46:10Z"
-     },
-     {
-         "title": "Chariot and Saucer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43851514\"\u003eComments\u003c/a\u003e",
-         "link": "https://jewishreviewofbooks.com/american-jewry/18531/chariot-and-saucer/",
-         "links": [
-             "https://jewishreviewofbooks.com/american-jewry/18531/chariot-and-saucer/"
-         ],
-         "published": "Wed, 30 Apr 2025 22:41:38 +0000",
-         "publishedParsed": "2025-04-30T22:41:38Z"
-     },
-     {
-         "title": "Building Private Processing for AI Tools on WhatsApp",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43851787\"\u003eComments\u003c/a\u003e",
-         "link": "https://engineering.fb.com/2025/04/29/security/whatsapp-private-processing-ai-tools/",
-         "links": [
-             "https://engineering.fb.com/2025/04/29/security/whatsapp-private-processing-ai-tools/"
-         ],
-         "published": "Wed, 30 Apr 2025 23:17:00 +0000",
-         "publishedParsed": "2025-04-30T23:17:00Z"
-     },
-     {
-         "title": "Creating beautiful charts with JRuby and JFreeChart",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43850309\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.headius.com/2025/04/beautiful-charts-with-jruby-and-jfreechart.html",
-         "links": [
-             "https://blog.headius.com/2025/04/beautiful-charts-with-jruby-and-jfreechart.html"
-         ],
-         "published": "Wed, 30 Apr 2025 20:30:01 +0000",
-         "publishedParsed": "2025-04-30T20:30:01Z"
-     },
-     {
-         "title": "Blood droplets on inclined surfaces reveal new cracking patterns",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43852446\"\u003eComments\u003c/a\u003e",
-         "link": "https://phys.org/news/2025-04-blood-droplets-inclined-surfaces-reveal.html",
-         "links": [
-             "https://phys.org/news/2025-04-blood-droplets-inclined-surfaces-reveal.html"
-         ],
-         "published": "Thu, 01 May 2025 00:48:11 +0000",
-         "publishedParsed": "2025-05-01T00:48:11Z"
-     },
-     {
-         "title": "C++26: more constexpr in the standard library",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43861669\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.sandordargo.com/blog/2025/04/30/cpp26-constexpr-library-changes",
-         "links": [
-             "https://www.sandordargo.com/blog/2025/04/30/cpp26-constexpr-library-changes"
-         ],
-         "published": "Thu, 01 May 2025 18:36:58 +0000",
-         "publishedParsed": "2025-05-01T18:36:58Z"
-     },
-     {
-         "title": "Starting July 1, academic publishers can't paywall NIH-funded research",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43858568\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy",
-         "links": [
-             "https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy"
-         ],
-         "published": "Thu, 01 May 2025 15:01:44 +0000",
-         "publishedParsed": "2025-05-01T15:01:44Z"
-     },
-     {
-         "title": "Waypoint Transit (YC W25) is hiring a software engineer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43860368\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.workatastartup.com/jobs/75517",
-         "links": [
-             "https://www.workatastartup.com/jobs/75517"
-         ],
-         "published": "Thu, 01 May 2025 17:00:45 +0000",
-         "publishedParsed": "2025-05-01T17:00:45Z"
+         "published": "Wed, 30 Apr 2025 23:58:12 +0000",
+         "publishedParsed": "2025-04-30T23:58:12Z"
      }
  ]
