@@ -1,15 +1,5 @@
 [
      {
-         "title": "Google Has Most of My Email Because It Has All of Yours (2014)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43901204\"\u003eComments\u003c/a\u003e",
-         "link": "https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours",
-         "links": [
-             "https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours"
-         ],
-         "published": "Tue, 06 May 2025 02:09:29 +0000",
-         "publishedParsed": "2025-05-06T02:09:29Z"
-     },
-     {
          "title": "Evolving OpenAI's Structure",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43897772\"\u003eComments\u003c/a\u003e",
          "link": "https://openai.com/index/evolving-our-structure/",
@@ -18,16 +8,6 @@
          ],
          "published": "Mon, 05 May 2025 18:08:02 +0000",
          "publishedParsed": "2025-05-05T18:08:02Z"
-     },
-     {
-         "title": "Analyzing Modern Nvidia GPU Cores",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43900463\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2503.20481",
-         "links": [
-             "https://arxiv.org/abs/2503.20481"
-         ],
-         "published": "Mon, 05 May 2025 23:38:56 +0000",
-         "publishedParsed": "2025-05-05T23:38:56Z"
      },
      {
          "title": "Show HN: Real-time AI Voice Chat at ~500ms Latency",
@@ -40,6 +20,26 @@
          "publishedParsed": "2025-05-05T20:17:32Z"
      },
      {
+         "title": "Critical CSS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43901495\"\u003eComments\u003c/a\u003e",
+         "link": "https://critical-css-extractor.kigo.studio/",
+         "links": [
+             "https://critical-css-extractor.kigo.studio/"
+         ],
+         "published": "Tue, 06 May 2025 03:13:08 +0000",
+         "publishedParsed": "2025-05-06T03:13:08Z"
+     },
+     {
+         "title": "Analyzing Modern Nvidia GPU Cores",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43900463\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2503.20481",
+         "links": [
+             "https://arxiv.org/abs/2503.20481"
+         ],
+         "published": "Mon, 05 May 2025 23:38:56 +0000",
+         "publishedParsed": "2025-05-05T23:38:56Z"
+     },
+     {
          "title": "Replacing Kubernetes with systemd (2024)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43899236\"\u003eComments\u003c/a\u003e",
          "link": "https://blog.yaakov.online/replacing-kubernetes-with-systemd/",
@@ -50,14 +50,14 @@
          "publishedParsed": "2025-05-05T20:40:14Z"
      },
      {
-         "title": "“An independent journalist” who won't remain nameless",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43881211\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.thehandbasket.co/p/independent-journalism-legacy-media-credit",
+         "title": "Understanding Memory Management, Part 5: Fighting with Rust",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43882291\"\u003eComments\u003c/a\u003e",
+         "link": "https://educatedguesswork.org/posts/memory-management-5/",
          "links": [
-             "https://www.thehandbasket.co/p/independent-journalism-legacy-media-credit"
+             "https://educatedguesswork.org/posts/memory-management-5/"
          ],
-         "published": "Sat, 03 May 2025 18:53:40 +0000",
-         "publishedParsed": "2025-05-03T18:53:40Z"
+         "published": "Sat, 03 May 2025 21:01:23 +0000",
+         "publishedParsed": "2025-05-03T21:01:23Z"
      },
      {
          "title": "Possibly a Serious Possibility",
@@ -70,6 +70,26 @@
          "publishedParsed": "2025-05-05T19:11:33Z"
      },
      {
+         "title": "Faster sorting with SIMD CUDA intrinsics (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43898717\"\u003eComments\u003c/a\u003e",
+         "link": "https://winwang.blog/posts/bitonic-sort/",
+         "links": [
+             "https://winwang.blog/posts/bitonic-sort/"
+         ],
+         "published": "Mon, 05 May 2025 19:45:09 +0000",
+         "publishedParsed": "2025-05-05T19:45:09Z"
+     },
+     {
+         "title": "Google has most of my email because it has all of yours (2014)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43901204\"\u003eComments\u003c/a\u003e",
+         "link": "https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours",
+         "links": [
+             "https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours"
+         ],
+         "published": "Tue, 06 May 2025 02:09:29 +0000",
+         "publishedParsed": "2025-05-06T02:09:29Z"
+     },
+     {
          "title": "Databricks in talks to acquire startup Neon for about $1B",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43899016\"\u003eComments\u003c/a\u003e",
          "link": "https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon",
@@ -80,14 +100,14 @@
          "publishedParsed": "2025-05-05T20:16:29Z"
      },
      {
-         "title": "Show HN: VectorVFS, your filesystem as a vector database",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43896011\"\u003eComments\u003c/a\u003e",
-         "link": "https://vectorvfs.readthedocs.io/en/latest/",
+         "title": "22-inch foldable external display",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43901673\"\u003eComments\u003c/a\u003e",
+         "link": "https://uperfect.com/products/omega-flexible-display-22-inch",
          "links": [
-             "https://vectorvfs.readthedocs.io/en/latest/"
+             "https://uperfect.com/products/omega-flexible-display-22-inch"
          ],
-         "published": "Mon, 05 May 2025 15:17:33 +0000",
-         "publishedParsed": "2025-05-05T15:17:33Z"
+         "published": "Tue, 06 May 2025 03:56:13 +0000",
+         "publishedParsed": "2025-05-06T03:56:13Z"
      },
      {
          "title": "How are cyber criminals rolling in 2025?",
@@ -100,6 +120,26 @@
          "publishedParsed": "2025-05-05T15:33:57Z"
      },
      {
+         "title": "Show HN: VectorVFS, your filesystem as a vector database",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43896011\"\u003eComments\u003c/a\u003e",
+         "link": "https://vectorvfs.readthedocs.io/en/latest/",
+         "links": [
+             "https://vectorvfs.readthedocs.io/en/latest/"
+         ],
+         "published": "Mon, 05 May 2025 15:17:33 +0000",
+         "publishedParsed": "2025-05-05T15:17:33Z"
+     },
+     {
+         "title": "Why does Switzerland have so many bunkers?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43883642\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.thedial.world/articles/news/issue-27/switzerland-civilian-bunkers",
+         "links": [
+             "https://www.thedial.world/articles/news/issue-27/switzerland-civilian-bunkers"
+         ],
+         "published": "Sun, 04 May 2025 01:05:16 +0000",
+         "publishedParsed": "2025-05-04T01:05:16Z"
+     },
+     {
          "title": "How Kim Jong Il Kidnapped a Director, Made a Cult Hit Godzilla Knockoff (2015)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43880472\"\u003eComments\u003c/a\u003e",
          "link": "https://www.vanityfair.com/hollywood/2015/04/pulgasari-north-korea-cult-hit",
@@ -108,56 +148,6 @@
          ],
          "published": "Sat, 03 May 2025 17:06:57 +0000",
          "publishedParsed": "2025-05-03T17:06:57Z"
-     },
-     {
-         "title": "Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43897129\"\u003eComments\u003c/a\u003e",
-         "link": "https://textquery.app/",
-         "links": [
-             "https://textquery.app/"
-         ],
-         "published": "Mon, 05 May 2025 16:59:15 +0000",
-         "publishedParsed": "2025-05-05T16:59:15Z"
-     },
-     {
-         "title": "The vocal effects of Daft Punk",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43893601\"\u003eComments\u003c/a\u003e",
-         "link": "https://bjango.com/articles/daftpunkvocaleffects/",
-         "links": [
-             "https://bjango.com/articles/daftpunkvocaleffects/"
-         ],
-         "published": "Mon, 05 May 2025 10:48:21 +0000",
-         "publishedParsed": "2025-05-05T10:48:21Z"
-     },
-     {
-         "title": "Make music from GitHub contribution graphs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43878899\"\u003eComments\u003c/a\u003e",
-         "link": "https://ayitey.me/git-tunes",
-         "links": [
-             "https://ayitey.me/git-tunes"
-         ],
-         "published": "Sat, 03 May 2025 13:27:07 +0000",
-         "publishedParsed": "2025-05-03T13:27:07Z"
-     },
-     {
-         "title": "The Beauty of Having a Pi-Hole (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43894175\"\u003eComments\u003c/a\u003e",
-         "link": "https://den.dev/blog/pihole/",
-         "links": [
-             "https://den.dev/blog/pihole/"
-         ],
-         "published": "Mon, 05 May 2025 12:06:11 +0000",
-         "publishedParsed": "2025-05-05T12:06:11Z"
-     },
-     {
-         "title": "Dimension 126 Contains Twisted Shapes, Mathematicians Prove",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43896199\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/",
-         "links": [
-             "https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/"
-         ],
-         "published": "Mon, 05 May 2025 15:34:56 +0000",
-         "publishedParsed": "2025-05-05T15:34:56Z"
      },
      {
          "title": "As an experienced LLM user, I don't use generative LLMs often",
@@ -170,14 +160,44 @@
          "publishedParsed": "2025-05-05T17:22:40Z"
      },
      {
-         "title": "Show HN: Tkintergalactic - Declarative Tcl/Tk UI Library for Python",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43897719\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/leontrolski/tkintergalactic",
+         "title": "Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43897129\"\u003eComments\u003c/a\u003e",
+         "link": "https://textquery.app/",
          "links": [
-             "https://github.com/leontrolski/tkintergalactic"
+             "https://textquery.app/"
          ],
-         "published": "Mon, 05 May 2025 18:02:20 +0000",
-         "publishedParsed": "2025-05-05T18:02:20Z"
+         "published": "Mon, 05 May 2025 16:59:15 +0000",
+         "publishedParsed": "2025-05-05T16:59:15Z"
+     },
+     {
+         "title": "Open WebUI BSD-3-based license adds a fair-use branding protection clause",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43901575\"\u003eComments\u003c/a\u003e",
+         "link": "https://docs.openwebui.com/license/",
+         "links": [
+             "https://docs.openwebui.com/license/"
+         ],
+         "published": "Tue, 06 May 2025 03:28:52 +0000",
+         "publishedParsed": "2025-05-06T03:28:52Z"
+     },
+     {
+         "title": "The Beauty of Having a Pi-Hole (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43894175\"\u003eComments\u003c/a\u003e",
+         "link": "https://den.dev/blog/pihole/",
+         "links": [
+             "https://den.dev/blog/pihole/"
+         ],
+         "published": "Mon, 05 May 2025 12:06:11 +0000",
+         "publishedParsed": "2025-05-05T12:06:11Z"
+     },
+     {
+         "title": "The vocal effects of Daft Punk",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43893601\"\u003eComments\u003c/a\u003e",
+         "link": "https://bjango.com/articles/daftpunkvocaleffects/",
+         "links": [
+             "https://bjango.com/articles/daftpunkvocaleffects/"
+         ],
+         "published": "Mon, 05 May 2025 10:48:21 +0000",
+         "publishedParsed": "2025-05-05T10:48:21Z"
      },
      {
          "title": "I decided to pay off a school’s lunch debt",
@@ -190,6 +210,36 @@
          "publishedParsed": "2025-05-04T07:13:47Z"
      },
      {
+         "title": "Dimension 126 Contains Twisted Shapes, Mathematicians Prove",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43896199\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/",
+         "links": [
+             "https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/"
+         ],
+         "published": "Mon, 05 May 2025 15:34:56 +0000",
+         "publishedParsed": "2025-05-05T15:34:56Z"
+     },
+     {
+         "title": "Show HN: Tkintergalactic - Declarative Tcl/Tk UI Library for Python",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43897719\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/leontrolski/tkintergalactic",
+         "links": [
+             "https://github.com/leontrolski/tkintergalactic"
+         ],
+         "published": "Mon, 05 May 2025 18:02:20 +0000",
+         "publishedParsed": "2025-05-05T18:02:20Z"
+     },
+     {
+         "title": "Make music from GitHub contribution graphs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43878899\"\u003eComments\u003c/a\u003e",
+         "link": "https://ayitey.me/git-tunes",
+         "links": [
+             "https://ayitey.me/git-tunes"
+         ],
+         "published": "Sat, 03 May 2025 13:27:07 +0000",
+         "publishedParsed": "2025-05-03T13:27:07Z"
+     },
+     {
          "title": "The Death of Daydreaming",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43894305\"\u003eComments\u003c/a\u003e",
          "link": "https://www.afterbabel.com/p/on-the-death-of-daydreaming",
@@ -200,54 +250,14 @@
          "publishedParsed": "2025-05-05T12:22:10Z"
      },
      {
-         "title": "Show HN: Klavis AI – Open-source MCP integration for AI applications",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43896410\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Klavis-AI/klavis",
+         "title": "Show HN: I built a 7-day calendar app – no months or years, just the next 7 days",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43900264\"\u003eComments\u003c/a\u003e",
+         "link": "https://weeklong.life/",
          "links": [
-             "https://github.com/Klavis-AI/klavis"
+             "https://weeklong.life/"
          ],
-         "published": "Mon, 05 May 2025 15:52:37 +0000",
-         "publishedParsed": "2025-05-05T15:52:37Z"
-     },
-     {
-         "title": "Kate and Python Language Server",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43875134\"\u003eComments\u003c/a\u003e",
-         "link": "https://akselmo.dev/posts/kate-python-lsp/",
-         "links": [
-             "https://akselmo.dev/posts/kate-python-lsp/"
-         ],
-         "published": "Fri, 02 May 2025 22:27:35 +0000",
-         "publishedParsed": "2025-05-02T22:27:35Z"
-     },
-     {
-         "title": "Geometrically understanding calculus of inverse functions (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43895852\"\u003eComments\u003c/a\u003e",
-         "link": "https://tobylam.xyz/2023/11/27/inverse-functions-legendre-part-1",
-         "links": [
-             "https://tobylam.xyz/2023/11/27/inverse-functions-legendre-part-1"
-         ],
-         "published": "Mon, 05 May 2025 15:01:30 +0000",
-         "publishedParsed": "2025-05-05T15:01:30Z"
-     },
-     {
-         "title": "History of \"Adventure\" for the Atari 2600",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43895237\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.atariarchive.org/blog/adventure-march-1980/",
-         "links": [
-             "https://www.atariarchive.org/blog/adventure-march-1980/"
-         ],
-         "published": "Mon, 05 May 2025 14:01:34 +0000",
-         "publishedParsed": "2025-05-05T14:01:34Z"
-     },
-     {
-         "title": "A Tektronix TDS 684B Oscilloscope Uses CCD Analog Memory",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43895622\"\u003eComments\u003c/a\u003e",
-         "link": "https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html",
-         "links": [
-             "https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html"
-         ],
-         "published": "Mon, 05 May 2025 14:37:51 +0000",
-         "publishedParsed": "2025-05-05T14:37:51Z"
+         "published": "Mon, 05 May 2025 23:05:31 +0000",
+         "publishedParsed": "2025-05-05T23:05:31Z"
      },
      {
          "title": "Instant (YC S22) Is Hiring a Founding TypeScript Engineer",
@@ -260,43 +270,13 @@
          "publishedParsed": "2025-05-05T17:00:26Z"
      },
      {
-         "title": "You can't git clone a team",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43895637\"\u003eComments\u003c/a\u003e",
-         "link": "https://virtualize.sh/blog/you-cant-git-clone-a-team/",
+         "title": "Show HN: Klavis AI – Open-source MCP integration for AI applications",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43896410\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/Klavis-AI/klavis",
          "links": [
-             "https://virtualize.sh/blog/you-cant-git-clone-a-team/"
+             "https://github.com/Klavis-AI/klavis"
          ],
-         "published": "Mon, 05 May 2025 14:39:48 +0000",
-         "publishedParsed": "2025-05-05T14:39:48Z"
-     },
-     {
-         "title": "Determining favorite t-shirt color using science",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43878560\"\u003eComments\u003c/a\u003e",
-         "link": "https://ostwilkens.se/blog/determining-favorite-shirt-color",
-         "links": [
-             "https://ostwilkens.se/blog/determining-favorite-shirt-color"
-         ],
-         "published": "Sat, 03 May 2025 12:18:46 +0000",
-         "publishedParsed": "2025-05-03T12:18:46Z"
-     },
-     {
-         "title": "AWS Built a Security Tool. It Introduced a Security Risk",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43893906\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk",
-         "links": [
-             "https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk"
-         ],
-         "published": "Mon, 05 May 2025 11:37:04 +0000",
-         "publishedParsed": "2025-05-05T11:37:04Z"
-     },
-     {
-         "title": "Show HN: Bracket – selfhosted tournament system",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43895456\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/evroon/bracket",
-         "links": [
-             "https://github.com/evroon/bracket"
-         ],
-         "published": "Mon, 05 May 2025 14:20:04 +0000",
-         "publishedParsed": "2025-05-05T14:20:04Z"
+         "published": "Mon, 05 May 2025 15:52:37 +0000",
+         "publishedParsed": "2025-05-05T15:52:37Z"
      }
  ]
