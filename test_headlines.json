@@ -1,13 +1,13 @@
 [
      {
-         "title": "Three Chapters at Cloudflare: Programmer to CTO to Board of Directors",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43918600\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.cloudflare.com/en-us/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/",
+         "title": "Ty: A fast Python type checker and language server",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43918484\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/astral-sh/ty",
          "links": [
-             "https://blog.cloudflare.com/en-us/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/"
+             "https://github.com/astral-sh/ty"
          ],
-         "published": "Wed, 07 May 2025 17:43:06 +0000",
-         "publishedParsed": "2025-05-07T17:43:06Z"
+         "published": "Wed, 07 May 2025 17:32:26 +0000",
+         "publishedParsed": "2025-05-07T17:32:26Z"
      },
      {
          "title": "Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O",
@@ -20,14 +20,44 @@
          "publishedParsed": "2025-05-07T14:57:03Z"
      },
      {
-         "title": "Ty: A fast Python type checker and language server, written in Rust",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43918484\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/astral-sh/ty",
+         "title": "Introducing Web Search on the Anthropic API",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43920188\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.anthropic.com/news/web-search-api",
          "links": [
-             "https://github.com/astral-sh/ty"
+             "https://www.anthropic.com/news/web-search-api"
          ],
-         "published": "Wed, 07 May 2025 17:32:26 +0000",
-         "publishedParsed": "2025-05-07T17:32:26Z"
+         "published": "Wed, 07 May 2025 20:18:47 +0000",
+         "publishedParsed": "2025-05-07T20:18:47Z"
+     },
+     {
+         "title": "Open source Google Analytics replacement",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43918620\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/rybbit-io/rybbit",
+         "links": [
+             "https://github.com/rybbit-io/rybbit"
+         ],
+         "published": "Wed, 07 May 2025 17:45:33 +0000",
+         "publishedParsed": "2025-05-07T17:45:33Z"
+     },
+     {
+         "title": "How to Average in Prolog (2017)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43919959\"\u003eComments\u003c/a\u003e",
+         "link": "https://storytotell.org/how-to-average-in-prolog",
+         "links": [
+             "https://storytotell.org/how-to-average-in-prolog"
+         ],
+         "published": "Wed, 07 May 2025 19:54:08 +0000",
+         "publishedParsed": "2025-05-07T19:54:08Z"
+     },
+     {
+         "title": "Mistral ships le chat – enterprise AI assistant that can run on prem",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43916098\"\u003eComments\u003c/a\u003e",
+         "link": "https://mistral.ai/news/le-chat-enterprise",
+         "links": [
+             "https://mistral.ai/news/le-chat-enterprise"
+         ],
+         "published": "Wed, 07 May 2025 14:24:09 +0000",
+         "publishedParsed": "2025-05-07T14:24:09Z"
      },
      {
          "title": "Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)",
@@ -50,34 +80,14 @@
          "publishedParsed": "2025-05-07T16:06:44Z"
      },
      {
-         "title": "Open source Google Analytics replacement",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43918620\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/rybbit-io/rybbit",
+         "title": "Zed: High-performance AI Code Editor",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43912844\"\u003eComments\u003c/a\u003e",
+         "link": "https://zed.dev/blog/fastest-ai-code-editor",
          "links": [
-             "https://github.com/rybbit-io/rybbit"
+             "https://zed.dev/blog/fastest-ai-code-editor"
          ],
-         "published": "Wed, 07 May 2025 17:45:33 +0000",
-         "publishedParsed": "2025-05-07T17:45:33Z"
-     },
-     {
-         "title": "Mistral ships le chat – enterprise AI assistant that can run on prem",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43916098\"\u003eComments\u003c/a\u003e",
-         "link": "https://mistral.ai/news/le-chat-enterprise",
-         "links": [
-             "https://mistral.ai/news/le-chat-enterprise"
-         ],
-         "published": "Wed, 07 May 2025 14:24:09 +0000",
-         "publishedParsed": "2025-05-07T14:24:09Z"
-     },
-     {
-         "title": "Telling Lies: Bowie and Online Music Distribution in 1996",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43917376\"\u003eComments\u003c/a\u003e",
-         "link": "https://cybercultural.com/p/online-music-distribution-1996/",
-         "links": [
-             "https://cybercultural.com/p/online-music-distribution-1996/"
-         ],
-         "published": "Wed, 07 May 2025 15:58:41 +0000",
-         "publishedParsed": "2025-05-07T15:58:41Z"
+         "published": "Wed, 07 May 2025 06:38:40 +0000",
+         "publishedParsed": "2025-05-07T06:38:40Z"
      },
      {
          "title": "My quest to make motorcycle riding that tad bit safer",
@@ -90,6 +100,26 @@
          "publishedParsed": "2025-05-07T11:06:17Z"
      },
      {
+         "title": "Telling Lies: Bowie and Online Music Distribution in 1996",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43917376\"\u003eComments\u003c/a\u003e",
+         "link": "https://cybercultural.com/p/online-music-distribution-1996/",
+         "links": [
+             "https://cybercultural.com/p/online-music-distribution-1996/"
+         ],
+         "published": "Wed, 07 May 2025 15:58:41 +0000",
+         "publishedParsed": "2025-05-07T15:58:41Z"
+     },
+     {
+         "title": "Mac Themes Garden",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43919868\"\u003eComments\u003c/a\u003e",
+         "link": "https://damien.zone/introducing-mac-themes-garden/",
+         "links": [
+             "https://damien.zone/introducing-mac-themes-garden/"
+         ],
+         "published": "Wed, 07 May 2025 19:44:51 +0000",
+         "publishedParsed": "2025-05-07T19:44:51Z"
+     },
+     {
          "title": "Motion (YC W20) Is Hiring a Senior Engineers",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43918134\"\u003eComments\u003c/a\u003e",
          "link": "https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn",
@@ -100,14 +130,24 @@
          "publishedParsed": "2025-05-07T17:01:45Z"
      },
      {
-         "title": "Zed: High-performance AI Code Editor",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43912844\"\u003eComments\u003c/a\u003e",
-         "link": "https://zed.dev/blog/fastest-ai-code-editor",
+         "title": "El Cono: The mysterious sacred 'pyramid' hidden deep in the Amazon rainforest",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43887304\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.livescience.com/planet-earth/geology/el-cono-the-mysterious-sacred-pyramid-hidden-deep-in-the-amazon-rainforest",
          "links": [
-             "https://zed.dev/blog/fastest-ai-code-editor"
+             "https://www.livescience.com/planet-earth/geology/el-cono-the-mysterious-sacred-pyramid-hidden-deep-in-the-amazon-rainforest"
          ],
-         "published": "Wed, 07 May 2025 06:38:40 +0000",
-         "publishedParsed": "2025-05-07T06:38:40Z"
+         "published": "Sun, 04 May 2025 15:34:41 +0000",
+         "publishedParsed": "2025-05-04T15:34:41Z"
+     },
+     {
+         "title": "Single hair-like electrode outperforms traditional 21-lead EEG",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43906528\"\u003eComments\u003c/a\u003e",
+         "link": "https://newatlas.com/medical-devices/3d-printed-hairlike-eeg-electrode/",
+         "links": [
+             "https://newatlas.com/medical-devices/3d-printed-hairlike-eeg-electrode/"
+         ],
+         "published": "Tue, 06 May 2025 15:53:30 +0000",
+         "publishedParsed": "2025-05-06T15:53:30Z"
      },
      {
          "title": "CLion Is Now Free for Non-Commercial Use",
@@ -140,14 +180,14 @@
          "publishedParsed": "2025-05-04T18:53:29Z"
      },
      {
-         "title": "Stringly Typed",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43887489\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.stefanjudis.com/blog/stringly-typed/",
+         "title": "RSC for Astro Developers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43901643\"\u003eComments\u003c/a\u003e",
+         "link": "https://overreacted.io/rsc-for-astro-developers/",
          "links": [
-             "https://www.stefanjudis.com/blog/stringly-typed/"
+             "https://overreacted.io/rsc-for-astro-developers/"
          ],
-         "published": "Sun, 04 May 2025 16:01:05 +0000",
-         "publishedParsed": "2025-05-04T16:01:05Z"
+         "published": "Tue, 06 May 2025 03:47:00 +0000",
+         "publishedParsed": "2025-05-06T03:47:00Z"
      },
      {
          "title": "Polycompiler: Merge Python and JavaScript code into one file that runs in both",
@@ -160,14 +200,14 @@
          "publishedParsed": "2025-05-04T03:27:01Z"
      },
      {
-         "title": "Single hair-like electrode outperforms traditional 21-lead EEG",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43906528\"\u003eComments\u003c/a\u003e",
-         "link": "https://newatlas.com/medical-devices/3d-printed-hairlike-eeg-electrode/",
+         "title": "Vagus Nerve Stimulation Erases PTSD",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43919812\"\u003eComments\u003c/a\u003e",
+         "link": "https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/",
          "links": [
-             "https://newatlas.com/medical-devices/3d-printed-hairlike-eeg-electrode/"
+             "https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/"
          ],
-         "published": "Tue, 06 May 2025 15:53:30 +0000",
-         "publishedParsed": "2025-05-06T15:53:30Z"
+         "published": "Wed, 07 May 2025 19:38:16 +0000",
+         "publishedParsed": "2025-05-07T19:38:16Z"
      },
      {
          "title": "Perfect Random Floating-Point Numbers",
@@ -180,24 +220,24 @@
          "publishedParsed": "2025-05-04T14:56:12Z"
      },
      {
-         "title": "Getting Older Isn't What You Think",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43917855\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.katycowan.co.uk/blog/getting-old",
+         "title": "Proposal: Add bare metal support to Go",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43919862\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/golang/go/issues/73608",
          "links": [
-             "https://www.katycowan.co.uk/blog/getting-old"
+             "https://github.com/golang/go/issues/73608"
          ],
-         "published": "Wed, 07 May 2025 16:41:04 +0000",
-         "publishedParsed": "2025-05-07T16:41:04Z"
+         "published": "Wed, 07 May 2025 19:44:11 +0000",
+         "publishedParsed": "2025-05-07T19:44:11Z"
      },
      {
-         "title": "OpenAI reaches agreement to buy Windsurf for $3B",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43900877\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion",
+         "title": "Claude's system prompt is over 24k tokens with tools",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43909409\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt",
          "links": [
-             "https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion"
+             "https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt"
          ],
-         "published": "Tue, 06 May 2025 00:57:48 +0000",
-         "publishedParsed": "2025-05-06T00:57:48Z"
+         "published": "Tue, 06 May 2025 20:39:35 +0000",
+         "publishedParsed": "2025-05-06T20:39:35Z"
      },
      {
          "title": "OpenSearch 3.0 Released",
@@ -208,26 +248,6 @@
          ],
          "published": "Wed, 07 May 2025 15:38:46 +0000",
          "publishedParsed": "2025-05-07T15:38:46Z"
-     },
-     {
-         "title": "Samsung is paying $350M for audio brands B\u0026W, Denon, Marantz and Polk",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43918437\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.engadget.com/audio/samsung-is-paying-350-million-for-audio-brands-bowers--wilkins-denon-marantz-and-polk-131514754.html",
-         "links": [
-             "https://www.engadget.com/audio/samsung-is-paying-350-million-for-audio-brands-bowers--wilkins-denon-marantz-and-polk-131514754.html"
-         ],
-         "published": "Wed, 07 May 2025 17:28:25 +0000",
-         "publishedParsed": "2025-05-07T17:28:25Z"
-     },
-     {
-         "title": "Launch HN: Exa (YC S21) – The web as a database",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43906841\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=43906841",
-         "links": [
-             "https://news.ycombinator.com/item?id=43906841"
-         ],
-         "published": "Tue, 06 May 2025 16:18:42 +0000",
-         "publishedParsed": "2025-05-06T16:18:42Z"
      },
      {
          "title": "Using tests as a debugging tool for logic errors",
@@ -250,16 +270,6 @@
          "publishedParsed": "2025-05-06T12:46:49Z"
      },
      {
-         "title": "Claude's system prompt is over 24k tokens with tools",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43909409\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt",
-         "links": [
-             "https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt"
-         ],
-         "published": "Tue, 06 May 2025 20:39:35 +0000",
-         "publishedParsed": "2025-05-06T20:39:35Z"
-     },
-     {
          "title": "Matt Godbolt sold me on Rust by showing me C++",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43907820\"\u003eComments\u003c/a\u003e",
          "link": "https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/",
@@ -270,23 +280,13 @@
          "publishedParsed": "2025-05-06T17:51:03Z"
      },
      {
-         "title": "docker2exe: Convert a Docker image to an executable",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43899288\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/rzane/docker2exe",
+         "title": "Hunting down a C memory leak in a Go program (2021)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43920362\"\u003eComments\u003c/a\u003e",
+         "link": "https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d",
          "links": [
-             "https://github.com/rzane/docker2exe"
+             "https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d"
          ],
-         "published": "Mon, 05 May 2025 20:47:04 +0000",
-         "publishedParsed": "2025-05-05T20:47:04Z"
-     },
-     {
-         "title": "WebMonkeys: parallel GPU programming in JavaScript (2016)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43887874\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/VictorTaelin/WebMonkeys",
-         "links": [
-             "https://github.com/VictorTaelin/WebMonkeys"
-         ],
-         "published": "Sun, 04 May 2025 17:00:04 +0000",
-         "publishedParsed": "2025-05-04T17:00:04Z"
+         "published": "Wed, 07 May 2025 20:42:03 +0000",
+         "publishedParsed": "2025-05-07T20:42:03Z"
      }
  ]
