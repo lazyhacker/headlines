@@ -10,14 +10,14 @@
          "publishedParsed": "2025-05-06T15:02:22Z"
      },
      {
-         "title": "docker2exe: Convert a Docker image to an executable",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43899288\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/rzane/docker2exe",
+         "title": "DuoBook: Generate bilingual stories to learn any language",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43886381\"\u003eComments\u003c/a\u003e",
+         "link": "https://duobook.co",
          "links": [
-             "https://github.com/rzane/docker2exe"
+             "https://duobook.co"
          ],
-         "published": "Mon, 05 May 2025 20:47:04 +0000",
-         "publishedParsed": "2025-05-05T20:47:04Z"
+         "published": "Sun, 04 May 2025 12:40:32 +0000",
+         "publishedParsed": "2025-05-04T12:40:32Z"
      },
      {
          "title": "Launch HN: Exa (YC S21) – The web as a database",
@@ -28,16 +28,6 @@
          ],
          "published": "Tue, 06 May 2025 16:18:42 +0000",
          "publishedParsed": "2025-05-06T16:18:42Z"
-     },
-     {
-         "title": "Alignment is not free: How model upgrades can silence your confidence signals",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43910685\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals",
-         "links": [
-             "https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals"
-         ],
-         "published": "Tue, 06 May 2025 23:22:49 +0000",
-         "publishedParsed": "2025-05-06T23:22:49Z"
      },
      {
          "title": "OpenAI reaches agreement to buy Windsurf for $3B",
@@ -60,6 +50,36 @@
          "publishedParsed": "2025-05-06T20:39:35Z"
      },
      {
+         "title": "Alignment is not free: How model upgrades can silence your confidence signals",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43910685\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals",
+         "links": [
+             "https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals"
+         ],
+         "published": "Tue, 06 May 2025 23:22:49 +0000",
+         "publishedParsed": "2025-05-06T23:22:49Z"
+     },
+     {
+         "title": "docker2exe: Convert a Docker image to an executable",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43899288\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/rzane/docker2exe",
+         "links": [
+             "https://github.com/rzane/docker2exe"
+         ],
+         "published": "Mon, 05 May 2025 20:47:04 +0000",
+         "publishedParsed": "2025-05-05T20:47:04Z"
+     },
+     {
+         "title": "(ab?)using Node module hooks to speed up development",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43896609\"\u003eComments\u003c/a\u003e",
+         "link": "https://immaculata.dev/blog/hacking-nodejs-modules.html",
+         "links": [
+             "https://immaculata.dev/blog/hacking-nodejs-modules.html"
+         ],
+         "published": "Mon, 05 May 2025 16:13:21 +0000",
+         "publishedParsed": "2025-05-05T16:13:21Z"
+     },
+     {
          "title": "VVVVVV Source Code",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43910681\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/TerryCavanagh/VVVVVV",
@@ -68,26 +88,6 @@
          ],
          "published": "Tue, 06 May 2025 23:22:08 +0000",
          "publishedParsed": "2025-05-06T23:22:08Z"
-     },
-     {
-         "title": "DuoBook: Generate bilingual stories to learn any language",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43886381\"\u003eComments\u003c/a\u003e",
-         "link": "https://duobook.co",
-         "links": [
-             "https://duobook.co"
-         ],
-         "published": "Sun, 04 May 2025 12:40:32 +0000",
-         "publishedParsed": "2025-05-04T12:40:32Z"
-     },
-     {
-         "title": "Bloat is still software's biggest vulnerability (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43910745\"\u003eComments\u003c/a\u003e",
-         "link": "https://spectrum.ieee.org/lean-software-development",
-         "links": [
-             "https://spectrum.ieee.org/lean-software-development"
-         ],
-         "published": "Tue, 06 May 2025 23:33:54 +0000",
-         "publishedParsed": "2025-05-06T23:33:54Z"
      },
      {
          "title": "Matt Godbolt sold me on Rust by showing me C++",
@@ -110,6 +110,16 @@
          "publishedParsed": "2025-05-06T20:38:00Z"
      },
      {
+         "title": "Bloat is still software's biggest vulnerability (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43910745\"\u003eComments\u003c/a\u003e",
+         "link": "https://spectrum.ieee.org/lean-software-development",
+         "links": [
+             "https://spectrum.ieee.org/lean-software-development"
+         ],
+         "published": "Tue, 06 May 2025 23:33:54 +0000",
+         "publishedParsed": "2025-05-06T23:33:54Z"
+     },
+     {
          "title": "Old Timey Code and Old Timey Mono Fonts",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43884418\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/dse/old-timey-mono-font",
@@ -118,36 +128,6 @@
          ],
          "published": "Sun, 04 May 2025 04:10:09 +0000",
          "publishedParsed": "2025-05-04T04:10:09Z"
-     },
-     {
-         "title": "Scientists have found a way to 'tattoo' tardigrades",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43901131\"\u003eComments\u003c/a\u003e",
-         "link": "https://phys.org/news/2025-04-scientists-tattoo-tardigrades.html",
-         "links": [
-             "https://phys.org/news/2025-04-scientists-tattoo-tardigrades.html"
-         ],
-         "published": "Tue, 06 May 2025 01:51:22 +0000",
-         "publishedParsed": "2025-05-06T01:51:22Z"
-     },
-     {
-         "title": "Show HN: Whippy Term - GUI terminal for embedded development (Linux and Windows)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43910565\"\u003eComments\u003c/a\u003e",
-         "link": "https://whippyterm.com",
-         "links": [
-             "https://whippyterm.com"
-         ],
-         "published": "Tue, 06 May 2025 23:02:46 +0000",
-         "publishedParsed": "2025-05-06T23:02:46Z"
-     },
-     {
-         "title": "Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43908368\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/reubeno/brush",
-         "links": [
-             "https://github.com/reubeno/brush"
-         ],
-         "published": "Tue, 06 May 2025 18:47:49 +0000",
-         "publishedParsed": "2025-05-06T18:47:49Z"
      },
      {
          "title": "Gemini 2.5 Pro Preview",
@@ -160,6 +140,36 @@
          "publishedParsed": "2025-05-06T15:10:00Z"
      },
      {
+         "title": "Scientists have found a way to 'tattoo' tardigrades",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43901131\"\u003eComments\u003c/a\u003e",
+         "link": "https://phys.org/news/2025-04-scientists-tattoo-tardigrades.html",
+         "links": [
+             "https://phys.org/news/2025-04-scientists-tattoo-tardigrades.html"
+         ],
+         "published": "Tue, 06 May 2025 01:51:22 +0000",
+         "publishedParsed": "2025-05-06T01:51:22Z"
+     },
+     {
+         "title": "Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43908368\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/reubeno/brush",
+         "links": [
+             "https://github.com/reubeno/brush"
+         ],
+         "published": "Tue, 06 May 2025 18:47:49 +0000",
+         "publishedParsed": "2025-05-06T18:47:49Z"
+     },
+     {
+         "title": "Show HN: Whippy Term - GUI terminal for embedded development (Linux and Windows)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43910565\"\u003eComments\u003c/a\u003e",
+         "link": "https://whippyterm.com",
+         "links": [
+             "https://whippyterm.com"
+         ],
+         "published": "Tue, 06 May 2025 23:02:46 +0000",
+         "publishedParsed": "2025-05-06T23:02:46Z"
+     },
+     {
          "title": "Accents in latent spaces: How AI hears accent strength in English",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43905299\"\u003eComments\u003c/a\u003e",
          "link": "https://accent-strength.boldvoice.com/",
@@ -168,36 +178,6 @@
          ],
          "published": "Tue, 06 May 2025 14:07:57 +0000",
          "publishedParsed": "2025-05-06T14:07:57Z"
-     },
-     {
-         "title": "Continue (YC S23) is hiring software engineers in San Francisco",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43909596\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer",
-         "links": [
-             "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"
-         ],
-         "published": "Tue, 06 May 2025 21:01:57 +0000",
-         "publishedParsed": "2025-05-06T21:01:57Z"
-     },
-     {
-         "title": "Nnd – a TUI debugger alternative to GDB, LLDB",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43905185\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/al13n321/nnd",
-         "links": [
-             "https://github.com/al13n321/nnd"
-         ],
-         "published": "Tue, 06 May 2025 13:58:03 +0000",
-         "publishedParsed": "2025-05-06T13:58:03Z"
-     },
-     {
-         "title": "Is Planet Nine Alone in the Outer System?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43907586\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/",
-         "links": [
-             "https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/"
-         ],
-         "published": "Tue, 06 May 2025 17:29:31 +0000",
-         "publishedParsed": "2025-05-06T17:29:31Z"
      },
      {
          "title": "Sutton and Barto book implementation",
@@ -210,6 +190,26 @@
          "publishedParsed": "2025-05-06T22:43:06Z"
      },
      {
+         "title": "Nnd – a TUI debugger alternative to GDB, LLDB",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43905185\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/al13n321/nnd",
+         "links": [
+             "https://github.com/al13n321/nnd"
+         ],
+         "published": "Tue, 06 May 2025 13:58:03 +0000",
+         "publishedParsed": "2025-05-06T13:58:03Z"
+     },
+     {
+         "title": "Loving 21st century gaming like an 18th century furniture expert",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43896765\"\u003eComments\u003c/a\u003e",
+         "link": "https://kimimithegameeatingshemonster.com/2023/04/26/loving-21st-century-gaming-like-an-18th-century-furniture-expert/",
+         "links": [
+             "https://kimimithegameeatingshemonster.com/2023/04/26/loving-21st-century-gaming-like-an-18th-century-furniture-expert/"
+         ],
+         "published": "Mon, 05 May 2025 16:26:25 +0000",
+         "publishedParsed": "2025-05-05T16:26:25Z"
+     },
+     {
          "title": "DoorDash to acquire Deliveroo",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43902308\"\u003eComments\u003c/a\u003e",
          "link": "https://www.cnbc.com/2025/05/06/doordash-to-buy-uk-food-delivery-firm-deliveroo-in-3point9-billion-deal.html",
@@ -218,6 +218,26 @@
          ],
          "published": "Tue, 06 May 2025 06:27:04 +0000",
          "publishedParsed": "2025-05-06T06:27:04Z"
+     },
+     {
+         "title": "Continue (YC S23) is hiring software engineers in San Francisco",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43909596\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer",
+         "links": [
+             "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"
+         ],
+         "published": "Tue, 06 May 2025 21:01:57 +0000",
+         "publishedParsed": "2025-05-06T21:01:57Z"
+     },
+     {
+         "title": "Is Planet Nine Alone in the Outer System?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43907586\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/",
+         "links": [
+             "https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/"
+         ],
+         "published": "Tue, 06 May 2025 17:29:31 +0000",
+         "publishedParsed": "2025-05-06T17:29:31Z"
      },
      {
          "title": "Show HN: Plexe – ML Models from a Prompt",
@@ -238,25 +258,5 @@
          ],
          "published": "Tue, 06 May 2025 15:47:21 +0000",
          "publishedParsed": "2025-05-06T15:47:21Z"
-     },
-     {
-         "title": "New studies offer insight into Lyme disease’s treatment, lingering symptoms",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43903959\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/",
-         "links": [
-             "https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/"
-         ],
-         "published": "Tue, 06 May 2025 11:38:44 +0000",
-         "publishedParsed": "2025-05-06T11:38:44Z"
-     },
-     {
-         "title": "Reverse-engineering Fujitsu M7MU RELC hardware compression",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43896944\"\u003eComments\u003c/a\u003e",
-         "link": "https://op-co.de/blog/posts/fujitsu_relc_compression/",
-         "links": [
-             "https://op-co.de/blog/posts/fujitsu_relc_compression/"
-         ],
-         "published": "Mon, 05 May 2025 16:41:04 +0000",
-         "publishedParsed": "2025-05-05T16:41:04Z"
      }
  ]
