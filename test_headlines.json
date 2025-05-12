@@ -1,16 +1,6 @@
 [
      {
-         "title": "I hacked a dating app (and how not to treat a security researcher)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43964937\"\u003eComments\u003c/a\u003e",
-         "link": "https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously",
-         "links": [
-             "https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously"
-         ],
-         "published": "Mon, 12 May 2025 16:39:10 +0000",
-         "publishedParsed": "2025-05-12T16:39:10Z"
-     },
-     {
-         "title": "Embeddings Are Underrated",
+         "title": "Embeddings are underrated",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43963868\"\u003eComments\u003c/a\u003e",
          "link": "https://technicalwriting.dev/ml/embeddings/overview.html",
          "links": [
@@ -30,6 +20,16 @@
          "publishedParsed": "2025-05-12T15:28:38Z"
      },
      {
+         "title": "HealthBench",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43965608\"\u003eComments\u003c/a\u003e",
+         "link": "https://openai.com/index/healthbench/",
+         "links": [
+             "https://openai.com/index/healthbench/"
+         ],
+         "published": "Mon, 12 May 2025 17:42:37 +0000",
+         "publishedParsed": "2025-05-12T17:42:37Z"
+     },
+     {
          "title": "RIP Usenix ATC",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43964827\"\u003eComments\u003c/a\u003e",
          "link": "https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/",
@@ -40,14 +40,14 @@
          "publishedParsed": "2025-05-12T16:29:05Z"
      },
      {
-         "title": "HealthBench",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43965608\"\u003eComments\u003c/a\u003e",
-         "link": "https://openai.com/index/healthbench/",
+         "title": "Can you trust that permission pop-up on macOS?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43966089\"\u003eComments\u003c/a\u003e",
+         "link": "https://wts.dev/posts/tcc-who/",
          "links": [
-             "https://openai.com/index/healthbench/"
+             "https://wts.dev/posts/tcc-who/"
          ],
-         "published": "Mon, 12 May 2025 17:42:37 +0000",
-         "publishedParsed": "2025-05-12T17:42:37Z"
+         "published": "Mon, 12 May 2025 18:26:44 +0000",
+         "publishedParsed": "2025-05-12T18:26:44Z"
      },
      {
          "title": "Launch HN: ParaQuery (YC X25) – GPU Accelerated Spark/SQL",
@@ -60,6 +60,26 @@
          "publishedParsed": "2025-05-12T16:01:31Z"
      },
      {
+         "title": "Byte latent transformer: Patches scale better than tokens",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43965099\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2412.09871",
+         "links": [
+             "https://arxiv.org/abs/2412.09871"
+         ],
+         "published": "Mon, 12 May 2025 16:55:39 +0000",
+         "publishedParsed": "2025-05-12T16:55:39Z"
+     },
+     {
+         "title": "Show HN: Lumoar – Free SOC 2 tool for SaaS startups",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43966471\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.lumoar.com",
+         "links": [
+             "https://www.lumoar.com"
+         ],
+         "published": "Mon, 12 May 2025 19:05:03 +0000",
+         "publishedParsed": "2025-05-12T19:05:03Z"
+     },
+     {
          "title": "A community-led fork of Organic Maps",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43961908\"\u003eComments\u003c/a\u003e",
          "link": "https://www.comaps.app/news/2025-05-12/3/",
@@ -68,16 +88,6 @@
          ],
          "published": "Mon, 12 May 2025 11:40:24 +0000",
          "publishedParsed": "2025-05-12T11:40:24Z"
-     },
-     {
-         "title": "Byte Latent Transformer: Patches Scale Better Than Tokens",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43965099\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2412.09871",
-         "links": [
-             "https://arxiv.org/abs/2412.09871"
-         ],
-         "published": "Mon, 12 May 2025 16:55:39 +0000",
-         "publishedParsed": "2025-05-12T16:55:39Z"
      },
      {
          "title": "Ruby 3.5 Feature: Namespace on read",
@@ -90,47 +100,7 @@
          "publishedParsed": "2025-05-12T13:39:34Z"
      },
      {
-         "title": "Legion Health (YC S21) Is Hiring Founding Engineers to Fix Mental Health with AI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43965161\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.workatastartup.com/jobs/75011",
-         "links": [
-             "https://www.workatastartup.com/jobs/75011"
-         ],
-         "published": "Mon, 12 May 2025 17:01:42 +0000",
-         "publishedParsed": "2025-05-12T17:01:42Z"
-     },
-     {
-         "title": "Show HN: Airweave – Let agents search any app",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43964201\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/airweave-ai/airweave",
-         "links": [
-             "https://github.com/airweave-ai/airweave"
-         ],
-         "published": "Mon, 12 May 2025 15:34:21 +0000",
-         "publishedParsed": "2025-05-12T15:34:21Z"
-     },
-     {
-         "title": "Demonstrably Secure Software Supply Chains with Nix",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43963747\"\u003eComments\u003c/a\u003e",
-         "link": "https://nixcademy.com/posts/secure-supply-chain-with-nix/",
-         "links": [
-             "https://nixcademy.com/posts/secure-supply-chain-with-nix/"
-         ],
-         "published": "Mon, 12 May 2025 14:54:31 +0000",
-         "publishedParsed": "2025-05-12T14:54:31Z"
-     },
-     {
-         "title": "5 Steps to N-Body Simulation",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43944007\"\u003eComments\u003c/a\u003e",
-         "link": "https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/",
-         "links": [
-             "https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/"
-         ],
-         "published": "Sat, 10 May 2025 08:10:18 +0000",
-         "publishedParsed": "2025-05-10T08:10:18Z"
-     },
-     {
-         "title": "Reviving a Modular Cargo Bike Design from the 1930s",
+         "title": "Reviving a modular cargo bike design from the 1930s",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43963397\"\u003eComments\u003c/a\u003e",
          "link": "https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s",
          "links": [
@@ -140,44 +110,24 @@
          "publishedParsed": "2025-05-12T14:29:33Z"
      },
      {
-         "title": "Why GADTs matter for performance (2015)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43945660\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.janestreet.com/why-gadts-matter-for-performance/",
+         "title": "The Acid King (2001)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43941068\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.rollingstone.com/feature/acid-lsd-king-william-leonard-pickard-prison-pete-wilkinson-184390/",
          "links": [
-             "https://blog.janestreet.com/why-gadts-matter-for-performance/"
+             "https://www.rollingstone.com/feature/acid-lsd-king-william-leonard-pickard-prison-pete-wilkinson-184390/"
          ],
-         "published": "Sat, 10 May 2025 13:55:43 +0000",
-         "publishedParsed": "2025-05-10T13:55:43Z"
+         "published": "Fri, 09 May 2025 21:30:16 +0000",
+         "publishedParsed": "2025-05-09T21:30:16Z"
      },
      {
-         "title": "University of Texas-led team solves a big problem for fusion energy",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43962148\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/",
+         "title": "Legion Health (YC S21) is hiring engineers to help fix mental health with AI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43965161\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.workatastartup.com/jobs/75011",
          "links": [
-             "https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/"
+             "https://www.workatastartup.com/jobs/75011"
          ],
-         "published": "Mon, 12 May 2025 12:21:33 +0000",
-         "publishedParsed": "2025-05-12T12:21:33Z"
-     },
-     {
-         "title": "Tailscale 4via6 – Connect Edge Deployments at Scale",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43962992\"\u003eComments\u003c/a\u003e",
-         "link": "https://tailscale.com/blog/4via6-connectivity-to-edge-devices",
-         "links": [
-             "https://tailscale.com/blog/4via6-connectivity-to-edge-devices"
-         ],
-         "published": "Mon, 12 May 2025 14:00:32 +0000",
-         "publishedParsed": "2025-05-12T14:00:32Z"
-     },
-     {
-         "title": "Universe expected to decay in 10⁷⁸ years, much sooner than previously thought",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43961226\"\u003eComments\u003c/a\u003e",
-         "link": "https://phys.org/news/2025-05-universe-decay-years-sooner-previously.html",
-         "links": [
-             "https://phys.org/news/2025-05-universe-decay-years-sooner-previously.html"
-         ],
-         "published": "Mon, 12 May 2025 09:46:36 +0000",
-         "publishedParsed": "2025-05-12T09:46:36Z"
+         "published": "Mon, 12 May 2025 17:01:42 +0000",
+         "publishedParsed": "2025-05-12T17:01:42Z"
      },
      {
          "title": "How to title your blog post or whatever",
@@ -190,24 +140,74 @@
          "publishedParsed": "2025-05-12T16:11:43Z"
      },
      {
-         "title": "Spade Hardware Description Language",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43962138\"\u003eComments\u003c/a\u003e",
-         "link": "https://spade-lang.org/",
+         "title": "5 Steps to N-Body Simulation",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43944007\"\u003eComments\u003c/a\u003e",
+         "link": "https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/",
          "links": [
-             "https://spade-lang.org/"
+             "https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/"
          ],
-         "published": "Mon, 12 May 2025 12:19:50 +0000",
-         "publishedParsed": "2025-05-12T12:19:50Z"
+         "published": "Sat, 10 May 2025 08:10:18 +0000",
+         "publishedParsed": "2025-05-10T08:10:18Z"
      },
      {
-         "title": "Show HN: CLI that spots fake GitHub stars, risky dependencies and licence traps",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43962427\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/m-ahmed-elbeskeri/Starguard",
+         "title": "Build Your Own Siri. Locally. On-Device. No Cloud",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43966694\"\u003eComments\u003c/a\u003e",
+         "link": "https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device",
          "links": [
-             "https://github.com/m-ahmed-elbeskeri/Starguard"
+             "https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device"
          ],
-         "published": "Mon, 12 May 2025 12:59:19 +0000",
-         "publishedParsed": "2025-05-12T12:59:19Z"
+         "published": "Mon, 12 May 2025 19:32:19 +0000",
+         "publishedParsed": "2025-05-12T19:32:19Z"
+     },
+     {
+         "title": "Show HN: Airweave – Let agents search any app",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43964201\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/airweave-ai/airweave",
+         "links": [
+             "https://github.com/airweave-ai/airweave"
+         ],
+         "published": "Mon, 12 May 2025 15:34:21 +0000",
+         "publishedParsed": "2025-05-12T15:34:21Z"
+     },
+     {
+         "title": "Toward a Sparse and Interpretable Audio Codec",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43966064\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2505.05654",
+         "links": [
+             "https://arxiv.org/abs/2505.05654"
+         ],
+         "published": "Mon, 12 May 2025 18:24:17 +0000",
+         "publishedParsed": "2025-05-12T18:24:17Z"
+     },
+     {
+         "title": "Demonstrably Secure Software Supply Chains with Nix",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43963747\"\u003eComments\u003c/a\u003e",
+         "link": "https://nixcademy.com/posts/secure-supply-chain-with-nix/",
+         "links": [
+             "https://nixcademy.com/posts/secure-supply-chain-with-nix/"
+         ],
+         "published": "Mon, 12 May 2025 14:54:31 +0000",
+         "publishedParsed": "2025-05-12T14:54:31Z"
+     },
+     {
+         "title": "I hacked a dating app (and how not to treat a security researcher)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43964937\"\u003eComments\u003c/a\u003e",
+         "link": "https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously",
+         "links": [
+             "https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously"
+         ],
+         "published": "Mon, 12 May 2025 16:39:10 +0000",
+         "publishedParsed": "2025-05-12T16:39:10Z"
+     },
+     {
+         "title": "Why GADTs matter for performance (2015)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43945660\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.janestreet.com/why-gadts-matter-for-performance/",
+         "links": [
+             "https://blog.janestreet.com/why-gadts-matter-for-performance/"
+         ],
+         "published": "Sat, 10 May 2025 13:55:43 +0000",
+         "publishedParsed": "2025-05-10T13:55:43Z"
      },
      {
          "title": "Continuous glucose monitors reveal variable glucose responses to the same meals",
@@ -220,14 +220,64 @@
          "publishedParsed": "2025-05-10T06:44:00Z"
      },
      {
-         "title": "Show HN: The missing inbox for GitHub pull requests",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43965453\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/pvcnt/mergeable",
+         "title": "Interagency Grizzly Bear Committee",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43945545\"\u003eComments\u003c/a\u003e",
+         "link": "https://igbconline.org/",
          "links": [
-             "https://github.com/pvcnt/mergeable"
+             "https://igbconline.org/"
          ],
-         "published": "Mon, 12 May 2025 17:29:48 +0000",
-         "publishedParsed": "2025-05-12T17:29:48Z"
+         "published": "Sat, 10 May 2025 13:40:34 +0000",
+         "publishedParsed": "2025-05-10T13:40:34Z"
+     },
+     {
+         "title": "Universe expected to decay in 10⁷⁸ years, much sooner than previously thought",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43961226\"\u003eComments\u003c/a\u003e",
+         "link": "https://phys.org/news/2025-05-universe-decay-years-sooner-previously.html",
+         "links": [
+             "https://phys.org/news/2025-05-universe-decay-years-sooner-previously.html"
+         ],
+         "published": "Mon, 12 May 2025 09:46:36 +0000",
+         "publishedParsed": "2025-05-12T09:46:36Z"
+     },
+     {
+         "title": "Show HN: CLI that spots fake GitHub stars, risky dependencies and licence traps",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43962427\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/m-ahmed-elbeskeri/Starguard",
+         "links": [
+             "https://github.com/m-ahmed-elbeskeri/Starguard"
+         ],
+         "published": "Mon, 12 May 2025 12:59:19 +0000",
+         "publishedParsed": "2025-05-12T12:59:19Z"
+     },
+     {
+         "title": "University of Texas-led team solves a big problem for fusion energy",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43962148\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/",
+         "links": [
+             "https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/"
+         ],
+         "published": "Mon, 12 May 2025 12:21:33 +0000",
+         "publishedParsed": "2025-05-12T12:21:33Z"
+     },
+     {
+         "title": "Spade Hardware Description Language",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43962138\"\u003eComments\u003c/a\u003e",
+         "link": "https://spade-lang.org/",
+         "links": [
+             "https://spade-lang.org/"
+         ],
+         "published": "Mon, 12 May 2025 12:19:50 +0000",
+         "publishedParsed": "2025-05-12T12:19:50Z"
+     },
+     {
+         "title": "Tailscale 4via6 – Connect Edge Deployments at Scale",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43962992\"\u003eComments\u003c/a\u003e",
+         "link": "https://tailscale.com/blog/4via6-connectivity-to-edge-devices",
+         "links": [
+             "https://tailscale.com/blog/4via6-connectivity-to-edge-devices"
+         ],
+         "published": "Mon, 12 May 2025 14:00:32 +0000",
+         "publishedParsed": "2025-05-12T14:00:32Z"
      },
      {
          "title": "I ruined my vacation by reverse engineering WSC",
@@ -238,55 +288,5 @@
          ],
          "published": "Mon, 12 May 2025 03:34:26 +0000",
          "publishedParsed": "2025-05-12T03:34:26Z"
-     },
-     {
-         "title": "OpenEoX to Standardize End-of-Life (EOL) and End-of-Support (EOS) Information",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43963839\"\u003eComments\u003c/a\u003e",
-         "link": "https://openeox.org/",
-         "links": [
-             "https://openeox.org/"
-         ],
-         "published": "Mon, 12 May 2025 15:02:48 +0000",
-         "publishedParsed": "2025-05-12T15:02:48Z"
-     },
-     {
-         "title": "A Typical Workday at a Japanese Hardware Tool Store [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43944526\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=A98jyfB5mws",
-         "links": [
-             "https://www.youtube.com/watch?v=A98jyfB5mws"
-         ],
-         "published": "Sat, 10 May 2025 10:18:54 +0000",
-         "publishedParsed": "2025-05-10T10:18:54Z"
-     },
-     {
-         "title": "The Internet 1997 – 2021",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43964896\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.opte.org/the-internet",
-         "links": [
-             "https://www.opte.org/the-internet"
-         ],
-         "published": "Mon, 12 May 2025 16:35:42 +0000",
-         "publishedParsed": "2025-05-12T16:35:42Z"
-     },
-     {
-         "title": "Optimizing My Hacker News Experience",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43927794\"\u003eComments\u003c/a\u003e",
-         "link": "https://reorientinglife.substack.com/p/optimizing-my-hacker-news-experience",
-         "links": [
-             "https://reorientinglife.substack.com/p/optimizing-my-hacker-news-experience"
-         ],
-         "published": "Thu, 08 May 2025 16:26:11 +0000",
-         "publishedParsed": "2025-05-08T16:26:11Z"
-     },
-     {
-         "title": "Ash (Almquist Shell) Variants",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43943984\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.in-ulm.de/~mascheck/various/ash/",
-         "links": [
-             "https://www.in-ulm.de/~mascheck/various/ash/"
-         ],
-         "published": "Sat, 10 May 2025 08:01:30 +0000",
-         "publishedParsed": "2025-05-10T08:01:30Z"
      }
  ]
