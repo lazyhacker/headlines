@@ -1,6 +1,6 @@
 [
      {
-         "title": "Why National Labs are investing (heavily) in AI",
+         "title": "A conversation about AI for science with Jason Pruet",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43966843\"\u003eComments\u003c/a\u003e",
          "link": "https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet",
          "links": [
@@ -8,6 +8,16 @@
          ],
          "published": "Mon, 12 May 2025 19:52:40 +0000",
          "publishedParsed": "2025-05-12T19:52:40Z"
+     },
+     {
+         "title": "Understanding LucasArts' iMUSE System",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43968141\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md",
+         "links": [
+             "https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md"
+         ],
+         "published": "Mon, 12 May 2025 22:41:30 +0000",
+         "publishedParsed": "2025-05-12T22:41:30Z"
      },
      {
          "title": "The Barbican",
@@ -20,14 +30,14 @@
          "publishedParsed": "2025-05-12T15:28:38Z"
      },
      {
-         "title": "RIP Usenix ATC",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43964827\"\u003eComments\u003c/a\u003e",
-         "link": "https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/",
+         "title": "Air Traffic Control",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43958562\"\u003eComments\u003c/a\u003e",
+         "link": "https://computer.rip/2025-05-11-air-traffic-control.html",
          "links": [
-             "https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/"
+             "https://computer.rip/2025-05-11-air-traffic-control.html"
          ],
-         "published": "Mon, 12 May 2025 16:29:05 +0000",
-         "publishedParsed": "2025-05-12T16:29:05Z"
+         "published": "Mon, 12 May 2025 00:39:22 +0000",
+         "publishedParsed": "2025-05-12T00:39:22Z"
      },
      {
          "title": "Can you trust that permission pop-up on macOS?",
@@ -40,24 +50,24 @@
          "publishedParsed": "2025-05-12T18:26:44Z"
      },
      {
-         "title": "Build your own Siri locally and on-device",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43966694\"\u003eComments\u003c/a\u003e",
-         "link": "https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device",
+         "title": "RIP Usenix ATC",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43964827\"\u003eComments\u003c/a\u003e",
+         "link": "https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/",
          "links": [
-             "https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device"
+             "https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/"
          ],
-         "published": "Mon, 12 May 2025 19:32:19 +0000",
-         "publishedParsed": "2025-05-12T19:32:19Z"
+         "published": "Mon, 12 May 2025 16:29:05 +0000",
+         "publishedParsed": "2025-05-12T16:29:05Z"
      },
      {
-         "title": "Show HN: Lumoar – Free SOC 2 tool for SaaS startups",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43966471\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.lumoar.com",
+         "title": "Wtfis: Passive hostname, domain and IP lookup tool for non-robots",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43967962\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/pirxthepilot/wtfis",
          "links": [
-             "https://www.lumoar.com"
+             "https://github.com/pirxthepilot/wtfis"
          ],
-         "published": "Mon, 12 May 2025 19:05:03 +0000",
-         "publishedParsed": "2025-05-12T19:05:03Z"
+         "published": "Mon, 12 May 2025 22:15:12 +0000",
+         "publishedParsed": "2025-05-12T22:15:12Z"
      },
      {
          "title": "Launch HN: ParaQuery (YC X25) – GPU Accelerated Spark/SQL",
@@ -68,6 +78,26 @@
          ],
          "published": "Mon, 12 May 2025 16:01:31 +0000",
          "publishedParsed": "2025-05-12T16:01:31Z"
+     },
+     {
+         "title": "Build your own Siri locally and on-device",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43966694\"\u003eComments\u003c/a\u003e",
+         "link": "https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device",
+         "links": [
+             "https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device"
+         ],
+         "published": "Mon, 12 May 2025 19:32:19 +0000",
+         "publishedParsed": "2025-05-12T19:32:19Z"
+     },
+     {
+         "title": "A community-led fork of Organic Maps",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43961908\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.comaps.app/news/2025-05-12/3/",
+         "links": [
+             "https://www.comaps.app/news/2025-05-12/3/"
+         ],
+         "published": "Mon, 12 May 2025 11:40:24 +0000",
+         "publishedParsed": "2025-05-12T11:40:24Z"
      },
      {
          "title": "Byte latent transformer: Patches scale better than tokens",
@@ -90,16 +120,6 @@
          "publishedParsed": "2025-05-12T15:05:44Z"
      },
      {
-         "title": "A community-led fork of Organic Maps",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43961908\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.comaps.app/news/2025-05-12/3/",
-         "links": [
-             "https://www.comaps.app/news/2025-05-12/3/"
-         ],
-         "published": "Mon, 12 May 2025 11:40:24 +0000",
-         "publishedParsed": "2025-05-12T11:40:24Z"
-     },
-     {
          "title": "NASA Study Reveals Venus Crust Surprise",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43940172\"\u003eComments\u003c/a\u003e",
          "link": "https://science.nasa.gov/science-research/astromaterials/nasa-study-reveals-venus-crust-surprise/",
@@ -110,14 +130,14 @@
          "publishedParsed": "2025-05-09T19:25:05Z"
      },
      {
-         "title": "Ruby 3.5 Feature: Namespace on read",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43962770\"\u003eComments\u003c/a\u003e",
-         "link": "https://bugs.ruby-lang.org/issues/21311",
+         "title": "The Beam",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43939877\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.erlang-solutions.com/blog/the-beam-erlangs-virtual-machine/",
          "links": [
-             "https://bugs.ruby-lang.org/issues/21311"
+             "https://www.erlang-solutions.com/blog/the-beam-erlangs-virtual-machine/"
          ],
-         "published": "Mon, 12 May 2025 13:39:34 +0000",
-         "publishedParsed": "2025-05-12T13:39:34Z"
+         "published": "Fri, 09 May 2025 18:48:03 +0000",
+         "publishedParsed": "2025-05-09T18:48:03Z"
      },
      {
          "title": "Reviving a modular cargo bike design from the 1930s",
@@ -130,7 +150,27 @@
          "publishedParsed": "2025-05-12T14:29:33Z"
      },
      {
-         "title": "5 Steps to N-Body Simulation",
+         "title": "Show HN: Lumoar – Free SOC 2 tool for SaaS startups",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43966471\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.lumoar.com",
+         "links": [
+             "https://www.lumoar.com"
+         ],
+         "published": "Mon, 12 May 2025 19:05:03 +0000",
+         "publishedParsed": "2025-05-12T19:05:03Z"
+     },
+     {
+         "title": "Ruby 3.5 Feature: Namespace on read",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43962770\"\u003eComments\u003c/a\u003e",
+         "link": "https://bugs.ruby-lang.org/issues/21311",
+         "links": [
+             "https://bugs.ruby-lang.org/issues/21311"
+         ],
+         "published": "Mon, 12 May 2025 13:39:34 +0000",
+         "publishedParsed": "2025-05-12T13:39:34Z"
+     },
+     {
+         "title": "Writing N-body gravity simulations code in Python",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43944007\"\u003eComments\u003c/a\u003e",
          "link": "https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/",
          "links": [
@@ -140,14 +180,14 @@
          "publishedParsed": "2025-05-10T08:10:18Z"
      },
      {
-         "title": "Ask HN: Is Slack Down?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43968044\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=43968044",
+         "title": "Demonstrably Secure Software Supply Chains with Nix",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43963747\"\u003eComments\u003c/a\u003e",
+         "link": "https://nixcademy.com/posts/secure-supply-chain-with-nix/",
          "links": [
-             "https://news.ycombinator.com/item?id=43968044"
+             "https://nixcademy.com/posts/secure-supply-chain-with-nix/"
          ],
-         "published": "Mon, 12 May 2025 22:28:40 +0000",
-         "publishedParsed": "2025-05-12T22:28:40Z"
+         "published": "Mon, 12 May 2025 14:54:31 +0000",
+         "publishedParsed": "2025-05-12T14:54:31Z"
      },
      {
          "title": "The Acid King (2001)",
@@ -160,16 +200,6 @@
          "publishedParsed": "2025-05-09T21:30:16Z"
      },
      {
-         "title": "HealthBench",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43965608\"\u003eComments\u003c/a\u003e",
-         "link": "https://openai.com/index/healthbench/",
-         "links": [
-             "https://openai.com/index/healthbench/"
-         ],
-         "published": "Mon, 12 May 2025 17:42:37 +0000",
-         "publishedParsed": "2025-05-12T17:42:37Z"
-     },
-     {
          "title": "Legion Health (YC S21) is hiring engineers to help fix mental health with AI",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43965161\"\u003eComments\u003c/a\u003e",
          "link": "https://www.workatastartup.com/jobs/75011",
@@ -180,24 +210,14 @@
          "publishedParsed": "2025-05-12T17:01:42Z"
      },
      {
-         "title": "Show HN: Airweave – Let agents search any app",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43964201\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/airweave-ai/airweave",
+         "title": "Has anyone coined the term “fast tech” yet?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43948869\"\u003eComments\u003c/a\u003e",
+         "link": "https://chaos.social/@gsuberland/114485304658708399",
          "links": [
-             "https://github.com/airweave-ai/airweave"
+             "https://chaos.social/@gsuberland/114485304658708399"
          ],
-         "published": "Mon, 12 May 2025 15:34:21 +0000",
-         "publishedParsed": "2025-05-12T15:34:21Z"
-     },
-     {
-         "title": "Demonstrably Secure Software Supply Chains with Nix",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43963747\"\u003eComments\u003c/a\u003e",
-         "link": "https://nixcademy.com/posts/secure-supply-chain-with-nix/",
-         "links": [
-             "https://nixcademy.com/posts/secure-supply-chain-with-nix/"
-         ],
-         "published": "Mon, 12 May 2025 14:54:31 +0000",
-         "publishedParsed": "2025-05-12T14:54:31Z"
+         "published": "Sat, 10 May 2025 20:48:01 +0000",
+         "publishedParsed": "2025-05-10T20:48:01Z"
      },
      {
          "title": "Continuous glucose monitors reveal variable glucose responses to the same meals",
@@ -220,26 +240,6 @@
          "publishedParsed": "2025-05-12T09:46:36Z"
      },
      {
-         "title": "Toward a Sparse and Interpretable Audio Codec",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43966064\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2505.05654",
-         "links": [
-             "https://arxiv.org/abs/2505.05654"
-         ],
-         "published": "Mon, 12 May 2025 18:24:17 +0000",
-         "publishedParsed": "2025-05-12T18:24:17Z"
-     },
-     {
-         "title": "I hacked a dating app (and how not to treat a security researcher)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43964937\"\u003eComments\u003c/a\u003e",
-         "link": "https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously",
-         "links": [
-             "https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously"
-         ],
-         "published": "Mon, 12 May 2025 16:39:10 +0000",
-         "publishedParsed": "2025-05-12T16:39:10Z"
-     },
-     {
          "title": "University of Texas-led team solves a big problem for fusion energy",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43962148\"\u003eComments\u003c/a\u003e",
          "link": "https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/",
@@ -248,6 +248,16 @@
          ],
          "published": "Mon, 12 May 2025 12:21:33 +0000",
          "publishedParsed": "2025-05-12T12:21:33Z"
+     },
+     {
+         "title": "Show HN: Airweave – Let agents search any app",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43964201\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/airweave-ai/airweave",
+         "links": [
+             "https://github.com/airweave-ai/airweave"
+         ],
+         "published": "Mon, 12 May 2025 15:34:21 +0000",
+         "publishedParsed": "2025-05-12T15:34:21Z"
      },
      {
          "title": "Why GADTs matter for performance (2015)",
@@ -270,33 +280,13 @@
          "publishedParsed": "2025-05-12T14:00:32Z"
      },
      {
-         "title": "Spade Hardware Description Language",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43962138\"\u003eComments\u003c/a\u003e",
-         "link": "https://spade-lang.org/",
+         "title": "What if humanity forgot how to make CPUs?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43967208\"\u003eComments\u003c/a\u003e",
+         "link": "https://twitter.com/lauriewired/status/1922015999118680495",
          "links": [
-             "https://spade-lang.org/"
+             "https://twitter.com/lauriewired/status/1922015999118680495"
          ],
-         "published": "Mon, 12 May 2025 12:19:50 +0000",
-         "publishedParsed": "2025-05-12T12:19:50Z"
-     },
-     {
-         "title": "Show HN: CLI that spots fake GitHub stars, risky dependencies and licence traps",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43962427\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/m-ahmed-elbeskeri/Starguard",
-         "links": [
-             "https://github.com/m-ahmed-elbeskeri/Starguard"
-         ],
-         "published": "Mon, 12 May 2025 12:59:19 +0000",
-         "publishedParsed": "2025-05-12T12:59:19Z"
-     },
-     {
-         "title": "Cory Arcangel Recovered a Late Artist's Digital Legacy",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43952042\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.newyorker.com/culture/infinite-scroll/how-cory-arcangel-recovered-a-late-artists-digital-legacy",
-         "links": [
-             "https://www.newyorker.com/culture/infinite-scroll/how-cory-arcangel-recovered-a-late-artists-digital-legacy"
-         ],
-         "published": "Sun, 11 May 2025 07:22:12 +0000",
-         "publishedParsed": "2025-05-11T07:22:12Z"
+         "published": "Mon, 12 May 2025 20:38:06 +0000",
+         "publishedParsed": "2025-05-12T20:38:06Z"
      }
  ]
