@@ -1,26 +1,36 @@
 [
      {
-         "title": "ETH Zurich researchers discover new security vulnerability in Intel processors",
+         "title": "Branch Privilege Injection: Exploiting branch predictor race conditions",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43974891\"\u003eComments\u003c/a\u003e",
-         "link": "https://ethz.ch/en/news-and-events/eth-news/news/2025/05/eth-zurich-researchers-discover-new-security-vulnerability-in-intel-processors.html",
+         "link": "https://comsec.ethz.ch/research/microarch/branch-privilege-injection/",
          "links": [
-             "https://ethz.ch/en/news-and-events/eth-news/news/2025/05/eth-zurich-researchers-discover-new-security-vulnerability-in-intel-processors.html"
+             "https://comsec.ethz.ch/research/microarch/branch-privilege-injection/"
          ],
          "published": "Tue, 13 May 2025 16:44:51 +0000",
          "publishedParsed": "2025-05-13T16:44:51Z"
      },
      {
-         "title": "Multiple Security Issues in GNU Screen",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43971716\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.openwall.com/lists/oss-security/2025/05/12/1",
+         "title": "Don't Unwrap Options: There Are Better Ways",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43975785\"\u003eComments\u003c/a\u003e",
+         "link": "https://corrode.dev/blog/rust-option-handling-best-practices/",
          "links": [
-             "https://www.openwall.com/lists/oss-security/2025/05/12/1"
+             "https://corrode.dev/blog/rust-option-handling-best-practices/"
          ],
-         "published": "Tue, 13 May 2025 11:28:49 +0000",
-         "publishedParsed": "2025-05-13T11:28:49Z"
+         "published": "Tue, 13 May 2025 17:58:27 +0000",
+         "publishedParsed": "2025-05-13T17:58:27Z"
      },
      {
-         "title": "PDF to Text, a Challenging Problem",
+         "title": "Show HN: Helixdb – Open-source vector-graph database for AI applications (Rust)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43975423\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/HelixDB/helix-db/",
+         "links": [
+             "https://github.com/HelixDB/helix-db/"
+         ],
+         "published": "Tue, 13 May 2025 17:26:38 +0000",
+         "publishedParsed": "2025-05-13T17:26:38Z"
+     },
+     {
+         "title": "PDF to Text, a challenging problem",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43973721\"\u003eComments\u003c/a\u003e",
          "link": "https://www.marginalia.nu/log/a_119_pdf/",
          "links": [
@@ -28,6 +38,16 @@
          ],
          "published": "Tue, 13 May 2025 15:01:09 +0000",
          "publishedParsed": "2025-05-13T15:01:09Z"
+     },
+     {
+         "title": "Multiple security issues in GNU Screen",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43971716\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.openwall.com/lists/oss-security/2025/05/12/1",
+         "links": [
+             "https://www.openwall.com/lists/oss-security/2025/05/12/1"
+         ],
+         "published": "Tue, 13 May 2025 11:28:49 +0000",
+         "publishedParsed": "2025-05-13T11:28:49Z"
      },
      {
          "title": "It Awaits Your Experiments",
@@ -60,26 +80,6 @@
          "publishedParsed": "2025-05-13T08:41:25Z"
      },
      {
-         "title": "I learned Snobol and then wrote a toy Forth",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43951885\"\u003eComments\u003c/a\u003e",
-         "link": "https://ratfactor.com/snobol/",
-         "links": [
-             "https://ratfactor.com/snobol/"
-         ],
-         "published": "Sun, 11 May 2025 06:38:27 +0000",
-         "publishedParsed": "2025-05-11T06:38:27Z"
-     },
-     {
-         "title": "In a high-stress work environment, prioritize relationships",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43972535\"\u003eComments\u003c/a\u003e",
-         "link": "https://wqtz.bearblog.dev/high-stress-job-relationships/",
-         "links": [
-             "https://wqtz.bearblog.dev/high-stress-job-relationships/"
-         ],
-         "published": "Tue, 13 May 2025 13:08:52 +0000",
-         "publishedParsed": "2025-05-13T13:08:52Z"
-     },
-     {
          "title": "Membrane, Media Framework for Elixir",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43945483\"\u003eComments\u003c/a\u003e",
          "link": "https://membrane.stream/",
@@ -88,6 +88,16 @@
          ],
          "published": "Sat, 10 May 2025 13:33:00 +0000",
          "publishedParsed": "2025-05-10T13:33:00Z"
+     },
+     {
+         "title": "Google’s unfinished DeX-like desktop mode for Android",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43973395\"\u003eComments\u003c/a\u003e",
+         "link": "https://tech.yahoo.com/phones/articles/first-look-google-unfinished-dex-181424457.html",
+         "links": [
+             "https://tech.yahoo.com/phones/articles/first-look-google-unfinished-dex-181424457.html"
+         ],
+         "published": "Tue, 13 May 2025 14:30:35 +0000",
+         "publishedParsed": "2025-05-13T14:30:35Z"
      },
      {
          "title": "A Taxonomy of Bugs",
@@ -100,6 +110,26 @@
          "publishedParsed": "2025-05-13T15:29:18Z"
      },
      {
+         "title": "Mill as a Direct Style Build Tool",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43943792\"\u003eComments\u003c/a\u003e",
+         "link": "https://mill-build.org/blog/12-direct-style-build-tool.html",
+         "links": [
+             "https://mill-build.org/blog/12-direct-style-build-tool.html"
+         ],
+         "published": "Sat, 10 May 2025 07:10:41 +0000",
+         "publishedParsed": "2025-05-10T07:10:41Z"
+     },
+     {
+         "title": "I learned Snobol and then wrote a toy Forth",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43951885\"\u003eComments\u003c/a\u003e",
+         "link": "https://ratfactor.com/snobol/",
+         "links": [
+             "https://ratfactor.com/snobol/"
+         ],
+         "published": "Sun, 11 May 2025 06:38:27 +0000",
+         "publishedParsed": "2025-05-11T06:38:27Z"
+     },
+     {
          "title": "The world could run on older hardware if software optimization was a priority",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43971464\"\u003eComments\u003c/a\u003e",
          "link": "https://twitter.com/ID_AA_Carmack/status/1922100771392520710",
@@ -108,6 +138,46 @@
          ],
          "published": "Tue, 13 May 2025 10:31:09 +0000",
          "publishedParsed": "2025-05-13T10:31:09Z"
+     },
+     {
+         "title": "In a high-stress work environment, prioritize relationships",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43972535\"\u003eComments\u003c/a\u003e",
+         "link": "https://wqtz.bearblog.dev/high-stress-job-relationships/",
+         "links": [
+             "https://wqtz.bearblog.dev/high-stress-job-relationships/"
+         ],
+         "published": "Tue, 13 May 2025 13:08:52 +0000",
+         "publishedParsed": "2025-05-13T13:08:52Z"
+     },
+     {
+         "title": "OpenTelemetry Protocol with Apache Arrow",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43975782\"\u003eComments\u003c/a\u003e",
+         "link": "https://opentelemetry.io/blog/2025/otel-arrow-phase-2/",
+         "links": [
+             "https://opentelemetry.io/blog/2025/otel-arrow-phase-2/"
+         ],
+         "published": "Tue, 13 May 2025 17:57:57 +0000",
+         "publishedParsed": "2025-05-13T17:57:57Z"
+     },
+     {
+         "title": "Insurers launch cover for losses caused by AI chatbot errors",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43952707\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ft.com/content/1d35759f-f2a9-46c4-904b-4a78ccc027df",
+         "links": [
+             "https://www.ft.com/content/1d35759f-f2a9-46c4-904b-4a78ccc027df"
+         ],
+         "published": "Sun, 11 May 2025 10:07:22 +0000",
+         "publishedParsed": "2025-05-11T10:07:22Z"
+     },
+     {
+         "title": "Odin: A programming language made for me",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43970800\"\u003eComments\u003c/a\u003e",
+         "link": "https://zylinski.se/posts/a-programming-language-for-me/",
+         "links": [
+             "https://zylinski.se/posts/a-programming-language-for-me/"
+         ],
+         "published": "Tue, 13 May 2025 08:35:11 +0000",
+         "publishedParsed": "2025-05-13T08:35:11Z"
      },
      {
          "title": "Why are coffee stains darker at the edges?",
@@ -120,24 +190,14 @@
          "publishedParsed": "2025-05-11T21:03:09Z"
      },
      {
-         "title": "FastVLM: Efficient vision encoding for vision language models",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43968897\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/apple/ml-fastvlm",
+         "title": "PyPI Organizations",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43975541\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.pypi.org/posts/2023-04-23-introducing-pypi-organizations/",
          "links": [
-             "https://github.com/apple/ml-fastvlm"
+             "https://blog.pypi.org/posts/2023-04-23-introducing-pypi-organizations/"
          ],
-         "published": "Tue, 13 May 2025 01:16:02 +0000",
-         "publishedParsed": "2025-05-13T01:16:02Z"
-     },
-     {
-         "title": "A programming language made for me",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43970800\"\u003eComments\u003c/a\u003e",
-         "link": "https://zylinski.se/posts/a-programming-language-for-me/",
-         "links": [
-             "https://zylinski.se/posts/a-programming-language-for-me/"
-         ],
-         "published": "Tue, 13 May 2025 08:35:11 +0000",
-         "publishedParsed": "2025-05-13T08:35:11Z"
+         "published": "Tue, 13 May 2025 17:37:58 +0000",
+         "publishedParsed": "2025-05-13T17:37:58Z"
      },
      {
          "title": "Mozilla Firefox – Official GitHub repo",
@@ -150,44 +210,14 @@
          "publishedParsed": "2025-05-13T05:23:10Z"
      },
      {
-         "title": "Show HN: A5",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43971314\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/felixpalmer/a5",
+         "title": "Show HN: Basecoat – shadcn/UI components, no React required",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43971688\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=43971688",
          "links": [
-             "https://github.com/felixpalmer/a5"
+             "https://news.ycombinator.com/item?id=43971688"
          ],
-         "published": "Tue, 13 May 2025 10:02:46 +0000",
-         "publishedParsed": "2025-05-13T10:02:46Z"
-     },
-     {
-         "title": "Anti-Personnel Computing (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43970637\"\u003eComments\u003c/a\u003e",
-         "link": "https://erratique.ch/writings/anti-personnel-computing",
-         "links": [
-             "https://erratique.ch/writings/anti-personnel-computing"
-         ],
-         "published": "Tue, 13 May 2025 08:06:59 +0000",
-         "publishedParsed": "2025-05-13T08:06:59Z"
-     },
-     {
-         "title": "Open Hardware Ethernet Switch project, part 1",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43934869\"\u003eComments\u003c/a\u003e",
-         "link": "https://serd.es/2025/05/08/Switch-project-pt1.html",
-         "links": [
-             "https://serd.es/2025/05/08/Switch-project-pt1.html"
-         ],
-         "published": "Fri, 09 May 2025 08:34:56 +0000",
-         "publishedParsed": "2025-05-09T08:34:56Z"
-     },
-     {
-         "title": "The Barbican",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43964136\"\u003eComments\u003c/a\u003e",
-         "link": "https://arslan.io/2025/05/12/barbican-estate/",
-         "links": [
-             "https://arslan.io/2025/05/12/barbican-estate/"
-         ],
-         "published": "Mon, 12 May 2025 15:28:38 +0000",
-         "publishedParsed": "2025-05-12T15:28:38Z"
+         "published": "Tue, 13 May 2025 11:22:40 +0000",
+         "publishedParsed": "2025-05-13T11:22:40Z"
      },
      {
          "title": "Detecting if an expression is constant in C",
@@ -200,6 +230,66 @@
          "publishedParsed": "2025-05-09T17:09:04Z"
      },
      {
+         "title": "Chrome's New Embedding Model: Smaller, Faster, Same Quality",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43973502\"\u003eComments\u003c/a\u003e",
+         "link": "https://dejan.ai/blog/chromes-new-embedding-model/",
+         "links": [
+             "https://dejan.ai/blog/chromes-new-embedding-model/"
+         ],
+         "published": "Tue, 13 May 2025 14:39:58 +0000",
+         "publishedParsed": "2025-05-13T14:39:58Z"
+     },
+     {
+         "title": "The great displacement is already well underway?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43963434\"\u003eComments\u003c/a\u003e",
+         "link": "https://shawnfromportland.substack.com/p/the-great-displacement-is-already",
+         "links": [
+             "https://shawnfromportland.substack.com/p/the-great-displacement-is-already"
+         ],
+         "published": "Mon, 12 May 2025 14:32:25 +0000",
+         "publishedParsed": "2025-05-12T14:32:25Z"
+     },
+     {
+         "title": "Show HN: A5",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43971314\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/felixpalmer/a5",
+         "links": [
+             "https://github.com/felixpalmer/a5"
+         ],
+         "published": "Tue, 13 May 2025 10:02:46 +0000",
+         "publishedParsed": "2025-05-13T10:02:46Z"
+     },
+     {
+         "title": "Open Hardware Ethernet Switch project, part 1",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43934869\"\u003eComments\u003c/a\u003e",
+         "link": "https://serd.es/2025/05/08/Switch-project-pt1.html",
+         "links": [
+             "https://serd.es/2025/05/08/Switch-project-pt1.html"
+         ],
+         "published": "Fri, 09 May 2025 08:34:56 +0000",
+         "publishedParsed": "2025-05-09T08:34:56Z"
+     },
+     {
+         "title": "TheForger's Win32 API Tutorial",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43972927\"\u003eComments\u003c/a\u003e",
+         "link": "https://winprog.org/tutorial/",
+         "links": [
+             "https://winprog.org/tutorial/"
+         ],
+         "published": "Tue, 13 May 2025 13:44:18 +0000",
+         "publishedParsed": "2025-05-13T13:44:18Z"
+     },
+     {
+         "title": "Anti-Personnel Computing (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43970637\"\u003eComments\u003c/a\u003e",
+         "link": "https://erratique.ch/writings/anti-personnel-computing",
+         "links": [
+             "https://erratique.ch/writings/anti-personnel-computing"
+         ],
+         "published": "Tue, 13 May 2025 08:06:59 +0000",
+         "publishedParsed": "2025-05-13T08:06:59Z"
+     },
+     {
          "title": "Trial by Fire: The crash of Aeroflot flight 1492",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43970363\"\u003eComments\u003c/a\u003e",
          "link": "https://admiralcloudberg.medium.com/trial-by-fire-the-crash-of-aeroflot-flight-1492-ee61cebcf6ec",
@@ -208,75 +298,5 @@
          ],
          "published": "Tue, 13 May 2025 07:12:54 +0000",
          "publishedParsed": "2025-05-13T07:12:54Z"
-     },
-     {
-         "title": "Show HN: Basecoat – shadcn/UI components, no React required",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43971688\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=43971688",
-         "links": [
-             "https://news.ycombinator.com/item?id=43971688"
-         ],
-         "published": "Tue, 13 May 2025 11:22:40 +0000",
-         "publishedParsed": "2025-05-13T11:22:40Z"
-     },
-     {
-         "title": "Air Traffic Control",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43958562\"\u003eComments\u003c/a\u003e",
-         "link": "https://computer.rip/2025-05-11-air-traffic-control.html",
-         "links": [
-             "https://computer.rip/2025-05-11-air-traffic-control.html"
-         ],
-         "published": "Mon, 12 May 2025 00:39:22 +0000",
-         "publishedParsed": "2025-05-12T00:39:22Z"
-     },
-     {
-         "title": "TransMLA: Multi-head latent attention is all you need",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43969442\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2502.07864",
-         "links": [
-             "https://arxiv.org/abs/2502.07864"
-         ],
-         "published": "Tue, 13 May 2025 03:29:47 +0000",
-         "publishedParsed": "2025-05-13T03:29:47Z"
-     },
-     {
-         "title": "We can no longer run Microsoft Store on 1809/LTSC 2019",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43972360\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/fernvenue/microsoft-store",
-         "links": [
-             "https://github.com/fernvenue/microsoft-store"
-         ],
-         "published": "Tue, 13 May 2025 12:49:54 +0000",
-         "publishedParsed": "2025-05-13T12:49:54Z"
-     },
-     {
-         "title": "Can you trust that permission pop-up on macOS?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43966089\"\u003eComments\u003c/a\u003e",
-         "link": "https://wts.dev/posts/tcc-who/",
-         "links": [
-             "https://wts.dev/posts/tcc-who/"
-         ],
-         "published": "Mon, 12 May 2025 18:26:44 +0000",
-         "publishedParsed": "2025-05-12T18:26:44Z"
-     },
-     {
-         "title": "15 Years of Shader Minification",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43943942\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ctrl-alt-test.fr/2025/15-years-of-shader-minification/",
-         "links": [
-             "https://www.ctrl-alt-test.fr/2025/15-years-of-shader-minification/"
-         ],
-         "published": "Sat, 10 May 2025 07:51:30 +0000",
-         "publishedParsed": "2025-05-10T07:51:30Z"
-     },
-     {
-         "title": "Revisiting Image Maps",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43936661\"\u003eComments\u003c/a\u003e",
-         "link": "https://css-tricks.com/revisiting-image-maps/",
-         "links": [
-             "https://css-tricks.com/revisiting-image-maps/"
-         ],
-         "published": "Fri, 09 May 2025 13:44:04 +0000",
-         "publishedParsed": "2025-05-09T13:44:04Z"
      }
  ]
