@@ -10,6 +10,16 @@
          "publishedParsed": "2025-05-15T18:06:06Z"
      },
      {
+         "title": "Teal – A statically-typed dialect of Lua",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44000759\"\u003eComments\u003c/a\u003e",
+         "link": "https://teal-language.org/",
+         "links": [
+             "https://teal-language.org/"
+         ],
+         "published": "Fri, 16 May 2025 00:40:35 +0000",
+         "publishedParsed": "2025-05-16T00:40:35Z"
+     },
+     {
          "title": "A leap year check in three instructions",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43999748\"\u003eComments\u003c/a\u003e",
          "link": "https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html",
@@ -18,16 +28,6 @@
          ],
          "published": "Thu, 15 May 2025 21:57:19 +0000",
          "publishedParsed": "2025-05-15T21:57:19Z"
-     },
-     {
-         "title": "The unreasonable effectiveness of an LLM agent loop with tool use",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43998472\"\u003eComments\u003c/a\u003e",
-         "link": "https://sketch.dev/blog/agent-loop",
-         "links": [
-             "https://sketch.dev/blog/agent-loop"
-         ],
-         "published": "Thu, 15 May 2025 19:33:44 +0000",
-         "publishedParsed": "2025-05-15T19:33:44Z"
      },
      {
          "title": "Initialization in C++ is bonkers (2017)",
@@ -40,14 +40,14 @@
          "publishedParsed": "2025-05-15T21:27:10Z"
      },
      {
-         "title": "The Teal Programming Language",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44000759\"\u003eComments\u003c/a\u003e",
-         "link": "https://teal-language.org/",
+         "title": "The unreasonable effectiveness of an LLM agent loop with tool use",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43998472\"\u003eComments\u003c/a\u003e",
+         "link": "https://sketch.dev/blog/agent-loop",
          "links": [
-             "https://teal-language.org/"
+             "https://sketch.dev/blog/agent-loop"
          ],
-         "published": "Fri, 16 May 2025 00:40:35 +0000",
-         "publishedParsed": "2025-05-16T00:40:35Z"
+         "published": "Thu, 15 May 2025 19:33:44 +0000",
+         "publishedParsed": "2025-05-15T19:33:44Z"
      },
      {
          "title": "Tek – A music making program for 24-bit Unicode terminals",
@@ -58,16 +58,6 @@
          ],
          "published": "Thu, 15 May 2025 19:56:59 +0000",
          "publishedParsed": "2025-05-15T19:56:59Z"
-     },
-     {
-         "title": "The current state of TLA⁺ development",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43998115\"\u003eComments\u003c/a\u003e",
-         "link": "https://ahelwer.ca/post/2025-05-15-tla-dev-status/",
-         "links": [
-             "https://ahelwer.ca/post/2025-05-15-tla-dev-status/"
-         ],
-         "published": "Thu, 15 May 2025 18:53:55 +0000",
-         "publishedParsed": "2025-05-15T18:53:55Z"
      },
      {
          "title": "Launch HN: Tinfoil (YC X25): Verifiable Privacy for Cloud AI",
@@ -90,14 +80,24 @@
          "publishedParsed": "2025-05-16T00:29:09Z"
      },
      {
-         "title": "A Tiny Boltzmann Machine",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43995005\"\u003eComments\u003c/a\u003e",
-         "link": "https://eoinmurray.info/boltzmann-machine",
+         "title": "Rolling Highway",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43971442\"\u003eComments\u003c/a\u003e",
+         "link": "https://en.wikipedia.org/wiki/Rolling_highway",
          "links": [
-             "https://eoinmurray.info/boltzmann-machine"
+             "https://en.wikipedia.org/wiki/Rolling_highway"
          ],
-         "published": "Thu, 15 May 2025 13:41:37 +0000",
-         "publishedParsed": "2025-05-15T13:41:37Z"
+         "published": "Tue, 13 May 2025 10:27:43 +0000",
+         "publishedParsed": "2025-05-13T10:27:43Z"
+     },
+     {
+         "title": "The current state of TLA⁺ development",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43998115\"\u003eComments\u003c/a\u003e",
+         "link": "https://ahelwer.ca/post/2025-05-15-tla-dev-status/",
+         "links": [
+             "https://ahelwer.ca/post/2025-05-15-tla-dev-status/"
+         ],
+         "published": "Thu, 15 May 2025 18:53:55 +0000",
+         "publishedParsed": "2025-05-15T18:53:55Z"
      },
      {
          "title": "GTK Krell Monitors",
@@ -110,6 +110,26 @@
          "publishedParsed": "2025-05-13T06:19:43Z"
      },
      {
+         "title": "A Tiny Boltzmann Machine",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43995005\"\u003eComments\u003c/a\u003e",
+         "link": "https://eoinmurray.info/boltzmann-machine",
+         "links": [
+             "https://eoinmurray.info/boltzmann-machine"
+         ],
+         "published": "Thu, 15 May 2025 13:41:37 +0000",
+         "publishedParsed": "2025-05-15T13:41:37Z"
+     },
+     {
+         "title": "Sitting for a long time shrinks your brain even if you exercise",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44000724\"\u003eComments\u003c/a\u003e",
+         "link": "https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.70157",
+         "links": [
+             "https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.70157"
+         ],
+         "published": "Fri, 16 May 2025 00:32:32 +0000",
+         "publishedParsed": "2025-05-16T00:32:32Z"
+     },
+     {
          "title": "Show HN: Easel – Code multiplayer games like singleplayer",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43982892\"\u003eComments\u003c/a\u003e",
          "link": "https://easel.games/about",
@@ -118,6 +138,16 @@
          ],
          "published": "Wed, 14 May 2025 10:31:18 +0000",
          "publishedParsed": "2025-05-14T10:31:18Z"
+     },
+     {
+         "title": "I was a Theranos whistleblower. Here's what I think Elizabeth Holmes is up to",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44001041\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.statnews.com/2025/05/15/theranos-whistleblower-tyler-shultz-commentary-elizabeth-holmes-billy-evans-haemanthus-startup/",
+         "links": [
+             "https://www.statnews.com/2025/05/15/theranos-whistleblower-tyler-shultz-commentary-elizabeth-holmes-billy-evans-haemanthus-startup/"
+         ],
+         "published": "Fri, 16 May 2025 01:34:54 +0000",
+         "publishedParsed": "2025-05-16T01:34:54Z"
      },
      {
          "title": "Malicious compliance by booking an available meeting room",
@@ -130,26 +160,6 @@
          "publishedParsed": "2025-05-15T13:20:28Z"
      },
      {
-         "title": "Refactoring Clojure",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43998423\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.orsolabs.com/post/refactoring-clojure-1/",
-         "links": [
-             "https://www.orsolabs.com/post/refactoring-clojure-1/"
-         ],
-         "published": "Thu, 15 May 2025 19:28:01 +0000",
-         "publishedParsed": "2025-05-15T19:28:01Z"
-     },
-     {
-         "title": "Dr. Dobb's Journal Interviews Jef Raskin (1986)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43998008\"\u003eComments\u003c/a\u003e",
-         "link": "https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin",
-         "links": [
-             "https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin"
-         ],
-         "published": "Thu, 15 May 2025 18:43:43 +0000",
-         "publishedParsed": "2025-05-15T18:43:43Z"
-     },
-     {
          "title": "Show HN: Min.js style compression of tech docs for LLM context",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43994987\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/marv1nnnnn/llm-min.txt",
@@ -158,6 +168,26 @@
          ],
          "published": "Thu, 15 May 2025 13:40:04 +0000",
          "publishedParsed": "2025-05-15T13:40:04Z"
+     },
+     {
+         "title": "\"The Mind in the Wheel\" lays out a new foundation for the science of mind",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43997932\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.experimental-history.com/p/new-paradigm-for-psychology-just",
+         "links": [
+             "https://www.experimental-history.com/p/new-paradigm-for-psychology-just"
+         ],
+         "published": "Thu, 15 May 2025 18:36:22 +0000",
+         "publishedParsed": "2025-05-15T18:36:22Z"
+     },
+     {
+         "title": "Lock-Free Rust: How to Build a Rollercoaster While It's on Fire",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43974872\"\u003eComments\u003c/a\u003e",
+         "link": "https://yeet.cx/blog/lock-free-rust/",
+         "links": [
+             "https://yeet.cx/blog/lock-free-rust/"
+         ],
+         "published": "Tue, 13 May 2025 16:43:04 +0000",
+         "publishedParsed": "2025-05-13T16:43:04Z"
      },
      {
          "title": "I don't like NumPy",
@@ -170,44 +200,14 @@
          "publishedParsed": "2025-05-15T16:05:22Z"
      },
      {
-         "title": "ML-Enhanced Code Completion Improves Developer Productivity (2022)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43971678\"\u003eComments\u003c/a\u003e",
-         "link": "https://research.google/blog/ml-enhanced-code-completion-improves-developer-productivity/",
+         "title": "In the US, a rotating detonation rocket engine takes flight",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43993897\"\u003eComments\u003c/a\u003e",
+         "link": "https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/",
          "links": [
-             "https://research.google/blog/ml-enhanced-code-completion-improves-developer-productivity/"
+             "https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/"
          ],
-         "published": "Tue, 13 May 2025 11:20:49 +0000",
-         "publishedParsed": "2025-05-13T11:20:49Z"
-     },
-     {
-         "title": "The Scalar Select Anti-Pattern",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43988753\"\u003eComments\u003c/a\u003e",
-         "link": "https://matklad.github.io/2025/05/14/scalar-select-aniti-pattern.html",
-         "links": [
-             "https://matklad.github.io/2025/05/14/scalar-select-aniti-pattern.html"
-         ],
-         "published": "Wed, 14 May 2025 20:19:23 +0000",
-         "publishedParsed": "2025-05-14T20:19:23Z"
-     },
-     {
-         "title": "Show HN: Real-Time Gaussian Splatting",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43994827\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/axbycc/LiveSplat",
-         "links": [
-             "https://github.com/axbycc/LiveSplat"
-         ],
-         "published": "Thu, 15 May 2025 13:26:49 +0000",
-         "publishedParsed": "2025-05-15T13:26:49Z"
-     },
-     {
-         "title": "Show HN: Undetectag, track stolen items with AirTag",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43996251\"\u003eComments\u003c/a\u003e",
-         "link": "https://undetectag.com/",
-         "links": [
-             "https://undetectag.com/"
-         ],
-         "published": "Thu, 15 May 2025 15:46:26 +0000",
-         "publishedParsed": "2025-05-15T15:46:26Z"
+         "published": "Thu, 15 May 2025 11:29:22 +0000",
+         "publishedParsed": "2025-05-15T11:29:22Z"
      },
      {
          "title": "Fetii (YC S22) Is Hiring",
@@ -220,14 +220,64 @@
          "publishedParsed": "2025-05-15T17:00:07Z"
      },
      {
-         "title": "Stop using REST for state synchronization (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43997286\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.mbid.me/posts/stop-using-rest-for-state-synchronization/",
+         "title": "Refactoring Clojure",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43998423\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.orsolabs.com/post/refactoring-clojure-1/",
          "links": [
-             "https://www.mbid.me/posts/stop-using-rest-for-state-synchronization/"
+             "https://www.orsolabs.com/post/refactoring-clojure-1/"
          ],
-         "published": "Thu, 15 May 2025 17:30:03 +0000",
-         "publishedParsed": "2025-05-15T17:30:03Z"
+         "published": "Thu, 15 May 2025 19:28:01 +0000",
+         "publishedParsed": "2025-05-15T19:28:01Z"
+     },
+     {
+         "title": "Dr. Dobb's Journal interviews Jef Raskin (1986)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43998008\"\u003eComments\u003c/a\u003e",
+         "link": "https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin",
+         "links": [
+             "https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin"
+         ],
+         "published": "Thu, 15 May 2025 18:43:43 +0000",
+         "publishedParsed": "2025-05-15T18:43:43Z"
+     },
+     {
+         "title": "Show HN: Undetectag, track stolen items with AirTag",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43996251\"\u003eComments\u003c/a\u003e",
+         "link": "https://undetectag.com/",
+         "links": [
+             "https://undetectag.com/"
+         ],
+         "published": "Thu, 15 May 2025 15:46:26 +0000",
+         "publishedParsed": "2025-05-15T15:46:26Z"
+     },
+     {
+         "title": "Coinbase says hackers bribed staff to steal customer data, demanding $20M ransom",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43996307\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html",
+         "links": [
+             "https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html"
+         ],
+         "published": "Thu, 15 May 2025 15:52:21 +0000",
+         "publishedParsed": "2025-05-15T15:52:21Z"
+     },
+     {
+         "title": "\"You Knew What You Were Signing Up For\" – A Harmful Narrative in DFIR?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44000778\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.forensicfocus.com/articles/you-knew-what-you-were-signing-up-for-a-harmful-narrative-in-dfir/",
+         "links": [
+             "https://www.forensicfocus.com/articles/you-knew-what-you-were-signing-up-for-a-harmful-narrative-in-dfir/"
+         ],
+         "published": "Fri, 16 May 2025 00:44:45 +0000",
+         "publishedParsed": "2025-05-16T00:44:45Z"
+     },
+     {
+         "title": "Show HN: Real-Time Gaussian Splatting",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43994827\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/axbycc/LiveSplat",
+         "links": [
+             "https://github.com/axbycc/LiveSplat"
+         ],
+         "published": "Thu, 15 May 2025 13:26:49 +0000",
+         "publishedParsed": "2025-05-15T13:26:49Z"
      },
      {
          "title": "Pathfinding",
@@ -238,55 +288,5 @@
          ],
          "published": "Thu, 15 May 2025 12:32:15 +0000",
          "publishedParsed": "2025-05-15T12:32:15Z"
-     },
-     {
-         "title": "Lua for Elixir",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43972485\"\u003eComments\u003c/a\u003e",
-         "link": "https://davelucia.com/blog/lua-elixir",
-         "links": [
-             "https://davelucia.com/blog/lua-elixir"
-         ],
-         "published": "Tue, 13 May 2025 13:03:51 +0000",
-         "publishedParsed": "2025-05-13T13:03:51Z"
-     },
-     {
-         "title": "Show HN: I made a platform to debug Puppeteer (JS) crashes visually",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43977648\"\u003eComments\u003c/a\u003e",
-         "link": "https://buglesstack.com/",
-         "links": [
-             "https://buglesstack.com/"
-         ],
-         "published": "Tue, 13 May 2025 20:57:57 +0000",
-         "publishedParsed": "2025-05-13T20:57:57Z"
-     },
-     {
-         "title": "Harvard Law paid $27 for a copy of Magna Carta. It's an original",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43997830\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nytimes.com/2025/05/15/world/europe/harvard-law-magna-carta-original.html",
-         "links": [
-             "https://www.nytimes.com/2025/05/15/world/europe/harvard-law-magna-carta-original.html"
-         ],
-         "published": "Thu, 15 May 2025 18:26:29 +0000",
-         "publishedParsed": "2025-05-15T18:26:29Z"
-     },
-     {
-         "title": "Comparing floating-point numbers (2012)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43971185\"\u003eComments\u003c/a\u003e",
-         "link": "https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/",
-         "links": [
-             "https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/"
-         ],
-         "published": "Tue, 13 May 2025 09:37:55 +0000",
-         "publishedParsed": "2025-05-13T09:37:55Z"
-     },
-     {
-         "title": "Wavelet Trees: An Introduction (2011)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43996031\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.alexbowe.com/wavelet-trees/",
-         "links": [
-             "https://www.alexbowe.com/wavelet-trees/"
-         ],
-         "published": "Thu, 15 May 2025 15:27:04 +0000",
-         "publishedParsed": "2025-05-15T15:27:04Z"
      }
  ]
