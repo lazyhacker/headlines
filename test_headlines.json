@@ -10,6 +10,26 @@
          "publishedParsed": "2025-05-17T05:23:20Z"
      },
      {
+         "title": "Oracle VM VirtualBox – VM Escape via VGA Device",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43994306\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/google/security-research/security/advisories/GHSA-qx2m-rcpc-v43v",
+         "links": [
+             "https://github.com/google/security-research/security/advisories/GHSA-qx2m-rcpc-v43v"
+         ],
+         "published": "Thu, 15 May 2025 12:28:16 +0000",
+         "publishedParsed": "2025-05-15T12:28:16Z"
+     },
+     {
+         "title": "Japan's IC cards are weird and wonderful",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43993711\"\u003eComments\u003c/a\u003e",
+         "link": "https://aruarian.dance/blog/japan-ic-cards/",
+         "links": [
+             "https://aruarian.dance/blog/japan-ic-cards/"
+         ],
+         "published": "Thu, 15 May 2025 10:59:09 +0000",
+         "publishedParsed": "2025-05-15T10:59:09Z"
+     },
+     {
          "title": "Getting AI to write good SQL",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44009848\"\u003eComments\u003c/a\u003e",
          "link": "https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql",
@@ -30,6 +50,16 @@
          "publishedParsed": "2025-05-17T02:02:14Z"
      },
      {
+         "title": "Popcorn: Run Elixir in WASM",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43997135\"\u003eComments\u003c/a\u003e",
+         "link": "https://popcorn.swmansion.com/",
+         "links": [
+             "https://popcorn.swmansion.com/"
+         ],
+         "published": "Thu, 15 May 2025 17:14:28 +0000",
+         "publishedParsed": "2025-05-15T17:14:28Z"
+     },
+     {
          "title": "XTool – Cross-platform Xcode replacement",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44011515\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/xtool-org/xtool",
@@ -40,7 +70,7 @@
          "publishedParsed": "2025-05-17T02:10:36Z"
      },
      {
-         "title": "A Linux kernel developer plays with Home Assistant: general impressions",
+         "title": "A kernel developer plays with Home Assistant",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44011669\"\u003eComments\u003c/a\u003e",
          "link": "https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/",
          "links": [
@@ -60,16 +90,6 @@
          "publishedParsed": "2025-05-17T07:19:55Z"
      },
      {
-         "title": "Implementing a RISC-V Hypervisor",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44012729\"\u003eComments\u003c/a\u003e",
-         "link": "https://seiya.me/blog/riscv-hypervisor",
-         "links": [
-             "https://seiya.me/blog/riscv-hypervisor"
-         ],
-         "published": "Sat, 17 May 2025 07:46:29 +0000",
-         "publishedParsed": "2025-05-17T07:46:29Z"
-     },
-     {
          "title": "Thoughts on thinking",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44008843\"\u003eComments\u003c/a\u003e",
          "link": "https://dcurt.is/thinking",
@@ -80,14 +100,24 @@
          "publishedParsed": "2025-05-16T19:09:55Z"
      },
      {
-         "title": "Popcorn: Run Elixir in WASM",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43997135\"\u003eComments\u003c/a\u003e",
-         "link": "https://popcorn.swmansion.com/",
+         "title": "No-boom supersonic flights could slide through US skies soon",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44013696\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theregister.com/2025/05/17/faa_supersonic_law/",
          "links": [
-             "https://popcorn.swmansion.com/"
+             "https://www.theregister.com/2025/05/17/faa_supersonic_law/"
          ],
-         "published": "Thu, 15 May 2025 17:14:28 +0000",
-         "publishedParsed": "2025-05-15T17:14:28Z"
+         "published": "Sat, 17 May 2025 12:08:10 +0000",
+         "publishedParsed": "2025-05-17T12:08:10Z"
+     },
+     {
+         "title": "Implementing a RISC-V Hypervisor",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44012729\"\u003eComments\u003c/a\u003e",
+         "link": "https://seiya.me/blog/riscv-hypervisor",
+         "links": [
+             "https://seiya.me/blog/riscv-hypervisor"
+         ],
+         "published": "Sat, 17 May 2025 07:46:29 +0000",
+         "publishedParsed": "2025-05-17T07:46:29Z"
      },
      {
          "title": "A Research Preview of Codex",
@@ -110,14 +140,24 @@
          "publishedParsed": "2025-05-14T07:45:00Z"
      },
      {
-         "title": "Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44012074\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/moustafa-nasr/fahmatrix",
+         "title": "Open Problems in Computational geometry",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44013181\"\u003eComments\u003c/a\u003e",
+         "link": "https://topp.openproblem.net/",
          "links": [
-             "https://github.com/moustafa-nasr/fahmatrix"
+             "https://topp.openproblem.net/"
          ],
-         "published": "Sat, 17 May 2025 04:39:31 +0000",
-         "publishedParsed": "2025-05-17T04:39:31Z"
+         "published": "Sat, 17 May 2025 09:37:46 +0000",
+         "publishedParsed": "2025-05-17T09:37:46Z"
+     },
+     {
+         "title": "Transformer neural net learns to run Conway's Game of Life just from examples",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44013154\"\u003eComments\u003c/a\u003e",
+         "link": "https://sidsite.com/posts/life-transformer/",
+         "links": [
+             "https://sidsite.com/posts/life-transformer/"
+         ],
+         "published": "Sat, 17 May 2025 09:31:14 +0000",
+         "publishedParsed": "2025-05-17T09:31:14Z"
      },
      {
          "title": "MIT asks arXiv to withdraw preprint of paper on AI and scientific discovery",
@@ -130,6 +170,16 @@
          "publishedParsed": "2025-05-16T15:09:25Z"
      },
      {
+         "title": "Why Moderna Merged Its Tech and HR Departments",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43977890\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.wsj.com/articles/why-moderna-merged-its-tech-and-hr-departments-95318c2a",
+         "links": [
+             "https://www.wsj.com/articles/why-moderna-merged-its-tech-and-hr-departments-95318c2a"
+         ],
+         "published": "Tue, 13 May 2025 21:24:36 +0000",
+         "publishedParsed": "2025-05-13T21:24:36Z"
+     },
+     {
          "title": "Rustls Server-Side Performance",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43972669\"\u003eComments\u003c/a\u003e",
          "link": "https://www.memorysafety.org/blog/rustls-server-perf/",
@@ -138,6 +188,16 @@
          ],
          "published": "Tue, 13 May 2025 13:22:36 +0000",
          "publishedParsed": "2025-05-13T13:22:36Z"
+     },
+     {
+         "title": "You do not need NixOS on the desktop",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44012915\"\u003eComments\u003c/a\u003e",
+         "link": "https://aruarian.dance/blog/you-do-not-need-nixos/",
+         "links": [
+             "https://aruarian.dance/blog/you-do-not-need-nixos/"
+         ],
+         "published": "Sat, 17 May 2025 08:32:55 +0000",
+         "publishedParsed": "2025-05-17T08:32:55Z"
      },
      {
          "title": "MCP: An in-depth introduction",
@@ -150,16 +210,6 @@
          "publishedParsed": "2025-05-13T12:47:04Z"
      },
      {
-         "title": "Why Moderna Merged Its Tech and HR Departments",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43977890\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.wsj.com/articles/why-moderna-merged-its-tech-and-hr-departments-95318c2a",
-         "links": [
-             "https://www.wsj.com/articles/why-moderna-merged-its-tech-and-hr-departments-95318c2a"
-         ],
-         "published": "Tue, 13 May 2025 21:24:36 +0000",
-         "publishedParsed": "2025-05-13T21:24:36Z"
-     },
-     {
          "title": "Coding agent in 94 lines of Ruby",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43984860\"\u003eComments\u003c/a\u003e",
          "link": "https://radanskoric.com/articles/coding-agent-in-ruby",
@@ -170,24 +220,14 @@
          "publishedParsed": "2025-05-14T14:17:57Z"
      },
      {
-         "title": "I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44006381\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=44006381",
+         "title": "Push Ifs Up and Fors Down",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44013157\"\u003eComments\u003c/a\u003e",
+         "link": "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html",
          "links": [
-             "https://news.ycombinator.com/item?id=44006381"
+             "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html"
          ],
-         "published": "Fri, 16 May 2025 15:05:32 +0000",
-         "publishedParsed": "2025-05-16T15:05:32Z"
-     },
-     {
-         "title": "Show HN: Merliot – plugging physical devices into LLMs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44011254\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/merliot/hub",
-         "links": [
-             "https://github.com/merliot/hub"
-         ],
-         "published": "Sat, 17 May 2025 01:09:38 +0000",
-         "publishedParsed": "2025-05-17T01:09:38Z"
+         "published": "Sat, 17 May 2025 09:31:55 +0000",
+         "publishedParsed": "2025-05-17T09:31:55Z"
      },
      {
          "title": "ClojureScript 1.12.42",
@@ -200,14 +240,14 @@
          "publishedParsed": "2025-05-16T20:20:20Z"
      },
      {
-         "title": "A Critical Look at \"A Critical Look at MCP.\"",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44012933\"\u003eComments\u003c/a\u003e",
-         "link": "https://docs.mcp.run/blog/2025/05/16/mcp-implenda-est/",
+         "title": "Show HN: Merliot – plugging physical devices into LLMs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44011254\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/merliot/hub",
          "links": [
-             "https://docs.mcp.run/blog/2025/05/16/mcp-implenda-est/"
+             "https://github.com/merliot/hub"
          ],
-         "published": "Sat, 17 May 2025 08:38:09 +0000",
-         "publishedParsed": "2025-05-17T08:38:09Z"
+         "published": "Sat, 17 May 2025 01:09:38 +0000",
+         "publishedParsed": "2025-05-17T01:09:38Z"
      },
      {
          "title": "Show HN: Visual flow-based programming for Erlang, inspired by Node-RED",
@@ -220,6 +260,16 @@
          "publishedParsed": "2025-05-16T14:54:13Z"
      },
      {
+         "title": "How can traditional British TV survive the US streaming giants",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43981198\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bbc.co.uk/news/articles/cx2enydkew3o",
+         "links": [
+             "https://www.bbc.co.uk/news/articles/cx2enydkew3o"
+         ],
+         "published": "Wed, 14 May 2025 05:44:32 +0000",
+         "publishedParsed": "2025-05-14T05:44:32Z"
+     },
+     {
          "title": "X X^t can be faster",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44006824\"\u003eComments\u003c/a\u003e",
          "link": "https://arxiv.org/abs/2505.09814",
@@ -230,73 +280,13 @@
          "publishedParsed": "2025-05-16T15:45:30Z"
      },
      {
-         "title": "Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44009321\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/dipampaul17/KVSplit",
+         "title": "IM-2's Imperfect Landing Due to Altimeter Interference",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43986229\"\u003eComments\u003c/a\u003e",
+         "link": "https://spacepolicyonline.com/news/im-2s-imperfect-landing-due-to-altimeter-interference-south-pole-lighting-conditions/",
          "links": [
-             "https://github.com/dipampaul17/KVSplit"
+             "https://spacepolicyonline.com/news/im-2s-imperfect-landing-due-to-altimeter-interference-south-pole-lighting-conditions/"
          ],
-         "published": "Fri, 16 May 2025 20:04:58 +0000",
-         "publishedParsed": "2025-05-16T20:04:58Z"
-     },
-     {
-         "title": "Hunting extreme microbes that redefine the limits of life",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43991500\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nature.com/articles/d41586-025-01464-7",
-         "links": [
-             "https://www.nature.com/articles/d41586-025-01464-7"
-         ],
-         "published": "Thu, 15 May 2025 03:19:26 +0000",
-         "publishedParsed": "2025-05-15T03:19:26Z"
-     },
-     {
-         "title": "Fixrleak: Fixing Java Resource Leaks with GenAI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43977901\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.uber.com/blog/fixrleak-fixing-java-resource-leaks-with-genai/",
-         "links": [
-             "https://www.uber.com/blog/fixrleak-fixing-java-resource-leaks-with-genai/"
-         ],
-         "published": "Tue, 13 May 2025 21:26:12 +0000",
-         "publishedParsed": "2025-05-13T21:26:12Z"
-     },
-     {
-         "title": "A Linux kernel developer plays with Home Assistant: case studies",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44011381\"\u003eComments\u003c/a\u003e",
-         "link": "https://lwn.net/SubscriberLink/1017945/93d12d28178b372e/",
-         "links": [
-             "https://lwn.net/SubscriberLink/1017945/93d12d28178b372e/"
-         ],
-         "published": "Sat, 17 May 2025 01:36:23 +0000",
-         "publishedParsed": "2025-05-17T01:36:23Z"
-     },
-     {
-         "title": "The first year of free-threaded Python",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44003445\"\u003eComments\u003c/a\u003e",
-         "link": "https://labs.quansight.org/blog/free-threaded-one-year-recap",
-         "links": [
-             "https://labs.quansight.org/blog/free-threaded-one-year-recap"
-         ],
-         "published": "Fri, 16 May 2025 09:42:31 +0000",
-         "publishedParsed": "2025-05-16T09:42:31Z"
-     },
-     {
-         "title": "Java at 30: Interview with James Gosling",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44005008\"\u003eComments\u003c/a\u003e",
-         "link": "https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/",
-         "links": [
-             "https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/"
-         ],
-         "published": "Fri, 16 May 2025 13:05:25 +0000",
-         "publishedParsed": "2025-05-16T13:05:25Z"
-     },
-     {
-         "title": "The Joys of Discovering the Roman Underground",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43997071\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.smithsonianmag.com/travel/the-joys-of-discovering-the-roman-underground-from-the-colosseum-to-whats-beneath-the-trevi-foundation-180986626/",
-         "links": [
-             "https://www.smithsonianmag.com/travel/the-joys-of-discovering-the-roman-underground-from-the-colosseum-to-whats-beneath-the-trevi-foundation-180986626/"
-         ],
-         "published": "Thu, 15 May 2025 17:08:20 +0000",
-         "publishedParsed": "2025-05-15T17:08:20Z"
+         "published": "Wed, 14 May 2025 16:11:08 +0000",
+         "publishedParsed": "2025-05-14T16:11:08Z"
      }
  ]
