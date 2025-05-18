@@ -10,16 +10,6 @@
          "publishedParsed": "2025-05-17T23:12:15Z"
      },
      {
-         "title": "Coding without a laptop: Two weeks with AR glasses and Linux on Android",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43985513\"\u003eComments\u003c/a\u003e",
-         "link": "https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/",
-         "links": [
-             "https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/"
-         ],
-         "published": "Wed, 14 May 2025 15:11:57 +0000",
-         "publishedParsed": "2025-05-14T15:11:57Z"
-     },
-     {
          "title": "AniSora: Open-source anime video generation model",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44017913\"\u003eComments\u003c/a\u003e",
          "link": "https://komiko.app/video/AniSora",
@@ -28,6 +18,16 @@
          ],
          "published": "Sat, 17 May 2025 23:59:03 +0000",
          "publishedParsed": "2025-05-17T23:59:03Z"
+     },
+     {
+         "title": "Coding without a laptop: Two weeks with AR glasses and Linux on Android",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43985513\"\u003eComments\u003c/a\u003e",
+         "link": "https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/",
+         "links": [
+             "https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/"
+         ],
+         "published": "Wed, 14 May 2025 15:11:57 +0000",
+         "publishedParsed": "2025-05-14T15:11:57Z"
      },
      {
          "title": "FreeBASIC is a free/open source BASIC compiler for Windows DOS and Linux",
@@ -60,7 +60,7 @@
          "publishedParsed": "2025-05-17T19:14:56Z"
      },
      {
-         "title": "Dead Stars Don't Radiate",
+         "title": "Dead Stars Don’t Radiate",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44015872\"\u003eComments\u003c/a\u003e",
          "link": "https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/",
          "links": [
@@ -68,46 +68,6 @@
          ],
          "published": "Sat, 17 May 2025 17:54:20 +0000",
          "publishedParsed": "2025-05-17T17:54:20Z"
-     },
-     {
-         "title": "If nothing is curated, how do we find things",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44015144\"\u003eComments\u003c/a\u003e",
-         "link": "https://tadaima.bearblog.dev/if-nothing-is-curated-how-do-we-find-things/",
-         "links": [
-             "https://tadaima.bearblog.dev/if-nothing-is-curated-how-do-we-find-things/"
-         ],
-         "published": "Sat, 17 May 2025 15:51:05 +0000",
-         "publishedParsed": "2025-05-17T15:51:05Z"
-     },
-     {
-         "title": "Can V Deliver on Its Promises?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44017739\"\u003eComments\u003c/a\u003e",
-         "link": "http://bitshifters.cc/2025/05/17/vlang.html",
-         "links": [
-             "http://bitshifters.cc/2025/05/17/vlang.html"
-         ],
-         "published": "Sat, 17 May 2025 23:23:37 +0000",
-         "publishedParsed": "2025-05-17T23:23:37Z"
-     },
-     {
-         "title": "Palette lighting tricks on the Nintendo 64",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44014587\"\u003eComments\u003c/a\u003e",
-         "link": "https://30fps.net/pages/palette-lighting-tricks-n64/",
-         "links": [
-             "https://30fps.net/pages/palette-lighting-tricks-n64/"
-         ],
-         "published": "Sat, 17 May 2025 14:28:59 +0000",
-         "publishedParsed": "2025-05-17T14:28:59Z"
-     },
-     {
-         "title": "How to have the browser pick a contrasting color in CSS",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44015367\"\u003eComments\u003c/a\u003e",
-         "link": "https://webkit.org/blog/16929/contrast-color/",
-         "links": [
-             "https://webkit.org/blog/16929/contrast-color/"
-         ],
-         "published": "Sat, 17 May 2025 16:26:44 +0000",
-         "publishedParsed": "2025-05-17T16:26:44Z"
      },
      {
          "title": "Understanding Transformers via N-gram Statistics",
@@ -120,14 +80,24 @@
          "publishedParsed": "2025-05-17T19:56:00Z"
      },
      {
-         "title": "Push Ifs Up and Fors Down",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44013157\"\u003eComments\u003c/a\u003e",
-         "link": "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html",
+         "title": "“Streaming vs. Batch” Is a Wrong Dichotomy, and I Think It's Confusing",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43983201\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.morling.dev/blog/streaming-vs-batch-wrong-dichotomy/",
          "links": [
-             "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html"
+             "https://www.morling.dev/blog/streaming-vs-batch-wrong-dichotomy/"
          ],
-         "published": "Sat, 17 May 2025 09:31:55 +0000",
-         "publishedParsed": "2025-05-17T09:31:55Z"
+         "published": "Wed, 14 May 2025 11:29:04 +0000",
+         "publishedParsed": "2025-05-14T11:29:04Z"
+     },
+     {
+         "title": "How to have the browser pick a contrasting color in CSS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44015367\"\u003eComments\u003c/a\u003e",
+         "link": "https://webkit.org/blog/16929/contrast-color/",
+         "links": [
+             "https://webkit.org/blog/16929/contrast-color/"
+         ],
+         "published": "Sat, 17 May 2025 16:26:44 +0000",
+         "publishedParsed": "2025-05-17T16:26:44Z"
      },
      {
          "title": "Bike-mounted sensor could boost the mapping of safe cycling routes",
@@ -140,14 +110,44 @@
          "publishedParsed": "2025-05-14T11:27:52Z"
      },
      {
-         "title": "Weather Report from Saturn's Moon Titan",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43996226\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.sci.news/astronomy/titan-weather-13907.html",
+         "title": "ARMv9 Architecture Helps Lift Arm to New Financial Heights",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43982495\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nextplatform.com/2025/05/12/armv9-architecture-helps-lift-arm-to-new-financial-heights/",
          "links": [
-             "https://www.sci.news/astronomy/titan-weather-13907.html"
+             "https://www.nextplatform.com/2025/05/12/armv9-architecture-helps-lift-arm-to-new-financial-heights/"
          ],
-         "published": "Thu, 15 May 2025 15:44:03 +0000",
-         "publishedParsed": "2025-05-15T15:44:03Z"
+         "published": "Wed, 14 May 2025 09:11:47 +0000",
+         "publishedParsed": "2025-05-14T09:11:47Z"
+     },
+     {
+         "title": "Palette lighting tricks on the Nintendo 64",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44014587\"\u003eComments\u003c/a\u003e",
+         "link": "https://30fps.net/pages/palette-lighting-tricks-n64/",
+         "links": [
+             "https://30fps.net/pages/palette-lighting-tricks-n64/"
+         ],
+         "published": "Sat, 17 May 2025 14:28:59 +0000",
+         "publishedParsed": "2025-05-17T14:28:59Z"
+     },
+     {
+         "title": "If nothing is curated, how do we find things",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44015144\"\u003eComments\u003c/a\u003e",
+         "link": "https://tadaima.bearblog.dev/if-nothing-is-curated-how-do-we-find-things/",
+         "links": [
+             "https://tadaima.bearblog.dev/if-nothing-is-curated-how-do-we-find-things/"
+         ],
+         "published": "Sat, 17 May 2025 15:51:05 +0000",
+         "publishedParsed": "2025-05-17T15:51:05Z"
+     },
+     {
+         "title": "Push Ifs Up and Fors Down",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44013157\"\u003eComments\u003c/a\u003e",
+         "link": "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html",
+         "links": [
+             "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html"
+         ],
+         "published": "Sat, 17 May 2025 09:31:55 +0000",
+         "publishedParsed": "2025-05-17T09:31:55Z"
      },
      {
          "title": "Espanso – Cross-Platform Text Expander Written in Rust",
@@ -160,14 +160,24 @@
          "publishedParsed": "2025-05-14T14:11:46Z"
      },
      {
-         "title": "\"Streaming vs. Batch\" Is a Wrong Dichotomy, and I Think It's Confusing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43983201\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.morling.dev/blog/streaming-vs-batch-wrong-dichotomy/",
+         "title": "Mice grow bigger brains when given this stretch of human DNA",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43986821\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nature.com/articles/d41586-025-01515-z",
          "links": [
-             "https://www.morling.dev/blog/streaming-vs-batch-wrong-dichotomy/"
+             "https://www.nature.com/articles/d41586-025-01515-z"
          ],
-         "published": "Wed, 14 May 2025 11:29:04 +0000",
-         "publishedParsed": "2025-05-14T11:29:04Z"
+         "published": "Wed, 14 May 2025 17:04:00 +0000",
+         "publishedParsed": "2025-05-14T17:04:00Z"
+     },
+     {
+         "title": "Experts have it easy (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44018301\"\u003eComments\u003c/a\u003e",
+         "link": "https://boydkane.com/essays/experts",
+         "links": [
+             "https://boydkane.com/essays/experts"
+         ],
+         "published": "Sun, 18 May 2025 01:31:24 +0000",
+         "publishedParsed": "2025-05-18T01:31:24Z"
      },
      {
          "title": "Show HN: I built a knife steel comparison tool",
@@ -180,6 +190,16 @@
          "publishedParsed": "2025-05-17T17:13:21Z"
      },
      {
+         "title": "Weather Report from Saturn's Moon Titan",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43996226\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.sci.news/astronomy/titan-weather-13907.html",
+         "links": [
+             "https://www.sci.news/astronomy/titan-weather-13907.html"
+         ],
+         "published": "Thu, 15 May 2025 15:44:03 +0000",
+         "publishedParsed": "2025-05-15T15:44:03Z"
+     },
+     {
          "title": "O2 VoLTE: locating any customer with a phone call",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44014046\"\u003eComments\u003c/a\u003e",
          "link": "https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/",
@@ -190,14 +210,14 @@
          "publishedParsed": "2025-05-17T13:08:29Z"
      },
      {
-         "title": "A library of words: Discovering Roget's Thesaurus (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43997467\"\u003eComments\u003c/a\u003e",
-         "link": "https://austinkleon.substack.com/p/a-library-of-words",
+         "title": "Fortran for C Programmers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44017832\"\u003eComments\u003c/a\u003e",
+         "link": "https://flang.llvm.org/docs/FortranForCProgrammers.html",
          "links": [
-             "https://austinkleon.substack.com/p/a-library-of-words"
+             "https://flang.llvm.org/docs/FortranForCProgrammers.html"
          ],
-         "published": "Thu, 15 May 2025 17:46:19 +0000",
-         "publishedParsed": "2025-05-15T17:46:19Z"
+         "published": "Sat, 17 May 2025 23:41:54 +0000",
+         "publishedParsed": "2025-05-17T23:41:54Z"
      },
      {
          "title": "Pyrefly: A new type checker and IDE experience for Python",
@@ -210,56 +230,6 @@
          "publishedParsed": "2025-05-17T12:47:40Z"
      },
      {
-         "title": "LLMs are more persuasive than incentivized human persuaders",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44016621\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2505.09662",
-         "links": [
-             "https://arxiv.org/abs/2505.09662"
-         ],
-         "published": "Sat, 17 May 2025 20:05:09 +0000",
-         "publishedParsed": "2025-05-17T20:05:09Z"
-     },
-     {
-         "title": "Xata: Postgres at scale, with copy-on-write branching and anonymization",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44016289\"\u003eComments\u003c/a\u003e",
-         "link": "https://xata.io/blog/xata-postgres-with-data-branching-and-pii-anonymization",
-         "links": [
-             "https://xata.io/blog/xata-postgres-with-data-branching-and-pii-anonymization"
-         ],
-         "published": "Sat, 17 May 2025 19:06:14 +0000",
-         "publishedParsed": "2025-05-17T19:06:14Z"
-     },
-     {
-         "title": "How I fixed the infamous Basilisk II Windows \"Black Screen\" bug in 2013",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43995501\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.downtowndougbrown.com/2025/05/how-i-fixed-the-infamous-basilisk-ii-windows-black-screen-bug-in-2013/",
-         "links": [
-             "https://www.downtowndougbrown.com/2025/05/how-i-fixed-the-infamous-basilisk-ii-windows-black-screen-bug-in-2013/"
-         ],
-         "published": "Thu, 15 May 2025 14:31:53 +0000",
-         "publishedParsed": "2025-05-15T14:31:53Z"
-     },
-     {
-         "title": "A Simulation in C++ of Joseph Weizenbaum's 1966 Eliza",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44015557\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/anthay/ELIZA",
-         "links": [
-             "https://github.com/anthay/ELIZA"
-         ],
-         "published": "Sat, 17 May 2025 16:58:20 +0000",
-         "publishedParsed": "2025-05-17T16:58:20Z"
-     },
-     {
-         "title": "Moment of heart's formation captured in images for first time",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43976274\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theguardian.com/science/2025/may/13/heart-cells-mouse-embryo-science-research",
-         "links": [
-             "https://www.theguardian.com/science/2025/may/13/heart-cells-mouse-embryo-science-research"
-         ],
-         "published": "Tue, 13 May 2025 18:47:22 +0000",
-         "publishedParsed": "2025-05-13T18:47:22Z"
-     },
-     {
          "title": "JavaScript's New Superpower: Explicit Resource Management",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44012227\"\u003eComments\u003c/a\u003e",
          "link": "https://v8.dev/features/explicit-resource-management",
@@ -270,13 +240,33 @@
          "publishedParsed": "2025-05-17T05:23:20Z"
      },
      {
-         "title": "NASA Observes First Visible-Light Auroras at Mars",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43987852\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.jpl.nasa.gov/news/nasa-observes-first-visible-light-auroras-at-mars/",
+         "title": "A library of words: Discovering Roget's Thesaurus (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43997467\"\u003eComments\u003c/a\u003e",
+         "link": "https://austinkleon.substack.com/p/a-library-of-words",
          "links": [
-             "https://www.jpl.nasa.gov/news/nasa-observes-first-visible-light-auroras-at-mars/"
+             "https://austinkleon.substack.com/p/a-library-of-words"
          ],
-         "published": "Wed, 14 May 2025 18:40:50 +0000",
-         "publishedParsed": "2025-05-14T18:40:50Z"
+         "published": "Thu, 15 May 2025 17:46:19 +0000",
+         "publishedParsed": "2025-05-15T17:46:19Z"
+     },
+     {
+         "title": "How I fixed the infamous Basilisk II Windows “Black Screen” bug in 2013",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43995501\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.downtowndougbrown.com/2025/05/how-i-fixed-the-infamous-basilisk-ii-windows-black-screen-bug-in-2013/",
+         "links": [
+             "https://www.downtowndougbrown.com/2025/05/how-i-fixed-the-infamous-basilisk-ii-windows-black-screen-bug-in-2013/"
+         ],
+         "published": "Thu, 15 May 2025 14:31:53 +0000",
+         "publishedParsed": "2025-05-15T14:31:53Z"
+     },
+     {
+         "title": "LLMs are more persuasive than incentivized human persuaders",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44016621\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2505.09662",
+         "links": [
+             "https://arxiv.org/abs/2505.09662"
+         ],
+         "published": "Sat, 17 May 2025 20:05:09 +0000",
+         "publishedParsed": "2025-05-17T20:05:09Z"
      }
  ]
