@@ -1,5 +1,55 @@
 [
      {
+         "title": "Zod 4",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44030850\"\u003eComments\u003c/a\u003e",
+         "link": "https://zod.dev/v4",
+         "links": [
+             "https://zod.dev/v4"
+         ],
+         "published": "Mon, 19 May 2025 15:24:58 +0000",
+         "publishedParsed": "2025-05-19T15:24:58Z"
+     },
+     {
+         "title": "Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44030492\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=44030492",
+         "links": [
+             "https://news.ycombinator.com/item?id=44030492"
+         ],
+         "published": "Mon, 19 May 2025 14:48:03 +0000",
+         "publishedParsed": "2025-05-19T14:48:03Z"
+     },
+     {
+         "title": "European Investment Bank to inject €70B in European tech",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44031297\"\u003eComments\u003c/a\u003e",
+         "link": "https://ioplus.nl/en/posts/european-investment-bank-to-inject-70-billion-in-european-tech",
+         "links": [
+             "https://ioplus.nl/en/posts/european-investment-bank-to-inject-70-billion-in-european-tech"
+         ],
+         "published": "Mon, 19 May 2025 16:05:52 +0000",
+         "publishedParsed": "2025-05-19T16:05:52Z"
+     },
+     {
+         "title": "Too Much Go Misdirection",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44031009\"\u003eComments\u003c/a\u003e",
+         "link": "https://flak.tedunangst.com/post/too-much-go-misdirection",
+         "links": [
+             "https://flak.tedunangst.com/post/too-much-go-misdirection"
+         ],
+         "published": "Mon, 19 May 2025 15:40:32 +0000",
+         "publishedParsed": "2025-05-19T15:40:32Z"
+     },
+     {
+         "title": "The Windows Subsystem for Linux is now open source",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44031385\"\u003eComments\u003c/a\u003e",
+         "link": "https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/",
+         "links": [
+             "https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/"
+         ],
+         "published": "Mon, 19 May 2025 16:14:15 +0000",
+         "publishedParsed": "2025-05-19T16:14:15Z"
+     },
+     {
          "title": "ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44029142\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/clawsoftware/clawPDF",
@@ -8,6 +58,26 @@
          ],
          "published": "Mon, 19 May 2025 12:31:33 +0000",
          "publishedParsed": "2025-05-19T12:31:33Z"
+     },
+     {
+         "title": "Wikipedia's Most Translated Articles",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44031144\"\u003eComments\u003c/a\u003e",
+         "link": "https://sohom.dev/most-translated-articles-on-wikipedia/pretty.html",
+         "links": [
+             "https://sohom.dev/most-translated-articles-on-wikipedia/pretty.html"
+         ],
+         "published": "Mon, 19 May 2025 15:53:14 +0000",
+         "publishedParsed": "2025-05-19T15:53:14Z"
+     },
+     {
+         "title": "SDB Scans the Ruby Stack Without the GVL",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44030696\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/yfractal/blog/blob/master/blog/2025-01-15-non-blocking-stack-profiler.md",
+         "links": [
+             "https://github.com/yfractal/blog/blob/master/blog/2025-01-15-non-blocking-stack-profiler.md"
+         ],
+         "published": "Mon, 19 May 2025 15:10:12 +0000",
+         "publishedParsed": "2025-05-19T15:10:12Z"
      },
      {
          "title": "Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy",
@@ -20,16 +90,6 @@
          "publishedParsed": "2025-05-19T10:27:34Z"
      },
      {
-         "title": "Side projects I've built since 2009",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44027867\"\u003eComments\u003c/a\u003e",
-         "link": "https://naeemnur.com/side-projects/",
-         "links": [
-             "https://naeemnur.com/side-projects/"
-         ],
-         "published": "Mon, 19 May 2025 09:17:20 +0000",
-         "publishedParsed": "2025-05-19T09:17:20Z"
-     },
-     {
          "title": "InventWood is about to mass-produce wood that's stronger than steel",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44020832\"\u003eComments\u003c/a\u003e",
          "link": "https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/",
@@ -40,34 +100,84 @@
          "publishedParsed": "2025-05-18T12:22:39Z"
      },
      {
-         "title": "Show HN: Goboscript, text-based programming language, compiles to Scratch",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44026799\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/aspizu/goboscript",
+         "title": "Kelp – simple replacement for homebrew on macOS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44030560\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/crhuber/kelp",
          "links": [
-             "https://github.com/aspizu/goboscript"
+             "https://github.com/crhuber/kelp"
          ],
-         "published": "Mon, 19 May 2025 05:51:02 +0000",
-         "publishedParsed": "2025-05-19T05:51:02Z"
+         "published": "Mon, 19 May 2025 14:55:53 +0000",
+         "publishedParsed": "2025-05-19T14:55:53Z"
      },
      {
-         "title": "Don't guess my language",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44028153\"\u003eComments\u003c/a\u003e",
-         "link": "https://vitonsky.net/blog/2025/05/17/language-detection/",
+         "title": "Side projects I've built since 2009",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44027867\"\u003eComments\u003c/a\u003e",
+         "link": "https://naeemnur.com/side-projects/",
          "links": [
-             "https://vitonsky.net/blog/2025/05/17/language-detection/"
+             "https://naeemnur.com/side-projects/"
          ],
-         "published": "Mon, 19 May 2025 10:12:53 +0000",
-         "publishedParsed": "2025-05-19T10:12:53Z"
+         "published": "Mon, 19 May 2025 09:17:20 +0000",
+         "publishedParsed": "2025-05-19T09:17:20Z"
      },
      {
-         "title": "Monitoring Node.js: Key Metrics You Should Track",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44028483\"\u003eComments\u003c/a\u003e",
-         "link": "https://last9.io/blog/node-js-key-metrics/",
+         "title": "GitHub Copilot Coding Agent",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44031432\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/",
          "links": [
-             "https://last9.io/blog/node-js-key-metrics/"
+             "https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/"
          ],
-         "published": "Mon, 19 May 2025 11:06:59 +0000",
-         "publishedParsed": "2025-05-19T11:06:59Z"
+         "published": "Mon, 19 May 2025 16:17:56 +0000",
+         "publishedParsed": "2025-05-19T16:17:56Z"
+     },
+     {
+         "title": "23andMe Sells Gene-Testing Business to DNA Drug Maker Regeneron",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44030873\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bloomberg.com/news/articles/2025-05-19/23andme-sells-gene-testing-business-to-dna-drug-maker-regeneron",
+         "links": [
+             "https://www.bloomberg.com/news/articles/2025-05-19/23andme-sells-gene-testing-business-to-dna-drug-maker-regeneron"
+         ],
+         "published": "Mon, 19 May 2025 15:27:22 +0000",
+         "publishedParsed": "2025-05-19T15:27:22Z"
+     },
+     {
+         "title": "Static Types Are for Perfectionists",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44013322\"\u003eComments\u003c/a\u003e",
+         "link": "https://mmapped.blog/posts/38-static-types-perfectionism",
+         "links": [
+             "https://mmapped.blog/posts/38-static-types-perfectionism"
+         ],
+         "published": "Sat, 17 May 2025 10:29:44 +0000",
+         "publishedParsed": "2025-05-17T10:29:44Z"
+     },
+     {
+         "title": "Discover is now part of Capital One",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44031000\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.discover.com/faqs/merger/",
+         "links": [
+             "https://www.discover.com/faqs/merger/"
+         ],
+         "published": "Mon, 19 May 2025 15:39:49 +0000",
+         "publishedParsed": "2025-05-19T15:39:49Z"
+     },
+     {
+         "title": "Diffusion Models Explained Simply",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44029435\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.seangoedecke.com/diffusion-models-explained/",
+         "links": [
+             "https://www.seangoedecke.com/diffusion-models-explained/"
+         ],
+         "published": "Mon, 19 May 2025 13:06:55 +0000",
+         "publishedParsed": "2025-05-19T13:06:55Z"
+     },
+     {
+         "title": "Visualizing 100k Years of Earth in WebGL",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44029619\"\u003eComments\u003c/a\u003e",
+         "link": "https://technistuff.com/posts/visualizing-100000-years-of-earth-in-webgl/",
+         "links": [
+             "https://technistuff.com/posts/visualizing-100000-years-of-earth-in-webgl/"
+         ],
+         "published": "Mon, 19 May 2025 13:24:14 +0000",
+         "publishedParsed": "2025-05-19T13:24:14Z"
      },
      {
          "title": "About Asteroids, Atari's biggest arcade hit",
@@ -80,16 +190,6 @@
          "publishedParsed": "2025-05-15T18:50:08Z"
      },
      {
-         "title": "Emulator Debugging: Area 5150's Lake Effect",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44027768\"\u003eComments\u003c/a\u003e",
-         "link": "https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html",
-         "links": [
-             "https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html"
-         ],
-         "published": "Mon, 19 May 2025 08:55:24 +0000",
-         "publishedParsed": "2025-05-19T08:55:24Z"
-     },
-     {
          "title": "Show HN: Cogitator – A Python Toolkit for Chain-of-Thought Prompting",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43996515\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/habedi/cogitator",
@@ -100,6 +200,26 @@
          "publishedParsed": "2025-05-15T16:15:47Z"
      },
      {
+         "title": "Show HN: Goboscript, text-based programming language, compiles to Scratch",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44026799\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/aspizu/goboscript",
+         "links": [
+             "https://github.com/aspizu/goboscript"
+         ],
+         "published": "Mon, 19 May 2025 05:51:02 +0000",
+         "publishedParsed": "2025-05-19T05:51:02Z"
+     },
+     {
+         "title": "xAI's Grok 3 comes to Microsoft Azure",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44031387\"\u003eComments\u003c/a\u003e",
+         "link": "https://techcrunch.com/2025/05/19/xais-grok-3-comes-to-microsoft-azure/",
+         "links": [
+             "https://techcrunch.com/2025/05/19/xais-grok-3-comes-to-microsoft-azure/"
+         ],
+         "published": "Mon, 19 May 2025 16:14:35 +0000",
+         "publishedParsed": "2025-05-19T16:14:35Z"
+     },
+     {
          "title": "“There are people who can see and others who cannot even look”",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44025439\"\u003eComments\u003c/a\u003e",
          "link": "https://worldhistory.substack.com/p/there-are-people-who-can-see-and",
@@ -108,6 +228,46 @@
          ],
          "published": "Mon, 19 May 2025 00:31:34 +0000",
          "publishedParsed": "2025-05-19T00:31:34Z"
+     },
+     {
+         "title": "Emulator Debugging: Area 5150's Lake Effect",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44027768\"\u003eComments\u003c/a\u003e",
+         "link": "https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html",
+         "links": [
+             "https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html"
+         ],
+         "published": "Mon, 19 May 2025 08:55:24 +0000",
+         "publishedParsed": "2025-05-19T08:55:24Z"
+     },
+     {
+         "title": "In Memoriam: John L. Young, Cryptome Co-Founder",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=43999897\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.eff.org/deeplinks/2025/05/memoriam-john-l-young-cryptome-co-founder",
+         "links": [
+             "https://www.eff.org/deeplinks/2025/05/memoriam-john-l-young-cryptome-co-founder"
+         ],
+         "published": "Thu, 15 May 2025 22:16:26 +0000",
+         "publishedParsed": "2025-05-15T22:16:26Z"
+     },
+     {
+         "title": "Don't guess my language",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44028153\"\u003eComments\u003c/a\u003e",
+         "link": "https://vitonsky.net/blog/2025/05/17/language-detection/",
+         "links": [
+             "https://vitonsky.net/blog/2025/05/17/language-detection/"
+         ],
+         "published": "Mon, 19 May 2025 10:12:53 +0000",
+         "publishedParsed": "2025-05-19T10:12:53Z"
+     },
+     {
+         "title": "Fabric Is Just Plain Unreliable, and Microsoft's Hiding It",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44029566\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.brentozar.com/archive/2025/05/fabric-is-just-plain-unreliable-and-microsofts-hiding-it/",
+         "links": [
+             "https://www.brentozar.com/archive/2025/05/fabric-is-just-plain-unreliable-and-microsofts-hiding-it/"
+         ],
+         "published": "Mon, 19 May 2025 13:19:11 +0000",
+         "publishedParsed": "2025-05-19T13:19:11Z"
      },
      {
          "title": "Llama from scratch (2023)",
@@ -130,153 +290,13 @@
          "publishedParsed": "2025-05-15T13:48:46Z"
      },
      {
-         "title": "Ditching Obsidian and building my own",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44022448\"\u003eComments\u003c/a\u003e",
-         "link": "https://amberwilliams.io/blogs/building-my-own-pkms",
+         "title": "Show HN: Mirror World, create an AI clone of anyone",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44030443\"\u003eComments\u003c/a\u003e",
+         "link": "https://mirr.world/",
          "links": [
-             "https://amberwilliams.io/blogs/building-my-own-pkms"
+             "https://mirr.world/"
          ],
-         "published": "Sun, 18 May 2025 16:21:50 +0000",
-         "publishedParsed": "2025-05-18T16:21:50Z"
-     },
-     {
-         "title": "Show HN: Job board aggregator for best paying remote SWE jobs in the U.S.",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44025484\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.remoteswe.fyi",
-         "links": [
-             "https://www.remoteswe.fyi"
-         ],
-         "published": "Mon, 19 May 2025 00:38:34 +0000",
-         "publishedParsed": "2025-05-19T00:38:34Z"
-     },
-     {
-         "title": "Diffusion Models Explained Simply",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44029435\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.seangoedecke.com/diffusion-models-explained/",
-         "links": [
-             "https://www.seangoedecke.com/diffusion-models-explained/"
-         ],
-         "published": "Mon, 19 May 2025 13:06:55 +0000",
-         "publishedParsed": "2025-05-19T13:06:55Z"
-     },
-     {
-         "title": "The principles of database design, or, the Truth is out there",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44026201\"\u003eComments\u003c/a\u003e",
-         "link": "https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/",
-         "links": [
-             "https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/"
-         ],
-         "published": "Mon, 19 May 2025 02:58:27 +0000",
-         "publishedParsed": "2025-05-19T02:58:27Z"
-     },
-     {
-         "title": "Show HN: Sshsync – CLI tool to run shell commands across multiple remote servers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44023634\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Blackmamoth/sshsync",
-         "links": [
-             "https://github.com/Blackmamoth/sshsync"
-         ],
-         "published": "Sun, 18 May 2025 19:10:29 +0000",
-         "publishedParsed": "2025-05-18T19:10:29Z"
-     },
-     {
-         "title": "Show HN: I modeled the Voynich Manuscript with SBERT to test for structure",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44022353\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/brianmg/voynich-nlp-analysis",
-         "links": [
-             "https://github.com/brianmg/voynich-nlp-analysis"
-         ],
-         "published": "Sun, 18 May 2025 16:09:01 +0000",
-         "publishedParsed": "2025-05-18T16:09:01Z"
-     },
-     {
-         "title": "KDE is finally getting a native virtual machine manager called “Karton”",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44024784\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/",
-         "links": [
-             "https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/"
-         ],
-         "published": "Sun, 18 May 2025 22:33:16 +0000",
-         "publishedParsed": "2025-05-18T22:33:16Z"
-     },
-     {
-         "title": "Programming in Martin-Lof's Type Theory: An Introduction (1990)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44012418\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cse.chalmers.se/research/group/logic/book/",
-         "links": [
-             "https://www.cse.chalmers.se/research/group/logic/book/"
-         ],
-         "published": "Sat, 17 May 2025 06:30:59 +0000",
-         "publishedParsed": "2025-05-17T06:30:59Z"
-     },
-     {
-         "title": "'Significant amount' of private data stolen in UK Legal Aid hack",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44028587\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bbc.co.uk/news/articles/cgr5g4pv2l0o",
-         "links": [
-             "https://www.bbc.co.uk/news/articles/cgr5g4pv2l0o"
-         ],
-         "published": "Mon, 19 May 2025 11:21:59 +0000",
-         "publishedParsed": "2025-05-19T11:21:59Z"
-     },
-     {
-         "title": "$30 Homebrew Automated Blinds Opener (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44022758\"\u003eComments\u003c/a\u003e",
-         "link": "https://sifter.org/~simon/journal/20240718.html",
-         "links": [
-             "https://sifter.org/~simon/journal/20240718.html"
-         ],
-         "published": "Sun, 18 May 2025 17:05:56 +0000",
-         "publishedParsed": "2025-05-18T17:05:56Z"
-     },
-     {
-         "title": "Procolored printer drivers contained malware",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44012283\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.neowin.net/news/this-printer-company-served-you-malware-for-months-and-dismissed-it-as-false-positives/",
-         "links": [
-             "https://www.neowin.net/news/this-printer-company-served-you-malware-for-months-and-dismissed-it-as-false-positives/"
-         ],
-         "published": "Sat, 17 May 2025 05:44:50 +0000",
-         "publishedParsed": "2025-05-17T05:44:50Z"
-     },
-     {
-         "title": "Is Winter Coming? (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44028384\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.datagubbe.se/winter/",
-         "links": [
-             "https://www.datagubbe.se/winter/"
-         ],
-         "published": "Mon, 19 May 2025 10:50:40 +0000",
-         "publishedParsed": "2025-05-19T10:50:40Z"
-     },
-     {
-         "title": "Spaced repetition memory system (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44022225\"\u003eComments\u003c/a\u003e",
-         "link": "https://notes.andymatuschak.org/Spaced_repetition_memory_system",
-         "links": [
-             "https://notes.andymatuschak.org/Spaced_repetition_memory_system"
-         ],
-         "published": "Sun, 18 May 2025 15:48:57 +0000",
-         "publishedParsed": "2025-05-18T15:48:57Z"
-     },
-     {
-         "title": "K-Scale Labs: Open-source humanoid robots, built for developers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44023680\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.kscale.dev/",
-         "links": [
-             "https://www.kscale.dev/"
-         ],
-         "published": "Sun, 18 May 2025 19:16:41 +0000",
-         "publishedParsed": "2025-05-18T19:16:41Z"
-     },
-     {
-         "title": "Font Activations: A Note on the Type",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44010096\"\u003eComments\u003c/a\u003e",
-         "link": "https://robhorning.substack.com/p/font-activations",
-         "links": [
-             "https://robhorning.substack.com/p/font-activations"
-         ],
-         "published": "Fri, 16 May 2025 21:52:52 +0000",
-         "publishedParsed": "2025-05-16T21:52:52Z"
+         "published": "Mon, 19 May 2025 14:43:57 +0000",
+         "publishedParsed": "2025-05-19T14:43:57Z"
      }
  ]
