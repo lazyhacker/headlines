@@ -1,5 +1,25 @@
 [
      {
+         "title": "OpenAI to buy AI startup from Jony Ive",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44053518\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal",
+         "links": [
+             "https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal"
+         ],
+         "published": "Wed, 21 May 2025 17:01:35 +0000",
+         "publishedParsed": "2025-05-21T17:01:35Z"
+     },
+     {
+         "title": "By Default, Signal Doesn't Recall",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44053364\"\u003eComments\u003c/a\u003e",
+         "link": "https://signal.org/blog/signal-doesnt-recall/",
+         "links": [
+             "https://signal.org/blog/signal-doesnt-recall/"
+         ],
+         "published": "Wed, 21 May 2025 16:46:53 +0000",
+         "publishedParsed": "2025-05-21T16:46:53Z"
+     },
+     {
          "title": "Animated Factorization",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44051958\"\u003eComments\u003c/a\u003e",
          "link": "http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/",
@@ -8,26 +28,6 @@
          ],
          "published": "Wed, 21 May 2025 14:39:37 +0000",
          "publishedParsed": "2025-05-21T14:39:37Z"
-     },
-     {
-         "title": "Launch HN: SIM Studio (YC X25) – Figma-Like Canvas for Agent Workflows",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44052766\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=44052766",
-         "links": [
-             "https://news.ycombinator.com/item?id=44052766"
-         ],
-         "published": "Wed, 21 May 2025 15:49:15 +0000",
-         "publishedParsed": "2025-05-21T15:49:15Z"
-     },
-     {
-         "title": "Show HN: Evolved.lua – An Evolved Entity Component System for Lua",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44052738\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/BlackMATov/evolved.lua",
-         "links": [
-             "https://github.com/BlackMATov/evolved.lua"
-         ],
-         "published": "Wed, 21 May 2025 15:46:45 +0000",
-         "publishedParsed": "2025-05-21T15:46:45Z"
      },
      {
          "title": "Introducing the Llama Startup Program",
@@ -40,14 +40,84 @@
          "publishedParsed": "2025-05-21T16:10:06Z"
      },
      {
-         "title": "Lune: Standalone Luau Runtime",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44052106\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/lune-org/lune",
+         "title": "Collaborative Text Editing Without CRDTs or OT",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44053560\"\u003eComments\u003c/a\u003e",
+         "link": "https://mattweidner.com/2025/05/21/text-without-crdts.html",
          "links": [
-             "https://github.com/lune-org/lune"
+             "https://mattweidner.com/2025/05/21/text-without-crdts.html"
          ],
-         "published": "Wed, 21 May 2025 14:51:38 +0000",
-         "publishedParsed": "2025-05-21T14:51:38Z"
+         "published": "Wed, 21 May 2025 17:05:45 +0000",
+         "publishedParsed": "2025-05-21T17:05:45Z"
+     },
+     {
+         "title": "LLM function calls don't scale; code orchestration is simpler, more effective",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44053744\"\u003eComments\u003c/a\u003e",
+         "link": "https://jngiam.bearblog.dev/mcp-large-data/",
+         "links": [
+             "https://jngiam.bearblog.dev/mcp-large-data/"
+         ],
+         "published": "Wed, 21 May 2025 17:18:52 +0000",
+         "publishedParsed": "2025-05-21T17:18:52Z"
+     },
+     {
+         "title": "Harnessing the Universal Geometry of Embeddings",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44054425\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2505.12540",
+         "links": [
+             "https://arxiv.org/abs/2505.12540"
+         ],
+         "published": "Wed, 21 May 2025 18:15:25 +0000",
+         "publishedParsed": "2025-05-21T18:15:25Z"
+     },
+     {
+         "title": "Storefront Web Components",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44053603\"\u003eComments\u003c/a\u003e",
+         "link": "https://shopify.dev/docs/api/storefront-web-components",
+         "links": [
+             "https://shopify.dev/docs/api/storefront-web-components"
+         ],
+         "published": "Wed, 21 May 2025 17:08:58 +0000",
+         "publishedParsed": "2025-05-21T17:08:58Z"
+     },
+     {
+         "title": "Devstral",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44051733\"\u003eComments\u003c/a\u003e",
+         "link": "https://mistral.ai/news/devstral",
+         "links": [
+             "https://mistral.ai/news/devstral"
+         ],
+         "published": "Wed, 21 May 2025 14:21:10 +0000",
+         "publishedParsed": "2025-05-21T14:21:10Z"
+     },
+     {
+         "title": "Harper (YC W25) Is Hiring Applied AI / AI Context Engineers and Data Scientist",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44053506\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/harper/jobs",
+         "links": [
+             "https://www.ycombinator.com/companies/harper/jobs"
+         ],
+         "published": "Wed, 21 May 2025 17:00:50 +0000",
+         "publishedParsed": "2025-05-21T17:00:50Z"
+     },
+     {
+         "title": "Launch HN: SIM Studio (YC X25) – Figma-Like Canvas for Agent Workflows",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44052766\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=44052766",
+         "links": [
+             "https://news.ycombinator.com/item?id=44052766"
+         ],
+         "published": "Wed, 21 May 2025 15:49:15 +0000",
+         "publishedParsed": "2025-05-21T15:49:15Z"
+     },
+     {
+         "title": "The US has a new most powerful laser hitting 2 petawatts",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44052418\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/",
+         "links": [
+             "https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/"
+         ],
+         "published": "Wed, 21 May 2025 15:17:10 +0000",
+         "publishedParsed": "2025-05-21T15:17:10Z"
      },
      {
          "title": "'Turbocharged' Mitochondria Power Birds' Epic Migratory Journeys",
@@ -60,24 +130,24 @@
          "publishedParsed": "2025-05-21T14:11:33Z"
      },
      {
-         "title": "Building my own solar power system",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44023226\"\u003eComments\u003c/a\u003e",
-         "link": "https://medium.com/@joe_5312/pg-e-sucks-or-how-i-learned-to-stop-worrying-and-love-building-my-own-solar-system-acf0c9f03f3b",
+         "title": "Show HN: Evolved.lua – An Evolved Entity Component System for Lua",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44052738\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/BlackMATov/evolved.lua",
          "links": [
-             "https://medium.com/@joe_5312/pg-e-sucks-or-how-i-learned-to-stop-worrying-and-love-building-my-own-solar-system-acf0c9f03f3b"
+             "https://github.com/BlackMATov/evolved.lua"
          ],
-         "published": "Sun, 18 May 2025 18:07:03 +0000",
-         "publishedParsed": "2025-05-18T18:07:03Z"
+         "published": "Wed, 21 May 2025 15:46:45 +0000",
+         "publishedParsed": "2025-05-21T15:46:45Z"
      },
      {
-         "title": "Discord Unveiled: A Comprehensive Dataset of Public Communication (2015-2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44052041\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2502.00627",
+         "title": "Understanding the Go Scheduler",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44022736\"\u003eComments\u003c/a\u003e",
+         "link": "https://nghiant3223.github.io/2025/04/15/go-scheduler.html",
          "links": [
-             "https://arxiv.org/abs/2502.00627"
+             "https://nghiant3223.github.io/2025/04/15/go-scheduler.html"
          ],
-         "published": "Wed, 21 May 2025 14:45:38 +0000",
-         "publishedParsed": "2025-05-21T14:45:38Z"
+         "published": "Sun, 18 May 2025 17:03:55 +0000",
+         "publishedParsed": "2025-05-18T17:03:55Z"
      },
      {
          "title": "New tools and features in the Responses API",
@@ -90,6 +160,86 @@
          "publishedParsed": "2025-05-21T15:17:38Z"
      },
      {
+         "title": "All That Glitters",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44054690\"\u003eComments\u003c/a\u003e",
+         "link": "https://magazine.atavist.com/all-that-glitters-jona-rechnitz-lawsuit-jadelle-jewelry-coba-ethereummax-mayweather/",
+         "links": [
+             "https://magazine.atavist.com/all-that-glitters-jona-rechnitz-lawsuit-jadelle-jewelry-coba-ethereummax-mayweather/"
+         ],
+         "published": "Wed, 21 May 2025 18:38:21 +0000",
+         "publishedParsed": "2025-05-21T18:38:21Z"
+     },
+     {
+         "title": "What Is the Difference Between a Block, a Proc, and a Lambda in Ruby? (2013)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44023400\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.awaxman.com/what-is-the-difference-between-a-block-a-proc-and-a-lambda-in-ruby",
+         "links": [
+             "https://blog.awaxman.com/what-is-the-difference-between-a-block-a-proc-and-a-lambda-in-ruby"
+         ],
+         "published": "Sun, 18 May 2025 18:34:12 +0000",
+         "publishedParsed": "2025-05-18T18:34:12Z"
+     },
+     {
+         "title": "Python Tooling at Scale: LlamaIndex’s Monorepo Overhaul",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44053759\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.llamaindex.ai/blog/python-tooling-at-scale-llamaindex-s-monorepo-overhaul",
+         "links": [
+             "https://www.llamaindex.ai/blog/python-tooling-at-scale-llamaindex-s-monorepo-overhaul"
+         ],
+         "published": "Wed, 21 May 2025 17:20:30 +0000",
+         "publishedParsed": "2025-05-21T17:20:30Z"
+     },
+     {
+         "title": "Lune: Standalone Luau Runtime",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44052106\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/lune-org/lune",
+         "links": [
+             "https://github.com/lune-org/lune"
+         ],
+         "published": "Wed, 21 May 2025 14:51:38 +0000",
+         "publishedParsed": "2025-05-21T14:51:38Z"
+     },
+     {
+         "title": "Building my own solar power system",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44023226\"\u003eComments\u003c/a\u003e",
+         "link": "https://medium.com/@joe_5312/pg-e-sucks-or-how-i-learned-to-stop-worrying-and-love-building-my-own-solar-system-acf0c9f03f3b",
+         "links": [
+             "https://medium.com/@joe_5312/pg-e-sucks-or-how-i-learned-to-stop-worrying-and-love-building-my-own-solar-system-acf0c9f03f3b"
+         ],
+         "published": "Sun, 18 May 2025 18:07:03 +0000",
+         "publishedParsed": "2025-05-18T18:07:03Z"
+     },
+     {
+         "title": "Gilded Fish: Illustrations of Histoire naturelle des dorades de la Chine c.1780",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44054024\"\u003eComments\u003c/a\u003e",
+         "link": "https://publicdomainreview.org/collection/chinese-fishes/",
+         "links": [
+             "https://publicdomainreview.org/collection/chinese-fishes/"
+         ],
+         "published": "Wed, 21 May 2025 17:40:29 +0000",
+         "publishedParsed": "2025-05-21T17:40:29Z"
+     },
+     {
+         "title": "Visualizing entire Chromium include graph",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44052439\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.bkryza.com/posts/visualizing-chromium-include-graph/",
+         "links": [
+             "https://blog.bkryza.com/posts/visualizing-chromium-include-graph/"
+         ],
+         "published": "Wed, 21 May 2025 15:19:02 +0000",
+         "publishedParsed": "2025-05-21T15:19:02Z"
+     },
+     {
+         "title": "Show HN: Trendly AI – Trend detection across 42 languages",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44052010\"\u003eComments\u003c/a\u003e",
+         "link": "https://trendlyai.com/",
+         "links": [
+             "https://trendlyai.com/"
+         ],
+         "published": "Wed, 21 May 2025 14:43:09 +0000",
+         "publishedParsed": "2025-05-21T14:43:09Z"
+     },
+     {
          "title": "Mitochondria Are More Than Powerhouses–They're the Motherboard of the Cell",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44052909\"\u003eComments\u003c/a\u003e",
          "link": "https://www.scientificamerican.com/article/why-mitochondria-are-more-like-a-motherboard-than-the-powerhouse-of-the-cell/",
@@ -98,16 +248,6 @@
          ],
          "published": "Wed, 21 May 2025 16:03:36 +0000",
          "publishedParsed": "2025-05-21T16:03:36Z"
-     },
-     {
-         "title": "Goethe's Faustian Life",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44048420\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.commonwealmagazine.org/goethe-mitchell-wilson-faust-johann-biography",
-         "links": [
-             "https://www.commonwealmagazine.org/goethe-mitchell-wilson-faust-johann-biography"
-         ],
-         "published": "Wed, 21 May 2025 04:56:44 +0000",
-         "publishedParsed": "2025-05-21T04:56:44Z"
      },
      {
          "title": "Link Time Optimizations: New Way to Do Compiler Optimizations",
@@ -120,14 +260,14 @@
          "publishedParsed": "2025-05-19T07:48:22Z"
      },
      {
-         "title": "Ask HN: How to Make Friendster Great?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44053119\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=44053119",
+         "title": "Building (Open Source) Custom Dashboards Is Harder Than You Think",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44054019\"\u003eComments\u003c/a\u003e",
+         "link": "https://langfuse.com/blog/2025-05-21-customizable-dashboards",
          "links": [
-             "https://news.ycombinator.com/item?id=44053119"
+             "https://langfuse.com/blog/2025-05-21-customizable-dashboards"
          ],
-         "published": "Wed, 21 May 2025 16:21:46 +0000",
-         "publishedParsed": "2025-05-21T16:21:46Z"
+         "published": "Wed, 21 May 2025 17:40:19 +0000",
+         "publishedParsed": "2025-05-21T17:40:19Z"
      },
      {
          "title": "Veo 3 and Imagen 4, and a new tool for filmmaking called Flow",
@@ -140,24 +280,14 @@
          "publishedParsed": "2025-05-20T17:46:36Z"
      },
      {
-         "title": "Overlap (YC S24) Is Hiring",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44050521\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/overlap/jobs/Z8IbFjD-product-engineer",
+         "title": "Goethe's Faustian Life",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44048420\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.commonwealmagazine.org/goethe-mitchell-wilson-faust-johann-biography",
          "links": [
-             "https://www.ycombinator.com/companies/overlap/jobs/Z8IbFjD-product-engineer"
+             "https://www.commonwealmagazine.org/goethe-mitchell-wilson-faust-johann-biography"
          ],
-         "published": "Wed, 21 May 2025 12:01:11 +0000",
-         "publishedParsed": "2025-05-21T12:01:11Z"
-     },
-     {
-         "title": "Ask HN: How do you promote your personal project in limited bugget?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44051755\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=44051755",
-         "links": [
-             "https://news.ycombinator.com/item?id=44051755"
-         ],
-         "published": "Wed, 21 May 2025 14:23:05 +0000",
-         "publishedParsed": "2025-05-21T14:23:05Z"
+         "published": "Wed, 21 May 2025 04:56:44 +0000",
+         "publishedParsed": "2025-05-21T04:56:44Z"
      },
      {
          "title": "Gemma 3n preview: Mobile-first AI",
@@ -168,125 +298,5 @@
          ],
          "published": "Tue, 20 May 2025 18:03:32 +0000",
          "publishedParsed": "2025-05-20T18:03:32Z"
-     },
-     {
-         "title": "“ZLinq”, a Zero-Allocation LINQ Library for .NET",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44046578\"\u003eComments\u003c/a\u003e",
-         "link": "https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749",
-         "links": [
-             "https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749"
-         ],
-         "published": "Tue, 20 May 2025 22:29:12 +0000",
-         "publishedParsed": "2025-05-20T22:29:12Z"
-     },
-     {
-         "title": "Overview of the Ada Computer Language Competition (1979)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44048775\"\u003eComments\u003c/a\u003e",
-         "link": "https://iment.com/maida/computer/redref/",
-         "links": [
-             "https://iment.com/maida/computer/redref/"
-         ],
-         "published": "Wed, 21 May 2025 06:18:55 +0000",
-         "publishedParsed": "2025-05-21T06:18:55Z"
-     },
-     {
-         "title": "Litestream: Revamped",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44045292\"\u003eComments\u003c/a\u003e",
-         "link": "https://fly.io/blog/litestream-revamped/",
-         "links": [
-             "https://fly.io/blog/litestream-revamped/"
-         ],
-         "published": "Tue, 20 May 2025 19:58:27 +0000",
-         "publishedParsed": "2025-05-20T19:58:27Z"
-     },
-     {
-         "title": "Convolutions, Polynomials and Flipped Kernels",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44048306\"\u003eComments\u003c/a\u003e",
-         "link": "https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/",
-         "links": [
-             "https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/"
-         ],
-         "published": "Wed, 21 May 2025 04:35:21 +0000",
-         "publishedParsed": "2025-05-21T04:35:21Z"
-     },
-     {
-         "title": "What makes a good engineer also makes a good engineering organization (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44026703\"\u003eComments\u003c/a\u003e",
-         "link": "https://moxie.org/2024/09/23/a-good-engineer.html",
-         "links": [
-             "https://moxie.org/2024/09/23/a-good-engineer.html"
-         ],
-         "published": "Mon, 19 May 2025 05:26:32 +0000",
-         "publishedParsed": "2025-05-19T05:26:32Z"
-     },
-     {
-         "title": "Deep Learning Is Applied Topology",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44041738\"\u003eComments\u003c/a\u003e",
-         "link": "https://theahura.substack.com/p/deep-learning-is-applied-topology",
-         "links": [
-             "https://theahura.substack.com/p/deep-learning-is-applied-topology"
-         ],
-         "published": "Tue, 20 May 2025 13:54:54 +0000",
-         "publishedParsed": "2025-05-20T13:54:54Z"
-     },
-     {
-         "title": "Writing into Uninitialized Buffers in Rust",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44032680\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.sunfishcode.online/writingintouninitializedbuffersinrust/",
-         "links": [
-             "https://blog.sunfishcode.online/writingintouninitializedbuffersinrust/"
-         ],
-         "published": "Mon, 19 May 2025 17:56:10 +0000",
-         "publishedParsed": "2025-05-19T17:56:10Z"
-     },
-     {
-         "title": "AI's energy footprint",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44039808\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/",
-         "links": [
-             "https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/"
-         ],
-         "published": "Tue, 20 May 2025 10:07:55 +0000",
-         "publishedParsed": "2025-05-20T10:07:55Z"
-     },
-     {
-         "title": "Roto: A Compiled Scripting Language for Rust",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44050222\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/",
-         "links": [
-             "https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/"
-         ],
-         "published": "Wed, 21 May 2025 11:10:29 +0000",
-         "publishedParsed": "2025-05-21T11:10:29Z"
-     },
-     {
-         "title": "The NSA Selector",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44044459\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/wenzellabs/the_NSA_selector",
-         "links": [
-             "https://github.com/wenzellabs/the_NSA_selector"
-         ],
-         "published": "Tue, 20 May 2025 18:30:18 +0000",
-         "publishedParsed": "2025-05-20T18:30:18Z"
-     },
-     {
-         "title": "Clojuring the web application stack: Meditation One",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44041255\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.evalapply.org/posts/clojure-web-app-from-scratch/index.html",
-         "links": [
-             "https://www.evalapply.org/posts/clojure-web-app-from-scratch/index.html"
-         ],
-         "published": "Tue, 20 May 2025 13:15:52 +0000",
-         "publishedParsed": "2025-05-20T13:15:52Z"
-     },
-     {
-         "title": "Show HN: 90s.dev – Game maker that runs on the web",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44042371\"\u003eComments\u003c/a\u003e",
-         "link": "https://90s.dev/blog/finally-releasing-90s-dev.html",
-         "links": [
-             "https://90s.dev/blog/finally-releasing-90s-dev.html"
-         ],
-         "published": "Tue, 20 May 2025 14:58:03 +0000",
-         "publishedParsed": "2025-05-20T14:58:03Z"
      }
  ]
