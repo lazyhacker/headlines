@@ -10,14 +10,24 @@
          "publishedParsed": "2025-05-22T01:13:50Z"
      },
      {
-         "title": "Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44058299\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Kotlin/kotlin-lsp",
+         "title": "JEP 519: Compact Object Headers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44059953\"\u003eComments\u003c/a\u003e",
+         "link": "https://openjdk.org/jeps/519",
          "links": [
-             "https://github.com/Kotlin/kotlin-lsp"
+             "https://openjdk.org/jeps/519"
          ],
-         "published": "Thu, 22 May 2025 02:46:47 +0000",
-         "publishedParsed": "2025-05-22T02:46:47Z"
+         "published": "Thu, 22 May 2025 08:24:30 +0000",
+         "publishedParsed": "2025-05-22T08:24:30Z"
+     },
+     {
+         "title": "Why does Debian change software?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44059411\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.liw.fi/posts/2025/why-debian-changes/",
+         "links": [
+             "https://blog.liw.fi/posts/2025/why-debian-changes/"
+         ],
+         "published": "Thu, 22 May 2025 06:50:28 +0000",
+         "publishedParsed": "2025-05-22T06:50:28Z"
      },
      {
          "title": "Decibels Are Ridiculous",
@@ -40,6 +50,26 @@
          "publishedParsed": "2025-05-18T09:32:39Z"
      },
      {
+         "title": "Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44058299\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/Kotlin/kotlin-lsp",
+         "links": [
+             "https://github.com/Kotlin/kotlin-lsp"
+         ],
+         "published": "Thu, 22 May 2025 02:46:47 +0000",
+         "publishedParsed": "2025-05-22T02:46:47Z"
+     },
+     {
+         "title": "Direct TLS can speed up your connections",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44059122\"\u003eComments\u003c/a\u003e",
+         "link": "https://marc-bowes.com/postgres-direct-tls.html",
+         "links": [
+             "https://marc-bowes.com/postgres-direct-tls.html"
+         ],
+         "published": "Thu, 22 May 2025 05:49:36 +0000",
+         "publishedParsed": "2025-05-22T05:49:36Z"
+     },
+     {
          "title": "Getting a paper accepted",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44057841\"\u003eComments\u003c/a\u003e",
          "link": "https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/",
@@ -48,6 +78,16 @@
          ],
          "published": "Thu, 22 May 2025 01:19:41 +0000",
          "publishedParsed": "2025-05-22T01:19:41Z"
+     },
+     {
+         "title": "The Lost Decade of Small Data?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44027690\"\u003eComments\u003c/a\u003e",
+         "link": "https://duckdb.org/2025/05/19/the-lost-decade-of-small-data.html",
+         "links": [
+             "https://duckdb.org/2025/05/19/the-lost-decade-of-small-data.html"
+         ],
+         "published": "Mon, 19 May 2025 08:39:31 +0000",
+         "publishedParsed": "2025-05-19T08:39:31Z"
      },
      {
          "title": "For algorithms, a little memory outweighs a lot of time",
@@ -70,34 +110,14 @@
          "publishedParsed": "2025-05-21T14:21:10Z"
      },
      {
-         "title": "The Lost Decade of Small Data?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44027690\"\u003eComments\u003c/a\u003e",
-         "link": "https://duckdb.org/2025/05/19/the-lost-decade-of-small-data.html",
+         "title": "Hotspot: Linux `perf` GUI for performance analysis",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44035125\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/KDAB/hotspot",
          "links": [
-             "https://duckdb.org/2025/05/19/the-lost-decade-of-small-data.html"
+             "https://github.com/KDAB/hotspot"
          ],
-         "published": "Mon, 19 May 2025 08:39:31 +0000",
-         "publishedParsed": "2025-05-19T08:39:31Z"
-     },
-     {
-         "title": "Gemini figured out my nephew’s name",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44025459\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.nawaz.org/posts/2025/May/gemini-figured-out-my-nephews-name/",
-         "links": [
-             "https://blog.nawaz.org/posts/2025/May/gemini-figured-out-my-nephews-name/"
-         ],
-         "published": "Mon, 19 May 2025 00:35:02 +0000",
-         "publishedParsed": "2025-05-19T00:35:02Z"
-     },
-     {
-         "title": "Rocky Linux 10 Will Support RISC-V",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44056104\"\u003eComments\u003c/a\u003e",
-         "link": "https://rockylinux.org/news/rockylinux-support-for-riscv",
-         "links": [
-             "https://rockylinux.org/news/rockylinux-support-for-riscv"
-         ],
-         "published": "Wed, 21 May 2025 20:40:58 +0000",
-         "publishedParsed": "2025-05-21T20:40:58Z"
+         "published": "Mon, 19 May 2025 21:33:03 +0000",
+         "publishedParsed": "2025-05-19T21:33:03Z"
      },
      {
          "title": "ITXPlus: A ITX Sized Macintosh Plus Logicboard Reproduction",
@@ -120,24 +140,14 @@
          "publishedParsed": "2025-05-19T19:18:24Z"
      },
      {
-         "title": "Direct TLS can speed up your connections",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44059122\"\u003eComments\u003c/a\u003e",
-         "link": "https://marc-bowes.com/postgres-direct-tls.html",
+         "title": "Rocky Linux 10 Will Support RISC-V",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44056104\"\u003eComments\u003c/a\u003e",
+         "link": "https://rockylinux.org/news/rockylinux-support-for-riscv",
          "links": [
-             "https://marc-bowes.com/postgres-direct-tls.html"
+             "https://rockylinux.org/news/rockylinux-support-for-riscv"
          ],
-         "published": "Thu, 22 May 2025 05:49:36 +0000",
-         "publishedParsed": "2025-05-22T05:49:36Z"
-     },
-     {
-         "title": "Collaborative Text Editing Without CRDTs or OT",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44053560\"\u003eComments\u003c/a\u003e",
-         "link": "https://mattweidner.com/2025/05/21/text-without-crdts.html",
-         "links": [
-             "https://mattweidner.com/2025/05/21/text-without-crdts.html"
-         ],
-         "published": "Wed, 21 May 2025 17:05:45 +0000",
-         "publishedParsed": "2025-05-21T17:05:45Z"
+         "published": "Wed, 21 May 2025 20:40:58 +0000",
+         "publishedParsed": "2025-05-21T20:40:58Z"
      },
      {
          "title": "Show HN: Display any CSV file as a searchable, filterable, pretty HTML table",
@@ -150,14 +160,24 @@
          "publishedParsed": "2025-05-22T00:31:01Z"
      },
      {
-         "title": "OpenAI to buy AI startup from Jony Ive",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44053518\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal",
+         "title": "Collaborative Text Editing Without CRDTs or OT",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44053560\"\u003eComments\u003c/a\u003e",
+         "link": "https://mattweidner.com/2025/05/21/text-without-crdts.html",
          "links": [
-             "https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal"
+             "https://mattweidner.com/2025/05/21/text-without-crdts.html"
          ],
-         "published": "Wed, 21 May 2025 17:01:35 +0000",
-         "publishedParsed": "2025-05-21T17:01:35Z"
+         "published": "Wed, 21 May 2025 17:05:45 +0000",
+         "publishedParsed": "2025-05-21T17:05:45Z"
+     },
+     {
+         "title": "Gemini figured out my nephew’s name",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44025459\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.nawaz.org/posts/2025/May/gemini-figured-out-my-nephews-name/",
+         "links": [
+             "https://blog.nawaz.org/posts/2025/May/gemini-figured-out-my-nephews-name/"
+         ],
+         "published": "Mon, 19 May 2025 00:35:02 +0000",
+         "publishedParsed": "2025-05-19T00:35:02Z"
      },
      {
          "title": "Animated Factorization (2012)",
@@ -170,24 +190,14 @@
          "publishedParsed": "2025-05-21T14:39:37Z"
      },
      {
-         "title": "Tales from Mainframe Modernization",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44057467\"\u003eComments\u003c/a\u003e",
-         "link": "https://oppi.li/posts/tales_from_mainframe_modernization/",
+         "title": "OpenAI to buy AI startup from Jony Ive",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44053518\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal",
          "links": [
-             "https://oppi.li/posts/tales_from_mainframe_modernization/"
+             "https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal"
          ],
-         "published": "Thu, 22 May 2025 00:01:46 +0000",
-         "publishedParsed": "2025-05-22T00:01:46Z"
-     },
-     {
-         "title": "The curious tale of Bhutan's playable record postage stamps (2015)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44054775\"\u003eComments\u003c/a\u003e",
-         "link": "https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/",
-         "links": [
-             "https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/"
-         ],
-         "published": "Wed, 21 May 2025 18:45:18 +0000",
-         "publishedParsed": "2025-05-21T18:45:18Z"
+         "published": "Wed, 21 May 2025 17:01:35 +0000",
+         "publishedParsed": "2025-05-21T17:01:35Z"
      },
      {
          "title": "LLM function calls don't scale; code orchestration is simpler, more effective",
@@ -200,6 +210,16 @@
          "publishedParsed": "2025-05-21T17:18:52Z"
      },
      {
+         "title": "The curious tale of Bhutan's playable record postage stamps (2015)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44054775\"\u003eComments\u003c/a\u003e",
+         "link": "https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/",
+         "links": [
+             "https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/"
+         ],
+         "published": "Wed, 21 May 2025 18:45:18 +0000",
+         "publishedParsed": "2025-05-21T18:45:18Z"
+     },
+     {
          "title": "Possible new dwarf planet found in our solar system",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44054620\"\u003eComments\u003c/a\u003e",
          "link": "https://www.minorplanetcenter.net/mpec/K25/K25K47.html",
@@ -208,16 +228,6 @@
          ],
          "published": "Wed, 21 May 2025 18:32:24 +0000",
          "publishedParsed": "2025-05-21T18:32:24Z"
-     },
-     {
-         "title": "Dijkstra on Ada",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44057731\"\u003eComments\u003c/a\u003e",
-         "link": "https://craftofcoding.wordpress.com/2014/04/16/dijkstra-on-ada/",
-         "links": [
-             "https://craftofcoding.wordpress.com/2014/04/16/dijkstra-on-ada/"
-         ],
-         "published": "Thu, 22 May 2025 00:56:11 +0000",
-         "publishedParsed": "2025-05-22T00:56:11Z"
      },
      {
          "title": "The Machine Stops (1909)",
@@ -240,6 +250,16 @@
          "publishedParsed": "2025-05-21T17:53:40Z"
      },
      {
+         "title": "Dijkstra on Ada",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44057731\"\u003eComments\u003c/a\u003e",
+         "link": "https://craftofcoding.wordpress.com/2014/04/16/dijkstra-on-ada/",
+         "links": [
+             "https://craftofcoding.wordpress.com/2014/04/16/dijkstra-on-ada/"
+         ],
+         "published": "Thu, 22 May 2025 00:56:11 +0000",
+         "publishedParsed": "2025-05-22T00:56:11Z"
+     },
+     {
          "title": "Sorcerer (YC S24) Is Hiring a Lead Hardware Design Engineer",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44056280\"\u003eComments\u003c/a\u003e",
          "link": "https://jobs.ashbyhq.com/sorcerer/6beb70de-9956-49b7-8e28-f48ea39efac6",
@@ -248,6 +268,16 @@
          ],
          "published": "Wed, 21 May 2025 21:00:11 +0000",
          "publishedParsed": "2025-05-21T21:00:11Z"
+     },
+     {
+         "title": "Ancient reptile footprints are rewriting the history of when animals evolved",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44025033\"\u003eComments\u003c/a\u003e",
+         "link": "https://apnews.com/article/oldest-reptile-footprints-australia-963e3c38c8d5782e7ac20f5405f15f89",
+         "links": [
+             "https://apnews.com/article/oldest-reptile-footprints-australia-963e3c38c8d5782e7ac20f5405f15f89"
+         ],
+         "published": "Sun, 18 May 2025 23:18:51 +0000",
+         "publishedParsed": "2025-05-18T23:18:51Z"
      },
      {
          "title": "Show HN: Confidential computing for high-assurance RISC-V embedded systems",
@@ -260,43 +290,13 @@
          "publishedParsed": "2025-05-21T20:21:06Z"
      },
      {
-         "title": "Show HN: ClipJS – Edit your videos from a PC or phone",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44055542\"\u003eComments\u003c/a\u003e",
-         "link": "https://clipjs.vercel.app/",
+         "title": "Tales from Mainframe Modernization",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44057467\"\u003eComments\u003c/a\u003e",
+         "link": "https://oppi.li/posts/tales_from_mainframe_modernization/",
          "links": [
-             "https://clipjs.vercel.app/"
+             "https://oppi.li/posts/tales_from_mainframe_modernization/"
          ],
-         "published": "Wed, 21 May 2025 19:50:37 +0000",
-         "publishedParsed": "2025-05-21T19:50:37Z"
-     },
-     {
-         "title": "Understanding the Go Scheduler",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44022736\"\u003eComments\u003c/a\u003e",
-         "link": "https://nghiant3223.github.io/2025/04/15/go-scheduler.html",
-         "links": [
-             "https://nghiant3223.github.io/2025/04/15/go-scheduler.html"
-         ],
-         "published": "Sun, 18 May 2025 17:03:55 +0000",
-         "publishedParsed": "2025-05-18T17:03:55Z"
-     },
-     {
-         "title": "ZEUS – A new two-petawatt laser facility at the University of Michigan",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44052418\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/",
-         "links": [
-             "https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/"
-         ],
-         "published": "Wed, 21 May 2025 15:17:10 +0000",
-         "publishedParsed": "2025-05-21T15:17:10Z"
-     },
-     {
-         "title": "Ancient reptile footprints are rewriting the history of when animals evolved",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44025033\"\u003eComments\u003c/a\u003e",
-         "link": "https://apnews.com/article/oldest-reptile-footprints-australia-963e3c38c8d5782e7ac20f5405f15f89",
-         "links": [
-             "https://apnews.com/article/oldest-reptile-footprints-australia-963e3c38c8d5782e7ac20f5405f15f89"
-         ],
-         "published": "Sun, 18 May 2025 23:18:51 +0000",
-         "publishedParsed": "2025-05-18T23:18:51Z"
+         "published": "Thu, 22 May 2025 00:01:46 +0000",
+         "publishedParsed": "2025-05-22T00:01:46Z"
      }
  ]
