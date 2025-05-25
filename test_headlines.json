@@ -1,5 +1,25 @@
 [
      {
+         "title": "Claude 4 System Card",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44085920\"\u003eComments\u003c/a\u003e",
+         "link": "https://simonwillison.net/2025/May/25/claude-4-system-card/",
+         "links": [
+             "https://simonwillison.net/2025/May/25/claude-4-system-card/"
+         ],
+         "published": "Sun, 25 May 2025 06:06:39 +0000",
+         "publishedParsed": "2025-05-25T06:06:39Z"
+     },
+     {
+         "title": "You probably don't need a dependency injection framework",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44086235\"\u003eComments\u003c/a\u003e",
+         "link": "http://rednafi.com/go/di_frameworks_bleh/",
+         "links": [
+             "http://rednafi.com/go/di_frameworks_bleh/"
+         ],
+         "published": "Sun, 25 May 2025 07:41:07 +0000",
+         "publishedParsed": "2025-05-25T07:41:07Z"
+     },
+     {
          "title": "Reinvent the Wheel",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44083467\"\u003eComments\u003c/a\u003e",
          "link": "https://endler.dev/2025/reinvent-the-wheel/",
@@ -30,6 +50,16 @@
          "publishedParsed": "2025-05-25T01:34:54Z"
      },
      {
+         "title": "Google Shows Off Android XR Smart Glasses with In-Lens Display",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44050178\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.macrumors.com/2025/05/20/google-android-xr-smart-glasses/",
+         "links": [
+             "https://www.macrumors.com/2025/05/20/google-android-xr-smart-glasses/"
+         ],
+         "published": "Wed, 21 May 2025 11:01:24 +0000",
+         "publishedParsed": "2025-05-21T11:01:24Z"
+     },
+     {
          "title": "I used o3 to find a remote zeroday in the Linux SMB implementation",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44081338\"\u003eComments\u003c/a\u003e",
          "link": "https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/",
@@ -40,16 +70,6 @@
          "publishedParsed": "2025-05-24T14:25:45Z"
      },
      {
-         "title": "Nvidia Pushes Further into Cloud with GPU Marketplace",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44055454\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.wsj.com/articles/nvidia-pushes-further-into-cloud-with-gpu-marketplace-4fba6bdd",
-         "links": [
-             "https://www.wsj.com/articles/nvidia-pushes-further-into-cloud-with-gpu-marketplace-4fba6bdd"
-         ],
-         "published": "Wed, 21 May 2025 19:43:01 +0000",
-         "publishedParsed": "2025-05-21T19:43:01Z"
-     },
-     {
          "title": "Why old games never die, but new ones do",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44083917\"\u003eComments\u003c/a\u003e",
          "link": "https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/",
@@ -58,6 +78,16 @@
          ],
          "published": "Sat, 24 May 2025 21:29:05 +0000",
          "publishedParsed": "2025-05-24T21:29:05Z"
+     },
+     {
+         "title": "Space is not a wall: toward a less architectural level design",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44050295\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.blog.radiator.debacle.us/2025/05/space-is-not-wall-toward-less.html",
+         "links": [
+             "https://www.blog.radiator.debacle.us/2025/05/space-is-not-wall-toward-less.html"
+         ],
+         "published": "Wed, 21 May 2025 11:27:21 +0000",
+         "publishedParsed": "2025-05-21T11:27:21Z"
      },
      {
          "title": "Tachy0n: The Last 0day Jailbreak",
@@ -90,6 +120,16 @@
          "publishedParsed": "2025-05-24T15:03:37Z"
      },
      {
+         "title": "Nvidia Pushes Further into Cloud with GPU Marketplace",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44055454\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.wsj.com/articles/nvidia-pushes-further-into-cloud-with-gpu-marketplace-4fba6bdd",
+         "links": [
+             "https://www.wsj.com/articles/nvidia-pushes-further-into-cloud-with-gpu-marketplace-4fba6bdd"
+         ],
+         "published": "Wed, 21 May 2025 19:43:01 +0000",
+         "publishedParsed": "2025-05-21T19:43:01Z"
+     },
+     {
          "title": "Show HN: Rotary Phone Dial Linux Kernel Driver",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44080803\"\u003eComments\u003c/a\u003e",
          "link": "https://gitlab.com/sephalon/rotary_dial_kmod",
@@ -100,14 +140,14 @@
          "publishedParsed": "2025-05-24T13:02:00Z"
      },
      {
-         "title": "Contacts let you see in the dark with your eyes closed",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44067711\"\u003eComments\u003c/a\u003e",
-         "link": "https://scitechdaily.com/from-sci-fi-to-superpower-these-contacts-let-you-see-in-the-dark-with-your-eyes-closed/",
+         "title": "Infinite Tool Use",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44086094\"\u003eComments\u003c/a\u003e",
+         "link": "https://snimu.github.io/2025/05/23/infinite-tool-use.html",
          "links": [
-             "https://scitechdaily.com/from-sci-fi-to-superpower-these-contacts-let-you-see-in-the-dark-with-your-eyes-closed/"
+             "https://snimu.github.io/2025/05/23/infinite-tool-use.html"
          ],
-         "published": "Thu, 22 May 2025 22:11:52 +0000",
-         "publishedParsed": "2025-05-22T22:11:52Z"
+         "published": "Sun, 25 May 2025 06:59:34 +0000",
+         "publishedParsed": "2025-05-25T06:59:34Z"
      },
      {
          "title": "The Xenon Death Flash: How a Camera Nearly Killed the Raspberry Pi 2",
@@ -120,14 +160,14 @@
          "publishedParsed": "2025-05-24T12:06:06Z"
      },
      {
-         "title": "Lone coder cracks 50-year puzzle to find Boggle's top-scoring board",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44082892\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ft.com/content/0ab64ced-1ed1-466d-acd3-78510d10c3a1",
+         "title": "Hong Kong's Famous Bamboo Scaffolding Hangs on (For Now)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44080549\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html",
          "links": [
-             "https://www.ft.com/content/0ab64ced-1ed1-466d-acd3-78510d10c3a1"
+             "https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html"
          ],
-         "published": "Sat, 24 May 2025 18:24:05 +0000",
-         "publishedParsed": "2025-05-24T18:24:05Z"
+         "published": "Sat, 24 May 2025 12:08:15 +0000",
+         "publishedParsed": "2025-05-24T12:08:15Z"
      },
      {
          "title": "Using the Apple ][+ with the RetroTink-5X",
@@ -140,14 +180,24 @@
          "publishedParsed": "2025-05-24T21:27:02Z"
      },
      {
-         "title": "Hong Kong's Famous Bamboo Scaffolding Hangs on (For Now)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44080549\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html",
+         "title": "Peer Programming with LLMs, for Senior+ Engineers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44081081\"\u003eComments\u003c/a\u003e",
+         "link": "https://pmbanugo.me/blog/peer-programming-with-llms",
          "links": [
-             "https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html"
+             "https://pmbanugo.me/blog/peer-programming-with-llms"
          ],
-         "published": "Sat, 24 May 2025 12:08:15 +0000",
-         "publishedParsed": "2025-05-24T12:08:15Z"
+         "published": "Sat, 24 May 2025 13:45:02 +0000",
+         "publishedParsed": "2025-05-24T13:45:02Z"
+     },
+     {
+         "title": "Lone coder cracks 50-year puzzle to find Boggle's top-scoring board",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44082892\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ft.com/content/0ab64ced-1ed1-466d-acd3-78510d10c3a1",
+         "links": [
+             "https://www.ft.com/content/0ab64ced-1ed1-466d-acd3-78510d10c3a1"
+         ],
+         "published": "Sat, 24 May 2025 18:24:05 +0000",
+         "publishedParsed": "2025-05-24T18:24:05Z"
      },
      {
          "title": "An Almost Pointless Exercise in GPU Optimization",
@@ -170,16 +220,6 @@
          "publishedParsed": "2025-05-24T20:22:59Z"
      },
      {
-         "title": "Peer Programming with LLMs, for Senior+ Engineers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44081081\"\u003eComments\u003c/a\u003e",
-         "link": "https://pmbanugo.me/blog/peer-programming-with-llms",
-         "links": [
-             "https://pmbanugo.me/blog/peer-programming-with-llms"
-         ],
-         "published": "Sat, 24 May 2025 13:45:02 +0000",
-         "publishedParsed": "2025-05-24T13:45:02Z"
-     },
-     {
          "title": "It is time to stop teaching frequentism to non-statisticians (2012)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44082494\"\u003eComments\u003c/a\u003e",
          "link": "https://arxiv.org/abs/1201.2590",
@@ -188,56 +228,6 @@
          ],
          "published": "Sat, 24 May 2025 17:27:49 +0000",
          "publishedParsed": "2025-05-24T17:27:49Z"
-     },
-     {
-         "title": "Crypto Investor Charged with Kidnapping and Torturing Man for Weeks",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44085188\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nytimes.com/2025/05/24/nyregion/crypto-investor-torture-italian-tourist.html",
-         "links": [
-             "https://www.nytimes.com/2025/05/24/nyregion/crypto-investor-torture-italian-tourist.html"
-         ],
-         "published": "Sun, 25 May 2025 02:55:20 +0000",
-         "publishedParsed": "2025-05-25T02:55:20Z"
-     },
-     {
-         "title": "Personal Computer Origins: The Datapoint 2200",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44050992\"\u003eComments\u003c/a\u003e",
-         "link": "https://thechipletter.substack.com/p/personal-computer-origins-the-datapoint",
-         "links": [
-             "https://thechipletter.substack.com/p/personal-computer-origins-the-datapoint"
-         ],
-         "published": "Wed, 21 May 2025 12:59:40 +0000",
-         "publishedParsed": "2025-05-21T12:59:40Z"
-     },
-     {
-         "title": "Exposed Industrial Control Systems and Honeypots in the Wild [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44082835\"\u003eComments\u003c/a\u003e",
-         "link": "https://gsmaragd.github.io/publications/EuroSP2025-ICS/EuroSP2025-ICS.pdf",
-         "links": [
-             "https://gsmaragd.github.io/publications/EuroSP2025-ICS/EuroSP2025-ICS.pdf"
-         ],
-         "published": "Sat, 24 May 2025 18:14:43 +0000",
-         "publishedParsed": "2025-05-24T18:14:43Z"
-     },
-     {
-         "title": "One of the Most Popular Games on the Planet",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44057606\"\u003eComments\u003c/a\u003e",
-         "link": "https://kotaku.com/grow-a-garden-roblox-5-million-active-users-record-pc-1851781824",
-         "links": [
-             "https://kotaku.com/grow-a-garden-roblox-5-million-active-users-record-pc-1851781824"
-         ],
-         "published": "Thu, 22 May 2025 00:30:28 +0000",
-         "publishedParsed": "2025-05-22T00:30:28Z"
-     },
-     {
-         "title": "AI, Heidegger, and Evangelion",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44081346\"\u003eComments\u003c/a\u003e",
-         "link": "https://fakepixels.substack.com/p/ai-heidegger-and-evangelion",
-         "links": [
-             "https://fakepixels.substack.com/p/ai-heidegger-and-evangelion"
-         ],
-         "published": "Sat, 24 May 2025 14:26:48 +0000",
-         "publishedParsed": "2025-05-24T14:26:48Z"
      },
      {
          "title": "Domain Theory Lecture Notes",
@@ -250,33 +240,53 @@
          "publishedParsed": "2025-05-25T00:07:12Z"
      },
      {
-         "title": "The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44084818\"\u003eComments\u003c/a\u003e",
-         "link": "https://mirari.vitasys.nl/",
+         "title": "Contacts let you see in the dark with your eyes closed",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44067711\"\u003eComments\u003c/a\u003e",
+         "link": "https://scitechdaily.com/from-sci-fi-to-superpower-these-contacts-let-you-see-in-the-dark-with-your-eyes-closed/",
          "links": [
-             "https://mirari.vitasys.nl/"
+             "https://scitechdaily.com/from-sci-fi-to-superpower-these-contacts-let-you-see-in-the-dark-with-your-eyes-closed/"
          ],
-         "published": "Sun, 25 May 2025 01:13:41 +0000",
-         "publishedParsed": "2025-05-25T01:13:41Z"
+         "published": "Thu, 22 May 2025 22:11:52 +0000",
+         "publishedParsed": "2025-05-22T22:11:52Z"
      },
      {
-         "title": "The Verse Calculus: A Core Calculus for Functional Logic Programming [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44083695\"\u003eComments\u003c/a\u003e",
-         "link": "https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf",
+         "title": "Exposed Industrial Control Systems and Honeypots in the Wild [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44082835\"\u003eComments\u003c/a\u003e",
+         "link": "https://gsmaragd.github.io/publications/EuroSP2025-ICS/EuroSP2025-ICS.pdf",
          "links": [
-             "https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf"
+             "https://gsmaragd.github.io/publications/EuroSP2025-ICS/EuroSP2025-ICS.pdf"
          ],
-         "published": "Sat, 24 May 2025 20:43:11 +0000",
-         "publishedParsed": "2025-05-24T20:43:11Z"
+         "published": "Sat, 24 May 2025 18:14:43 +0000",
+         "publishedParsed": "2025-05-24T18:14:43Z"
      },
      {
-         "title": "Trellis (YC W24) Is Hiring founding SDR to help automate healthcare paperwork",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44082307\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/trellis/jobs/7Ru1X1P-founding-sdr",
+         "title": "AI, Heidegger, and Evangelion",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44081346\"\u003eComments\u003c/a\u003e",
+         "link": "https://fakepixels.substack.com/p/ai-heidegger-and-evangelion",
          "links": [
-             "https://www.ycombinator.com/companies/trellis/jobs/7Ru1X1P-founding-sdr"
+             "https://fakepixels.substack.com/p/ai-heidegger-and-evangelion"
          ],
-         "published": "Sat, 24 May 2025 17:01:10 +0000",
-         "publishedParsed": "2025-05-24T17:01:10Z"
+         "published": "Sat, 24 May 2025 14:26:48 +0000",
+         "publishedParsed": "2025-05-24T14:26:48Z"
+     },
+     {
+         "title": "Personal Computer Origins: The Datapoint 2200",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44050992\"\u003eComments\u003c/a\u003e",
+         "link": "https://thechipletter.substack.com/p/personal-computer-origins-the-datapoint",
+         "links": [
+             "https://thechipletter.substack.com/p/personal-computer-origins-the-datapoint"
+         ],
+         "published": "Wed, 21 May 2025 12:59:40 +0000",
+         "publishedParsed": "2025-05-21T12:59:40Z"
+     },
+     {
+         "title": "Microsoft-backed UK tech unicorn Builder.ai collapses into insolvency",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44080640\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ft.com/content/9fdb4e2b-93ea-436d-92e5-fa76ee786caa",
+         "links": [
+             "https://www.ft.com/content/9fdb4e2b-93ea-436d-92e5-fa76ee786caa"
+         ],
+         "published": "Sat, 24 May 2025 12:27:51 +0000",
+         "publishedParsed": "2025-05-24T12:27:51Z"
      }
  ]
