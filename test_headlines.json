@@ -1,13 +1,23 @@
 [
      {
-         "title": "Plwm – An X11 window manager written in Prolog",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44089424\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Seeker04/plwm",
+         "title": "Ten Years of JSON Web Token and Preparing for the Future",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44092102\"\u003eComments\u003c/a\u003e",
+         "link": "https://self-issued.info/?p=2708",
          "links": [
-             "https://github.com/Seeker04/plwm"
+             "https://self-issued.info/?p=2708"
          ],
-         "published": "Sun, 25 May 2025 17:41:11 +0000",
-         "publishedParsed": "2025-05-25T17:41:11Z"
+         "published": "Sun, 25 May 2025 23:05:36 +0000",
+         "publishedParsed": "2025-05-25T23:05:36Z"
+     },
+     {
+         "title": "Open Source Society University – Path to a free self-taught education in CS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44089150\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/ossu/computer-science",
+         "links": [
+             "https://github.com/ossu/computer-science"
+         ],
+         "published": "Sun, 25 May 2025 17:06:55 +0000",
+         "publishedParsed": "2025-05-25T17:06:55Z"
      },
      {
          "title": "Ask HN: What are you working on? (May 2025)",
@@ -20,6 +30,16 @@
          "publishedParsed": "2025-05-25T19:36:58Z"
      },
      {
+         "title": "Plwm – An X11 window manager written in Prolog",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44089424\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/Seeker04/plwm",
+         "links": [
+             "https://github.com/Seeker04/plwm"
+         ],
+         "published": "Sun, 25 May 2025 17:41:11 +0000",
+         "publishedParsed": "2025-05-25T17:41:11Z"
+     },
+     {
          "title": "Lottie is an open format for animated vector graphics",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44088216\"\u003eComments\u003c/a\u003e",
          "link": "https://lottie.github.io/",
@@ -28,16 +48,6 @@
          ],
          "published": "Sun, 25 May 2025 14:45:47 +0000",
          "publishedParsed": "2025-05-25T14:45:47Z"
-     },
-     {
-         "title": "Path to a free self-taught education in Computer Science",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44089150\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/ossu/computer-science",
-         "links": [
-             "https://github.com/ossu/computer-science"
-         ],
-         "published": "Sun, 25 May 2025 17:06:55 +0000",
-         "publishedParsed": "2025-05-25T17:06:55Z"
      },
      {
          "title": "Writing your own CUPS printer driver in 100 lines of Python (2018)",
@@ -50,14 +60,14 @@
          "publishedParsed": "2025-05-25T15:52:48Z"
      },
      {
-         "title": "Lisping at JPL (2002)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44059994\"\u003eComments\u003c/a\u003e",
-         "link": "https://flownet.com/gat/jpl-lisp.html",
+         "title": "Chomsky on what ChatGPT is good for (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44089156\"\u003eComments\u003c/a\u003e",
+         "link": "https://chomsky.info/20230503-2/",
          "links": [
-             "https://flownet.com/gat/jpl-lisp.html"
+             "https://chomsky.info/20230503-2/"
          ],
-         "published": "Thu, 22 May 2025 08:31:36 +0000",
-         "publishedParsed": "2025-05-22T08:31:36Z"
+         "published": "Sun, 25 May 2025 17:07:58 +0000",
+         "publishedParsed": "2025-05-25T17:07:58Z"
      },
      {
          "title": "Claude 4 System Card",
@@ -68,6 +78,36 @@
          ],
          "published": "Sun, 25 May 2025 06:06:39 +0000",
          "publishedParsed": "2025-05-25T06:06:39Z"
+     },
+     {
+         "title": "Lisping at JPL (2002)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44059994\"\u003eComments\u003c/a\u003e",
+         "link": "https://flownet.com/gat/jpl-lisp.html",
+         "links": [
+             "https://flownet.com/gat/jpl-lisp.html"
+         ],
+         "published": "Thu, 22 May 2025 08:31:36 +0000",
+         "publishedParsed": "2025-05-22T08:31:36Z"
+     },
+     {
+         "title": "Advice to Tenstorrent",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44091410\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/geohot/tt-tiny",
+         "links": [
+             "https://github.com/geohot/tt-tiny"
+         ],
+         "published": "Sun, 25 May 2025 21:37:59 +0000",
+         "publishedParsed": "2025-05-25T21:37:59Z"
+     },
+     {
+         "title": "Trading with Claude, and writing your own MCP server",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44061614\"\u003eComments\u003c/a\u003e",
+         "link": "https://dangelov.com/blog/trading-with-claude/",
+         "links": [
+             "https://dangelov.com/blog/trading-with-claude/"
+         ],
+         "published": "Thu, 22 May 2025 12:59:34 +0000",
+         "publishedParsed": "2025-05-22T12:59:34Z"
      },
      {
          "title": "Koog, a Kotlin-based framework to build and run Al agents in idiomatic Kotlin",
@@ -130,24 +170,24 @@
          "publishedParsed": "2025-05-25T00:37:08Z"
      },
      {
-         "title": "Trading with Claude (and writing your own MCP server)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44061614\"\u003eComments\u003c/a\u003e",
-         "link": "https://dangelov.com/blog/trading-with-claude/",
+         "title": "We broke down the Sam Altman and Jony Ive video",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44092019\"\u003eComments\u003c/a\u003e",
+         "link": "https://sfstandard.com/2025/05/23/sam-altman-jony-ive-video/",
          "links": [
-             "https://dangelov.com/blog/trading-with-claude/"
+             "https://sfstandard.com/2025/05/23/sam-altman-jony-ive-video/"
          ],
-         "published": "Thu, 22 May 2025 12:59:34 +0000",
-         "publishedParsed": "2025-05-22T12:59:34Z"
+         "published": "Sun, 25 May 2025 22:54:18 +0000",
+         "publishedParsed": "2025-05-25T22:54:18Z"
      },
      {
-         "title": "Wrench Attacks: Physical attacks targeting cryptocurrency users (2024) [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44087183\"\u003eComments\u003c/a\u003e",
-         "link": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.24/LIPIcs.AFT.2024.24.pdf",
+         "title": "You Can Choose Tools That Make You Happy",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44059023\"\u003eComments\u003c/a\u003e",
+         "link": "https://borretti.me/article/you-can-choose-tools-that-make-you-happy",
          "links": [
-             "https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.24/LIPIcs.AFT.2024.24.pdf"
+             "https://borretti.me/article/you-can-choose-tools-that-make-you-happy"
          ],
-         "published": "Sun, 25 May 2025 11:56:16 +0000",
-         "publishedParsed": "2025-05-25T11:56:16Z"
+         "published": "Thu, 22 May 2025 05:24:56 +0000",
+         "publishedParsed": "2025-05-22T05:24:56Z"
      },
      {
          "title": "Martin (YC S23) Is Hiring Founding AI/Product Engineers to Build a Better Siri",
@@ -160,14 +200,14 @@
          "publishedParsed": "2025-05-25T17:00:38Z"
      },
      {
-         "title": "Is TfL losing the battle against heat on the Victoria line?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44086530\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.swlondoner.co.uk/news/16052025-is-tfl-losing-the-battle-against-heat-on-the-victoria-line",
+         "title": "Wrench Attacks: Physical attacks targeting cryptocurrency users (2024) [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44087183\"\u003eComments\u003c/a\u003e",
+         "link": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.24/LIPIcs.AFT.2024.24.pdf",
          "links": [
-             "https://www.swlondoner.co.uk/news/16052025-is-tfl-losing-the-battle-against-heat-on-the-victoria-line"
+             "https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.24/LIPIcs.AFT.2024.24.pdf"
          ],
-         "published": "Sun, 25 May 2025 09:01:34 +0000",
-         "publishedParsed": "2025-05-25T09:01:34Z"
+         "published": "Sun, 25 May 2025 11:56:16 +0000",
+         "publishedParsed": "2025-05-25T11:56:16Z"
      },
      {
          "title": "'Strange metals' point to a whole new way to understand electricity",
@@ -188,16 +228,6 @@
          ],
          "published": "Fri, 23 May 2025 06:27:18 +0000",
          "publishedParsed": "2025-05-23T06:27:18Z"
-     },
-     {
-         "title": "Show HN: SVG Animation Software",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44087049\"\u003eComments\u003c/a\u003e",
-         "link": "https://expressive.app/expressive-animator/",
-         "links": [
-             "https://expressive.app/expressive-animator/"
-         ],
-         "published": "Sun, 25 May 2025 11:21:22 +0000",
-         "publishedParsed": "2025-05-25T11:21:22Z"
      },
      {
          "title": "On File Formats",
@@ -228,45 +258,5 @@
          ],
          "published": "Fri, 23 May 2025 12:14:22 +0000",
          "publishedParsed": "2025-05-23T12:14:22Z"
-     },
-     {
-         "title": "Programming on 34 Keys (2022)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44087373\"\u003eComments\u003c/a\u003e",
-         "link": "https://oppi.li/posts/programming_on_34_keys/",
-         "links": [
-             "https://oppi.li/posts/programming_on_34_keys/"
-         ],
-         "published": "Sun, 25 May 2025 12:35:30 +0000",
-         "publishedParsed": "2025-05-25T12:35:30Z"
-     },
-     {
-         "title": "Show HN: Wall Go – browser remake of a Devil's Plan 2 mini-game",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44088248\"\u003eComments\u003c/a\u003e",
-         "link": "https://schaoss.github.io/wall-go/",
-         "links": [
-             "https://schaoss.github.io/wall-go/"
-         ],
-         "published": "Sun, 25 May 2025 14:49:46 +0000",
-         "publishedParsed": "2025-05-25T14:49:46Z"
-     },
-     {
-         "title": "Show HN: AI Baby Monitor – local Video-LLM that beeps when safety rules break",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44051386\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/zeenolife/ai-baby-monitor",
-         "links": [
-             "https://github.com/zeenolife/ai-baby-monitor"
-         ],
-         "published": "Wed, 21 May 2025 13:43:48 +0000",
-         "publishedParsed": "2025-05-21T13:43:48Z"
-     },
-     {
-         "title": "The Newark airport crisis",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44089134\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theverge.com/planes/673462/newark-airport-delay-air-traffic-control-tracon-radar",
-         "links": [
-             "https://www.theverge.com/planes/673462/newark-airport-delay-air-traffic-control-tracon-radar"
-         ],
-         "published": "Sun, 25 May 2025 17:04:54 +0000",
-         "publishedParsed": "2025-05-25T17:04:54Z"
      }
  ]
