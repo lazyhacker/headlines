@@ -1,6 +1,66 @@
 [
      {
-         "title": "Bagel: The Open-Source Unified Multimodal Model",
+         "title": "Particle Life simulation in browser using WebGPU",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44096808\"\u003eComments\u003c/a\u003e",
+         "link": "https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html",
+         "links": [
+             "https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html"
+         ],
+         "published": "Mon, 26 May 2025 12:28:12 +0000",
+         "publishedParsed": "2025-05-26T12:28:12Z"
+     },
+     {
+         "title": "The double standard of webhook security and API security",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44096251\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.speakeasy.com/blog/webhook-security",
+         "links": [
+             "https://www.speakeasy.com/blog/webhook-security"
+         ],
+         "published": "Mon, 26 May 2025 11:18:59 +0000",
+         "publishedParsed": "2025-05-26T11:18:59Z"
+     },
+     {
+         "title": "Show HN: A minimalist web timer for focus and time tracking",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44095176\"\u003eComments\u003c/a\u003e",
+         "link": "https://iamlockedin.com/",
+         "links": [
+             "https://iamlockedin.com/"
+         ],
+         "published": "Mon, 26 May 2025 08:16:20 +0000",
+         "publishedParsed": "2025-05-26T08:16:20Z"
+     },
+     {
+         "title": "Jjui – A Nice TUI for Jujutsu",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44093334\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/idursun/jjui",
+         "links": [
+             "https://github.com/idursun/jjui"
+         ],
+         "published": "Mon, 26 May 2025 02:16:20 +0000",
+         "publishedParsed": "2025-05-26T02:16:20Z"
+     },
+     {
+         "title": "Ten years of JSON Web Token and preparing for the future",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44092102\"\u003eComments\u003c/a\u003e",
+         "link": "https://self-issued.info/?p=2708",
+         "links": [
+             "https://self-issued.info/?p=2708"
+         ],
+         "published": "Sun, 25 May 2025 23:05:36 +0000",
+         "publishedParsed": "2025-05-25T23:05:36Z"
+     },
+     {
+         "title": "Open Source Society University – Path to a free self-taught education in CS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44089150\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/ossu/computer-science",
+         "links": [
+             "https://github.com/ossu/computer-science"
+         ],
+         "published": "Sun, 25 May 2025 17:06:55 +0000",
+         "publishedParsed": "2025-05-25T17:06:55Z"
+     },
+     {
+         "title": "Bagel: Open-source unified multimodal model",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44094362\"\u003eComments\u003c/a\u003e",
          "link": "https://bagel-ai.org/",
          "links": [
@@ -20,24 +80,14 @@
          "publishedParsed": "2025-05-26T07:41:24Z"
      },
      {
-         "title": "Lieferando.de has captured 5.7% of restaurant related domain names",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44095250\"\u003eComments\u003c/a\u003e",
-         "link": "https://mondaybits.com/lieferando-captured-6-percent-of-restaurant-related-domain-names/",
+         "title": "Venta AI (YC S23) Is Hiring a Founding Full Stack Engineer in Amsterdam",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44095608\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer",
          "links": [
-             "https://mondaybits.com/lieferando-captured-6-percent-of-restaurant-related-domain-names/"
+             "https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer"
          ],
-         "published": "Mon, 26 May 2025 08:27:41 +0000",
-         "publishedParsed": "2025-05-26T08:27:41Z"
-     },
-     {
-         "title": "Ten years of JSON Web Token and preparing for the future",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44092102\"\u003eComments\u003c/a\u003e",
-         "link": "https://self-issued.info/?p=2708",
-         "links": [
-             "https://self-issued.info/?p=2708"
-         ],
-         "published": "Sun, 25 May 2025 23:05:36 +0000",
-         "publishedParsed": "2025-05-25T23:05:36Z"
+         "published": "Mon, 26 May 2025 09:31:51 +0000",
+         "publishedParsed": "2025-05-26T09:31:51Z"
      },
      {
          "title": "Google shared my phone number",
@@ -50,24 +100,34 @@
          "publishedParsed": "2025-05-26T05:34:38Z"
      },
      {
-         "title": "jjui – A Nice TUI for Jujutsu",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44093334\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/idursun/jjui",
+         "title": "How Does Claude 4 Think? – Sholto Douglas and Trenton Bricken",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44070324\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.dwarkesh.com/p/sholto-trenton-2",
          "links": [
-             "https://github.com/idursun/jjui"
+             "https://www.dwarkesh.com/p/sholto-trenton-2"
          ],
-         "published": "Mon, 26 May 2025 02:16:20 +0000",
-         "publishedParsed": "2025-05-26T02:16:20Z"
+         "published": "Fri, 23 May 2025 06:08:12 +0000",
+         "publishedParsed": "2025-05-23T06:08:12Z"
      },
      {
-         "title": "Open Source Society University – Path to a free self-taught education in CS",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44089150\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/ossu/computer-science",
+         "title": "Violating memory safety with Haskell's value restriction",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44062576\"\u003eComments\u003c/a\u003e",
+         "link": "https://welltypedwit.ch/posts/value-restriction",
          "links": [
-             "https://github.com/ossu/computer-science"
+             "https://welltypedwit.ch/posts/value-restriction"
          ],
-         "published": "Sun, 25 May 2025 17:06:55 +0000",
-         "publishedParsed": "2025-05-25T17:06:55Z"
+         "published": "Thu, 22 May 2025 14:42:03 +0000",
+         "publishedParsed": "2025-05-22T14:42:03Z"
+     },
+     {
+         "title": "At Amazon, some coders say their jobs have begun to resemble warehouse work",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44087150\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html",
+         "links": [
+             "https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html"
+         ],
+         "published": "Sun, 25 May 2025 11:48:30 +0000",
+         "publishedParsed": "2025-05-25T11:48:30Z"
      },
      {
          "title": "Ask HN: What are you working on? (May 2025)",
@@ -80,26 +140,6 @@
          "publishedParsed": "2025-05-25T19:36:58Z"
      },
      {
-         "title": "Venta AI (YC S23) Is Hiring a Founding Full Stack Engineer in Amsterdam",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44095608\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer",
-         "links": [
-             "https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer"
-         ],
-         "published": "Mon, 26 May 2025 09:31:51 +0000",
-         "publishedParsed": "2025-05-26T09:31:51Z"
-     },
-     {
-         "title": "Ask HN: Anyone struggling to get value out of coding LLMs?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44095189\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=44095189",
-         "links": [
-             "https://news.ycombinator.com/item?id=44095189"
-         ],
-         "published": "Mon, 26 May 2025 08:17:53 +0000",
-         "publishedParsed": "2025-05-26T08:17:53Z"
-     },
-     {
          "title": "Lottie is an open format for animated vector graphics",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44088216\"\u003eComments\u003c/a\u003e",
          "link": "https://lottie.github.io/",
@@ -108,16 +148,6 @@
          ],
          "published": "Sun, 25 May 2025 14:45:47 +0000",
          "publishedParsed": "2025-05-25T14:45:47Z"
-     },
-     {
-         "title": "At Amazon, some coders say their jobs have begun to resemble warehouse work",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44087150\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html",
-         "links": [
-             "https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html"
-         ],
-         "published": "Sun, 25 May 2025 11:48:30 +0000",
-         "publishedParsed": "2025-05-25T11:48:30Z"
      },
      {
          "title": "Remote Prompt Injection in Gitlab Duo Leads to Source Code Theft",
@@ -140,26 +170,6 @@
          "publishedParsed": "2025-05-25T17:41:11Z"
      },
      {
-         "title": "Show HN: A minimalist web timer for focus and time tracking",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44095176\"\u003eComments\u003c/a\u003e",
-         "link": "https://iamlockedin.com/",
-         "links": [
-             "https://iamlockedin.com/"
-         ],
-         "published": "Mon, 26 May 2025 08:16:20 +0000",
-         "publishedParsed": "2025-05-26T08:16:20Z"
-     },
-     {
-         "title": "The truth about soft plastic recycling points",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44095360\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.everydayplastic.org/softplastic",
-         "links": [
-             "https://www.everydayplastic.org/softplastic"
-         ],
-         "published": "Mon, 26 May 2025 08:47:49 +0000",
-         "publishedParsed": "2025-05-26T08:47:49Z"
-     },
-     {
          "title": "Writing your own CUPS printer driver in 100 lines of Python (2018)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44088682\"\u003eComments\u003c/a\u003e",
          "link": "https://behind.pretix.eu/2018/01/20/cups-driver/",
@@ -168,6 +178,16 @@
          ],
          "published": "Sun, 25 May 2025 15:52:48 +0000",
          "publishedParsed": "2025-05-25T15:52:48Z"
+     },
+     {
+         "title": "Lieferando.de has captured 5.7% of restaurant related domain names",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44095250\"\u003eComments\u003c/a\u003e",
+         "link": "https://mondaybits.com/lieferando-captured-6-percent-of-restaurant-related-domain-names/",
+         "links": [
+             "https://mondaybits.com/lieferando-captured-6-percent-of-restaurant-related-domain-names/"
+         ],
+         "published": "Mon, 26 May 2025 08:27:41 +0000",
+         "publishedParsed": "2025-05-26T08:27:41Z"
      },
      {
          "title": "Whippet GC notes on Guile, heuristics, and heap growth",
@@ -190,26 +210,6 @@
          "publishedParsed": "2025-05-22T12:59:34Z"
      },
      {
-         "title": "Lisping at JPL (2002)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44059994\"\u003eComments\u003c/a\u003e",
-         "link": "https://flownet.com/gat/jpl-lisp.html",
-         "links": [
-             "https://flownet.com/gat/jpl-lisp.html"
-         ],
-         "published": "Thu, 22 May 2025 08:31:36 +0000",
-         "publishedParsed": "2025-05-22T08:31:36Z"
-     },
-     {
-         "title": "How Does Claude 4 Think? – Sholto Douglas and Trenton Bricken",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44070324\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.dwarkesh.com/p/sholto-trenton-2",
-         "links": [
-             "https://www.dwarkesh.com/p/sholto-trenton-2"
-         ],
-         "published": "Fri, 23 May 2025 06:08:12 +0000",
-         "publishedParsed": "2025-05-23T06:08:12Z"
-     },
-     {
          "title": "CAPTCHAs are over (in ticketing)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44084677\"\u003eComments\u003c/a\u003e",
          "link": "https://behind.pretix.eu/2025/05/23/captchas-are-over/",
@@ -218,6 +218,16 @@
          ],
          "published": "Sun, 25 May 2025 00:37:08 +0000",
          "publishedParsed": "2025-05-25T00:37:08Z"
+     },
+     {
+         "title": "'Strange metals' point to a whole new way to understand electricity",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44074211\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity",
+         "links": [
+             "https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity"
+         ],
+         "published": "Fri, 23 May 2025 16:24:26 +0000",
+         "publishedParsed": "2025-05-23T16:24:26Z"
      },
      {
          "title": "Design Pressure: The Invisible Hand That Shapes Your Code",
@@ -240,24 +250,24 @@
          "publishedParsed": "2025-05-23T01:31:40Z"
      },
      {
-         "title": "'Strange metals' point to a whole new way to understand electricity",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44074211\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity",
+         "title": "Lisping at JPL (2002)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44059994\"\u003eComments\u003c/a\u003e",
+         "link": "https://flownet.com/gat/jpl-lisp.html",
          "links": [
-             "https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity"
+             "https://flownet.com/gat/jpl-lisp.html"
          ],
-         "published": "Fri, 23 May 2025 16:24:26 +0000",
-         "publishedParsed": "2025-05-23T16:24:26Z"
+         "published": "Thu, 22 May 2025 08:31:36 +0000",
+         "publishedParsed": "2025-05-22T08:31:36Z"
      },
      {
-         "title": "Show HN: DaedalOS – Desktop Environment in the Browser",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44088777\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/DustinBrett/daedalOS",
+         "title": "Ask HN: Anyone struggling to get value out of coding LLMs?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44095189\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=44095189",
          "links": [
-             "https://github.com/DustinBrett/daedalOS"
+             "https://news.ycombinator.com/item?id=44095189"
          ],
-         "published": "Sun, 25 May 2025 16:06:12 +0000",
-         "publishedParsed": "2025-05-25T16:06:12Z"
+         "published": "Mon, 26 May 2025 08:17:53 +0000",
+         "publishedParsed": "2025-05-26T08:17:53Z"
      },
      {
          "title": "Writing a Self-Mutating x86_64 C Program (2013)",
@@ -270,23 +280,13 @@
          "publishedParsed": "2025-05-25T17:00:26Z"
      },
      {
-         "title": "Show HN: Zli – A Batteries-Included CLI Framework for Zig",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44089054\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/xcaeser/zli",
+         "title": "$1M Revenue, $0 Profit: Our D2C Reality Check",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44096662\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.indiehackers.com/post/1m-revenue-0-profit-our-d2c-reality-check-66e1d61d28",
          "links": [
-             "https://github.com/xcaeser/zli"
+             "https://www.indiehackers.com/post/1m-revenue-0-profit-our-d2c-reality-check-66e1d61d28"
          ],
-         "published": "Sun, 25 May 2025 16:52:14 +0000",
-         "publishedParsed": "2025-05-25T16:52:14Z"
-     },
-     {
-         "title": "Chomsky on what ChatGPT is good for (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44089156\"\u003eComments\u003c/a\u003e",
-         "link": "https://chomsky.info/20230503-2/",
-         "links": [
-             "https://chomsky.info/20230503-2/"
-         ],
-         "published": "Sun, 25 May 2025 17:07:58 +0000",
-         "publishedParsed": "2025-05-25T17:07:58Z"
+         "published": "Mon, 26 May 2025 12:10:07 +0000",
+         "publishedParsed": "2025-05-26T12:10:07Z"
      }
  ]
