@@ -458,41 +458,38 @@
          }
      },
      {
-         "title": "Sonic Detectives Want to Help SpaceX Listen Up",
-         "description": "Physicists who record rocket launches and landings are learning important facts about the acoustics of spaceflight.",
-         "link": "https://www.nytimes.com/2025/05/26/science/rocket-launch-noise.html",
+         "title": "How North Korea Botched Its Warship Launch",
+         "description": "Satellite images and videos show how launching a 5,000-ton warship into the water sideways can cause it to capsize if done incorrectly.",
+         "link": "https://www.nytimes.com/2025/05/27/world/asia/north-korea-warship-destroyer.html",
          "links": [
-             "https://www.nytimes.com/2025/05/26/science/rocket-launch-noise.html"
+             "https://www.nytimes.com/2025/05/27/world/asia/north-korea-warship-destroyer.html"
          ],
-         "published": "Tue, 27 May 2025 00:41:22 +0000",
-         "publishedParsed": "2025-05-27T00:41:22Z",
+         "published": "Tue, 27 May 2025 06:14:55 +0000",
+         "publishedParsed": "2025-05-27T06:14:55Z",
          "author": {
-             "name": "Kenneth Chang and Jonathan Corum"
+             "name": "Choe Sang-Hun and Jiawei Wang"
          },
          "authors": [
              {
-                 "name": "Kenneth Chang and Jonathan Corum"
+                 "name": "Choe Sang-Hun and Jiawei Wang"
              }
          ],
-         "guid": "https://www.nytimes.com/2025/05/26/science/rocket-launch-noise.html",
-         "image": {
-             "url": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-27-rocket-noise-embed-index/2025-05-27-rocket-noise-embed-index-mediumSquareAt3X.jpg"
-         },
+         "guid": "https://www.nytimes.com/2025/05/27/world/asia/north-korea-warship-destroyer.html",
          "categories": [
-             "Gee, Kent",
-             "Rocket Science and Propulsion",
-             "Noise",
-             "Acoustics",
-             "Private Spaceflight",
-             "Space Exploration Technologies Corp",
-             "Physics",
-             "Space and Astronomy",
-             "Ears and Hearing",
-             "Research"
+             "North Korea",
+             "Defense and Military Forces",
+             "Ships and Shipping",
+             "Kim Jong-un",
+             "Satellites",
+             "Politics and Government",
+             "Engineering and Engineers",
+             "Center for Strategic and International Studies",
+             "Institute for Policy Studies",
+             "vis-video"
          ],
          "dcExt": {
              "creator": [
-                 "Kenneth Chang and Jonathan Corum"
+                 "Choe Sang-Hun and Jiawei Wang"
              ]
          },
          "extensions": {
@@ -502,7 +499,7 @@
                          "name": "link",
                          "value": "",
                          "attrs": {
-                             "href": "https://www.nytimes.com/2025/05/26/science/rocket-launch-noise.html",
+                             "href": "https://www.nytimes.com/2025/05/27/world/asia/north-korea-warship-destroyer.html",
                              "rel": "standout"
                          },
                          "children": {}
@@ -513,30 +510,7 @@
                  "creator": [
                      {
                          "name": "creator",
-                         "value": "Kenneth Chang and Jonathan Corum",
-                         "attrs": {},
-                         "children": {}
-                     }
-                 ]
-             },
-             "media": {
-                 "content": [
-                     {
-                         "name": "content",
-                         "value": "",
-                         "attrs": {
-                             "height": "1000",
-                             "medium": "image",
-                             "url": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-27-rocket-noise-embed-index/2025-05-27-rocket-noise-embed-index-mediumSquareAt3X.jpg",
-                             "width": "1000"
-                         },
-                         "children": {}
-                     }
-                 ],
-                 "credit": [
-                     {
-                         "name": "credit",
-                         "value": "The New York Times",
+                         "value": "Choe Sang-Hun and Jiawei Wang",
                          "attrs": {},
                          "children": {}
                      }
@@ -721,6 +695,93 @@
                      {
                          "name": "description",
                          "value": "The Orleans Parish Justice Center, where 10 inmates made a brazen escape, last week.",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ]
+             }
+         }
+     },
+     {
+         "title": "Sonic Detectives Want to Help SpaceX Listen Up",
+         "description": "Physicists who record rocket launches and landings are learning important facts about the acoustics of spaceflight.",
+         "link": "https://www.nytimes.com/2025/05/26/science/rocket-launch-noise.html",
+         "links": [
+             "https://www.nytimes.com/2025/05/26/science/rocket-launch-noise.html"
+         ],
+         "published": "Tue, 27 May 2025 00:41:22 +0000",
+         "publishedParsed": "2025-05-27T00:41:22Z",
+         "author": {
+             "name": "Kenneth Chang and Jonathan Corum"
+         },
+         "authors": [
+             {
+                 "name": "Kenneth Chang and Jonathan Corum"
+             }
+         ],
+         "guid": "https://www.nytimes.com/2025/05/26/science/rocket-launch-noise.html",
+         "image": {
+             "url": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-27-rocket-noise-embed-index/2025-05-27-rocket-noise-embed-index-mediumSquareAt3X.jpg"
+         },
+         "categories": [
+             "Gee, Kent",
+             "Rocket Science and Propulsion",
+             "Noise",
+             "Acoustics",
+             "Private Spaceflight",
+             "Space Exploration Technologies Corp",
+             "Physics",
+             "Space and Astronomy",
+             "Ears and Hearing",
+             "Research"
+         ],
+         "dcExt": {
+             "creator": [
+                 "Kenneth Chang and Jonathan Corum"
+             ]
+         },
+         "extensions": {
+             "atom": {
+                 "link": [
+                     {
+                         "name": "link",
+                         "value": "",
+                         "attrs": {
+                             "href": "https://www.nytimes.com/2025/05/26/science/rocket-launch-noise.html",
+                             "rel": "standout"
+                         },
+                         "children": {}
+                     }
+                 ]
+             },
+             "dc": {
+                 "creator": [
+                     {
+                         "name": "creator",
+                         "value": "Kenneth Chang and Jonathan Corum",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ]
+             },
+             "media": {
+                 "content": [
+                     {
+                         "name": "content",
+                         "value": "",
+                         "attrs": {
+                             "height": "1000",
+                             "medium": "image",
+                             "url": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-27-rocket-noise-embed-index/2025-05-27-rocket-noise-embed-index-mediumSquareAt3X.jpg",
+                             "width": "1000"
+                         },
+                         "children": {}
+                     }
+                 ],
+                 "credit": [
+                     {
+                         "name": "credit",
+                         "value": "The New York Times",
                          "attrs": {},
                          "children": {}
                      }
@@ -1296,6 +1357,54 @@
          ]
      },
      {
+         "title": "2 dead, 9 hurt in mass shooting in Fairmount Park",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/p_pio\"\u003e /u/p_pio \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.nbcphiladelphia.com/news/local/fairmount-park-police-activity-shooting-memorial-day-philadelphia/4194340/\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1kwg1uq/2_dead_9_hurt_in_mass_shooting_in_fairmount_park/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1kwg1uq/2_dead_9_hurt_in_mass_shooting_in_fairmount_park/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1kwg1uq/2_dead_9_hurt_in_mass_shooting_in_fairmount_park/"
+         ],
+         "updated": "2025-05-27T06:06:52+00:00",
+         "updatedParsed": "2025-05-27T06:06:52Z",
+         "published": "2025-05-27T06:06:52+00:00",
+         "publishedParsed": "2025-05-27T06:06:52Z",
+         "author": {
+             "name": "/u/p_pio"
+         },
+         "authors": [
+             {
+                 "name": "/u/p_pio"
+             }
+         ],
+         "guid": "t3_1kwg1uq",
+         "categories": [
+             "r/news"
+         ]
+     },
+     {
+         "title": "11 hospitalized, including 2 kids, after boat explosion in Florida",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/Mrk2d\"\u003e /u/Mrk2d \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.nbcnews.com/news/us-news/11-hospitalized-2-kids-boat-explosion-florida-rcna209138\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1kwfhb2/11_hospitalized_including_2_kids_after_boat/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1kwfhb2/11_hospitalized_including_2_kids_after_boat/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1kwfhb2/11_hospitalized_including_2_kids_after_boat/"
+         ],
+         "updated": "2025-05-27T05:30:49+00:00",
+         "updatedParsed": "2025-05-27T05:30:49Z",
+         "published": "2025-05-27T05:30:49+00:00",
+         "publishedParsed": "2025-05-27T05:30:49Z",
+         "author": {
+             "name": "/u/Mrk2d"
+         },
+         "authors": [
+             {
+                 "name": "/u/Mrk2d"
+             }
+         ],
+         "guid": "t3_1kwfhb2",
+         "categories": [
+             "r/news"
+         ]
+     },
+     {
          "title": "WWII bomber crash left 11 dead and ‘non-recoverable.’ 4 are finally coming home",
          "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/AudibleNod\"\u003e /u/AudibleNod \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://apnews.com/article/american-bomber-wwii-remains-divers-212ba07efdab40941f09026c79fdb5c0\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1kvwlda/wwii_bomber_crash_left_11_dead_and_nonrecoverable/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
          "link": "https://www.reddit.com/r/news/comments/1kvwlda/wwii_bomber_crash_left_11_dead_and_nonrecoverable/",
@@ -1368,6 +1477,30 @@
          ]
      },
      {
+         "title": "Nepal's 'Everest Man' sets record with 31st summit",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/InspectionComplex592\"\u003e /u/InspectionComplex592 \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.bbc.com/news/articles/cm2y70xknnyo\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1kwfhv0/nepals_everest_man_sets_record_with_31st_summit/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1kwfhv0/nepals_everest_man_sets_record_with_31st_summit/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1kwfhv0/nepals_everest_man_sets_record_with_31st_summit/"
+         ],
+         "updated": "2025-05-27T05:31:44+00:00",
+         "updatedParsed": "2025-05-27T05:31:44Z",
+         "published": "2025-05-27T05:31:44+00:00",
+         "publishedParsed": "2025-05-27T05:31:44Z",
+         "author": {
+             "name": "/u/InspectionComplex592"
+         },
+         "authors": [
+             {
+                 "name": "/u/InspectionComplex592"
+             }
+         ],
+         "guid": "t3_1kwfhv0",
+         "categories": [
+             "r/news"
+         ]
+     },
+     {
          "title": "At least 11 hospitalized after shooting in South Carolina: Police",
          "content": "\u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://abcnews.go.com/US/11-hospitalized-after-shooting-river-south-carolina-police/story?id=122186737\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1kvl43e/at_least_11_hospitalized_after_shooting_in_south/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
          "link": "https://www.reddit.com/r/news/comments/1kvl43e/at_least_11_hospitalized_after_shooting_in_south/",
@@ -1379,6 +1512,30 @@
          "published": "2025-05-26T04:01:43+00:00",
          "publishedParsed": "2025-05-26T04:01:43Z",
          "guid": "t3_1kvl43e",
+         "categories": [
+             "r/news"
+         ]
+     },
+     {
+         "title": "Deputies fatally shoot Florida man who survived apparent gator attack and tried to steal their gun, sheriff says",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/Mrk2d\"\u003e /u/Mrk2d \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.nbcnews.com/news/us-news/deputies-fatally-shoot-florida-man-gator-attack-tried-steal-gun-rcna209128\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1kwgolf/deputies_fatally_shoot_florida_man_who_survived/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1kwgolf/deputies_fatally_shoot_florida_man_who_survived/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1kwgolf/deputies_fatally_shoot_florida_man_who_survived/"
+         ],
+         "updated": "2025-05-27T06:49:05+00:00",
+         "updatedParsed": "2025-05-27T06:49:05Z",
+         "published": "2025-05-27T06:49:05+00:00",
+         "publishedParsed": "2025-05-27T06:49:05Z",
+         "author": {
+             "name": "/u/Mrk2d"
+         },
+         "authors": [
+             {
+                 "name": "/u/Mrk2d"
+             }
+         ],
+         "guid": "t3_1kwgolf",
          "categories": [
              "r/news"
          ]
@@ -1456,6 +1613,30 @@
          ]
      },
      {
+         "title": "US arrests man for allegedly trying to firebomb embassy in Israel",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/paulfromatlanta\"\u003e /u/paulfromatlanta \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.bbc.com/news/articles/c780n71rr24o\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1kvbvfh/us_arrests_man_for_allegedly_trying_to_firebomb/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1kvbvfh/us_arrests_man_for_allegedly_trying_to_firebomb/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1kvbvfh/us_arrests_man_for_allegedly_trying_to_firebomb/"
+         ],
+         "updated": "2025-05-25T20:12:40+00:00",
+         "updatedParsed": "2025-05-25T20:12:40Z",
+         "published": "2025-05-25T20:12:40+00:00",
+         "publishedParsed": "2025-05-25T20:12:40Z",
+         "author": {
+             "name": "/u/paulfromatlanta"
+         },
+         "authors": [
+             {
+                 "name": "/u/paulfromatlanta"
+             }
+         ],
+         "guid": "t3_1kvbvfh",
+         "categories": [
+             "r/news"
+         ]
+     },
+     {
          "title": "Second suspected sabotage in France as power cut hits Nice, affecting 45,000 homes",
          "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/Mrk2d\"\u003e /u/Mrk2d \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.bbc.com/news/articles/c20xvnge3qno\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1kv3hq3/second_suspected_sabotage_in_france_as_power_cut/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
          "link": "https://www.reddit.com/r/news/comments/1kv3hq3/second_suspected_sabotage_in_france_as_power_cut/",
@@ -1475,6 +1656,54 @@
              }
          ],
          "guid": "t3_1kv3hq3",
+         "categories": [
+             "r/news"
+         ]
+     },
+     {
+         "title": "Illinois prosecutors weigh hate crime charges after lesbian attacked at McDonald's",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/apple_kicks\"\u003e /u/apple_kicks \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.cbsnews.com/chicago/news/kane-county-prosecutors-hate-crime-investigation-mcdonalds-attack-carpentersville/\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1kuwsc1/illinois_prosecutors_weigh_hate_crime_charges/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1kuwsc1/illinois_prosecutors_weigh_hate_crime_charges/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1kuwsc1/illinois_prosecutors_weigh_hate_crime_charges/"
+         ],
+         "updated": "2025-05-25T07:26:01+00:00",
+         "updatedParsed": "2025-05-25T07:26:01Z",
+         "published": "2025-05-25T07:26:01+00:00",
+         "publishedParsed": "2025-05-25T07:26:01Z",
+         "author": {
+             "name": "/u/apple_kicks"
+         },
+         "authors": [
+             {
+                 "name": "/u/apple_kicks"
+             }
+         ],
+         "guid": "t3_1kuwsc1",
+         "categories": [
+             "r/news"
+         ]
+     },
+     {
+         "title": "North Korea detains 3 shipyard officials over the failed launch of a naval destroyer",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/AudibleNod\"\u003e /u/AudibleNod \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://apnews.com/article/north-korea-destroyer-officials-detained-kim-928e3e9461c799a10eb2258f99507c11\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1kv1ghb/north_korea_detains_3_shipyard_officials_over_the/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1kv1ghb/north_korea_detains_3_shipyard_officials_over_the/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1kv1ghb/north_korea_detains_3_shipyard_officials_over_the/"
+         ],
+         "updated": "2025-05-25T12:33:33+00:00",
+         "updatedParsed": "2025-05-25T12:33:33Z",
+         "published": "2025-05-25T12:33:33+00:00",
+         "publishedParsed": "2025-05-25T12:33:33Z",
+         "author": {
+             "name": "/u/AudibleNod"
+         },
+         "authors": [
+             {
+                 "name": "/u/AudibleNod"
+             }
+         ],
+         "guid": "t3_1kv1ghb",
          "categories": [
              "r/news"
          ]
@@ -1504,140 +1733,59 @@
          ]
      },
      {
-         "title": "Russia hits Ukraine with massive drone, missile barrage amid prisoner exchange",
-         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/Afraid_Swordfish4915\"\u003e /u/Afraid_Swordfish4915 \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://abcnews.go.com/International/russia-hits-ukraine-massive-drone-missile-barrage-amid/story?id=122173886\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1kv5f1z/russia_hits_ukraine_with_massive_drone_missile/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
-         "link": "https://www.reddit.com/r/news/comments/1kv5f1z/russia_hits_ukraine_with_massive_drone_missile/",
+         "title": "Police say Liverpool parade collision not terrorism - ESPN",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNMkNtaWg4aUQ2T1lReTB3cWZLWVJLemhpVEFYRUpPazU2QnpILWFGaE1CdDZXa2E1YzJxX2VFeFhfSGk5eU5pMzAwQTJDR2k2blg1MWFLbnRyeHM0T2Q2eFFydVJHWENRSkR6YWNDd09Ba2VwZ1duS0hCNG93TTUySmhKb25OSGh1UHFaUGd3SExodjdSdTM4YVRMZ1ZkYTRvdW9N?oc=5\" target=\"_blank\"\u003ePolice say Liverpool parade collision not terrorism\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eESPN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNc3pzUG1lb1RLNGtSS0N3VFh3d1lpb3RPR2J5bXFLVEd1NG03RUNNN0pXc0wxQWNXb0tTaUpodGNGVE1SbWlqYXhGMkoySUNuY2VkZFpVakswWnBjUGxERGRXTTVRVlhkQTJEOWdMdGFsTmZVNWdUbnQxUU9Ga1BmY25QX2hqNGZzWVR6UmlEbkotUWpMVVg1ZGV3eEZKS210Y0E?oc=5\" target=\"_blank\"\u003eLiverpool parade collision: driver arrested as city grapples with shock – latest updates\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Guardian\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNeUpJb0hpeVExMWR0S1RJaEluQTc4OE9zdl9xZTRWYTd1UzBYTnJ4NjRGZGo5cjBodnAxYVlGMFZNMXRZZkU3WXpQSktYT05GMUJXeXFUVTMybTdkVGNEdEpLVmhSUklwNUNfbW5WUEpYbXZBMDFZS3ppcVBHSGZ5dzBJTUVqUXdNRGc?oc=5\" target=\"_blank\"\u003eWhat to Know About the Liverpool FC Parade Car Crash\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQeHdaX1c4NC1yUUZzYUFadGZqWjJPekE1d2tUTHhiN1RxaEt4OUNQallkZE4zS0IxMjNjYTFRN3lGR21IdGV6NktkWFBaWWZYa1NrcXZmMzRZTEplY09Hb3ZvdTBqejZGQVRYczgxODhxQ25GNGNOQ1NXelJCMkI3Nm04MGcwQ3FpV3lIRHVCTEJ4dzE1dnFXMlV6Tk9JWFlRSVhr?oc=5\" target=\"_blank\"\u003eChildren among 47 injured after car drives into Liverpool crowd\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQamV4QjIwa09kZnBZcVhoSVRDd0ttLWRlRFZOdE5oaU1KV0psSVFsSHA5Zk9mNmVTVURHYlJYclJnYUFoZTFnYUl2cW13M0did1BRaTFDMV8zSVFLUzl1dC11U2FoajVRQTRZdmZFSzFFQXNlVTNqTXJ5bnJkYkx1SlZab1NDMlN6c3IwLWJLY1A4Qm0wZVFj?oc=5\" target=\"_blank\"\u003eLeBron James Reacts After Liverpool Parade Crash Injures 47\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNewsweek\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMkNtaWg4aUQ2T1lReTB3cWZLWVJLemhpVEFYRUpPazU2QnpILWFGaE1CdDZXa2E1YzJxX2VFeFhfSGk5eU5pMzAwQTJDR2k2blg1MWFLbnRyeHM0T2Q2eFFydVJHWENRSkR6YWNDd09Ba2VwZ1duS0hCNG93TTUySmhKb25OSGh1UHFaUGd3SExodjdSdTM4YVRMZ1ZkYTRvdW9N?oc=5",
          "links": [
-             "https://www.reddit.com/r/news/comments/1kv5f1z/russia_hits_ukraine_with_massive_drone_missile/"
+             "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMkNtaWg4aUQ2T1lReTB3cWZLWVJLemhpVEFYRUpPazU2QnpILWFGaE1CdDZXa2E1YzJxX2VFeFhfSGk5eU5pMzAwQTJDR2k2blg1MWFLbnRyeHM0T2Q2eFFydVJHWENRSkR6YWNDd09Ba2VwZ1duS0hCNG93TTUySmhKb25OSGh1UHFaUGd3SExodjdSdTM4YVRMZ1ZkYTRvdW9N?oc=5"
          ],
-         "updated": "2025-05-25T15:36:06+00:00",
-         "updatedParsed": "2025-05-25T15:36:06Z",
-         "published": "2025-05-25T15:36:06+00:00",
-         "publishedParsed": "2025-05-25T15:36:06Z",
-         "author": {
-             "name": "/u/Afraid_Swordfish4915"
-         },
-         "authors": [
-             {
-                 "name": "/u/Afraid_Swordfish4915"
-             }
-         ],
-         "guid": "t3_1kv5f1z",
-         "categories": [
-             "r/news"
-         ]
+         "published": "Tue, 27 May 2025 06:20:00 GMT",
+         "publishedParsed": "2025-05-27T06:20:00Z",
+         "guid": "CBMiowFBVV95cUxNMkNtaWg4aUQ2T1lReTB3cWZLWVJLemhpVEFYRUpPazU2QnpILWFGaE1CdDZXa2E1YzJxX2VFeFhfSGk5eU5pMzAwQTJDR2k2blg1MWFLbnRyeHM0T2Q2eFFydVJHWENRSkR6YWNDd09Ba2VwZ1duS0hCNG93TTUySmhKb25OSGh1UHFaUGd3SExodjdSdTM4YVRMZ1ZkYTRvdW9N"
      },
      {
-         "title": "Actor Jussie Smollett to pay $50,000 to Chicago charity",
-         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/AudibleNod\"\u003e /u/AudibleNod \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.bbc.com/news/articles/c2lke8l980no\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1kupr9m/actor_jussie_smollett_to_pay_50000_to_chicago/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
-         "link": "https://www.reddit.com/r/news/comments/1kupr9m/actor_jussie_smollett_to_pay_50000_to_chicago/",
+         "title": "How North Korea Botched the Launch of a Warship - The New York Times",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxORXNKb0wtZUx1NEFuQy1fVnF5dG1zUV9sajJId3J6R3NtcEZIWEktWlR4VTNjX2E4ZmlFQTYyZkZVek9Sdlh5Nmh2QjlqWklyNFQzTlhxdzd2eWh6bWZxUFpGYVVLdWwweURRdjdQV2ltOHZ6enB5Ykd6WnQ4Q2dMMHFvWGRuX1E?oc=5\" target=\"_blank\"\u003eHow North Korea Botched the Launch of a Warship\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNeDBWU2NjcEZnUnI1d0cxMm1ncjNPN0NKWUFBOEQ1OW44bG1INS1DenJua1lCZUpBNzlIZXQ2aWZkajhBRzB2QV8yanVGUUtxSzFQNTdINjVYd2JRdEtGQ0JZVHg2RXNteHhwRVh4emhGLXVRNmZqZ2x5TlpsWVl2SkRlaXhWSnQ0Y0tfaEg3Ykh2MTctcmYwQlBUYlc?oc=5\" target=\"_blank\"\u003eFailed Launch and Damage of the Second Guided Missile Destroyer\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBeyond Parallel\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQRjBMVXdNNTNibWozMTRRT3FVRUg1cFN6UlJoTUUzZUlfLXZsLUhaXzVHXy1uY25DeDVONV9xZHJzWDRILXdPaFpuUjhsd29iS2FxQVdsVW9LNXp0YWVGcUhORVNTeHE3VGFDcERTUnFKWnU1VmR1WC1FN1pmS0NjOXE5MHd5emZQc0dLSThEMmFicktWYVZsctIBngFBVV95cUxPNk5pbldVZnNUV2gtdTVqYWJrbkV6anVPajF6Nm94OGhPcnhRd3UycWtuNW40STI5X0ZFNm1XNzdCeEo4dzU0Tml6VEVOTUlFUmwxeWE3bzdXSHFHbTRQMW1VeHdqUHVYTnZMVm1MMXNYQWZ5VmMyR05zNWhBYjZyLVM1UU41WjEybWN3WGhsc1lVaTJsVDY3NTFuMWNDZw?oc=5\" target=\"_blank\"\u003eKim Jong Un fumes as North Korea's new warship damaged due to \"absolute carelessness\" in launch accident\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCBS News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQbnJDN0w0ZUZWYjkwZ0xOazhidThQcFFTTDE4WHdnM2ZUeTVPMnR1QTNZc19rT2liLXZWQ1pyTDJ5S01yMWtINVpmWVZ6MjZPV3JTVmlTVEtqRXNob2N6dlJ1ZmV1SWZKUTNHOF9HZk9rZThxQkFwMDczN3hsWEg5YlpvY0VxUnhVM0NEdTV1dlNoTXAwdGgwcw?oc=5\" target=\"_blank\"\u003eWhy Kim Jong Un Can’t Accept Failure With His Warships\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWSJ\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPVFh4MnpDN1praUNTWWk1MGM2b1dPRmhYQjMzUFo5Zm55M3VkSllURVcwbkRsZDJPOFF6Yno5cWREZUY5alNuTUtfQnBicTd5LWMtUHpfZXJTcmIzamVsdEc5dV9BaENMRndaNkNxZzV3N0dmSDZYSmZYS3F5d2w4bnF3OThQUQ?oc=5\" target=\"_blank\"\u003eNorth Korea detains 4 officials over failed warship launch\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAxios\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORXNKb0wtZUx1NEFuQy1fVnF5dG1zUV9sajJId3J6R3NtcEZIWEktWlR4VTNjX2E4ZmlFQTYyZkZVek9Sdlh5Nmh2QjlqWklyNFQzTlhxdzd2eWh6bWZxUFpGYVVLdWwweURRdjdQV2ltOHZ6enB5Ykd6WnQ4Q2dMMHFvWGRuX1E?oc=5",
          "links": [
-             "https://www.reddit.com/r/news/comments/1kupr9m/actor_jussie_smollett_to_pay_50000_to_chicago/"
+             "https://news.google.com/rss/articles/CBMihwFBVV95cUxORXNKb0wtZUx1NEFuQy1fVnF5dG1zUV9sajJId3J6R3NtcEZIWEktWlR4VTNjX2E4ZmlFQTYyZkZVek9Sdlh5Nmh2QjlqWklyNFQzTlhxdzd2eWh6bWZxUFpGYVVLdWwweURRdjdQV2ltOHZ6enB5Ykd6WnQ4Q2dMMHFvWGRuX1E?oc=5"
          ],
-         "updated": "2025-05-25T00:19:15+00:00",
-         "updatedParsed": "2025-05-25T00:19:15Z",
-         "published": "2025-05-25T00:19:15+00:00",
-         "publishedParsed": "2025-05-25T00:19:15Z",
-         "author": {
-             "name": "/u/AudibleNod"
-         },
-         "authors": [
-             {
-                 "name": "/u/AudibleNod"
-             }
-         ],
-         "guid": "t3_1kupr9m",
-         "categories": [
-             "r/news"
-         ]
+         "published": "Tue, 27 May 2025 06:14:55 GMT",
+         "publishedParsed": "2025-05-27T06:14:55Z",
+         "guid": "CBMihwFBVV95cUxORXNKb0wtZUx1NEFuQy1fVnF5dG1zUV9sajJId3J6R3NtcEZIWEktWlR4VTNjX2E4ZmlFQTYyZkZVek9Sdlh5Nmh2QjlqWklyNFQzTlhxdzd2eWh6bWZxUFpGYVVLdWwweURRdjdQV2ltOHZ6enB5Ykd6WnQ4Q2dMMHFvWGRuX1E"
      },
      {
-         "title": "Car ploughs into football fans at Liverpool parade, 27 in hospital - Al Jazeera",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOVm40OEhUa0c5RU5xVWg0S05ZMjFaY0x5bVVYWTVSVzJnRzkxMDhDZndhYmJXbk1MTG9IektYbzk1Rlc2LXJmYUZ0dUVyN3Z4Z0pxRldZMWtCb1kyT2tMN0JYQ2pGQ25fVEpDVDlvdzd5T2k2US02cl9qWHN3LXN4MnI1am82NngyM3V4WGIxVDg0LUdFVlNLVFVFV0E2WmVSTmUzdVJ5X0x6MUxrdzg40gG0AUFVX3lxTFBncUlKbkVuVDRISHI2SGZnYmdET2Y3Z1c2TVp3dlRFRUNLbW96UVc0d2ttQVhaWjZWaGFLa19fLUx0UHVBVnZnQXhnZ3ZmbUNFb0hUZlk5c2JFUGk1MmxaUzBVZjF0dU5lclp0REZSZV8wMGFVZ0VDdkxhem9hZW5DdUpaSVR2WjF4dUlrbk51aTJQbDVVRmJBZk5lcTRSanB4dUw0MFBzX2R5U1dTek15Vktxeg?oc=5\" target=\"_blank\"\u003eCar ploughs into football fans at Liverpool parade, 27 in hospital\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAl Jazeera\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNMkNtaWg4aUQ2T1lReTB3cWZLWVJLemhpVEFYRUpPazU2QnpILWFGaE1CdDZXa2E1YzJxX2VFeFhfSGk5eU5pMzAwQTJDR2k2blg1MWFLbnRyeHM0T2Q2eFFydVJHWENRSkR6YWNDd09Ba2VwZ1duS0hCNG93TTUySmhKb25OSGh1UHFaUGd3SExodjdSdTM4YVRMZ1ZkYTRvdW9N?oc=5\" target=\"_blank\"\u003ePolice say Liverpool parade collision not terrorism\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eESPN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQk5UWlU3ZTRocHhOcXF5TW1yUExtTFdUWnQ0eVY4VzE3SnVVM0dreWVuT21SU2lTcUpDWGtaVEZhQjl0R2dVbUZaVktyY08wWFZlRWg3WmdPXzR1aURCNmZLUjJkbXU3UEZ6V05UdXFlOVBfT3lnUnp0OFVTMDNSS3dPZUhUYW1pVWNfa0hCcFh4U0QxcVlvN0ZsRXI3YnM2dVRjUzdpWHpvRGlvZWM1S3N2eE1PRFhPRnppQWtONzRkUGRmU25EQUJNZFdBQUFwa2lrZVFoel9WQ3hNQ1V3Ri0xVlBYWmVSQjMyaS1SRVN6bG9wM3lqTmFOa3g4UdIBgwJBVV95cUxPWGNWNTU5bmV6RnZQZFNFbTlfNkhpZDhnMGtfX2JrdkRJQy1OZllmQ0N5OEpBV19ZRmZUamFMVURGdTliTzgxNUEtdmo0UkQ5Q1lrUnAxT2NtQ1ZuNThtQndQV0J3TEVKUjktcV9MRE5MMG1QVGNFV0VNUURFckpSdUQzT0VPYWd1UkI5cWpISjlKU0ZQRDVDdEFRRmhWTVdLM1F1Mi1WUXJRVkZqYkRYbUJkbWUtRzNTUnFWYUxrMWhwdm04YS1pM1VIT19sT0ZaY1haLXNRWFNuZ201QURVVmJVMlloNkF3RnUxZ0NxUVR4UXpDWDJOZnh1MTl3eDNDVEZJ?oc=5\" target=\"_blank\"\u003eMorning news wrap: Car ploughs into crowd in Liverpool, Mumbai sees earliest southwest monsoon; and more\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eTimes of India\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tc29OSEdyZGNXcGJoNUE1LWJxdXZxcV9Pa0xvZ2hwVzNjb0Q4dE4tbEJGRVRYN0d1bHdkYTFlQ19tVFBvRjBES3d6MXRVZlZaMjFXcA?oc=5\" target=\"_blank\"\u003eLiverpool parade latest: Child and adult seriously hurt and dozens more injured after car ploughs into Liverpool crowd\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBBC\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNeUpJb0hpeVExMWR0S1RJaEluQTc4OE9zdl9xZTRWYTd1UzBYTnJ4NjRGZGo5cjBodnAxYVlGMFZNMXRZZkU3WXpQSktYT05GMUJXeXFUVTMybTdkVGNEdEpLVmhSUklwNUNfbW5WUEpYbXZBMDFZS3ppcVBHSGZ5dzBJTUVqUXdNRGc?oc=5\" target=\"_blank\"\u003eWhat to Know About the Liverpool FC Parade Car Crash\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVm40OEhUa0c5RU5xVWg0S05ZMjFaY0x5bVVYWTVSVzJnRzkxMDhDZndhYmJXbk1MTG9IektYbzk1Rlc2LXJmYUZ0dUVyN3Z4Z0pxRldZMWtCb1kyT2tMN0JYQ2pGQ25fVEpDVDlvdzd5T2k2US02cl9qWHN3LXN4MnI1am82NngyM3V4WGIxVDg0LUdFVlNLVFVFV0E2WmVSTmUzdVJ5X0x6MUxrdzg40gG0AUFVX3lxTFBncUlKbkVuVDRISHI2SGZnYmdET2Y3Z1c2TVp3dlRFRUNLbW96UVc0d2ttQVhaWjZWaGFLa19fLUx0UHVBVnZnQXhnZ3ZmbUNFb0hUZlk5c2JFUGk1MmxaUzBVZjF0dU5lclp0REZSZV8wMGFVZ0VDdkxhem9hZW5DdUpaSVR2WjF4dUlrbk51aTJQbDVVRmJBZk5lcTRSanB4dUw0MFBzX2R5U1dTek15Vktxeg?oc=5",
+         "title": "3 more New Orleans inmates captured today, leaving 2 at large - CNN",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE84Y25GYnYwTW85UDFBV1Vmd29SejN6TkdQdjZGUXc4X01xcGhWQkV1cFc3aDhEMUo5UHVIT054UlVVZHZmMU5pUjE0dnJhT0U3MmU4dXRESWFlSlhONUFSZENMN3NFU3JpUGp6RENnTmfSAXZBVV95cUxOMlJVYzdSM2lHS1gtM1VScjAyaEhUSFk2TWZMenFzeXZmYlFPSmxVVFg1NFMzRC00M2xBaXktQWZZdktGT2FtR1owc3YyQ0o1UVlrSy1MWk9FRDBxSVJwTXRYSVFXZzZwX056dmhiRFctM3plWHlR?oc=5\" target=\"_blank\"\u003e3 more New Orleans inmates captured today, leaving 2 at large\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPaDJUMkF4T2l3cVUzZkF0SG9BUTh2WDRkVllwdmpxaThUbWRjbTZ5VTFxTVY5SF9mWW9IbDgtZ19fNFBid1VHN0F0N3U3UXViRjFiZ1NJSW1fd1dfbnpjNEIyOER1TGJhcEtPX3RVS0ZvYmhnMFNQY2JaQW9YTENkeVp2MTJPV0phWm5nQ0tiVi0wa293SnRzTVV0NkdYaWVKMWlNbkNqd1VwV3BmSHhpNlpldUlvam0zakVvVTd4Y21LLVZLWXJ2MGNjVF94a2dFVFJiRldqS2paUXRlVHMySm1ZUURBSUx5TV9VOE45LXMxRTFlNHNncUIzRlpRV3UySEY4MjV5SQ?oc=5\" target=\"_blank\"\u003eDay 11: Eight inmates captured, two still at large\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003ewwltv.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0tYVmF5Q19HNms1TzlKRUFNcE1rdFo0RVI2Sk9SVXNKUjQwZFVCbnRvaHpiNFl2VWszaEY5dUwzTFltajZtU1RHTjU1MUpuWVBUMDZ1TG9LTEJ3TXQzRVEwUDlmRk9sdE00ZFJYTWxRNXlOTTZTZ09uczdHdE9qVUEyZnV3eDJmTWlMZnprS3VCdEdjanl4UGlONA?oc=5\" target=\"_blank\"\u003eEscaped New Orleans inmates captured as manhunt for last pair continues\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Independent\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVGpySWU0SndXYzhNMk1PamJWZVU2MmtOeFN4M0FUUy1KOE5SNWMxSUFsVlNKSFNiOHl6em90MDdjWS1nQlpzdzlJcjl3QXVMVDBlR2x6RGtSLVZlUVhFX3p5TTJuekljY3pEZ1JpN1ZhampPcDNrVlFpcTRrOVo2RHBJclJndkJZTVcyRGVNWG9Sak9pQmxYQWR6UGhRQnFTV2QwSlNJTFJnQkdKa2luSjk5dEpIU0pIQVAxRGNJbkFZUQ?oc=5\" target=\"_blank\"\u003eFamily of Derrick Groves hope he will turn himself in; he and one other remain on loose\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWDSU\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5XcENpMTR0cVBNdi1ZSVBtajB0TGZ6X0lJcXE3bkNfYUs2eUZ2UFRleXJiYk43VmFpdllsLS1sdndHTTZDaERUTVNJMmNnS3JoYjFDZjIxdzdVUHpkMTAyM256MzJ5UUw4SFBYLURlSFlVM0J3b2VsWlB3?oc=5\" target=\"_blank\"\u003e3 more escapees from a New Orleans jail are caught, leaving 2 at large, officials say\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNPR\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84Y25GYnYwTW85UDFBV1Vmd29SejN6TkdQdjZGUXc4X01xcGhWQkV1cFc3aDhEMUo5UHVIT054UlVVZHZmMU5pUjE0dnJhT0U3MmU4dXRESWFlSlhONUFSZENMN3NFU3JpUGp6RENnTmfSAXZBVV95cUxOMlJVYzdSM2lHS1gtM1VScjAyaEhUSFk2TWZMenFzeXZmYlFPSmxVVFg1NFMzRC00M2xBaXktQWZZdktGT2FtR1owc3YyQ0o1UVlrSy1MWk9FRDBxSVJwTXRYSVFXZzZwX056dmhiRFctM3plWHlR?oc=5",
          "links": [
-             "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVm40OEhUa0c5RU5xVWg0S05ZMjFaY0x5bVVYWTVSVzJnRzkxMDhDZndhYmJXbk1MTG9IektYbzk1Rlc2LXJmYUZ0dUVyN3Z4Z0pxRldZMWtCb1kyT2tMN0JYQ2pGQ25fVEpDVDlvdzd5T2k2US02cl9qWHN3LXN4MnI1am82NngyM3V4WGIxVDg0LUdFVlNLVFVFV0E2WmVSTmUzdVJ5X0x6MUxrdzg40gG0AUFVX3lxTFBncUlKbkVuVDRISHI2SGZnYmdET2Y3Z1c2TVp3dlRFRUNLbW96UVc0d2ttQVhaWjZWaGFLa19fLUx0UHVBVnZnQXhnZ3ZmbUNFb0hUZlk5c2JFUGk1MmxaUzBVZjF0dU5lclp0REZSZV8wMGFVZ0VDdkxhem9hZW5DdUpaSVR2WjF4dUlrbk51aTJQbDVVRmJBZk5lcTRSanB4dUw0MFBzX2R5U1dTek15Vktxeg?oc=5"
+             "https://news.google.com/rss/articles/CBMicEFVX3lxTE84Y25GYnYwTW85UDFBV1Vmd29SejN6TkdQdjZGUXc4X01xcGhWQkV1cFc3aDhEMUo5UHVIT054UlVVZHZmMU5pUjE0dnJhT0U3MmU4dXRESWFlSlhONUFSZENMN3NFU3JpUGp6RENnTmfSAXZBVV95cUxOMlJVYzdSM2lHS1gtM1VScjAyaEhUSFk2TWZMenFzeXZmYlFPSmxVVFg1NFMzRC00M2xBaXktQWZZdktGT2FtR1owc3YyQ0o1UVlrSy1MWk9FRDBxSVJwTXRYSVFXZzZwX056dmhiRFctM3plWHlR?oc=5"
          ],
-         "published": "Tue, 27 May 2025 01:30:00 GMT",
-         "publishedParsed": "2025-05-27T01:30:00Z",
-         "guid": "CBMirwFBVV95cUxOVm40OEhUa0c5RU5xVWg0S05ZMjFaY0x5bVVYWTVSVzJnRzkxMDhDZndhYmJXbk1MTG9IektYbzk1Rlc2LXJmYUZ0dUVyN3Z4Z0pxRldZMWtCb1kyT2tMN0JYQ2pGQ25fVEpDVDlvdzd5T2k2US02cl9qWHN3LXN4MnI1am82NngyM3V4WGIxVDg0LUdFVlNLVFVFV0E2WmVSTmUzdVJ5X0x6MUxrdzg40gG0AUFVX3lxTFBncUlKbkVuVDRISHI2SGZnYmdET2Y3Z1c2TVp3dlRFRUNLbW96UVc0d2ttQVhaWjZWaGFLa19fLUx0UHVBVnZnQXhnZ3ZmbUNFb0hUZlk5c2JFUGk1MmxaUzBVZjF0dU5lclp0REZSZV8wMGFVZ0VDdkxhem9hZW5DdUpaSVR2WjF4dUlrbk51aTJQbDVVRmJBZk5lcTRSanB4dUw0MFBzX2R5U1dTek15Vktxeg"
+         "published": "Tue, 27 May 2025 02:54:00 GMT",
+         "publishedParsed": "2025-05-27T02:54:00Z",
+         "guid": "CBMicEFVX3lxTE84Y25GYnYwTW85UDFBV1Vmd29SejN6TkdQdjZGUXc4X01xcGhWQkV1cFc3aDhEMUo5UHVIT054UlVVZHZmMU5pUjE0dnJhT0U3MmU4dXRESWFlSlhONUFSZENMN3NFU3JpUGp6RENnTmfSAXZBVV95cUxOMlJVYzdSM2lHS1gtM1VScjAyaEhUSFk2TWZMenFzeXZmYlFPSmxVVFg1NFMzRC00M2xBaXktQWZZdktGT2FtR1owc3YyQ0o1UVlrSy1MWk9FRDBxSVJwTXRYSVFXZzZwX056dmhiRFctM3plWHlR"
      },
      {
-         "title": "Deadly strikes hit Gaza as new aid group says it has begun distributing food - The Washington Post",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNMXdTNldqal9YN21HeWw4eU1vX18tZ0duYkJIUGJCbU91aU4xd3ViS0xzbDZ2Ni1LbnFTWGVPX3JHQUh6ZVY5U0E5LUE5OFAwTm1nalk4aG8wcHJfSmFWYTBfZEVvbWJGZWlzSWJXby01NE85UWZiZ2JJall4WFQ5UDNDLVNINnhKOE5ieEQxZlRGVlhGb2c?oc=5\" target=\"_blank\"\u003eDeadly strikes hit Gaza as new aid group says it has begun distributing food\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Washington Post\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0lPY3dOQm1CbjlOYVhDTy1ORTRabjZzOUItTzNLWjhOV092Ym43LUdSR1VOdEJObUJaaW12QVJqSUVybTVJRmF3UHplUWMteDBMX2RUOFpXSlhJQ0xxQ2ExRXo3Xy1UZUZ4am5EQ0RucExBV3BsS1pJUlp4NWxGZjFQY0hQb29ENXMzbXZ3?oc=5\" target=\"_blank\"\u003eGaza Humanitarian Foundation Head, Jake Wood, Resigns\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWko2LVlGOFZFTjhGQmp1S1hHclJEOUdVSVptUlBhYWIwdEl1ZXJrVHJnTk5qNHc4SXUtdWhqVU10V1ZlVGxzME5vOG5zdTRoSFo4RXBaYlNvRWppcVA1bGpySXh4Z1hmUnFKQVZNZkZrMEpqamhtWnQzVWtQZXlUSDg3anZQbzI1cWxkQkZ0ZFJTUXZhYXVfaTViN3R5SDZ2OXcweWlXREEtZ9IBrwFBVV95cUxNQmFnS3gwUjR2dHFuaGxrZFpabFVZcWpNbmsycFNSSHJiajdOQk5wd09HMzN5X0IyRUc0Q3BVQzhmNDI5RVlHd1Z0c2czTzB5SkhwYmhxVmJwazhnbFZBUklUcTJHd0pVQlplaEtHNEZkYk1zbnVhU1ZtUi1NR09ubHlVMXFBOFM3YjRBNXpkRjRqX0FVWnVXTWQzeE10cnRROF9mdVM3a0hvdExERkhV?oc=5\" target=\"_blank\"\u003eLapid suggests Israel is funding foreign ‘shell companies’ distributing Gaza aid\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Times of Israel\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQMDZiUjZKMG9HNUViZ1IyaHlxdlpPTk5OMHk0N1pjS1h1WFNtQ2REOHgxdW44dElwdUxOMnpYa2lGMVBXWEVXd2lsb0xXY2l1Z2tPcEFQSERTQTk4ZE1BSkxKRUU5eDQxbDM3VWdMcTF1U3QxOV91UUI5WWQ0cmR0cm5Zb25LaFZTcGh2WDVjeXdhNGdLcHI3b1d3eklKRktaaGVfdG1OdXA5eDE5aURUVDNaQy1vdmpSQm9pZnpFN1NhNnhhbFd3?oc=5\" target=\"_blank\"\u003eUS-backed aid group begins Gaza operations as airstrikes kill dozens\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eReuters\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQUW5wMTJMOUx1NllHNmtrV29MSGx0cUFkQjl1V2d2X1NrcXdXMC05N0U5WVVseU43SXQ3UkNydnBZaWFyWktBT2FOYlBEcEJUTm0zRVBCZ3VfQy1TTnJhVDAwTUs0V2lwNUV0Z2p6aHRJaktFcHFiVmhYcFphY3FUcXRiX2t4UHRqcXMwNk42Sm0zZnJfcWlWWDBfRThLbmlNb21LNjdYUDNWeXJ6SzI0XzMzWjdUMzk0V2c?oc=5\" target=\"_blank\"\u003eHow is the new Gaza aid plan supposed to work -- and why are so many aid groups against it?\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAP News\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMXdTNldqal9YN21HeWw4eU1vX18tZ0duYkJIUGJCbU91aU4xd3ViS0xzbDZ2Ni1LbnFTWGVPX3JHQUh6ZVY5U0E5LUE5OFAwTm1nalk4aG8wcHJfSmFWYTBfZEVvbWJGZWlzSWJXby01NE85UWZiZ2JJall4WFQ5UDNDLVNINnhKOE5ieEQxZlRGVlhGb2c?oc=5",
+         "title": "Former Gateway police chief, serving murder sentence, escapes from Arkansas prison - KHBS",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPVVZ1bldQNDdTbFAzV1N1Mno0NlM2aTlXTFpMZ2NidzlwSDIzbFMzTlpDQkNHdl9aZGFyeWtBbl9tYjBUMEVVdVFQaE15aDV5UVdQcVhxcWJGa0E0X09GRkdzNk03MDFGWnNHbE9TOGRWODBHY2ZseS01ZERHckJsZUJkY3NZYmE4QzI5Nmx2TFhjcjRkQk4xZjlwakdESDZXVUlqOVJxWVBiTXVaTFJWMDI4RnBDekZtRFQxeQ?oc=5\" target=\"_blank\"\u003eFormer Gateway police chief, serving murder sentence, escapes from Arkansas prison\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eKHBS\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzZtOVFkWURaT2NxT0xTRjB4RTZwVlk3ZFE2ZS1JaXpuRmR3UmNjRlFONV9haEc1aElsMFdJdWJNX3BrU0FCQmcyX3RBMWtneVhsTkJnazl2ZEgzUTBCa1U3TkF1UXg3d2NRT24yb1NUNFVRdDBXS3M2dF9nTmkycTA5NWE?oc=5\" target=\"_blank\"\u003eFormer Police Chief Imprisoned for Murder and Rape Escapes From Arkansas Prison\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPSjQtcnZDYjN2cG51aW9jV2V4b0c3S2oxWVY5VzZ2Y0I2WlQtLWhmNXRYVDdCX2U5UFdxX0VRUi0wNkJzMTNHUW1fMFdrUlFBWTVzQlE5RVl2dnJZU25YSHFaNk9NRS1ub2I0cE1QMm5TUGdXTHV5Q0k3ZzBYSVpOaDZFc3c?oc=5\" target=\"_blank\"\u003eManhunt underway for former police chief who escaped prison\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eYahoo\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOSjRibTZBbHZfck51UTNJb2xpVnZCNEEzMmg0a0ZfUFBYZ3VON3NBeE56NDZETzFTUVN0Q2dIeDVzR0Q4a0FpU3pROVk3bWFzRldiTWZFMVNwd3NVZFpPU1hZNDBoN0MtWS16eXJzcHZhUERlQ2RWRHZXYy01SUI3Mi1TbTFNbjFjeC1aNDhwN0ZxS0puaC1RWFp3?oc=5\" target=\"_blank\"\u003eArkansas Department of Corrections issues update on missing inmate\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eKARK\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPOFhEN3NodFRyTGlFM1BLdHdOV0VNaWgyWFFxR3JXQk4xdHJFb1F6RXBVeE13VDB2bHNtdVRmd1ptWGVzc25qN0czTXBwR0gzeXFCMWNsSkFYTnY3cm5yNGRhTU14YjdOTjJoOXNRZnhlR2kzVWkzZ0I4Q2pFUkdhT3VWSXdhWDhnZDcxSG5zMmpaYWo4b2lrcWFiVXl5cWhaNEZrWWVvLXNUdlBM?oc=5\" target=\"_blank\"\u003eFormer police chief, serving murder and rape sentences, escapes from Arkansas prison\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAP News\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVVZ1bldQNDdTbFAzV1N1Mno0NlM2aTlXTFpMZ2NidzlwSDIzbFMzTlpDQkNHdl9aZGFyeWtBbl9tYjBUMEVVdVFQaE15aDV5UVdQcVhxcWJGa0E0X09GRkdzNk03MDFGWnNHbE9TOGRWODBHY2ZseS01ZERHckJsZUJkY3NZYmE4QzI5Nmx2TFhjcjRkQk4xZjlwakdESDZXVUlqOVJxWVBiTXVaTFJWMDI4RnBDekZtRFQxeQ?oc=5",
          "links": [
-             "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMXdTNldqal9YN21HeWw4eU1vX18tZ0duYkJIUGJCbU91aU4xd3ViS0xzbDZ2Ni1LbnFTWGVPX3JHQUh6ZVY5U0E5LUE5OFAwTm1nalk4aG8wcHJfSmFWYTBfZEVvbWJGZWlzSWJXby01NE85UWZiZ2JJall4WFQ5UDNDLVNINnhKOE5ieEQxZlRGVlhGb2c?oc=5"
+             "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVVZ1bldQNDdTbFAzV1N1Mno0NlM2aTlXTFpMZ2NidzlwSDIzbFMzTlpDQkNHdl9aZGFyeWtBbl9tYjBUMEVVdVFQaE15aDV5UVdQcVhxcWJGa0E0X09GRkdzNk03MDFGWnNHbE9TOGRWODBHY2ZseS01ZERHckJsZUJkY3NZYmE4QzI5Nmx2TFhjcjRkQk4xZjlwakdESDZXVUlqOVJxWVBiTXVaTFJWMDI4RnBDekZtRFQxeQ?oc=5"
          ],
-         "published": "Tue, 27 May 2025 03:42:53 GMT",
-         "publishedParsed": "2025-05-27T03:42:53Z",
-         "guid": "CBMilgFBVV95cUxNMXdTNldqal9YN21HeWw4eU1vX18tZ0duYkJIUGJCbU91aU4xd3ViS0xzbDZ2Ni1LbnFTWGVPX3JHQUh6ZVY5U0E5LUE5OFAwTm1nalk4aG8wcHJfSmFWYTBfZEVvbWJGZWlzSWJXby01NE85UWZiZ2JJall4WFQ5UDNDLVNINnhKOE5ieEQxZlRGVlhGb2c"
+         "published": "Tue, 27 May 2025 06:34:00 GMT",
+         "publishedParsed": "2025-05-27T06:34:00Z",
+         "guid": "CBMivAFBVV95cUxPVVZ1bldQNDdTbFAzV1N1Mno0NlM2aTlXTFpMZ2NidzlwSDIzbFMzTlpDQkNHdl9aZGFyeWtBbl9tYjBUMEVVdVFQaE15aDV5UVdQcVhxcWJGa0E0X09GRkdzNk03MDFGWnNHbE9TOGRWODBHY2ZseS01ZERHckJsZUJkY3NZYmE4QzI5Nmx2TFhjcjRkQk4xZjlwakdESDZXVUlqOVJxWVBiTXVaTFJWMDI4RnBDekZtRFQxeQ"
      },
      {
-         "title": "France’s first lady appears to push her husband on a plane. Macron says they were joking - PBS",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPUmpTMjJTaFIwUmZuUS1PZHVoNzdwMkVsdThaRzhwLU9jeThUSjJrZHBORlNpaHNtaXN2WEZ5dklRNThNN0sxMG5sYmtfazdqY0c3SDVxSHFuRUxtTzVTNzZmQlJESUlnM0ZVWFBFb1BNMnFFeEJNYjZTdTRTMUxfdmJpRVZSRDNfLS11bER4YU9OUlc2QWx6NjY4bFZkdENuVXNJVGM4cHhJazgzS2R4M0VqRUV5TmhFX1dXWVNn?oc=5\" target=\"_blank\"\u003eFrance’s first lady appears to push her husband on a plane. Macron says they were joking\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003ePBS\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNUy15SHI0NkxndmpXak1mRWdWQnQxbEpqS3FURUYwdnBSWHZDZEhqNEFIdDN1Nkw1cXl6dGlhNU55RnhodTJfRk5wWVBmX0E4NTFUdzdQOVlINTBNejh3OHNERDBxWnA5WndTQjFRM1I2ZV9sRGRPRVZmRklVV1FtU0tSdVFGUlA0X054SXF3?oc=5\" target=\"_blank\"\u003e‘It’s Nonsense’: Macron Plays Down Video of Shove From Wife\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPQmM5M3IwcFVCajhaMndjU05mb1JQRDl2Q203eWxOWWM0Yzd4VWhfT29oUzRGUTI1X2JiOHNULU9XMlB0V3VsdFJCNkxsMTEwZU53TFRxR1pob1FlRjQ5THRZT2VMaHFMUXZTejdaeU5aSDlBNGVaQW9rSmUtckRpSEJ2RE5jU29HVzNPN2RhaHNCX0pJbzNJZkl3MVpYWTNfaXlrNENlM29oSDNEMzRybXpxeXlBSWVuYXlDSV9R0gHDAUFVX3lxTE1yNE5oQXJUQUJMRnQyOEVIQmZCMmtYVlB5UDZmV0RVNmFRbHRUSVViR1RKekNMeFFEWW9sTFkwTnlaOEJhMWNQM3Fha2FTZDM4LU9Uc3JJaVk3RVVZeTFFRVF4YkdfdkpwTHlvRDF1R0ZvdThsQnNhRV9paEFmbFhtalVDUHlodEpXUmVqRDFTUmhVdnAydDh0U0M5ZjUtYUFqY3NYWlBVU0tLbDYxM0MwX3ZFSHZqc0tSV2xTeWRxRncxbw?oc=5\" target=\"_blank\"\u003eEmmanuel Macron's wife seen shoving him in the face in viral clip as France's first couple arrives in Vietnam\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFox News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUTFYTk5aTTUzcFc5RUJSUFJBUHFWSkYzc3AxREZVQTAzNUVWTFVpaF95S1dDNFZqTzVwTXBtbW9WX2RfRGNZbFVNcVFLYXZuX05QSFNFdjVoRDREUGREamZ4SE9KbmREcnBDUXdQVlU2MW9OMUhpUWNZc0o3ams5WnNTOXZNVjlhT095UkE3MEZxOHdlM3d5ZHNwUDd6cl9uUEtfVkxEbUJCM3pJRTItV0JBdndLU2k2WFc1UTkyTU1EM0pfc2hVOGhjNndVd3JFeF8wbUpZQ0JxSXVVUmZ6cXRPa2Q1d0lTX2FDNjNOVXJOMjA?oc=5\" target=\"_blank\"\u003eEmmanuel and Brigitte Macron’s scandal-plagued relationship: From student-teacher affair to the shocking physical altercation\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNew York Post\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQY1VMcl9UaDRIUXA2aFBTdVpiRjVkV201NVVEam9WdkNtVnA5QlhEcG9qVnNjTjJiR3FYZnBFbUFHQ0laQVZLdm5JN25UanV2c1RjQ3AyelMzaEdhLVVlSlR0MjFUdmpKamU0OGdQN3lXNXpmU3Q0T2NTOXZPMEhrOGg4OG1nMjhpUFFJbVR0Y0RuXzI5T29qNkpEYXNNLUY3ZFh4VHlZSjNxdmQ3UGZPbi1hSXh4bktzcnJFcDhjUU50YU43TWxN?oc=5\" target=\"_blank\"\u003eMacron says he and wife were ‘horsing around’ in apparent fight caught on camera\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFrance 24\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUmpTMjJTaFIwUmZuUS1PZHVoNzdwMkVsdThaRzhwLU9jeThUSjJrZHBORlNpaHNtaXN2WEZ5dklRNThNN0sxMG5sYmtfazdqY0c3SDVxSHFuRUxtTzVTNzZmQlJESUlnM0ZVWFBFb1BNMnFFeEJNYjZTdTRTMUxfdmJpRVZSRDNfLS11bER4YU9OUlc2QWx6NjY4bFZkdENuVXNJVGM4cHhJazgzS2R4M0VqRUV5TmhFX1dXWVNn?oc=5",
+         "title": "50 Million Gallons of Sewage Flow Daily From Mexico Into California Beaches - The New York Times",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPOWd5bzR1bzRhT3M1UGVnVFlZT3FHQ3YzYjFMeUszNDF5UGhqUUV5RldnclZyQUVCRW1mNWJ3bTloeGtkM2tKbGtnd0d5dVpia3AyczIyYW16VnJkazd0SkhOYnVXaDVLd1VHdWRtX0s5SjBKYmNIZ1U5MVdYR1BQMQ?oc=5\" target=\"_blank\"\u003e50 Million Gallons of Sewage Flow Daily From Mexico Into California Beaches\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeWxBSHFZNlozal8wOFhhQ1QxQWFKenRSSUdwWlJ4ZGgwQmU0c19EMFJNaFdUXzhxbWdERENMTkc5UHpDQW1NVmRCOE5Qd0ZHVWM1OXpyUTh5UkN4d1NQU1dCYk5mdGJ6U1hjdmVaWHlZdURqSjI0cHYteWE3a2xTejlyTWlqeFU1MW1RNFhKWU1kdE1PU2IwbDdIT1VYdUo5NHFkM1NJb2d4SW4weWtQemJ1SEMwM0d2UUtHa1JGOENSZWc0MXJMTDFjR0NGMHdkMHhKY3BuUUY1T3A5Q3RZRDZ2YXRreVNXVmtN?oc=5\" target=\"_blank\"\u003eSewage pollution forces beach closures in Coronado on Memorial Day weekend\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003ecbs8.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQWl9tUWlCOWxIQ2h5eVpMamx4Zk1xelpuaFZWSGgyYXBqR1BCc25yLVBDUUV6OGpRNks0QUczZEhFVDNra2ZRYlVjeFZjRXBKR1JoeGx4dGhrY1dCTjF3VTI5VUtUYVpRaWNHVm9yMlUyekdnbVFVaVNHU1NWU25CVFZTQWdpSy1YaEJFeFlhR1VfUmhvU2M4OC1pUWl1R1VYQlHSAacBQVVfeXFMT1kyRE5mSzdBN01lNFBYeXFtYzlnNC1VaHdlLU5OaW9jWjZ3UFhFSWJrUzNkQWkybnp3T0ZFdFlnaVJGdm5xaDFEa3VWYnpNbHZaSnFscVpaYXZjNWVkdVFROFNVdkVvU1huZnFjWXlBaFVSTTAwOGplSTF5Rjg0V0h3MWdyNDlVVGhRSUNiVkhFdTFDcUJJU04ySUFvQUF5T0x3cGJLb28?oc=5\" target=\"_blank\"\u003eCoronado shoreline closed due to sewage from Tijuana River\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003efox5sandiego.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQMHBNT0M0d3RXYlczc2dLNFJDeTJIWVpEUkhYLTFleTdFU21KaWNfdi1tMnR0a1RNSE1SLXFhQnA4b3hVd0RpZjJpSlVVNTJOMXhZNjNHUWhnLXhHOHkzaExONUNUbGpwcmkzYnRta0FkUVZGX0pUazViRGZ3LVpobEI4dVBGcUozZUdobWpsRWsyS1czM25mQWl1V0tGYm9CaXdBdC1IU0JXd0w5a1REU0RWVGbSAbwBQVVfeXFMTUtjbms2dnJqWTVjOHl3TzBJbVBhMC13Skd6MDJiWm4zaWUzRmtxV2JpYlphSUhiQmUtOGFEM09uU1FhdERLV0JCa2tfOU5uNm9aMVNQbzQ4MFZpY1l0NVd1eVE5OFZqak1yU3ZGdWs4Y3N3S0l1eUE2VlhCQU9HWHZnM3g1MUJQblo2QjI5THAyeVVFLUJsUXFmZ3FZN2pOaHZlT3d1YUszdzY4cEhwMlQ2bzVuZXhVMXZLczY?oc=5\" target=\"_blank\"\u003eCoronado shoreline closed again because of new sewage contamination\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNBC 7 San Diego\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNS3dkNnVJZVowYktpUmF6UVRQZEZJTUp5SmtNbm1FcXYyY2k2YjVTYzBsRVpydXo0enkxcVMwLVZkaXlablRhbVFURExmNGZ1MWZ1c0RsS29TVkxxTlJ3eFZjVzd0RFgxT2VPekRmXzFaMzJiMFlPeDQ0eExRdFdxVXBYN1UwNW1xbWRJQmpybFdiejB5Tlh3?oc=5\" target=\"_blank\"\u003eSewage contamination leaks into Coronado Beaches on Memorial Day\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003e10News.com\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOWd5bzR1bzRhT3M1UGVnVFlZT3FHQ3YzYjFMeUszNDF5UGhqUUV5RldnclZyQUVCRW1mNWJ3bTloeGtkM2tKbGtnd0d5dVpia3AyczIyYW16VnJkazd0SkhOYnVXaDVLd1VHdWRtX0s5SjBKYmNIZ1U5MVdYR1BQMQ?oc=5",
          "links": [
-             "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUmpTMjJTaFIwUmZuUS1PZHVoNzdwMkVsdThaRzhwLU9jeThUSjJrZHBORlNpaHNtaXN2WEZ5dklRNThNN0sxMG5sYmtfazdqY0c3SDVxSHFuRUxtTzVTNzZmQlJESUlnM0ZVWFBFb1BNMnFFeEJNYjZTdTRTMUxfdmJpRVZSRDNfLS11bER4YU9OUlc2QWx6NjY4bFZkdENuVXNJVGM4cHhJazgzS2R4M0VqRUV5TmhFX1dXWVNn?oc=5"
+             "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOWd5bzR1bzRhT3M1UGVnVFlZT3FHQ3YzYjFMeUszNDF5UGhqUUV5RldnclZyQUVCRW1mNWJ3bTloeGtkM2tKbGtnd0d5dVpia3AyczIyYW16VnJkazd0SkhOYnVXaDVLd1VHdWRtX0s5SjBKYmNIZ1U5MVdYR1BQMQ?oc=5"
          ],
-         "published": "Mon, 26 May 2025 17:10:48 GMT",
-         "publishedParsed": "2025-05-26T17:10:48Z",
-         "guid": "CBMivgFBVV95cUxPUmpTMjJTaFIwUmZuUS1PZHVoNzdwMkVsdThaRzhwLU9jeThUSjJrZHBORlNpaHNtaXN2WEZ5dklRNThNN0sxMG5sYmtfazdqY0c3SDVxSHFuRUxtTzVTNzZmQlJESUlnM0ZVWFBFb1BNMnFFeEJNYjZTdTRTMUxfdmJpRVZSRDNfLS11bER4YU9OUlc2QWx6NjY4bFZkdENuVXNJVGM4cHhJazgzS2R4M0VqRUV5TmhFX1dXWVNn"
-     },
-     {
-         "title": "Scenes of horror in Gaza as Palestinian child tries to escape the flames after school attack - Middle East Eye",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPc29MVVhyc25uVUREX05DY0pYZk1DSXdiVkhQNi1vc2ZmdlhLOFgzQUg3VGs3bXkzQ3BSak1LaG1vV1k1YlNVUjZEdzlMLUVLaThXdDJSQ011bENzV1FkSFFCVjRJeG5obDZDVV9jR0x3N2RMaVBwZ0x4S19HYzk0UlF1WmNmdFFzU0w2THduVVE1NnIzcjlF?oc=5\" target=\"_blank\"\u003eScenes of horror in Gaza as Palestinian child tries to escape the flames after school attack\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eMiddle East Eye\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWNUbzZpRktwdDdiSGF6MW0teFhYUUlqRDhtUUFKZWRzekUwZFB0U0RrQVAtSDRlRWlBc1VQdklhNFhNQVRCYmdqNXF2QXJzYUdNWURTOEw2Zm4wc2NxYTVidUhLNGJLeWdOcUZyLWlkeUpxWXhOUzJmLXBlX2RLZTRNRFUxNmlHdHpJaDdsaGRWMmhxTUdFNXMzbDBlLTFWaFlILWZYc1I0VHFsWGxFZEp6dmJuUlZtR0FsZUpNUdIBxAFBVV95cUxNQzAyNWprdEptTmpkTC1CQzBSVHlRbFRob3QtNHlzc1FqUmNnc1ByaUMyaTE0dTZnWG5mZDFycVgzcms4R3lhVlNiMHM3YWxvTzFYVHhUazJlMG9DVllCRzQxblBtUVB2SHZVRF9kMzhNX3JIalFvdmY4endNZjIzRVJzRlBELUMyWFoyQi02SWtLbEhSeXNqRzUxVmhzYi1nNkNPaXpHY1JLaUgwd2xHV3JQRmx3SUN5aEluREtvVFd5SUNZ?oc=5\" target=\"_blank\"\u003eLIVE: Israel kills 81 in Gaza as ‘different messages’ emerge on truce talks\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAl Jazeera\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQOW1XR0sxdUhFb1RZNUVEQ0dsazRZbXp0bTRWaU0xYUNNSXJyUW5Sbk4zOEltWEVZWS0zZ1FBX1Q5V2dKZWlyY01UbFBVR25OQllWbTIzMVI1Z2VSR3hvUW9ESlNWTzNoc2dPNWhTajBlWmNXZ1V3M1VmVmd2UkVYWmZKcjMxNXF3OHlQcg?oc=5\" target=\"_blank\"\u003eIsraeli Airstrike Kills at Least 7 of a Doctor’s Children, Gaza Officials Say\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBOVDdJMExDbmhTbVBiS1pQeERoSjAtRWNwRDJnWlFvT3pDaml2MTlzNE1YQ3lNeHJya3lGdDNUWXg5TlJpek4zTlB0RG82dTlJZ1JFdWRWRjVYWHMtaXQzOGREd2ZCVm1ZY3B5R2pR?oc=5\" target=\"_blank\"\u003eIDF probes Gaza strike that killed doctor’s children in Khan Yunis\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Jerusalem Post\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOcnhBNmdFYWJKbzJESDNyZTFzYlpqNTNydlJfYnJydFE1bmh6emw1MjRnRU9sLWF2dUdVaS02cnpYYkQ4a1FGUXU3QWczencwRnYxREZ4V0JYcnNYd3k5YkwwTWxJdEd2eTRNelV3cHctZVFBRzdzVk9Zb3BaYXZfMFhQYnJRVHBGcmVRWldKa1B5THNYV3djdVlXcjBmdGR3akRzR1kxaDlkVEhhNDhOVzE4aUk?oc=5\" target=\"_blank\"\u003eIsrael’s latest strikes in Gaza kill 38 people including children\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAP News\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc29MVVhyc25uVUREX05DY0pYZk1DSXdiVkhQNi1vc2ZmdlhLOFgzQUg3VGs3bXkzQ3BSak1LaG1vV1k1YlNVUjZEdzlMLUVLaThXdDJSQ011bENzV1FkSFFCVjRJeG5obDZDVV9jR0x3N2RMaVBwZ0x4S19HYzk0UlF1WmNmdFFzU0w2THduVVE1NnIzcjlF?oc=5",
-         "links": [
-             "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc29MVVhyc25uVUREX05DY0pYZk1DSXdiVkhQNi1vc2ZmdlhLOFgzQUg3VGs3bXkzQ3BSak1LaG1vV1k1YlNVUjZEdzlMLUVLaThXdDJSQ011bENzV1FkSFFCVjRJeG5obDZDVV9jR0x3N2RMaVBwZ0x4S19HYzk0UlF1WmNmdFFzU0w2THduVVE1NnIzcjlF?oc=5"
-         ],
-         "published": "Mon, 26 May 2025 11:36:35 GMT",
-         "publishedParsed": "2025-05-26T11:36:35Z",
-         "guid": "CBMilwFBVV95cUxPc29MVVhyc25uVUREX05DY0pYZk1DSXdiVkhQNi1vc2ZmdlhLOFgzQUg3VGs3bXkzQ3BSak1LaG1vV1k1YlNVUjZEdzlMLUVLaThXdDJSQ011bENzV1FkSFFCVjRJeG5obDZDVV9jR0x3N2RMaVBwZ0x4S19HYzk0UlF1WmNmdFFzU0w2THduVVE1NnIzcjlF"
-     },
-     {
-         "title": "France, Vietnam sign deals worth $10 billion as Macron visits Hanoi - Reuters",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNjJyWDFlU1NhUU5wclVLVWRiY19jdkFOdV9Wemg4aWNUZHJoSHJiNjBFWncwTTdwVTlWSXlOQ3lJUE5WdENkTGpyWmI1Q0tGXzhmWllzci04QklhNmdWZ3Rad2Z0dDhwSTB5SFNJRHdrNE5TcTVOby1ScG84Sk10bERXSXBjNWZ6T1NCV2gxNFAySTZRdHpvNFFGWjlET0JRZTNDUXZTSG9GVXE5YXlOZV95RW5ZeGVXanNz?oc=5\" target=\"_blank\"\u003eFrance, Vietnam sign deals worth $10 billion as Macron visits Hanoi\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eReuters\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQNnpuWG5wc2FwUHBvQ3Jtc2w3QkZhRVdvOWZFZjBBZUVjc3NnQjFTRlpwN1FmUTQya3ZZWW5zeDNJX1R2ZzJSaFN3UUppdE9CQ3gxbVROdEhzdW1FT3loYUt0eW5KYlBFVjVQbmU5aVhCNl9sX1pUYkhsQ3lLZXNjMVY5TThjMV9TWmZIZEVEWjRKcklXeGxPc0t6Nmd5UEo3OGdIQzNRcXBsTHlyVmpZ?oc=5\" target=\"_blank\"\u003eVietnam, squeezed between America and China, looks for new friends\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Economist\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9YRzU5WW9LWkZFM2Nyd09tYnUxelNjUVhuaGhwaTNWcHZmSEJNcFJ4TWg5Y3NMR1phQnJrMUM3ancxVGRIa04ycHNXeHJYVDliZEtTdWtDV3Q2Y2VzQzhxZXJ2cG4wNUt5Q1pEUWJha0c?oc=5\" target=\"_blank\"\u003eEmmanuel Macron touts France as ‘reliable’ partner for south-east Asia\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFinancial Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQWlFKVENaSE1SeUN3N2E5SzJ1X3k3MEw2cWJlYkYyY29fMy1QNTB0Yk1YYk9zWkcwQ3dXbTRkZkFvQXdMTG55c3VaZC1RY0FwZHJrQXkyc1NBRGNEV2RMdGhPMHFZb1hadjhhTllFN2dtajZfakhSZWxEYWZpSWp4a1A5Sk5Bam1QdGU1enZpQlFhbzJONWZ1S0VTNk4?oc=5\" target=\"_blank\"\u003eFrance’s Macron on a visit to Vietnam urges for greater cooperation in defense and trade\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAP News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxONlBtc09hckxTUGY3OW5EbjVpa2ZYd3lEUXcxdkFYT2FIOUJILUZfM0h0N0licURkc3ZDb0tMRVNOd1hla1JId09fRXh0eE56NmluendmOXNhdERKbEJHeVg5V2pvMGJZbkpuOGFfOVhRdWZYUVRPZDFpb19EN2xqYkN3NnBaVzFTdDREc2NScExCRkV4YkN4NzN4cG84cDZaSGgyd0RNUWtLeWpfVko3dg?oc=5\" target=\"_blank\"\u003eBusiness - €9 billion deals signed as Macron visits Vietnam\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFrance 24\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNjJyWDFlU1NhUU5wclVLVWRiY19jdkFOdV9Wemg4aWNUZHJoSHJiNjBFWncwTTdwVTlWSXlOQ3lJUE5WdENkTGpyWmI1Q0tGXzhmWllzci04QklhNmdWZ3Rad2Z0dDhwSTB5SFNJRHdrNE5TcTVOby1ScG84Sk10bERXSXBjNWZ6T1NCV2gxNFAySTZRdHpvNFFGWjlET0JRZTNDUXZTSG9GVXE5YXlOZV95RW5ZeGVXanNz?oc=5",
-         "links": [
-             "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNjJyWDFlU1NhUU5wclVLVWRiY19jdkFOdV9Wemg4aWNUZHJoSHJiNjBFWncwTTdwVTlWSXlOQ3lJUE5WdENkTGpyWmI1Q0tGXzhmWllzci04QklhNmdWZ3Rad2Z0dDhwSTB5SFNJRHdrNE5TcTVOby1ScG84Sk10bERXSXBjNWZ6T1NCV2gxNFAySTZRdHpvNFFGWjlET0JRZTNDUXZTSG9GVXE5YXlOZV95RW5ZeGVXanNz?oc=5"
-         ],
-         "published": "Mon, 26 May 2025 11:29:26 GMT",
-         "publishedParsed": "2025-05-26T11:29:26Z",
-         "guid": "CBMiuwFBVV95cUxNNjJyWDFlU1NhUU5wclVLVWRiY19jdkFOdV9Wemg4aWNUZHJoSHJiNjBFWncwTTdwVTlWSXlOQ3lJUE5WdENkTGpyWmI1Q0tGXzhmWllzci04QklhNmdWZ3Rad2Z0dDhwSTB5SFNJRHdrNE5TcTVOby1ScG84Sk10bERXSXBjNWZ6T1NCV2gxNFAySTZRdHpvNFFGWjlET0JRZTNDUXZTSG9GVXE5YXlOZV95RW5ZeGVXanNz"
-     },
-     {
-         "title": "India’s Kerala state on high alert as vessel with hazardous cargo sinks off its coast - AP News",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVnZVZlU3cy1RMEtCWHZieS1FYUhrQ2l0UWZ6TnRnZEJuUnZPNElNalNFNDFtNXhENlRDMjBMT05oODBLdFlQOGYwUXRfWWhZTWdaNko4ZHR2YU1kdEg5eXoxYk11ZXNTdTdnRy04MU1aSnZKNTdPTTdPV1ptOGRLRjhOd0FHWHBDVWptT0Z2VFM?oc=5\" target=\"_blank\"\u003eIndia’s Kerala state on high alert as vessel with hazardous cargo sinks off its coast\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAP News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PZ0h6YlFoMXdOR29zMXlFX0ZKUnlwU1VVcVl6bGg0ekxHTmdieGZJUXI4dmo3NjZMaElUQzJNZThYNDg5WHE3aWZvOFNDLTB4Vi1oVmJHUlZjdw?oc=5\" target=\"_blank\"\u003eKerala: India state on alert after ship carrying hazardous cargo capsizes\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBBC\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQcUppSGpKVlJmZ1JnM0JUbmdORDc2R1dtazRIWm9QQWtWemVLYmFDcTVvSFNFclNjMzRBWi12OFkxX05kWmJIZmRId2YzWEJ2Zjl3aGh3WjJKSVlaRkg0TjRKZjlXN0RYSDhDZ1dzZFllR0F5MHA5cU5zZHRCQ1h4eDRTMXBJdw?oc=5\" target=\"_blank\"\u003eMSC Boxship Sinks off the Coast of India\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Maritime Executive\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUtkcnJEOVNVNVhHX2ZwenVrSWNNWjZLOG1yazFuVnhLUjdnMFV5emVrdTAxUlYwemgzcVdDLVhKd2k3Rk9raFFvOU0ycTNJWHNTekdEaEstZlBYMjIzTUhQbjEzMlktS0VhdlBJMFVralNHMHN4djBaZUtpUThKVUlmR2Y4djNmVldSZTh3ZkxQQk9KdFhDa2VXWV9wcll6aHYwOHA3U1NyWWZQWEt5OGR2eGc5N0d0NXBmQnEyTWN2djlGekI1dnhiOTFVdm1PNTFCVV8zTVVRMUh1VUE?oc=5\" target=\"_blank\"\u003eContainer ship carrying 'hazardous cargo' sinks off the Indian coast\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eLe Monde.fr\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQY2NrMWRkWnhPMlhjQ1pNMThFM1JqQktuWTE3RDU0bS0weU1IUkJDRDdCbDFZd2M0V19aVFd6Q0dKSEJwMWdDZGZlTEY3VDBEY0IxM0gyR0JPZ1RYcTlJRXdicERnbTFvV1M1OUNwSTRRZ1EtdExUYVdPT3hRSGpiSzJza3h4ZThfc3lLLTU3N1kxM3prUU5JZlhuWlZzQWtUTDJCaGlsb1BaRi10X3lGcTdhNkg3VTM3c3V2UmJ6LWJWNVBHcFlvZDJnbXlSWXMtcy14Vl9scHpOTi03U0pncUhkVDVual81M2RtaU01VldCQzhIaWc4?oc=5\" target=\"_blank\"\u003eKerala on alert after Liberian cargo ship sinks, public asked to stay away from the coast\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eHindustan Times\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVnZVZlU3cy1RMEtCWHZieS1FYUhrQ2l0UWZ6TnRnZEJuUnZPNElNalNFNDFtNXhENlRDMjBMT05oODBLdFlQOGYwUXRfWWhZTWdaNko4ZHR2YU1kdEg5eXoxYk11ZXNTdTdnRy04MU1aSnZKNTdPTTdPV1ptOGRLRjhOd0FHWHBDVWptT0Z2VFM?oc=5",
-         "links": [
-             "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVnZVZlU3cy1RMEtCWHZieS1FYUhrQ2l0UWZ6TnRnZEJuUnZPNElNalNFNDFtNXhENlRDMjBMT05oODBLdFlQOGYwUXRfWWhZTWdaNko4ZHR2YU1kdEg5eXoxYk11ZXNTdTdnRy04MU1aSnZKNTdPTTdPV1ptOGRLRjhOd0FHWHBDVWptT0Z2VFM?oc=5"
-         ],
-         "published": "Mon, 26 May 2025 12:52:00 GMT",
-         "publishedParsed": "2025-05-26T12:52:00Z",
-         "guid": "CBMikAFBVV95cUxNVnZVZlU3cy1RMEtCWHZieS1FYUhrQ2l0UWZ6TnRnZEJuUnZPNElNalNFNDFtNXhENlRDMjBMT05oODBLdFlQOGYwUXRfWWhZTWdaNko4ZHR2YU1kdEg5eXoxYk11ZXNTdTdnRy04MU1aSnZKNTdPTTdPV1ptOGRLRjhOd0FHWHBDVWptT0Z2VFM"
-     },
-     {
-         "title": "Day 11: Eight inmates captured, two still at large - WWLTV.com",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPaDJUMkF4T2l3cVUzZkF0SG9BUTh2WDRkVllwdmpxaThUbWRjbTZ5VTFxTVY5SF9mWW9IbDgtZ19fNFBid1VHN0F0N3U3UXViRjFiZ1NJSW1fd1dfbnpjNEIyOER1TGJhcEtPX3RVS0ZvYmhnMFNQY2JaQW9YTENkeVp2MTJPV0phWm5nQ0tiVi0wa293SnRzTVV0NkdYaWVKMWlNbkNqd1VwV3BmSHhpNlpldUlvam0zakVvVTd4Y21LLVZLWXJ2MGNjVF94a2dFVFJiRldqS2paUXRlVHMySm1ZUURBSUx5TV9VOE45LXMxRTFlNHNncUIzRlpRV3UySEY4MjV5SQ?oc=5\" target=\"_blank\"\u003eDay 11: Eight inmates captured, two still at large\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWWLTV.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNVTRUMV9UX3NzTk5LOHdFel9iSXBSbzloNzlyd0RKR3dLMUI1ZS1ELVZlRk1pWFFXWHVsRTVoRlhUS0g2T2F3WW91UEpBWjZQTlhROURyYlV5LUxuaDBkUmF6TFZsd1BRQ1BNM2ZfTE43MHJNNGlkQ1F6ODBiVXFnNUVSekNmZGQ4ZkN3Y0NhVUpyUXVqbFdBYg?oc=5\" target=\"_blank\"\u003eSearch enters second week for 5 escaped inmates from Orleans jail\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003efox8live.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNcmZUemhjWUxtcmNUMVAyY1NTRHFLVE1mM05WUUZyYjhRUTRNU29ZODczalJPZ0JxR184R0MzUkk3SVg2REEwZ2NrMzhfRVY1T3I1clJDMXRZYzAwS0xFejA1SkZkeXlQblhjR0VXeDZ5ZFljNS1pMkFNZ0xjLW90djUwTnJsMzRJWUl0bWt5ZksyWFJyaHRMcXc1dlF1RzJRY1NDcGdoYkZlWmZlMW80WFdlZGXSAcgBQVVfeXFMTTdxRHRZVERXVDQ1aDU0c2JJTnZ6eWhGczM3ZERtT3hmNEJoUENwZ0ZpaGZXNXhabW9VTzlVZ0hJbEtudnNVT1g0SUhGc3dLQXZvTXJoSU9KXzVJT1g1N2cwTFNJLTQwWUFzRlJLSWxzbnBxcC0tWlVzYkUyZkppZ1llSnRyNVZSeWdWYXcwUEFxcnBuUHdVMDFfVmtobFdZcmM5QjVlbVN3WlVFSlNBbUxLZm9LemhzVE9KbUphYnEwVk9zcGcyZG8?oc=5\" target=\"_blank\"\u003eOrleans jail escapee captured in Baton Rouge with help from anonymous tip, authorities say\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWAFB\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxORnJhWXRIblM4NkVtRmw0WG5XUmtpNThCVDJoZnF3SmdObDRtc01sV2FCTWtfUzM4emRBdTVaUGN6QjJPeHdpdVdqSUVFQlpHcldqekdzNXhkZ1I4ZWNpb3g0TXI3eXJIYm9mb1NpNm5FWkpvMlp0UjY4X2xvYWZDWWVPSmpuZ3JNUHJCMtIBkgFBVV95cUxNZWJZSmpoeEZ2em1CNTFMSS0xZzJ5dzNrYTBpNWE1ZWd2MTAyeFFuMjFoSnAxdmgtLXhUbzU3c1ctTGJlT0J4S2FtdWZnT1hpbjR1UWdoUDctakdocnRDQmdtU3Jldi05U1o4XzFkRWlva294eFNzV1d0NHNOZmVVc1BPSHpKNkc0Q3hqMG03UVg0UQ?oc=5\" target=\"_blank\"\u003eThree more escaped New Orleans inmates captured as manhunt continues for last 2 fugitives\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFox News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQdGNDUVJ2Tm5VTTVUZ0tiaURWckhnbnc0dVY0LVhIUWlhZE94anZWWHVpX1c0UHNuQmtOOFE4UUMyM0xIX1R0a3F1Y2xFSnNSWVdUelQ2Si1WRlZrZThkYjZpSnVGZ1dzUHhrNnVQNXliTlpvc3JKYW9YeS1mVzd3ckFR0gGHAUFVX3lxTE9ZVlpXZ1BMT0poZnBtWDM4MFlKQ2hiT1llb2I4QWYyT1A4WWJ4MUxkc013OTgwcmRiUFZPMXdQUGNRQThiYU1RYWhMMGk2XzJYQVJpRExVR1Z3dl91MmZTUGdjb2l2SGpaSzJVS2IybFVsNDRFakpYWHRDNDdVU3dOcHV3R05XTQ?oc=5\" target=\"_blank\"\u003eHow 7 people allegedly helped New Orleans’ escaped inmates, both before and after the brazen breakout\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPaDJUMkF4T2l3cVUzZkF0SG9BUTh2WDRkVllwdmpxaThUbWRjbTZ5VTFxTVY5SF9mWW9IbDgtZ19fNFBid1VHN0F0N3U3UXViRjFiZ1NJSW1fd1dfbnpjNEIyOER1TGJhcEtPX3RVS0ZvYmhnMFNQY2JaQW9YTENkeVp2MTJPV0phWm5nQ0tiVi0wa293SnRzTVV0NkdYaWVKMWlNbkNqd1VwV3BmSHhpNlpldUlvam0zakVvVTd4Y21LLVZLWXJ2MGNjVF94a2dFVFJiRldqS2paUXRlVHMySm1ZUURBSUx5TV9VOE45LXMxRTFlNHNncUIzRlpRV3UySEY4MjV5SQ?oc=5",
-         "links": [
-             "https://news.google.com/rss/articles/CBMihwJBVV95cUxPaDJUMkF4T2l3cVUzZkF0SG9BUTh2WDRkVllwdmpxaThUbWRjbTZ5VTFxTVY5SF9mWW9IbDgtZ19fNFBid1VHN0F0N3U3UXViRjFiZ1NJSW1fd1dfbnpjNEIyOER1TGJhcEtPX3RVS0ZvYmhnMFNQY2JaQW9YTENkeVp2MTJPV0phWm5nQ0tiVi0wa293SnRzTVV0NkdYaWVKMWlNbkNqd1VwV3BmSHhpNlpldUlvam0zakVvVTd4Y21LLVZLWXJ2MGNjVF94a2dFVFJiRldqS2paUXRlVHMySm1ZUURBSUx5TV9VOE45LXMxRTFlNHNncUIzRlpRV3UySEY4MjV5SQ?oc=5"
-         ],
-         "published": "Mon, 26 May 2025 20:04:00 GMT",
-         "publishedParsed": "2025-05-26T20:04:00Z",
-         "guid": "CBMihwJBVV95cUxPaDJUMkF4T2l3cVUzZkF0SG9BUTh2WDRkVllwdmpxaThUbWRjbTZ5VTFxTVY5SF9mWW9IbDgtZ19fNFBid1VHN0F0N3U3UXViRjFiZ1NJSW1fd1dfbnpjNEIyOER1TGJhcEtPX3RVS0ZvYmhnMFNQY2JaQW9YTENkeVp2MTJPV0phWm5nQ0tiVi0wa293SnRzTVV0NkdYaWVKMWlNbkNqd1VwV3BmSHhpNlpldUlvam0zakVvVTd4Y21LLVZLWXJ2MGNjVF94a2dFVFJiRldqS2paUXRlVHMySm1ZUURBSUx5TV9VOE45LXMxRTFlNHNncUIzRlpRV3UySEY4MjV5SQ"
-     },
-     {
-         "title": "Ex-police chief in prison for murder escapes using disguise, authorities say - The Washington Post",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQY0szU2w1Uk9mMmJqNlp4MmRFcU9sampsdWFBbktvY2JTYjVkSTRVeGxOSVkyVXo2WkhXT0ZEbkY2Unc5bmNhOUVrbkVGcWdiM1VTeld3QWk4UGM0aTNhMlRybUFnZWpRVDFoUDVqTnNDLWNlRkI3TktZT09fWURqNzFHRFIzTENfcDRjX0RpVVBENUxScktkQmNFcw?oc=5\" target=\"_blank\"\u003eEx-police chief in prison for murder escapes using disguise, authorities say\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Washington Post\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzZtOVFkWURaT2NxT0xTRjB4RTZwVlk3ZFE2ZS1JaXpuRmR3UmNjRlFONV9haEc1aElsMFdJdWJNX3BrU0FCQmcyX3RBMWtneVhsTkJnazl2ZEgzUTBCa1U3TkF1UXg3d2NRT24yb1NUNFVRdDBXS3M2dF9nTmkycTA5NWE?oc=5\" target=\"_blank\"\u003eFormer Police Chief Imprisoned for Murder and Rape Escapes From Arkansas Prison\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9HZVlxYTl2S1BRS2RaXy1Nb0w2SWF4Y2JVYU9CNDdmTFNIczFDRXp4aUtXQWdZby1WOS1aTXlLT3QwN2cybHRPdHNVY3B0NjcxTXNHQXBqSWxNZW8yVjhkQjVEcUtoUVhuY1hhaTFSMjVvQ2JpRTh1Q9IBfkFVX3lxTE4xRFNHcFdzS2RzbnRXb0ZydktfYlpvZmh6RzJvSTBlQklERUJfMGlOU2FJMWxSNlJGc0tySkc4VUdVX1VEYWE3VVY0YW1na2dxbkw1UVJvalgzT050TjhoRzF2RlhHcE1UY1ZUMk10elFxZFZOcllPVUlGTEJQQQ?oc=5\" target=\"_blank\"\u003eA former police chief serving time for murder and rape escaped from an Arkansas prison. Here is what we know\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNFZWVFRaaUZKS1VfY2Y2ZmVNZ3VrV2VZd2VhSVVLZXdmd09YRGptX1dsUXppMVB1S18yaUhhMUxMbkdPVF9QUTdPU3hFY1c1MEtMdlFWbFV4Z3RYd0phVUVxdWZ4QUs0WC1fdW9OZHkwX2RSMDExbVN2a0pEQ2R4WUYwN0xjeUZjSDFwSll5dzNidzVaUC1sbXVFalhoUHFzMFktQkl3YkdkTEE?oc=5\" target=\"_blank\"\u003eArkansas Department of Corrections issues update on missing inmate Grant Hardin\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eKARK\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0M3bmxHd1JBdXVFaHkyZjNWSFhBeUFqUXphNU9JUmw3QzBFSVJDc3RVOUtVVGgwVGQ0M1BYYlllM280bVFOemdiYnE2WS1EQjNTZXJXaUpJc2o4WE1TYUVoYVJOMXJtWFRJbHRvRWNxSVpPazZzN3I2Y1pTQnRqSkVuajRQTTE1eXRMQ0VBdUY?oc=5\" target=\"_blank\"\u003eEx-Police Chief Killed a Man and Raped a Teacher — and Just Escaped Prison in a Cop Uniform\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003ePeople.com\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY0szU2w1Uk9mMmJqNlp4MmRFcU9sampsdWFBbktvY2JTYjVkSTRVeGxOSVkyVXo2WkhXT0ZEbkY2Unc5bmNhOUVrbkVGcWdiM1VTeld3QWk4UGM0aTNhMlRybUFnZWpRVDFoUDVqTnNDLWNlRkI3TktZT09fWURqNzFHRFIzTENfcDRjX0RpVVBENUxScktkQmNFcw?oc=5",
-         "links": [
-             "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY0szU2w1Uk9mMmJqNlp4MmRFcU9sampsdWFBbktvY2JTYjVkSTRVeGxOSVkyVXo2WkhXT0ZEbkY2Unc5bmNhOUVrbkVGcWdiM1VTeld3QWk4UGM0aTNhMlRybUFnZWpRVDFoUDVqTnNDLWNlRkI3TktZT09fWURqNzFHRFIzTENfcDRjX0RpVVBENUxScktkQmNFcw?oc=5"
-         ],
-         "published": "Tue, 27 May 2025 01:33:33 GMT",
-         "publishedParsed": "2025-05-27T01:33:33Z",
-         "guid": "CBMimwFBVV95cUxQY0szU2w1Uk9mMmJqNlp4MmRFcU9sampsdWFBbktvY2JTYjVkSTRVeGxOSVkyVXo2WkhXT0ZEbkY2Unc5bmNhOUVrbkVGcWdiM1VTeld3QWk4UGM0aTNhMlRybUFnZWpRVDFoUDVqTnNDLWNlRkI3TktZT09fWURqNzFHRFIzTENfcDRjX0RpVVBENUxScktkQmNFcw"
+         "published": "Mon, 26 May 2025 09:01:54 GMT",
+         "publishedParsed": "2025-05-26T09:01:54Z",
+         "guid": "CBMigAFBVV95cUxPOWd5bzR1bzRhT3M1UGVnVFlZT3FHQ3YzYjFMeUszNDF5UGhqUUV5RldnclZyQUVCRW1mNWJ3bTloeGtkM2tKbGtnd0d5dVpia3AyczIyYW16VnJkazd0SkhOYnVXaDVLd1VHdWRtX0s5SjBKYmNIZ1U5MVdYR1BQMQ"
      },
      {
          "title": "Memorial Day Storms Cause Delays for Holiday Travelers - The New York Times",
@@ -1651,19 +1799,8 @@
          "guid": "CBMiggFBVV95cUxPZlA2X1hldXRBYkJXWVRNVnBoa2d1WElmV2lEN2xwU21tcmw2X0xlLUktYXpjaHlleDRlVHJ2RlliX0FtM0VMd0xyWTN3Qm1xTFJobWdwRVNNRVNhZk1KQ3p0Z0JiR2lVM29vVXFEaW1ILWtKcWFxbnRaRThIUEh0Mm9B"
      },
      {
-         "title": "10 people shot following altercation at South Carolina boat gathering, police say - CNN",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE92bGJCN0ZkeV9SN1dJM0xERm5ZUWtQSE01NFJZWWgteUNjV3NzVFlxQWxCUVE4SDlzQnRKZXcyZ01xb1lBc2VpMmVDVjllN0tKanY1cHA1aU5fOU9odWE1YzFrVzV4UDhDVFBlSkdNaWhpZjZpd2xpWTNOSE7SAYIBQVVfeXFMT21LR1hUdXgzbm94OGE0RG5CX2JURGV5QzZQMUF1aVZQTVNsZ0l0VnVJeGJWOU14dGNKUXZiWFl4eXBGQ0luRGhzd0lramhxMUstVmNvLWtkSWRqbW44QWFxOEV4c2hmTEVjNFNkcWZJbEk5Z1JwcjVTbWQtX0U3V2pLQQ?oc=5\" target=\"_blank\"\u003e10 people shot following altercation at South Carolina boat gathering, police say\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPMFZ2VGFOWmY2dGpHR2VyN2hLMVNFQ2ppbm11My1xTXdmaWs4a2lwMG1vSzB2aTUyb1hKV0s1Y1I2Uk1fWGNEcFpLWFhqYWhoVXhQSWl0ajRXeFgtc3R6Rlp0SDdmRmZ3NlNlaTY3VnM1QXlfczRDRlg3RmtaQ3NkZDQ2Wm5qZEhPWURJMmtXOA?oc=5\" target=\"_blank\"\u003e10 people shot at holiday weekend party on boat in South Carolina\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC11\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNWl8tY1IxZWJSZFlCdUphVlQzWWdkZzlZTUJSSXZJUnc5eWpVczQxR0JwOHhpdFdQMTVNbmNvVi1CeFVTWFhiQ0NkelEtNzQxYnlhRFF6Q2s0dGp3UjZHSGo4bnZrTnpGU0kzT2NfODBlbnhaMlJIM2hrSGVqc1VVYw?oc=5\" target=\"_blank\"\u003e11 injured in Little River boat party shooting\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWPDE\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ2x0eUlWaVFaa1UweDQzRUF2akhNYVdDUmlINWItT2NVN3NzUnQwcGp2RktHQW9GcThkcnpzOFIxdzZVWEJyY1ZYMTA2bFZEOWpHaHJaUU0xeHI3RmtQRndUVVhpT0w4NENPZlNJcFN0NUlPb1hiZkJlSjA0LTFBSnplVlRoVlZob3pJMWlfMUE5WDljMzZfOXgyX3RMU015T0dpb095S3Q3M240eUQ1YzI4Y2RlSjBsRkxNcTZmUXZzRnBuaVlJb2E1UG8ydHdxSktoaGF30gHqAUFVX3lxTE14eUpKUUVLVzM1YXVXQW9LaTRwX0ZRU0ZWbldsYlZSVGVtZjNla0JHYjhROU16N1p1ektUY295dmthdVl5czYxOVVFLXpGOEtLeEpiajNUcFctTWNIUjZMU2RxaWY2LTAyNUkycmhUbXJSbzljSWdEejEtRzVOQkRjNGFiS3FpRHpqdGxBMzZLNnlCWFUtM0FPYkN1ZEJUQWVMbUxnYV9jbnJkQVg2eEZ5MHE3MWdPY1hBQnhsWVczVWljY0psbUNqSVlEY2xyVW9Td3ZXTkRPMTdFc3hWQldzSHVVbEw3X0paQQ?oc=5\" target=\"_blank\"\u003eNorth Myrtle Beach officer accidentally shot himself while responding to Little River shooting, police say\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWMBF\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNUzhTS0JQZ0ZSZlBhNVpwZzdUOTFUem40aDBSd3hFS1cxTGhhc09FV3JjeThLeldxblREVnNIUTRlazBSTVoxRXI5Wmhha3huYmx0YTB4QTFLczh4ck5iOXJXN0hEUTlBNDFRa1VsMVFjdUZqYS1MSXBJRHJtdU5iWWZJdjFKaWVrd01PYUtCT1QyUFRUdGJfZ3VQN3VSVmNqNmdYUmp1d0ZpdFVJ0gGyAUFVX3lxTE9sRlRTenIyRm5xV3VmTmJfMDYzNjJpRGZfWkl0MHpEbWtQejlMelRZU2ZYLXdRVGpRd0VyaHhpS183Z1V4MXp5OHFUZFlTYXFMRXQ3QTYxSlNkeF85VE15SlhGdGpsQVZBNFN6N3NHemxSUjJ0Uk5kQWRiV3BPaWlkRWs4cm9sMHVRb3IzTFpsZm0wblFaZTMtMV9ZRXFuclpwUGUtUXBxX09Sbmt6ZkZYWXc?oc=5\" target=\"_blank\"\u003eMass shooting investigation underway in South Carolina as victims flood local hospitals\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFox News\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92bGJCN0ZkeV9SN1dJM0xERm5ZUWtQSE01NFJZWWgteUNjV3NzVFlxQWxCUVE4SDlzQnRKZXcyZ01xb1lBc2VpMmVDVjllN0tKanY1cHA1aU5fOU9odWE1YzFrVzV4UDhDVFBlSkdNaWhpZjZpd2xpWTNOSE7SAYIBQVVfeXFMT21LR1hUdXgzbm94OGE0RG5CX2JURGV5QzZQMUF1aVZQTVNsZ0l0VnVJeGJWOU14dGNKUXZiWFl4eXBGQ0luRGhzd0lramhxMUstVmNvLWtkSWRqbW44QWFxOEV4c2hmTEVjNFNkcWZJbEk5Z1JwcjVTbWQtX0U3V2pLQQ?oc=5",
-         "links": [
-             "https://news.google.com/rss/articles/CBMifEFVX3lxTE92bGJCN0ZkeV9SN1dJM0xERm5ZUWtQSE01NFJZWWgteUNjV3NzVFlxQWxCUVE4SDlzQnRKZXcyZ01xb1lBc2VpMmVDVjllN0tKanY1cHA1aU5fOU9odWE1YzFrVzV4UDhDVFBlSkdNaWhpZjZpd2xpWTNOSE7SAYIBQVVfeXFMT21LR1hUdXgzbm94OGE0RG5CX2JURGV5QzZQMUF1aVZQTVNsZ0l0VnVJeGJWOU14dGNKUXZiWFl4eXBGQ0luRGhzd0lramhxMUstVmNvLWtkSWRqbW44QWFxOEV4c2hmTEVjNFNkcWZJbEk5Z1JwcjVTbWQtX0U3V2pLQQ?oc=5"
-         ],
-         "published": "Mon, 26 May 2025 16:55:00 GMT",
-         "publishedParsed": "2025-05-26T16:55:00Z",
-         "guid": "CBMifEFVX3lxTE92bGJCN0ZkeV9SN1dJM0xERm5ZUWtQSE01NFJZWWgteUNjV3NzVFlxQWxCUVE4SDlzQnRKZXcyZ01xb1lBc2VpMmVDVjllN0tKanY1cHA1aU5fOU9odWE1YzFrVzV4UDhDVFBlSkdNaWhpZjZpd2xpWTNOSE7SAYIBQVVfeXFMT21LR1hUdXgzbm94OGE0RG5CX2JURGV5QzZQMUF1aVZQTVNsZ0l0VnVJeGJWOU14dGNKUXZiWFl4eXBGQ0luRGhzd0lramhxMUstVmNvLWtkSWRqbW44QWFxOEV4c2hmTEVjNFNkcWZJbEk5Z1JwcjVTbWQtX0U3V2pLQQ"
-     },
-     {
          "title": "High temps, other factors triggered widespread outages in New Orleans area, grid operator says - NOLA.com",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZTI4ekt2LWdvSkNUQmtVV2d5WU90eG9TRmEzVEMzTmd6dWNMVlRZNHlyZHZBaFRTRXZMNWJvb0E0NFo3QXJGR3Rhdm93LU9NU3FBZFpKcGQzeGRVQW82elpzN0psa2hBcW9ydk5kZTRLalpka3pZX1NLa1ZOeGw5UG5UUy1FRl8yZ3o1V3pWdTBXbTl0YWNBZVZ2TU1vY1ZXVlJwN2NDaVdDeHdIRXN0Y1JoTmlsNFVBc2hQVE1tclVJUllCVGQ0OUlzV2piNVdY0gHWAUFVX3lxTE1JUzN2a3EwMmd4bEhCcXNwcnkyY0hDc0Z1a21ZUXY0d0kycWNRcnpIMXN4bnZEUzlwYlRYYU9xck1DQUtGejdwanN4cV9idDN2M2JDQzB2Qy1xWThpY1VncWVKVjNYYlRKb2VVQzdNMXlBNXdKWXE5eE9UQVlwQjd3bDdlZXlSS0FTaDhNaGhUTG1MMlNLMlp0b3dSNmhIdFZwVndkWWZTSGdJTjk3RmJJd3lKYnk2MUl3VjJfUE5DR0VPT2VXSGhaN2ZINTl4ekRvcjg5T3c?oc=5\" target=\"_blank\"\u003eHigh temps, other factors triggered widespread outages in New Orleans area, grid operator says\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNOLA.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxObkR2OGxhYlFrVE55STNYRThibVhaZ1k4YzIta1E4c0F0UVlkZXFHaktaWmNvQXpoZ0prSHBMbkRsajEyOW84UjhEVmlxYVpOZ21MTF9BS1Y0cXlNUkFaZFBJWW9SUEZpcldaWkZiSUlPM2hPbHJDb0ltb1lqa3Z6UHlFc3FyV1RDVE0xVUw2UlZjUmxVTnNfRmFPUHRSNk5VYnh1enN30gG6AUFVX3lxTE1OQ3hSOXpia1NmVzVkY3UxUjJaU3RONGUyTHdENDBRTnRjR0RocWJ4VW11WjlOTEEwdGk0VEVoYUJLTXFOaHFUQ1EyOEJPaV9rV3l3YU9XMUt3UlctcERMbklmcVBlTXdrUlZlS3BUNWtQNGJUWWEyd2xjU3VMeDFFd2dmTDhtbkdEQXk2TExtWGJRdkt1eTNxeW04MkdEWGF3U2d3SzdrZHAxNS02TERLaUY1dXk5VWFpdw?oc=5\" target=\"_blank\"\u003eEntergy outages plunge over 100k into darkness Memorial Day weekend\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003efox8live.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNGJmOElSblpoTzRhQ1hlaDU4aUxVeU41a2Q0aThQM1BheGkzNlhmcG54Y0Q5dEZKQTNYbGNncWFoMmpiVVAwYmZSMENvb2lSQm5VSGFka3dQWTE3Znh1UFhYUV9fYndLSzlKbFI3MEhUVjBLQXBYb29NbE1oczBva2oxbTk4X0dCeGhka2JrMU1ZdnJMM3FHMXNhTVR4blNuWmpVWVRwa29MNmVsUUhiYWJkaTlMTnNiTmtEOGotY2hpaDRGWFQ0ODBvRUItMXhha2hsOVhQblV4N3Jz?oc=5\" target=\"_blank\"\u003ePSC: Nuclear shutdowns, bad forecasting led to blackouts\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWWLTV.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNX1NJRU9KS0tYMEJlRm5fRnBtV1FqMFJDZ2x0QURINGpCU0JnNFY2akt4OFZEYl9IN29WOHhheXpaMUxtem04UXN1NEpsa0diTUI4N0pmUlVDaUx2VlRCN1h1VVUzZE5lUmU0UDVaVUUtQnoySzZPYmsxRGpvMDU3M1BmLVp3M00tMnBkaElhZ1piUVBndHlBNFh0ekNDaWdqWWZJeWpHYU5NUVJvQm1vcG1xcmh4YlpPLXpXeVpkNlNSQ0FfR1lZeE1LQdIB0AFBVV95cUxPMUpQTTBIWFlXdmRtLUdfY29zMXpfMV9kdlZmTDRmeGxXX1prek5VODNydFdsMVdnUVZ3Z2dvNkZVZzlaelgtTWhmNnFLdThSd284NXdXbS1tVVlTdnRCb2RLMlJlakgwQXpELXRDV0VOU3g5Tk5STzVtSEFuMTdsaHlLZkxLdzlDODBkdU1QU3BrR3JRaE5tZGdJdjEtVVZRNXhpMjM3MFNhZmUtUXYwMElsWkl6V1pDajVuV1hVbVA5OHFhUDBBTklzQzI0RzU1?oc=5\" target=\"_blank\"\u003eNew Orleans officials press for answers after forced power outages affect 100,000 customers\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNOLA.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQSFl5UjROV2JyNGZvNTlMX3Ewb1hxU0NhU3BtS1g4SFh6Mkx6M2s0Z0Q2clAydWNzMmhMU0FXbmJSWEo5M2F0bTlqNnJMNDRadDlsTzhqSUxfOHdRb3VpcUFXSm9EU0tUaHJGOUI5eTZzTEVOaElubDNiR0pwemxpS05pVDdHUlBrSjFHWDI3V01FYjV0LWhGcUlKekNNR1ZMa0xYbDhPQ0ZYWVVaWXpNXzhBSdIBuAFBVV95cUxNNjg3dnlqS0Jfd0JIb2lnT202R1QtNjJGY1NKRm13cURJdUpUZE5ZekZxX2RGbkJFMm5QTHlPS1ZvVk9oLWFvSzJNd1B6OGxhRllXVW5FNmxnNlBMdzQzZDUzREZKLUJBT1VNY3JHUkdzVUxMV3RGUGQtdTA2c29ySDZVNUZKcWxCbGpuZjdXeHlHUFYwN1loSUJtTTRuNHo0ODV0cnNnb1hYOTE4YXNMU01PeXRMYW9V?oc=5\" target=\"_blank\"\u003eThousands of Entergy customers in Greater New Orleans without power\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWGNO\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZTI4ekt2LWdvSkNUQmtVV2d5WU90eG9TRmEzVEMzTmd6dWNMVlRZNHlyZHZBaFRTRXZMNWJvb0E0NFo3QXJGR3Rhdm93LU9NU3FBZFpKcGQzeGRVQW82elpzN0psa2hBcW9ydk5kZTRLalpka3pZX1NLa1ZOeGw5UG5UUy1FRl8yZ3o1V3pWdTBXbTl0YWNBZVZ2TU1vY1ZXVlJwN2NDaVdDeHdIRXN0Y1JoTmlsNFVBc2hQVE1tclVJUllCVGQ0OUlzV2piNVdY0gHWAUFVX3lxTE1JUzN2a3EwMmd4bEhCcXNwcnkyY0hDc0Z1a21ZUXY0d0kycWNRcnpIMXN4bnZEUzlwYlRYYU9xck1DQUtGejdwanN4cV9idDN2M2JDQzB2Qy1xWThpY1VncWVKVjNYYlRKb2VVQzdNMXlBNXdKWXE5eE9UQVlwQjd3bDdlZXlSS0FTaDhNaGhUTG1MMlNLMlp0b3dSNmhIdFZwVndkWWZTSGdJTjk3RmJJd3lKYnk2MUl3VjJfUE5DR0VPT2VXSGhaN2ZINTl4ekRvcjg5T3c?oc=5\" target=\"_blank\"\u003eHigh temps, other factors triggered widespread outages in New Orleans area, grid operator says\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNOLA.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxObkR2OGxhYlFrVE55STNYRThibVhaZ1k4YzIta1E4c0F0UVlkZXFHaktaWmNvQXpoZ0prSHBMbkRsajEyOW84UjhEVmlxYVpOZ21MTF9BS1Y0cXlNUkFaZFBJWW9SUEZpcldaWkZiSUlPM2hPbHJDb0ltb1lqa3Z6UHlFc3FyV1RDVE0xVUw2UlZjUmxVTnNfRmFPUHRSNk5VYnh1enN30gG6AUFVX3lxTE1OQ3hSOXpia1NmVzVkY3UxUjJaU3RONGUyTHdENDBRTnRjR0RocWJ4VW11WjlOTEEwdGk0VEVoYUJLTXFOaHFUQ1EyOEJPaV9rV3l3YU9XMUt3UlctcERMbklmcVBlTXdrUlZlS3BUNWtQNGJUWWEyd2xjU3VMeDFFd2dmTDhtbkdEQXk2TExtWGJRdkt1eTNxeW04MkdEWGF3U2d3SzdrZHAxNS02TERLaUY1dXk5VWFpdw?oc=5\" target=\"_blank\"\u003eEntergy outages plunge over 100k into darkness Memorial Day weekend\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003efox8live.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNGJmOElSblpoTzRhQ1hlaDU4aUxVeU41a2Q0aThQM1BheGkzNlhmcG54Y0Q5dEZKQTNYbGNncWFoMmpiVVAwYmZSMENvb2lSQm5VSGFka3dQWTE3Znh1UFhYUV9fYndLSzlKbFI3MEhUVjBLQXBYb29NbE1oczBva2oxbTk4X0dCeGhka2JrMU1ZdnJMM3FHMXNhTVR4blNuWmpVWVRwa29MNmVsUUhiYWJkaTlMTnNiTmtEOGotY2hpaDRGWFQ0ODBvRUItMXhha2hsOVhQblV4N3Jz?oc=5\" target=\"_blank\"\u003ePSC: Nuclear shutdowns, bad forecasting led to blackouts\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003ewwltv.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNX1NJRU9KS0tYMEJlRm5fRnBtV1FqMFJDZ2x0QURINGpCU0JnNFY2akt4OFZEYl9IN29WOHhheXpaMUxtem04UXN1NEpsa0diTUI4N0pmUlVDaUx2VlRCN1h1VVUzZE5lUmU0UDVaVUUtQnoySzZPYmsxRGpvMDU3M1BmLVp3M00tMnBkaElhZ1piUVBndHlBNFh0ekNDaWdqWWZJeWpHYU5NUVJvQm1vcG1xcmh4YlpPLXpXeVpkNlNSQ0FfR1lZeE1LQdIB0AFBVV95cUxPMUpQTTBIWFlXdmRtLUdfY29zMXpfMV9kdlZmTDRmeGxXX1prek5VODNydFdsMVdnUVZ3Z2dvNkZVZzlaelgtTWhmNnFLdThSd284NXdXbS1tVVlTdnRCb2RLMlJlakgwQXpELXRDV0VOU3g5Tk5STzVtSEFuMTdsaHlLZkxLdzlDODBkdU1QU3BrR3JRaE5tZGdJdjEtVVZRNXhpMjM3MFNhZmUtUXYwMElsWkl6V1pDajVuV1hVbVA5OHFhUDBBTklzQzI0RzU1?oc=5\" target=\"_blank\"\u003eNew Orleans officials press for answers after forced power outages affect 100,000 customers\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNOLA.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQSFl5UjROV2JyNGZvNTlMX3Ewb1hxU0NhU3BtS1g4SFh6Mkx6M2s0Z0Q2clAydWNzMmhMU0FXbmJSWEo5M2F0bTlqNnJMNDRadDlsTzhqSUxfOHdRb3VpcUFXSm9EU0tUaHJGOUI5eTZzTEVOaElubDNiR0pwemxpS05pVDdHUlBrSjFHWDI3V01FYjV0LWhGcUlKekNNR1ZMa0xYbDhPQ0ZYWVVaWXpNXzhBSdIBuAFBVV95cUxNNjg3dnlqS0Jfd0JIb2lnT202R1QtNjJGY1NKRm13cURJdUpUZE5ZekZxX2RGbkJFMm5QTHlPS1ZvVk9oLWFvSzJNd1B6OGxhRllXVW5FNmxnNlBMdzQzZDUzREZKLUJBT1VNY3JHUkdzVUxMV3RGUGQtdTA2c29ySDZVNUZKcWxCbGpuZjdXeHlHUFYwN1loSUJtTTRuNHo0ODV0cnNnb1hYOTE4YXNMU01PeXRMYW9V?oc=5\" target=\"_blank\"\u003eThousands of Entergy customers in Greater New Orleans without power\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWGNO\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZTI4ekt2LWdvSkNUQmtVV2d5WU90eG9TRmEzVEMzTmd6dWNMVlRZNHlyZHZBaFRTRXZMNWJvb0E0NFo3QXJGR3Rhdm93LU9NU3FBZFpKcGQzeGRVQW82elpzN0psa2hBcW9ydk5kZTRLalpka3pZX1NLa1ZOeGw5UG5UUy1FRl8yZ3o1V3pWdTBXbTl0YWNBZVZ2TU1vY1ZXVlJwN2NDaVdDeHdIRXN0Y1JoTmlsNFVBc2hQVE1tclVJUllCVGQ0OUlzV2piNVdY0gHWAUFVX3lxTE1JUzN2a3EwMmd4bEhCcXNwcnkyY0hDc0Z1a21ZUXY0d0kycWNRcnpIMXN4bnZEUzlwYlRYYU9xck1DQUtGejdwanN4cV9idDN2M2JDQzB2Qy1xWThpY1VncWVKVjNYYlRKb2VVQzdNMXlBNXdKWXE5eE9UQVlwQjd3bDdlZXlSS0FTaDhNaGhUTG1MMlNLMlp0b3dSNmhIdFZwVndkWWZTSGdJTjk3RmJJd3lKYnk2MUl3VjJfUE5DR0VPT2VXSGhaN2ZINTl4ekRvcjg5T3c?oc=5",
          "links": [
              "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZTI4ekt2LWdvSkNUQmtVV2d5WU90eG9TRmEzVEMzTmd6dWNMVlRZNHlyZHZBaFRTRXZMNWJvb0E0NFo3QXJGR3Rhdm93LU9NU3FBZFpKcGQzeGRVQW82elpzN0psa2hBcW9ydk5kZTRLalpka3pZX1NLa1ZOeGw5UG5UUy1FRl8yZ3o1V3pWdTBXbTl0YWNBZVZ2TU1vY1ZXVlJwN2NDaVdDeHdIRXN0Y1JoTmlsNFVBc2hQVE1tclVJUllCVGQ0OUlzV2piNVdY0gHWAUFVX3lxTE1JUzN2a3EwMmd4bEhCcXNwcnkyY0hDc0Z1a21ZUXY0d0kycWNRcnpIMXN4bnZEUzlwYlRYYU9xck1DQUtGejdwanN4cV9idDN2M2JDQzB2Qy1xWThpY1VncWVKVjNYYlRKb2VVQzdNMXlBNXdKWXE5eE9UQVlwQjd3bDdlZXlSS0FTaDhNaGhUTG1MMlNLMlp0b3dSNmhIdFZwVndkWWZTSGdJTjk3RmJJd3lKYnk2MUl3VjJfUE5DR0VPT2VXSGhaN2ZINTl4ekRvcjg5T3c?oc=5"
@@ -1674,45 +1811,14 @@
      },
      {
          "title": "Truck explosion damages multiple homes in Chicago suburb - 6abc Philadelphia",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0tiSVl1VjBtMGMxVkdoX0Q0TkZsd3gybmg2SE5qN2RMRHhaODVXZWpncTlpVFI3b1VJclo5OW9ZeGZjNEQ0QjhDSHdkcU5ycWFORVNua1FsQjJlbGo3VC0wbm0wWDFpVFltUXJtdFBlNmpyQ0ZMSTZrd2pIMzJLSHZOX21FOVNFSmptSjZVY1R0LTBlajZrdWFMY3RSUVJOcTR2ZmItekJDN180SEN2cmdXY0VyQQ?oc=5\" target=\"_blank\"\u003eTruck explosion damages multiple homes in Chicago suburb\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003e6abc Philadelphia\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uRzBqVFZFQTc4Yi1EV281MUFZc0Fyc3NPZlhOWkpYNzB6UGZYZHZibUhVSnA4Z2UwWDdHMFNKQUFlOWVXVnQ2LXBfdXhoYk1aX2JicGhfRQ?oc=5\" target=\"_blank\"\u003eMoment truck explodes while driving through Chicago suburb\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBBC\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPNGpwWmg1R1B4eGU2WVFWVGVBNXliNkJJa2hwTncwQ1p4bWcxRE0wZjNjSnpkUHpsY1Mza2pYLWItNDNzanRuNWhMMU5lMzBsTkhETUNFWFJtTnpSNDU4aVZ6d3JBU2JTbFE3MVNlVUIwaVp3cXlDN3pZclI5NlFobGFGM3l3Y0QzWUhvelFVWHh4X1l3a2NmVElnZEpud2tTbnBvNFFSMFJid2ltOWxHaHUzYTZNdFNuSWfSAb8BQVVfeXFMT2Nhb0gwUnM4Z3ljRmN0TUhmUEd6Q0J1ZVhkMmtIN0k5eElYSTR2alNkbnFQNEVRVVRzYkZkS0FwZG5TdHMyQUtkakZyVlZnVEVGSEtsV3doMGV6YnVDczJCVjdqVnY1MkFOTHBKSnhrQ29VWVNTRTNDdGhjakowUExJNmI1V2QzYS1SOE9rem9VS1lsa0N0enl1NkVRWmVDd0NyOFNXRHpvRjBOeUJPUlZGa1Z2NnN2bzlTdzRsb28?oc=5\" target=\"_blank\"\u003eTruck explosion caught on camera in suburban Chicago neighborhood as leaking propane to blame: officials\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFox News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaE1WRHRSdFJrNldIcjFGUVBmY3FYRTUxcmhveUs0bVlFbG1UOHo2QllFRGxjNnlaOGp1cGdPN0VidDR1MnJHMkFnXzVDUXNBRkZ4MFJWeWxvVkp0ZUd6THIzdVZaWFoyc2hGby15andwLVJUbldKMUU0N3I0V2didHBZdV9rM2dzUFZ6RWxOTEZsUzR5X0ktTVZ5VHdIQkpoT2NKVGpKNS1tZlJtYVA0UU56My1ON0h1RmNndjFUR1BOaUpxeHNRdXoyX2c0WVRo0gHYAUFVX3lxTFBKMGRMajI1bkhUbHZ3Y0FhZFotS0owZ1lfRHBQcy0tVHNYWmdDTzZYVHN3akMxVVlwMkdYMUlhMVFjZjVqU0s5TmN4XzNhVlNET2JFUmhpZGVtZXpseVJkRjNtUW1oU2xXa2lESkhFa05XR2tYcXQ1UGdPOF9EVzExdnhIRkdYX2dXZGpLSDZtZzZCZDBPT1l3SUJLM1dwTm1LeEFjUVRKQmlsd0Jnd3NWVndOMGlhellWQXo3Q1p2VXNMcmRBaGlwTjFaX2NuN0FyQmpkbGZuTA?oc=5\" target=\"_blank\"\u003eWhat we know about the suburban truck explosion that left debris scattered, homes damaged\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNBC 5 Chicago\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNRFlfMEZlZE9ibXdVWGRPbGttSnR5TG4zWEVla0duRDc4Vk1Qei1nRHBWZThDODdCS1RyVnRtanBwTVVOUUJhZmZNQlNWMnl5MkhkdU90akVfMEw1OWQ4Z0lGN3ljVUFEeTk3ajA1ZW1RU2t0SVk4YjlaUlBxZUdfUVhLZTlTa0tjUE5nWWkxLTFmUHJw0gGaAUFVX3lxTFBRUVpMZ21Tb2h5d1Z4N25SV2dlLVdHbFVXSWZWSmttdTBLNl84dUN5bDljNDlpS203SmNIazZGYXhDRnh6YUNBRVRtd3BfVTlPemJ6WjFzaVBPY25UaW9pRWxfUUVKaldweExsMzFVYjB3Zm1udnNoNkFUZENldmFKU0JnUVhiSDQ2M1J4YnNTQ2tCa0JSc2JZWnc?oc=5\" target=\"_blank\"\u003eExplosion involving box truck in Addison leads to road closure\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWGN-TV\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "description": "\u003ca href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0tiSVl1VjBtMGMxVkdoX0Q0TkZsd3gybmg2SE5qN2RMRHhaODVXZWpncTlpVFI3b1VJclo5OW9ZeGZjNEQ0QjhDSHdkcU5ycWFORVNua1FsQjJlbGo3VC0wbm0wWDFpVFltUXJtdFBlNmpyQ0ZMSTZrd2pIMzJLSHZOX21FOVNFSmptSjZVY1R0LTBlajZrdWFMY3RSUVJOcTR2ZmItekJDN180SEN2cmdXY0VyQQ?oc=5\" target=\"_blank\"\u003eTruck explosion damages multiple homes in Chicago suburb\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003e6abc Philadelphia\u003c/font\u003e\u003cstrong\u003e\u003ca href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lfX0otRURoR2MtNVp5VkVsNTZTZ0FQAQ?hl=en-US\u0026gl=US\u0026ceid=US:en\u0026oc=5\" target=\"_blank\"\u003eView Full Coverage on Google News\u003c/a\u003e\u003c/strong\u003e",
          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0tiSVl1VjBtMGMxVkdoX0Q0TkZsd3gybmg2SE5qN2RMRHhaODVXZWpncTlpVFI3b1VJclo5OW9ZeGZjNEQ0QjhDSHdkcU5ycWFORVNua1FsQjJlbGo3VC0wbm0wWDFpVFltUXJtdFBlNmpyQ0ZMSTZrd2pIMzJLSHZOX21FOVNFSmptSjZVY1R0LTBlajZrdWFMY3RSUVJOcTR2ZmItekJDN180SEN2cmdXY0VyQQ?oc=5",
          "links": [
              "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0tiSVl1VjBtMGMxVkdoX0Q0TkZsd3gybmg2SE5qN2RMRHhaODVXZWpncTlpVFI3b1VJclo5OW9ZeGZjNEQ0QjhDSHdkcU5ycWFORVNua1FsQjJlbGo3VC0wbm0wWDFpVFltUXJtdFBlNmpyQ0ZMSTZrd2pIMzJLSHZOX21FOVNFSmptSjZVY1R0LTBlajZrdWFMY3RSUVJOcTR2ZmItekJDN180SEN2cmdXY0VyQQ?oc=5"
          ],
-         "published": "Mon, 26 May 2025 12:22:46 GMT",
-         "publishedParsed": "2025-05-26T12:22:46Z",
+         "published": "Mon, 26 May 2025 12:23:40 GMT",
+         "publishedParsed": "2025-05-26T12:23:40Z",
          "guid": "CBMitgFBVV95cUxNR0tiSVl1VjBtMGMxVkdoX0Q0TkZsd3gybmg2SE5qN2RMRHhaODVXZWpncTlpVFI3b1VJclo5OW9ZeGZjNEQ0QjhDSHdkcU5ycWFORVNua1FsQjJlbGo3VC0wbm0wWDFpVFltUXJtdFBlNmpyQ0ZMSTZrd2pIMzJLSHZOX21FOVNFSmptSjZVY1R0LTBlajZrdWFMY3RSUVJOcTR2ZmItekJDN180SEN2cmdXY0VyQQ"
-     },
-     {
-         "title": "50 Million Gallons of Sewage Flow Daily From Mexico Into California Beaches - The New York Times",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPOWd5bzR1bzRhT3M1UGVnVFlZT3FHQ3YzYjFMeUszNDF5UGhqUUV5RldnclZyQUVCRW1mNWJ3bTloeGtkM2tKbGtnd0d5dVpia3AyczIyYW16VnJkazd0SkhOYnVXaDVLd1VHdWRtX0s5SjBKYmNIZ1U5MVdYR1BQMQ?oc=5\" target=\"_blank\"\u003e50 Million Gallons of Sewage Flow Daily From Mexico Into California Beaches\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQWl9tUWlCOWxIQ2h5eVpMamx4Zk1xelpuaFZWSGgyYXBqR1BCc25yLVBDUUV6OGpRNks0QUczZEhFVDNra2ZRYlVjeFZjRXBKR1JoeGx4dGhrY1dCTjF3VTI5VUtUYVpRaWNHVm9yMlUyekdnbVFVaVNHU1NWU25CVFZTQWdpSy1YaEJFeFlhR1VfUmhvU2M4OC1pUWl1R1VYQlHSAacBQVVfeXFMT1kyRE5mSzdBN01lNFBYeXFtYzlnNC1VaHdlLU5OaW9jWjZ3UFhFSWJrUzNkQWkybnp3T0ZFdFlnaVJGdm5xaDFEa3VWYnpNbHZaSnFscVpaYXZjNWVkdVFROFNVdkVvU1huZnFjWXlBaFVSTTAwOGplSTF5Rjg0V0h3MWdyNDlVVGhRSUNiVkhFdTFDcUJJU04ySUFvQUF5T0x3cGJLb28?oc=5\" target=\"_blank\"\u003eCoronado shoreline closed due to sewage from Tijuana River\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003efox5sandiego.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeWxBSHFZNlozal8wOFhhQ1QxQWFKenRSSUdwWlJ4ZGgwQmU0c19EMFJNaFdUXzhxbWdERENMTkc5UHpDQW1NVmRCOE5Qd0ZHVWM1OXpyUTh5UkN4d1NQU1dCYk5mdGJ6U1hjdmVaWHlZdURqSjI0cHYteWE3a2xTejlyTWlqeFU1MW1RNFhKWU1kdE1PU2IwbDdIT1VYdUo5NHFkM1NJb2d4SW4weWtQemJ1SEMwM0d2UUtHa1JGOENSZWc0MXJMTDFjR0NGMHdkMHhKY3BuUUY1T3A5Q3RZRDZ2YXRreVNXVmtN?oc=5\" target=\"_blank\"\u003eSewage pollution forces beach closures in Coronado on Memorial Day weekend\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003ecbs8.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQMHBNT0M0d3RXYlczc2dLNFJDeTJIWVpEUkhYLTFleTdFU21KaWNfdi1tMnR0a1RNSE1SLXFhQnA4b3hVd0RpZjJpSlVVNTJOMXhZNjNHUWhnLXhHOHkzaExONUNUbGpwcmkzYnRta0FkUVZGX0pUazViRGZ3LVpobEI4dVBGcUozZUdobWpsRWsyS1czM25mQWl1V0tGYm9CaXdBdC1IU0JXd0w5a1REU0RWVGbSAbwBQVVfeXFMTUtjbms2dnJqWTVjOHl3TzBJbVBhMC13Skd6MDJiWm4zaWUzRmtxV2JpYlphSUhiQmUtOGFEM09uU1FhdERLV0JCa2tfOU5uNm9aMVNQbzQ4MFZpY1l0NVd1eVE5OFZqak1yU3ZGdWs4Y3N3S0l1eUE2VlhCQU9HWHZnM3g1MUJQblo2QjI5THAyeVVFLUJsUXFmZ3FZN2pOaHZlT3d1YUszdzY4cEhwMlQ2bzVuZXhVMXZLczY?oc=5\" target=\"_blank\"\u003eCoronado shoreline closed again because of new sewage contamination\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNBC 7 San Diego\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPZDZJWE1FY3VmQWtmNnRLSGJNdk9TUWNwUWJSOFhqc0VEc2FpX1JQUEdnZ1ZCckMtdEZIUUQ5WjZteWE0LTU5UGNtNzZ4Rmt6UTNhTHFISjhFWGc0Z1ptTGFkdkI3R3pEUDRwUHgwaXk0WmtxSng1RjVrR3dsVXRSMW9lWEZyRnBoa1duQUZXRDdHaTg?oc=5\" target=\"_blank\"\u003eNo Swimming Allowed at Popular U.S. Beach on Memorial Day\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eMen's Journal\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOWd5bzR1bzRhT3M1UGVnVFlZT3FHQ3YzYjFMeUszNDF5UGhqUUV5RldnclZyQUVCRW1mNWJ3bTloeGtkM2tKbGtnd0d5dVpia3AyczIyYW16VnJkazd0SkhOYnVXaDVLd1VHdWRtX0s5SjBKYmNIZ1U5MVdYR1BQMQ?oc=5",
-         "links": [
-             "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOWd5bzR1bzRhT3M1UGVnVFlZT3FHQ3YzYjFMeUszNDF5UGhqUUV5RldnclZyQUVCRW1mNWJ3bTloeGtkM2tKbGtnd0d5dVpia3AyczIyYW16VnJkazd0SkhOYnVXaDVLd1VHdWRtX0s5SjBKYmNIZ1U5MVdYR1BQMQ?oc=5"
-         ],
-         "published": "Mon, 26 May 2025 09:01:54 GMT",
-         "publishedParsed": "2025-05-26T09:01:54Z",
-         "guid": "CBMigAFBVV95cUxPOWd5bzR1bzRhT3M1UGVnVFlZT3FHQ3YzYjFMeUszNDF5UGhqUUV5RldnclZyQUVCRW1mNWJ3bTloeGtkM2tKbGtnd0d5dVpia3AyczIyYW16VnJkazd0SkhOYnVXaDVLd1VHdWRtX0s5SjBKYmNIZ1U5MVdYR1BQMQ"
-     },
-     {
-         "title": "FromSoft's singular mech game Chromehounds is back online",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44102988\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.readonlymemo.com/interview-15-years-after-the-servers-shut-down-fromsofts-singular-mech-game-chromehounds-is-back-online/",
-         "links": [
-             "https://www.readonlymemo.com/interview-15-years-after-the-servers-shut-down-fromsofts-singular-mech-game-chromehounds-is-back-online/"
-         ],
-         "published": "Tue, 27 May 2025 00:52:43 +0000",
-         "publishedParsed": "2025-05-27T00:52:43Z"
-     },
-     {
-         "title": "Yes-rs: A fast, memory-safe rewrite of the classic Unix yes command",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44103116\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/jedisct1/yes-rs",
-         "links": [
-             "https://github.com/jedisct1/yes-rs"
-         ],
-         "published": "Tue, 27 May 2025 01:20:29 +0000",
-         "publishedParsed": "2025-05-27T01:20:29Z"
      },
      {
          "title": "CSS Minecraft",
@@ -1725,14 +1831,14 @@
          "publishedParsed": "2025-05-26T18:28:43Z"
      },
      {
-         "title": "Accessing private GitHub repositories via MCP",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44102376\"\u003eComments\u003c/a\u003e",
+         "title": "GitHub MCP exploited: Accessing private repositories via MCP",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44097390\"\u003eComments\u003c/a\u003e",
          "link": "https://invariantlabs.ai/blog/mcp-github-vulnerability",
          "links": [
              "https://invariantlabs.ai/blog/mcp-github-vulnerability"
          ],
-         "published": "Mon, 26 May 2025 22:53:51 +0000",
-         "publishedParsed": "2025-05-26T22:53:51Z"
+         "published": "Mon, 26 May 2025 13:46:25 +0000",
+         "publishedParsed": "2025-05-26T13:46:25Z"
      },
      {
          "title": "Clojure MCP",
@@ -1745,6 +1851,36 @@
          "publishedParsed": "2025-05-25T06:48:39Z"
      },
      {
+         "title": "Show HN: Lazy Tetris",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44103839\"\u003eComments\u003c/a\u003e",
+         "link": "https://lazytetris.com/",
+         "links": [
+             "https://lazytetris.com/"
+         ],
+         "published": "Tue, 27 May 2025 03:58:07 +0000",
+         "publishedParsed": "2025-05-27T03:58:07Z"
+     },
+     {
+         "title": "Ask HN: What projects do you donate to?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44071321\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=44071321",
+         "links": [
+             "https://news.ycombinator.com/item?id=44071321"
+         ],
+         "published": "Fri, 23 May 2025 09:33:46 +0000",
+         "publishedParsed": "2025-05-23T09:33:46Z"
+     },
+     {
+         "title": "Mesa3D Drivers for Windows",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44104008\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/pal1000/mesa-dist-win",
+         "links": [
+             "https://github.com/pal1000/mesa-dist-win"
+         ],
+         "published": "Tue, 27 May 2025 04:52:38 +0000",
+         "publishedParsed": "2025-05-27T04:52:38Z"
+     },
+     {
          "title": "Lossless video compression using Bloom filters",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44100179\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md",
@@ -1755,7 +1891,7 @@
          "publishedParsed": "2025-05-26T18:32:02Z"
      },
      {
-         "title": "Power Failure",
+         "title": "Power Failure: The downfall of General Electric",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44102034\"\u003eComments\u003c/a\u003e",
          "link": "https://www.gwintrob.com/power-failure-review/",
          "links": [
@@ -1763,6 +1899,16 @@
          ],
          "published": "Mon, 26 May 2025 21:54:01 +0000",
          "publishedParsed": "2025-05-26T21:54:01Z"
+     },
+     {
+         "title": "Rock, Paper, Scissors that learns how you play using markov chains",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44071722\"\u003eComments\u003c/a\u003e",
+         "link": "https://luduxia.com/showdown/",
+         "links": [
+             "https://luduxia.com/showdown/"
+         ],
+         "published": "Fri, 23 May 2025 11:05:18 +0000",
+         "publishedParsed": "2025-05-23T11:05:18Z"
      },
      {
          "title": "Show HN: PgDog – Shard Postgres without extensions",
@@ -1775,14 +1921,14 @@
          "publishedParsed": "2025-05-26T16:55:49Z"
      },
      {
-         "title": "The UI future is colourful and dimensional",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44103131\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.flarup.email/p/the-future-is-colourful-and-dimensional",
+         "title": "FromSoft's singular mech game Chromehounds is back online",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44102988\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.readonlymemo.com/interview-15-years-after-the-servers-shut-down-fromsofts-singular-mech-game-chromehounds-is-back-online/",
          "links": [
-             "https://www.flarup.email/p/the-future-is-colourful-and-dimensional"
+             "https://www.readonlymemo.com/interview-15-years-after-the-servers-shut-down-fromsofts-singular-mech-game-chromehounds-is-back-online/"
          ],
-         "published": "Tue, 27 May 2025 01:23:31 +0000",
-         "publishedParsed": "2025-05-27T01:23:31Z"
+         "published": "Tue, 27 May 2025 00:52:43 +0000",
+         "publishedParsed": "2025-05-27T00:52:43Z"
      },
      {
          "title": "Trying to teach in the age of the AI homework machine",
@@ -1805,16 +1951,6 @@
          "publishedParsed": "2025-05-26T21:25:56Z"
      },
      {
-         "title": "Get PC BIOS back on UEFI only system",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44101828\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/FlyGoat/csmwrap",
-         "links": [
-             "https://github.com/FlyGoat/csmwrap"
-         ],
-         "published": "Mon, 26 May 2025 21:25:09 +0000",
-         "publishedParsed": "2025-05-26T21:25:09Z"
-     },
-     {
          "title": "A new class of materials that can passively harvest water from air",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44097144\"\u003eComments\u003c/a\u003e",
          "link": "https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/",
@@ -1823,6 +1959,16 @@
          ],
          "published": "Mon, 26 May 2025 13:14:29 +0000",
          "publishedParsed": "2025-05-26T13:14:29Z"
+     },
+     {
+         "title": "Get PC BIOS back on UEFI only system",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44101828\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/FlyGoat/csmwrap",
+         "links": [
+             "https://github.com/FlyGoat/csmwrap"
+         ],
+         "published": "Mon, 26 May 2025 21:25:09 +0000",
+         "publishedParsed": "2025-05-26T21:25:09Z"
      },
      {
          "title": "Calendars, Contacts and Files in Stalwart",
@@ -1835,14 +1981,14 @@
          "publishedParsed": "2025-05-27T01:11:04Z"
      },
      {
-         "title": "Grammars of Formal Uncertainty",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44103431\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2505.20047",
+         "title": "The UI future is colourful and dimensional",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44103131\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.flarup.email/p/the-future-is-colourful-and-dimensional",
          "links": [
-             "https://arxiv.org/abs/2505.20047"
+             "https://www.flarup.email/p/the-future-is-colourful-and-dimensional"
          ],
-         "published": "Tue, 27 May 2025 02:27:19 +0000",
-         "publishedParsed": "2025-05-27T02:27:19Z"
+         "published": "Tue, 27 May 2025 01:23:31 +0000",
+         "publishedParsed": "2025-05-27T01:23:31Z"
      },
      {
          "title": "TSMC bets on unorthodox optical tech",
@@ -1865,16 +2011,6 @@
          "publishedParsed": "2025-05-24T19:24:12Z"
      },
      {
-         "title": "Owls in Towels",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44101349\"\u003eComments\u003c/a\u003e",
-         "link": "https://owlsintowels.org/",
-         "links": [
-             "https://owlsintowels.org/"
-         ],
-         "published": "Mon, 26 May 2025 20:27:59 +0000",
-         "publishedParsed": "2025-05-26T20:27:59Z"
-     },
-     {
          "title": "High strength bio-concrete for the production of building components",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44072309\"\u003eComments\u003c/a\u003e",
          "link": "https://www.nature.com/articles/s44296-023-00004-6",
@@ -1885,24 +2021,34 @@
          "publishedParsed": "2025-05-23T12:40:15Z"
      },
      {
-         "title": "The Difference Between Downloading and Streaming",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44101072\"\u003eComments\u003c/a\u003e",
-         "link": "https://danq.me/2025/05/26/downloading-vs-streaming/",
+         "title": "The Monster-Slaying Game You Can Play Almost Anywhere",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44075409\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nytimes.com/2025/05/21/arts/play-doom-ports.html",
          "links": [
-             "https://danq.me/2025/05/26/downloading-vs-streaming/"
+             "https://www.nytimes.com/2025/05/21/arts/play-doom-ports.html"
          ],
-         "published": "Mon, 26 May 2025 19:56:02 +0000",
-         "publishedParsed": "2025-05-26T19:56:02Z"
+         "published": "Fri, 23 May 2025 18:49:25 +0000",
+         "publishedParsed": "2025-05-23T18:49:25Z"
      },
      {
-         "title": "Launch HN: Nomi (YC X25) – Copilot for Sales",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44098706\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=44098706",
+         "title": "Owls in Towels",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44101349\"\u003eComments\u003c/a\u003e",
+         "link": "https://owlsintowels.org/",
          "links": [
-             "https://news.ycombinator.com/item?id=44098706"
+             "https://owlsintowels.org/"
          ],
-         "published": "Mon, 26 May 2025 16:05:21 +0000",
-         "publishedParsed": "2025-05-26T16:05:21Z"
+         "published": "Mon, 26 May 2025 20:27:59 +0000",
+         "publishedParsed": "2025-05-26T20:27:59Z"
+     },
+     {
+         "title": "Yes-rs: A fast, memory-safe rewrite of the classic Unix yes command",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44103116\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/jedisct1/yes-rs",
+         "links": [
+             "https://github.com/jedisct1/yes-rs"
+         ],
+         "published": "Tue, 27 May 2025 01:20:29 +0000",
+         "publishedParsed": "2025-05-27T01:20:29Z"
      },
      {
          "title": "TIL: timeout in Bash scripts",
@@ -1915,44 +2061,54 @@
          "publishedParsed": "2025-05-26T11:34:28Z"
      },
      {
-         "title": "Show HN: I made a running app that turns your runs to a virtual garden",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44103416\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.runandgrow.com/",
+         "title": "The Difference Between Downloading and Streaming",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44101072\"\u003eComments\u003c/a\u003e",
+         "link": "https://danq.me/2025/05/26/downloading-vs-streaming/",
          "links": [
-             "https://www.runandgrow.com/"
+             "https://danq.me/2025/05/26/downloading-vs-streaming/"
          ],
-         "published": "Tue, 27 May 2025 02:25:38 +0000",
-         "publishedParsed": "2025-05-27T02:25:38Z"
+         "published": "Mon, 26 May 2025 19:56:02 +0000",
+         "publishedParsed": "2025-05-26T19:56:02Z"
      },
      {
-         "title": "Changelog: Lazy trees (faster Nix builds)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44086803\"\u003eComments\u003c/a\u003e",
-         "link": "https://determinate.systems/posts/changelog-determinate-nix-352/",
+         "title": "Grammars of Formal Uncertainty",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44103431\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2505.20047",
          "links": [
-             "https://determinate.systems/posts/changelog-determinate-nix-352/"
+             "https://arxiv.org/abs/2505.20047"
          ],
-         "published": "Sun, 25 May 2025 10:14:30 +0000",
-         "publishedParsed": "2025-05-25T10:14:30Z"
+         "published": "Tue, 27 May 2025 02:27:19 +0000",
+         "publishedParsed": "2025-05-27T02:27:19Z"
      },
      {
-         "title": "New DSL \"MassQL\" lets scientists query mass spectrometry data",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44068945\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ucr.edu/articles/2025/05/12/new-computer-language-helps-spot-hidden-pollutants",
+         "title": "Launch HN: Nomi (YC X25) – Copilot for Sales",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44098706\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=44098706",
          "links": [
-             "https://news.ucr.edu/articles/2025/05/12/new-computer-language-helps-spot-hidden-pollutants"
+             "https://news.ycombinator.com/item?id=44098706"
          ],
-         "published": "Fri, 23 May 2025 01:28:15 +0000",
-         "publishedParsed": "2025-05-23T01:28:15Z"
+         "published": "Mon, 26 May 2025 16:05:21 +0000",
+         "publishedParsed": "2025-05-26T16:05:21Z"
      },
      {
-         "title": "Iron Spring PL/I Compiler",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44101787\"\u003eComments\u003c/a\u003e",
-         "link": "http://www.iron-spring.com/",
+         "title": "Hacker News now runs on top of Common Lisp",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44099006\"\u003eComments\u003c/a\u003e",
+         "link": "https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/",
          "links": [
-             "http://www.iron-spring.com/"
+             "https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/"
          ],
-         "published": "Mon, 26 May 2025 21:19:18 +0000",
-         "publishedParsed": "2025-05-26T21:19:18Z"
+         "published": "Mon, 26 May 2025 16:37:02 +0000",
+         "publishedParsed": "2025-05-26T16:37:02Z"
+     },
+     {
+         "title": "Demonstrating end-to-end scientific discovery with Robin: a multi-agent system",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44042751\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.futurehouse.org/research-announcements/demonstrating-end-to-end-scientific-discovery-with-robin-a-multi-agent-system",
+         "links": [
+             "https://www.futurehouse.org/research-announcements/demonstrating-end-to-end-scientific-discovery-with-robin-a-multi-agent-system"
+         ],
+         "published": "Tue, 20 May 2025 15:32:09 +0000",
+         "publishedParsed": "2025-05-20T15:32:09Z"
      },
      {
          "title": "Particle Life simulation in browser using WebGPU",
@@ -1963,35 +2119,5 @@
          ],
          "published": "Mon, 26 May 2025 12:28:12 +0000",
          "publishedParsed": "2025-05-26T12:28:12Z"
-     },
-     {
-         "title": "Forester, a tool for scientific and mathematical hypertexts",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44103027\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.forester-notes.org/index/index.xml",
-         "links": [
-             "https://www.forester-notes.org/index/index.xml"
-         ],
-         "published": "Tue, 27 May 2025 01:00:57 +0000",
-         "publishedParsed": "2025-05-27T01:00:57Z"
-     },
-     {
-         "title": "WavePhoenix – open-source implementation of the Nintendo WaveBird protocol",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44098442\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/loopj/wavephoenix",
-         "links": [
-             "https://github.com/loopj/wavephoenix"
-         ],
-         "published": "Mon, 26 May 2025 15:37:12 +0000",
-         "publishedParsed": "2025-05-26T15:37:12Z"
-     },
-     {
-         "title": "Like a hot dog, the Wienermobile is made from a variety of ingredients (2022)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44074787\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.roadandtrack.com/car-culture/a38734853/wienermobile-has-corvette-g-wagen-and-nsx-parts/",
-         "links": [
-             "https://www.roadandtrack.com/car-culture/a38734853/wienermobile-has-corvette-g-wagen-and-nsx-parts/"
-         ],
-         "published": "Fri, 23 May 2025 17:36:11 +0000",
-         "publishedParsed": "2025-05-23T17:36:11Z"
      }
  ]
