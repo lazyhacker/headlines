@@ -30,14 +30,14 @@
          "publishedParsed": "2025-05-25T10:49:31Z"
      },
      {
-         "title": "Chairs, Chairs, Chairs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44087020\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.parliament.uk/about/living-heritage/building/cultural-collections/historic-furniture/the-collection/chairs-chairs-chairs/",
+         "title": "Square Theory",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44107942\"\u003eComments\u003c/a\u003e",
+         "link": "https://aaronson.org/blog/square-theory",
          "links": [
-             "https://www.parliament.uk/about/living-heritage/building/cultural-collections/historic-furniture/the-collection/chairs-chairs-chairs/"
+             "https://aaronson.org/blog/square-theory"
          ],
-         "published": "Sun, 25 May 2025 11:14:50 +0000",
-         "publishedParsed": "2025-05-25T11:14:50Z"
+         "published": "Tue, 27 May 2025 15:33:55 +0000",
+         "publishedParsed": "2025-05-27T15:33:55Z"
      },
      {
          "title": "Negotiating PoE+ Power in the Pre‑Boot Environment",
@@ -50,16 +50,6 @@
          "publishedParsed": "2025-05-27T23:45:02Z"
      },
      {
-         "title": "Square Theory",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44107942\"\u003eComments\u003c/a\u003e",
-         "link": "https://aaronson.org/blog/square-theory",
-         "links": [
-             "https://aaronson.org/blog/square-theory"
-         ],
-         "published": "Tue, 27 May 2025 15:33:55 +0000",
-         "publishedParsed": "2025-05-27T15:33:55Z"
-     },
-     {
          "title": "The Level Design Book",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44086973\"\u003eComments\u003c/a\u003e",
          "link": "https://book.leveldesignbook.com",
@@ -70,7 +60,27 @@
          "publishedParsed": "2025-05-25T11:03:26Z"
      },
      {
-         "title": "Look ma, no bubbles designing a low-latency megakernel for Llama-1B",
+         "title": "CheerpJ 4.1: Java in the browser, now supporting Java 17 (preview)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44114483\"\u003eComments\u003c/a\u003e",
+         "link": "https://labs.leaningtech.com/blog/cheerpj-4.1",
+         "links": [
+             "https://labs.leaningtech.com/blog/cheerpj-4.1"
+         ],
+         "published": "Wed, 28 May 2025 10:23:56 +0000",
+         "publishedParsed": "2025-05-28T10:23:56Z"
+     },
+     {
+         "title": "DWARF as a Shared Reverse Engineering Format",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44113026\"\u003eComments\u003c/a\u003e",
+         "link": "https://lief.re/blog/2025-05-27-dwarf-editor/",
+         "links": [
+             "https://lief.re/blog/2025-05-27-dwarf-editor/"
+         ],
+         "published": "Wed, 28 May 2025 05:34:47 +0000",
+         "publishedParsed": "2025-05-28T05:34:47Z"
+     },
+     {
+         "title": "Look Ma, No Bubbles: Designing a Low-Latency Megakernel for Llama-1B",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44111673\"\u003eComments\u003c/a\u003e",
          "link": "https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles",
          "links": [
@@ -90,36 +100,6 @@
          "publishedParsed": "2025-05-27T23:10:44Z"
      },
      {
-         "title": "DWARF as a Shared Reverse Engineering Format",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44113026\"\u003eComments\u003c/a\u003e",
-         "link": "https://lief.re/blog/2025-05-27-dwarf-editor/",
-         "links": [
-             "https://lief.re/blog/2025-05-27-dwarf-editor/"
-         ],
-         "published": "Wed, 28 May 2025 05:34:47 +0000",
-         "publishedParsed": "2025-05-28T05:34:47Z"
-     },
-     {
-         "title": "Developing first petahertz-speed phototransistor in ambient conditions",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44085884\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.arizona.edu/news/u-researchers-developing-worlds-first-petahertz-speed-phototransistor-ambient-conditions",
-         "links": [
-             "https://news.arizona.edu/news/u-researchers-developing-worlds-first-petahertz-speed-phototransistor-ambient-conditions"
-         ],
-         "published": "Sun, 25 May 2025 05:57:53 +0000",
-         "publishedParsed": "2025-05-25T05:57:53Z"
-     },
-     {
-         "title": "A thought on JavaScript \"proof of work\" anti-scraper systems",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44094109\"\u003eComments\u003c/a\u003e",
-         "link": "https://utcc.utoronto.ca/~cks/space/blog/web/JavaScriptScraperObstacles",
-         "links": [
-             "https://utcc.utoronto.ca/~cks/space/blog/web/JavaScriptScraperObstacles"
-         ],
-         "published": "Mon, 26 May 2025 05:01:25 +0000",
-         "publishedParsed": "2025-05-26T05:01:25Z"
-     },
-     {
          "title": "Pyrefly vs. Ty: Comparing Python's two new Rust-based type checkers",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44107655\"\u003eComments\u003c/a\u003e",
          "link": "https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/",
@@ -130,24 +110,14 @@
          "publishedParsed": "2025-05-27T15:01:55Z"
      },
      {
-         "title": "Why are 2025/05/28 and 2025-05-28 different days in JavaScript?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44113397\"\u003eComments\u003c/a\u003e",
-         "link": "https://brandondong.github.io/blog/javascript_dates/",
+         "title": "The length of file names in early Unix",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44086219\"\u003eComments\u003c/a\u003e",
+         "link": "https://utcc.utoronto.ca/~cks/space/blog/unix/UnixEarlyFilenameLenghts",
          "links": [
-             "https://brandondong.github.io/blog/javascript_dates/"
+             "https://utcc.utoronto.ca/~cks/space/blog/unix/UnixEarlyFilenameLenghts"
          ],
-         "published": "Wed, 28 May 2025 07:09:31 +0000",
-         "publishedParsed": "2025-05-28T07:09:31Z"
-     },
-     {
-         "title": "There Is No Diffie-Hellman but Elliptic Curve Diffie-Hellman",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44083753\"\u003eComments\u003c/a\u003e",
-         "link": "https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/",
-         "links": [
-             "https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/"
-         ],
-         "published": "Sat, 24 May 2025 20:53:11 +0000",
-         "publishedParsed": "2025-05-24T20:53:11Z"
+         "published": "Sun, 25 May 2025 07:37:27 +0000",
+         "publishedParsed": "2025-05-25T07:37:27Z"
      },
      {
          "title": "How a hawk learned to use traffic signals to hunt more successfully",
@@ -160,6 +130,16 @@
          "publishedParsed": "2025-05-27T11:46:30Z"
      },
      {
+         "title": "There Is No Diffie-Hellman but Elliptic Curve Diffie-Hellman",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44083753\"\u003eComments\u003c/a\u003e",
+         "link": "https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/",
+         "links": [
+             "https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/"
+         ],
+         "published": "Sat, 24 May 2025 20:53:11 +0000",
+         "publishedParsed": "2025-05-24T20:53:11Z"
+     },
+     {
          "title": "Singularities in Space-Time Prove Hard to Kill",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44112641\"\u003eComments\u003c/a\u003e",
          "link": "https://www.quantamagazine.org/singularities-in-space-time-prove-hard-to-kill-20250527/",
@@ -168,26 +148,6 @@
          ],
          "published": "Wed, 28 May 2025 04:04:37 +0000",
          "publishedParsed": "2025-05-28T04:04:37Z"
-     },
-     {
-         "title": "Space Selfie",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44084892\"\u003eComments\u003c/a\u003e",
-         "link": "https://space.crunchlabs.com/",
-         "links": [
-             "https://space.crunchlabs.com/"
-         ],
-         "published": "Sun, 25 May 2025 01:36:28 +0000",
-         "publishedParsed": "2025-05-25T01:36:28Z"
-     },
-     {
-         "title": "Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44109257\"\u003eComments\u003c/a\u003e",
-         "link": "https://nathan.rs/posts/gpu-shader-programming/",
-         "links": [
-             "https://nathan.rs/posts/gpu-shader-programming/"
-         ],
-         "published": "Tue, 27 May 2025 18:02:51 +0000",
-         "publishedParsed": "2025-05-27T18:02:51Z"
      },
      {
          "title": "Mustard Watches (1990)",
@@ -200,24 +160,14 @@
          "publishedParsed": "2025-05-27T21:48:54Z"
      },
      {
-         "title": "Are the Colors in Astronomical Images 'Real'?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44089317\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.scientificamerican.com/article/are-the-colors-in-space-real/",
+         "title": "Space Selfie",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44084892\"\u003eComments\u003c/a\u003e",
+         "link": "https://space.crunchlabs.com/",
          "links": [
-             "https://www.scientificamerican.com/article/are-the-colors-in-space-real/"
+             "https://space.crunchlabs.com/"
          ],
-         "published": "Sun, 25 May 2025 17:29:19 +0000",
-         "publishedParsed": "2025-05-25T17:29:19Z"
-     },
-     {
-         "title": "An Extreme Cousin for Pluto? Possible Dwarf Planet at Solar System Edge",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44112493\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge",
-         "links": [
-             "https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge"
-         ],
-         "published": "Wed, 28 May 2025 03:23:53 +0000",
-         "publishedParsed": "2025-05-28T03:23:53Z"
+         "published": "Sun, 25 May 2025 01:36:28 +0000",
+         "publishedParsed": "2025-05-25T01:36:28Z"
      },
      {
          "title": "The Hobby Computer Culture",
@@ -240,14 +190,84 @@
          "publishedParsed": "2025-05-27T15:59:20Z"
      },
      {
-         "title": "BGP handling bug causes widespread internet routing instability",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44105796\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident",
+         "title": "LumoSQL",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44105619\"\u003eComments\u003c/a\u003e",
+         "link": "https://lumosql.org/src/lumosql/doc/trunk/README.md",
          "links": [
-             "https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident"
+             "https://lumosql.org/src/lumosql/doc/trunk/README.md"
          ],
-         "published": "Tue, 27 May 2025 11:15:15 +0000",
-         "publishedParsed": "2025-05-27T11:15:15Z"
+         "published": "Tue, 27 May 2025 10:39:30 +0000",
+         "publishedParsed": "2025-05-27T10:39:30Z"
+     },
+     {
+         "title": "Why are 2025/05/28 and 2025-05-28 different days in JavaScript?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44113397\"\u003eComments\u003c/a\u003e",
+         "link": "https://brandondong.github.io/blog/javascript_dates/",
+         "links": [
+             "https://brandondong.github.io/blog/javascript_dates/"
+         ],
+         "published": "Wed, 28 May 2025 07:09:31 +0000",
+         "publishedParsed": "2025-05-28T07:09:31Z"
+     },
+     {
+         "title": "Looking for Keys Under the Lamppost",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44091287\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.johndcook.com/blog/2025/05/25/lamppost/",
+         "links": [
+             "https://www.johndcook.com/blog/2025/05/25/lamppost/"
+         ],
+         "published": "Sun, 25 May 2025 21:25:18 +0000",
+         "publishedParsed": "2025-05-25T21:25:18Z"
+     },
+     {
+         "title": "A privilege escalation from Chrome extensions (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44111898\"\u003eComments\u003c/a\u003e",
+         "link": "https://0x44.xyz/blog/cve-2023-4369/",
+         "links": [
+             "https://0x44.xyz/blog/cve-2023-4369/"
+         ],
+         "published": "Wed, 28 May 2025 00:48:45 +0000",
+         "publishedParsed": "2025-05-28T00:48:45Z"
+     },
+     {
+         "title": "Show HN: Lazy Tetris",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44103839\"\u003eComments\u003c/a\u003e",
+         "link": "https://lazytetris.com/",
+         "links": [
+             "https://lazytetris.com/"
+         ],
+         "published": "Tue, 27 May 2025 03:58:07 +0000",
+         "publishedParsed": "2025-05-27T03:58:07Z"
+     },
+     {
+         "title": "Ask HN: Stopping YC backed business from advertizing fake jobs at my company",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44113672\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=44113672",
+         "links": [
+             "https://news.ycombinator.com/item?id=44113672"
+         ],
+         "published": "Wed, 28 May 2025 07:53:54 +0000",
+         "publishedParsed": "2025-05-28T07:53:54Z"
+     },
+     {
+         "title": "Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44109257\"\u003eComments\u003c/a\u003e",
+         "link": "https://nathan.rs/posts/gpu-shader-programming/",
+         "links": [
+             "https://nathan.rs/posts/gpu-shader-programming/"
+         ],
+         "published": "Tue, 27 May 2025 18:02:51 +0000",
+         "publishedParsed": "2025-05-27T18:02:51Z"
+     },
+     {
+         "title": "Developing first petahertz-speed phototransistor in ambient conditions",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44085884\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.arizona.edu/news/u-researchers-developing-worlds-first-petahertz-speed-phototransistor-ambient-conditions",
+         "links": [
+             "https://news.arizona.edu/news/u-researchers-developing-worlds-first-petahertz-speed-phototransistor-ambient-conditions"
+         ],
+         "published": "Sun, 25 May 2025 05:57:53 +0000",
+         "publishedParsed": "2025-05-25T05:57:53Z"
      },
      {
          "title": "Using Postgres pg_test_fsync tool for testing low latency writes",
@@ -260,33 +280,13 @@
          "publishedParsed": "2025-05-28T02:15:15Z"
      },
      {
-         "title": "LumoSQL",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44105619\"\u003eComments\u003c/a\u003e",
-         "link": "https://lumosql.org/src/lumosql/doc/trunk/README.md",
+         "title": "Semicolons bring the drama; that's why I love them",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44081383\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ft.com/content/80c39c74-8753-44bf-aeb0-cf6701a64f02",
          "links": [
-             "https://lumosql.org/src/lumosql/doc/trunk/README.md"
+             "https://www.ft.com/content/80c39c74-8753-44bf-aeb0-cf6701a64f02"
          ],
-         "published": "Tue, 27 May 2025 10:39:30 +0000",
-         "publishedParsed": "2025-05-27T10:39:30Z"
-     },
-     {
-         "title": "Every wondered how Facebook spoofs Gmail message list snippet text?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44101385\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=44101385",
-         "links": [
-             "https://news.ycombinator.com/item?id=44101385"
-         ],
-         "published": "Mon, 26 May 2025 20:32:46 +0000",
-         "publishedParsed": "2025-05-26T20:32:46Z"
-     },
-     {
-         "title": "A privilege escalation from Chrome extensions (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44111898\"\u003eComments\u003c/a\u003e",
-         "link": "https://0x44.xyz/blog/cve-2023-4369/",
-         "links": [
-             "https://0x44.xyz/blog/cve-2023-4369/"
-         ],
-         "published": "Wed, 28 May 2025 00:48:45 +0000",
-         "publishedParsed": "2025-05-28T00:48:45Z"
+         "published": "Sat, 24 May 2025 14:32:11 +0000",
+         "publishedParsed": "2025-05-24T14:32:11Z"
      }
  ]
