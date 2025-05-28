@@ -1,6 +1,6 @@
 [
      {
-         "title": "Show HN: AutoThink – Boosts local LLM performance by 43% with adaptive reasoning",
+         "title": "Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44112326\"\u003eComments\u003c/a\u003e",
          "link": "https://news.ycombinator.com/item?id=44112326",
          "links": [
@@ -30,16 +30,6 @@
          "publishedParsed": "2025-05-27T23:45:02Z"
      },
      {
-         "title": "Square Theory",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44107942\"\u003eComments\u003c/a\u003e",
-         "link": "https://aaronson.org/blog/square-theory",
-         "links": [
-             "https://aaronson.org/blog/square-theory"
-         ],
-         "published": "Tue, 27 May 2025 15:33:55 +0000",
-         "publishedParsed": "2025-05-27T15:33:55Z"
-     },
-     {
          "title": "The Ingredients of a Productive Monorepo",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44086917\"\u003eComments\u003c/a\u003e",
          "link": "https://blog.swgillespie.me/posts/monorepo-ingredients/",
@@ -50,14 +40,14 @@
          "publishedParsed": "2025-05-25T10:49:31Z"
      },
      {
-         "title": "Look ma, no bubbles designing a low-latency megakernel for Llama-1B",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44111673\"\u003eComments\u003c/a\u003e",
-         "link": "https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles",
+         "title": "Square Theory",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44107942\"\u003eComments\u003c/a\u003e",
+         "link": "https://aaronson.org/blog/square-theory",
          "links": [
-             "https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles"
+             "https://aaronson.org/blog/square-theory"
          ],
-         "published": "Wed, 28 May 2025 00:01:20 +0000",
-         "publishedParsed": "2025-05-28T00:01:20Z"
+         "published": "Tue, 27 May 2025 15:33:55 +0000",
+         "publishedParsed": "2025-05-27T15:33:55Z"
      },
      {
          "title": "The Level Design Book",
@@ -70,84 +60,14 @@
          "publishedParsed": "2025-05-25T11:03:26Z"
      },
      {
-         "title": "OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit (TPU)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44111452\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/UCSBarchlab/OpenTPU",
+         "title": "A thought on JavaScript \"proof of work\" anti-scraper systems",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44094109\"\u003eComments\u003c/a\u003e",
+         "link": "https://utcc.utoronto.ca/~cks/space/blog/web/JavaScriptScraperObstacles",
          "links": [
-             "https://github.com/UCSBarchlab/OpenTPU"
+             "https://utcc.utoronto.ca/~cks/space/blog/web/JavaScriptScraperObstacles"
          ],
-         "published": "Tue, 27 May 2025 23:10:44 +0000",
-         "publishedParsed": "2025-05-27T23:10:44Z"
-     },
-     {
-         "title": "Using Postgres pg_test_fsync tool for testing low latency writes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44112218\"\u003eComments\u003c/a\u003e",
-         "link": "https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/",
-         "links": [
-             "https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/"
-         ],
-         "published": "Wed, 28 May 2025 02:15:15 +0000",
-         "publishedParsed": "2025-05-28T02:15:15Z"
-     },
-     {
-         "title": "Pyrefly vs. Ty: Comparing Python's two new Rust-based type checkers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44107655\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/",
-         "links": [
-             "https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/"
-         ],
-         "published": "Tue, 27 May 2025 15:01:55 +0000",
-         "publishedParsed": "2025-05-27T15:01:55Z"
-     },
-     {
-         "title": "How a hawk learned to use traffic signals to hunt more successfully",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44105965\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting",
-         "links": [
-             "https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting"
-         ],
-         "published": "Tue, 27 May 2025 11:46:30 +0000",
-         "publishedParsed": "2025-05-27T11:46:30Z"
-     },
-     {
-         "title": "There Is No Diffie-Hellman but Elliptic Curve Diffie-Hellman",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44083753\"\u003eComments\u003c/a\u003e",
-         "link": "https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/",
-         "links": [
-             "https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/"
-         ],
-         "published": "Sat, 24 May 2025 20:53:11 +0000",
-         "publishedParsed": "2025-05-24T20:53:11Z"
-     },
-     {
-         "title": "Nanoparticle-cell link enables EM wireless programming of transgene expression",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44093193\"\u003eComments\u003c/a\u003e",
-         "link": "https://phys.org/news/2025-05-nanoparticle-cell-interface-enables-electromagnetic.html",
-         "links": [
-             "https://phys.org/news/2025-05-nanoparticle-cell-interface-enables-electromagnetic.html"
-         ],
-         "published": "Mon, 26 May 2025 01:52:18 +0000",
-         "publishedParsed": "2025-05-26T01:52:18Z"
-     },
-     {
-         "title": "Mustard Watches (1990)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44110931\"\u003eComments\u003c/a\u003e",
-         "link": "https://girard.perso.math.cnrs.fr/mustard/article.html",
-         "links": [
-             "https://girard.perso.math.cnrs.fr/mustard/article.html"
-         ],
-         "published": "Tue, 27 May 2025 21:48:54 +0000",
-         "publishedParsed": "2025-05-27T21:48:54Z"
-     },
-     {
-         "title": "Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44109257\"\u003eComments\u003c/a\u003e",
-         "link": "https://nathan.rs/posts/gpu-shader-programming/",
-         "links": [
-             "https://nathan.rs/posts/gpu-shader-programming/"
-         ],
-         "published": "Tue, 27 May 2025 18:02:51 +0000",
-         "publishedParsed": "2025-05-27T18:02:51Z"
+         "published": "Mon, 26 May 2025 05:01:25 +0000",
+         "publishedParsed": "2025-05-26T05:01:25Z"
      },
      {
          "title": "Global high-performance proof-of-stake blockchain with erasure coding",
@@ -160,14 +80,94 @@
          "publishedParsed": "2025-05-28T02:47:53Z"
      },
      {
-         "title": "Space Selfie",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44084892\"\u003eComments\u003c/a\u003e",
-         "link": "https://space.crunchlabs.com/",
+         "title": "Look ma, no bubbles designing a low-latency megakernel for Llama-1B",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44111673\"\u003eComments\u003c/a\u003e",
+         "link": "https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles",
          "links": [
-             "https://space.crunchlabs.com/"
+             "https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles"
          ],
-         "published": "Sun, 25 May 2025 01:36:28 +0000",
-         "publishedParsed": "2025-05-25T01:36:28Z"
+         "published": "Wed, 28 May 2025 00:01:20 +0000",
+         "publishedParsed": "2025-05-28T00:01:20Z"
+     },
+     {
+         "title": "Another way electric cars clean the air: study says brake dust reduced by 83%",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44113256\"\u003eComments\u003c/a\u003e",
+         "link": "https://electrek.co/2025/05/27/another-way-electric-cars-clean-the-air-study-says-brake-dust-reduced-by-83/",
+         "links": [
+             "https://electrek.co/2025/05/27/another-way-electric-cars-clean-the-air-study-says-brake-dust-reduced-by-83/"
+         ],
+         "published": "Wed, 28 May 2025 06:40:47 +0000",
+         "publishedParsed": "2025-05-28T06:40:47Z"
+     },
+     {
+         "title": "OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit (TPU)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44111452\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/UCSBarchlab/OpenTPU",
+         "links": [
+             "https://github.com/UCSBarchlab/OpenTPU"
+         ],
+         "published": "Tue, 27 May 2025 23:10:44 +0000",
+         "publishedParsed": "2025-05-27T23:10:44Z"
+     },
+     {
+         "title": "Developing first petahertz-speed phototransistor in ambient conditions",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44085884\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.arizona.edu/news/u-researchers-developing-worlds-first-petahertz-speed-phototransistor-ambient-conditions",
+         "links": [
+             "https://news.arizona.edu/news/u-researchers-developing-worlds-first-petahertz-speed-phototransistor-ambient-conditions"
+         ],
+         "published": "Sun, 25 May 2025 05:57:53 +0000",
+         "publishedParsed": "2025-05-25T05:57:53Z"
+     },
+     {
+         "title": "Singularities in Space-Time Prove Hard to Kill",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44112641\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.quantamagazine.org/singularities-in-space-time-prove-hard-to-kill-20250527/",
+         "links": [
+             "https://www.quantamagazine.org/singularities-in-space-time-prove-hard-to-kill-20250527/"
+         ],
+         "published": "Wed, 28 May 2025 04:04:37 +0000",
+         "publishedParsed": "2025-05-28T04:04:37Z"
+     },
+     {
+         "title": "Pyrefly vs. Ty: Comparing Python's two new Rust-based type checkers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44107655\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/",
+         "links": [
+             "https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/"
+         ],
+         "published": "Tue, 27 May 2025 15:01:55 +0000",
+         "publishedParsed": "2025-05-27T15:01:55Z"
+     },
+     {
+         "title": "There Is No Diffie-Hellman but Elliptic Curve Diffie-Hellman",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44083753\"\u003eComments\u003c/a\u003e",
+         "link": "https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/",
+         "links": [
+             "https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/"
+         ],
+         "published": "Sat, 24 May 2025 20:53:11 +0000",
+         "publishedParsed": "2025-05-24T20:53:11Z"
+     },
+     {
+         "title": "How a hawk learned to use traffic signals to hunt more successfully",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44105965\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting",
+         "links": [
+             "https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting"
+         ],
+         "published": "Tue, 27 May 2025 11:46:30 +0000",
+         "publishedParsed": "2025-05-27T11:46:30Z"
+     },
+     {
+         "title": "An Extreme Cousin for Pluto? Possible Dwarf Planet at Solar System Edge",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44112493\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge",
+         "links": [
+             "https://www.ias.edu/news/extreme-cousin-pluto-possible-dwarf-planet-discovered-solar-systems-edge"
+         ],
+         "published": "Wed, 28 May 2025 03:23:53 +0000",
+         "publishedParsed": "2025-05-28T03:23:53Z"
      },
      {
          "title": "A privilege escalation from Chrome extensions (2023)",
@@ -180,14 +180,44 @@
          "publishedParsed": "2025-05-28T00:48:45Z"
      },
      {
-         "title": "Every wondered how Facebook spoofs Gmail message list snippet text?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44101385\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=44101385",
+         "title": "Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44109257\"\u003eComments\u003c/a\u003e",
+         "link": "https://nathan.rs/posts/gpu-shader-programming/",
          "links": [
-             "https://news.ycombinator.com/item?id=44101385"
+             "https://nathan.rs/posts/gpu-shader-programming/"
          ],
-         "published": "Mon, 26 May 2025 20:32:46 +0000",
-         "publishedParsed": "2025-05-26T20:32:46Z"
+         "published": "Tue, 27 May 2025 18:02:51 +0000",
+         "publishedParsed": "2025-05-27T18:02:51Z"
+     },
+     {
+         "title": "Space Selfie",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44084892\"\u003eComments\u003c/a\u003e",
+         "link": "https://space.crunchlabs.com/",
+         "links": [
+             "https://space.crunchlabs.com/"
+         ],
+         "published": "Sun, 25 May 2025 01:36:28 +0000",
+         "publishedParsed": "2025-05-25T01:36:28Z"
+     },
+     {
+         "title": "Mustard Watches (1990)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44110931\"\u003eComments\u003c/a\u003e",
+         "link": "https://girard.perso.math.cnrs.fr/mustard/article.html",
+         "links": [
+             "https://girard.perso.math.cnrs.fr/mustard/article.html"
+         ],
+         "published": "Tue, 27 May 2025 21:48:54 +0000",
+         "publishedParsed": "2025-05-27T21:48:54Z"
+     },
+     {
+         "title": "Using Postgres pg_test_fsync tool for testing low latency writes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44112218\"\u003eComments\u003c/a\u003e",
+         "link": "https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/",
+         "links": [
+             "https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/"
+         ],
+         "published": "Wed, 28 May 2025 02:15:15 +0000",
+         "publishedParsed": "2025-05-28T02:15:15Z"
      },
      {
          "title": "Launch HN: Relace (YC W23) – Models for fast and reliable codegen",
@@ -200,14 +230,14 @@
          "publishedParsed": "2025-05-27T15:59:20Z"
      },
      {
-         "title": "The Hobby Computer Culture",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44081395\"\u003eComments\u003c/a\u003e",
-         "link": "https://technicshistory.com/2025/05/24/the-hobby-computer-culture/",
+         "title": "Nanoparticle-cell link enables EM wireless programming of transgene expression",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44093193\"\u003eComments\u003c/a\u003e",
+         "link": "https://phys.org/news/2025-05-nanoparticle-cell-interface-enables-electromagnetic.html",
          "links": [
-             "https://technicshistory.com/2025/05/24/the-hobby-computer-culture/"
+             "https://phys.org/news/2025-05-nanoparticle-cell-interface-enables-electromagnetic.html"
          ],
-         "published": "Sat, 24 May 2025 14:33:47 +0000",
-         "publishedParsed": "2025-05-24T14:33:47Z"
+         "published": "Mon, 26 May 2025 01:52:18 +0000",
+         "publishedParsed": "2025-05-26T01:52:18Z"
      },
      {
          "title": "BGP handling bug causes widespread internet routing instability",
@@ -220,6 +250,16 @@
          "publishedParsed": "2025-05-27T11:15:15Z"
      },
      {
+         "title": "The Hobby Computer Culture",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44081395\"\u003eComments\u003c/a\u003e",
+         "link": "https://technicshistory.com/2025/05/24/the-hobby-computer-culture/",
+         "links": [
+             "https://technicshistory.com/2025/05/24/the-hobby-computer-culture/"
+         ],
+         "published": "Sat, 24 May 2025 14:33:47 +0000",
+         "publishedParsed": "2025-05-24T14:33:47Z"
+     },
+     {
          "title": "LumoSQL",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44105619\"\u003eComments\u003c/a\u003e",
          "link": "https://lumosql.org/src/lumosql/doc/trunk/README.md",
@@ -230,34 +270,14 @@
          "publishedParsed": "2025-05-27T10:39:30Z"
      },
      {
-         "title": "Why the original Macintosh had a screen resolution of 512×324",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44110219\"\u003eComments\u003c/a\u003e",
-         "link": "https://512pixels.net/2025/05/original-macintosh-resolution/",
+         "title": "Every wondered how Facebook spoofs Gmail message list snippet text?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44101385\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=44101385",
          "links": [
-             "https://512pixels.net/2025/05/original-macintosh-resolution/"
+             "https://news.ycombinator.com/item?id=44101385"
          ],
-         "published": "Tue, 27 May 2025 20:02:50 +0000",
-         "publishedParsed": "2025-05-27T20:02:50Z"
-     },
-     {
-         "title": "Direct Preference Optimization vs. RLHF",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44089045\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.together.ai/blog/direct-preference-optimization",
-         "links": [
-             "https://www.together.ai/blog/direct-preference-optimization"
-         ],
-         "published": "Sun, 25 May 2025 16:50:36 +0000",
-         "publishedParsed": "2025-05-25T16:50:36Z"
-     },
-     {
-         "title": "GitHub MCP exploited: Accessing private repositories via MCP",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44097390\"\u003eComments\u003c/a\u003e",
-         "link": "https://invariantlabs.ai/blog/mcp-github-vulnerability",
-         "links": [
-             "https://invariantlabs.ai/blog/mcp-github-vulnerability"
-         ],
-         "published": "Mon, 26 May 2025 13:46:25 +0000",
-         "publishedParsed": "2025-05-26T13:46:25Z"
+         "published": "Mon, 26 May 2025 20:32:46 +0000",
+         "publishedParsed": "2025-05-26T20:32:46Z"
      },
      {
          "title": "Semicolons bring the drama; that's why I love them",
@@ -278,25 +298,5 @@
          ],
          "published": "Tue, 27 May 2025 17:42:15 +0000",
          "publishedParsed": "2025-05-27T17:42:15Z"
-     },
-     {
-         "title": "Show HN: Connecting People Through AI-Powered Video Sentiment Matching",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44112338\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.loom.com/share/9b7618a67e7347d9a7a539e89327cc77?sid=26adde55-432c-4cec-a7dd-f2ffad134161",
-         "links": [
-             "https://www.loom.com/share/9b7618a67e7347d9a7a539e89327cc77?sid=26adde55-432c-4cec-a7dd-f2ffad134161"
-         ],
-         "published": "Wed, 28 May 2025 02:42:08 +0000",
-         "publishedParsed": "2025-05-28T02:42:08Z"
-     },
-     {
-         "title": "Theory of Stupidity [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44112265\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.onthewing.org/user/Bonhoeffer%20-%20Theory%20of%20Stupidity.pdf",
-         "links": [
-             "https://www.onthewing.org/user/Bonhoeffer%20-%20Theory%20of%20Stupidity.pdf"
-         ],
-         "published": "Wed, 28 May 2025 02:25:28 +0000",
-         "publishedParsed": "2025-05-28T02:25:28Z"
      }
  ]
