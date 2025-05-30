@@ -10,34 +10,54 @@
          "publishedParsed": "2025-05-30T03:55:37Z"
      },
      {
-         "title": "The David Lynch Collection",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44133251\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.juliensauctions.com/en/auctions/julien-s-auctions-turner-classic-movies-present-the-david-lynch-collection",
+         "title": "Modern C++ – RAII",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44134398\"\u003eComments\u003c/a\u003e",
+         "link": "https://green7ea.github.io/modern/modern.html",
          "links": [
-             "https://www.juliensauctions.com/en/auctions/julien-s-auctions-turner-classic-movies-present-the-david-lynch-collection"
+             "https://green7ea.github.io/modern/modern.html"
          ],
-         "published": "Fri, 30 May 2025 05:42:58 +0000",
-         "publishedParsed": "2025-05-30T05:42:58Z"
+         "published": "Fri, 30 May 2025 09:20:11 +0000",
+         "publishedParsed": "2025-05-30T09:20:11Z"
      },
      {
-         "title": "Triangle splatting: radiance fields represented by triangles",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44132744\"\u003eComments\u003c/a\u003e",
-         "link": "https://trianglesplatting.github.io/",
+         "title": "Radio Astronomy Software Defined Radio (Rasdr)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44134364\"\u003eComments\u003c/a\u003e",
+         "link": "https://radio-astronomy.org/rasdr",
          "links": [
-             "https://trianglesplatting.github.io/"
+             "https://radio-astronomy.org/rasdr"
          ],
-         "published": "Fri, 30 May 2025 04:07:17 +0000",
-         "publishedParsed": "2025-05-30T04:07:17Z"
+         "published": "Fri, 30 May 2025 09:14:31 +0000",
+         "publishedParsed": "2025-05-30T09:14:31Z"
      },
      {
-         "title": "Buttplug MCP",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44133706\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/ConAcademy/buttplug-mcp",
+         "title": "Atomics and Concurrency",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44113706\"\u003eComments\u003c/a\u003e",
+         "link": "https://redixhumayun.github.io/systems/2024/01/03/atomics-and-concurrency.html",
          "links": [
-             "https://github.com/ConAcademy/buttplug-mcp"
+             "https://redixhumayun.github.io/systems/2024/01/03/atomics-and-concurrency.html"
          ],
-         "published": "Fri, 30 May 2025 07:06:35 +0000",
-         "publishedParsed": "2025-05-30T07:06:35Z"
+         "published": "Wed, 28 May 2025 08:00:48 +0000",
+         "publishedParsed": "2025-05-28T08:00:48Z"
+     },
+     {
+         "title": "Tokenization for language modeling: BPE vs. Unigram Language Modeling (2020)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44134290\"\u003eComments\u003c/a\u003e",
+         "link": "https://ndingwall.github.io/blog/tokenization",
+         "links": [
+             "https://ndingwall.github.io/blog/tokenization"
+         ],
+         "published": "Fri, 30 May 2025 08:59:02 +0000",
+         "publishedParsed": "2025-05-30T08:59:02Z"
+     },
+     {
+         "title": "Bridged Indexes in OrioleDB: architecture, internals and everyday use?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44134728\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.orioledb.com/blog/orioledb-bridged-indexes",
+         "links": [
+             "https://www.orioledb.com/blog/orioledb-bridged-indexes"
+         ],
+         "published": "Fri, 30 May 2025 10:31:13 +0000",
+         "publishedParsed": "2025-05-30T10:31:13Z"
      },
      {
          "title": "Practical SDR: Getting started with software-defined radio",
@@ -50,6 +70,16 @@
          "publishedParsed": "2025-05-30T01:34:23Z"
      },
      {
+         "title": "Triangle splatting: radiance fields represented by triangles",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44132744\"\u003eComments\u003c/a\u003e",
+         "link": "https://trianglesplatting.github.io/",
+         "links": [
+             "https://trianglesplatting.github.io/"
+         ],
+         "published": "Fri, 30 May 2025 04:07:17 +0000",
+         "publishedParsed": "2025-05-30T04:07:17Z"
+     },
+     {
          "title": "WeatherStar 4000+: Weather Channel Simulator",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44127109\"\u003eComments\u003c/a\u003e",
          "link": "https://weatherstar.netbymatt.com/",
@@ -58,66 +88,6 @@
          ],
          "published": "Thu, 29 May 2025 15:38:45 +0000",
          "publishedParsed": "2025-05-29T15:38:45Z"
-     },
-     {
-         "title": "Show HN: MCP Server SDK in Bash (~250 lines, zero runtime)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44132823\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/muthuishere/mcp-server-bash-sdk",
-         "links": [
-             "https://github.com/muthuishere/mcp-server-bash-sdk"
-         ],
-         "published": "Fri, 30 May 2025 04:25:23 +0000",
-         "publishedParsed": "2025-05-30T04:25:23Z"
-     },
-     {
-         "title": "FLUX.1 Kontext",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44128322\"\u003eComments\u003c/a\u003e",
-         "link": "https://bfl.ai/models/flux-kontext",
-         "links": [
-             "https://bfl.ai/models/flux-kontext"
-         ],
-         "published": "Thu, 29 May 2025 17:40:35 +0000",
-         "publishedParsed": "2025-05-29T17:40:35Z"
-     },
-     {
-         "title": "The atmospheric memory that feeds billions of people: Monsoon rainfall mechanism",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44109017\"\u003eComments\u003c/a\u003e",
-         "link": "https://phys.org/news/2025-05-atmospheric-memory-billions-people-monsoon.html",
-         "links": [
-             "https://phys.org/news/2025-05-atmospheric-memory-billions-people-monsoon.html"
-         ],
-         "published": "Tue, 27 May 2025 17:34:35 +0000",
-         "publishedParsed": "2025-05-27T17:34:35Z"
-     },
-     {
-         "title": "OpenBAO (Vault open-source fork) Namespaces",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44132486\"\u003eComments\u003c/a\u003e",
-         "link": "https://openbao.org/blog/namespaces-announcement/",
-         "links": [
-             "https://openbao.org/blog/namespaces-announcement/"
-         ],
-         "published": "Fri, 30 May 2025 03:14:44 +0000",
-         "publishedParsed": "2025-05-30T03:14:44Z"
-     },
-     {
-         "title": "Dr John C. Clark, a scientist who disarmed atomic bombs twice",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44106007\"\u003eComments\u003c/a\u003e",
-         "link": "https://daxe.substack.com/p/disarming-an-atomic-bomb-is-the-worst",
-         "links": [
-             "https://daxe.substack.com/p/disarming-an-atomic-bomb-is-the-worst"
-         ],
-         "published": "Tue, 27 May 2025 11:52:13 +0000",
-         "publishedParsed": "2025-05-27T11:52:13Z"
-     },
-     {
-         "title": "Player Piano Rolls",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44132404\"\u003eComments\u003c/a\u003e",
-         "link": "https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing",
-         "links": [
-             "https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing"
-         ],
-         "published": "Fri, 30 May 2025 02:58:02 +0000",
-         "publishedParsed": "2025-05-30T02:58:02Z"
      },
      {
          "title": "Turn a Tesla into a mapping vehicle with Mapillary",
@@ -130,6 +100,86 @@
          "publishedParsed": "2025-05-28T21:17:14Z"
      },
      {
+         "title": "FLUX.1 Kontext",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44128322\"\u003eComments\u003c/a\u003e",
+         "link": "https://bfl.ai/models/flux-kontext",
+         "links": [
+             "https://bfl.ai/models/flux-kontext"
+         ],
+         "published": "Thu, 29 May 2025 17:40:35 +0000",
+         "publishedParsed": "2025-05-29T17:40:35Z"
+     },
+     {
+         "title": "Show HN: MCP Server SDK in Bash (~250 lines, zero runtime)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44132823\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/muthuishere/mcp-server-bash-sdk",
+         "links": [
+             "https://github.com/muthuishere/mcp-server-bash-sdk"
+         ],
+         "published": "Fri, 30 May 2025 04:25:23 +0000",
+         "publishedParsed": "2025-05-30T04:25:23Z"
+     },
+     {
+         "title": "OpenBAO (Vault open-source fork) Namespaces",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44132486\"\u003eComments\u003c/a\u003e",
+         "link": "https://openbao.org/blog/namespaces-announcement/",
+         "links": [
+             "https://openbao.org/blog/namespaces-announcement/"
+         ],
+         "published": "Fri, 30 May 2025 03:14:44 +0000",
+         "publishedParsed": "2025-05-30T03:14:44Z"
+     },
+     {
+         "title": "Buttplug MCP",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44133706\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/ConAcademy/buttplug-mcp",
+         "links": [
+             "https://github.com/ConAcademy/buttplug-mcp"
+         ],
+         "published": "Fri, 30 May 2025 07:06:35 +0000",
+         "publishedParsed": "2025-05-30T07:06:35Z"
+     },
+     {
+         "title": "Why do we get earworms?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44134208\"\u003eComments\u003c/a\u003e",
+         "link": "https://theneuroscienceofeverydaylife.substack.com/p/mahna-mahna-do-doo-be-do-do-why-do",
+         "links": [
+             "https://theneuroscienceofeverydaylife.substack.com/p/mahna-mahna-do-doo-be-do-do-why-do"
+         ],
+         "published": "Fri, 30 May 2025 08:44:14 +0000",
+         "publishedParsed": "2025-05-30T08:44:14Z"
+     },
+     {
+         "title": "The atmospheric memory that feeds billions of people: Monsoon rainfall mechanism",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44109017\"\u003eComments\u003c/a\u003e",
+         "link": "https://phys.org/news/2025-05-atmospheric-memory-billions-people-monsoon.html",
+         "links": [
+             "https://phys.org/news/2025-05-atmospheric-memory-billions-people-monsoon.html"
+         ],
+         "published": "Tue, 27 May 2025 17:34:35 +0000",
+         "publishedParsed": "2025-05-27T17:34:35Z"
+     },
+     {
+         "title": "Player Piano Rolls",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44132404\"\u003eComments\u003c/a\u003e",
+         "link": "https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing",
+         "links": [
+             "https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing"
+         ],
+         "published": "Fri, 30 May 2025 02:58:02 +0000",
+         "publishedParsed": "2025-05-30T02:58:02Z"
+     },
+     {
+         "title": "Dr John C. Clark, a scientist who disarmed atomic bombs twice",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44106007\"\u003eComments\u003c/a\u003e",
+         "link": "https://daxe.substack.com/p/disarming-an-atomic-bomb-is-the-worst",
+         "links": [
+             "https://daxe.substack.com/p/disarming-an-atomic-bomb-is-the-worst"
+         ],
+         "published": "Tue, 27 May 2025 11:52:13 +0000",
+         "publishedParsed": "2025-05-27T11:52:13Z"
+     },
+     {
          "title": "Smallest Possible Files",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44106048\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/mathiasbynens/small",
@@ -138,16 +188,6 @@
          ],
          "published": "Tue, 27 May 2025 11:57:01 +0000",
          "publishedParsed": "2025-05-27T11:57:01Z"
-     },
-     {
-         "title": "How to Do Ambitious Research in the Modern Era [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44133091\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=w7DVlI_Ztq8",
-         "links": [
-             "https://www.youtube.com/watch?v=w7DVlI_Ztq8"
-         ],
-         "published": "Fri, 30 May 2025 05:10:59 +0000",
-         "publishedParsed": "2025-05-30T05:10:59Z"
      },
      {
          "title": "Show HN: I wrote a modern Command Line Handbook",
@@ -160,14 +200,24 @@
          "publishedParsed": "2025-05-29T14:44:33Z"
      },
      {
-         "title": "Show HN: templUI – The UI Kit for templ (CLI-based, like shadcn/UI)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44132756\"\u003eComments\u003c/a\u003e",
-         "link": "https://templui.io/",
+         "title": "How to Do Ambitious Research in the Modern Era [video]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44133091\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.youtube.com/watch?v=w7DVlI_Ztq8",
          "links": [
-             "https://templui.io/"
+             "https://www.youtube.com/watch?v=w7DVlI_Ztq8"
          ],
-         "published": "Fri, 30 May 2025 04:10:42 +0000",
-         "publishedParsed": "2025-05-30T04:10:42Z"
+         "published": "Fri, 30 May 2025 05:10:59 +0000",
+         "publishedParsed": "2025-05-30T05:10:59Z"
+     },
+     {
+         "title": "Show HN: Donut Browser, a Browser Orchestrator",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44132752\"\u003eComments\u003c/a\u003e",
+         "link": "https://donutbrowser.com/",
+         "links": [
+             "https://donutbrowser.com/"
+         ],
+         "published": "Fri, 30 May 2025 04:09:55 +0000",
+         "publishedParsed": "2025-05-30T04:09:55Z"
      },
      {
          "title": "I'm starting a social club to solve the male loneliness epidemic",
@@ -180,14 +230,34 @@
          "publishedParsed": "2025-05-29T23:57:11Z"
      },
      {
-         "title": "Invading the Huum Uku WiFi Controller",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44103923\"\u003eComments\u003c/a\u003e",
-         "link": "https://kaurpalang.com/posts/invading-the-sauna/",
+         "title": "Superauthenticity: Computer Game Aspect Ratios",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44105531\"\u003eComments\u003c/a\u003e",
+         "link": "https://datadrivengamer.blogspot.com/2025/05/superauthenticity-computer-game-aspect.html",
          "links": [
-             "https://kaurpalang.com/posts/invading-the-sauna/"
+             "https://datadrivengamer.blogspot.com/2025/05/superauthenticity-computer-game-aspect.html"
          ],
-         "published": "Tue, 27 May 2025 04:18:18 +0000",
-         "publishedParsed": "2025-05-27T04:18:18Z"
+         "published": "Tue, 27 May 2025 10:20:12 +0000",
+         "publishedParsed": "2025-05-27T10:20:12Z"
+     },
+     {
+         "title": "Show HN: templUI – The UI Kit for templ (CLI-based, like shadcn/UI)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44132756\"\u003eComments\u003c/a\u003e",
+         "link": "https://templui.io/",
+         "links": [
+             "https://templui.io/"
+         ],
+         "published": "Fri, 30 May 2025 04:10:42 +0000",
+         "publishedParsed": "2025-05-30T04:10:42Z"
+     },
+     {
+         "title": "The David Lynch Collection",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44133251\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.juliensauctions.com/en/auctions/julien-s-auctions-turner-classic-movies-present-the-david-lynch-collection",
+         "links": [
+             "https://www.juliensauctions.com/en/auctions/julien-s-auctions-turner-classic-movies-present-the-david-lynch-collection"
+         ],
+         "published": "Fri, 30 May 2025 05:42:58 +0000",
+         "publishedParsed": "2025-05-30T05:42:58Z"
      },
      {
          "title": "Making C and Python Talk to Each Other",
@@ -198,26 +268,6 @@
          ],
          "published": "Tue, 27 May 2025 11:06:10 +0000",
          "publishedParsed": "2025-05-27T11:06:10Z"
-     },
-     {
-         "title": "Car Physics for Games (2003)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44108590\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games.html",
-         "links": [
-             "https://www.asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games.html"
-         ],
-         "published": "Tue, 27 May 2025 16:44:36 +0000",
-         "publishedParsed": "2025-05-27T16:44:36Z"
-     },
-     {
-         "title": "Show HN: Donut Browser, a Browser Orchestrator",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44132752\"\u003eComments\u003c/a\u003e",
-         "link": "https://donutbrowser.com/",
-         "links": [
-             "https://donutbrowser.com/"
-         ],
-         "published": "Fri, 30 May 2025 04:09:55 +0000",
-         "publishedParsed": "2025-05-30T04:09:55Z"
      },
      {
          "title": "Why is everybody knitting chickens?",
@@ -238,45 +288,5 @@
          ],
          "published": "Thu, 29 May 2025 16:41:04 +0000",
          "publishedParsed": "2025-05-29T16:41:04Z"
-     },
-     {
-         "title": "Superauthenticity: Computer Game Aspect Ratios",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44105531\"\u003eComments\u003c/a\u003e",
-         "link": "https://datadrivengamer.blogspot.com/2025/05/superauthenticity-computer-game-aspect.html",
-         "links": [
-             "https://datadrivengamer.blogspot.com/2025/05/superauthenticity-computer-game-aspect.html"
-         ],
-         "published": "Tue, 27 May 2025 10:20:12 +0000",
-         "publishedParsed": "2025-05-27T10:20:12Z"
-     },
-     {
-         "title": "Learning C3",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44125966\"\u003eComments\u003c/a\u003e",
-         "link": "https://alloc.dev/2025/05/29/learning_c3",
-         "links": [
-             "https://alloc.dev/2025/05/29/learning_c3"
-         ],
-         "published": "Thu, 29 May 2025 13:33:31 +0000",
-         "publishedParsed": "2025-05-29T13:33:31Z"
-     },
-     {
-         "title": "A visual exploration of vector embeddings",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44120306\"\u003eComments\u003c/a\u003e",
-         "link": "http://blog.pamelafox.org/2025/05/a-visual-exploration-of-vector.html",
-         "links": [
-             "http://blog.pamelafox.org/2025/05/a-visual-exploration-of-vector.html"
-         ],
-         "published": "Wed, 28 May 2025 20:21:47 +0000",
-         "publishedParsed": "2025-05-28T20:21:47Z"
-     },
-     {
-         "title": "Putting Rigid Bodies to Rest",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44127173\"\u003eComments\u003c/a\u003e",
-         "link": "https://twitter.com/keenanisalive/status/1925225500659658999",
-         "links": [
-             "https://twitter.com/keenanisalive/status/1925225500659658999"
-         ],
-         "published": "Thu, 29 May 2025 15:43:33 +0000",
-         "publishedParsed": "2025-05-29T15:43:33Z"
      }
  ]
