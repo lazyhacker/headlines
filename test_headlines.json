@@ -10,7 +10,7 @@
          "publishedParsed": "2025-05-30T20:32:19Z"
      },
      {
-         "title": "Surprisingly Fast AI-Generated Kernels We Didn't Mean to Publish (Yet)",
+         "title": "Surprisingly fast AI-generated kernels we didn't mean to publish yet",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44139454\"\u003eComments\u003c/a\u003e",
          "link": "https://crfm.stanford.edu/2025/05/28/fast-kernels.html",
          "links": [
@@ -18,6 +18,16 @@
          ],
          "published": "Fri, 30 May 2025 20:03:12 +0000",
          "publishedParsed": "2025-05-30T20:03:12Z"
+     },
+     {
+         "title": "Valkey Turns One: Community fork of Redis",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44140379\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/",
+         "links": [
+             "https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/"
+         ],
+         "published": "Fri, 30 May 2025 22:24:22 +0000",
+         "publishedParsed": "2025-05-30T22:24:22Z"
      },
      {
          "title": "Mary Meeker's first Trends report since 2019, focused on AI",
@@ -30,6 +40,16 @@
          "publishedParsed": "2025-05-30T19:53:59Z"
      },
      {
+         "title": "Reverse engineering of Linear's sync engine",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44123131\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/wzhudev/reverse-linear-sync-engine",
+         "links": [
+             "https://github.com/wzhudev/reverse-linear-sync-engine"
+         ],
+         "published": "Thu, 29 May 2025 04:29:30 +0000",
+         "publishedParsed": "2025-05-29T04:29:30Z"
+     },
+     {
          "title": "Beating Google's kernelCTF PoW using AVX512",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44137715\"\u003eComments\u003c/a\u003e",
          "link": "https://anemato.de/blog/kctf-vdf",
@@ -38,6 +58,16 @@
          ],
          "published": "Fri, 30 May 2025 16:19:50 +0000",
          "publishedParsed": "2025-05-30T16:19:50Z"
+     },
+     {
+         "title": "The 'white-collar bloodbath' is all part of the AI hype machine",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44136117\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap",
+         "links": [
+             "https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap"
+         ],
+         "published": "Fri, 30 May 2025 13:38:21 +0000",
+         "publishedParsed": "2025-05-30T13:38:21Z"
      },
      {
          "title": "Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent",
@@ -60,14 +90,14 @@
          "publishedParsed": "2025-05-29T13:08:17Z"
      },
      {
-         "title": "The 'white-collar bloodbath' is all part of the AI hype machine",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44136117\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap",
+         "title": "Microsandbox: Virtual Machines that feel and perform like containers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44135977\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/microsandbox/microsandbox",
          "links": [
-             "https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap"
+             "https://github.com/microsandbox/microsandbox"
          ],
-         "published": "Fri, 30 May 2025 13:38:21 +0000",
-         "publishedParsed": "2025-05-30T13:38:21Z"
+         "published": "Fri, 30 May 2025 13:20:04 +0000",
+         "publishedParsed": "2025-05-30T13:20:04Z"
      },
      {
          "title": "Systems Correctness Practices at Amazon Web Services",
@@ -80,34 +110,14 @@
          "publishedParsed": "2025-05-30T12:43:13Z"
      },
      {
-         "title": "Microsandbox: Virtual Machines that feel and perform like containers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44135977\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/microsandbox/microsandbox",
+         "title": "Anthropic launches a voice mode for Claude",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44116535\"\u003eComments\u003c/a\u003e",
+         "link": "https://techcrunch.com/2025/05/27/anthropic-launches-a-voice-mode-for-claude/",
          "links": [
-             "https://github.com/microsandbox/microsandbox"
+             "https://techcrunch.com/2025/05/27/anthropic-launches-a-voice-mode-for-claude/"
          ],
-         "published": "Fri, 30 May 2025 13:20:04 +0000",
-         "publishedParsed": "2025-05-30T13:20:04Z"
-     },
-     {
-         "title": "Valkey Turns One: How the Community Fork Left Redis in the Dust",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44140379\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/",
-         "links": [
-             "https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/"
-         ],
-         "published": "Fri, 30 May 2025 22:24:22 +0000",
-         "publishedParsed": "2025-05-30T22:24:22Z"
-     },
-     {
-         "title": "Jerry Lewis's \"The Day the Clown Cried\" discovered in Sweden after 53 years",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44139592\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/",
-         "links": [
-             "https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/"
-         ],
-         "published": "Fri, 30 May 2025 20:27:43 +0000",
-         "publishedParsed": "2025-05-30T20:27:43Z"
+         "published": "Wed, 28 May 2025 14:41:47 +0000",
+         "publishedParsed": "2025-05-28T14:41:47Z"
      },
      {
          "title": "Ray Tracing in J",
@@ -130,16 +140,6 @@
          "publishedParsed": "2025-05-28T16:55:08Z"
      },
      {
-         "title": "StackAI (YC W23) Is Looking for SWR and Tailwind Wizards",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44139842\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer",
-         "links": [
-             "https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer"
-         ],
-         "published": "Fri, 30 May 2025 21:02:07 +0000",
-         "publishedParsed": "2025-05-30T21:02:07Z"
-     },
-     {
          "title": "Silicon Valley finally has a big electronics retailer again: Micro Center opens",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44140378\"\u003eComments\u003c/a\u003e",
          "link": "https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx",
@@ -150,124 +150,14 @@
          "publishedParsed": "2025-05-30T22:24:09Z"
      },
      {
-         "title": "How to Run CRON Jobs in Postgres Without Extra Infrastructure",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44114436\"\u003eComments\u003c/a\u003e",
-         "link": "https://wasp.sh/blog/2025/05/28/how-to-run-cron-jobs-in-postgress-without-extra-infrastructure",
+         "title": "Jerry Lewis's \"The Day the Clown Cried\" discovered in Sweden after 53 years",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44139592\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/",
          "links": [
-             "https://wasp.sh/blog/2025/05/28/how-to-run-cron-jobs-in-postgress-without-extra-infrastructure"
+             "https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/"
          ],
-         "published": "Wed, 28 May 2025 10:14:11 +0000",
-         "publishedParsed": "2025-05-28T10:14:11Z"
-     },
-     {
-         "title": "Copy Excel to Markdown Table (and vice versa)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44131669\"\u003eComments\u003c/a\u003e",
-         "link": "https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/",
-         "links": [
-             "https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/"
-         ],
-         "published": "Fri, 30 May 2025 00:32:11 +0000",
-         "publishedParsed": "2025-05-30T00:32:11Z"
-     },
-     {
-         "title": "The radix 2^51 trick (2017)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44132673\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.chosenplaintext.ca/articles/radix-2-51-trick.html",
-         "links": [
-             "https://www.chosenplaintext.ca/articles/radix-2-51-trick.html"
-         ],
-         "published": "Fri, 30 May 2025 03:55:37 +0000",
-         "publishedParsed": "2025-05-30T03:55:37Z"
-     },
-     {
-         "title": "Cap: Lightweight, modern open-source CAPTCHA alternative using proof-of-work",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44137867\"\u003eComments\u003c/a\u003e",
-         "link": "https://capjs.js.org/",
-         "links": [
-             "https://capjs.js.org/"
-         ],
-         "published": "Fri, 30 May 2025 16:36:10 +0000",
-         "publishedParsed": "2025-05-30T16:36:10Z"
-     },
-     {
-         "title": "Show HN: W++ – A Python-style scripting language for .NET with NuGet support",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44136884\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/sinisterMage/WPlusPlus",
-         "links": [
-             "https://github.com/sinisterMage/WPlusPlus"
-         ],
-         "published": "Fri, 30 May 2025 14:58:01 +0000",
-         "publishedParsed": "2025-05-30T14:58:01Z"
-     },
-     {
-         "title": "Adam Riess and the Hubble tension",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44136945\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theatlantic.com/science/archive/2025/05/adam-riess-hubble-tension/682980/",
-         "links": [
-             "https://www.theatlantic.com/science/archive/2025/05/adam-riess-hubble-tension/682980/"
-         ],
-         "published": "Fri, 30 May 2025 15:04:56 +0000",
-         "publishedParsed": "2025-05-30T15:04:56Z"
-     },
-     {
-         "title": "De Bruijn notation, and why it's useful",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44137439\"\u003eComments\u003c/a\u003e",
-         "link": "https://blueberrywren.dev/blog/debruijn-explanation/",
-         "links": [
-             "https://blueberrywren.dev/blog/debruijn-explanation/"
-         ],
-         "published": "Fri, 30 May 2025 15:51:24 +0000",
-         "publishedParsed": "2025-05-30T15:51:24Z"
-     },
-     {
-         "title": "A Smiling Public Man",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44138034\"\u003eComments\u003c/a\u003e",
-         "link": "https://salmagundi.skidmore.edu/articles/1407-a-smiling-public-man",
-         "links": [
-             "https://salmagundi.skidmore.edu/articles/1407-a-smiling-public-man"
-         ],
-         "published": "Fri, 30 May 2025 16:55:16 +0000",
-         "publishedParsed": "2025-05-30T16:55:16Z"
-     },
-     {
-         "title": "Show HN: Asdf Overlay – High performance in-game overlay library for Windows",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44138775\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/storycraft/asdf-overlay",
-         "links": [
-             "https://github.com/storycraft/asdf-overlay"
-         ],
-         "published": "Fri, 30 May 2025 18:27:44 +0000",
-         "publishedParsed": "2025-05-30T18:27:44Z"
-     },
-     {
-         "title": "Catbench Vector Search Demo Has Postgres SQL Throughput, Latency Monitoring Now",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44139382\"\u003eComments\u003c/a\u003e",
-         "link": "https://tanelpoder.com/posts/catbench-vector-search-query-throughput-latency-monitoring/",
-         "links": [
-             "https://tanelpoder.com/posts/catbench-vector-search-query-throughput-latency-monitoring/"
-         ],
-         "published": "Fri, 30 May 2025 19:50:48 +0000",
-         "publishedParsed": "2025-05-30T19:50:48Z"
-     },
-     {
-         "title": "When will M\u0026S take online orders again?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44137630\"\u003eComments\u003c/a\u003e",
-         "link": "https://moneyweek.com/personal-finance/marks-and-spencer-online-order-problems",
-         "links": [
-             "https://moneyweek.com/personal-finance/marks-and-spencer-online-order-problems"
-         ],
-         "published": "Fri, 30 May 2025 16:11:07 +0000",
-         "publishedParsed": "2025-05-30T16:11:07Z"
-     },
-     {
-         "title": "Show HN: Git-Add–Interactive with Enhancements",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44135738\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/cwarden/git-add-interactive",
-         "links": [
-             "https://github.com/cwarden/git-add-interactive"
-         ],
-         "published": "Fri, 30 May 2025 12:54:55 +0000",
-         "publishedParsed": "2025-05-30T12:54:55Z"
+         "published": "Fri, 30 May 2025 20:27:43 +0000",
+         "publishedParsed": "2025-05-30T20:27:43Z"
      },
      {
          "title": "Show HN: Smart Silence – Remind your iPhone to stay quiet in quiet places",
@@ -280,6 +170,116 @@
          "publishedParsed": "2025-05-28T13:51:49Z"
      },
      {
+         "title": "StackAI (YC W23) Is Looking for SWR and Tailwind Wizards",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44139842\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer",
+         "links": [
+             "https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer"
+         ],
+         "published": "Fri, 30 May 2025 21:02:07 +0000",
+         "publishedParsed": "2025-05-30T21:02:07Z"
+     },
+     {
+         "title": "The radix 2^51 trick (2017)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44132673\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.chosenplaintext.ca/articles/radix-2-51-trick.html",
+         "links": [
+             "https://www.chosenplaintext.ca/articles/radix-2-51-trick.html"
+         ],
+         "published": "Fri, 30 May 2025 03:55:37 +0000",
+         "publishedParsed": "2025-05-30T03:55:37Z"
+     },
+     {
+         "title": "How to Run CRON Jobs in Postgres Without Extra Infrastructure",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44114436\"\u003eComments\u003c/a\u003e",
+         "link": "https://wasp.sh/blog/2025/05/28/how-to-run-cron-jobs-in-postgress-without-extra-infrastructure",
+         "links": [
+             "https://wasp.sh/blog/2025/05/28/how-to-run-cron-jobs-in-postgress-without-extra-infrastructure"
+         ],
+         "published": "Wed, 28 May 2025 10:14:11 +0000",
+         "publishedParsed": "2025-05-28T10:14:11Z"
+     },
+     {
+         "title": "Every 5x5 Nonogram",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44140918\"\u003eComments\u003c/a\u003e",
+         "link": "https://pixelogic.app/every-5x5-nonogram",
+         "links": [
+             "https://pixelogic.app/every-5x5-nonogram"
+         ],
+         "published": "Sat, 31 May 2025 00:14:27 +0000",
+         "publishedParsed": "2025-05-31T00:14:27Z"
+     },
+     {
+         "title": "Copy Excel to Markdown Table (and vice versa)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44131669\"\u003eComments\u003c/a\u003e",
+         "link": "https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/",
+         "links": [
+             "https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/"
+         ],
+         "published": "Fri, 30 May 2025 00:32:11 +0000",
+         "publishedParsed": "2025-05-30T00:32:11Z"
+     },
+     {
+         "title": "Adam Riess and the Hubble tension",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44136945\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theatlantic.com/science/archive/2025/05/adam-riess-hubble-tension/682980/",
+         "links": [
+             "https://www.theatlantic.com/science/archive/2025/05/adam-riess-hubble-tension/682980/"
+         ],
+         "published": "Fri, 30 May 2025 15:04:56 +0000",
+         "publishedParsed": "2025-05-30T15:04:56Z"
+     },
+     {
+         "title": "Show HN: W++ – A Python-style scripting language for .NET with NuGet support",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44136884\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/sinisterMage/WPlusPlus",
+         "links": [
+             "https://github.com/sinisterMage/WPlusPlus"
+         ],
+         "published": "Fri, 30 May 2025 14:58:01 +0000",
+         "publishedParsed": "2025-05-30T14:58:01Z"
+     },
+     {
+         "title": "De Bruijn notation, and why it's useful",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44137439\"\u003eComments\u003c/a\u003e",
+         "link": "https://blueberrywren.dev/blog/debruijn-explanation/",
+         "links": [
+             "https://blueberrywren.dev/blog/debruijn-explanation/"
+         ],
+         "published": "Fri, 30 May 2025 15:51:24 +0000",
+         "publishedParsed": "2025-05-30T15:51:24Z"
+     },
+     {
+         "title": "Show HN: Asdf Overlay – High performance in-game overlay library for Windows",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44138775\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/storycraft/asdf-overlay",
+         "links": [
+             "https://github.com/storycraft/asdf-overlay"
+         ],
+         "published": "Fri, 30 May 2025 18:27:44 +0000",
+         "publishedParsed": "2025-05-30T18:27:44Z"
+     },
+     {
+         "title": "A Smiling Public Man",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44138034\"\u003eComments\u003c/a\u003e",
+         "link": "https://salmagundi.skidmore.edu/articles/1407-a-smiling-public-man",
+         "links": [
+             "https://salmagundi.skidmore.edu/articles/1407-a-smiling-public-man"
+         ],
+         "published": "Fri, 30 May 2025 16:55:16 +0000",
+         "publishedParsed": "2025-05-30T16:55:16Z"
+     },
+     {
+         "title": "When will M\u0026S take online orders again?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44137630\"\u003eComments\u003c/a\u003e",
+         "link": "https://moneyweek.com/personal-finance/marks-and-spencer-online-order-problems",
+         "links": [
+             "https://moneyweek.com/personal-finance/marks-and-spencer-online-order-problems"
+         ],
+         "published": "Fri, 30 May 2025 16:11:07 +0000",
+         "publishedParsed": "2025-05-30T16:11:07Z"
+     },
+     {
          "title": "Radio Astronomy Software Defined Radio (Rasdr)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44134364\"\u003eComments\u003c/a\u003e",
          "link": "https://radio-astronomy.org/rasdr",
@@ -290,13 +290,13 @@
          "publishedParsed": "2025-05-30T09:14:31Z"
      },
      {
-         "title": "Build API integrations with SQL and YAML – no SaaS lock-in, no drag-and-drop UIs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44137192\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/paloaltodatabases/sequor",
+         "title": "Show HN: Git-Add–Interactive with Enhancements",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44135738\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/cwarden/git-add-interactive",
          "links": [
-             "https://github.com/paloaltodatabases/sequor"
+             "https://github.com/cwarden/git-add-interactive"
          ],
-         "published": "Fri, 30 May 2025 15:29:23 +0000",
-         "publishedParsed": "2025-05-30T15:29:23Z"
+         "published": "Fri, 30 May 2025 12:54:55 +0000",
+         "publishedParsed": "2025-05-30T12:54:55Z"
      }
  ]
