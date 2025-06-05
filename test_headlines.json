@@ -1,5 +1,15 @@
 [
      {
+         "title": "Air Lab – A portable and open air quality measuring device",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44189329\"\u003eComments\u003c/a\u003e",
+         "link": "https://networkedartifacts.com/airlab/simulator",
+         "links": [
+             "https://networkedartifacts.com/airlab/simulator"
+         ],
+         "published": "Thu, 05 Jun 2025 07:42:25 +0000",
+         "publishedParsed": "2025-06-05T07:42:25Z"
+     },
+     {
          "title": "FFmpeg merges WebRTC support",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44182186\"\u003eComments\u003c/a\u003e",
          "link": "https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00",
@@ -20,16 +30,6 @@
          "publishedParsed": "2025-06-04T20:39:53Z"
      },
      {
-         "title": "Air Lab – A portable and open air quality measuring device",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44189329\"\u003eComments\u003c/a\u003e",
-         "link": "https://networkedartifacts.com/airlab/simulator",
-         "links": [
-             "https://networkedartifacts.com/airlab/simulator"
-         ],
-         "published": "Thu, 05 Jun 2025 07:42:25 +0000",
-         "publishedParsed": "2025-06-05T07:42:25Z"
-     },
-     {
          "title": "A proposal to restrict sites from accessing a users’ local network",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44183799\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/explainers-by-googlers/local-network-access",
@@ -38,6 +38,16 @@
          ],
          "published": "Wed, 04 Jun 2025 18:15:54 +0000",
          "publishedParsed": "2025-06-04T18:15:54Z"
+     },
+     {
+         "title": "Phptop: Simple PHP ressource profiler, safe and useful for production sites",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44189741\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/bearstech/phptop",
+         "links": [
+             "https://github.com/bearstech/phptop"
+         ],
+         "published": "Thu, 05 Jun 2025 08:52:56 +0000",
+         "publishedParsed": "2025-06-05T08:52:56Z"
      },
      {
          "title": "Why I wrote the BEAM book",
@@ -60,14 +70,14 @@
          "publishedParsed": "2025-06-05T02:05:33Z"
      },
      {
-         "title": "OpenAI slams court order to save all ChatGPT logs, including deleted chats",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44185913\"\u003eComments\u003c/a\u003e",
-         "link": "https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/",
+         "title": "From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44189426\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2505.17117",
          "links": [
-             "https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/"
+             "https://arxiv.org/abs/2505.17117"
          ],
-         "published": "Wed, 04 Jun 2025 21:47:33 +0000",
-         "publishedParsed": "2025-06-04T21:47:33Z"
+         "published": "Thu, 05 Jun 2025 07:59:21 +0000",
+         "publishedParsed": "2025-06-05T07:59:21Z"
      },
      {
          "title": "Autonomous drone defeats human champions in racing first",
@@ -78,16 +88,6 @@
          ],
          "published": "Wed, 04 Jun 2025 20:03:43 +0000",
          "publishedParsed": "2025-06-04T20:03:43Z"
-     },
-     {
-         "title": "Differences in link hallucination and source comprehension across different LLM",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44188068\"\u003eComments\u003c/a\u003e",
-         "link": "https://mikecaulfield.substack.com/p/differences-in-link-hallucination",
-         "links": [
-             "https://mikecaulfield.substack.com/p/differences-in-link-hallucination"
-         ],
-         "published": "Thu, 05 Jun 2025 03:27:47 +0000",
-         "publishedParsed": "2025-06-05T03:27:47Z"
      },
      {
          "title": "A Spiral Structure in the Inner Oort Cloud",
@@ -110,6 +110,16 @@
          "publishedParsed": "2025-06-04T15:58:57Z"
      },
      {
+         "title": "Differences in link hallucination and source comprehension across different LLM",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44188068\"\u003eComments\u003c/a\u003e",
+         "link": "https://mikecaulfield.substack.com/p/differences-in-link-hallucination",
+         "links": [
+             "https://mikecaulfield.substack.com/p/differences-in-link-hallucination"
+         ],
+         "published": "Thu, 05 Jun 2025 03:27:47 +0000",
+         "publishedParsed": "2025-06-05T03:27:47Z"
+     },
+     {
          "title": "LLMs and Elixir: Windfall or Deathblow?",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44186496\"\u003eComments\u003c/a\u003e",
          "link": "https://www.zachdaniel.dev/p/llms-and-elixir-windfall-or-deathblow",
@@ -120,16 +130,6 @@
          "publishedParsed": "2025-06-04T23:00:35Z"
      },
      {
-         "title": "parrot.live",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44186536\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/hugomd/parrot.live",
-         "links": [
-             "https://github.com/hugomd/parrot.live"
-         ],
-         "published": "Wed, 04 Jun 2025 23:05:32 +0000",
-         "publishedParsed": "2025-06-04T23:05:32Z"
-     },
-     {
          "title": "Apple Notes Expected to Gain Markdown Support in iOS 26",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44183923\"\u003eComments\u003c/a\u003e",
          "link": "https://www.macrumors.com/2025/06/04/apple-notes-rumored-markdown-support-ios-26/",
@@ -138,6 +138,16 @@
          ],
          "published": "Wed, 04 Jun 2025 18:29:46 +0000",
          "publishedParsed": "2025-06-04T18:29:46Z"
+     },
+     {
+         "title": "parrot.live",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44186536\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/hugomd/parrot.live",
+         "links": [
+             "https://github.com/hugomd/parrot.live"
+         ],
+         "published": "Wed, 04 Jun 2025 23:05:32 +0000",
+         "publishedParsed": "2025-06-04T23:05:32Z"
      },
      {
          "title": "The iPhone 15 Pro’s Depth Maps",
@@ -160,16 +170,6 @@
          "publishedParsed": "2025-06-05T04:09:00Z"
      },
      {
-         "title": "Tesla seeks to guard crash data from public disclosure",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44186780\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.reuters.com/legal/government/musks-tesla-seeks-guard-crash-data-public-disclosure-2025-06-04/",
-         "links": [
-             "https://www.reuters.com/legal/government/musks-tesla-seeks-guard-crash-data-public-disclosure-2025-06-04/"
-         ],
-         "published": "Wed, 04 Jun 2025 23:40:47 +0000",
-         "publishedParsed": "2025-06-04T23:40:47Z"
-     },
-     {
          "title": "Ada and SPARK enter the automotive ISO-26262 market with Nvidia",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44184861\"\u003eComments\u003c/a\u003e",
          "link": "https://www.adacore.com/press/ada-and-spark-enter-the-automotive-iso-26262-market-with-nvidia",
@@ -180,16 +180,6 @@
          "publishedParsed": "2025-06-04T19:59:51Z"
      },
      {
-         "title": "Authentication with Axum",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44186736\"\u003eComments\u003c/a\u003e",
-         "link": "https://mattrighetti.com/2025/05/03/authentication-with-axum",
-         "links": [
-             "https://mattrighetti.com/2025/05/03/authentication-with-axum"
-         ],
-         "published": "Wed, 04 Jun 2025 23:33:41 +0000",
-         "publishedParsed": "2025-06-04T23:33:41Z"
-     },
-     {
          "title": "A practical guide to building agents [pdf]",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44181700\"\u003eComments\u003c/a\u003e",
          "link": "https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf",
@@ -198,6 +188,16 @@
          ],
          "published": "Wed, 04 Jun 2025 15:21:22 +0000",
          "publishedParsed": "2025-06-04T15:21:22Z"
+     },
+     {
+         "title": "Authentication with Axum",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44186736\"\u003eComments\u003c/a\u003e",
+         "link": "https://mattrighetti.com/2025/05/03/authentication-with-axum",
+         "links": [
+             "https://mattrighetti.com/2025/05/03/authentication-with-axum"
+         ],
+         "published": "Wed, 04 Jun 2025 23:33:41 +0000",
+         "publishedParsed": "2025-06-04T23:33:41Z"
      },
      {
          "title": "Not all tokens are meant to be forgotten",
@@ -220,26 +220,6 @@
          "publishedParsed": "2025-06-04T16:46:24Z"
      },
      {
-         "title": "Show HN: GPT image editing, but for 3D models",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44182206\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.adamcad.com/",
-         "links": [
-             "https://www.adamcad.com/"
-         ],
-         "published": "Wed, 04 Jun 2025 16:00:52 +0000",
-         "publishedParsed": "2025-06-04T16:00:52Z"
-     },
-     {
-         "title": "Amelia Earhart's Reckless Final Flights",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44185078\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.newyorker.com/magazine/2025/06/09/amelia-earharts-reckless-final-flights",
-         "links": [
-             "https://www.newyorker.com/magazine/2025/06/09/amelia-earharts-reckless-final-flights"
-         ],
-         "published": "Wed, 04 Jun 2025 20:24:07 +0000",
-         "publishedParsed": "2025-06-04T20:24:07Z"
-     },
-     {
          "title": "PromptArmor (YC W24) Is Hiring in San Francisco",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44186284\"\u003eComments\u003c/a\u003e",
          "link": "https://www.ycombinator.com/companies/promptarmor/jobs/hZ3xFlj-founding-engineer-full-stack",
@@ -260,14 +240,14 @@
          "publishedParsed": "2025-06-04T21:38:27Z"
      },
      {
-         "title": "AGI is not multimodal",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44181613\"\u003eComments\u003c/a\u003e",
-         "link": "https://thegradient.pub/agi-is-not-multimodal/",
+         "title": "Amelia Earhart's Reckless Final Flights",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44185078\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.newyorker.com/magazine/2025/06/09/amelia-earharts-reckless-final-flights",
          "links": [
-             "https://thegradient.pub/agi-is-not-multimodal/"
+             "https://www.newyorker.com/magazine/2025/06/09/amelia-earharts-reckless-final-flights"
          ],
-         "published": "Wed, 04 Jun 2025 15:15:33 +0000",
-         "publishedParsed": "2025-06-04T15:15:33Z"
+         "published": "Wed, 04 Jun 2025 20:24:07 +0000",
+         "publishedParsed": "2025-06-04T20:24:07Z"
      },
      {
          "title": "How we reduced the impact of zombie clients",
@@ -280,13 +260,13 @@
          "publishedParsed": "2025-06-04T15:58:36Z"
      },
      {
-         "title": "Old payphones get new life, thanks to Vermont engineer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44188204\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.core77.com/posts/137183/Engineer-Fixes-and-Re-Installs-Old-Payphones-Provides-Free-Calls-to-the-Public",
+         "title": "AGI is not multimodal",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44181613\"\u003eComments\u003c/a\u003e",
+         "link": "https://thegradient.pub/agi-is-not-multimodal/",
          "links": [
-             "https://www.core77.com/posts/137183/Engineer-Fixes-and-Re-Installs-Old-Payphones-Provides-Free-Calls-to-the-Public"
+             "https://thegradient.pub/agi-is-not-multimodal/"
          ],
-         "published": "Thu, 05 Jun 2025 04:00:24 +0000",
-         "publishedParsed": "2025-06-05T04:00:24Z"
+         "published": "Wed, 04 Jun 2025 15:15:33 +0000",
+         "publishedParsed": "2025-06-04T15:15:33Z"
      }
  ]
