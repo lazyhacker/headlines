@@ -1,15 +1,5 @@
 [
      {
-         "title": "Poison everywhere: No output from your MCP server is safe",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44219755\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe",
-         "links": [
-             "https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe"
-         ],
-         "published": "Sun, 08 Jun 2025 22:00:12 +0000",
-         "publishedParsed": "2025-06-08T22:00:12Z"
-     },
-     {
          "title": "Why Android can't use CDC Ethernet (2023)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44219405\"\u003eComments\u003c/a\u003e",
          "link": "https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/",
@@ -18,46 +8,6 @@
          ],
          "published": "Sun, 08 Jun 2025 20:49:07 +0000",
          "publishedParsed": "2025-06-08T20:49:07Z"
-     },
-     {
-         "title": "Omnimax",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44219357\"\u003eComments\u003c/a\u003e",
-         "link": "https://computer.rip/2025-06-08-Omnimax.html",
-         "links": [
-             "https://computer.rip/2025-06-08-Omnimax.html"
-         ],
-         "published": "Sun, 08 Jun 2025 20:41:35 +0000",
-         "publishedParsed": "2025-06-08T20:41:35Z"
-     },
-     {
-         "title": "Panjandrum: The 'giant firework' built to break Hitler's Atlantic Wall",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44187765\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bbc.com/future/article/20250603-the-giant-firework-built-to-break-hitlers-atlantic-wall",
-         "links": [
-             "https://www.bbc.com/future/article/20250603-the-giant-firework-built-to-break-hitlers-atlantic-wall"
-         ],
-         "published": "Thu, 05 Jun 2025 02:21:28 +0000",
-         "publishedParsed": "2025-06-05T02:21:28Z"
-     },
-     {
-         "title": "Tracking Copilot vs. Codex vs. Cursor vs. Devin PR Performance",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44188839\"\u003eComments\u003c/a\u003e",
-         "link": "https://aavetis.github.io/ai-pr-watcher/",
-         "links": [
-             "https://aavetis.github.io/ai-pr-watcher/"
-         ],
-         "published": "Thu, 05 Jun 2025 06:22:09 +0000",
-         "publishedParsed": "2025-06-05T06:22:09Z"
-     },
-     {
-         "title": "Administering immunotherapy in the morning seems to matter. Why?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44217876\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.owlposting.com/p/the-time-of-day-that-immunotherapy",
-         "links": [
-             "https://www.owlposting.com/p/the-time-of-day-that-immunotherapy"
-         ],
-         "published": "Sun, 08 Jun 2025 16:18:32 +0000",
-         "publishedParsed": "2025-06-08T16:18:32Z"
      },
      {
          "title": "Riding high in Germany on the world's oldest suspended railway",
@@ -70,14 +20,84 @@
          "publishedParsed": "2025-06-08T23:38:58Z"
      },
      {
-         "title": "OpenBSD IO Benchmarking: How Many Jobs Are Worth It?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44219871\"\u003eComments\u003c/a\u003e",
-         "link": "https://rsadowski.de/posts/2025/fio_simple_benckmarking/",
+         "title": "Tracking Copilot vs. Codex vs. Cursor vs. Devin PR Performance",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44188839\"\u003eComments\u003c/a\u003e",
+         "link": "https://aavetis.github.io/ai-pr-watcher/",
          "links": [
-             "https://rsadowski.de/posts/2025/fio_simple_benckmarking/"
+             "https://aavetis.github.io/ai-pr-watcher/"
          ],
-         "published": "Sun, 08 Jun 2025 22:26:43 +0000",
-         "publishedParsed": "2025-06-08T22:26:43Z"
+         "published": "Thu, 05 Jun 2025 06:22:09 +0000",
+         "publishedParsed": "2025-06-05T06:22:09Z"
+     },
+     {
+         "title": "Omnimax",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44219357\"\u003eComments\u003c/a\u003e",
+         "link": "https://computer.rip/2025-06-08-Omnimax.html",
+         "links": [
+             "https://computer.rip/2025-06-08-Omnimax.html"
+         ],
+         "published": "Sun, 08 Jun 2025 20:41:35 +0000",
+         "publishedParsed": "2025-06-08T20:41:35Z"
+     },
+     {
+         "title": "Zig Devlog: Self-Hosted x86 Back End Is Now Default in Debug Mode",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44219857\"\u003eComments\u003c/a\u003e",
+         "link": "https://ziglang.org/devlog/2025/#2025-06-08",
+         "links": [
+             "https://ziglang.org/devlog/2025/#2025-06-08"
+         ],
+         "published": "Sun, 08 Jun 2025 22:24:14 +0000",
+         "publishedParsed": "2025-06-08T22:24:14Z"
+     },
+     {
+         "title": "Analyzing IPv4 Trades with Gnuplot",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44220583\"\u003eComments\u003c/a\u003e",
+         "link": "https://ipv4a-5539ad.gitlab.io/",
+         "links": [
+             "https://ipv4a-5539ad.gitlab.io/"
+         ],
+         "published": "Mon, 09 Jun 2025 01:08:00 +0000",
+         "publishedParsed": "2025-06-09T01:08:00Z"
+     },
+     {
+         "title": "Panjandrum: The 'giant firework' built to break Hitler's Atlantic Wall",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44187765\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bbc.com/future/article/20250603-the-giant-firework-built-to-break-hitlers-atlantic-wall",
+         "links": [
+             "https://www.bbc.com/future/article/20250603-the-giant-firework-built-to-break-hitlers-atlantic-wall"
+         ],
+         "published": "Thu, 05 Jun 2025 02:21:28 +0000",
+         "publishedParsed": "2025-06-05T02:21:28Z"
+     },
+     {
+         "title": "Administering immunotherapy in the morning seems to matter. Why?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44217876\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.owlposting.com/p/the-time-of-day-that-immunotherapy",
+         "links": [
+             "https://www.owlposting.com/p/the-time-of-day-that-immunotherapy"
+         ],
+         "published": "Sun, 08 Jun 2025 16:18:32 +0000",
+         "publishedParsed": "2025-06-08T16:18:32Z"
+     },
+     {
+         "title": "The wire that transforms much of Manhattan into one big, symbolic home",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44219270\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.atlasobscura.com/articles/eruv-manhattan-invisible-wire-jewish-symbolic-religious-home",
+         "links": [
+             "https://www.atlasobscura.com/articles/eruv-manhattan-invisible-wire-jewish-symbolic-religious-home"
+         ],
+         "published": "Sun, 08 Jun 2025 20:22:33 +0000",
+         "publishedParsed": "2025-06-08T20:22:33Z"
+     },
+     {
+         "title": "Endangered classic Mac plastic color returns as 3D-printer filament",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44188373\"\u003eComments\u003c/a\u003e",
+         "link": "https://arstechnica.com/apple/2025/06/new-filament-lets-you-3d-print-parts-in-authentic-1980s-apple-computer-color/",
+         "links": [
+             "https://arstechnica.com/apple/2025/06/new-filament-lets-you-3d-print-parts-in-authentic-1980s-apple-computer-color/"
+         ],
+         "published": "Thu, 05 Jun 2025 04:44:37 +0000",
+         "publishedParsed": "2025-06-05T04:44:37Z"
      },
      {
          "title": "My first attempt at iOS app development",
@@ -100,26 +120,6 @@
          "publishedParsed": "2025-06-08T16:00:22Z"
      },
      {
-         "title": "The Wire That Transforms Much of Manhattan into One Big, Symbolic Home",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44219270\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.atlasobscura.com/articles/eruv-manhattan-invisible-wire-jewish-symbolic-religious-home",
-         "links": [
-             "https://www.atlasobscura.com/articles/eruv-manhattan-invisible-wire-jewish-symbolic-religious-home"
-         ],
-         "published": "Sun, 08 Jun 2025 20:22:33 +0000",
-         "publishedParsed": "2025-06-08T20:22:33Z"
-     },
-     {
-         "title": "Cheap yet ultrapure titanium might enable widespread use in industry (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44186008\"\u003eComments\u003c/a\u003e",
-         "link": "https://phys.org/news/2024-06-cheap-ultrapure-titanium-metal-enable.amp",
-         "links": [
-             "https://phys.org/news/2024-06-cheap-ultrapure-titanium-metal-enable.amp"
-         ],
-         "published": "Wed, 04 Jun 2025 22:00:38 +0000",
-         "publishedParsed": "2025-06-04T22:00:38Z"
-     },
-     {
          "title": "Gaussian integration is cool",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44215603\"\u003eComments\u003c/a\u003e",
          "link": "https://rohangautam.github.io/blog/chebyshev_gauss/",
@@ -130,24 +130,24 @@
          "publishedParsed": "2025-06-08T08:35:54Z"
      },
      {
-         "title": "Endangered classic Mac plastic color returns as 3D-printer filament",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44188373\"\u003eComments\u003c/a\u003e",
-         "link": "https://arstechnica.com/apple/2025/06/new-filament-lets-you-3d-print-parts-in-authentic-1980s-apple-computer-color/",
+         "title": "Poison everywhere: No output from your MCP server is safe",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44219755\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe",
          "links": [
-             "https://arstechnica.com/apple/2025/06/new-filament-lets-you-3d-print-parts-in-authentic-1980s-apple-computer-color/"
+             "https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe"
          ],
-         "published": "Thu, 05 Jun 2025 04:44:37 +0000",
-         "publishedParsed": "2025-06-05T04:44:37Z"
+         "published": "Sun, 08 Jun 2025 22:00:12 +0000",
+         "publishedParsed": "2025-06-08T22:00:12Z"
      },
      {
-         "title": "I Used AI-Powered Calorie Counting Apps, and They Were Even Worse Than Expected",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44220135\"\u003eComments\u003c/a\u003e",
-         "link": "https://lifehacker.com/health/ai-powered-calorie-counting-apps-worse-than-expected",
+         "title": "How to get started with writing tech video essays",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44189391\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=44189391",
          "links": [
-             "https://lifehacker.com/health/ai-powered-calorie-counting-apps-worse-than-expected"
+             "https://news.ycombinator.com/item?id=44189391"
          ],
-         "published": "Sun, 08 Jun 2025 23:25:41 +0000",
-         "publishedParsed": "2025-06-08T23:25:41Z"
+         "published": "Thu, 05 Jun 2025 07:53:14 +0000",
+         "publishedParsed": "2025-06-05T07:53:14Z"
      },
      {
          "title": "How Compiler Explorer Works in 2025",
@@ -160,16 +160,6 @@
          "publishedParsed": "2025-06-04T17:32:34Z"
      },
      {
-         "title": "Ask HN: In 15 years, what will a gas station visit look like?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44220110\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=44220110",
-         "links": [
-             "https://news.ycombinator.com/item?id=44220110"
-         ],
-         "published": "Sun, 08 Jun 2025 23:20:03 +0000",
-         "publishedParsed": "2025-06-08T23:20:03Z"
-     },
-     {
          "title": "Generating Pixels One by One",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44189088\"\u003eComments\u003c/a\u003e",
          "link": "https://tunahansalih.github.io/blog/autoregressive-vision-generation-part-1/",
@@ -180,24 +170,14 @@
          "publishedParsed": "2025-06-05T06:59:19Z"
      },
      {
-         "title": "Binfmtc – binfmt_misc C scripting interface",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44216630\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en",
+         "title": "I used AI-powered calorie counting apps, and they were even worse than expected",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44220135\"\u003eComments\u003c/a\u003e",
+         "link": "https://lifehacker.com/health/ai-powered-calorie-counting-apps-worse-than-expected",
          "links": [
-             "https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en"
+             "https://lifehacker.com/health/ai-powered-calorie-counting-apps-worse-than-expected"
          ],
-         "published": "Sun, 08 Jun 2025 12:38:55 +0000",
-         "publishedParsed": "2025-06-08T12:38:55Z"
-     },
-     {
-         "title": "The last six months in LLMs, illustrated by pelicans on bicycles",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44215352\"\u003eComments\u003c/a\u003e",
-         "link": "https://simonwillison.net/2025/Jun/6/six-months-in-llms/",
-         "links": [
-             "https://simonwillison.net/2025/Jun/6/six-months-in-llms/"
-         ],
-         "published": "Sun, 08 Jun 2025 07:38:37 +0000",
-         "publishedParsed": "2025-06-08T07:38:37Z"
+         "published": "Sun, 08 Jun 2025 23:25:41 +0000",
+         "publishedParsed": "2025-06-08T23:25:41Z"
      },
      {
          "title": "Joining Apple Computer (2018)",
@@ -210,34 +190,34 @@
          "publishedParsed": "2025-06-07T20:32:54Z"
      },
      {
-         "title": "Efficient mRNA delivery to resting T cells to reverse HIV latency",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44189966\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nature.com/articles/s41467-025-60001-2",
+         "title": "The last six months in LLMs, illustrated by pelicans on bicycles",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44215352\"\u003eComments\u003c/a\u003e",
+         "link": "https://simonwillison.net/2025/Jun/6/six-months-in-llms/",
          "links": [
-             "https://www.nature.com/articles/s41467-025-60001-2"
+             "https://simonwillison.net/2025/Jun/6/six-months-in-llms/"
          ],
-         "published": "Thu, 05 Jun 2025 09:37:09 +0000",
-         "publishedParsed": "2025-06-05T09:37:09Z"
+         "published": "Sun, 08 Jun 2025 07:38:37 +0000",
+         "publishedParsed": "2025-06-08T07:38:37Z"
      },
      {
-         "title": "Zig Devlog: Self-Hosted x86 Back End Is Now Default in Debug Mode",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44219857\"\u003eComments\u003c/a\u003e",
-         "link": "https://ziglang.org/devlog/2025/#2025-06-08",
+         "title": "Binfmtc – binfmt_misc C scripting interface",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44216630\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en",
          "links": [
-             "https://ziglang.org/devlog/2025/#2025-06-08"
+             "https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en"
          ],
-         "published": "Sun, 08 Jun 2025 22:24:14 +0000",
-         "publishedParsed": "2025-06-08T22:24:14Z"
+         "published": "Sun, 08 Jun 2025 12:38:55 +0000",
+         "publishedParsed": "2025-06-08T12:38:55Z"
      },
      {
-         "title": "Launching the BeOS on Hitachi Flora Prius Systems (1999)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44217322\"\u003eComments\u003c/a\u003e",
-         "link": "http://testou.free.fr/www.beatjapan.org/mirror/www.be.com/support/guides/hitachi_boot.html",
+         "title": "Software Is About Promises",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44220287\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bramadams.dev/software-is-about-promises/",
          "links": [
-             "http://testou.free.fr/www.beatjapan.org/mirror/www.be.com/support/guides/hitachi_boot.html"
+             "https://www.bramadams.dev/software-is-about-promises/"
          ],
-         "published": "Sun, 08 Jun 2025 14:46:21 +0000",
-         "publishedParsed": "2025-06-08T14:46:21Z"
+         "published": "Mon, 09 Jun 2025 00:04:28 +0000",
+         "publishedParsed": "2025-06-09T00:04:28Z"
      },
      {
          "title": "Self-Host and Tech Independence: The Joy of Building Your Own",
@@ -250,6 +230,16 @@
          "publishedParsed": "2025-06-07T17:51:51Z"
      },
      {
+         "title": "Launching the BeOS on Hitachi Flora Prius Systems (1999)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44217322\"\u003eComments\u003c/a\u003e",
+         "link": "http://testou.free.fr/www.beatjapan.org/mirror/www.be.com/support/guides/hitachi_boot.html",
+         "links": [
+             "http://testou.free.fr/www.beatjapan.org/mirror/www.be.com/support/guides/hitachi_boot.html"
+         ],
+         "published": "Sun, 08 Jun 2025 14:46:21 +0000",
+         "publishedParsed": "2025-06-08T14:46:21Z"
+     },
+     {
          "title": "\u003cBlink\u003e and \u003cMarquee\u003e (2020)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44214522\"\u003eComments\u003c/a\u003e",
          "link": "https://danq.me/2020/11/11/blink-and-marquee/",
@@ -260,14 +250,14 @@
          "publishedParsed": "2025-06-08T04:17:43Z"
      },
      {
-         "title": "Startup Equity 101",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44188178\"\u003eComments\u003c/a\u003e",
-         "link": "https://quarter--mile.com/Startup-Equity-101",
+         "title": "Efficient mRNA delivery to resting T cells to reverse HIV latency",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44189966\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nature.com/articles/s41467-025-60001-2",
          "links": [
-             "https://quarter--mile.com/Startup-Equity-101"
+             "https://www.nature.com/articles/s41467-025-60001-2"
          ],
-         "published": "Thu, 05 Jun 2025 03:54:32 +0000",
-         "publishedParsed": "2025-06-05T03:54:32Z"
+         "published": "Thu, 05 Jun 2025 09:37:09 +0000",
+         "publishedParsed": "2025-06-05T09:37:09Z"
      },
      {
          "title": "FAA to eliminate floppy disks used in air traffic control systems",
@@ -280,13 +270,13 @@
          "publishedParsed": "2025-06-08T07:11:34Z"
      },
      {
-         "title": "Focus and Context and LLMs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44215726\"\u003eComments\u003c/a\u003e",
-         "link": "https://taras.glek.net/posts/focus-and-context-and-llms/",
+         "title": "Building an AI server on a budget",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44197347\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.informationga.in/blog/building-an-ai-server-on-a-budget",
          "links": [
-             "https://taras.glek.net/posts/focus-and-context-and-llms/"
+             "https://www.informationga.in/blog/building-an-ai-server-on-a-budget"
          ],
-         "published": "Sun, 08 Jun 2025 09:09:19 +0000",
-         "publishedParsed": "2025-06-08T09:09:19Z"
+         "published": "Fri, 06 Jun 2025 02:33:16 +0000",
+         "publishedParsed": "2025-06-06T02:33:16Z"
      }
  ]
