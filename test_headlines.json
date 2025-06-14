@@ -1,13 +1,13 @@
 [
      {
-         "title": "The Tech Job Meltdown",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44273790\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.professoraxelrod.com/p/the-tech-job-meltdown",
+         "title": "Filedb: Disk Based Key-Value Store Inspired by Bitcask",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44273857\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/rajivharlalka/filedb",
          "links": [
-             "https://www.professoraxelrod.com/p/the-tech-job-meltdown"
+             "https://github.com/rajivharlalka/filedb"
          ],
-         "published": "Sat, 14 Jun 2025 02:22:54 +0000",
-         "publishedParsed": "2025-06-14T02:22:54Z"
+         "published": "Sat, 14 Jun 2025 02:45:03 +0000",
+         "publishedParsed": "2025-06-14T02:45:03Z"
      },
      {
          "title": "Implementing Logic Programming",
@@ -20,24 +20,34 @@
          "publishedParsed": "2025-06-13T21:32:21Z"
      },
      {
-         "title": "Filedb: Disk Based Key-Value Store Inspired by Bitcask",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44273857\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/rajivharlalka/filedb",
+         "title": "SIMD-friendly algorithms for substring searching",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44274001\"\u003eComments\u003c/a\u003e",
+         "link": "http://0x80.pl/notesen/2016-11-28-simd-strfind.html",
          "links": [
-             "https://github.com/rajivharlalka/filedb"
+             "http://0x80.pl/notesen/2016-11-28-simd-strfind.html"
          ],
-         "published": "Sat, 14 Jun 2025 02:45:03 +0000",
-         "publishedParsed": "2025-06-14T02:45:03Z"
+         "published": "Sat, 14 Jun 2025 03:31:18 +0000",
+         "publishedParsed": "2025-06-14T03:31:18Z"
      },
      {
-         "title": "The International Standard for Identifying Postal Items",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44258633\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.akpain.net/blog/s10-upu/",
+         "title": "Liquid Glass – WWDC25 [video]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44235612\"\u003eComments\u003c/a\u003e",
+         "link": "https://developer.apple.com/videos/play/wwdc2025/219",
          "links": [
-             "https://www.akpain.net/blog/s10-upu/"
+             "https://developer.apple.com/videos/play/wwdc2025/219"
          ],
-         "published": "Thu, 12 Jun 2025 15:02:23 +0000",
-         "publishedParsed": "2025-06-12T15:02:23Z"
+         "published": "Tue, 10 Jun 2025 11:48:47 +0000",
+         "publishedParsed": "2025-06-10T11:48:47Z"
+     },
+     {
+         "title": "Endometriosis is an interesting disease",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44272933\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting",
+         "links": [
+             "https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting"
+         ],
+         "published": "Fri, 13 Jun 2025 22:40:22 +0000",
+         "publishedParsed": "2025-06-13T22:40:22Z"
      },
      {
          "title": "Self-Adapting Language Models",
@@ -60,6 +70,16 @@
          "publishedParsed": "2025-06-13T14:20:38Z"
      },
      {
+         "title": "The international standard for identifying postal items",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44258633\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.akpain.net/blog/s10-upu/",
+         "links": [
+             "https://www.akpain.net/blog/s10-upu/"
+         ],
+         "published": "Thu, 12 Jun 2025 15:02:23 +0000",
+         "publishedParsed": "2025-06-12T15:02:23Z"
+     },
+     {
          "title": "Whatever Happened to Sandboxfs?",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44249338\"\u003eComments\u003c/a\u003e",
          "link": "https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs",
@@ -70,14 +90,14 @@
          "publishedParsed": "2025-06-11T16:37:09Z"
      },
      {
-         "title": "Endometriosis is an incredibly interesting disease",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44272933\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting",
+         "title": "Green Tea Garbage Collector",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44274133\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/golang/go/issues/73581",
          "links": [
-             "https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting"
+             "https://github.com/golang/go/issues/73581"
          ],
-         "published": "Fri, 13 Jun 2025 22:40:22 +0000",
-         "publishedParsed": "2025-06-13T22:40:22Z"
+         "published": "Sat, 14 Jun 2025 04:10:56 +0000",
+         "publishedParsed": "2025-06-14T04:10:56Z"
      },
      {
          "title": "I convinced HP's board to buy Palm and watched them kill it",
@@ -90,54 +110,54 @@
          "publishedParsed": "2025-06-13T18:03:30Z"
      },
      {
-         "title": "Meta invests $14.3B in Scale AI to kick-start superintelligence lab",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44268197\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html",
+         "title": "Rethinking Losses for Diffusion Bridge Samplers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44273713\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2506.10982",
          "links": [
-             "https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html"
+             "https://arxiv.org/abs/2506.10982"
          ],
-         "published": "Fri, 13 Jun 2025 13:09:56 +0000",
-         "publishedParsed": "2025-06-13T13:09:56Z"
+         "published": "Sat, 14 Jun 2025 02:00:23 +0000",
+         "publishedParsed": "2025-06-14T02:00:23Z"
      },
      {
-         "title": "Using computers more freely and safely (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44270434\"\u003eComments\u003c/a\u003e",
-         "link": "https://akkartik.name/freewheeling/",
+         "title": "UK unis to cough up to £10M on Java to keep Oracle off their backs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44273900\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theregister.com/2025/06/13/jisc_java_oracle/",
          "links": [
-             "https://akkartik.name/freewheeling/"
+             "https://www.theregister.com/2025/06/13/jisc_java_oracle/"
          ],
-         "published": "Fri, 13 Jun 2025 17:27:20 +0000",
-         "publishedParsed": "2025-06-13T17:27:20Z"
+         "published": "Sat, 14 Jun 2025 02:57:50 +0000",
+         "publishedParsed": "2025-06-14T02:57:50Z"
      },
      {
-         "title": "The Hat, the Spectre and SAT Solvers (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44269289\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nhatcher.com/post/on-hats-and-sats/",
+         "title": "Shaping Light – Volumetric Lighting",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44234286\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.maximeheckel.com/posts/shaping-light-volumetric-lighting-with-post-processing-and-raymarching/",
          "links": [
-             "https://www.nhatcher.com/post/on-hats-and-sats/"
+             "https://blog.maximeheckel.com/posts/shaping-light-volumetric-lighting-with-post-processing-and-raymarching/"
          ],
-         "published": "Fri, 13 Jun 2025 15:14:20 +0000",
-         "publishedParsed": "2025-06-13T15:14:20Z"
+         "published": "Tue, 10 Jun 2025 08:56:03 +0000",
+         "publishedParsed": "2025-06-10T08:56:03Z"
      },
      {
-         "title": "When random people give money to random other people (2017)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44270144\"\u003eComments\u003c/a\u003e",
-         "link": "https://quomodocumque.wordpress.com/2017/06/27/when-random-people-give-money-to-random-other-people/",
+         "title": "$100 Hamburger",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44274031\"\u003eComments\u003c/a\u003e",
+         "link": "https://en.wikipedia.org/wiki/$100_hamburger",
          "links": [
-             "https://quomodocumque.wordpress.com/2017/06/27/when-random-people-give-money-to-random-other-people/"
+             "https://en.wikipedia.org/wiki/$100_hamburger"
          ],
-         "published": "Fri, 13 Jun 2025 16:49:46 +0000",
-         "publishedParsed": "2025-06-13T16:49:46Z"
+         "published": "Sat, 14 Jun 2025 03:41:14 +0000",
+         "publishedParsed": "2025-06-14T03:41:14Z"
      },
      {
-         "title": "100 years of Zermelo's axiom of choice: What was the problem with it? (2006)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44269002\"\u003eComments\u003c/a\u003e",
-         "link": "https://research.mietek.io/mi.MartinLof2006.html",
+         "title": "Student discovers fungus predicted by Albert Hoffman",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44243059\"\u003eComments\u003c/a\u003e",
+         "link": "https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor",
          "links": [
-             "https://research.mietek.io/mi.MartinLof2006.html"
+             "https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor"
          ],
-         "published": "Fri, 13 Jun 2025 14:46:15 +0000",
-         "publishedParsed": "2025-06-13T14:46:15Z"
+         "published": "Wed, 11 Jun 2025 00:36:00 +0000",
+         "publishedParsed": "2025-06-11T00:36:00Z"
      },
      {
          "title": "If the moon were only 1 pixel: A tediously accurate solar system model (2014)",
@@ -160,6 +180,26 @@
          "publishedParsed": "2025-06-13T14:04:35Z"
      },
      {
+         "title": "The Hat, the Spectre and SAT Solvers (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44269289\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nhatcher.com/post/on-hats-and-sats/",
+         "links": [
+             "https://www.nhatcher.com/post/on-hats-and-sats/"
+         ],
+         "published": "Fri, 13 Jun 2025 15:14:20 +0000",
+         "publishedParsed": "2025-06-13T15:14:20Z"
+     },
+     {
+         "title": "100 years of Zermelo's axiom of choice: What was the problem with it? (2006)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44269002\"\u003eComments\u003c/a\u003e",
+         "link": "https://research.mietek.io/mi.MartinLof2006.html",
+         "links": [
+             "https://research.mietek.io/mi.MartinLof2006.html"
+         ],
+         "published": "Fri, 13 Jun 2025 14:46:15 +0000",
+         "publishedParsed": "2025-06-13T14:46:15Z"
+     },
+     {
          "title": "Apple's Liquid Glass is prep work for AR interfaces, not just a design refresh",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44271630\"\u003eComments\u003c/a\u003e",
          "link": "https://omc345.substack.com/p/from-skeuomorphic-to-liquid-glass",
@@ -170,24 +210,34 @@
          "publishedParsed": "2025-06-13T19:44:58Z"
      },
      {
-         "title": "Student discovers fungus predicted by Albert Hoffman",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44243059\"\u003eComments\u003c/a\u003e",
-         "link": "https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor",
+         "title": "When random people give money to random other people (2017)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44270144\"\u003eComments\u003c/a\u003e",
+         "link": "https://quomodocumque.wordpress.com/2017/06/27/when-random-people-give-money-to-random-other-people/",
          "links": [
-             "https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor"
+             "https://quomodocumque.wordpress.com/2017/06/27/when-random-people-give-money-to-random-other-people/"
          ],
-         "published": "Wed, 11 Jun 2025 00:36:00 +0000",
-         "publishedParsed": "2025-06-11T00:36:00Z"
+         "published": "Fri, 13 Jun 2025 16:49:46 +0000",
+         "publishedParsed": "2025-06-13T16:49:46Z"
      },
      {
-         "title": "The concurrency trap: How an atomic counter stalled a pipeline",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44208938\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.conviva.com/platform/the-concurrency-trap-how-an-atomic-counter-stalled-a-pipeline/",
+         "title": "AI Isn't Magic, It's Maths",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44252409\"\u003eComments\u003c/a\u003e",
+         "link": "https://zerofluff.substack.com/p/ai-isnt-magic-its-maths",
          "links": [
-             "https://www.conviva.com/platform/the-concurrency-trap-how-an-atomic-counter-stalled-a-pipeline/"
+             "https://zerofluff.substack.com/p/ai-isnt-magic-its-maths"
          ],
-         "published": "Sat, 07 Jun 2025 11:25:02 +0000",
-         "publishedParsed": "2025-06-07T11:25:02Z"
+         "published": "Wed, 11 Jun 2025 22:14:18 +0000",
+         "publishedParsed": "2025-06-11T22:14:18Z"
+     },
+     {
+         "title": "Anne Wojcicki to buy back 23andMe and its data for $305M",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44273860\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cnbc.com/2025/06/13/anne-wojcicki-to-buy-back-23andme-and-its-data-for-305-million.html",
+         "links": [
+             "https://www.cnbc.com/2025/06/13/anne-wojcicki-to-buy-back-23andme-and-its-data-for-305-million.html"
+         ],
+         "published": "Sat, 14 Jun 2025 02:45:58 +0000",
+         "publishedParsed": "2025-06-14T02:45:58Z"
      },
      {
          "title": "High-speed fluorescence light field tomography of whole freely moving organisms",
@@ -200,14 +250,14 @@
          "publishedParsed": "2025-06-10T21:43:33Z"
      },
      {
-         "title": "A Study of the Winston Red: The Smithsonian's New Fancy Red Diamond",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44272776\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.gia.edu/gems-gemology/spring-2025-winston-red-diamond",
+         "title": "Using computers more freely and safely (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44270434\"\u003eComments\u003c/a\u003e",
+         "link": "https://akkartik.name/freewheeling/",
          "links": [
-             "https://www.gia.edu/gems-gemology/spring-2025-winston-red-diamond"
+             "https://akkartik.name/freewheeling/"
          ],
-         "published": "Fri, 13 Jun 2025 22:13:14 +0000",
-         "publishedParsed": "2025-06-13T22:13:14Z"
+         "published": "Fri, 13 Jun 2025 17:27:20 +0000",
+         "publishedParsed": "2025-06-13T17:27:20Z"
      },
      {
          "title": "EDAN: Towards Understanding Memory Parallelism and Latency Sensitivity in HPC [pdf]",
@@ -220,6 +270,16 @@
          "publishedParsed": "2025-06-10T22:19:50Z"
      },
      {
+         "title": "God is hungry for Context: First thoughts on o3 pro",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44245218\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.latent.space/p/o3-pro",
+         "links": [
+             "https://www.latent.space/p/o3-pro"
+         ],
+         "published": "Wed, 11 Jun 2025 07:52:37 +0000",
+         "publishedParsed": "2025-06-11T07:52:37Z"
+     },
+     {
          "title": "Ask HN: How do I give back to people helped me when I was young and had nothing?",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44268448\"\u003eComments\u003c/a\u003e",
          "link": "https://news.ycombinator.com/item?id=44268448",
@@ -230,36 +290,6 @@
          "publishedParsed": "2025-06-13T13:42:45Z"
      },
      {
-         "title": "MUMPS",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44272140\"\u003eComments\u003c/a\u003e",
-         "link": "https://en.wikipedia.org/wiki/MUMPS",
-         "links": [
-             "https://en.wikipedia.org/wiki/MUMPS"
-         ],
-         "published": "Fri, 13 Jun 2025 20:52:34 +0000",
-         "publishedParsed": "2025-06-13T20:52:34Z"
-     },
-     {
-         "title": "RISC-V in AI and HPC Part 1: Per Aspera Ad Astra?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44234971\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.eetimes.com/risc-v-in-ai-and-hpc-part-1-per-aspera-ad-astra/",
-         "links": [
-             "https://www.eetimes.com/risc-v-in-ai-and-hpc-part-1-per-aspera-ad-astra/"
-         ],
-         "published": "Tue, 10 Jun 2025 10:27:50 +0000",
-         "publishedParsed": "2025-06-10T10:27:50Z"
-     },
-     {
-         "title": "How the Alzheimer's Research Scandal Set Back Treatment 16 Years (2022)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44272637\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.discovermagazine.com/the-sciences/false-alzheimers-study-could-set-research-back-16-years",
-         "links": [
-             "https://www.discovermagazine.com/the-sciences/false-alzheimers-study-could-set-research-back-16-years"
-         ],
-         "published": "Fri, 13 Jun 2025 21:53:13 +0000",
-         "publishedParsed": "2025-06-13T21:53:13Z"
-     },
-     {
          "title": "Jemalloc Postmortem",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44264958\"\u003eComments\u003c/a\u003e",
          "link": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
@@ -268,35 +298,5 @@
          ],
          "published": "Fri, 13 Jun 2025 01:37:17 +0000",
          "publishedParsed": "2025-06-13T01:37:17Z"
-     },
-     {
-         "title": "Frequent reauth doesn't make you more secure",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44261777\"\u003eComments\u003c/a\u003e",
-         "link": "https://tailscale.com/blog/frequent-reath-security",
-         "links": [
-             "https://tailscale.com/blog/frequent-reath-security"
-         ],
-         "published": "Thu, 12 Jun 2025 19:05:12 +0000",
-         "publishedParsed": "2025-06-12T19:05:12Z"
-     },
-     {
-         "title": "Simulink (Matlab) Copilot",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44271217\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Kaamuli/Bloxi",
-         "links": [
-             "https://github.com/Kaamuli/Bloxi"
-         ],
-         "published": "Fri, 13 Jun 2025 18:58:49 +0000",
-         "publishedParsed": "2025-06-13T18:58:49Z"
-     },
-     {
-         "title": "Thiings",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44238072\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.thiings.co/things",
-         "links": [
-             "https://www.thiings.co/things"
-         ],
-         "published": "Tue, 10 Jun 2025 15:30:23 +0000",
-         "publishedParsed": "2025-06-10T15:30:23Z"
      }
  ]
