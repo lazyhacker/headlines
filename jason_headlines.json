@@ -205,44 +205,40 @@
          }
      },
      {
-         "title": "Equipment Outages Vexed Newark Airport Controllers for Years",
-         "description": "Records show that air traffic controllers handling Newark Liberty International Airport flights have grappled with equipment outages since at least 2023, an anxiety-causing situation they call “plug and pray.”",
-         "link": "https://www.nytimes.com/2025/06/16/us/politics/newark-airport-controllers-outages.html",
+         "title": "California’s Wildfires Could Be Brutal This Summer",
+         "description": "Experts say there could be more large wildfires than usual this year. Here’s why.",
+         "link": "https://www.nytimes.com/2025/06/16/weather/california-fire-season-forecast.html",
          "links": [
-             "https://www.nytimes.com/2025/06/16/us/politics/newark-airport-controllers-outages.html"
+             "https://www.nytimes.com/2025/06/16/weather/california-fire-season-forecast.html"
          ],
-         "published": "Mon, 16 Jun 2025 09:01:03 +0000",
-         "publishedParsed": "2025-06-16T09:01:03Z",
+         "published": "Mon, 16 Jun 2025 18:21:45 +0000",
+         "publishedParsed": "2025-06-16T18:21:45Z",
          "author": {
-             "name": "Kate Kelly"
+             "name": "Amy Graff"
          },
          "authors": [
              {
-                 "name": "Kate Kelly"
+                 "name": "Amy Graff"
              }
          ],
-         "guid": "https://www.nytimes.com/2025/06/16/us/politics/newark-airport-controllers-outages.html",
+         "guid": "https://www.nytimes.com/2025/06/16/weather/california-fire-season-forecast.html",
          "image": {
-             "url": "https://static01.nyt.com/images/2025/06/13/multimedia/13dc-newark-outages-01-cwfj/13dc-newark-outages-01-cwfj-mediumSquareAt3X.jpg"
+             "url": "https://static01.nyt.com/images/2025/05/27/multimedia/27wea-fireforecast-tbkf/27wea-fireforecast-tbkf-mediumSquareAt3X.jpg"
          },
          "categories": [
-             "Airlines and Airplanes",
-             "Air Traffic Control",
-             "United States Politics and Government",
-             "Aviation Accidents, Safety and Disasters",
-             "Duffy, Sean P",
-             "Long Island (NY)",
-             "Newark (NJ)",
-             "Philadelphia (Pa)",
-             "Federal Aviation Administration",
-             "Newark Liberty International Airport (NJ)",
-             "Radio",
-             "Fiber Optics",
-             "Delays (Transportation)"
+             "Wildfires",
+             "Southern California Wildfires (Jan 2025)",
+             "Weather",
+             "Evacuations and Evacuees",
+             "California",
+             "Los Angeles (Calif)",
+             "Cal Fire",
+             "Forest Service",
+             "United States"
          ],
          "dcExt": {
              "creator": [
-                 "Kate Kelly"
+                 "Amy Graff"
              ]
          },
          "extensions": {
@@ -252,7 +248,7 @@
                          "name": "link",
                          "value": "",
                          "attrs": {
-                             "href": "https://www.nytimes.com/2025/06/16/us/politics/newark-airport-controllers-outages.html",
+                             "href": "https://www.nytimes.com/2025/06/16/weather/california-fire-season-forecast.html",
                              "rel": "standout"
                          },
                          "children": {}
@@ -263,7 +259,94 @@
                  "creator": [
                      {
                          "name": "creator",
-                         "value": "Kate Kelly",
+                         "value": "Amy Graff",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ]
+             },
+             "media": {
+                 "content": [
+                     {
+                         "name": "content",
+                         "value": "",
+                         "attrs": {
+                             "height": "1801",
+                             "medium": "image",
+                             "url": "https://static01.nyt.com/images/2025/05/27/multimedia/27wea-fireforecast-tbkf/27wea-fireforecast-tbkf-mediumSquareAt3X.jpg",
+                             "width": "1800"
+                         },
+                         "children": {}
+                     }
+                 ],
+                 "credit": [
+                     {
+                         "name": "credit",
+                         "value": "Erin Schaff/The New York Times",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ],
+                 "description": [
+                     {
+                         "name": "description",
+                         "value": "The aftermath of the Eaton fire in Altadena, Calif., in January. The peak of California’s fire season, when fires are most abundant and the most acres burn, occurs from June through October.",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ]
+             }
+         }
+     },
+     {
+         "title": "Fire in Maui Grows to 500 Acres, Prompting Evacuations",
+         "description": "The island was the site of devastating, deadly fires in 2023.",
+         "link": "https://www.nytimes.com/2025/06/16/us/maui-fire-kahikinui.html",
+         "links": [
+             "https://www.nytimes.com/2025/06/16/us/maui-fire-kahikinui.html"
+         ],
+         "published": "Mon, 16 Jun 2025 17:05:12 +0000",
+         "publishedParsed": "2025-06-16T17:05:12Z",
+         "author": {
+             "name": "Victor Mather"
+         },
+         "authors": [
+             {
+                 "name": "Victor Mather"
+             }
+         ],
+         "guid": "https://www.nytimes.com/2025/06/16/us/maui-fire-kahikinui.html",
+         "image": {
+             "url": "https://static01.nyt.com/images/2025/06/16/multimedia/16xp-mauifire1/16xp-mauifire1-mediumSquareAt3X.jpg"
+         },
+         "categories": [
+             "Wildfires",
+             "Maui (Hawaii)"
+         ],
+         "dcExt": {
+             "creator": [
+                 "Victor Mather"
+             ]
+         },
+         "extensions": {
+             "atom": {
+                 "link": [
+                     {
+                         "name": "link",
+                         "value": "",
+                         "attrs": {
+                             "href": "https://www.nytimes.com/2025/06/16/us/maui-fire-kahikinui.html",
+                             "rel": "standout"
+                         },
+                         "children": {}
+                     }
+                 ]
+             },
+             "dc": {
+                 "creator": [
+                     {
+                         "name": "creator",
+                         "value": "Victor Mather",
                          "attrs": {},
                          "children": {}
                      }
@@ -277,7 +360,7 @@
                          "attrs": {
                              "height": "1800",
                              "medium": "image",
-                             "url": "https://static01.nyt.com/images/2025/06/13/multimedia/13dc-newark-outages-01-cwfj/13dc-newark-outages-01-cwfj-mediumSquareAt3X.jpg",
+                             "url": "https://static01.nyt.com/images/2025/06/16/multimedia/16xp-mauifire1/16xp-mauifire1-mediumSquareAt3X.jpg",
                              "width": "1800"
                          },
                          "children": {}
@@ -286,7 +369,7 @@
                  "credit": [
                      {
                          "name": "credit",
-                         "value": "Dakota Santiago for The New York Times",
+                         "value": "Hawaii News Now",
                          "attrs": {},
                          "children": {}
                      }
@@ -294,7 +377,165 @@
                  "description": [
                      {
                          "name": "description",
-                         "value": "Newark Liberty International Airport in May.",
+                         "value": "The brushfire in Maui during its early stages. It had grown to 500 acres by Sunday night.",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ]
+             }
+         }
+     },
+     {
+         "title": "The Tick Situation Is Getting Worse",
+         "description": "As temperatures rise, ticks of all kinds are flourishing in ways that threaten people’s health.",
+         "link": "https://www.nytimes.com/2025/06/16/well/ticks-climate-change.html",
+         "links": [
+             "https://www.nytimes.com/2025/06/16/well/ticks-climate-change.html"
+         ],
+         "published": "Mon, 16 Jun 2025 17:52:28 +0000",
+         "publishedParsed": "2025-06-16T17:52:28Z",
+         "author": {
+             "name": "Maggie Astor"
+         },
+         "authors": [
+             {
+                 "name": "Maggie Astor"
+             }
+         ],
+         "guid": "https://www.nytimes.com/2025/06/16/well/ticks-climate-change.html",
+         "image": {
+             "url": "https://static01.nyt.com/images/2025/06/16/well/16Well-Ticks/16Well-Ticks-mediumSquareAt3X.jpg"
+         },
+         "categories": [
+             "Ticks (Insects)",
+             "Lyme Disease",
+             "Global Warming",
+             "Agriculture and Farming",
+             "Environment",
+             "Mountains"
+         ],
+         "dcExt": {
+             "creator": [
+                 "Maggie Astor"
+             ]
+         },
+         "extensions": {
+             "atom": {
+                 "link": [
+                     {
+                         "name": "link",
+                         "value": "",
+                         "attrs": {
+                             "href": "https://www.nytimes.com/2025/06/16/well/ticks-climate-change.html",
+                             "rel": "standout"
+                         },
+                         "children": {}
+                     }
+                 ]
+             },
+             "dc": {
+                 "creator": [
+                     {
+                         "name": "creator",
+                         "value": "Maggie Astor",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ]
+             },
+             "media": {
+                 "content": [
+                     {
+                         "name": "content",
+                         "value": "",
+                         "attrs": {
+                             "height": "1800",
+                             "medium": "image",
+                             "url": "https://static01.nyt.com/images/2025/06/16/well/16Well-Ticks/16Well-Ticks-mediumSquareAt3X.jpg",
+                             "width": "1800"
+                         },
+                         "children": {}
+                     }
+                 ],
+                 "credit": [
+                     {
+                         "name": "credit",
+                         "value": "Debbie Tea",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ]
+             }
+         }
+     },
+     {
+         "title": "How the N.B.A. and M.L.B. Shattered America’s Sports Culture",
+         "description": "The major sports leagues are destroying one of our few remaining sources of shared community.",
+         "link": "https://www.nytimes.com/2025/06/16/opinion/sports-nba-mlb-leagues-streaming-fan.html",
+         "links": [
+             "https://www.nytimes.com/2025/06/16/opinion/sports-nba-mlb-leagues-streaming-fan.html"
+         ],
+         "published": "Mon, 16 Jun 2025 15:24:51 +0000",
+         "publishedParsed": "2025-06-16T15:24:51Z",
+         "author": {
+             "name": "Joon Lee"
+         },
+         "authors": [
+             {
+                 "name": "Joon Lee"
+             }
+         ],
+         "guid": "https://www.nytimes.com/2025/06/16/opinion/sports-nba-mlb-leagues-streaming-fan.html",
+         "categories": [
+             "Television",
+             "Computers and the Internet",
+             "Regulation and Deregulation of Industry",
+             "Athletics and Sports",
+             "Video Recordings, Downloads and Streaming",
+             "Fans (Persons)",
+             "Basketball",
+             "Private Equity",
+             "Football",
+             "Tax Credits, Deductions and Exemptions",
+             "Baseball",
+             "Boston Marathon Bombings (2013)",
+             "ABC Inc",
+             "Apple TV",
+             "Boston Celtics",
+             "Boston Red Sox",
+             "Denver Nuggets",
+             "Fenway Park (Boston)",
+             "Major League Baseball",
+             "National Basketball Assn",
+             "National Football League",
+             "Sixth Street Partners",
+             "Cruz, Ted",
+             "Ortiz, David"
+         ],
+         "dcExt": {
+             "creator": [
+                 "Joon Lee"
+             ]
+         },
+         "extensions": {
+             "atom": {
+                 "link": [
+                     {
+                         "name": "link",
+                         "value": "",
+                         "attrs": {
+                             "href": "https://www.nytimes.com/2025/06/16/opinion/sports-nba-mlb-leagues-streaming-fan.html",
+                             "rel": "standout"
+                         },
+                         "children": {}
+                     }
+                 ]
+             },
+             "dc": {
+                 "creator": [
+                     {
+                         "name": "creator",
+                         "value": "Joon Lee",
                          "attrs": {},
                          "children": {}
                      }
@@ -396,112 +637,40 @@
          }
      },
      {
-         "title": "How the N.B.A. and the M.L.B. Shattered America’s Sports Culture",
-         "description": "The major sports leagues are destroying one of our few remaining sources of shared community.",
-         "link": "https://www.nytimes.com/2025/06/16/opinion/sports-nba-mlb-leagues-streaming-fan.html",
+         "title": "William Langewiesche, the ‘Steve McQueen of Journalism,’ Dies at 70",
+         "description": "He was a master of long form narratives, often involving high-stakes topics. He reported for Vanity Fair, The Atlantic and The New York Times Magazine.",
+         "link": "https://www.nytimes.com/2025/06/16/business/media/william-langewiesche-dead.html",
          "links": [
-             "https://www.nytimes.com/2025/06/16/opinion/sports-nba-mlb-leagues-streaming-fan.html"
+             "https://www.nytimes.com/2025/06/16/business/media/william-langewiesche-dead.html"
          ],
-         "published": "Mon, 16 Jun 2025 15:24:50 +0000",
-         "publishedParsed": "2025-06-16T15:24:50Z",
+         "published": "Mon, 16 Jun 2025 18:21:07 +0000",
+         "publishedParsed": "2025-06-16T18:21:07Z",
          "author": {
-             "name": "Joon Lee"
+             "name": "Trip Gabriel"
          },
          "authors": [
              {
-                 "name": "Joon Lee"
+                 "name": "Trip Gabriel"
              }
          ],
-         "guid": "https://www.nytimes.com/2025/06/16/opinion/sports-nba-mlb-leagues-streaming-fan.html",
-         "categories": [
-             "Television",
-             "Computers and the Internet",
-             "Regulation and Deregulation of Industry",
-             "Athletics and Sports",
-             "Video Recordings, Downloads and Streaming",
-             "Fans (Persons)",
-             "Basketball",
-             "Private Equity",
-             "Football",
-             "Tax Credits, Deductions and Exemptions",
-             "Baseball",
-             "Boston Marathon Bombings (2013)",
-             "ABC Inc",
-             "Apple TV",
-             "Boston Celtics",
-             "Boston Red Sox",
-             "Denver Nuggets",
-             "Fenway Park (Boston)",
-             "Major League Baseball",
-             "National Basketball Assn",
-             "National Football League",
-             "Sixth Street Partners",
-             "Cruz, Ted",
-             "Ortiz, David"
-         ],
-         "dcExt": {
-             "creator": [
-                 "Joon Lee"
-             ]
-         },
-         "extensions": {
-             "atom": {
-                 "link": [
-                     {
-                         "name": "link",
-                         "value": "",
-                         "attrs": {
-                             "href": "https://www.nytimes.com/2025/06/16/opinion/sports-nba-mlb-leagues-streaming-fan.html",
-                             "rel": "standout"
-                         },
-                         "children": {}
-                     }
-                 ]
-             },
-             "dc": {
-                 "creator": [
-                     {
-                         "name": "creator",
-                         "value": "Joon Lee",
-                         "attrs": {},
-                         "children": {}
-                     }
-                 ]
-             }
-         }
-     },
-     {
-         "title": "At Least 5 Dead in West Virginia Flash Flooding",
-         "description": "Four inches of rain fell in a 30-minute period in Ohio County on Saturday. One of the victims was 3 years old.",
-         "link": "https://www.nytimes.com/2025/06/15/us/west-virginia-flooding-deaths.html",
-         "links": [
-             "https://www.nytimes.com/2025/06/15/us/west-virginia-flooding-deaths.html"
-         ],
-         "published": "Mon, 16 Jun 2025 14:54:10 +0000",
-         "publishedParsed": "2025-06-16T14:54:10Z",
-         "author": {
-             "name": "Amanda Holpuch and Jenny Gross"
-         },
-         "authors": [
-             {
-                 "name": "Amanda Holpuch and Jenny Gross"
-             }
-         ],
-         "guid": "https://www.nytimes.com/2025/06/15/us/west-virginia-flooding-deaths.html",
+         "guid": "https://www.nytimes.com/2025/06/16/business/media/william-langewiesche-dead.html",
          "image": {
-             "url": "https://static01.nyt.com/images/2025/06/15/multimedia/15xp-flooding3/15xp-flooding3-mediumSquareAt3X.jpg"
+             "url": "https://static01.nyt.com/images/2025/06/16/multimedia/16langewiesche-hjcw/16langewiesche-hjcw-mediumSquareAt3X.jpg"
          },
          "categories": [
-             "Floods",
-             "Deaths (Fatalities)",
-             "West Virginia",
-             "Wheeling (W Va)",
-             "Rescues",
-             "Rain"
+             "Deaths (Obituaries)",
+             "Writing and Writers",
+             "Aviation Accidents, Safety and Disasters",
+             "Langewiesche, William",
+             "Atlantic Monthly",
+             "New York Times",
+             "Vanity Fair",
+             "Fly by Wire (Book)",
+             "American Ground (Book)"
          ],
          "dcExt": {
              "creator": [
-                 "Amanda Holpuch and Jenny Gross"
+                 "Trip Gabriel"
              ]
          },
          "extensions": {
@@ -511,7 +680,7 @@
                          "name": "link",
                          "value": "",
                          "attrs": {
-                             "href": "https://www.nytimes.com/2025/06/15/us/west-virginia-flooding-deaths.html",
+                             "href": "https://www.nytimes.com/2025/06/16/business/media/william-langewiesche-dead.html",
                              "rel": "standout"
                          },
                          "children": {}
@@ -522,7 +691,7 @@
                  "creator": [
                      {
                          "name": "creator",
-                         "value": "Amanda Holpuch and Jenny Gross",
+                         "value": "Trip Gabriel",
                          "attrs": {},
                          "children": {}
                      }
@@ -534,10 +703,10 @@
                          "name": "content",
                          "value": "",
                          "attrs": {
-                             "height": "1536",
+                             "height": "1524",
                              "medium": "image",
-                             "url": "https://static01.nyt.com/images/2025/06/15/multimedia/15xp-flooding3/15xp-flooding3-mediumSquareAt3X.jpg",
-                             "width": "1536"
+                             "url": "https://static01.nyt.com/images/2025/06/16/multimedia/16langewiesche-hjcw/16langewiesche-hjcw-mediumSquareAt3X.jpg",
+                             "width": "1523"
                          },
                          "children": {}
                      }
@@ -545,7 +714,7 @@
                  "credit": [
                      {
                          "name": "credit",
-                         "value": "Wheeling, W.Va. Fire Department",
+                         "value": "Chip East/Reuters",
                          "attrs": {},
                          "children": {}
                      }
@@ -553,7 +722,7 @@
                  "description": [
                      {
                          "name": "description",
-                         "value": "Searches took place at Big Wheeling Creek in Wheeling, W.Va. At least three people died in flash flooding in Ohio County.",
+                         "value": "William Langewiesche in 2002. For a decade, his articles were routinely finalists for the National Magazine Award, two of which won the prize.",
                          "attrs": {},
                          "children": {}
                      }
@@ -562,36 +731,37 @@
          }
      },
      {
-         "title": "Sotheby’s to Auction a Ceratosaurus, With Millions and More on the Line",
-         "description": "The 150-million-year-old specimen is valued at up to $6 million by Sotheby’s. Some paleontologists worry this auction and earlier ones are driving fossil market speculators.",
-         "link": "https://www.nytimes.com/2025/06/16/science/dinosaur-fossil-auction-sothebys.html",
+         "title": "Prosecutors Say Sean ‘Diddy’ Combs’s ‘Right Hand’ Aide Helped Organize Sex Marathons",
+         "description": "Earlier on Monday, the judge dismissed a juror over a “lack of candor.” Sean Combs’s lawyers said his removal would reduce the diversity of the jury.",
+         "link": "https://www.nytimes.com/2025/06/16/arts/music/sean-combs-diddy-trial-juror-dismissed.html",
          "links": [
-             "https://www.nytimes.com/2025/06/16/science/dinosaur-fossil-auction-sothebys.html"
+             "https://www.nytimes.com/2025/06/16/arts/music/sean-combs-diddy-trial-juror-dismissed.html"
          ],
-         "published": "Mon, 16 Jun 2025 15:15:28 +0000",
-         "publishedParsed": "2025-06-16T15:15:28Z",
+         "published": "Mon, 16 Jun 2025 18:17:08 +0000",
+         "publishedParsed": "2025-06-16T18:17:08Z",
          "author": {
-             "name": "Asher Elbein"
+             "name": "Julia Jacobs"
          },
          "authors": [
              {
-                 "name": "Asher Elbein"
+                 "name": "Julia Jacobs"
              }
          ],
-         "guid": "https://www.nytimes.com/2025/06/16/science/dinosaur-fossil-auction-sothebys.html",
+         "guid": "https://www.nytimes.com/2025/06/16/arts/music/sean-combs-diddy-trial-juror-dismissed.html",
+         "image": {
+             "url": "https://static01.nyt.com/images/2025/06/16/multimedia/16cul-combs-trial-gkbv/16cul-combs-trial-gkbv-mediumSquareAt3X.jpg"
+         },
          "categories": [
-             "Sotheby's",
-             "Fossils",
-             "Auctions",
-             "Paleontology",
-             "Utah",
-             "Museum of Ancient Life",
-             "Wyoming",
-             "your-feed-science"
+             "Jury System",
+             "Human Trafficking",
+             "Racketeering and Racketeers",
+             "Sex Crimes",
+             "Rap and Hip-Hop",
+             "Combs, Sean"
          ],
          "dcExt": {
              "creator": [
-                 "Asher Elbein"
+                 "Julia Jacobs"
              ]
          },
          "extensions": {
@@ -601,7 +771,7 @@
                          "name": "link",
                          "value": "",
                          "attrs": {
-                             "href": "https://www.nytimes.com/2025/06/16/science/dinosaur-fossil-auction-sothebys.html",
+                             "href": "https://www.nytimes.com/2025/06/16/arts/music/sean-combs-diddy-trial-juror-dismissed.html",
                              "rel": "standout"
                          },
                          "children": {}
@@ -612,13 +782,164 @@
                  "creator": [
                      {
                          "name": "creator",
-                         "value": "Asher Elbein",
+                         "value": "Julia Jacobs",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ]
+             },
+             "media": {
+                 "content": [
+                     {
+                         "name": "content",
+                         "value": "",
+                         "attrs": {
+                             "height": "1802",
+                             "medium": "image",
+                             "url": "https://static01.nyt.com/images/2025/06/16/multimedia/16cul-combs-trial-gkbv/16cul-combs-trial-gkbv-mediumSquareAt3X.jpg",
+                             "width": "1800"
+                         },
+                         "children": {}
+                     }
+                 ],
+                 "credit": [
+                     {
+                         "name": "credit",
+                         "value": "Mark Von Holden/Invision, via Associated Press",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ],
+                 "description": [
+                     {
+                         "name": "description",
+                         "value": "As the sixth week of the Sean Combs trial began on Monday morning, the judge overseeing the case dismissed a juror over concerns about inconsistencies in how he described where he lives.",
                          "attrs": {},
                          "children": {}
                      }
                  ]
              }
          }
+     },
+     {
+         "title": "Popular home goods chain files for bankruptcy amid tariff trouble",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/spherocytes\"\u003e /u/spherocytes \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.cnn.com/2025/06/16/business/at-home-bankruptcy-closures?utm_medium=social\u0026amp;utm_source=igCNN\u0026amp;utm_content=2025-06-16T12%3A00%3A51\u0026amp;fbclid=PAQ0xDSwK86xZleHRuA2FlbQIxMQABpyvjL5brRfMuzTGFOVzEKMJ3qKAfBq-GHB2sYu-lqIvXs49e25tJT2XCQ9BL_aem_4K1rTBjFUHUtFdmn1QNihQ\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1lcrcde/popular_home_goods_chain_files_for_bankruptcy/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1lcrcde/popular_home_goods_chain_files_for_bankruptcy/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1lcrcde/popular_home_goods_chain_files_for_bankruptcy/"
+         ],
+         "updated": "2025-06-16T12:20:32+00:00",
+         "updatedParsed": "2025-06-16T12:20:32Z",
+         "published": "2025-06-16T12:20:32+00:00",
+         "publishedParsed": "2025-06-16T12:20:32Z",
+         "author": {
+             "name": "/u/spherocytes"
+         },
+         "authors": [
+             {
+                 "name": "/u/spherocytes"
+             }
+         ],
+         "guid": "t3_1lcrcde",
+         "categories": [
+             "r/news"
+         ]
+     },
+     {
+         "title": "The world’s most-visited museum shuts down with staff sounding the alarm on mass tourism",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/happy_bluebird\"\u003e /u/happy_bluebird \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://apnews.com/article/louvre-museum-paris-closed-lines-delay-2bbf9be4f49de739fd14dd4d908e4d72\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1lczxuj/the_worlds_mostvisited_museum_shuts_down_with/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1lczxuj/the_worlds_mostvisited_museum_shuts_down_with/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1lczxuj/the_worlds_mostvisited_museum_shuts_down_with/"
+         ],
+         "updated": "2025-06-16T18:02:05+00:00",
+         "updatedParsed": "2025-06-16T18:02:05Z",
+         "published": "2025-06-16T18:02:05+00:00",
+         "publishedParsed": "2025-06-16T18:02:05Z",
+         "author": {
+             "name": "/u/happy_bluebird"
+         },
+         "authors": [
+             {
+                 "name": "/u/happy_bluebird"
+             }
+         ],
+         "guid": "t3_1lczxuj",
+         "categories": [
+             "r/news"
+         ]
+     },
+     {
+         "title": "At least 100 people killed by gunmen in north-central Nigeria, rights group says",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/cheeseplatesuperman\"\u003e /u/cheeseplatesuperman \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://abcnews.go.com/International/wireStory/100-people-killed-gunmen-north-central-nigeria-rights-122850389\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1lctplx/at_least_100_people_killed_by_gunmen_in/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1lctplx/at_least_100_people_killed_by_gunmen_in/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1lctplx/at_least_100_people_killed_by_gunmen_in/"
+         ],
+         "updated": "2025-06-16T14:06:09+00:00",
+         "updatedParsed": "2025-06-16T14:06:09Z",
+         "published": "2025-06-16T14:06:09+00:00",
+         "publishedParsed": "2025-06-16T14:06:09Z",
+         "author": {
+             "name": "/u/cheeseplatesuperman"
+         },
+         "authors": [
+             {
+                 "name": "/u/cheeseplatesuperman"
+             }
+         ],
+         "guid": "t3_1lctplx",
+         "categories": [
+             "r/news"
+         ]
+     },
+     {
+         "title": "Galapagos tortoise celebrates his 135th birthday and his first Father's Day at Zoo Miami",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/MikeDavJ\"\u003e /u/MikeDavJ \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://abc7.com/post/galapagos-tortoise-goliath-celebrates-135th-birthday-first-fathers-day-zoo-miami/16758442/\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1lczn2y/galapagos_tortoise_celebrates_his_135th_birthday/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1lczn2y/galapagos_tortoise_celebrates_his_135th_birthday/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1lczn2y/galapagos_tortoise_celebrates_his_135th_birthday/"
+         ],
+         "updated": "2025-06-16T17:51:21+00:00",
+         "updatedParsed": "2025-06-16T17:51:21Z",
+         "published": "2025-06-16T17:51:21+00:00",
+         "publishedParsed": "2025-06-16T17:51:21Z",
+         "author": {
+             "name": "/u/MikeDavJ"
+         },
+         "authors": [
+             {
+                 "name": "/u/MikeDavJ"
+             }
+         ],
+         "guid": "t3_1lczn2y",
+         "categories": [
+             "r/news"
+         ]
+     },
+     {
+         "title": "Flash floods kill 3 in West Virginia, several people missing after inches of rain fell in 30 minutes",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/AudibleNod\"\u003e /u/AudibleNod \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.cbsnews.com/news/west-virginia-flash-flooding-deaths/\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1lc91m2/flash_floods_kill_3_in_west_virginia_several/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1lc91m2/flash_floods_kill_3_in_west_virginia_several/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1lc91m2/flash_floods_kill_3_in_west_virginia_several/"
+         ],
+         "updated": "2025-06-15T19:40:08+00:00",
+         "updatedParsed": "2025-06-15T19:40:08Z",
+         "published": "2025-06-15T19:40:08+00:00",
+         "publishedParsed": "2025-06-15T19:40:08Z",
+         "author": {
+             "name": "/u/AudibleNod"
+         },
+         "authors": [
+             {
+                 "name": "/u/AudibleNod"
+             }
+         ],
+         "guid": "t3_1lc91m2",
+         "categories": [
+             "r/news"
+         ]
      },
      {
          "title": "Galapagos tortoise celebrates his one hundred thirty fifth and his first Father’s Day at Zoo Miami",
@@ -640,6 +961,30 @@
              }
          ],
          "guid": "t3_1lc165b",
+         "categories": [
+             "r/news"
+         ]
+     },
+     {
+         "title": "Spaniards packing water pistols blame impact of mass tourism for housing crunch",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/CupidStunt13\"\u003e /u/CupidStunt13 \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://apnews.com/article/spain-tourism-housing-airbnb-protest-46250dd17afbfcd270e4f951865ae667\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1lc122l/spaniards_packing_water_pistols_blame_impact_of/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1lc122l/spaniards_packing_water_pistols_blame_impact_of/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1lc122l/spaniards_packing_water_pistols_blame_impact_of/"
+         ],
+         "updated": "2025-06-15T14:02:13+00:00",
+         "updatedParsed": "2025-06-15T14:02:13Z",
+         "published": "2025-06-15T14:02:13+00:00",
+         "publishedParsed": "2025-06-15T14:02:13Z",
+         "author": {
+             "name": "/u/CupidStunt13"
+         },
+         "authors": [
+             {
+                 "name": "/u/CupidStunt13"
+             }
+         ],
+         "guid": "t3_1lc122l",
          "categories": [
              "r/news"
          ]
@@ -670,14 +1015,69 @@
      },
      {
          "title": "Boeing Stock Is Rising. Here’s the Latest on the Air India 787 Crash. - Barron's",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFA5TEFRV1RKbDVtbjFoN01IN2ZqT3ByQTl4Uk1oVmstVHhaYVByMl9DZW52TUdwNThwWFVkd1Fta3R4Qk1SRTFRNUtuLU1fTE1GNnpRYURKQjc0aHdWSUxPUmNaWUNhT3gxNzZCNVdFdFd5cDMxZU5VS3dyaC0wb1k?oc=5\" target=\"_blank\"\u003eBoeing Stock Is Rising. Here’s the Latest on the Air India 787 Crash.\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBarron's\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5RZ2c0dkFKaEdtbkthRkJubVJXdFlkLTZKMXN2Vk85bjFtdk5uYU5MYXFpMmVOaDFwdnIxaW9wVHNJMnFZRlhQZGMyVlNIMkpDdzVNeUd4eTJZX2tVY2lFb2ROOW5mcDdvVzJ1S2draloyNzVLcFdNRDZR?oc=5\" target=\"_blank\"\u003eCo-pilot error suspected in new Air India crash theory\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eYahoo\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNM21LSXE3cnN2SzZnQkFnS0tHejFkVEFTdmRRSG9lODI4cnV4bktJcllRMFJVNmdIZFVWVVkwdGlUUTFTTVRpU1duV1VYMzlhZFBYd0RubURRU3l4Q0FhOEwxMHlDWk1ncjE0c3BjblRRbWVJclhLV215dzlrSHJYb0xFaW9RXzV3YVl2LW9sOWN0eUh1cXA1RkFzN2syMkXSAaQBQVVfeXFMTUdsWWw4bmcySFhVZkwwd0U4dnh0WkRNS2RUWERucnpGT0lIX2g4aEt5Nm9PUzk5dUxXZWJsTmdvajczVlYzY1ZuZ0gwSW1VMFVDOHBfNlJQOXU1WVdzV2RHSHdaMmdBQkRNMl9Oak5ORmgtMUViLVFueWw1VkZjUl9RUkJxbG9jcW44NGh3WlZOajJJQlRMT1JFeFUyZmNUcG40eWk?oc=5\" target=\"_blank\"\u003eAir India plane crash investigators find Boeing 787 Dreamliner's second \"black box\"\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCBS News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DSjlZelk5OEZ3TlRDNjRZeGNEYWtQLWZ3QTFNd1Z4bGszSGw2ZVYyYThZNFZqVzRWbmNVQ2VHZ2I5VTRneGx1ZzEtWEJUZVdNNGhBVDVsRjg3UQ?oc=5\" target=\"_blank\"\u003eInvestigators find cockpit voice recorder from crashed Air India flight\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBBC\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5mYkxlaWRKZXhVX25RZFJFQ2ZqQ1RfNW5TUngxdzJuQWw3WGotT3ZFd3BfSFpCdmFjMEluMmZUMmh3Sk9RUk14aVdDUDhrNHZWTXJlcE9pVmhKVVpEWWhCb0I3NGdxOV83b0VfUFQtWE1sYVZQUnhCTFpVbnFGUQ?oc=5\" target=\"_blank\"\u003eA Takeoff, a Mayday Call, and 2 Air India Pilots Who Never Made it Home\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFA5TEFRV1RKbDVtbjFoN01IN2ZqT3ByQTl4Uk1oVmstVHhaYVByMl9DZW52TUdwNThwWFVkd1Fta3R4Qk1SRTFRNUtuLU1fTE1GNnpRYURKQjc0aHdWSUxPUmNaWUNhT3gxNzZCNVdFdFd5cDMxZU5VS3dyaC0wb1k?oc=5\" target=\"_blank\"\u003eBoeing Stock Is Rising. Here’s the Latest on the Air India 787 Crash.\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBarron's\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5RZ2c0dkFKaEdtbkthRkJubVJXdFlkLTZKMXN2Vk85bjFtdk5uYU5MYXFpMmVOaDFwdnIxaW9wVHNJMnFZRlhQZGMyVlNIMkpDdzVNeUd4eTJZX2tVY2lFb2ROOW5mcDdvVzJ1S2draloyNzVLcFdNRDZR?oc=5\" target=\"_blank\"\u003eCo-pilot error suspected in new Air India crash theory\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eYahoo\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGxYWnNVelkxb0RQMmlZdDZMYlJTOTkwUWJMU2RpTW80ZVlRaE9TekgyT09ZWmNfU2NoZ19RYjNXa21nUG40YjJzdW90Qjh4MjVrazVQTnkzTWVPV2NYM3JJV3BCLUlGclBuejdyV0JTS3JjQVdNRXBsUHF5eU5vbG1mU1JWTGp1TkJTTTBzT0xzamxkTUFFbkpza3pRX0twbnpURGFaMFk0YlpBT0c2MndaWHF2UQ?oc=5\" target=\"_blank\"\u003eAir India Boeing 787-8 Dreamliner turns around mid-flight after technical issue\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eSky News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE50TlhWdmVDaFFrZkZYNGpHV0xwQzFwVUl6WnJOb1BGcGlUbmVNVHgzOXQtVkVvRWtmUTZfWFFubHZlZVpmSFl3RHctTW9Xc2tGT1NSRk1CLVloZw?oc=5\" target=\"_blank\"\u003eFamily of Air India crash victims feel 'abandoned'\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBBC\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS0hJQS1PY0tmWVpXSHZCWFB4aXR3NkRQUllKRWMwT2RMR01mTVozeFdOMTFUSmgxaUlMNkV1bUxubGEzSHhUWFhTZTdqQmNGTm9jOGhWejZNQ2szWVpkSXJ1MFVwUzFNMzlHeWlKYWRJMkNQNi1PeE1uenEwamk0VVVyc2xjVGl2ZDBzODVpdHFsYk5FVW9MWmk3QXM3OE1IcUJDVWx5QVhWZ1k5NmJHeDVkUTFDUUFuc2xkV0FPUkVfRlFxckhXUWxYNXpCWFpsNjdnYU02VzZpSWM2eUNEQmdCLVRObi00dlE?oc=5\" target=\"_blank\"\u003eDevastating scenes as families bid teary farewell to Ahmedabad plane crash victims | In pics\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eHindustan Times\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5TEFRV1RKbDVtbjFoN01IN2ZqT3ByQTl4Uk1oVmstVHhaYVByMl9DZW52TUdwNThwWFVkd1Fta3R4Qk1SRTFRNUtuLU1fTE1GNnpRYURKQjc0aHdWSUxPUmNaWUNhT3gxNzZCNVdFdFd5cDMxZU5VS3dyaC0wb1k?oc=5",
          "links": [
              "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5TEFRV1RKbDVtbjFoN01IN2ZqT3ByQTl4Uk1oVmstVHhaYVByMl9DZW52TUdwNThwWFVkd1Fta3R4Qk1SRTFRNUtuLU1fTE1GNnpRYURKQjc0aHdWSUxPUmNaWUNhT3gxNzZCNVdFdFd5cDMxZU5VS3dyaC0wb1k?oc=5"
          ],
-         "published": "Mon, 16 Jun 2025 14:31:00 GMT",
-         "publishedParsed": "2025-06-16T14:31:00Z",
+         "published": "Mon, 16 Jun 2025 16:09:00 GMT",
+         "publishedParsed": "2025-06-16T16:09:00Z",
          "guid": "CBMif0FVX3lxTFA5TEFRV1RKbDVtbjFoN01IN2ZqT3ByQTl4Uk1oVmstVHhaYVByMl9DZW52TUdwNThwWFVkd1Fta3R4Qk1SRTFRNUtuLU1fTE1GNnpRYURKQjc0aHdWSUxPUmNaWUNhT3gxNzZCNVdFdFd5cDMxZU5VS3dyaC0wb1k"
+     },
+     {
+         "title": "Chilling details emerge in Minnesota shootings as Vance Boelter faces federal charges: 'Stuff of nightmares' - ABC News",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2FPNnVzSVd1ZDBRNURTcGVGYkVaZ3FGd1lGcWJPbnBXZGdjbmIwNVNGNUh3ZjItNjR5ekZmWF9vMG1DaDd1dlFhaFhSaENwbmRpNEFabW1TbWx5ZVlDTzFnYnE2SWhVbWhRZmgwNm5VLVJEcjZiWnFzQjZnbTN3ZWwzbER2SjFDUG1Kd2pGaVJtWGgzOEVJYUh6YVFsemhnRGNnQ3hFXy3SAa4BQVVfeXFMTlJCZUNYY1VoNG1YcnVYa05vZjlYQ1I3a2ctZmJHbjdpc2d0MUlqNlcxSWFLMThoMlZFY2E5aWxBYmNOUUh3TTFISExYWklvNVBKVVB4S19XYVlOeVFxQkFTS1BiMWItZDRuMnF1TUcxMjctSmhVU25rQVZIMXMtMTE2MFdvR2JWUFNnVjZPRWFWUXFScjdvUGFOX1dYYmVWY2pZaGZJY3FNcVpEMkNn?oc=5\" target=\"_blank\"\u003eChilling details emerge in Minnesota shootings as Vance Boelter faces federal charges: 'Stuff of nightmares'\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQVFQ3WDdsVHQ2Vjg4OW1ZLVQ3dnBONmF3dHhBODd6dUtlS21DeC1jWVFZRW91RHljb2ZLbTFYcE5YT3VRMU1oTUt4OVNfaF9zMGRURTZueXlJRk9hLXRXMk8ta1dfR3dsYUxOUmVLaEVqdmVDS0FOYnJjS2UxeVNfTWxoVVJyamFCT3hfQTFGOG5JWlQ4cVRpNUFGSmdKN1g3OVNr0gGoAUFVX3lxTE1fYXFJOFV5c3pHVHhCTXh2SjI0NlJRMm91YTh0UlVwQkZFUm9HdWExa1IxWGZkR3kyZ3pnUmdRcWhiSllQaUtubzd3RHFROHF0NnRDa2xHMndHb21aOWdXanlEcFdfMmdXZ2ZoaFludXN3UExORUpyaGkyanpwdlFxeTZGd3dxUVBzZmROckE5RHZ5WjZPOGpiZVFvNVlKS1EtTk5kU0xWQg?oc=5\" target=\"_blank\"\u003eVance Boelter, suspect in Minnesota lawmaker shootings, taken into custody\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCBS News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWlvbzRlTWRKelRxRk1NTTBfeEwxSGxKejhQdm1JNXJFc2ZtRS14SXBYS20wQ2lLdHkwdFlkYmdUNDFqZzFESXNfYXp3dTNrazVXd2ltYVI2bW1CQWhWLUtnM2s0WnlaUmw5Sk5YcXR0RlYtQUVNR2RQM3BBSDZsLTNyZGE4M1lLam9HVkZxTTB0MTZCZ3ctaEotZmo2ODV5LVE?oc=5\" target=\"_blank\"\u003eSuspect in Minnesota lawmaker killing visited other legislators’ homes, say authorities\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Guardian\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxObjdENkF4X1ptNW9IcVo0am5UTXJkWERWWkZHN3pDYW5mNUs3TVJSX09aMXI1MUFpODB0U2ZvLXEtMEhjMENmYjU1bmFFUms3Ui10SVR5MWpSWklnV19ONDNfQzFsOXRHc0ttWHBHeWJOS3FreHhxak5QZjVrUHlCMVlNRlVtYUpjZUo1SHA0QlkzOElXem5wcE41Y2xYdw?oc=5\" target=\"_blank\"\u003eFriends say Minnesota shooting suspect was deeply religious and conservative\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAP News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HdS1TUkltamtBNzdPMXREYXE1MU9PYV93eTRLWm1VWmNXY05KTkhFbE9mdjQtdUdxYloyYXRXbVFuRVl2Y1lxM2NmT3gtYXJ4ZVJDcXZjcERzdw?oc=5\" target=\"_blank\"\u003eWife of Minnesota politician shielded daughter from bullets, says relative\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBBC\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2FPNnVzSVd1ZDBRNURTcGVGYkVaZ3FGd1lGcWJPbnBXZGdjbmIwNVNGNUh3ZjItNjR5ekZmWF9vMG1DaDd1dlFhaFhSaENwbmRpNEFabW1TbWx5ZVlDTzFnYnE2SWhVbWhRZmgwNm5VLVJEcjZiWnFzQjZnbTN3ZWwzbER2SjFDUG1Kd2pGaVJtWGgzOEVJYUh6YVFsemhnRGNnQ3hFXy3SAa4BQVVfeXFMTlJCZUNYY1VoNG1YcnVYa05vZjlYQ1I3a2ctZmJHbjdpc2d0MUlqNlcxSWFLMThoMlZFY2E5aWxBYmNOUUh3TTFISExYWklvNVBKVVB4S19XYVlOeVFxQkFTS1BiMWItZDRuMnF1TUcxMjctSmhVU25rQVZIMXMtMTE2MFdvR2JWUFNnVjZPRWFWUXFScjdvUGFOX1dYYmVWY2pZaGZJY3FNcVpEMkNn?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2FPNnVzSVd1ZDBRNURTcGVGYkVaZ3FGd1lGcWJPbnBXZGdjbmIwNVNGNUh3ZjItNjR5ekZmWF9vMG1DaDd1dlFhaFhSaENwbmRpNEFabW1TbWx5ZVlDTzFnYnE2SWhVbWhRZmgwNm5VLVJEcjZiWnFzQjZnbTN3ZWwzbER2SjFDUG1Kd2pGaVJtWGgzOEVJYUh6YVFsemhnRGNnQ3hFXy3SAa4BQVVfeXFMTlJCZUNYY1VoNG1YcnVYa05vZjlYQ1I3a2ctZmJHbjdpc2d0MUlqNlcxSWFLMThoMlZFY2E5aWxBYmNOUUh3TTFISExYWklvNVBKVVB4S19XYVlOeVFxQkFTS1BiMWItZDRuMnF1TUcxMjctSmhVU25rQVZIMXMtMTE2MFdvR2JWUFNnVjZPRWFWUXFScjdvUGFOX1dYYmVWY2pZaGZJY3FNcVpEMkNn?oc=5"
+         ],
+         "published": "Mon, 16 Jun 2025 17:26:15 GMT",
+         "publishedParsed": "2025-06-16T17:26:15Z",
+         "guid": "CBMiqAFBVV95cUxPb2FPNnVzSVd1ZDBRNURTcGVGYkVaZ3FGd1lGcWJPbnBXZGdjbmIwNVNGNUh3ZjItNjR5ekZmWF9vMG1DaDd1dlFhaFhSaENwbmRpNEFabW1TbWx5ZVlDTzFnYnE2SWhVbWhRZmgwNm5VLVJEcjZiWnFzQjZnbTN3ZWwzbER2SjFDUG1Kd2pGaVJtWGgzOEVJYUh6YVFsemhnRGNnQ3hFXy3SAa4BQVVfeXFMTlJCZUNYY1VoNG1YcnVYa05vZjlYQ1I3a2ctZmJHbjdpc2d0MUlqNlcxSWFLMThoMlZFY2E5aWxBYmNOUUh3TTFISExYWklvNVBKVVB4S19XYVlOeVFxQkFTS1BiMWItZDRuMnF1TUcxMjctSmhVU25rQVZIMXMtMTE2MFdvR2JWUFNnVjZPRWFWUXFScjdvUGFOX1dYYmVWY2pZaGZJY3FNcVpEMkNn"
+     },
+     {
+         "title": "Fire in Maui Grows to 500 Acres, Prompting Evacuations - The New York Times",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBQb1FiX0NzdHdhNWR5NXVuRHRvbTVXRVFUY3oyVmJ4Qm1xdTZZcVdQUkZUQmN2N2w3aVVxRWZZWVU0MzlGRndUcXBtcHJNc0JJRVh4SGl2a3lVUHVxMGtQTVVucUtpZWJZV0hjODM0dw?oc=5\" target=\"_blank\"\u003eFire in Maui Grows to 500 Acres, Prompting Evacuations\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE4yb2hzM19SbDRHbURNOTNqUlZFU1k1RlJILUhyUmhLSjdUSjUyemRLb1RzMzY3c05PMVB4TDlkRkxsX1dmYnFpMGRmN3Bmczg3dUNlQmMyZkROWlB1V096dmktN2N4WFNrVDJrYWZIbm45YWlzNEZHLTF4TTVrQQ?oc=5\" target=\"_blank\"\u003eKahikinui fire revised to 330 acres; 80% contained\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eMaui Now\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxONDhFdDBmR3F3enVxVk9YWGsteVM2MXJ0bUR1elhGZWFMdGo0clVWMkduX1BGekJzM2tGRV96UnlfWmFQQldQQ1o3Um5aM2dOTDhQRF9GYUpRSlFOZmI4VW1KWHU5N21wdURvUXBGNDc4SDJIdUpuczgxOVhxN1hEV2xMaDJUQ0paVVZkLVhESk1nWmvSAZgBQVVfeXFMUHFaQS1MTjV3TGdtOWl4b3p0WDhROTZiNm1MYldYYVJtT3ZUb3hsZ3FUSmFrZTVOMzJCSDV0QnFweVZGUjRsSVB1Ymk3UFZsU1VWQmxwdmlWWDlwUFB1RzA2ZWRhYkRYZ0Y1Qy1MUi1VUUZMemdWT0ZWdFpLd2FNdWxQX05HcjEzZVlYcGJiZnk0eTdtSXBFTWI?oc=5\" target=\"_blank\"\u003eEmergency preparedness: What should you pack in a go bag?\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eKHON2\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdTlmdzRXOFR1NTVycGxTMGhBU2k0ZlhRUmlrbFhyNkViSHo4LVR6Wk9QVlVZRWlLQkVOcVhhbDRZaHF3a2FIdXRyNDJkalA0YlFPMEI4STBWUjYxLXFlNTNkU1pSb0RnRmRPSnVQT1I0MF9zMkx5aHNUR1dJNFpWemNjMWxOcVNJNGVUWkdERG0zSHZxYVoyYUFNOHl4Ym1zMVlaMnlHbTQxcTlRaHRYc1R3WC1PMENKcmhaTkp3THo5eWVXZWJEa05lLWR4TWkycU02MFNuZHFNa0V0NHE1VzBMdw?oc=5\" target=\"_blank\"\u003eKahikinui brush fire grows to 500 acres; Mayor signs emergency order\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eKITV\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnd0dFUtU0VzS3FOWVRoOFU3aWZkQzBMUkRVdzA5STVVNDVrSEpCSmJPQkdpZkhLeGItd1RkMmhSeklvcnpNVUpYOEZxWkkwbm9CUzZUU1BkeTNCUHNPYUNRRl85eDZtWXV0c20yOVhKaERlc1BWb0hlUGpySU5aZ0lIZW50TDNGXzhtR0k4OGXSAaQBQVVfeXFMTmpsTGs3cXExY3BKX0otTElLTndla1pCeUFybU5tTGdvNlhRSXF6bTZMaUlnWTJnTzVuR3Zib3l1SkcxcGZlX2pEb1M1eFZYcTVGbEx3N3ZtSXplYTI0TE1aUmMyWVRuaHpxa1hfVEdHZi1TWDcyMWxwSEI0UFVYSm1pamd5UDE4VkV6QTRFTmdXd2dnRWo4OTFCOFdSZTBMUkthZWY?oc=5\" target=\"_blank\"\u003eEmergency Proclamation issued for Maui brush fire\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eHawaii News Now\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQb1FiX0NzdHdhNWR5NXVuRHRvbTVXRVFUY3oyVmJ4Qm1xdTZZcVdQUkZUQmN2N2w3aVVxRWZZWVU0MzlGRndUcXBtcHJNc0JJRVh4SGl2a3lVUHVxMGtQTVVucUtpZWJZV0hjODM0dw?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQb1FiX0NzdHdhNWR5NXVuRHRvbTVXRVFUY3oyVmJ4Qm1xdTZZcVdQUkZUQmN2N2w3aVVxRWZZWVU0MzlGRndUcXBtcHJNc0JJRVh4SGl2a3lVUHVxMGtQTVVucUtpZWJZV0hjODM0dw?oc=5"
+         ],
+         "published": "Mon, 16 Jun 2025 14:52:28 GMT",
+         "publishedParsed": "2025-06-16T14:52:28Z",
+         "guid": "CBMib0FVX3lxTFBQb1FiX0NzdHdhNWR5NXVuRHRvbTVXRVFUY3oyVmJ4Qm1xdTZZcVdQUkZUQmN2N2w3aVVxRWZZWVU0MzlGRndUcXBtcHJNc0JJRVh4SGl2a3lVUHVxMGtQTVVucUtpZWJZV0hjODM0dw"
+     },
+     {
+         "title": "States agree to $7.4 billion settlement with Purdue Pharma in opioid litigation - ABC News",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ21OaGlmNjEwVVo4c29VbHpOT29NNXZkNnZLbXFyZU1oMmJFUDF0WV9wVWlBWm52Q09zRFJtTWtPTnV1Y3VUeWhmbWFGRnp2b0VTZlpvc2pLS3JYQWlxMHpDcVllUjhzZ214bjNELWpFWnNTVGx0RXpTdHhPYnFHampyem1VUklERXlNNFA0bldmaXBrUFAzaGM4MDliWXZRSEHSAacBQVVfeXFMUDhoT0dGaXU1UmpFX25ZdXpwTmpwSFhzWVpoVUphb3kwVHpERmRRV0UxOThRa1F6eThrcHNxaDdBZzZhY2RXcTZBZWlfX1FELVVDc2ozMHM0WkJUUFJrb2NrMGlDQmo3NEt3V2hudVFTYk9JVGlqdEFZVmthQjluT1dDS0Izbl9RUnB1OGt5c2xXamo0UHpOcUUyLVlVTUpuVHc0Nl82U3c?oc=5\" target=\"_blank\"\u003eStates agree to $7.4 billion settlement with Purdue Pharma in opioid litigation\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWTFZSEFHRGhFdGxnVjR4cEFqRXoyQnVtV1lkeWlpTlhVNVFzWkpuTGRSZDA1YUFSc18wVXpmczBOOGV4RUZiZ2FaVkJEQl9XemFRVmlHbEMzbk1tMWZwUWM1Q2Q5Nmp4N1hfTDhXdDVhWUhlbHFfLXhDeFBoZEh6cS16clAwUFlFSGl0N0FXcGFHN2JuRjZyWmRFRTVVOUJmaUk5VHljRnlHT00?oc=5\" target=\"_blank\"\u003ePurdue Pharma, Sacklers reach new $7.4 billion opioid settlement\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNPR\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOHp6V3ktNnpUMXl3UDJvVFg2bW5SamlCaXpLUk9zRFVwNGs4cmdUUXlOLXVyWkNfdDIwczBtT2xjUG90dDk3Tk9HSF9tcXgtZ2JUS3FVZFgzVzdzWFFwNjJaTm44VWpsRE02Qk5JVy0xbDhIb2xHMTZMb1lkeDNfandSX2Q5cExlSlB5NmxyY0xmRjlySTlCWmlSYktjUTQxZnJEUl9HVEkwQQ?oc=5\" target=\"_blank\"\u003eAlabama signs onto $7.4B nationwide opioid settlement with Purdue, Sackler family\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWSFA\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMzZIdld1YWUtS0RtSUROcjhoVkVMYTdfSkNhR1o4S2J2cmFYQnZqcVQxOTgtMHJzcUdEbGotVVM0WlF2cWJFVFduLVV4RncwZlB2VHk0NExSa0lKQ1pZS0RhdVB3RkE0UmFQSXFGM2RUOGxFOFpobmFuSFZjc2k1VjRTeDdjMnhDS3Y0UzFQLTdnaGNoTjBUOEFKdjdqWm1JeEc2VlRic1RlY3kyRGFuRnF2SEZOQ1N1TjZpdmRCU0c2Q0RPTHotZjB1WGpoZnFCa0lJNTNLRHlnWHZoV0hJUXlabzIzdlR4UW53?oc=5\" target=\"_blank\"\u003eHow DC, Virginia \u0026 Maryland plan to use a $7.4B Purdue settlement over the opioid crisis\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWBFF\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZzRwdXNRc3JxNjhFTE84ZXVQaTN3LXM1MG0zdFFjUG1LUlJuV1FkVFFBeVljd1ZwZWkzZy1vTTBUc25vMEZEUXVFQktYVGtOTDA2UjRvakMybm4wTFJuLVZyVV9CWHB6Q3ZoTEdMTXJiMmFyZ29UUmVobm9hMFAtN3FtYXZ6NkhQTHVKNnlSMGR4UXY0dVJYR2hEUWQtRGFoaW4ySWhJT3MyQ3VueHg2bFVVNnotVUo2WjNTM2txYkt6elpqTVdGVEdWVkwtRVlha2FnS1RZLW1jNWQ4?oc=5\" target=\"_blank\"\u003ePurdue Pharma $7.4 billion opioid settlement wins broad support from US states\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eReuters\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ21OaGlmNjEwVVo4c29VbHpOT29NNXZkNnZLbXFyZU1oMmJFUDF0WV9wVWlBWm52Q09zRFJtTWtPTnV1Y3VUeWhmbWFGRnp2b0VTZlpvc2pLS3JYQWlxMHpDcVllUjhzZ214bjNELWpFWnNTVGx0RXpTdHhPYnFHampyem1VUklERXlNNFA0bldmaXBrUFAzaGM4MDliWXZRSEHSAacBQVVfeXFMUDhoT0dGaXU1UmpFX25ZdXpwTmpwSFhzWVpoVUphb3kwVHpERmRRV0UxOThRa1F6eThrcHNxaDdBZzZhY2RXcTZBZWlfX1FELVVDc2ozMHM0WkJUUFJrb2NrMGlDQmo3NEt3V2hudVFTYk9JVGlqdEFZVmthQjluT1dDS0Izbl9RUnB1OGt5c2xXamo0UHpOcUUyLVlVTUpuVHc0Nl82U3c?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ21OaGlmNjEwVVo4c29VbHpOT29NNXZkNnZLbXFyZU1oMmJFUDF0WV9wVWlBWm52Q09zRFJtTWtPTnV1Y3VUeWhmbWFGRnp2b0VTZlpvc2pLS3JYQWlxMHpDcVllUjhzZ214bjNELWpFWnNTVGx0RXpTdHhPYnFHampyem1VUklERXlNNFA0bldmaXBrUFAzaGM4MDliWXZRSEHSAacBQVVfeXFMUDhoT0dGaXU1UmpFX25ZdXpwTmpwSFhzWVpoVUphb3kwVHpERmRRV0UxOThRa1F6eThrcHNxaDdBZzZhY2RXcTZBZWlfX1FELVVDc2ozMHM0WkJUUFJrb2NrMGlDQmo3NEt3V2hudVFTYk9JVGlqdEFZVmthQjluT1dDS0Izbl9RUnB1OGt5c2xXamo0UHpOcUUyLVlVTUpuVHc0Nl82U3c?oc=5"
+         ],
+         "published": "Mon, 16 Jun 2025 15:45:00 GMT",
+         "publishedParsed": "2025-06-16T15:45:00Z",
+         "guid": "CBMiogFBVV95cUxNQ21OaGlmNjEwVVo4c29VbHpOT29NNXZkNnZLbXFyZU1oMmJFUDF0WV9wVWlBWm52Q09zRFJtTWtPTnV1Y3VUeWhmbWFGRnp2b0VTZlpvc2pLS3JYQWlxMHpDcVllUjhzZ214bjNELWpFWnNTVGx0RXpTdHhPYnFHampyem1VUklERXlNNFA0bldmaXBrUFAzaGM4MDliWXZRSEHSAacBQVVfeXFMUDhoT0dGaXU1UmpFX25ZdXpwTmpwSFhzWVpoVUphb3kwVHpERmRRV0UxOThRa1F6eThrcHNxaDdBZzZhY2RXcTZBZWlfX1FELVVDc2ozMHM0WkJUUFJrb2NrMGlDQmo3NEt3V2hudVFTYk9JVGlqdEFZVmthQjluT1dDS0Izbl9RUnB1OGt5c2xXamo0UHpOcUUyLVlVTUpuVHc0Nl82U3c"
+     },
+     {
+         "title": "West Virginia death toll rises amid deadly flash flooding, building collapse - ABC News",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOUW5reXV2MENvSzNFeElMMU05NkRxbkFlejhHWmQ1RzVfRXgzV3U1Y1ZqeWp0RHNuYlk5cWFqOXJmZzMyMS1YTUkzWHF3RnpEOG8tMklkMGYxU0RxMFd3OUtHeXVDSVZnZWRpUzlTSjVvSzh4Ynk4R1UxZmQ4T05qZXByMjJmbk9FeTVHTHBqeV96dm1FZHVJS2tYUzRSTjdKeEt30gGoAUFVX3lxTE5HUmJBR05JeGhaaHkyU2haVVBiRFptcWdnY2U1eGh5UGlpYV80bnRZdzRjNTdCN1pyRWpWdGFtdHUzVVNPb0JaMHRfOE5ubGRFdm5Vd21kMGYzam9fMjBTYjl6QUtVNUNfWDJnU0tWSmJjcnFrdzFINGdheFUzS2xQMnVoVndUd204WGZfeW1SMl9zemZudkdvU3JpMUlmM2FWRG9NbklZYw?oc=5\" target=\"_blank\"\u003eWest Virginia death toll rises amid deadly flash flooding, building collapse\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPdmNRdWVxUmJzN29weHZhaWpuVXRpNjFmUUVrb3V5MEVNaEE1UFIzQWllUl9DR3o3WGFPTXF1QmdhZTRzRWlOZnB2RjYtVU1hNHI1WGtfMEgtWERwN0pXRkNYN3VaYWZYdHlfbWxLZ3Qwb1RORS1mU3k4REg2aTc5bkRZendGV3VFR2VrM1dsQ3AtNXBNZ05xRklOZDBTZ0Fl0gGmAUFVX3lxTE5XQmNtVnAxVGNoNzdXWkh5eTUtbEdtWWE2VEppVTdub2JrUk9yczNDZHJFZU4xWHRvcjZkYVJ4Y1ZqMDhpTE5SYUcyWkkyQV9UY2VEMUhnSXV6VzdqUlduOXAyQWJDeEVWOG5kdXVpa0x1cFFSYjNTTHlSSGt3NTJDNlJkWHpBWUpJeGRyQXFXREZYTVdldlVSMkthN0QycFpabTF4U0E?oc=5\" target=\"_blank\"\u003e3-year-old among 6 killed in West Virginia flash flooding with more still missing\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFOX Weather\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSVFBcnVPN3o4M3hWQUIwTWZ4VVpZMFdWVXNiSVN3U2o3ZDYwY045M0Y2VUZ3RzdJYl9hMlZaWHkwY0VCdWt5anNyY21ER2hwT2NSREZsOEQyZm84Z2pGemNhMkl5cmpsUFFEXzhoYVFjTndqV0tWMjJ5X2dWYlJGVkVUY3pzYU1teU5WRzdvRnQ4MVZEUGtwdDJYdG5MRFNJUEJUamw0WksySXNTMmwzWHFGbFRRLXk2dU54SG4tUkhBRjQxY1RjU096WnRTM3BUVlJRNHZmQkZQc0ZyMmUwdHc3R3paRUlZeElSWXNCQmRnNWlLVkHSAfsBQVVfeXFMTS1kdjRnal9qbjNRNzFHdHN3WFFyYlZXTGN3WjhKOWIxbm5VMlllcV9vUDJkQXQwRmxVMDVxdnp3Mi1Ta3NZM2Y0bjdKZXNYM3I5MWRVTUtNUGtzQm1XX3ZoR3p6MUV5ZUlQZzVtVzI1bC1oelVrTWpMQkhhR0RyeE9RS3Y1VURiQlBIUUtUYlFrNWJ4LVJ6MHMzOUFvVm9PTW9kUWx6NXc3V1F0ZzFWMlU0WmdOX1EyemVySXhGOHB4RnZ2bU9WejF0Zy1Vd1gzd1g3WThKckZ1ZjRUdVRpcVRWRXE1VGU0WjJwTkZ4aUJ5SW92eFhqNnBWaU0?oc=5\" target=\"_blank\"\u003eOne more dead in Ohio County from Flash Flooding, death toll up 6 with 3 people currently missing, Press conference set for 2:30\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWTRF\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPZmxMMy10RVhNMWY1UnIxUkxVTlBZVnFIYVpYVFU4RlMtMGkydmlTUVdzVUpFQ2l2QmsySkR2MFNJNnIxNmJkX1lXNjNtM2VBRDBDVmJXM2xUcWFibDRTc3VfRkxCakhuWXpTbWZVclZKcm5ScjYtRVlBcFl1T2JYUVR2ZVU?oc=5\" target=\"_blank\"\u003eFlash Floods Leave At Least 6 Dead In West Virginia\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Weather Channel\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOY0lWZ1JTYVBOMWRaSkYwbW9pS1UyNEhHQTdrdnplQUNHY0w3REJGRzlaRVh2RnlkOHJLQU1zdDhraXQwZ251WjdTZjBfQS1xS2VmdC1vVTRLNHBHbFNSVFFxRWdHQzVoTFYwaGtSVl9vZ19rLXFjZnFSZ3VycXNNUmFoR1ROZUg2U0dMYTZIbTBsSnlXTjlBYkd5OWJhMUM1RjhLajNsc2NiazVnYlE4M3dmOTl1ckFHVk5ZRU5R0gHDAUFVX3lxTE1tSDdCQUI5Z01ZdnlqM3pNcExyeFJ0VTltYjRhRG5GeDNjQU8tUmtXU1NyS1U2a04weUFoTnM1S1V1S1NTSmtVOVZXdlFHZFVYZk5PSTlHbGFqYk5GYnk1WjBLdDB0VkQ4aVVZUEprMFdMdnlWNnJXN3BvaEhNMDloZklnQlZDTER0NFRhVjNtSG9rTkswdzhnZDZDWmlxSWsyRi1fU1ViaUJkZjI2REZTN2pVMTJJNVJUSE5FdjRvaXJBUQ?oc=5\" target=\"_blank\"\u003eApartment building partially collapses in Fairmont\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWBOY.com\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUW5reXV2MENvSzNFeElMMU05NkRxbkFlejhHWmQ1RzVfRXgzV3U1Y1ZqeWp0RHNuYlk5cWFqOXJmZzMyMS1YTUkzWHF3RnpEOG8tMklkMGYxU0RxMFd3OUtHeXVDSVZnZWRpUzlTSjVvSzh4Ynk4R1UxZmQ4T05qZXByMjJmbk9FeTVHTHBqeV96dm1FZHVJS2tYUzRSTjdKeEt30gGoAUFVX3lxTE5HUmJBR05JeGhaaHkyU2haVVBiRFptcWdnY2U1eGh5UGlpYV80bnRZdzRjNTdCN1pyRWpWdGFtdHUzVVNPb0JaMHRfOE5ubGRFdm5Vd21kMGYzam9fMjBTYjl6QUtVNUNfWDJnU0tWSmJjcnFrdzFINGdheFUzS2xQMnVoVndUd204WGZfeW1SMl9zemZudkdvU3JpMUlmM2FWRG9NbklZYw?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUW5reXV2MENvSzNFeElMMU05NkRxbkFlejhHWmQ1RzVfRXgzV3U1Y1ZqeWp0RHNuYlk5cWFqOXJmZzMyMS1YTUkzWHF3RnpEOG8tMklkMGYxU0RxMFd3OUtHeXVDSVZnZWRpUzlTSjVvSzh4Ynk4R1UxZmQ4T05qZXByMjJmbk9FeTVHTHBqeV96dm1FZHVJS2tYUzRSTjdKeEt30gGoAUFVX3lxTE5HUmJBR05JeGhaaHkyU2haVVBiRFptcWdnY2U1eGh5UGlpYV80bnRZdzRjNTdCN1pyRWpWdGFtdHUzVVNPb0JaMHRfOE5ubGRFdm5Vd21kMGYzam9fMjBTYjl6QUtVNUNfWDJnU0tWSmJjcnFrdzFINGdheFUzS2xQMnVoVndUd204WGZfeW1SMl9zemZudkdvU3JpMUlmM2FWRG9NbklZYw?oc=5"
+         ],
+         "published": "Mon, 16 Jun 2025 05:47:09 GMT",
+         "publishedParsed": "2025-06-16T05:47:09Z",
+         "guid": "CBMiowFBVV95cUxOUW5reXV2MENvSzNFeElMMU05NkRxbkFlejhHWmQ1RzVfRXgzV3U1Y1ZqeWp0RHNuYlk5cWFqOXJmZzMyMS1YTUkzWHF3RnpEOG8tMklkMGYxU0RxMFd3OUtHeXVDSVZnZWRpUzlTSjVvSzh4Ynk4R1UxZmQ4T05qZXByMjJmbk9FeTVHTHBqeV96dm1FZHVJS2tYUzRSTjdKeEt30gGoAUFVX3lxTE5HUmJBR05JeGhaaHkyU2haVVBiRFptcWdnY2U1eGh5UGlpYV80bnRZdzRjNTdCN1pyRWpWdGFtdHUzVVNPb0JaMHRfOE5ubGRFdm5Vd21kMGYzam9fMjBTYjl6QUtVNUNfWDJnU0tWSmJjcnFrdzFINGdheFUzS2xQMnVoVndUd204WGZfeW1SMl9zemZudkdvU3JpMUlmM2FWRG9NbklZYw"
+     },
+     {
+         "title": "Carnival argument shooting kills 3 in an unusually violent weekend for Salt Lake City area - AP News",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcXFNN3p2bmJJdWd2clo2Y3ZSNEY5ZndobExSWlU0a1I1aWRqNmtqRDItZE9NbFRINDdRUXJiUlVUNTZZbXZBUkJsQThZdUxOQ0JzWHo0TjVxcFE0NXJvVks1S1NIRmdkVHgyaVBnU0VrYnRjU3lVRzFuUy1IakRkOXJwWjF4X0ppcXVtS1FWSlk3QjBuVkg5OHdZblpXS0pxdGdsUXNYQUJaeXc?oc=5\" target=\"_blank\"\u003eCarnival argument shooting kills 3 in an unusually violent weekend for Salt Lake City area\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAP News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbVUzQWhLbllmTE5HRm9vTk5zajQ0cU1NVHdzNnhMZWZWNTNYa3FCNTdjbzYteVlkYVBVc0xRekFEUm9hODlyZEJFQS1YaTZzc3pPQldINHMwT3VZZExKcFdmMUcxM2FsYm5JcXg1TnFOU2xIMHAxYkU0Q1h1SUd5RGpSdTZHbURXZWlv?oc=5\" target=\"_blank\"\u003eThree People Killed, Including 8-Month-Old, in Shooting at Utah Festival\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOMHZFWXJTeW5pZXVidGU2c21GdWgtb09UN3dqbElmQTBoLVBQOVFzVHVSd0tQelR4RDYtOXVMSTBEVnBvX1QwT3dRWU8zZW5xNXdsVWVtOE9hT1NwOXZOV2xIT2wwS1c5c3VwT1F4TTFuVi1NQ3hxTV9YbVZxVlNhV29VU21yLTJPT2MzWGtNMGZ6b0F1TXpJRDF1bEtaQmZ5LXZ3?oc=5\" target=\"_blank\"\u003eDistrict Attorney: Too soon to determine if WestFest teen suspect will face adult charges\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eKUTV\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQcWxkM2F5eE04VnAwTElXQ3F4ZHZaVWZQR2hGNjI0eGZjd2dzSk5LWHU0NlhSUFo2QUttNTYydFpEcmZpUjBXZnMza1VNOERhLU9QVTc1S2dxejJWTkhEVWZTVE1LR3JQcE5tUzZoR25iOFQzbTZ0SW5icjNOckE0TU5mWTZYZWhqNWh4QVJyZmdfcXAxN21vYjJxLVVHOXhm0gFWQVVfeXFMTi1BbE1XVVJjV29KQkM0UmllNjlMQkRUQ2pFRGRKWTVfSnJZM2lHNnBHUmcySjBPejJPYWJuajBlalJfb1AtSlgzUENzNjlCRlFIN2VxbkE?oc=5\" target=\"_blank\"\u003eInfant among 3 people fatally shot at Utah carnival after argument\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNBC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOYTFOeUlTckpUR01vNnNWaHVnSk4yUFRTUTVSS0xPNmhtaG5DemM5amM3NGZwbWx6WG1nZXNuZ1NDZWdLN3U0WmdselRqZ2VJVjIwcFBYcVNEMldubm9TQUROR3NtSFd3X2dESkc4UWc4emNaNGRZc3RVRzYxeVpELTM5WWZWbThzNGlLR3FjbUVsNVcwWnc?oc=5\" target=\"_blank\"\u003eBystander woman, baby among 3 killed in Utah carnival argument\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eEast Idaho News\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcXFNN3p2bmJJdWd2clo2Y3ZSNEY5ZndobExSWlU0a1I1aWRqNmtqRDItZE9NbFRINDdRUXJiUlVUNTZZbXZBUkJsQThZdUxOQ0JzWHo0TjVxcFE0NXJvVks1S1NIRmdkVHgyaVBnU0VrYnRjU3lVRzFuUy1IakRkOXJwWjF4X0ppcXVtS1FWSlk3QjBuVkg5OHdZblpXS0pxdGdsUXNYQUJaeXc?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcXFNN3p2bmJJdWd2clo2Y3ZSNEY5ZndobExSWlU0a1I1aWRqNmtqRDItZE9NbFRINDdRUXJiUlVUNTZZbXZBUkJsQThZdUxOQ0JzWHo0TjVxcFE0NXJvVks1S1NIRmdkVHgyaVBnU0VrYnRjU3lVRzFuUy1IakRkOXJwWjF4X0ppcXVtS1FWSlk3QjBuVkg5OHdZblpXS0pxdGdsUXNYQUJaeXc?oc=5"
+         ],
+         "published": "Mon, 16 Jun 2025 17:26:00 GMT",
+         "publishedParsed": "2025-06-16T17:26:00Z",
+         "guid": "CBMiqwFBVV95cUxPcXFNN3p2bmJJdWd2clo2Y3ZSNEY5ZndobExSWlU0a1I1aWRqNmtqRDItZE9NbFRINDdRUXJiUlVUNTZZbXZBUkJsQThZdUxOQ0JzWHo0TjVxcFE0NXJvVks1S1NIRmdkVHgyaVBnU0VrYnRjU3lVRzFuUy1IakRkOXJwWjF4X0ppcXVtS1FWSlk3QjBuVkg5OHdZblpXS0pxdGdsUXNYQUJaeXc"
      },
      {
          "title": "Benzene at 200",
@@ -700,24 +1100,14 @@
          "publishedParsed": "2025-06-16T12:32:02Z"
      },
      {
-         "title": "ZjsComponent: A Pragmatic Approach to Reusable UI Fragments for Web Development",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44290315\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2506.11016",
+         "title": "OpenTelemetry for Go: Measuring overhead costs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44290331\"\u003eComments\u003c/a\u003e",
+         "link": "https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/",
          "links": [
-             "https://arxiv.org/abs/2506.11016"
+             "https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/"
          ],
-         "published": "Mon, 16 Jun 2025 15:07:42 +0000",
-         "publishedParsed": "2025-06-16T15:07:42Z"
-     },
-     {
-         "title": "The Renegade Richard Foreman",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44291026\"\u003eComments\u003c/a\u003e",
-         "link": "https://yalereview.org/article/jennifer-krasinski-richard-foreman",
-         "links": [
-             "https://yalereview.org/article/jennifer-krasinski-richard-foreman"
-         ],
-         "published": "Mon, 16 Jun 2025 16:24:33 +0000",
-         "publishedParsed": "2025-06-16T16:24:33Z"
+         "published": "Mon, 16 Jun 2025 15:09:17 +0000",
+         "publishedParsed": "2025-06-16T15:09:17Z"
      },
      {
          "title": "Show HN: Zeekstd – Rust Implementation of the ZSTD Seekable Format",
@@ -730,14 +1120,14 @@
          "publishedParsed": "2025-06-15T20:49:18Z"
      },
      {
-         "title": "Income Inequality Depresses Support for Higher Minimum Wages [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44290597\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.apa.org/pubs/journals/releases/xge-xge0001772.pdf",
+         "title": "ZjsComponent: A Pragmatic Approach to Reusable UI Fragments for Web Development",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44290315\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2506.11016",
          "links": [
-             "https://www.apa.org/pubs/journals/releases/xge-xge0001772.pdf"
+             "https://arxiv.org/abs/2506.11016"
          ],
-         "published": "Mon, 16 Jun 2025 15:36:25 +0000",
-         "publishedParsed": "2025-06-16T15:36:25Z"
+         "published": "Mon, 16 Jun 2025 15:07:42 +0000",
+         "publishedParsed": "2025-06-16T15:07:42Z"
      },
      {
          "title": "Show HN: dk – A script runner and cross-compiler, written in OCaml",
@@ -750,26 +1140,6 @@
          "publishedParsed": "2025-06-16T14:49:34Z"
      },
      {
-         "title": "Darklang Goes Open Source",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44290653\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.darklang.com/darklang-goes-open-source/",
-         "links": [
-             "https://blog.darklang.com/darklang-goes-open-source/"
-         ],
-         "published": "Mon, 16 Jun 2025 15:41:44 +0000",
-         "publishedParsed": "2025-06-16T15:41:44Z"
-     },
-     {
-         "title": "OpenTelemetry for Go: Measuring overhead costs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44290331\"\u003eComments\u003c/a\u003e",
-         "link": "https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/",
-         "links": [
-             "https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/"
-         ],
-         "published": "Mon, 16 Jun 2025 15:09:17 +0000",
-         "publishedParsed": "2025-06-16T15:09:17Z"
-     },
-     {
          "title": "Nanonets-OCR-s – OCR model that transforms documents into structured markdown",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44287043\"\u003eComments\u003c/a\u003e",
          "link": "https://huggingface.co/nanonets/Nanonets-OCR-s",
@@ -780,44 +1150,24 @@
          "publishedParsed": "2025-06-16T06:14:56Z"
      },
      {
-         "title": "Salesforce study finds LLM agents flunk CRM and confidentiality tests",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44289554\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theregister.com/2025/06/16/salesforce_llm_agents_benchmark/",
+         "title": "Darklang Goes Open Source",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44290653\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.darklang.com/darklang-goes-open-source/",
          "links": [
-             "https://www.theregister.com/2025/06/16/salesforce_llm_agents_benchmark/"
+             "https://blog.darklang.com/darklang-goes-open-source/"
          ],
-         "published": "Mon, 16 Jun 2025 13:59:18 +0000",
-         "publishedParsed": "2025-06-16T13:59:18Z"
+         "published": "Mon, 16 Jun 2025 15:41:44 +0000",
+         "publishedParsed": "2025-06-16T15:41:44Z"
      },
      {
-         "title": "Object personification in autism: This paper will be sad if you don't read (2018)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44290582\"\u003eComments\u003c/a\u003e",
-         "link": "https://pubmed.ncbi.nlm.nih.gov/30101594/",
+         "title": "Adding public transport data to Transitous",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44275974\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.volkerkrause.eu/2025/06/14/transitous-adding-data.html",
          "links": [
-             "https://pubmed.ncbi.nlm.nih.gov/30101594/"
+             "https://www.volkerkrause.eu/2025/06/14/transitous-adding-data.html"
          ],
-         "published": "Mon, 16 Jun 2025 15:34:48 +0000",
-         "publishedParsed": "2025-06-16T15:34:48Z"
-     },
-     {
-         "title": "Start your own Internet Resiliency Club",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44287395\"\u003eComments\u003c/a\u003e",
-         "link": "https://bowshock.nl/irc/",
-         "links": [
-             "https://bowshock.nl/irc/"
-         ],
-         "published": "Mon, 16 Jun 2025 07:38:17 +0000",
-         "publishedParsed": "2025-06-16T07:38:17Z"
-     },
-     {
-         "title": "Infracost (YC W21) is hiring software engineers (GMT+2 to GMT-6)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44288748\"\u003eComments\u003c/a\u003e",
-         "link": "https://infracost.io/join-the-team",
-         "links": [
-             "https://infracost.io/join-the-team"
-         ],
-         "published": "Mon, 16 Jun 2025 12:00:18 +0000",
-         "publishedParsed": "2025-06-16T12:00:18Z"
+         "published": "Sat, 14 Jun 2025 12:23:09 +0000",
+         "publishedParsed": "2025-06-14T12:23:09Z"
      },
      {
          "title": "Is gravity just entropy rising? Long-shot idea gets another look",
@@ -830,14 +1180,14 @@
          "publishedParsed": "2025-06-16T00:36:41Z"
      },
      {
-         "title": "Show HN: Socket-call – Call socket.io events like normal JavaScript functions",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44288643\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/bperel/socket-call",
+         "title": "Start your own Internet Resiliency Club",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44287395\"\u003eComments\u003c/a\u003e",
+         "link": "https://bowshock.nl/irc/",
          "links": [
-             "https://github.com/bperel/socket-call"
+             "https://bowshock.nl/irc/"
          ],
-         "published": "Mon, 16 Jun 2025 11:40:54 +0000",
-         "publishedParsed": "2025-06-16T11:40:54Z"
+         "published": "Mon, 16 Jun 2025 07:38:17 +0000",
+         "publishedParsed": "2025-06-16T07:38:17Z"
      },
      {
          "title": "Maya Blue: Unlocking the Mysteries of an Ancient Pigment",
@@ -860,34 +1210,44 @@
          "publishedParsed": "2025-06-14T11:26:38Z"
      },
      {
-         "title": "Adding public transport data to Transitous",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44275974\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.volkerkrause.eu/2025/06/14/transitous-adding-data.html",
+         "title": "Scientists genetically engineer a lethal mosquito STD to combat malaria",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44291963\"\u003eComments\u003c/a\u003e",
+         "link": "https://newatlas.com/biology/genetically-engineered-lethal-mosquito-std-combat-malaria/",
          "links": [
-             "https://www.volkerkrause.eu/2025/06/14/transitous-adding-data.html"
+             "https://newatlas.com/biology/genetically-engineered-lethal-mosquito-std-combat-malaria/"
          ],
-         "published": "Sat, 14 Jun 2025 12:23:09 +0000",
-         "publishedParsed": "2025-06-14T12:23:09Z"
+         "published": "Mon, 16 Jun 2025 18:13:54 +0000",
+         "publishedParsed": "2025-06-16T18:13:54Z"
      },
      {
-         "title": "Jokes and Humour in the Public Android API",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44285781\"\u003eComments\u003c/a\u003e",
-         "link": "https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/",
+         "title": "Infracost (YC W21) is hiring software engineers (GMT+2 to GMT-6)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44288748\"\u003eComments\u003c/a\u003e",
+         "link": "https://infracost.io/join-the-team",
          "links": [
-             "https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/"
+             "https://infracost.io/join-the-team"
          ],
-         "published": "Mon, 16 Jun 2025 00:14:55 +0000",
-         "publishedParsed": "2025-06-16T00:14:55Z"
+         "published": "Mon, 16 Jun 2025 12:00:18 +0000",
+         "publishedParsed": "2025-06-16T12:00:18Z"
      },
      {
-         "title": "Mathematical Illustrations: A Manual of Geometry and PostScript",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44289705\"\u003eComments\u003c/a\u003e",
-         "link": "https://personal.math.ubc.ca/~cass/graphics/text/www/",
+         "title": "Show HN: Socket-call – Call socket.io events like normal JavaScript functions",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44288643\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/bperel/socket-call",
          "links": [
-             "https://personal.math.ubc.ca/~cass/graphics/text/www/"
+             "https://github.com/bperel/socket-call"
          ],
-         "published": "Mon, 16 Jun 2025 14:14:54 +0000",
-         "publishedParsed": "2025-06-16T14:14:54Z"
+         "published": "Mon, 16 Jun 2025 11:40:54 +0000",
+         "publishedParsed": "2025-06-16T11:40:54Z"
+     },
+     {
+         "title": "Getting free internet on a cruise, saving $170",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44291630\"\u003eComments\u003c/a\u003e",
+         "link": "https://angad.me/blog/2025/getting-free-cruise-internet/",
+         "links": [
+             "https://angad.me/blog/2025/getting-free-cruise-internet/"
+         ],
+         "published": "Mon, 16 Jun 2025 17:38:45 +0000",
+         "publishedParsed": "2025-06-16T17:38:45Z"
      },
      {
          "title": "Why SSL was renamed to TLS in late 90s (2014)",
@@ -900,6 +1260,26 @@
          "publishedParsed": "2025-06-15T14:10:37Z"
      },
      {
+         "title": "Object personification in autism: This paper will be sad if you don't read (2018)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44290582\"\u003eComments\u003c/a\u003e",
+         "link": "https://pubmed.ncbi.nlm.nih.gov/30101594/",
+         "links": [
+             "https://pubmed.ncbi.nlm.nih.gov/30101594/"
+         ],
+         "published": "Mon, 16 Jun 2025 15:34:48 +0000",
+         "publishedParsed": "2025-06-16T15:34:48Z"
+     },
+     {
+         "title": "Jokes and Humour in the Public Android API",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44285781\"\u003eComments\u003c/a\u003e",
+         "link": "https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/",
+         "links": [
+             "https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/"
+         ],
+         "published": "Mon, 16 Jun 2025 00:14:55 +0000",
+         "publishedParsed": "2025-06-16T00:14:55Z"
+     },
+     {
          "title": "Occurences of swearing in the Linux kernel source code over time",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44275014\"\u003eComments\u003c/a\u003e",
          "link": "https://www.vidarholen.net/contents/wordcount/#fuck*,shit*,damn*,idiot*,retard*,crap*",
@@ -910,6 +1290,36 @@
          "publishedParsed": "2025-06-14T08:15:31Z"
      },
      {
+         "title": "Sincerity Wins the War",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44291189\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.wheresyoured.at/sic/",
+         "links": [
+             "https://www.wheresyoured.at/sic/"
+         ],
+         "published": "Mon, 16 Jun 2025 16:45:56 +0000",
+         "publishedParsed": "2025-06-16T16:45:56Z"
+     },
+     {
+         "title": "Show HN: Trieve CLI – Terminal-Based LLM Agent Loop with Search Tool for PDFs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44290207\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/devflowinc/trieve/tree/main/clients/cli",
+         "links": [
+             "https://github.com/devflowinc/trieve/tree/main/clients/cli"
+         ],
+         "published": "Mon, 16 Jun 2025 14:56:36 +0000",
+         "publishedParsed": "2025-06-16T14:56:36Z"
+     },
+     {
+         "title": "Mathematical Illustrations: A Manual of Geometry and PostScript",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44289705\"\u003eComments\u003c/a\u003e",
+         "link": "https://personal.math.ubc.ca/~cass/graphics/text/www/",
+         "links": [
+             "https://personal.math.ubc.ca/~cass/graphics/text/www/"
+         ],
+         "published": "Mon, 16 Jun 2025 14:14:54 +0000",
+         "publishedParsed": "2025-06-16T14:14:54Z"
+     },
+     {
          "title": "A Framework for Characterizing Emergent Conflict Between Non-Coordinating Agents [pdf]",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44275737\"\u003eComments\u003c/a\u003e",
          "link": "https://paperclipmaximizer.ai/Unaware_Adversaries.pdf",
@@ -918,16 +1328,6 @@
          ],
          "published": "Sat, 14 Jun 2025 11:36:01 +0000",
          "publishedParsed": "2025-06-14T11:36:01Z"
-     },
-     {
-         "title": "Mechanisms for Detection and Repair of Puncture Damage in Soft Robotics [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44275063\"\u003eComments\u003c/a\u003e",
-         "link": "https://smr.unl.edu/papers/Krings_et_al-2025-ICRA.pdf",
-         "links": [
-             "https://smr.unl.edu/papers/Krings_et_al-2025-ICRA.pdf"
-         ],
-         "published": "Sat, 14 Jun 2025 08:29:15 +0000",
-         "publishedParsed": "2025-06-14T08:29:15Z"
      },
      {
          "title": "Modifying an HDMI dummy plug's EDID using a Raspberry Pi",
@@ -960,6 +1360,16 @@
          "publishedParsed": "2025-06-15T22:29:34Z"
      },
      {
+         "title": "Mechanisms for Detection and Repair of Puncture Damage in Soft Robotics [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44275063\"\u003eComments\u003c/a\u003e",
+         "link": "https://smr.unl.edu/papers/Krings_et_al-2025-ICRA.pdf",
+         "links": [
+             "https://smr.unl.edu/papers/Krings_et_al-2025-ICRA.pdf"
+         ],
+         "published": "Sat, 14 Jun 2025 08:29:15 +0000",
+         "publishedParsed": "2025-06-14T08:29:15Z"
+     },
+     {
          "title": "Twin – A Textmode WINdow Environment",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44284657\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/cosmos72/twin",
@@ -968,15 +1378,5 @@
          ],
          "published": "Sun, 15 Jun 2025 20:07:27 +0000",
          "publishedParsed": "2025-06-15T20:07:27Z"
-     },
-     {
-         "title": "DARPA program sets distance record for power beaming",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44285440\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.darpa.mil/news/2025/darpa-program-distance-record-power-beaming",
-         "links": [
-             "https://www.darpa.mil/news/2025/darpa-program-distance-record-power-beaming"
-         ],
-         "published": "Sun, 15 Jun 2025 22:40:40 +0000",
-         "publishedParsed": "2025-06-15T22:40:40Z"
      }
  ]
