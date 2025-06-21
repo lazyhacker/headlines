@@ -1,13 +1,23 @@
 [
      {
-         "title": "Cosmoe: BeOS Class Library on Top of Wayland",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44335907\"\u003eComments\u003c/a\u003e",
-         "link": "https://cosmoe.org/index.html",
+         "title": "Behind the scenes: Redpanda Cloud's response to the GCP outage",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44338089\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.redpanda.com/blog/gcp-outage-june-redpanda-cloud",
          "links": [
-             "https://cosmoe.org/index.html"
+             "https://www.redpanda.com/blog/gcp-outage-june-redpanda-cloud"
          ],
-         "published": "Sat, 21 Jun 2025 09:00:01 +0000",
-         "publishedParsed": "2025-06-21T09:00:01Z"
+         "published": "Sat, 21 Jun 2025 14:57:07 +0000",
+         "publishedParsed": "2025-06-21T14:57:07Z"
+     },
+     {
+         "title": "Airpass – easily overcome WiFi time limits",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44310763\"\u003eComments\u003c/a\u003e",
+         "link": "https://airpass.tiagoalves.me/",
+         "links": [
+             "https://airpass.tiagoalves.me/"
+         ],
+         "published": "Wed, 18 Jun 2025 15:29:30 +0000",
+         "publishedParsed": "2025-06-18T15:29:30Z"
      },
      {
          "title": "Scaling our observability platform by embracing wide events and replacing OTel",
@@ -40,6 +50,16 @@
          "publishedParsed": "2025-06-21T03:06:42Z"
      },
      {
+         "title": "Fundamental Problems of Lisp, the Cons Cell (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44310996\"\u003eComments\u003c/a\u003e",
+         "link": "http://xahlee.info/comp/lisp_cons_problem.html",
+         "links": [
+             "http://xahlee.info/comp/lisp_cons_problem.html"
+         ],
+         "published": "Wed, 18 Jun 2025 15:56:46 +0000",
+         "publishedParsed": "2025-06-18T15:56:46Z"
+     },
+     {
          "title": "Delta Chat is a decentralized and secure messenger app",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44335065\"\u003eComments\u003c/a\u003e",
          "link": "https://delta.chat/en/",
@@ -48,36 +68,6 @@
          ],
          "published": "Sat, 21 Jun 2025 06:29:00 +0000",
          "publishedParsed": "2025-06-21T06:29:00Z"
-     },
-     {
-         "title": "Show HN: EchoStream – A Local AI Agent That Lives on Your iPhone",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44318655\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=44318655",
-         "links": [
-             "https://news.ycombinator.com/item?id=44318655"
-         ],
-         "published": "Thu, 19 Jun 2025 13:47:17 +0000",
-         "publishedParsed": "2025-06-19T13:47:17Z"
-     },
-     {
-         "title": "A new blood type discovered in France: \"Gwada negative\", a global exception",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44335517\"\u003eComments\u003c/a\u003e",
-         "link": "https://entrevue.fr/en/un-groupe-sanguin-inedit-decouvert-en-france-gwada-negatif-une-exception-mondiale/",
-         "links": [
-             "https://entrevue.fr/en/un-groupe-sanguin-inedit-decouvert-en-france-gwada-negatif-une-exception-mondiale/"
-         ],
-         "published": "Sat, 21 Jun 2025 07:38:42 +0000",
-         "publishedParsed": "2025-06-21T07:38:42Z"
-     },
-     {
-         "title": "Life as Slime",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44298666\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.asimov.press/p/slime",
-         "links": [
-             "https://www.asimov.press/p/slime"
-         ],
-         "published": "Tue, 17 Jun 2025 13:03:36 +0000",
-         "publishedParsed": "2025-06-17T13:03:36Z"
      },
      {
          "title": "Phoenix.new – Remote AI Runtime for Phoenix",
@@ -90,24 +80,14 @@
          "publishedParsed": "2025-06-20T14:57:04Z"
      },
      {
-         "title": "Fundamental Problems of Lisp, the Cons Cell (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44310996\"\u003eComments\u003c/a\u003e",
-         "link": "http://xahlee.info/comp/lisp_cons_problem.html",
+         "title": "Show HN: MMOndrian",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44336381\"\u003eComments\u003c/a\u003e",
+         "link": "https://mmondrian.com/",
          "links": [
-             "http://xahlee.info/comp/lisp_cons_problem.html"
+             "https://mmondrian.com/"
          ],
-         "published": "Wed, 18 Jun 2025 15:56:46 +0000",
-         "publishedParsed": "2025-06-18T15:56:46Z"
-     },
-     {
-         "title": "AbsenceBench: Language models can't tell what's missing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44332699\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2506.11440",
-         "links": [
-             "https://arxiv.org/abs/2506.11440"
-         ],
-         "published": "Fri, 20 Jun 2025 22:26:52 +0000",
-         "publishedParsed": "2025-06-20T22:26:52Z"
+         "published": "Sat, 21 Jun 2025 10:39:21 +0000",
+         "publishedParsed": "2025-06-21T10:39:21Z"
      },
      {
          "title": "Harper – an open-source alternative to Grammarly",
@@ -130,14 +110,64 @@
          "publishedParsed": "2025-06-20T17:01:35Z"
      },
      {
-         "title": "Unexpected security footguns in Go's parsers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44308953\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/",
+         "title": "AbsenceBench: Language models can't tell what's missing",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44332699\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2506.11440",
          "links": [
-             "https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/"
+             "https://arxiv.org/abs/2506.11440"
          ],
-         "published": "Wed, 18 Jun 2025 11:35:12 +0000",
-         "publishedParsed": "2025-06-18T11:35:12Z"
+         "published": "Fri, 20 Jun 2025 22:26:52 +0000",
+         "publishedParsed": "2025-06-20T22:26:52Z"
+     },
+     {
+         "title": "'Gwada negative': French scientists find new blood type in woman",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44335517\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.lemonde.fr/en/science/article/2025/06/21/gwada-negative-french-scientists-find-new-blood-type-in-woman_6742577_10.html",
+         "links": [
+             "https://www.lemonde.fr/en/science/article/2025/06/21/gwada-negative-french-scientists-find-new-blood-type-in-woman_6742577_10.html"
+         ],
+         "published": "Sat, 21 Jun 2025 07:38:42 +0000",
+         "publishedParsed": "2025-06-21T07:38:42Z"
+     },
+     {
+         "title": "The Art of Bijective Combinatorics",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44320440\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.viennot.org/abjc.html",
+         "links": [
+             "https://www.viennot.org/abjc.html"
+         ],
+         "published": "Thu, 19 Jun 2025 16:59:08 +0000",
+         "publishedParsed": "2025-06-19T16:59:08Z"
+     },
+     {
+         "title": "Life as Slime",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44298666\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.asimov.press/p/slime",
+         "links": [
+             "https://www.asimov.press/p/slime"
+         ],
+         "published": "Tue, 17 Jun 2025 13:03:36 +0000",
+         "publishedParsed": "2025-06-17T13:03:36Z"
+     },
+     {
+         "title": "Cosmoe: BeOS Class Library on Top of Wayland",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44335907\"\u003eComments\u003c/a\u003e",
+         "link": "https://cosmoe.org/index.html",
+         "links": [
+             "https://cosmoe.org/index.html"
+         ],
+         "published": "Sat, 21 Jun 2025 09:00:01 +0000",
+         "publishedParsed": "2025-06-21T09:00:01Z"
+     },
+     {
+         "title": "Plastic bag bans and fees reduce harmful bag litter on shorelines",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44333187\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.science.org/doi/10.1126/science.adp9274",
+         "links": [
+             "https://www.science.org/doi/10.1126/science.adp9274"
+         ],
+         "published": "Fri, 20 Jun 2025 23:46:50 +0000",
+         "publishedParsed": "2025-06-20T23:46:50Z"
      },
      {
          "title": "Captain Cook's missing ship found after sinking 250 years ago",
@@ -148,6 +178,26 @@
          ],
          "published": "Tue, 17 Jun 2025 20:46:35 +0000",
          "publishedParsed": "2025-06-17T20:46:35Z"
+     },
+     {
+         "title": "Show HN: EchoStream – A Local AI Agent That Lives on Your iPhone",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44318655\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=44318655",
+         "links": [
+             "https://news.ycombinator.com/item?id=44318655"
+         ],
+         "published": "Thu, 19 Jun 2025 13:47:17 +0000",
+         "publishedParsed": "2025-06-19T13:47:17Z"
+     },
+     {
+         "title": "Unexpected security footguns in Go's parsers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44308953\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/",
+         "links": [
+             "https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/"
+         ],
+         "published": "Wed, 18 Jun 2025 11:35:12 +0000",
+         "publishedParsed": "2025-06-18T11:35:12Z"
      },
      {
          "title": "Record DDoS pummels site with once-unimaginable 7.3Tbps of junk traffic",
@@ -170,44 +220,14 @@
          "publishedParsed": "2025-06-21T06:23:01Z"
      },
      {
-         "title": "Show HN: A color name API that maps hex to the closest human-readable name",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44317291\"\u003eComments\u003c/a\u003e",
-         "link": "https://meodai.github.io/color-name-api/",
+         "title": "The Unreasonable Effectiveness of Fuzzing for Porting Programs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44307275\"\u003eComments\u003c/a\u003e",
+         "link": "https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing",
          "links": [
-             "https://meodai.github.io/color-name-api/"
+             "https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing"
          ],
-         "published": "Thu, 19 Jun 2025 10:40:01 +0000",
-         "publishedParsed": "2025-06-19T10:40:01Z"
-     },
-     {
-         "title": "Plastic bag bans and fees reduce harmful bag litter on shorelines",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44333187\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.science.org/doi/10.1126/science.adp9274",
-         "links": [
-             "https://www.science.org/doi/10.1126/science.adp9274"
-         ],
-         "published": "Fri, 20 Jun 2025 23:46:50 +0000",
-         "publishedParsed": "2025-06-20T23:46:50Z"
-     },
-     {
-         "title": "Mathematicians hunting prime numbers discover infinite new pattern",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44315188\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.scientificamerican.com/article/mathematicians-hunting-prime-numbers-discover-infinite-new-pattern-for/",
-         "links": [
-             "https://www.scientificamerican.com/article/mathematicians-hunting-prime-numbers-discover-infinite-new-pattern-for/"
-         ],
-         "published": "Thu, 19 Jun 2025 03:28:29 +0000",
-         "publishedParsed": "2025-06-19T03:28:29Z"
-     },
-     {
-         "title": "Learn You Galois Fields for Great Good (00)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44333388\"\u003eComments\u003c/a\u003e",
-         "link": "https://xorvoid.com/galois_fields_for_great_good_00.html",
-         "links": [
-             "https://xorvoid.com/galois_fields_for_great_good_00.html"
-         ],
-         "published": "Sat, 21 Jun 2025 00:21:25 +0000",
-         "publishedParsed": "2025-06-21T00:21:25Z"
+         "published": "Wed, 18 Jun 2025 06:50:11 +0000",
+         "publishedParsed": "2025-06-18T06:50:11Z"
      },
      {
          "title": "Visualizing environmental costs of war in Hayao Miyazaki's Nausicaä",
@@ -230,16 +250,6 @@
          "publishedParsed": "2025-06-21T04:04:56Z"
      },
      {
-         "title": "The Unreasonable Effectiveness of Fuzzing for Porting Programs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44307275\"\u003eComments\u003c/a\u003e",
-         "link": "https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing",
-         "links": [
-             "https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing"
-         ],
-         "published": "Wed, 18 Jun 2025 06:50:11 +0000",
-         "publishedParsed": "2025-06-18T06:50:11Z"
-     },
-     {
          "title": "Show HN: Nxtscape – an open-source agentic browser",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44329457\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/nxtscape/nxtscape",
@@ -260,26 +270,6 @@
          "publishedParsed": "2025-06-20T21:15:15Z"
      },
      {
-         "title": "On memes, mimetic desire, and why it's always that deep",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44323083\"\u003eComments\u003c/a\u003e",
-         "link": "https://caitlynclark.substack.com/p/deeping-it-manifesto",
-         "links": [
-             "https://caitlynclark.substack.com/p/deeping-it-manifesto"
-         ],
-         "published": "Thu, 19 Jun 2025 22:23:52 +0000",
-         "publishedParsed": "2025-06-19T22:23:52Z"
-     },
-     {
-         "title": "Chromium Switching from Ninja to Siso",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44307972\"\u003eComments\u003c/a\u003e",
-         "link": "https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg",
-         "links": [
-             "https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg"
-         ],
-         "published": "Wed, 18 Jun 2025 08:49:42 +0000",
-         "publishedParsed": "2025-06-18T08:49:42Z"
-     },
-     {
          "title": "Tiny Undervalued Hardware Companions (2024)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44333960\"\u003eComments\u003c/a\u003e",
          "link": "https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/",
@@ -290,13 +280,13 @@
          "publishedParsed": "2025-06-21T02:19:47Z"
      },
      {
-         "title": "AMD's Freshly-Baked MI350: An Interview with the Chief Architect",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44332221\"\u003eComments\u003c/a\u003e",
-         "link": "https://chipsandcheese.com/p/amds-freshly-baked-mi350-an-interview",
+         "title": "Learn you Galois fields for great good (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44333388\"\u003eComments\u003c/a\u003e",
+         "link": "https://xorvoid.com/galois_fields_for_great_good_00.html",
          "links": [
-             "https://chipsandcheese.com/p/amds-freshly-baked-mi350-an-interview"
+             "https://xorvoid.com/galois_fields_for_great_good_00.html"
          ],
-         "published": "Fri, 20 Jun 2025 21:20:46 +0000",
-         "publishedParsed": "2025-06-20T21:20:46Z"
+         "published": "Sat, 21 Jun 2025 00:21:25 +0000",
+         "publishedParsed": "2025-06-21T00:21:25Z"
      }
  ]
