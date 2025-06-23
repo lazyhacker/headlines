@@ -20,16 +20,6 @@
          "publishedParsed": "2025-06-20T09:05:20Z"
      },
      {
-         "title": "Python can run Mojo now",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44331316\"\u003eComments\u003c/a\u003e",
-         "link": "https://koaning.io/posts/giving-mojo-a-spin/",
-         "links": [
-             "https://koaning.io/posts/giving-mojo-a-spin/"
-         ],
-         "published": "Fri, 20 Jun 2025 19:46:33 +0000",
-         "publishedParsed": "2025-06-20T19:46:33Z"
-     },
-     {
          "title": "I wrote my PhD Thesis in Typst",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44350322\"\u003eComments\u003c/a\u003e",
          "link": "https://fransskarman.com/phd_thesis_in_typst.html",
@@ -40,26 +30,6 @@
          "publishedParsed": "2025-06-22T21:12:01Z"
      },
      {
-         "title": "Show HN: Ariadne – A Rust implementation of aperiodic cryptography",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44352329\"\u003eComments\u003c/a\u003e",
-         "link": "https://codeberg.org/CipherNomad/Ariadne",
-         "links": [
-             "https://codeberg.org/CipherNomad/Ariadne"
-         ],
-         "published": "Mon, 23 Jun 2025 03:54:06 +0000",
-         "publishedParsed": "2025-06-23T03:54:06Z"
-     },
-     {
-         "title": "Spectroscopic Classification of ASASSN-25cm as a Classical Nova",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44353137\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.astronomerstelegram.org/?read=17228",
-         "links": [
-             "https://www.astronomerstelegram.org/?read=17228"
-         ],
-         "published": "Mon, 23 Jun 2025 06:54:03 +0000",
-         "publishedParsed": "2025-06-23T06:54:03Z"
-     },
-     {
          "title": "Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44350002\"\u003eComments\u003c/a\u003e",
          "link": "https://www.romanklasen.com/blog/beating-brainrot-by-button/",
@@ -68,6 +38,36 @@
          ],
          "published": "Sun, 22 Jun 2025 20:26:08 +0000",
          "publishedParsed": "2025-06-22T20:26:08Z"
+     },
+     {
+         "title": "Python can run Mojo now",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44331316\"\u003eComments\u003c/a\u003e",
+         "link": "https://koaning.io/posts/giving-mojo-a-spin/",
+         "links": [
+             "https://koaning.io/posts/giving-mojo-a-spin/"
+         ],
+         "published": "Fri, 20 Jun 2025 19:46:33 +0000",
+         "publishedParsed": "2025-06-20T19:46:33Z"
+     },
+     {
+         "title": "Klein Bottle Amazon Brand Hijacking (2021)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44349525\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.kleinbottle.com/Amazon_Brand_Hijacking.html",
+         "links": [
+             "https://www.kleinbottle.com/Amazon_Brand_Hijacking.html"
+         ],
+         "published": "Sun, 22 Jun 2025 19:18:41 +0000",
+         "publishedParsed": "2025-06-22T19:18:41Z"
+     },
+     {
+         "title": "Show HN: Ariadne – A Rust implementation of aperiodic cryptography",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44352329\"\u003eComments\u003c/a\u003e",
+         "link": "https://codeberg.org/CipherNomad/Ariadne",
+         "links": [
+             "https://codeberg.org/CipherNomad/Ariadne"
+         ],
+         "published": "Mon, 23 Jun 2025 03:54:06 +0000",
+         "publishedParsed": "2025-06-23T03:54:06Z"
      },
      {
          "title": "Finding a billion factorials in 60 ms with SIMD",
@@ -90,24 +90,24 @@
          "publishedParsed": "2025-06-23T01:47:00Z"
      },
      {
-         "title": "Klein Bottle Amazon Brand Hijacking (2021)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44349525\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.kleinbottle.com/Amazon_Brand_Hijacking.html",
+         "title": "Spectroscopic Classification of ASASSN-25cm as a Classical Nova",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44353137\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.astronomerstelegram.org/?read=17228",
          "links": [
-             "https://www.kleinbottle.com/Amazon_Brand_Hijacking.html"
+             "https://www.astronomerstelegram.org/?read=17228"
          ],
-         "published": "Sun, 22 Jun 2025 19:18:41 +0000",
-         "publishedParsed": "2025-06-22T19:18:41Z"
+         "published": "Mon, 23 Jun 2025 06:54:03 +0000",
+         "publishedParsed": "2025-06-23T06:54:03Z"
      },
      {
-         "title": "Disabling Intel Graphics Security Mitigation Boosts GPU Compute Performance 20%",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44353182\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p",
+         "title": "The X Window System didn't immediately have X terminals",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44352311\"\u003eComments\u003c/a\u003e",
+         "link": "https://utcc.utoronto.ca/~cks/space/blog/unix/XTerminalsNotImmediate",
          "links": [
-             "https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p"
+             "https://utcc.utoronto.ca/~cks/space/blog/unix/XTerminalsNotImmediate"
          ],
-         "published": "Mon, 23 Jun 2025 07:01:20 +0000",
-         "publishedParsed": "2025-06-23T07:01:20Z"
+         "published": "Mon, 23 Jun 2025 03:50:24 +0000",
+         "publishedParsed": "2025-06-23T03:50:24Z"
      },
      {
          "title": "Show HN: Lego Island Playable in the Browser",
@@ -120,26 +120,6 @@
          "publishedParsed": "2025-06-22T23:03:00Z"
      },
      {
-         "title": "Tensor Manipulation Unit (TMU): Reconfigurable, Near-Memory, High-Throughput AI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44351798\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2506.14364",
-         "links": [
-             "https://arxiv.org/abs/2506.14364"
-         ],
-         "published": "Mon, 23 Jun 2025 01:43:11 +0000",
-         "publishedParsed": "2025-06-23T01:43:11Z"
-     },
-     {
-         "title": "OpenAI and Jony Ive's \"io\" brand has disappeared",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44353408\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theverge.com/news/690858/jony-ive-openai-sam-altman-ai-hardware",
-         "links": [
-             "https://www.theverge.com/news/690858/jony-ive-openai-sam-altman-ai-hardware"
-         ],
-         "published": "Mon, 23 Jun 2025 07:50:29 +0000",
-         "publishedParsed": "2025-06-23T07:50:29Z"
-     },
-     {
          "title": "The Tandy Corporation",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44328275\"\u003eComments\u003c/a\u003e",
          "link": "https://www.abortretry.fail/p/the-tandy-corporation-part-1",
@@ -148,16 +128,6 @@
          ],
          "published": "Fri, 20 Jun 2025 14:52:23 +0000",
          "publishedParsed": "2025-06-20T14:52:23Z"
-     },
-     {
-         "title": "Using Wave Function Collapse to solve puzzle map generation at scale",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44351487\"\u003eComments\u003c/a\u003e",
-         "link": "https://sublevelgames.github.io/blogs/2025-06-22-nurikabe-map-gen-with-wfc/",
-         "links": [
-             "https://sublevelgames.github.io/blogs/2025-06-22-nurikabe-map-gen-with-wfc/"
-         ],
-         "published": "Mon, 23 Jun 2025 00:42:34 +0000",
-         "publishedParsed": "2025-06-23T00:42:34Z"
      },
      {
          "title": "Verlet Integration and Cloth Physics Simulation",
@@ -170,14 +140,44 @@
          "publishedParsed": "2025-06-20T23:39:26Z"
      },
      {
-         "title": "AGI is Mathematically Impossible 2: When Entropy Returns",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44348813\"\u003eComments\u003c/a\u003e",
-         "link": "https://philarchive.org/archive/SCHAIM-14",
+         "title": "Cataphract: Medieval-fantasy roleplaying wargame, in the Black-Sea C. 1300",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44320832\"\u003eComments\u003c/a\u003e",
+         "link": "https://samsorensen.blot.im/cataphracts-design-diary-1",
          "links": [
-             "https://philarchive.org/archive/SCHAIM-14"
+             "https://samsorensen.blot.im/cataphracts-design-diary-1"
          ],
-         "published": "Sun, 22 Jun 2025 17:51:55 +0000",
-         "publishedParsed": "2025-06-22T17:51:55Z"
+         "published": "Thu, 19 Jun 2025 17:40:05 +0000",
+         "publishedParsed": "2025-06-19T17:40:05Z"
+     },
+     {
+         "title": "Scroll snapping, state queries, monster hunter, and gamification",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44325673\"\u003eComments\u003c/a\u003e",
+         "link": "https://utilitybend.com/blog/the-customizable-select-part-four-scroll-snapping-state-queries-monster-hunter-and-gamification",
+         "links": [
+             "https://utilitybend.com/blog/the-customizable-select-part-four-scroll-snapping-state-queries-monster-hunter-and-gamification"
+         ],
+         "published": "Fri, 20 Jun 2025 08:21:04 +0000",
+         "publishedParsed": "2025-06-20T08:21:04Z"
+     },
+     {
+         "title": "EU rules for durable, energy-efficient and repairable smartphones and tablets",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44353775\"\u003eComments\u003c/a\u003e",
+         "link": "https://single-market-economy.ec.europa.eu/news/new-eu-rules-durable-energy-efficient-and-repairable-smartphones-and-tablets-start-applying-2025-06-20_en",
+         "links": [
+             "https://single-market-economy.ec.europa.eu/news/new-eu-rules-durable-energy-efficient-and-repairable-smartphones-and-tablets-start-applying-2025-06-20_en"
+         ],
+         "published": "Mon, 23 Jun 2025 09:10:00 +0000",
+         "publishedParsed": "2025-06-23T09:10:00Z"
+     },
+     {
+         "title": "Tensor Manipulation Unit (TMU): Reconfigurable, Near-Memory, High-Throughput AI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44351798\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2506.14364",
+         "links": [
+             "https://arxiv.org/abs/2506.14364"
+         ],
+         "published": "Mon, 23 Jun 2025 01:43:11 +0000",
+         "publishedParsed": "2025-06-23T01:43:11Z"
      },
      {
          "title": "Radio Garden",
@@ -200,54 +200,44 @@
          "publishedParsed": "2025-06-23T01:00:00Z"
      },
      {
-         "title": "The X Window System didn't immediately have X terminals",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44352311\"\u003eComments\u003c/a\u003e",
-         "link": "https://utcc.utoronto.ca/~cks/space/blog/unix/XTerminalsNotImmediate",
+         "title": "Claude Code for VSCode",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44353490\"\u003eComments\u003c/a\u003e",
+         "link": "https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code",
          "links": [
-             "https://utcc.utoronto.ca/~cks/space/blog/unix/XTerminalsNotImmediate"
+             "https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code"
          ],
-         "published": "Mon, 23 Jun 2025 03:50:24 +0000",
-         "publishedParsed": "2025-06-23T03:50:24Z"
+         "published": "Mon, 23 Jun 2025 08:07:26 +0000",
+         "publishedParsed": "2025-06-23T08:07:26Z"
      },
      {
-         "title": "Cross-Account and Cross-Region Backups with AWS Backup (and Friends)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44333155\"\u003eComments\u003c/a\u003e",
-         "link": "https://tylerrussell.dev/2025/06/20/cross-account-and-region-backups-with-aws-backup-and-friends/",
+         "title": "Using Wave Function Collapse to solve puzzle map generation at scale",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44351487\"\u003eComments\u003c/a\u003e",
+         "link": "https://sublevelgames.github.io/blogs/2025-06-22-nurikabe-map-gen-with-wfc/",
          "links": [
-             "https://tylerrussell.dev/2025/06/20/cross-account-and-region-backups-with-aws-backup-and-friends/"
+             "https://sublevelgames.github.io/blogs/2025-06-22-nurikabe-map-gen-with-wfc/"
          ],
-         "published": "Fri, 20 Jun 2025 23:40:14 +0000",
-         "publishedParsed": "2025-06-20T23:40:14Z"
+         "published": "Mon, 23 Jun 2025 00:42:34 +0000",
+         "publishedParsed": "2025-06-23T00:42:34Z"
      },
      {
-         "title": "Encounters with Reality on Christine Rosen's the Extinction of Experience",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44324319\"\u003eComments\u003c/a\u003e",
-         "link": "https://thepointmag.com/criticism/encounters-with-reality/",
+         "title": "(Weak) Homotopy Equivalences",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44326175\"\u003eComments\u003c/a\u003e",
+         "link": "https://bartoszmilewski.com/2025/06/20/weak-homotopy-equivalences/",
          "links": [
-             "https://thepointmag.com/criticism/encounters-with-reality/"
+             "https://bartoszmilewski.com/2025/06/20/weak-homotopy-equivalences/"
          ],
-         "published": "Fri, 20 Jun 2025 02:52:38 +0000",
-         "publishedParsed": "2025-06-20T02:52:38Z"
+         "published": "Fri, 20 Jun 2025 09:56:06 +0000",
+         "publishedParsed": "2025-06-20T09:56:06Z"
      },
      {
-         "title": "2048 with only 64 bits of state",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44320285\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/izabera/bitwise-challenge-2048",
+         "title": "Disabling Intel Graphics Security Mitigation Boosts GPU Compute Performance 20%",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44353182\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p",
          "links": [
-             "https://github.com/izabera/bitwise-challenge-2048"
+             "https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p"
          ],
-         "published": "Thu, 19 Jun 2025 16:43:17 +0000",
-         "publishedParsed": "2025-06-19T16:43:17Z"
-     },
-     {
-         "title": "Hawaii Highways",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44350978\"\u003eComments\u003c/a\u003e",
-         "link": "http://www.hawaiihighways.com/",
-         "links": [
-             "http://www.hawaiihighways.com/"
-         ],
-         "published": "Sun, 22 Jun 2025 22:55:58 +0000",
-         "publishedParsed": "2025-06-22T22:55:58Z"
+         "published": "Mon, 23 Jun 2025 07:01:20 +0000",
+         "publishedParsed": "2025-06-23T07:01:20Z"
      },
      {
          "title": "Nano-Vllm: lightweight vLLM implementation built from scratch",
@@ -260,37 +250,7 @@
          "publishedParsed": "2025-06-23T05:10:44Z"
      },
      {
-         "title": "Show HN: Windowfied",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44352831\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=44352831",
-         "links": [
-             "https://news.ycombinator.com/item?id=44352831"
-         ],
-         "published": "Mon, 23 Jun 2025 06:02:13 +0000",
-         "publishedParsed": "2025-06-23T06:02:13Z"
-     },
-     {
-         "title": "2025 Alonzo Church Award: Paul Blain Levy for Call-by-Push-Value (CBPV)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44335583\"\u003eComments\u003c/a\u003e",
-         "link": "https://siglog.org/winner-of-the-2025-alonzo-church-award/",
-         "links": [
-             "https://siglog.org/winner-of-the-2025-alonzo-church-award/"
-         ],
-         "published": "Sat, 21 Jun 2025 07:51:19 +0000",
-         "publishedParsed": "2025-06-21T07:51:19Z"
-     },
-     {
-         "title": "The cultural decline of literary fiction",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44347973\"\u003eComments\u003c/a\u003e",
-         "link": "https://oyyy.substack.com/p/the-cultural-decline-of-literary",
-         "links": [
-             "https://oyyy.substack.com/p/the-cultural-decline-of-literary"
-         ],
-         "published": "Sun, 22 Jun 2025 16:00:09 +0000",
-         "publishedParsed": "2025-06-22T16:00:09Z"
-     },
-     {
-         "title": "Interview with Francine Prose on early-1970s San Francisco [audio]",
+         "title": "Interview with Francine Prose [audio]",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44349761\"\u003eComments\u003c/a\u003e",
          "link": "https://www.laphamsquarterly.org/content/episode-3-francine-prose",
          "links": [
@@ -298,5 +258,35 @@
          ],
          "published": "Sun, 22 Jun 2025 19:51:44 +0000",
          "publishedParsed": "2025-06-22T19:51:44Z"
+     },
+     {
+         "title": "Hawaii Highways",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44350978\"\u003eComments\u003c/a\u003e",
+         "link": "http://www.hawaiihighways.com/",
+         "links": [
+             "http://www.hawaiihighways.com/"
+         ],
+         "published": "Sun, 22 Jun 2025 22:55:58 +0000",
+         "publishedParsed": "2025-06-22T22:55:58Z"
+     },
+     {
+         "title": "Cross-Account and Cross-Region Backups with AWS Backup (and Friends)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44333155\"\u003eComments\u003c/a\u003e",
+         "link": "https://tylerrussell.dev/2025/06/20/cross-account-and-region-backups-with-aws-backup-and-friends/",
+         "links": [
+             "https://tylerrussell.dev/2025/06/20/cross-account-and-region-backups-with-aws-backup-and-friends/"
+         ],
+         "published": "Fri, 20 Jun 2025 23:40:14 +0000",
+         "publishedParsed": "2025-06-20T23:40:14Z"
+     },
+     {
+         "title": "2048 with only 64 bits of state",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44320285\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/izabera/bitwise-challenge-2048",
+         "links": [
+             "https://github.com/izabera/bitwise-challenge-2048"
+         ],
+         "published": "Thu, 19 Jun 2025 16:43:17 +0000",
+         "publishedParsed": "2025-06-19T16:43:17Z"
      }
  ]
