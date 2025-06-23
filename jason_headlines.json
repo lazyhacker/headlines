@@ -6,8 +6,8 @@
          "links": [
              "https://www.nytimes.com/2025/06/23/business/factory-jobs-workers-trump.html"
          ],
-         "published": "Mon, 23 Jun 2025 17:13:08 +0000",
-         "publishedParsed": "2025-06-23T17:13:08Z",
+         "published": "Mon, 23 Jun 2025 20:54:34 +0000",
+         "publishedParsed": "2025-06-23T20:54:34Z",
          "author": {
              "name": "Farah Stockman"
          },
@@ -206,7 +206,7 @@
          ],
          "guid": "https://www.nytimes.com/2025/06/22/weather/heat-wave-temperatures.html",
          "image": {
-             "url": "https://static01.nyt.com/images/2025/06/22/weather/2025-06-22-mondayheatus-index-promo/2025-06-22-mondayheatus-index-promo-mediumSquareAt3X-v45.jpg"
+             "url": "https://static01.nyt.com/images/2025/06/22/weather/2025-06-22-mondayheatus-index-promo/2025-06-22-mondayheatus-index-promo-mediumSquareAt3X-v49.jpg"
          },
          "categories": [
              "Heat and Heat Waves",
@@ -253,7 +253,7 @@
                          "attrs": {
                              "height": "1000",
                              "medium": "image",
-                             "url": "https://static01.nyt.com/images/2025/06/22/weather/2025-06-22-mondayheatus-index-promo/2025-06-22-mondayheatus-index-promo-mediumSquareAt3X-v45.jpg",
+                             "url": "https://static01.nyt.com/images/2025/06/22/weather/2025-06-22-mondayheatus-index-promo/2025-06-22-mondayheatus-index-promo-mediumSquareAt3X-v49.jpg",
                              "width": "1000"
                          },
                          "children": {}
@@ -457,14 +457,174 @@
          }
      },
      {
+         "title": "New York Again Embraces Nuclear Power With Plans to Build New Plant",
+         "description": "In her announcement, Gov. Kathy Hochul gave few details about where the plant would be built, how much the project would cost or how long it would take to complete.",
+         "link": "https://www.nytimes.com/2025/06/23/nyregion/new-york-nuclear-power-plant.html",
+         "links": [
+             "https://www.nytimes.com/2025/06/23/nyregion/new-york-nuclear-power-plant.html"
+         ],
+         "published": "Mon, 23 Jun 2025 18:40:27 +0000",
+         "publishedParsed": "2025-06-23T18:40:27Z",
+         "author": {
+             "name": "Patrick McGeehan and Brad Plumer"
+         },
+         "authors": [
+             {
+                 "name": "Patrick McGeehan and Brad Plumer"
+             }
+         ],
+         "guid": "https://www.nytimes.com/2025/06/23/nyregion/new-york-nuclear-power-plant.html",
+         "image": {
+             "url": "https://static01.nyt.com/images/2025/06/23/nyregion/23met-power-plant/23met-power-plant-mediumSquareAt3X.jpg"
+         },
+         "categories": [
+             "Nuclear Energy",
+             "Greenhouse Gas Emissions",
+             "Indian Point Nuclear Power Plant (NY)",
+             "New York Power Authority",
+             "Hochul, Kathleen C",
+             "New York State"
+         ],
+         "dcExt": {
+             "creator": [
+                 "Patrick McGeehan and Brad Plumer"
+             ]
+         },
+         "extensions": {
+             "atom": {
+                 "link": [
+                     {
+                         "name": "link",
+                         "value": "",
+                         "attrs": {
+                             "href": "https://www.nytimes.com/2025/06/23/nyregion/new-york-nuclear-power-plant.html",
+                             "rel": "standout"
+                         },
+                         "children": {}
+                     }
+                 ]
+             },
+             "dc": {
+                 "creator": [
+                     {
+                         "name": "creator",
+                         "value": "Patrick McGeehan and Brad Plumer",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ]
+             },
+             "media": {
+                 "content": [
+                     {
+                         "name": "content",
+                         "value": "",
+                         "attrs": {
+                             "height": "1800",
+                             "medium": "image",
+                             "url": "https://static01.nyt.com/images/2025/06/23/nyregion/23met-power-plant/23met-power-plant-mediumSquareAt3X.jpg",
+                             "width": "1800"
+                         },
+                         "children": {}
+                     }
+                 ],
+                 "credit": [
+                     {
+                         "name": "credit",
+                         "value": "Lauren Petracca/Bloomberg",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ],
+                 "description": [
+                     {
+                         "name": "description",
+                         "value": "New York still derives about one-fifth of its electricity from three nuclear plants operated by Constellation Energy off Lake Ontario.",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ]
+             }
+         }
+     },
+     {
+         "title": "What Environmentalists Like Me Got Wrong About Climate Change",
+         "description": "Governments and U.S. states committed to climate action now need to persuade the oil industry to protect the world from climate chaos.",
+         "link": "https://www.nytimes.com/2025/06/23/opinion/climate-change-methane-natural-gas.html",
+         "links": [
+             "https://www.nytimes.com/2025/06/23/opinion/climate-change-methane-natural-gas.html"
+         ],
+         "published": "Mon, 23 Jun 2025 14:04:31 +0000",
+         "publishedParsed": "2025-06-23T14:04:31Z",
+         "author": {
+             "name": "Carl Pope"
+         },
+         "authors": [
+             {
+                 "name": "Carl Pope"
+             }
+         ],
+         "guid": "https://www.nytimes.com/2025/06/23/opinion/climate-change-methane-natural-gas.html",
+         "categories": [
+             "Global Warming",
+             "Methane",
+             "Air Pollution",
+             "Oil (Petroleum) and Gasoline",
+             "Greenhouse Gas Emissions",
+             "Natural Gas",
+             "Prices (Fares, Fees and Rates)",
+             "Wells",
+             "Environment",
+             "Corporate Social Responsibility",
+             "Pipelines",
+             "Pollution",
+             "Carbon Dioxide",
+             "Sierra Club",
+             "United States",
+             "Europe",
+             "Alaska",
+             "Antarctic Regions"
+         ],
+         "dcExt": {
+             "creator": [
+                 "Carl Pope"
+             ]
+         },
+         "extensions": {
+             "atom": {
+                 "link": [
+                     {
+                         "name": "link",
+                         "value": "",
+                         "attrs": {
+                             "href": "https://www.nytimes.com/2025/06/23/opinion/climate-change-methane-natural-gas.html",
+                             "rel": "standout"
+                         },
+                         "children": {}
+                     }
+                 ]
+             },
+             "dc": {
+                 "creator": [
+                     {
+                         "name": "creator",
+                         "value": "Carl Pope",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ]
+             }
+         }
+     },
+     {
          "title": "As Sean ‘Diddy’ Combs Took a Victory Lap, He Planned Sex Nights, Prosecutors Say",
          "description": "Questioning its final witness, the government laid out flight plans, escort prices, hotel reservations and a web of payments for sexual encounters in 2023.",
          "link": "https://www.nytimes.com/2025/06/23/arts/music/sean-combs-diddy-trial-sex-night-expenses.html",
          "links": [
              "https://www.nytimes.com/2025/06/23/arts/music/sean-combs-diddy-trial-sex-night-expenses.html"
          ],
-         "published": "Mon, 23 Jun 2025 18:29:56 +0000",
-         "publishedParsed": "2025-06-23T18:29:56Z",
+         "published": "Mon, 23 Jun 2025 20:01:59 +0000",
+         "publishedParsed": "2025-06-23T20:01:59Z",
          "author": {
              "name": "Ben Sisario"
          },
@@ -555,8 +715,8 @@
          "links": [
              "https://www.nytimes.com/2025/06/23/nyregion/nypd-acting-improv-class.html"
          ],
-         "published": "Mon, 23 Jun 2025 16:11:04 +0000",
-         "publishedParsed": "2025-06-23T16:11:04Z",
+         "published": "Mon, 23 Jun 2025 20:35:44 +0000",
+         "publishedParsed": "2025-06-23T20:35:44Z",
          "author": {
              "name": "Maria Cramer"
          },
@@ -930,30 +1090,6 @@
          ]
      },
      {
-         "title": "Minnesota shootings suspect was a 'prepper', FBI says",
-         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/So_spoke_the_wizard\"\u003e /u/So_spoke_the_wizard \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.bbc.com/news/articles/c89ev9j955ko\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1lh8g2i/minnesota_shootings_suspect_was_a_prepper_fbi_says/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
-         "link": "https://www.reddit.com/r/news/comments/1lh8g2i/minnesota_shootings_suspect_was_a_prepper_fbi_says/",
-         "links": [
-             "https://www.reddit.com/r/news/comments/1lh8g2i/minnesota_shootings_suspect_was_a_prepper_fbi_says/"
-         ],
-         "updated": "2025-06-21T22:21:27+00:00",
-         "updatedParsed": "2025-06-21T22:21:27Z",
-         "published": "2025-06-21T22:21:27+00:00",
-         "publishedParsed": "2025-06-21T22:21:27Z",
-         "author": {
-             "name": "/u/So_spoke_the_wizard"
-         },
-         "authors": [
-             {
-                 "name": "/u/So_spoke_the_wizard"
-             }
-         ],
-         "guid": "t3_1lh8g2i",
-         "categories": [
-             "r/news"
-         ]
-     },
-     {
          "title": "Authorities confirm more than two dozen missing children found during special operation",
          "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/Plainchant\"\u003e /u/Plainchant \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://local12.com/news/nation-world/authorities-confirm-more-than-two-dozen-missing-children-found-during-special-operation-national-child-protection-taskforce-cincinnati-collaborative-police-effort-local-state-federal-agencies-involved-emotional-impact-education-safety-human-trafficking\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1lgwhb5/authorities_confirm_more_than_two_dozen_missing/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
          "link": "https://www.reddit.com/r/news/comments/1lgwhb5/authorities_confirm_more_than_two_dozen_missing/",
@@ -1050,43 +1186,8 @@
          ]
      },
      {
-         "title": "Wisconsin pair charged in alleged plot to stalk, poison and kill dating app liaisons",
-         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/CupidStunt13\"\u003e /u/CupidStunt13 \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.nbcnews.com/news/us-news/wisconsin-pair-charged-alleged-plot-stalk-poison-kill-dating-app-liais-rcna214160\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1lgxbwd/wisconsin_pair_charged_in_alleged_plot_to_stalk/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
-         "link": "https://www.reddit.com/r/news/comments/1lgxbwd/wisconsin_pair_charged_in_alleged_plot_to_stalk/",
-         "links": [
-             "https://www.reddit.com/r/news/comments/1lgxbwd/wisconsin_pair_charged_in_alleged_plot_to_stalk/"
-         ],
-         "updated": "2025-06-21T14:04:37+00:00",
-         "updatedParsed": "2025-06-21T14:04:37Z",
-         "published": "2025-06-21T14:04:37+00:00",
-         "publishedParsed": "2025-06-21T14:04:37Z",
-         "author": {
-             "name": "/u/CupidStunt13"
-         },
-         "authors": [
-             {
-                 "name": "/u/CupidStunt13"
-             }
-         ],
-         "guid": "t3_1lgxbwd",
-         "categories": [
-             "r/news"
-         ]
-     },
-     {
-         "title": "Syringe attacks mar France's Fête de la Musique summer street festival - France 24",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVhITGFwYnIxY3lxcDNNYk55UlluYjgyZ3puZVpLWHZMLUFvNkE3VmxEMVgxNVE1NF84X0wxblJGNDV0SUt0eTdxaGFiQkhWX2Nyc3RVcXNPQkFDT3R2aG9EQ3RLMm1NRlFvWlB1TWQ4aXp0eTZ6VlYyRjQ4TE5aZW0xLVB1Q2VIbDhlSWdCamZ2bXVSeWl1dkhSNVJrcWJzRzJUNzU0VU1BQldZbEU0Y2d1NmJCY3A5d280?oc=5\" target=\"_blank\"\u003eSyringe attacks mar France's Fête de la Musique summer street festival\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFrance 24\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQRi0tNHFPYTVZc19JRG5nM01KSFFTX0ROWWFaUFNoRFFEWmhjbmpVNk9jUnNSbGM0VHh5M0dkNFpKX05jS205Y1hXdlAyXzBTYUZLMHUtdVEwV1NTR0pva0owVTI1NDhmMllhcldDUThEQ296ME5CaDF3WnJqSEt0Z2c2VlN4Z9IBiwFBVV95cUxPV19VZk1POGFyZTJDYjNGWUtDYWswSkJmcFlSMGJuUGZlWDdyWFVNTlllR2xxNy16ZXRnX0pPencwTmZOZTNpMlFKM2lWZndzMjQ1MDdBTjBxV0hwRERidWZEckp2a1FNMjR2RUExQU1rVUVuT1RZd0pndzUzMk9OQWtVZjJ3WEQtT05B?oc=5\" target=\"_blank\"\u003e145 people pricked with syringes at France street music festival\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTNHcF9CTWVGT3ZhdVZ0UXRseEp1ejZyOGVaWXY2WGJwZjZqRGctNHphdVdTbFpoc0w1NTB0ZUxFcWRvNnVza1ZpN0x3NXhpUHVzM0ZMSGhpNXdjcHJFek1JblVRbGlRTmRSS2F5OGp5QU1WbHdBeEZQVjFtQ2hnWlB4MXRjUzk4elAta2d2TzJVd2NI?oc=5\" target=\"_blank\"\u003eNearly 150 Report Being Jabbed With Needles at French Music Festival\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPbVVkUjM2U2xrQ0pFUFFHSXJNSzlWNlZ2a2RJWUQ0WHN1Qm1UOGJyTm5SM240YVhIX2pBdUFtZGp0ZnlGVTNzVWpkRVR0YnNKSVlZRDhROERlc1AyTGtpV212cUJnVXVSUVZrY0xubTRkbWNOTjIyVjVwcmRhUjBuV3ZmZzIyY19GM21iYWNEUzFybjBBMkNLTjRselJyZlNvMy1xX1BlY0RGZ2RNbUgxZEpHRQ?oc=5\" target=\"_blank\"\u003eMore Than a Dozen Young Women Hospitalized Following Syringe Attack at Popular Music Festival\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003ePeople.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ0RQdk80N2lrR19tZy11NVJXZnRmY3NMZk11ckhaMjdINEVhcURRSW4yREhrRUtkZy1DMmxKcW1QUjhqVDZrNUxra1dmNVJUcmxCMXJzblQ2c2g1RnBXRGRHOEVWLVYyWEozbWt5SldCUzhLem84UFJ6MGVsa0tYQ1FVZlRDU1A3N3d5ZWtSeVh1cTYwNVZsM1JB0gGfAUFVX3lxTE9JVW9tc1Q0eWpZNlI5dFF1SjdOQjhYNGx4elNlbWM3X3RnU3ViWkF2Y3g1c2J1eS1INWhOVkF5R1hnQmM4eXB2MjgwZjBOS1B2LTFoUzFtS1ZHV3NnbzE2N252dTRiT0pKMzN2djUtWTViRjBZU29OcTVQeG9mS1hwSkdzdlFGM1g4SGdQZHBnNVRUb2ZDdzk0aktjRklnZw?oc=5\" target=\"_blank\"\u003e145 people at France music festival report being pricked with syringes after online calls to target women\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCBS News\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVhITGFwYnIxY3lxcDNNYk55UlluYjgyZ3puZVpLWHZMLUFvNkE3VmxEMVgxNVE1NF84X0wxblJGNDV0SUt0eTdxaGFiQkhWX2Nyc3RVcXNPQkFDT3R2aG9EQ3RLMm1NRlFvWlB1TWQ4aXp0eTZ6VlYyRjQ4TE5aZW0xLVB1Q2VIbDhlSWdCamZ2bXVSeWl1dkhSNVJrcWJzRzJUNzU0VU1BQldZbEU0Y2d1NmJCY3A5d280?oc=5",
-         "links": [
-             "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVhITGFwYnIxY3lxcDNNYk55UlluYjgyZ3puZVpLWHZMLUFvNkE3VmxEMVgxNVE1NF84X0wxblJGNDV0SUt0eTdxaGFiQkhWX2Nyc3RVcXNPQkFDT3R2aG9EQ3RLMm1NRlFvWlB1TWQ4aXp0eTZ6VlYyRjQ4TE5aZW0xLVB1Q2VIbDhlSWdCamZ2bXVSeWl1dkhSNVJrcWJzRzJUNzU0VU1BQldZbEU0Y2d1NmJCY3A5d280?oc=5"
-         ],
-         "published": "Sun, 22 Jun 2025 15:47:32 GMT",
-         "publishedParsed": "2025-06-22T15:47:32Z",
-         "guid": "CBMiuwFBVV95cUxNcVhITGFwYnIxY3lxcDNNYk55UlluYjgyZ3puZVpLWHZMLUFvNkE3VmxEMVgxNVE1NF84X0wxblJGNDV0SUt0eTdxaGFiQkhWX2Nyc3RVcXNPQkFDT3R2aG9EQ3RLMm1NRlFvWlB1TWQ4aXp0eTZ6VlYyRjQ4TE5aZW0xLVB1Q2VIbDhlSWdCamZ2bXVSeWl1dkhSNVJrcWJzRzJUNzU0VU1BQldZbEU0Y2d1NmJCY3A5d280"
-     },
-     {
          "title": "Brutal 100-degree temperatures will hit cities from Boston to Washington - The Washington Post",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPN3VlOXpCaGd2OHl2VDFCNXZvQm5fQV9EelhHOVFrc2g5eFhlVk9JZjBnNnFSMzMyZ2c2MGlQTm9uemlNREJwZzViS3RxTWY2bHN6aHMwdjdIWVZfelNlTThxMFFxZjRnREN1WEFOR0kzWkwyb1NZdV9QVE13YkpxQmFtTS1WV3hNZDdtQXdTVnZ2Ums?oc=5\" target=\"_blank\"\u003eBrutal 100-degree temperatures will hit cities from Boston to Washington\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Washington Post\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDE4blF5SWdYUTRWVWN2a3RxQmtlczhWV3dZaWRSWWZMbVBiVFp5ZmhZYkZseEtrN1BvdTZpSlpEbG81MjRfN29Ic0Nweklvb0ZkM2lybGQzWkl6WUJoNm5fUTBpWXhhNENWWDh4TmZHaWpFcHI1T1B5UzdoWEFHUVkzaWg4SEJnd1FzNzhRR1NkdU1jZmF5d3NXRWhMYWI3ZnI00gGoAUFVX3lxTE9MdGFvU3VzVDR0eUstMzRxclVLRS1XMWJaVEFkMkRlb2hrcU15R3RYVHhEd1E2MnZ1QndnVW9ZcmxlN1NtOC1CYy1JZWU3emFzNUlTcXkxNU5FRWxJdngxdlk3UkdCRW5ta3BwSFJnWENZM0hhRnZDQmRjczZ2Q1ZEMncwbXgwUEVIUVlSRWNwQ3NKWURyTElXTVBKYVVJOTZxWVN4R2RTSw?oc=5\" target=\"_blank\"\u003eLife-threatening heat dome prompts alerts for 147 million Americans in 28 states as record highs challenged\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFOX Weather\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1mWTA4elNtR1pyRUwtNUZQRzdrMTBtZ3k4X2NqZ01rWG5xbzBxLUlJZ1lxUGZQSTRjTS1yWUZxTWFiTmFHY2IyY3drT1h0RUp6ZmNOQU1MSHhtME9lY2U2bzV1S2w1TmtqYWdWZmFTN1JXc2NzS2pLLVgwWWRaQkk?oc=5\" target=\"_blank\"\u003e'Ring of fire' thunderstorms to ride rim massive heat dome this week\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eYahoo\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPeWVpUHhhd3A5bEtnTjhJWk56eEt3VW5iTjhNeFV6dU1xQjFtUGNrMUdQN0lXdnlxSno0YWl1TUlDVFJOYWFrdW1DQ1hqRzV0Z19kV0ZwSXpQNTVwSkx4N0VHdXh3YldvMTMwNEVHTjgzaFYtQU9rZnI0VTN3ZzJyStIBhgFBVV95cUxOakZNMV81NExDc0VXdUZoSHpmOFZMSFVNeHZNM005UE1Kd0lRVVhWTUllRFJ4d214Z1RLMk41V2Q0eVhIRnhzV1VENk0tbkZoSzVSLWs2Tl9vTDdackcwUmtHTTMtcHpGV3FTbHdLQTA2Vjk2UTdsTnpWUjNqLU15ejNwN1BRQQ?oc=5\" target=\"_blank\"\u003eA potent heat dome is building over the US, sending temperatures into the triple digits\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5SM29hdzJVaWtTY1RHS19YbnZBOXd3RUQzNnJyTV8wRnpwTEFULXdWZG9GdXl4V1RxLUxmVm9UT2JkOWZUOHItYllXeFBPbWFYMlRMcldxUHZreWdxcXBUVWZldkVtejlzcElaTFFTMkhOR3pJcm4yd1Z3?oc=5\" target=\"_blank\"\u003eUS Heat Wave: Latest Forecast for the East Coast\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPN3VlOXpCaGd2OHl2VDFCNXZvQm5fQV9EelhHOVFrc2g5eFhlVk9JZjBnNnFSMzMyZ2c2MGlQTm9uemlNREJwZzViS3RxTWY2bHN6aHMwdjdIWVZfelNlTThxMFFxZjRnREN1WEFOR0kzWkwyb1NZdV9QVE13YkpxQmFtTS1WV3hNZDdtQXdTVnZ2Ums?oc=5\" target=\"_blank\"\u003eBrutal 100-degree temperatures will hit cities from Boston to Washington\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Washington Post\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDE4blF5SWdYUTRWVWN2a3RxQmtlczhWV3dZaWRSWWZMbVBiVFp5ZmhZYkZseEtrN1BvdTZpSlpEbG81MjRfN29Ic0Nweklvb0ZkM2lybGQzWkl6WUJoNm5fUTBpWXhhNENWWDh4TmZHaWpFcHI1T1B5UzdoWEFHUVkzaWg4SEJnd1FzNzhRR1NkdU1jZmF5d3NXRWhMYWI3ZnI00gGoAUFVX3lxTE9MdGFvU3VzVDR0eUstMzRxclVLRS1XMWJaVEFkMkRlb2hrcU15R3RYVHhEd1E2MnZ1QndnVW9ZcmxlN1NtOC1CYy1JZWU3emFzNUlTcXkxNU5FRWxJdngxdlk3UkdCRW5ta3BwSFJnWENZM0hhRnZDQmRjczZ2Q1ZEMncwbXgwUEVIUVlSRWNwQ3NKWURyTElXTVBKYVVJOTZxWVN4R2RTSw?oc=5\" target=\"_blank\"\u003eHeat dome brings triple-digit, record-breaking temperatures for millions with heat alerts across 28 states\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFOX Weather\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPdFVNRU1famt2WlFaSWZGcTZWeVRhZ1VEcXNNS0pTUERjSGgzQXR5dnZGVy15c2I2OFptZmxtRDFaNUZ6YkxCT2hkU0RyaVBBYXZLMVUzMnZqektxbHVKT3d0NW94TjZ2ajVLYnIzdVRqVGtGTnB4eVZhTkZHZEc2TzNrMkZPR0dQV3RZemZjckZtXzFqWHFUakVFU2pIcGNJbnFZaXVjdw?oc=5\" target=\"_blank\"\u003eHeat stirs up high winds, deadly weekend storms in Midwest, Florida\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eUSA Today\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPeWVpUHhhd3A5bEtnTjhJWk56eEt3VW5iTjhNeFV6dU1xQjFtUGNrMUdQN0lXdnlxSno0YWl1TUlDVFJOYWFrdW1DQ1hqRzV0Z19kV0ZwSXpQNTVwSkx4N0VHdXh3YldvMTMwNEVHTjgzaFYtQU9rZnI0VTN3ZzJyStIBhgFBVV95cUxOakZNMV81NExDc0VXdUZoSHpmOFZMSFVNeHZNM005UE1Kd0lRVVhWTUllRFJ4d214Z1RLMk41V2Q0eVhIRnhzV1VENk0tbkZoSzVSLWs2Tl9vTDdackcwUmtHTTMtcHpGV3FTbHdLQTA2Vjk2UTdsTnpWUjNqLU15ejNwN1BRQQ?oc=5\" target=\"_blank\"\u003eA potent heat dome is building over the US, sending temperatures into the triple digits\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5SM29hdzJVaWtTY1RHS19YbnZBOXd3RUQzNnJyTV8wRnpwTEFULXdWZG9GdXl4V1RxLUxmVm9UT2JkOWZUOHItYllXeFBPbWFYMlRMcldxUHZreWdxcXBUVWZldkVtejlzcElaTFFTMkhOR3pJcm4yd1Z3?oc=5\" target=\"_blank\"\u003eUS Heat Wave: Latest Forecast for the East Coast\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN3VlOXpCaGd2OHl2VDFCNXZvQm5fQV9EelhHOVFrc2g5eFhlVk9JZjBnNnFSMzMyZ2c2MGlQTm9uemlNREJwZzViS3RxTWY2bHN6aHMwdjdIWVZfelNlTThxMFFxZjRnREN1WEFOR0kzWkwyb1NZdV9QVE13YkpxQmFtTS1WV3hNZDdtQXdTVnZ2Ums?oc=5",
          "links": [
              "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN3VlOXpCaGd2OHl2VDFCNXZvQm5fQV9EelhHOVFrc2g5eFhlVk9JZjBnNnFSMzMyZ2c2MGlQTm9uemlNREJwZzViS3RxTWY2bHN6aHMwdjdIWVZfelNlTThxMFFxZjRnREN1WEFOR0kzWkwyb1NZdV9QVE13YkpxQmFtTS1WV3hNZDdtQXdTVnZ2Ums?oc=5"
@@ -1096,8 +1197,19 @@
          "guid": "CBMikwFBVV95cUxPN3VlOXpCaGd2OHl2VDFCNXZvQm5fQV9EelhHOVFrc2g5eFhlVk9JZjBnNnFSMzMyZ2c2MGlQTm9uemlNREJwZzViS3RxTWY2bHN6aHMwdjdIWVZfelNlTThxMFFxZjRnREN1WEFOR0kzWkwyb1NZdV9QVE13YkpxQmFtTS1WV3hNZDdtQXdTVnZ2Ums"
      },
      {
+         "title": "Police ID suspected gunman fatally shot at Wayne church - The Detroit News",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU25uU0RETXFXZ1ViVzJoWWZYTUpobG1NeW1tZ2hlbmEzWUdqaXVBRjh4N2ZzamxIOG5Ma3AyV3dRZ0J3bWVVRFJLZGRnXzQxMXhsQmU0STY3Tm9zZUxPa2IxUDg5bnZ6ZTI4MXNTbDItOFU5R0ZkNExjeDE0TXY5clM5b2NxRnFCb1Z4MHY3czlsOXFta3B0QlZWeGNQU3VSdWJlYVItRXJoRWl3YlkzenpZYnNwWV9FLWlkcGhVNk5CTllNek9pNG15aFBCUHBuMndj?oc=5\" target=\"_blank\"\u003ePolice ID suspected gunman fatally shot at Wayne church\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Detroit News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQMHN6LTQwS3lXOUJhLWFMcVRuNnhXUEk4SmZZT2pEMWFyZG1VcXJ1SXU2YzlCMUFaMUpNTHUxWVpuMFlzSFBaanNzMXh0OW1JVFVhMlNCZEdpTnViTGZBRkxiTml0LXdzOEZiVDEzTGQ5S1dMaXIxNFBoUDhvaW5DVFlnbjJQbWNoVVp1Y2hLOUVMS0dKMDZaekw0N050d9IBowFBVV95cUxNQWdUcFkyUURYZ0pldk9NZksyektTRXBkLUtBOUh0REhHT0Q1bUdkVnEtOU1GNjN6aVhiNzRtelZ0VVlDU3I3R3VZZ1dxSHBFUlA4SzVoSDducXdwczFfMHRQWDdscE5wSjB1eks5dGJ0bFE1UmhxTENSdUdLNS03U0xRcllGZEpDSzRxdlhmQ283QjdRSDBEUGNIQ1BQb1ZnRmU4?oc=5\" target=\"_blank\"\u003eMichigan police ID slain church shooter, reveal his connection to congregation\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFox News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQQTVEaHFBVzlSVHFPUUt0UElrNndmRjlZUUxSNk9Wb2ZPUmxfTnJEWmVfaDhrYmhRcHV2SExBVWZ6TFZ1SER4TW5uSTkySDZmVUw2bEJHRTlOWEIxNXZUYzFfNGZWbVd3dnVpYlVVbXFJdlgyQWxtTndZa3RVdlZKWDdjS21QMTVUeThpa3BRRUhRQW9xYmxCcE9QSkVMUHdtZGJ5TEFZd2RQQ1FScWhzZFdhVGJ2SUxHdlF1cXpsc3REYVd6aVRBaGJoYlM?oc=5\" target=\"_blank\"\u003eSuspected gunman in Michigan church rampage identified by police\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003e13wham.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1VRUF6cWt6TkcwSWJBeGpqdnRpS2hkVURVX0F3dko1a0ZjQ21lNXQzQ2VXdS1jbWZINnNJWmFZbWoyMzZwdUhpaHE0YlRkTk15UFBqaXNpWGxBczRkWnJlUEswTDR6aFdYVGJsdGNTelJoMWExWmxva0o4YUduZw?oc=5\" target=\"_blank\"\u003eMichigan Church Deacon Ran Over Active Shooter With a Ford F-150 Truck: Reports\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eYahoo\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQbjNldUxualVIWm5WQ3I2QS1UdU5oMllPS3IwODkyazQ3dHRib2ZTQlB1c1F2WGc4enJGVnUyTzZjX1h5WUF0aTlaNTNYSVpHVTVXVFd4U0xFMEh0cjR6WHdDSmRUZ0dDdFR1THZQdFVBdFZicnVZWmV5R0MxNEREeWZOYVFEUUNmWnZPVC1WU2NTUjQwN284bWtJRXZDZ9IBowFBVV95cUxNdzlQM3hfU2tTMmVwSnVTSU5XUEdXb2dDZzkwZ1BpNGV0R2NZMDJ2Xzd6ZzduRVNmbGZ3amZvTVA2T01XMWl1bmNfVzJLRlhoUmtrRHhuLW00d1ZDN0VzTko1REc5VU5KcEtaR1FfVGd5aDA1LWd0Q1JfTWlQdHh4Z2hqSDFOOUJpemtRc29tUVRuemJYNUJrb29pbnhvRTdRcHZv?oc=5\" target=\"_blank\"\u003eSecurity guard kills gunman at Wayne church\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFOX 2 Detroit\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU25uU0RETXFXZ1ViVzJoWWZYTUpobG1NeW1tZ2hlbmEzWUdqaXVBRjh4N2ZzamxIOG5Ma3AyV3dRZ0J3bWVVRFJLZGRnXzQxMXhsQmU0STY3Tm9zZUxPa2IxUDg5bnZ6ZTI4MXNTbDItOFU5R0ZkNExjeDE0TXY5clM5b2NxRnFCb1Z4MHY3czlsOXFta3B0QlZWeGNQU3VSdWJlYVItRXJoRWl3YlkzenpZYnNwWV9FLWlkcGhVNk5CTllNek9pNG15aFBCUHBuMndj?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU25uU0RETXFXZ1ViVzJoWWZYTUpobG1NeW1tZ2hlbmEzWUdqaXVBRjh4N2ZzamxIOG5Ma3AyV3dRZ0J3bWVVRFJLZGRnXzQxMXhsQmU0STY3Tm9zZUxPa2IxUDg5bnZ6ZTI4MXNTbDItOFU5R0ZkNExjeDE0TXY5clM5b2NxRnFCb1Z4MHY3czlsOXFta3B0QlZWeGNQU3VSdWJlYVItRXJoRWl3YlkzenpZYnNwWV9FLWlkcGhVNk5CTllNek9pNG15aFBCUHBuMndj?oc=5"
+         ],
+         "published": "Mon, 23 Jun 2025 15:07:14 GMT",
+         "publishedParsed": "2025-06-23T15:07:14Z",
+         "guid": "CBMi0wFBVV95cUxQU25uU0RETXFXZ1ViVzJoWWZYTUpobG1NeW1tZ2hlbmEzWUdqaXVBRjh4N2ZzamxIOG5Ma3AyV3dRZ0J3bWVVRFJLZGRnXzQxMXhsQmU0STY3Tm9zZUxPa2IxUDg5bnZ6ZTI4MXNTbDItOFU5R0ZkNExjeDE0TXY5clM5b2NxRnFCb1Z4MHY3czlsOXFta3B0QlZWeGNQU3VSdWJlYVItRXJoRWl3YlkzenpZYnNwWV9FLWlkcGhVNk5CTllNek9pNG15aFBCUHBuMndj"
+     },
+     {
          "title": "6 dead, 2 missing after boat capsizes in Lake Tahoe - NBC News",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQRE5pYmZMSFk0N2pSSlFTRFFrZV85QXNtUFJfYXBFWTFfS2l1UXVaMHVWT2xLUG1pRkl0Y0VycE5SWmF2R3NxSzdkSVZ1Q2V6dTNkZjRudDcxUDRTaHNWTkt5bU1GVlFPM2FXWE5lU2ZYMUM4VklXbDVSaGRqdUZzSDhidDlZX0hBQllocEl3WFRGeVXSAVZBVV95cUxQUTNRdEZLSEhkVXA2ZVdaOEI0UDJZVnp2U0lhS21OSC1VWlg2M2FYOHQ2a28zd0dzeWhnYTcxSEUxc0hCdmprSHlubTZHTXpocTFTcHhiQQ?oc=5\" target=\"_blank\"\u003e6 dead, 2 missing after boat capsizes in Lake Tahoe\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNBC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UTThwTER1bEpwTHg5cWlqTWx6MDBzaXZxZldEdFNZMW1BaC13SGJqaHdBZDItbDNQdHMyemxDcmxYZFpsd0JteG1oS3JIcWNJVnN1Y3J2OVJnNlZ2a3kteWFGd3RtVVBH0gFuQVVfeXFMT0xrcm1zNGdKRDVQbTQyVmRzTUFDQU11YkR2UmRvNVJRZW5RWFByV1d0Sm9qRTFmbElnQWtJblRBMTZ1S09ET19RS01hT3FLSDh3SnUzUzdybW9FUjZlRHNrVllvbVlBclBHMEt2d3c?oc=5\" target=\"_blank\"\u003e6 reported dead and 2 missing after a boat capsizes on Lake Tahoe in California\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOZHFZa0xKOEVYc3BLNzNkazN5bkdqdXNrRmJBYWVnRXNSb1I0SWczNkZJNVFtUEoxQTV6a0tIdkNnUkF0OVFFenVKbkdINWJJMnpwNml6djdEc20yYm9CSnpGSXV4NVhkYnVNdUhlQUFtTVpUNFJEaTVzcGplLVptRFRIZmptamdtSzBXUGY2VkFRN3hPeUFienlfTTdZdHZwZGdr?oc=5\" target=\"_blank\"\u003eLake Tahoe boat accident death toll rises to 7\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eSan Francisco Chronicle\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWjJkM0ljMkZYTURGc0ZxX3hCc3Z5S0dnUXNFVVlnWkk0UU5rRElScDdQMXVoLUNFX0lxbFp4WFZ3eXJMeXo3cHJBWVBHN3hMSXkyZUNUcmNXa3lXdEpJWV9jaVBkS1ROT0xVYW82aG5mMXFrZEJCQmFfZjJqNGpGcW10TVgxYmxMV3NvOTB1S0VnQjVzazVMcUVMOUt5VElpVUlCLVM1VU9OalJ4Q3g2cDcwcXZKY1JVQmFMTFVFM0ZNdw?oc=5\" target=\"_blank\"\u003eSouth Shore fire and law enforcement joined multi-agency response to Lake Tahoe tragedy\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eSouth Tahoe Now\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQb0c5RUJoMjZaLXp0bV9oMUtuenduSjBiVHRudmJpWWNQeUQtdWZuVGw0c2ExZHZPamtpa0x4UGtZbzVxUGJUX3BTRGtCVXNtQ202SFVVSlNDdFNsVWVaVlplZUE5aXEwcExOQ0J3cEFORGY1czhFTExWdlBYQ1FTaGhpUnJCbmxSMTQtSTNtNA?oc=5\" target=\"_blank\"\u003eWATCH: Boats rocked by thunderstorm in South Lake Tahoe\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eKCRA\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQRE5pYmZMSFk0N2pSSlFTRFFrZV85QXNtUFJfYXBFWTFfS2l1UXVaMHVWT2xLUG1pRkl0Y0VycE5SWmF2R3NxSzdkSVZ1Q2V6dTNkZjRudDcxUDRTaHNWTkt5bU1GVlFPM2FXWE5lU2ZYMUM4VklXbDVSaGRqdUZzSDhidDlZX0hBQllocEl3WFRGeVXSAVZBVV95cUxQUTNRdEZLSEhkVXA2ZVdaOEI0UDJZVnp2U0lhS21OSC1VWlg2M2FYOHQ2a28zd0dzeWhnYTcxSEUxc0hCdmprSHlubTZHTXpocTFTcHhiQQ?oc=5\" target=\"_blank\"\u003e6 dead, 2 missing after boat capsizes in Lake Tahoe\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNBC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQb0c5RUJoMjZaLXp0bV9oMUtuenduSjBiVHRudmJpWWNQeUQtdWZuVGw0c2ExZHZPamtpa0x4UGtZbzVxUGJUX3BTRGtCVXNtQ202SFVVSlNDdFNsVWVaVlplZUE5aXEwcExOQ0J3cEFORGY1czhFTExWdlBYQ1FTaGhpUnJCbmxSMTQtSTNtNA?oc=5\" target=\"_blank\"\u003eWATCH: Boats rocked by thunderstorm in South Lake Tahoe\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eKCRA\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UTThwTER1bEpwTHg5cWlqTWx6MDBzaXZxZldEdFNZMW1BaC13SGJqaHdBZDItbDNQdHMyemxDcmxYZFpsd0JteG1oS3JIcWNJVnN1Y3J2OVJnNlZ2a3kteWFGd3RtVVBH0gFuQVVfeXFMT0xrcm1zNGdKRDVQbTQyVmRzTUFDQU11YkR2UmRvNVJRZW5RWFByV1d0Sm9qRTFmbElnQWtJblRBMTZ1S09ET19RS01hT3FLSDh3SnUzUzdybW9FUjZlRHNrVllvbVlBclBHMEt2d3c?oc=5\" target=\"_blank\"\u003e6 reported dead and 2 missing after a boat capsizes on Lake Tahoe in California\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQYmtUNHZPbzRLSmpMTXRBNm5fam5lMC1nMlcxLVR0bVVaY3owRUIwSldmUEJGcjFWSEZrd1dFMGN3MGtaSENCa3pTdWlwdWdQckRqOERVLWNjMUZXVHpUVXpJb3BLcGNubnpuVE5hU2tyTzZNcVE3Uk5xZC1UazlLU0JyUUhHUdIBmgFBVV95cUxQMWtfZTZpbTRTOG1UZXBSY09ndzQwd3NsLXRwaF9YOXBJVzFHLVFYamQtVkhJTVVvZ05hdUtYUTJiZUg5VzF0ZDl0ZG1XdEM0Vk5wTlYyNnBRS05CSEJZTU8zOVZETUY1YnEzLVRHM09kSTFhejlvcFJiUHhnbExKaTFDRDhjVVZ2VXpuUkNXSk9hUTZqNGlmLW5R?oc=5\" target=\"_blank\"\u003eCoast Guard calls off search for missing boaters\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eKOLO | 8 News Now\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWjJkM0ljMkZYTURGc0ZxX3hCc3Z5S0dnUXNFVVlnWkk0UU5rRElScDdQMXVoLUNFX0lxbFp4WFZ3eXJMeXo3cHJBWVBHN3hMSXkyZUNUcmNXa3lXdEpJWV9jaVBkS1ROT0xVYW82aG5mMXFrZEJCQmFfZjJqNGpGcW10TVgxYmxMV3NvOTB1S0VnQjVzazVMcUVMOUt5VElpVUlCLVM1VU9OalJ4Q3g2cDcwcXZKY1JVQmFMTFVFM0ZNdw?oc=5\" target=\"_blank\"\u003eSouth Shore fire and law enforcement joined multi-agency response to Lake Tahoe tragedy\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eSouth Tahoe Now\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRE5pYmZMSFk0N2pSSlFTRFFrZV85QXNtUFJfYXBFWTFfS2l1UXVaMHVWT2xLUG1pRkl0Y0VycE5SWmF2R3NxSzdkSVZ1Q2V6dTNkZjRudDcxUDRTaHNWTkt5bU1GVlFPM2FXWE5lU2ZYMUM4VklXbDVSaGRqdUZzSDhidDlZX0hBQllocEl3WFRGeVXSAVZBVV95cUxQUTNRdEZLSEhkVXA2ZVdaOEI0UDJZVnp2U0lhS21OSC1VWlg2M2FYOHQ2a28zd0dzeWhnYTcxSEUxc0hCdmprSHlubTZHTXpocTFTcHhiQQ?oc=5",
          "links": [
              "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRE5pYmZMSFk0N2pSSlFTRFFrZV85QXNtUFJfYXBFWTFfS2l1UXVaMHVWT2xLUG1pRkl0Y0VycE5SWmF2R3NxSzdkSVZ1Q2V6dTNkZjRudDcxUDRTaHNWTkt5bU1GVlFPM2FXWE5lU2ZYMUM4VklXbDVSaGRqdUZzSDhidDlZX0hBQllocEl3WFRGeVXSAVZBVV95cUxQUTNRdEZLSEhkVXA2ZVdaOEI0UDJZVnp2U0lhS21OSC1VWlg2M2FYOHQ2a28zd0dzeWhnYTcxSEUxc0hCdmprSHlubTZHTXpocTFTcHhiQQ?oc=5"
@@ -1107,15 +1219,144 @@
          "guid": "CBMikwFBVV95cUxQRE5pYmZMSFk0N2pSSlFTRFFrZV85QXNtUFJfYXBFWTFfS2l1UXVaMHVWT2xLUG1pRkl0Y0VycE5SWmF2R3NxSzdkSVZ1Q2V6dTNkZjRudDcxUDRTaHNWTkt5bU1GVlFPM2FXWE5lU2ZYMUM4VklXbDVSaGRqdUZzSDhidDlZX0hBQllocEl3WFRGeVXSAVZBVV95cUxQUTNRdEZLSEhkVXA2ZVdaOEI0UDJZVnp2U0lhS21OSC1VWlg2M2FYOHQ2a28zd0dzeWhnYTcxSEUxc0hCdmprSHlubTZHTXpocTFTcHhiQQ"
      },
      {
-         "title": "‘Extreme heat’ to intensify, shatter record in Metro Detroit - ClickOnDetroit",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNZjIza09oVTRGSjU5SHdXWlBZcGNsUUFMb1p1SnpEZmZ6RWpOQ0wzbkI1YmxydDNsbDJ6RnQwWk5uNnpIMjZoLWJITVlNQkhFbm1JUXpMNmR2RGRibEVERzBCLWNxWVBGTkhtdTVMVE9NeHllQVdZajRhYldvd05ZaWxWbVlSTGZoa3J2NVAtNm9nd2UxRXAyNHp4cXRNblhhZkxMNGxmcHFEb3lW?oc=5\" target=\"_blank\"\u003e‘Extreme heat’ to intensify, shatter record in Metro Detroit\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eClickOnDetroit\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRG1MZHFuTnJTQ0Z0UF9HdFJJTW1oUHYxNU5rRVZFYlM5cXV5dzJqMmw2VkRuSFVscTF6NVhZSlVmckVwSFFXX1hOelZqRWVXeVFqcS1HelRSbXZ2NGk2XzVTWXVEWEtpU2RPSWVmNS1oamp0UHd2aHE2ekhDc3dsZEdZa3h4V3FRaTJMSW5rM2hIUFdQNUdCLUFGX1VYNHU1Szk1RW16ZW1TQk1JSU5aaWtNck5telBxbDhTSEtDb1ZxeUU?oc=5\" target=\"_blank\"\u003eWill it storm this week? Thunderstorms expected to follow Michigan heat wave\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eDetroit Free Press\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNWhIcEd6bWttNXc2VWNpVXlpM0t2SUxVeDVtdGJ3Slc0bTRtWlpxVXBRdThrU0xoc2dEX2U1NVg1UUJiUjE4U2trX1QwU0llamZiVXFkaV9ncGFDNWFxWnAxUXllX0NDcjBXeDAtRTUwWmlDQzFUSzktSi15ZmRhcm5TdnhhSWQ4UWNHaFF3cHJDcldVam1PME9WdjNvZVJ0eDlXcncyRVh3cWxMaU9MZ1hKQUplVGhOaEsxTkp3NWo2UHNRaEpYTTJ6NEhOYnBicnJTVnViMTljLXF0?oc=5\" target=\"_blank\"\u003eMetro Detroiters rush to stay cool, safe in summer's first heat wave\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Detroit News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNSUU4aXg0SmJnUmptU3RSWnZzd3hjYXlRYWhlNGJIMFcxd2ZTdk5UWk9naEFodEx6THlTSW55QXkzOHN5ak5YV2p0Yl80MXhLM204bW5SVzlNS0FDU1p4R0hVX0xoRDJienJ2ZU1FN0RsTGluNEthX3NkT2V4Z090XzNwQVp5alhFVndMUGhhRDMwTi1DczFGVXVfaDU4UkVLR0tz?oc=5\" target=\"_blank\"\u003eWhat temperature to set your thermostat during summer heat wave?\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eUSA Today\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMzlBbk1xQTFKSU5hUE5pQnRFbDV1VGFVQjlzWmZxdzhCWXFaN3RlcnVoT1g3YWdLX2RoUUxjYUh2Q255ekVTNnFaamx5bFNHU29PUE9yempfVm5QMmZZY2Y1blE2cXVoS3I2Wmx6MlVKVEZDRkE1amtnVUZiTTh3Wks0Z1FVSWoxaDJtMnI0QUdjTFJLaHFtTFE2SGtSWHRjU0c5QUJGdlVteDJadWdCblduUndEOTY2UU9EcDNFWDcxRVREZGIxd0Z0eVEta1lXb1UtZWRCbFRybjJIVTdFZw?oc=5\" target=\"_blank\"\u003eDangerous heat, humidity continues with record high temperature forecast for Metro Detroit\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eClickOnDetroit\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZjIza09oVTRGSjU5SHdXWlBZcGNsUUFMb1p1SnpEZmZ6RWpOQ0wzbkI1YmxydDNsbDJ6RnQwWk5uNnpIMjZoLWJITVlNQkhFbm1JUXpMNmR2RGRibEVERzBCLWNxWVBGTkhtdTVMVE9NeHllQVdZajRhYldvd05ZaWxWbVlSTGZoa3J2NVAtNm9nd2UxRXAyNHp4cXRNblhhZkxMNGxmcHFEb3lW?oc=5",
+         "title": "Extreme heat hits Central NY: It could feel as hot as 110 degrees today - Syracuse.com",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQMjNadHJ4OUZTQ0NhelJObWNmR1gya0VHYVliTnpaS0xJanhGSzdEZTYxdWJmRnB6a1dyeE5MS2lfek5La2E5YUQxaWVpM3dkaFc1MDNqU2VPV2tRMWtzVnRrOVhnLWxiZ082SlNtRjVvVHBDRWJPcUNTeUFXVVh3Q3pSSUJkckxlTWJwczRkNTdsSUVwUmt4RTJwSXJiYi1DZ3Z4UzVqSWhOME9vZmg3eVZmYm45V1k?oc=5\" target=\"_blank\"\u003eExtreme heat hits Central NY: It could feel as hot as 110 degrees today\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eSyracuse.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9DVXJQbnZKR0xJaTNlOW9Yak43U3NGTFJVVFpmUlNaY1ZWelRUMG9McmpvdldYZmdWRkFqb0NuaDBjVzFRWG9sQ0hsUmY4dld2dERHN2pBcDRkelpFWnFPZDJuT0hwMHRQTUpKYXJn?oc=5\" target=\"_blank\"\u003eIt’s About to Get Brutally Hot in New York City\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB4eHRDeGpsSXQ5SXlTYUhSTzR2V2RHQlhjQS1mN3ZwTHVKSVhXMndvZ04taTRha1Q2UmxIMjc2YWNPa1ozT1k4b05wT3NQbGh3c2VIZk5YdUktV09DcWctbFJYa1E5ODNXLVk0ZFZxekh6Z1JFb3ZFeVZWNDF6UmM?oc=5\" target=\"_blank\"\u003eExtreme heat warning takes effect in NYC, 100-degree temps expected\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eYahoo\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOV01FUUFRUmFsQWk4MktiVnlpRW9vdjdHLXEweEFDQ3RlNmtEZVpEUGtTNWJ6QkNIT3BRODdkY0hnV1hzSWtDaWp0UzdXcUoySk5USTJFNTlqRDN4NmdicWRMRzA4d2ZObVJZVEdaN2g0SmtPUFYzck9ZdzdLaWtOMTE5YXRSbWZtNENTWVBvRk1tTk9RT0t0aVZzcGtubWxDeUxVaDU4Y3k2WFhrclNweTFFNVVfR1huQzYzbDZIOG5xakRCbFFJMXQwb245dw?oc=5\" target=\"_blank\"\u003eHochul declares state of emergency for NYC, much of state as temps set to shatter 125-year-old records\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNew York Post\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTUtQQ1kwd1BPQUV4MlR4OGhBR1BiRjVLOVFLY0dFYWltc21TR1AwekhzQnkzdXh4d1k2MktGUGxJbHphVUFHanc1V1dEcXFrRUdrblJNRkgxRXVEMXY2YkgtRkpVdEY3UThZODZvdGZWYTlVLU5CYTJDbmlNZW13eTE1ZHJnNHdrbmxwb1BVNHNMTXdzei00by00aFhTYXRLcjRYeDEwbFlLVldoczRXUTJCNC1OdmdwWUxYYnpGaFcyN1NTM2Zsb21VWXhhWnFMSzl3aUhvbw?oc=5\" target=\"_blank\"\u003eBrace for extreme heat in New York\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWGRZ\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMjNadHJ4OUZTQ0NhelJObWNmR1gya0VHYVliTnpaS0xJanhGSzdEZTYxdWJmRnB6a1dyeE5MS2lfek5La2E5YUQxaWVpM3dkaFc1MDNqU2VPV2tRMWtzVnRrOVhnLWxiZ082SlNtRjVvVHBDRWJPcUNTeUFXVVh3Q3pSSUJkckxlTWJwczRkNTdsSUVwUmt4RTJwSXJiYi1DZ3Z4UzVqSWhOME9vZmg3eVZmYm45V1k?oc=5",
          "links": [
-             "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZjIza09oVTRGSjU5SHdXWlBZcGNsUUFMb1p1SnpEZmZ6RWpOQ0wzbkI1YmxydDNsbDJ6RnQwWk5uNnpIMjZoLWJITVlNQkhFbm1JUXpMNmR2RGRibEVERzBCLWNxWVBGTkhtdTVMVE9NeHllQVdZajRhYldvd05ZaWxWbVlSTGZoa3J2NVAtNm9nd2UxRXAyNHp4cXRNblhhZkxMNGxmcHFEb3lW?oc=5"
+             "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMjNadHJ4OUZTQ0NhelJObWNmR1gya0VHYVliTnpaS0xJanhGSzdEZTYxdWJmRnB6a1dyeE5MS2lfek5La2E5YUQxaWVpM3dkaFc1MDNqU2VPV2tRMWtzVnRrOVhnLWxiZ082SlNtRjVvVHBDRWJPcUNTeUFXVVh3Q3pSSUJkckxlTWJwczRkNTdsSUVwUmt4RTJwSXJiYi1DZ3Z4UzVqSWhOME9vZmg3eVZmYm45V1k?oc=5"
          ],
-         "published": "Mon, 23 Jun 2025 01:09:08 GMT",
-         "publishedParsed": "2025-06-23T01:09:08Z",
-         "guid": "CBMirAFBVV95cUxNZjIza09oVTRGSjU5SHdXWlBZcGNsUUFMb1p1SnpEZmZ6RWpOQ0wzbkI1YmxydDNsbDJ6RnQwWk5uNnpIMjZoLWJITVlNQkhFbm1JUXpMNmR2RGRibEVERzBCLWNxWVBGTkhtdTVMVE9NeHllQVdZajRhYldvd05ZaWxWbVlSTGZoa3J2NVAtNm9nd2UxRXAyNHp4cXRNblhhZkxMNGxmcHFEb3lW"
+         "published": "Mon, 23 Jun 2025 15:19:00 GMT",
+         "publishedParsed": "2025-06-23T15:19:00Z",
+         "guid": "CBMitwFBVV95cUxQMjNadHJ4OUZTQ0NhelJObWNmR1gya0VHYVliTnpaS0xJanhGSzdEZTYxdWJmRnB6a1dyeE5MS2lfek5La2E5YUQxaWVpM3dkaFc1MDNqU2VPV2tRMWtzVnRrOVhnLWxiZ082SlNtRjVvVHBDRWJPcUNTeUFXVVh3Q3pSSUJkckxlTWJwczRkNTdsSUVwUmt4RTJwSXJiYi1DZ3Z4UzVqSWhOME9vZmg3eVZmYm45V1k"
+     },
+     {
+         "title": "Governor Hochul Directs New York Power Authority to Develop a Zero-Emission Advanced Nuclear Energy Technology Power Plant - Governor Kathy Hochul (.gov)",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOZnZESnptN2xoOFVuYlY5S29mTW1EU0YzejZOdGxLLU0yb1hpb1R1U19wcm8teXJfcENSeGtaN25sMnltQV81Y1NHd21GLUN3dEZHVU10R1VfX044UHBXNnZGa3M1dGstTEstTnJKR2s1dVZZQ1NUN1QtNjhBVkF3a3pqcGFmYlVMNFFHZFNBTG15c1JXMlFrUkVwNHRKMXB2U0dUUEhtUlBkTWJDY1A3Y2tETVFNWmpMNU9xTnFhNndoTklENmc?oc=5\" target=\"_blank\"\u003eGovernor Hochul Directs New York Power Authority to Develop a Zero-Emission Advanced Nuclear Energy Technology Power Plant\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eGovernor Kathy Hochul (.gov)\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPTlRlY20wRHBUVjA0Q3RLOHhCSG1Nc2FBNldEQ20xUTZIdExCaFlEcGtxcG1LdDVIRGFJd1BrU2E0WEtELWlxUWtVOFpCWmlkeTBad2FHUkZQRnlhMFRiQmJMZXVWWllEdTJieXlDRVJPbzBPMkhfc3pJd3M2aUFKbmVjOUlybUFkSVJqMUg5MkdlNXhEOHRLUXdpcnpGVmRtSURkRjVORVVKS3h3eDlRV0s2NUdOVzhOdmc?oc=5\" target=\"_blank\"\u003eExclusive | New York to Build One of First U.S. Nuclear-Power Plants in Generation\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWSJ\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZDBIdG14NDVfQXVYREFHMEFTRXJhdmhSbmJJRXBONHlycjNyWWhKQkRiTklQOWxkZFVGRGFUQzh1UHdkMDBLNnpOa0hUR2tSbzd5SEZsNVJmNTZYODRJODgtQVFkN1dyZGFMZEVfdHZRTEl3ZlNyNWpsVWtpUEkyUHRadjgtcFNh0gGOAUFVX3lxTE0zdzVfX2s3QmNFQ2JIZVZJemo1NFEyNDBkcTBCMzlKbWRHTld5NTZiN0dIc19ocFd6ZXFQeEJqcnowQi1vRDl4OWJqbW92MnpKaUVWNlZBVnhoZTMtUnR3TzZIWVRTWVV5VWdxLXNuRHhKLWJnenZfS1RtZWZPeEt2M0FoV1RHYW1XMVA1NXc?oc=5\" target=\"_blank\"\u003eNew York planning first large U.S. nuclear plant in years: Hochul\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Hill\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3B6UjVXdG95Z1BVV040WnFvZVRGakRCaU5QRUhWS3VkXy1wa0QxME1jNE9vV2NjWVg5VS15XzVPNW14QkNVYThueEVwUUFHcy01VXQ3MmNNVV9sd1RKLU8xUFJvUUh2T1BrZkNDSG9faFhEd3ljNndFbWVyLXFtc1NVVHVIQmdsczBJQ3BqMnVhQVRZUHFMbThQU3HSAaQBQVVfeXFMTmNIdDBZQWxpZU5kWHN3MVdIUFd3ZGY2VDJWZGdRWkpYS2pFRFB0cWJJUkRPclJoVWtDUGJGcWVmYTdLdW9QTk9McWZ2NksydGsxV2pEZXVvaDVOdURDUHJoVl9yb0t0WHM5WHY1THpuc2g2YXRIbXpHR1NSZ1RvQXlCRElpU0x6RWh6aDhQejAteWU5eGREX0ZNT2lYR1pHcC02Vno?oc=5\" target=\"_blank\"\u003eRoundup: New US nuclear plant / Bank exams / Business activity\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBaton Rouge Business Report\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjlKNXdMYXpvQ1VYS3pzaDhsdTJ2bVVmMWpCSG5ubzhYNHZGTkU2bXktLXBRLXhjWUIyZVpkU1BwRjZrcGhwYzRIX2M0cXkzckU1dFh4QnE2N3Uyd3FoTk1hbWNZWHJqZnVlRVlJM1RKMmJpRVB2bDVYdEhpQkV0d08waFNtelpYU3VvYk9GcDF4MERXSTZfUk9lZmtQU2ZGRlRvdnBob0dwSGxaaUU1OUxjdk8?oc=5\" target=\"_blank\"\u003eNew York Plans to Build Nuclear Power Plant for 1 Million Homes\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBloomberg.com\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZnZESnptN2xoOFVuYlY5S29mTW1EU0YzejZOdGxLLU0yb1hpb1R1U19wcm8teXJfcENSeGtaN25sMnltQV81Y1NHd21GLUN3dEZHVU10R1VfX044UHBXNnZGa3M1dGstTEstTnJKR2s1dVZZQ1NUN1QtNjhBVkF3a3pqcGFmYlVMNFFHZFNBTG15c1JXMlFrUkVwNHRKMXB2U0dUUEhtUlBkTWJDY1A3Y2tETVFNWmpMNU9xTnFhNndoTklENmc?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZnZESnptN2xoOFVuYlY5S29mTW1EU0YzejZOdGxLLU0yb1hpb1R1U19wcm8teXJfcENSeGtaN25sMnltQV81Y1NHd21GLUN3dEZHVU10R1VfX044UHBXNnZGa3M1dGstTEstTnJKR2s1dVZZQ1NUN1QtNjhBVkF3a3pqcGFmYlVMNFFHZFNBTG15c1JXMlFrUkVwNHRKMXB2U0dUUEhtUlBkTWJDY1A3Y2tETVFNWmpMNU9xTnFhNndoTklENmc?oc=5"
+         ],
+         "published": "Mon, 23 Jun 2025 15:30:23 GMT",
+         "publishedParsed": "2025-06-23T15:30:23Z",
+         "guid": "CBMixgFBVV95cUxOZnZESnptN2xoOFVuYlY5S29mTW1EU0YzejZOdGxLLU0yb1hpb1R1U19wcm8teXJfcENSeGtaN25sMnltQV81Y1NHd21GLUN3dEZHVU10R1VfX044UHBXNnZGa3M1dGstTEstTnJKR2s1dVZZQ1NUN1QtNjhBVkF3a3pqcGFmYlVMNFFHZFNBTG15c1JXMlFrUkVwNHRKMXB2U0dUUEhtUlBkTWJDY1A3Y2tETVFNWmpMNU9xTnFhNndoTklENmc"
+     },
+     {
+         "title": "Major U.S. health insurers say they will streamline controversial process for approving care - CNBC",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxORUFpNjd1S0huVzRfaFhqd2cyejRDZjU4VGdHMzdiQlhReFEyZ3RlekRoWUY4YXM3ZV9ObDE4RmRXQ2ZSTTc5MEdSYTJTZVA1MzhWUDF4M1QzZnBXSXlvQXZIcC1Ka0NqTE9Cb25iVG4zN2JENjZ0b0Vnajd0OFFtX0ppWUJodWQ0dW9YX1AtRkdxcmxDeng0bnZUemrSAaIBQVVfeXFMTVE5Rm5HdzNacFh2OEV3VUtPWFpOalI4cFNLd2I5Wjh6TV96VF9FdElvUUI0UW5tTnIxOUQybG15eWkwX2JINzdYQ01Vd0ZhV2lkWUw3V1UwOUxaNEc0aHNBelJOZGpZTUlJNEZsWEthSjgxXzZJd3dRbzNUa1VzbjNwVnUtajNMWk9HYWRnZUctZmZPb3Z2aTdrSllxSWEwamRB?oc=5\" target=\"_blank\"\u003eMajor U.S. health insurers say they will streamline controversial process for approving care\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNBC\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQcnFWVTB3aU9sbThpcWxfbkdUYi1JYTdSWWhWOFJJVlRPcV9sVHpGQUI4ck83dFVUT3pYeURwSERneTh0ZGlrdXRiMUJ5Z2Q0ZlZHUTgtN1BCdFh0ejVVcHB0WXhodDJISm1Vb2hHcUw4MG44OWlEOHJxeWZZekZ1LUFGa25ncWRraDRVV1JNQnFLWkVvNXFPcF9IaFpPNnVubzBhWkpyNC03U3lVNE5BSnFaQzZRazQ2bmZEQ1ktbVQzUXdDV1Rz0gHMAUFVX3lxTE9Rb1VtNlQ2U3VyQlpWWEFpblRRUEE0dF95ZnBSbU9VaTdrSG1BeUZXcUt1TUI2ZVllRXRQUHVMRDBtZ3g3T1RqNTFqRGVIWUhSVjJpR1lXTGJObEVXS19xWDFBM3Y5RElvZWJMTy1fYkNOS0U0ZVZIWXIxdmFxbmtqRThtLWZsZUQ3QTFMeGJJYzFLckdJM2lESDUwdG44em5UU08tRmUtWE4yRUp2Z3JybnphbDhkcjVMVnBDd0tkTUJVRWhpam1yMDRJZg?oc=5\" target=\"_blank\"\u003eWATCH LIVE: Kennedy and Medicare and Medicaid head Dr. Oz make health insurance announcement\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003ePBS\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE50aTBTSGlhbjFYZ3ZYeDJsM3FKTU1NN2FYN0NCaV8zWFpwdzFuMzl0ZTlFTmtnTjBkRkR1ZFdnUEt2cHI5UDN5czc5RXduSjA1N3FhaFFKd0w0UUFpcWdZUkJoUkk3T2xjSE9BWDIzLXRJY1RBV2xXaFotakTSAYIBQVVfeXFMTVBKbFFLeDJoSFVPcS0zdE9uY2pncHRySFlYVU5Na0RRLWFiMFRPbkltdUUzSURlVjZMTEMyTlBhWHJoSk1YU0xHRXAtczg3S2ZyZEI4eThGRHRFWm5qQWtaRmwzUGw5RURXbkN2T29TWUZhTmprYjhfcDQ0WHJyMlRZdw?oc=5\" target=\"_blank\"\u003eLIVE: RFK Jr. and Dr. Oz announce health insurance changes\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNewsNation\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOejEtVkFpSjdCNGtsT3JGXy1QWDNMU3pwaXp4a05HRF9yWXloem1WREdyemRiTW04UlJmYmt3V2sxSkVndWhidmplTUxtbEZIX3pIQkRIal9OLXI1SFFFRVJZVzh2RkZsTVBCcWI5WUg5bXVvN3NFU2tqLUdpWG9NTUNpbVN1b0hkNEHSAY8BQVVfeXFMUDI3am5EZ0o1aGlkbWVhQ2hpZ0hSRzhTa3c1UEpPd0R3N29xLWlkMXlfb0hRQ2Qtb19vUnlDMUR6Qmo0Q05zanNMRWdZa1lsbHZoZmhyd2I5V3p4UXYxeE02U1BJSnNNbTlSLXE2NjlOQ1BzOGxXcHFEZWY5Z0dzeGprUl9KcFQxU2RFN2VRODA?oc=5\" target=\"_blank\"\u003eHHS promotes insurer pledge to scale back prior authorization\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Hill\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQVzFVZFFaVnZ6RVBLZF95STdxNTBSMndkbXVYeG1COTZScUZfRTd3V0k3RG1qc2l4MFFOVWxCdkdkaE5SaUdPTjkwSjFNSHZ2dm9HRE9jWko5aFYyNGJqNG9GSlhMek5FUlNFeTdHUjBmVXdHRDlpUktVREdRRVhJT3VfTnk2MDBEOWZ1OTU2MjRJWDkyRmJWQXV5dGFfcGEyZFBEM05HT3kxUFZ5MnlXY01B0gG3AUFVX3lxTFBHcVRFcGd2Vlc3bWowRlhaX2pBQTVPT0Q0bHBDZ0FmNXp0NmVPNHpEUDhZN2RsOHRCY1JFV0pxZVRuZ0tCR3ZNLXJjRkxPaHpscTFoQzFtR1hITWRZRFlPVGxwTkFFLWgzTVljWm12N0pMelFzTWlRSUlLdzQwcUlnNGtyY1NoRHg3YllCMFRqN2ZoT3ludmlSTHFtT0ZrTTlkUGEyUlFoVmRlb04xQ0NEdlFfNjhKcw?oc=5\" target=\"_blank\"\u003eHealth insurers promise to improve coverage reviews that prompt delays and complaints\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News - Breaking News, Latest News and Videos\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORUFpNjd1S0huVzRfaFhqd2cyejRDZjU4VGdHMzdiQlhReFEyZ3RlekRoWUY4YXM3ZV9ObDE4RmRXQ2ZSTTc5MEdSYTJTZVA1MzhWUDF4M1QzZnBXSXlvQXZIcC1Ka0NqTE9Cb25iVG4zN2JENjZ0b0Vnajd0OFFtX0ppWUJodWQ0dW9YX1AtRkdxcmxDeng0bnZUemrSAaIBQVVfeXFMTVE5Rm5HdzNacFh2OEV3VUtPWFpOalI4cFNLd2I5Wjh6TV96VF9FdElvUUI0UW5tTnIxOUQybG15eWkwX2JINzdYQ01Vd0ZhV2lkWUw3V1UwOUxaNEc0aHNBelJOZGpZTUlJNEZsWEthSjgxXzZJd3dRbzNUa1VzbjNwVnUtajNMWk9HYWRnZUctZmZPb3Z2aTdrSllxSWEwamRB?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMinAFBVV95cUxORUFpNjd1S0huVzRfaFhqd2cyejRDZjU4VGdHMzdiQlhReFEyZ3RlekRoWUY4YXM3ZV9ObDE4RmRXQ2ZSTTc5MEdSYTJTZVA1MzhWUDF4M1QzZnBXSXlvQXZIcC1Ka0NqTE9Cb25iVG4zN2JENjZ0b0Vnajd0OFFtX0ppWUJodWQ0dW9YX1AtRkdxcmxDeng0bnZUemrSAaIBQVVfeXFMTVE5Rm5HdzNacFh2OEV3VUtPWFpOalI4cFNLd2I5Wjh6TV96VF9FdElvUUI0UW5tTnIxOUQybG15eWkwX2JINzdYQ01Vd0ZhV2lkWUw3V1UwOUxaNEc0aHNBelJOZGpZTUlJNEZsWEthSjgxXzZJd3dRbzNUa1VzbjNwVnUtajNMWk9HYWRnZUctZmZPb3Z2aTdrSllxSWEwamRB?oc=5"
+         ],
+         "published": "Mon, 23 Jun 2025 09:00:01 GMT",
+         "publishedParsed": "2025-06-23T09:00:01Z",
+         "guid": "CBMinAFBVV95cUxORUFpNjd1S0huVzRfaFhqd2cyejRDZjU4VGdHMzdiQlhReFEyZ3RlekRoWUY4YXM3ZV9ObDE4RmRXQ2ZSTTc5MEdSYTJTZVA1MzhWUDF4M1QzZnBXSXlvQXZIcC1Ka0NqTE9Cb25iVG4zN2JENjZ0b0Vnajd0OFFtX0ppWUJodWQ0dW9YX1AtRkdxcmxDeng0bnZUemrSAaIBQVVfeXFMTVE5Rm5HdzNacFh2OEV3VUtPWFpOalI4cFNLd2I5Wjh6TV96VF9FdElvUUI0UW5tTnIxOUQybG15eWkwX2JINzdYQ01Vd0ZhV2lkWUw3V1UwOUxaNEc0aHNBelJOZGpZTUlJNEZsWEthSjgxXzZJd3dRbzNUa1VzbjNwVnUtajNMWk9HYWRnZUctZmZPb3Z2aTdrSllxSWEwamRB"
+     },
+     {
+         "title": "Michigan heat wave 2025: Will extreme temperatures continue all summer? - MLive.com",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0tZc2xfbGNoNGxSMzJJc3hRSVI2SVZFOEluSldVdXdIcVBXY2VWLThaQ3lmaE9qR2VUZGE2NkFMQVVPUktwbTAwQ3VnZGxPRnFGS1ViV1ZEbHJmWGxQMk1XdkNSelljOGtlcGc3RGVOVWJUTDFkdzlkUHBlSHVMckh2R3gyVnhMc3NpNmp6bTFDb1F2OGVhVHl0WVpDMmd1bGhERUtIdWZNS0l1UkpJdFRn0gHGAUFVX3lxTE5MZTNJRFFDZlg2c0htWEd1a0VyTFhaMlhIOUhkcERpbDlhUkF2cHVrSTlPaWZvYjJ0TmwzX2xWVEpIbXM3UVR5TjlfSjdYbFpabGxNczdrZmx5TlVneVE0WFZ2WS1MVjRlMlRTMm43UV9VWVFKNk5kZ21pTEpJRWNrdFhLOVpqbGJzRW1UVWFXb01kOFg2UE9RNjB5Z2NTakZsTXBSRWRCX09yR1pUOWdEOF9JdXlEeUxTLW1taU5NdW9vSmRVQQ?oc=5\" target=\"_blank\"\u003eMichigan heat wave 2025: Will extreme temperatures continue all summer?\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eMLive.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPaklOVVRmdHY5TTZVeTdQYWdaVDItdXc5bVdmWlRicjZZbFl5Y1pzSjdRLTRQTVI3bllEMlQwLWh4eHdqWU9xU1BxWnVYd19zdmxuODNaSTl2bUw1WkhsRGs2U1U1dmpNOHM5VjdMVnVGcTJ3dU9na0VoOHRzb3NpdS1FaVJkVjFaT2EzUUdvdEJqZVdGOGM2aEV5b0hXaVJEdnpIWENSbWVEUElOREVZ?oc=5\" target=\"_blank\"\u003eWhen will it cool off in Michigan? Relief from extreme heat could come soon\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eDetroit Free Press\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNWhIcEd6bWttNXc2VWNpVXlpM0t2SUxVeDVtdGJ3Slc0bTRtWlpxVXBRdThrU0xoc2dEX2U1NVg1UUJiUjE4U2trX1QwU0llamZiVXFkaV9ncGFDNWFxWnAxUXllX0NDcjBXeDAtRTUwWmlDQzFUSzktSi15ZmRhcm5TdnhhSWQ4UWNHaFF3cHJDcldVam1PME9WdjNvZVJ0eDlXcncyRVh3cWxMaU9MZ1hKQUplVGhOaEsxTkp3NWo2UHNRaEpYTTJ6NEhOYnBicnJTVnViMTljLXF0?oc=5\" target=\"_blank\"\u003eMetro Detroiters rush to stay cool, safe in summer's first heat wave\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Detroit News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNSUU4aXg0SmJnUmptU3RSWnZzd3hjYXlRYWhlNGJIMFcxd2ZTdk5UWk9naEFodEx6THlTSW55QXkzOHN5ak5YV2p0Yl80MXhLM204bW5SVzlNS0FDU1p4R0hVX0xoRDJienJ2ZU1FN0RsTGluNEthX3NkT2V4Z090XzNwQVp5alhFVndMUGhhRDMwTi1DczFGVXVfaDU4UkVLR0tz?oc=5\" target=\"_blank\"\u003eWhat temperature to set your thermostat during summer heat wave?\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eUSA Today\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMzlBbk1xQTFKSU5hUE5pQnRFbDV1VGFVQjlzWmZxdzhCWXFaN3RlcnVoT1g3YWdLX2RoUUxjYUh2Q255ekVTNnFaamx5bFNHU29PUE9yempfVm5QMmZZY2Y1blE2cXVoS3I2Wmx6MlVKVEZDRkE1amtnVUZiTTh3Wks0Z1FVSWoxaDJtMnI0QUdjTFJLaHFtTFE2SGtSWHRjU0c5QUJGdlVteDJadWdCblduUndEOTY2UU9EcDNFWDcxRVREZGIxd0Z0eVEta1lXb1UtZWRCbFRybjJIVTdFZw?oc=5\" target=\"_blank\"\u003eDangerous heat, humidity continues with record high temperature forecast for Metro Detroit\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eClickOnDetroit\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0tZc2xfbGNoNGxSMzJJc3hRSVI2SVZFOEluSldVdXdIcVBXY2VWLThaQ3lmaE9qR2VUZGE2NkFMQVVPUktwbTAwQ3VnZGxPRnFGS1ViV1ZEbHJmWGxQMk1XdkNSelljOGtlcGc3RGVOVWJUTDFkdzlkUHBlSHVMckh2R3gyVnhMc3NpNmp6bTFDb1F2OGVhVHl0WVpDMmd1bGhERUtIdWZNS0l1UkpJdFRn0gHGAUFVX3lxTE5MZTNJRFFDZlg2c0htWEd1a0VyTFhaMlhIOUhkcERpbDlhUkF2cHVrSTlPaWZvYjJ0TmwzX2xWVEpIbXM3UVR5TjlfSjdYbFpabGxNczdrZmx5TlVneVE0WFZ2WS1MVjRlMlRTMm43UV9VWVFKNk5kZ21pTEpJRWNrdFhLOVpqbGJzRW1UVWFXb01kOFg2UE9RNjB5Z2NTakZsTXBSRWRCX09yR1pUOWdEOF9JdXlEeUxTLW1taU5NdW9vSmRVQQ?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0tZc2xfbGNoNGxSMzJJc3hRSVI2SVZFOEluSldVdXdIcVBXY2VWLThaQ3lmaE9qR2VUZGE2NkFMQVVPUktwbTAwQ3VnZGxPRnFGS1ViV1ZEbHJmWGxQMk1XdkNSelljOGtlcGc3RGVOVWJUTDFkdzlkUHBlSHVMckh2R3gyVnhMc3NpNmp6bTFDb1F2OGVhVHl0WVpDMmd1bGhERUtIdWZNS0l1UkpJdFRn0gHGAUFVX3lxTE5MZTNJRFFDZlg2c0htWEd1a0VyTFhaMlhIOUhkcERpbDlhUkF2cHVrSTlPaWZvYjJ0TmwzX2xWVEpIbXM3UVR5TjlfSjdYbFpabGxNczdrZmx5TlVneVE0WFZ2WS1MVjRlMlRTMm43UV9VWVFKNk5kZ21pTEpJRWNrdFhLOVpqbGJzRW1UVWFXb01kOFg2UE9RNjB5Z2NTakZsTXBSRWRCX09yR1pUOWdEOF9JdXlEeUxTLW1taU5NdW9vSmRVQQ?oc=5"
+         ],
+         "published": "Mon, 23 Jun 2025 17:22:00 GMT",
+         "publishedParsed": "2025-06-23T17:22:00Z",
+         "guid": "CBMisgFBVV95cUxPR0tZc2xfbGNoNGxSMzJJc3hRSVI2SVZFOEluSldVdXdIcVBXY2VWLThaQ3lmaE9qR2VUZGE2NkFMQVVPUktwbTAwQ3VnZGxPRnFGS1ViV1ZEbHJmWGxQMk1XdkNSelljOGtlcGc3RGVOVWJUTDFkdzlkUHBlSHVMckh2R3gyVnhMc3NpNmp6bTFDb1F2OGVhVHl0WVpDMmd1bGhERUtIdWZNS0l1UkpJdFRn0gHGAUFVX3lxTE5MZTNJRFFDZlg2c0htWEd1a0VyTFhaMlhIOUhkcERpbDlhUkF2cHVrSTlPaWZvYjJ0TmwzX2xWVEpIbXM3UVR5TjlfSjdYbFpabGxNczdrZmx5TlVneVE0WFZ2WS1MVjRlMlRTMm43UV9VWVFKNk5kZ21pTEpJRWNrdFhLOVpqbGJzRW1UVWFXb01kOFg2UE9RNjB5Z2NTakZsTXBSRWRCX09yR1pUOWdEOF9JdXlEeUxTLW1taU5NdW9vSmRVQQ"
+     },
+     {
+         "title": "Bodies of 3 Hikers Who Jumped in Water Near Lake Tahoe Are Recovered - The New York Times",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmp5R3JzWm5JYUtiM3hCNE5NbTdRTWRGM0lpWTVTOWVGZ2RPTFRZZ0NoaHcxQmRIazlpM1hTdk5QNVNTZHg1d05PbmdZRFR2Q3B3ek1Iek1YcUI3bmNkaG5XNG5FbkRTdVdjcE05ZGJKekJIUk1MZm5sc3Z5dU1LT0R3Rl9mVWpmbi1manhCTUwyekRmUGc?oc=5\" target=\"_blank\"\u003eBodies of 3 Hikers Who Jumped in Water Near Lake Tahoe Are Recovered\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVJRMnEwWGM2Q0V2MG95N2RqU0xkZ2JzTGp2bEh6RVk4SGRWUVExZzlSMWdEbWRnTGpKb1c4cDhFY0ZNLUNIZUJTd21qZnJwQmU1RHAtSk9UdFVwVkNrWEp5Q0I4WkdYV29pMlBuT0NvUVZLSDNJdEtRN0d1bVBLS1VMOHJ1OU8zQ19MNVlYendNVWJwNW0xUHZreEswU3dzR0k0QkszY0tFSklGMURxQ2FpOFg?oc=5\" target=\"_blank\"\u003e3 men found dead after jumping into water near California waterfall\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eUSA Today\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOanA0dzU1RldSVExrVl9qSEowYm9yTFoyTnhfWURNOURzZGdSZmc2OWk1LXJIQU40el9iQUpHeVZaUnNHRDdQSkdGcmt0R2lPdUgyUXp2UGwtamJWdUdudEl0RzlJTEpmcVZlYzZ2dFI1RmllQnppMWtyMXNHTHBNUEx1ZEJHOXhPQkE0WURNN19pZ1YwNE8xOGw0Zw?oc=5\" target=\"_blank\"\u003e3 men found dead after jumping in water near Calif. waterfall\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eSFGATE\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPd28tR0hJOHRjYVEwSTRndGJuUGtfQXdHSEoxQjJkdzVfS3BZVVN5UmZRVkVWUWQ0cnVXUkctVlEtdHNQd3BfWm80dmt6aVFPbmlKd0V3NU1DdFFwZGFPeVctUUtSWWVPVnJuVHFza29XWllsQjRQek9uSGltSndNdndPZDFlZHpneXNVMFdwdDQ?oc=5\" target=\"_blank\"\u003eBodies of 3 men who jumped into Rattlesnake Falls recovered, Placer County sheriff says\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eKCRA\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNTFF1N3lkYXZkSWMxeG11a2FybmVyZjl5TW1rNDIxcFZWRG9uQkR4dE5HQ2xQU1dONENWYzV0YWJORkVRdUkyQlpIQkpJU2RDeEx3b3FmeU5SVFhPQm4ya2g4VWFITkh5aUVLbGhDUUZfblVGdEFqYktzaFNXRl9JNVRVU05oWXhManVEcUpSSDlEUWJuRlhSYVZaejBxdXdlNlNaN2Yxd3NYdFBUWmxpWWZDandGVVk0bjktejRURFAxNWdNdGdwMWpiVVQ?oc=5\" target=\"_blank\"\u003eStockton diver finds bodies of 3 missing men in Placer County’s perilous Rattlesnake Falls\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Stockton Record\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmp5R3JzWm5JYUtiM3hCNE5NbTdRTWRGM0lpWTVTOWVGZ2RPTFRZZ0NoaHcxQmRIazlpM1hTdk5QNVNTZHg1d05PbmdZRFR2Q3B3ek1Iek1YcUI3bmNkaG5XNG5FbkRTdVdjcE05ZGJKekJIUk1MZm5sc3Z5dU1LT0R3Rl9mVWpmbi1manhCTUwyekRmUGc?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmp5R3JzWm5JYUtiM3hCNE5NbTdRTWRGM0lpWTVTOWVGZ2RPTFRZZ0NoaHcxQmRIazlpM1hTdk5QNVNTZHg1d05PbmdZRFR2Q3B3ek1Iek1YcUI3bmNkaG5XNG5FbkRTdVdjcE05ZGJKekJIUk1MZm5sc3Z5dU1LT0R3Rl9mVWpmbi1manhCTUwyekRmUGc?oc=5"
+         ],
+         "published": "Mon, 23 Jun 2025 19:10:22 GMT",
+         "publishedParsed": "2025-06-23T19:10:22Z",
+         "guid": "CBMilgFBVV95cUxPbmp5R3JzWm5JYUtiM3hCNE5NbTdRTWRGM0lpWTVTOWVGZ2RPTFRZZ0NoaHcxQmRIazlpM1hTdk5QNVNTZHg1d05PbmdZRFR2Q3B3ek1Iek1YcUI3bmNkaG5XNG5FbkRTdVdjcE05ZGJKekJIUk1MZm5sc3Z5dU1LT0R3Rl9mVWpmbi1manhCTUwyekRmUGc"
+     },
+     {
+         "title": "'They wanted to separate me from my family': Mahmoud Khalil speaks after ICE release - NPR",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA3bVp3SHhTdHRXWGVtNkJLa096VGFxMUJpaVE4bHg2ekNIaUJHS1NoRjVDZUZqY1dvLUd6QUxLYzVfTVpwNkxDeWNLb3Y3Yzl4RmZLMXNyRGlKaHJKZ2gyYmRTdnlNcVdqMWU0LU5yaVRQU1B3QnpCWQ?oc=5\" target=\"_blank\"\u003e'They wanted to separate me from my family': Mahmoud Khalil speaks after ICE release\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNPR\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQXzF2LUFJTFhkdmVERm1MYW5Dc3J0enR3UlpIS3E5TTN3STB1ekk0NGlsWmhYWmoyMjFSbU95d1A0QlpsWDVWVVlXYUF2VVg1UUdLdEtaUEk1ZkZRUGxNWkxGYXcyMDdidS1ManlLSTI4Wm9uY04yUkNrOWZmcGZ2a1JvVTlxUQ?oc=5\" target=\"_blank\"\u003e‘It Felt Like Kidnapping,’ Khalil Says in First Interview Since Release\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNa0tNSmdwUmFUR3lBV3N3SXdET2xqdUZsQjB0TzV2MllDa1c2RGZmbDJVNEdCSnpiUmxSQW41YzNWNjhOY2s0TC1rNEhfUHVkUHI3VDNOZzR1cGVyWkdGcTFBbmdiQXV5bU5zekFCQmZzWUNwQ2R4dHBzMDdTUFJtcEJjWFZWSnN4REllMTVnOVZXbUZiX3lzQXFNZks2Ni1rMFZsdlRRNVNmTklWMzQwbzY3QkU5d9IBuwFBVV95cUxQNnU4RTdocE51M0JSUE00RXBTdWZGcG5BVnlNQXFrUFhuNkp5ckwwNExjQTdmTEhqbm0ySkljd0NzbW1NZmlVckkyUFVnUVZlUU1jUk1KTkFqVWhGUG03aHZ0OWpyVlU3SGNVVTJVdG1uVTBhTGRVUWY5Tk80ZFdLOEtXa1diQ3BhQzRtUUszMG52VVpkNFpIU1NyYTJaVFo5STV3TUV6am0wclZBRDdpZFY1R0E0eGdTNHpv?oc=5\" target=\"_blank\"\u003eAnti-Israel activist Mahmoud Khalil claims immigration detention ‘felt like kidnapping’\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFox News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOcFZLOTFlNVdzM3ZzVF8zbXVxck5Ec2NiMEYwdmxTNHVNaEExd21mcHZFeHRKZFZGNVFlV25xTm5QNUpXOEdXU2hOT0E2QjQwcjBXQnN3d09lTHljanhmWE5sc1ZkSzhWa1B6OVZNbVoycFhXQnpqSzdscUlXbThFM1V5Z25PV0x2X3JXeF9ZWTFkZkF5ZTA5T0lVQXBQWDlMZGdSZ0xnS2dWTFM2Mzlaakk2TdIBVkFVX3lxTE9tcklvOGVFa01rNFlLOW5KUFhYSm1NZnNNZzgyckRORXFIU1B1WnRTRlFoVEQtejRKN0FtbGxkamgyMjY4bU11T3lmOTZTaHpSQlRpa3Zn?oc=5\" target=\"_blank\"\u003eMahmoud Khalil describes ICE detention, decries Columbia 'hypocrisy'\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNBC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPVFY3MkdHS291Q2QyZnBGT080X0ltVTViMVFSTUlVSmVsYlNEUnFJVW1kRl8xSnZyTFcxTEFFazVUQzFXY2hDNThjTGQ2QkFtek9qN1I2T3dJRzd5eVFsLWRBR203aE5XOTNndXNCYk9JMGE4dFBTN2pCRDd4U2hmUF94aHZUNXdFRTNYQnMxMUUyUW9ZcVlwbE5vV29mSFYxencw?oc=5\" target=\"_blank\"\u003eMahmoud Khalil vows to keep fighting for Palestinians after release from ICE custody\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News - Breaking News, Latest News and Videos\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3bVp3SHhTdHRXWGVtNkJLa096VGFxMUJpaVE4bHg2ekNIaUJHS1NoRjVDZUZqY1dvLUd6QUxLYzVfTVpwNkxDeWNLb3Y3Yzl4RmZLMXNyRGlKaHJKZ2gyYmRTdnlNcVdqMWU0LU5yaVRQU1B3QnpCWQ?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3bVp3SHhTdHRXWGVtNkJLa096VGFxMUJpaVE4bHg2ekNIaUJHS1NoRjVDZUZqY1dvLUd6QUxLYzVfTVpwNkxDeWNLb3Y3Yzl4RmZLMXNyRGlKaHJKZ2gyYmRTdnlNcVdqMWU0LU5yaVRQU1B3QnpCWQ?oc=5"
+         ],
+         "published": "Mon, 23 Jun 2025 08:24:56 GMT",
+         "publishedParsed": "2025-06-23T08:24:56Z",
+         "guid": "CBMieEFVX3lxTFA3bVp3SHhTdHRXWGVtNkJLa096VGFxMUJpaVE4bHg2ekNIaUJHS1NoRjVDZUZqY1dvLUd6QUxLYzVfTVpwNkxDeWNLb3Y3Yzl4RmZLMXNyRGlKaHJKZ2gyYmRTdnlNcVdqMWU0LU5yaVRQU1B3QnpCWQ"
+     },
+     {
+         "title": "Bodycam footage shows police chase, fatal shooting of arabber in West Baltimore - The Baltimore Banner",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNRDBLY29DbHcxVjE5UF9Rc0E0ZlRmTjdBRmF2SXE5bFJIY1k1d2pZQ3hkLTQwclZUMFB1eGcwb18zMGhuUEYyZVpGcWZFR014QTJoT1liRThKdGlSRzNrOWExVEU3WVZsSFozeno0MWh3OGZmeEZqbXhfWm0xUWxUUW04QXQ5d2tBektpSXFZTHNmUk52ajRDMDdldWZlbFpweVBGRGEtdFFWSlZQSXBNYjF3LUpTUU04ckltUGRucUpldU1R?oc=5\" target=\"_blank\"\u003eBodycam footage shows police chase, fatal shooting of arabber in West Baltimore\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Baltimore Banner\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPdkNicWszUHR5bUxHQV9GZVRXSUtSUnVoRjgwR2M5ZUJ1Ym5kZ1FOS2tpeFlMODQ3d2poN04xX1lKc3JVa1JkbE40aHpmS3VITGswZ1M0NjdmQzFFSHBxOUtFVE4zSHA3cXVkZmg5bUpoaTZvV0E4eGp6N1dmS0dkdHJobUE0WmlWN1JoR2ZLSmZyNXBYOFpzYjFLTnRXZE5C?oc=5\" target=\"_blank\"\u003eBodycam video shown after officers fatally shoot man in Upton\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWBAL-TV\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2UzVTBySGdHVmdGaEFZNEFvYnFyLXpvOGZGeThWNE8zYXdZZHVjTklZbUwtTWtxTXRwTXdtVHpxdUxhVVBrWHZ6VW9EbmJQT3ZRdzhxNlJVWDYxWkJCR3JHM0FhbjlPNVFEcmNxYTh3WkRyZmJORFUzRzAzaWJoZlFTT3UySENQNTAtQVRaaDlramxlb25ZRWViUGRYZU56TWdUT1hB?oc=5\" target=\"_blank\"\u003eBaltimore police release body-cam footage of fatal police-involved shooting\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWBFF\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE05bUJqczVTdFJlbWUyTXBsTmhfUkVDaVJ4c3JMMnNWMnFvc3FNdV9RSUEyMlVZYXEwZTU2MU9na094cERCUWxQbEdBU3Z6a1AwNlZmX1FxLUl1Umkza2Z4NXdSMXloakR6NV9lS1BoRTJhS1NsV01lVkpDZUItUQ?oc=5\" target=\"_blank\"\u003eBaltimore Police release body camera footage Monday of former arabber’s killing\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBaltimore Sun\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQV3BsS1o4RkkxSVRvWF9uNVFCcHg5bE1NbW14aVVyeWtSOXAycVRyVlFjbzgtUVdRRG9GZVBtc3VJbmp0aHh1VzhUT2F5RGtVSEhZM3J0TWhPQXhYa21fM04wMEVMc0JORGhUTmdtTHJKUVRQUjdNVTJsRmhKa3BaV0l3dFhyRDNlei1HanZaRjZHVm0yRllYT2F3bUdjUnBRREVRU295cUNkdE4tMW9FNW10TQ?oc=5\" target=\"_blank\"\u003e‘The Sum of This Man’s Life’: People protest the police shooting of arabber Bilal Abdullah\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBaltimore Beat\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRDBLY29DbHcxVjE5UF9Rc0E0ZlRmTjdBRmF2SXE5bFJIY1k1d2pZQ3hkLTQwclZUMFB1eGcwb18zMGhuUEYyZVpGcWZFR014QTJoT1liRThKdGlSRzNrOWExVEU3WVZsSFozeno0MWh3OGZmeEZqbXhfWm0xUWxUUW04QXQ5d2tBektpSXFZTHNmUk52ajRDMDdldWZlbFpweVBGRGEtdFFWSlZQSXBNYjF3LUpTUU04ckltUGRucUpldU1R?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRDBLY29DbHcxVjE5UF9Rc0E0ZlRmTjdBRmF2SXE5bFJIY1k1d2pZQ3hkLTQwclZUMFB1eGcwb18zMGhuUEYyZVpGcWZFR014QTJoT1liRThKdGlSRzNrOWExVEU3WVZsSFozeno0MWh3OGZmeEZqbXhfWm0xUWxUUW04QXQ5d2tBektpSXFZTHNmUk52ajRDMDdldWZlbFpweVBGRGEtdFFWSlZQSXBNYjF3LUpTUU04ckltUGRucUpldU1R?oc=5"
+         ],
+         "published": "Mon, 23 Jun 2025 13:33:00 GMT",
+         "publishedParsed": "2025-06-23T13:33:00Z",
+         "guid": "CBMixAFBVV95cUxNRDBLY29DbHcxVjE5UF9Rc0E0ZlRmTjdBRmF2SXE5bFJIY1k1d2pZQ3hkLTQwclZUMFB1eGcwb18zMGhuUEYyZVpGcWZFR014QTJoT1liRThKdGlSRzNrOWExVEU3WVZsSFozeno0MWh3OGZmeEZqbXhfWm0xUWxUUW04QXQ5d2tBektpSXFZTHNmUk52ajRDMDdldWZlbFpweVBGRGEtdFFWSlZQSXBNYjF3LUpTUU04ckltUGRucUpldU1R"
+     },
+     {
+         "title": "Deadly Central NY tornado barreled for over 2 miles with winds up to 105 mph - Syracuse.com",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTHdmUG1QaFdpUkZ6VmFBRDhMY21nWk9oMlBLZE5reVlsNkpwN0Fham13ZjRDU0J6dVdHakN1RXhVXzY1cklVWGJJcnRmdTFzQVFFQkpuMFBlR1RJMk43dzlmRV9pN1RMRlRNWTFjM3lRcUhWNG5QRWNFNFRmclNmblEwcUc1U3NPRHR2dDFzSmJ4WWw5Z2JvbVBmMjVOc1ZLYlhsc0dYeExGTFh6RWFsZ0VvQXFnQ196bzN2TVpwZEM?oc=5\" target=\"_blank\"\u003eDeadly Central NY tornado barreled for over 2 miles with winds up to 105 mph\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eSyracuse.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbk8tQlVLMHF4QXU4SHlEdGk2bGxRRG5kclRKX1FyX3FlZmxWYTNJRnFMTWZPVV9Gd2p3b3UxeWVjTkRlQUxJM0tQLTlOdFhUVXhscDMzRlpjTVNWUEVYTHgyMnctdkhuVThBMnJMUkE5cUNPbks5ZTV1eE1kYTJ6WlVBbkNiU0JaT290akJzV1N4SzhMaEloM2xHWEdlUkJ1YTBmZDVuQnpoaHRSS3NVWUUxeUM3NjliX2dCM1Q3UmxZRWpLSWxLemtLWFVRVWEtYldONEx3?oc=5\" target=\"_blank\"\u003eCommunity Unites After Devastating Tornado in Clark Mills\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWKTV\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPczgzdlFUREJmdXdhblFDS3M3SFludVNfNmVJZV8tZVRmNGUyOU9IbmUzb2ZjSF8ySFcwZEFpS0tuRFZsTWJMTDVXMnNjZURzNFBoN3p0YXFsblRseUtXYXpwWlhiLTMxRWxydWV5Y1ZtQm1saFc3ZDI0T0VRUnNGXzgwc0V0SmJfanJNMEZfdnJFM3V1Zm1LX3pfbVNiQ3UtOUdmS3hFMkEzV0xoWGh4RHowSFlpYmxZaTF0XzVUM2RRaEtVUTVkbkE0M19NQ19vbzVDb1FnejFod1pTYVdLdWJXR0s3dzJEM0w3Rm9uNDczTXFETTIyUFd2WQ?oc=5\" target=\"_blank\"\u003eGoFundMe raises more than $254K for family of twin girls killed in storm\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWSTM\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1jN0tVekZnck1FTFpucGdMT1lIeW5OQUs5RFJ1R3VUejAwenh0N2hpQlZQWjI4UW9LelM5eWxXOUlJT21XOEVxTzFpOFYtZlM2d2ZiWjlVd1pCTUpwSzJGejV5OXlDdzltTW8tWldMX0l3alRDc3BiOUx3?oc=5\" target=\"_blank\"\u003e3 Dead in Central New York After Severe Storms Lash the Area\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOSXVmQV9vemZiNVRqYkdpZ3hKcVF6VExvOUhMU254bW82R0dKT1hoX3l1clRBVm9jSWdDQms4MnlSTmEwVGRXamhlT3NnbUVhMHRSbDRGUkQtNDRfaDJjVlhaaV9FdU9HMGkzeGRLSHNXR0RtcVdrM3VMbEdjUzhsaHgybXVCRTBLc1d3RlQySlAwSy01VGRzTFFvUkRJT3RkYnBrVnRxdW0tRG45c3JIUERodXdVSDJXRXg0WDNSR2JDNjFDVUJB?oc=5\" target=\"_blank\"\u003eFundraisers to support families of those killed by tornado\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eRome Sentinel\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTHdmUG1QaFdpUkZ6VmFBRDhMY21nWk9oMlBLZE5reVlsNkpwN0Fham13ZjRDU0J6dVdHakN1RXhVXzY1cklVWGJJcnRmdTFzQVFFQkpuMFBlR1RJMk43dzlmRV9pN1RMRlRNWTFjM3lRcUhWNG5QRWNFNFRmclNmblEwcUc1U3NPRHR2dDFzSmJ4WWw5Z2JvbVBmMjVOc1ZLYlhsc0dYeExGTFh6RWFsZ0VvQXFnQ196bzN2TVpwZEM?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTHdmUG1QaFdpUkZ6VmFBRDhMY21nWk9oMlBLZE5reVlsNkpwN0Fham13ZjRDU0J6dVdHakN1RXhVXzY1cklVWGJJcnRmdTFzQVFFQkpuMFBlR1RJMk43dzlmRV9pN1RMRlRNWTFjM3lRcUhWNG5QRWNFNFRmclNmblEwcUc1U3NPRHR2dDFzSmJ4WWw5Z2JvbVBmMjVOc1ZLYlhsc0dYeExGTFh6RWFsZ0VvQXFnQ196bzN2TVpwZEM?oc=5"
+         ],
+         "published": "Mon, 23 Jun 2025 10:44:00 GMT",
+         "publishedParsed": "2025-06-23T10:44:00Z",
+         "guid": "CBMiwAFBVV95cUxQTHdmUG1QaFdpUkZ6VmFBRDhMY21nWk9oMlBLZE5reVlsNkpwN0Fham13ZjRDU0J6dVdHakN1RXhVXzY1cklVWGJJcnRmdTFzQVFFQkpuMFBlR1RJMk43dzlmRV9pN1RMRlRNWTFjM3lRcUhWNG5QRWNFNFRmclNmblEwcUc1U3NPRHR2dDFzSmJ4WWw5Z2JvbVBmMjVOc1ZLYlhsc0dYeExGTFh6RWFsZ0VvQXFnQ196bzN2TVpwZEM"
+     },
+     {
+         "title": "CWG Live updates: Extreme heat into midweek; feels as hot as 110 with intense humidity - The Washington Post",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHNYS0hRVE5lY0RiLTVmNFdIN3VQZERJQXJkTzkxejBMS1VVVkxKRDBzS1lwTjVqY0tYWFJWZmlXY2prV0dXemhSVi1ZNzdmVlNfQThpNHVLU25zaDNhbW1MaUhYa1FaMk9DSjNLM0R3SHN1SjNEdkpsdFMybzlQUXhuYTRDNExNYmVqOVRJaG0yYTc0cU5F?oc=5\" target=\"_blank\"\u003eCWG Live updates: Extreme heat into midweek; feels as hot as 110 with intense humidity\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Washington Post\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPLWQ0cDllMi1hczRiVk5WV004bTJLQkFQSzFkY1kycldab2VaelhnUjdQa1B2R3huTGtvaTVsSFdzWGVBZlVBcWJPZi0yUWZWbkx3bTh5SGxiRHFMWEYyM252VnN5UnhVcm1MMngzSXVJbGt0QnhUbTB3bmxtVWpLem5VRWV6VVBDck1SLXZOVE9VRHhTdkVNNVUyeXhXdlRB0gGmAUFVX3lxTFBHSmRUdnBxQV9BMEVzTkFyQ1gweDhYWHlrNkRaWFJabzY5M183VWxXdFJwaUp4SlpaRExMWTU3aFlKODg2X21nbjNzYU5GQmR4M0JwajBxY2ZvWEQ1SzBmbXNsNnRncFF0MWQzakVEeUF5RWZKbDZ5dEt1NXI3Um9vcHc2a1NkQkFiZy1IVkR1ZGJObEU0NDRBcVRMSGU2UHR3dW1tTEE?oc=5\" target=\"_blank\"\u003eDC heat wave 2025: Extreme heat warning in effect with heat index up to 110 degrees\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFOX 5 DC\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPLWl5MzlaT0czTzdDakRwYXRkQldnT2loSlBCaVoyQVByVWE5M2lHQUR4eWswOVR3MWl3UWdBcGVNUFI2QnhRYVlvUU1zdmlYbnFydDRraEFOakxkN0dYOVV5V1RhVklaR19nbGUzazJ1OEpZZm9INi12X1lzeTFQcUE4SQ?oc=5\" target=\"_blank\"\u003eBaltimore’s hottest day of 2025 amid developing heat wave is not ‘uncommon’ for June\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBaltimore Sun\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlUycXAzVl9qYTJOLUd0NHJTWjZlLUFQVFhiYUFXUDhSYUlQeWhUaHptN2R0dGtaM25yWjBaY0VSdkJIdHVDTmVBczZIb2xCbzZhR2s2SFJWN1VIeHkwQVZ2eEtvTEY2UUFBSlA5S3VpUHBKbnpzS1RmVUUxY0RQT2FFbzItUFVUNmVNbmVqNUJWZXdJalJ4MVBfWXRUN2pobVJoRHo4SUVXSkpKd0tKX1h3TFoxZXc?oc=5\" target=\"_blank\"\u003eSummer sizzles in the DC region with temperatures flirting near triple digits\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWTOP\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZHhXVVRQdklPYmNnMUs3ZVQyU0hvTnh0cWNaOVdMaXI3TVRDX3oyNEhCYUx0bm1UcVA2LTJJd2F0NDNFRGV5TzhuYmFSQzlpUjVwTEVSdEVzX0hUOHJjSWk1bWJhOE9VU3J3X0NSZnlXVjdBOE1KOTdnN2llUzBxZWp2UTFuMXJodzVv?oc=5\" target=\"_blank\"\u003eHoward County to offer cooling centers during extreme heat this week\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBaltimore Sun\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHNYS0hRVE5lY0RiLTVmNFdIN3VQZERJQXJkTzkxejBMS1VVVkxKRDBzS1lwTjVqY0tYWFJWZmlXY2prV0dXemhSVi1ZNzdmVlNfQThpNHVLU25zaDNhbW1MaUhYa1FaMk9DSjNLM0R3SHN1SjNEdkpsdFMybzlQUXhuYTRDNExNYmVqOVRJaG0yYTc0cU5F?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHNYS0hRVE5lY0RiLTVmNFdIN3VQZERJQXJkTzkxejBMS1VVVkxKRDBzS1lwTjVqY0tYWFJWZmlXY2prV0dXemhSVi1ZNzdmVlNfQThpNHVLU25zaDNhbW1MaUhYa1FaMk9DSjNLM0R3SHN1SjNEdkpsdFMybzlQUXhuYTRDNExNYmVqOVRJaG0yYTc0cU5F?oc=5"
+         ],
+         "published": "Mon, 23 Jun 2025 18:56:13 GMT",
+         "publishedParsed": "2025-06-23T18:56:13Z",
+         "guid": "CBMilwFBVV95cUxPWHNYS0hRVE5lY0RiLTVmNFdIN3VQZERJQXJkTzkxejBMS1VVVkxKRDBzS1lwTjVqY0tYWFJWZmlXY2prV0dXemhSVi1ZNzdmVlNfQThpNHVLU25zaDNhbW1MaUhYa1FaMk9DSjNLM0R3SHN1SjNEdkpsdFMybzlQUXhuYTRDNExNYmVqOVRJaG0yYTc0cU5F"
+     },
+     {
+         "title": "ICE detains Marine Corp veteran's wife who was still breastfeeding their 3-month-old - NBC News",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM0l0SWxlZlpxaDhwQTNPMkJwYmtoa3hTc2V1NVhPOEtLVXNVYlk5QmRpdHREYTRmMEpIWXc4VWM2b1F5VTJrSk9TeW5EbE1CbU5pb0FaZlRWNEw1YzNqU1JadWlqaXRWcDB3VVBlNmhBN1dXb2JfSi1BejEzVzl2VmQtSC00V1BMMFA0dXB2SEV5UE5HRzdfT1ZmdXlsUUVzcUlCUDN1cC14X1dpYTIxdi1PNTN4bmEw0gFWQVVfeXFMTWxPT1RYRndwWjRpQXpUT3htTUhfa3FBVUo0UzRuRktVal9pZmpXTTZnN0ZYelRfT3RnUm1QYy1YbGJORkN0SFpyY0R0dldjUjVzQWFFbUE?oc=5\" target=\"_blank\"\u003eICE detains Marine Corp veteran's wife who was still breastfeeding their 3-month-old\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNBC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNQi1NMEg2YTdnLTNuY1hOVFBjYU8tTWV2MVV4aVRXT2tTQlFwWWx5TXRCODdUUkdVMWhUT3VUaUZhTFViNVBTTTdDdXE4a3U1NDBJMDdNRndPMndnRW1NNmRUQWxYdGkzSmRzbFhhaUV2SjJLd21kOUlPbzRIUldSNXpSRXZOeTVORzN1cTVJUzlYUmNj0gFzQVVfeXFMTl83RmV2Mk9mUDREenc5M3N4QjV3Y2NWbGllZFJhVnEtT1c4X1I2X3lxRzBGWmZWczNZRlo1cXJQcGlkTXVRdmNhY2ZLdFpWcHNZZ3pBVFg2THRjR1plZjZTdHU1NUV2YzBrT1BXMVdiZk01Yw?oc=5\" target=\"_blank\"\u003eICE detains wife of veteran and mother of newborn after routine green card appointment\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eMSNBC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5saEdzcGFnbVdaNzVhWTNZZVRoaGVfZXVyOXQxMVU4bUkzanhBaV9SMzJhc19QVkpyWndZbW1HLXNhWGstU3l2RjZCVGEwQlVzYkZuclc2OXZlTUgxYU9QRjBfRlpNNkpPNUdHbHd2VXV2NGN0QmfSAXtBVV95cUxPaUNWQ3lTQlVlWTZyZWY2NlVCY20zUDMwdFZsa0VzTkFpTkE5Nnl6SGJ5R0ZWdjV5OEJ4UldvY0RzTHdvVmpacGxRbTZYSGUzSGVKNG96blZ1d0dBMEZkT1J3MjJva3llcDUwejQxSS11M0phb2IzNnFiam8?oc=5\" target=\"_blank\"\u003eICE detained a Marine veteran's wife. He doesn't know how to tell their children where she went.\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCBS News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3BfZ3FuS0RRN0NZblJsaG5MVEJwUkpjMzhfRnl1eFA4OFFSTnZfTVZkVlRROFg5bi12ZjE3b2xDdkZ2LWpfM1lubmdiOWo5Z3RKMFBtTFYzMjhva0l1aEd4bG5ic0tQOW0wc3VwUWppel9aMFlreUhNeFU2SlNzMEZnN3FGWFpyaGVkaXBaRG9LQ29oWnlxSm5lYWl2Szlkb2NObmRfS0VsdWlzMW5CN1htVTlwaDVZVXc?oc=5\" target=\"_blank\"\u003eDevastated Marine Corps Veteran Slams ‘Ploy’ Used in His Wife’s ICE Arrest\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Daily Beast\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHZpWXQ1RzhOTm4yYkdSbFU3bE5kU05lSWdYcXZseFEyWC04R1otS3VzejJzaHE4YV85UG92NUlJa3gyMlF2WW16Y21jSVNlWnM0NGwzdGIxeEpVZ3hjZFJJUXRteVB3U3RtNnNlbF9UZTBaRU9LM05RUnpHRWxiNg?oc=5\" target=\"_blank\"\u003eICE detains Marine Corps veteran's wife and mother of breastfeeding infant\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eYahoo\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM0l0SWxlZlpxaDhwQTNPMkJwYmtoa3hTc2V1NVhPOEtLVXNVYlk5QmRpdHREYTRmMEpIWXc4VWM2b1F5VTJrSk9TeW5EbE1CbU5pb0FaZlRWNEw1YzNqU1JadWlqaXRWcDB3VVBlNmhBN1dXb2JfSi1BejEzVzl2VmQtSC00V1BMMFA0dXB2SEV5UE5HRzdfT1ZmdXlsUUVzcUlCUDN1cC14X1dpYTIxdi1PNTN4bmEw0gFWQVVfeXFMTWxPT1RYRndwWjRpQXpUT3htTUhfa3FBVUo0UzRuRktVal9pZmpXTTZnN0ZYelRfT3RnUm1QYy1YbGJORkN0SFpyY0R0dldjUjVzQWFFbUE?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM0l0SWxlZlpxaDhwQTNPMkJwYmtoa3hTc2V1NVhPOEtLVXNVYlk5QmRpdHREYTRmMEpIWXc4VWM2b1F5VTJrSk9TeW5EbE1CbU5pb0FaZlRWNEw1YzNqU1JadWlqaXRWcDB3VVBlNmhBN1dXb2JfSi1BejEzVzl2VmQtSC00V1BMMFA0dXB2SEV5UE5HRzdfT1ZmdXlsUUVzcUlCUDN1cC14X1dpYTIxdi1PNTN4bmEw0gFWQVVfeXFMTWxPT1RYRndwWjRpQXpUT3htTUhfa3FBVUo0UzRuRktVal9pZmpXTTZnN0ZYelRfT3RnUm1QYy1YbGJORkN0SFpyY0R0dldjUjVzQWFFbUE?oc=5"
+         ],
+         "published": "Mon, 23 Jun 2025 12:11:37 GMT",
+         "publishedParsed": "2025-06-23T12:11:37Z",
+         "guid": "CBMiuAFBVV95cUxQM0l0SWxlZlpxaDhwQTNPMkJwYmtoa3hTc2V1NVhPOEtLVXNVYlk5QmRpdHREYTRmMEpIWXc4VWM2b1F5VTJrSk9TeW5EbE1CbU5pb0FaZlRWNEw1YzNqU1JadWlqaXRWcDB3VVBlNmhBN1dXb2JfSi1BejEzVzl2VmQtSC00V1BMMFA0dXB2SEV5UE5HRzdfT1ZmdXlsUUVzcUlCUDN1cC14X1dpYTIxdi1PNTN4bmEw0gFWQVVfeXFMTWxPT1RYRndwWjRpQXpUT3htTUhfa3FBVUo0UzRuRktVal9pZmpXTTZnN0ZYelRfT3RnUm1QYy1YbGJORkN0SFpyY0R0dldjUjVzQWFFbUE"
+     },
+     {
+         "title": "Vera C. Rubin Observatory first images",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44356890\"\u003eComments\u003c/a\u003e",
+         "link": "https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest",
+         "links": [
+             "https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest"
+         ],
+         "published": "Mon, 23 Jun 2025 15:41:00 +0000",
+         "publishedParsed": "2025-06-23T15:41:00Z"
+     },
+     {
+         "title": "Discord Is Threatening to Shutdown BotGhost",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44359619\"\u003eComments\u003c/a\u003e",
+         "link": "https://update.botghost.com/",
+         "links": [
+             "https://update.botghost.com/"
+         ],
+         "published": "Mon, 23 Jun 2025 20:16:33 +0000",
+         "publishedParsed": "2025-06-23T20:16:33Z"
+     },
+     {
+         "title": "Resurrecting flip phone typing as a Linux driver",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44358944\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/FoxMoss/libt9",
+         "links": [
+             "https://github.com/FoxMoss/libt9"
+         ],
+         "published": "Mon, 23 Jun 2025 19:02:17 +0000",
+         "publishedParsed": "2025-06-23T19:02:17Z"
      },
      {
          "title": "Backyard Coffee and Jazz in Kyoto",
@@ -1128,44 +1369,24 @@
          "publishedParsed": "2025-06-23T14:37:05Z"
      },
      {
-         "title": "Minimal Boolean Formulas",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44327756\"\u003eComments\u003c/a\u003e",
-         "link": "https://research.swtch.com/boolean",
+         "title": "Environmental Impacts of Artificial Intelligence",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44359229\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.greenpeace.de/publikationen/environmental-impacts-of-artificial-intelligence",
          "links": [
-             "https://research.swtch.com/boolean"
+             "https://www.greenpeace.de/publikationen/environmental-impacts-of-artificial-intelligence"
          ],
-         "published": "Fri, 20 Jun 2025 13:53:25 +0000",
-         "publishedParsed": "2025-06-20T13:53:25Z"
+         "published": "Mon, 23 Jun 2025 19:34:22 +0000",
+         "publishedParsed": "2025-06-23T19:34:22Z"
      },
      {
-         "title": "Launch HN: Reducto Studio (YC W24) – Build accurate document pipelines, fast",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44356799\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=44356799",
+         "title": "2025 Iberia Blackout Report",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44358668\"\u003eComments\u003c/a\u003e",
+         "link": "https://media.licdn.com/dms/document/media/v2/D4D1FAQGcyyYYrelkNg/feedshare-document-pdf-analyzed/B4DZeBtlohGsAk-/0/1750227910090?e=1750896000\u0026v=beta\u0026t=uEftse3BPsTjdLQ3DmjoVkadhUGqf7-MfYj_6UnSS28",
          "links": [
-             "https://news.ycombinator.com/item?id=44356799"
+             "https://media.licdn.com/dms/document/media/v2/D4D1FAQGcyyYYrelkNg/feedshare-document-pdf-analyzed/B4DZeBtlohGsAk-/0/1750227910090?e=1750896000\u0026v=beta\u0026t=uEftse3BPsTjdLQ3DmjoVkadhUGqf7-MfYj_6UnSS28"
          ],
-         "published": "Mon, 23 Jun 2025 15:30:33 +0000",
-         "publishedParsed": "2025-06-23T15:30:33Z"
-     },
-     {
-         "title": "uv: An extremely fast Python package and project manager, written in Rust",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44357411\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/astral-sh/uv",
-         "links": [
-             "https://github.com/astral-sh/uv"
-         ],
-         "published": "Mon, 23 Jun 2025 16:27:25 +0000",
-         "publishedParsed": "2025-06-23T16:27:25Z"
-     },
-     {
-         "title": "Rocknix is an immutable Linux distribution for handheld gaming devices",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44328191\"\u003eComments\u003c/a\u003e",
-         "link": "https://rocknix.org/",
-         "links": [
-             "https://rocknix.org/"
-         ],
-         "published": "Fri, 20 Jun 2025 14:44:18 +0000",
-         "publishedParsed": "2025-06-20T14:44:18Z"
+         "published": "Mon, 23 Jun 2025 18:34:36 +0000",
+         "publishedParsed": "2025-06-23T18:34:36Z"
      },
      {
          "title": "Ocarina of Time Randomizer",
@@ -1178,6 +1399,96 @@
          "publishedParsed": "2025-06-21T04:08:34Z"
      },
      {
+         "title": "Minimal Boolean Formulas",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44327756\"\u003eComments\u003c/a\u003e",
+         "link": "https://research.swtch.com/boolean",
+         "links": [
+             "https://research.swtch.com/boolean"
+         ],
+         "published": "Fri, 20 Jun 2025 13:53:25 +0000",
+         "publishedParsed": "2025-06-20T13:53:25Z"
+     },
+     {
+         "title": "I ported pigz from Unix to Windows",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44327204\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.kowalczyk.info/article/4/how-i-ported-pigz-from-unix-to-windows.html",
+         "links": [
+             "https://blog.kowalczyk.info/article/4/how-i-ported-pigz-from-unix-to-windows.html"
+         ],
+         "published": "Fri, 20 Jun 2025 12:47:53 +0000",
+         "publishedParsed": "2025-06-20T12:47:53Z"
+     },
+     {
+         "title": "uv: An extremely fast Python package and project manager, written in Rust",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44357411\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/astral-sh/uv",
+         "links": [
+             "https://github.com/astral-sh/uv"
+         ],
+         "published": "Mon, 23 Jun 2025 16:27:25 +0000",
+         "publishedParsed": "2025-06-23T16:27:25Z"
+     },
+     {
+         "title": "Making TRAMP go Brrrr",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44356346\"\u003eComments\u003c/a\u003e",
+         "link": "https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./",
+         "links": [
+             "https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./"
+         ],
+         "published": "Mon, 23 Jun 2025 14:46:03 +0000",
+         "publishedParsed": "2025-06-23T14:46:03Z"
+     },
+     {
+         "title": "Launch HN: Reducto Studio (YC W24) – Build accurate document pipelines, fast",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44356799\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=44356799",
+         "links": [
+             "https://news.ycombinator.com/item?id=44356799"
+         ],
+         "published": "Mon, 23 Jun 2025 15:30:33 +0000",
+         "publishedParsed": "2025-06-23T15:30:33Z"
+     },
+     {
+         "title": "First methane-powered sea spiders found crawling on the ocean floor",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44338309\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cnn.com/2025/06/17/science/spiders-deep-sea-methane-new-species",
+         "links": [
+             "https://www.cnn.com/2025/06/17/science/spiders-deep-sea-methane-new-species"
+         ],
+         "published": "Sat, 21 Jun 2025 15:29:35 +0000",
+         "publishedParsed": "2025-06-21T15:29:35Z"
+     },
+     {
+         "title": "Rocknix is an immutable Linux distribution for handheld gaming devices",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44328191\"\u003eComments\u003c/a\u003e",
+         "link": "https://rocknix.org/",
+         "links": [
+             "https://rocknix.org/"
+         ],
+         "published": "Fri, 20 Jun 2025 14:44:18 +0000",
+         "publishedParsed": "2025-06-20T14:44:18Z"
+     },
+     {
+         "title": "Judge denies creating \"mass surveillance program\" harming all ChatGPT users",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44358524\"\u003eComments\u003c/a\u003e",
+         "link": "https://arstechnica.com/tech-policy/2025/06/judge-rejects-claim-that-forcing-openai-to-keep-chatgpt-logs-is-mass-surveillance/",
+         "links": [
+             "https://arstechnica.com/tech-policy/2025/06/judge-rejects-claim-that-forcing-openai-to-keep-chatgpt-logs-is-mass-surveillance/"
+         ],
+         "published": "Mon, 23 Jun 2025 18:18:11 +0000",
+         "publishedParsed": "2025-06-23T18:18:11Z"
+     },
+     {
+         "title": "\"The Last of Us Part II\" Seattle Locations Tour",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44356888\"\u003eComments\u003c/a\u003e",
+         "link": "https://docs.google.com/document/d/1gfFoe2xVoS9GzmmcbGUjTVVtss1Jwh4Yi-73C6Trn-I/edit?usp=sharing",
+         "links": [
+             "https://docs.google.com/document/d/1gfFoe2xVoS9GzmmcbGUjTVVtss1Jwh4Yi-73C6Trn-I/edit?usp=sharing"
+         ],
+         "published": "Mon, 23 Jun 2025 15:40:51 +0000",
+         "publishedParsed": "2025-06-23T15:40:51Z"
+     },
+     {
          "title": "New Linux udisks flaw lets attackers get root on major Linux distros",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44325861\"\u003eComments\u003c/a\u003e",
          "link": "https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/",
@@ -1186,16 +1497,6 @@
          ],
          "published": "Fri, 20 Jun 2025 09:05:20 +0000",
          "publishedParsed": "2025-06-20T09:05:20Z"
-     },
-     {
-         "title": "Transparent Ambition: on translucent user interfaces",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44341515\"\u003eComments\u003c/a\u003e",
-         "link": "https://take.surf/2025/06/19/transparent-ambition",
-         "links": [
-             "https://take.surf/2025/06/19/transparent-ambition"
-         ],
-         "published": "Sat, 21 Jun 2025 23:32:47 +0000",
-         "publishedParsed": "2025-06-21T23:32:47Z"
      },
      {
          "title": "I Use My Terminal",
@@ -1208,24 +1509,24 @@
          "publishedParsed": "2025-06-23T15:14:29Z"
      },
      {
-         "title": "Interesting Bits of Postgres Grammar",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44356597\"\u003eComments\u003c/a\u003e",
-         "link": "https://steve.dignam.xyz/2025/06/20/interesting-bits-of-postgres-grammar/",
+         "title": "Transparent Ambition: on translucent user interfaces",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44341515\"\u003eComments\u003c/a\u003e",
+         "link": "https://take.surf/2025/06/19/transparent-ambition",
          "links": [
-             "https://steve.dignam.xyz/2025/06/20/interesting-bits-of-postgres-grammar/"
+             "https://take.surf/2025/06/19/transparent-ambition"
          ],
-         "published": "Mon, 23 Jun 2025 15:09:21 +0000",
-         "publishedParsed": "2025-06-23T15:09:21Z"
+         "published": "Sat, 21 Jun 2025 23:32:47 +0000",
+         "publishedParsed": "2025-06-21T23:32:47Z"
      },
      {
-         "title": "NASA's Voyager Found a 30k-50k Kelvin \"Wall\" at the Edge of Solar System",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44357378\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.iflscience.com/nasas-voyager-spacecraft-found-a-30000-50000-kelvin-wall-at-the-edge-of-our-solar-system-79454",
+         "title": "A deep critique of AI 2027's bad timeline models",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44358829\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.lesswrong.com/posts/PAYfmG2aRbdb74mEp/a-deep-critique-of-ai-2027-s-bad-timeline-models",
          "links": [
-             "https://www.iflscience.com/nasas-voyager-spacecraft-found-a-30000-50000-kelvin-wall-at-the-edge-of-our-solar-system-79454"
+             "https://www.lesswrong.com/posts/PAYfmG2aRbdb74mEp/a-deep-critique-of-ai-2027-s-bad-timeline-models"
          ],
-         "published": "Mon, 23 Jun 2025 16:24:05 +0000",
-         "publishedParsed": "2025-06-23T16:24:05Z"
+         "published": "Mon, 23 Jun 2025 18:51:51 +0000",
+         "publishedParsed": "2025-06-23T18:51:51Z"
      },
      {
          "title": "Cataphract: Medieval-fantasy roleplaying wargame, in the Black-Sea C. 1300",
@@ -1248,44 +1549,24 @@
          "publishedParsed": "2025-06-20T19:46:33Z"
      },
      {
-         "title": "Show HN: Pickaxe – a TypeScript library for building AI agents",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44329102\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/hatchet-dev/pickaxe",
+         "title": "NASA's Voyager Found a 30k-50k Kelvin \"Wall\" at the Edge of Solar System",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44357378\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.iflscience.com/nasas-voyager-spacecraft-found-a-30000-50000-kelvin-wall-at-the-edge-of-our-solar-system-79454",
          "links": [
-             "https://github.com/hatchet-dev/pickaxe"
+             "https://www.iflscience.com/nasas-voyager-spacecraft-found-a-30000-50000-kelvin-wall-at-the-edge-of-our-solar-system-79454"
          ],
-         "published": "Fri, 20 Jun 2025 16:07:51 +0000",
-         "publishedParsed": "2025-06-20T16:07:51Z"
+         "published": "Mon, 23 Jun 2025 16:24:05 +0000",
+         "publishedParsed": "2025-06-23T16:24:05Z"
      },
      {
-         "title": "Judge denies creating \"mass surveillance program\" harming all ChatGPT users",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44358524\"\u003eComments\u003c/a\u003e",
-         "link": "https://arstechnica.com/tech-policy/2025/06/judge-rejects-claim-that-forcing-openai-to-keep-chatgpt-logs-is-mass-surveillance/",
+         "title": "Interesting Bits of Postgres Grammar",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44356597\"\u003eComments\u003c/a\u003e",
+         "link": "https://steve.dignam.xyz/2025/06/20/interesting-bits-of-postgres-grammar/",
          "links": [
-             "https://arstechnica.com/tech-policy/2025/06/judge-rejects-claim-that-forcing-openai-to-keep-chatgpt-logs-is-mass-surveillance/"
+             "https://steve.dignam.xyz/2025/06/20/interesting-bits-of-postgres-grammar/"
          ],
-         "published": "Mon, 23 Jun 2025 18:18:11 +0000",
-         "publishedParsed": "2025-06-23T18:18:11Z"
-     },
-     {
-         "title": "RaptorCast: Designing a Messaging Layer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44353098\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.category.xyz/blogs/raptorcast-designing-a-messaging-layer",
-         "links": [
-             "https://www.category.xyz/blogs/raptorcast-designing-a-messaging-layer"
-         ],
-         "published": "Mon, 23 Jun 2025 06:46:33 +0000",
-         "publishedParsed": "2025-06-23T06:46:33Z"
-     },
-     {
-         "title": "How to store Go pointers from assembly",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44355187\"\u003eComments\u003c/a\u003e",
-         "link": "https://mazzo.li/posts/go-asm-pointers.html",
-         "links": [
-             "https://mazzo.li/posts/go-asm-pointers.html"
-         ],
-         "published": "Mon, 23 Jun 2025 12:40:24 +0000",
-         "publishedParsed": "2025-06-23T12:40:24Z"
+         "published": "Mon, 23 Jun 2025 15:09:21 +0000",
+         "publishedParsed": "2025-06-23T15:09:21Z"
      },
      {
          "title": "Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot",
@@ -1308,93 +1589,23 @@
          "publishedParsed": "2025-06-20T09:56:06Z"
      },
      {
-         "title": "Klein Bottle Amazon Brand Hijacking (2021)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44349525\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.kleinbottle.com/Amazon_Brand_Hijacking.html",
+         "title": "GitHub CEO: manual coding remains key despite AI boom",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44359938\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.techinasia.com/news/github-ceo-manual-coding-remains-key-despite-ai-boom",
          "links": [
-             "https://www.kleinbottle.com/Amazon_Brand_Hijacking.html"
+             "https://www.techinasia.com/news/github-ceo-manual-coding-remains-key-despite-ai-boom"
          ],
-         "published": "Sun, 22 Jun 2025 19:18:41 +0000",
-         "publishedParsed": "2025-06-22T19:18:41Z"
+         "published": "Mon, 23 Jun 2025 20:50:32 +0000",
+         "publishedParsed": "2025-06-23T20:50:32Z"
      },
      {
-         "title": "Show HN: Lego Island Playable in the Browser",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44351028\"\u003eComments\u003c/a\u003e",
-         "link": "https://isle.pizza",
+         "title": "RaptorCast: Designing a Messaging Layer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44353098\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.category.xyz/blogs/raptorcast-designing-a-messaging-layer",
          "links": [
-             "https://isle.pizza"
+             "https://www.category.xyz/blogs/raptorcast-designing-a-messaging-layer"
          ],
-         "published": "Sun, 22 Jun 2025 23:03:00 +0000",
-         "publishedParsed": "2025-06-22T23:03:00Z"
-     },
-     {
-         "title": "Nano-Vllm: lightweight vLLM implementation built from scratch",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44352615\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/GeeeekExplorer/nano-vllm",
-         "links": [
-             "https://github.com/GeeeekExplorer/nano-vllm"
-         ],
-         "published": "Mon, 23 Jun 2025 05:10:44 +0000",
-         "publishedParsed": "2025-06-23T05:10:44Z"
-     },
-     {
-         "title": "The X Window System didn't immediately have X terminals",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44352311\"\u003eComments\u003c/a\u003e",
-         "link": "https://utcc.utoronto.ca/~cks/space/blog/unix/XTerminalsNotImmediate",
-         "links": [
-             "https://utcc.utoronto.ca/~cks/space/blog/unix/XTerminalsNotImmediate"
-         ],
-         "published": "Mon, 23 Jun 2025 03:50:24 +0000",
-         "publishedParsed": "2025-06-23T03:50:24Z"
-     },
-     {
-         "title": "Radio Garden",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44350450\"\u003eComments\u003c/a\u003e",
-         "link": "https://radio.garden/?2025",
-         "links": [
-             "https://radio.garden/?2025"
-         ],
-         "published": "Sun, 22 Jun 2025 21:28:54 +0000",
-         "publishedParsed": "2025-06-22T21:28:54Z"
-     },
-     {
-         "title": "Finding a billion factorials in 60 ms with SIMD",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44351068\"\u003eComments\u003c/a\u003e",
-         "link": "https://codeforces.com/blog/entry/143279",
-         "links": [
-             "https://codeforces.com/blog/entry/143279"
-         ],
-         "published": "Sun, 22 Jun 2025 23:12:50 +0000",
-         "publishedParsed": "2025-06-22T23:12:50Z"
-     },
-     {
-         "title": "Rivulet: An esolang inspired by calligraphy \u0026\u0026 code [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44323528\"\u003eComments\u003c/a\u003e",
-         "link": "https://media.ccc.de/v/gpn23-35-rivulet-an-esolang-inspired-by-calligraphy-and-other-experiments-in-natural-language-code",
-         "links": [
-             "https://media.ccc.de/v/gpn23-35-rivulet-an-esolang-inspired-by-calligraphy-and-other-experiments-in-natural-language-code"
-         ],
-         "published": "Thu, 19 Jun 2025 23:40:36 +0000",
-         "publishedParsed": "2025-06-19T23:40:36Z"
-     },
-     {
-         "title": "Backlash to artificial dye grows as Kraft ditches coloring for Kool-Aid, Jell-O",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44355539\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.washingtonpost.com/business/2025/06/17/kraft-heinz-artificial-food-dyes-us-products/",
-         "links": [
-             "https://www.washingtonpost.com/business/2025/06/17/kraft-heinz-artificial-food-dyes-us-products/"
-         ],
-         "published": "Mon, 23 Jun 2025 13:18:21 +0000",
-         "publishedParsed": "2025-06-23T13:18:21Z"
-     },
-     {
-         "title": "Scroll snapping, state queries, monster hunter, and gamification",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44325673\"\u003eComments\u003c/a\u003e",
-         "link": "https://utilitybend.com/blog/the-customizable-select-part-four-scroll-snapping-state-queries-monster-hunter-and-gamification",
-         "links": [
-             "https://utilitybend.com/blog/the-customizable-select-part-four-scroll-snapping-state-queries-monster-hunter-and-gamification"
-         ],
-         "published": "Fri, 20 Jun 2025 08:21:04 +0000",
-         "publishedParsed": "2025-06-20T08:21:04Z"
+         "published": "Mon, 23 Jun 2025 06:46:33 +0000",
+         "publishedParsed": "2025-06-23T06:46:33Z"
      }
  ]
