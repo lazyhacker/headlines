@@ -1,15 +1,5 @@
 [
      {
-         "title": "QEMU: Define policy forbidding use of AI code generators",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44382752\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048",
-         "links": [
-             "https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048"
-         ],
-         "published": "Wed, 25 Jun 2025 23:26:55 +0000",
-         "publishedParsed": "2025-06-25T23:26:55Z"
-     },
-     {
          "title": "A new pyramid-like shape always lands the same side up",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44381297\"\u003eComments\u003c/a\u003e",
          "link": "https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/",
@@ -18,6 +8,16 @@
          ],
          "published": "Wed, 25 Jun 2025 20:01:07 +0000",
          "publishedParsed": "2025-06-25T20:01:07Z"
+     },
+     {
+         "title": "Puerto Rico's Solar Microgrids Beat Blackout",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44382834\"\u003eComments\u003c/a\u003e",
+         "link": "https://spectrum.ieee.org/puerto-rico-solar-microgrids",
+         "links": [
+             "https://spectrum.ieee.org/puerto-rico-solar-microgrids"
+         ],
+         "published": "Wed, 25 Jun 2025 23:41:16 +0000",
+         "publishedParsed": "2025-06-25T23:41:16Z"
      },
      {
          "title": "Gemini CLI",
@@ -60,6 +60,16 @@
          "publishedParsed": "2025-06-25T13:17:25Z"
      },
      {
+         "title": "Libxml2's \"no security embargoes\" policy",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44381093\"\u003eComments\u003c/a\u003e",
+         "link": "https://lwn.net/SubscriberLink/1025971/73f269ad3695186d/",
+         "links": [
+             "https://lwn.net/SubscriberLink/1025971/73f269ad3695186d/"
+         ],
+         "published": "Wed, 25 Jun 2025 19:36:55 +0000",
+         "publishedParsed": "2025-06-25T19:36:55Z"
+     },
+     {
          "title": "What Problems to Solve (1966)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44379606\"\u003eComments\u003c/a\u003e",
          "link": "http://genius.cat-v.org/richard-feynman/writtings/letters/problems",
@@ -68,16 +78,6 @@
          ],
          "published": "Wed, 25 Jun 2025 17:08:44 +0000",
          "publishedParsed": "2025-06-25T17:08:44Z"
-     },
-     {
-         "title": "The Offline Club",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44381168\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theoffline-club.com",
-         "links": [
-             "https://www.theoffline-club.com"
-         ],
-         "published": "Wed, 25 Jun 2025 19:42:57 +0000",
-         "publishedParsed": "2025-06-25T19:42:57Z"
      },
      {
          "title": "Getting ready to issue IP address certificates",
@@ -90,14 +90,14 @@
          "publishedParsed": "2025-06-25T16:21:45Z"
      },
      {
-         "title": "Writing a basic Linux device driver when you know nothing about Linux drivers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44345681\"\u003eComments\u003c/a\u003e",
-         "link": "https://crescentro.se/posts/writing-drivers/",
+         "title": "The Art of Hanakami, or Flower-Petal Folding",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44350655\"\u003eComments\u003c/a\u003e",
+         "link": "https://origamiusa.org/thefold/article/art-hanakami-or-flower-petal-folding",
          "links": [
-             "https://crescentro.se/posts/writing-drivers/"
+             "https://origamiusa.org/thefold/article/art-hanakami-or-flower-petal-folding"
          ],
-         "published": "Sun, 22 Jun 2025 10:29:42 +0000",
-         "publishedParsed": "2025-06-22T10:29:42Z"
+         "published": "Sun, 22 Jun 2025 22:00:00 +0000",
+         "publishedParsed": "2025-06-22T22:00:00Z"
      },
      {
          "title": "Build and Host AI-Powered Apps with Claude – No Deployment Needed",
@@ -108,6 +108,56 @@
          ],
          "published": "Wed, 25 Jun 2025 17:14:35 +0000",
          "publishedParsed": "2025-06-25T17:14:35Z"
+     },
+     {
+         "title": "The Offline Club",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44381168\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theoffline-club.com",
+         "links": [
+             "https://www.theoffline-club.com"
+         ],
+         "published": "Wed, 25 Jun 2025 19:42:57 +0000",
+         "publishedParsed": "2025-06-25T19:42:57Z"
+     },
+     {
+         "title": "Better Auth, by a self-taught Ethiopian dev, raises $5M from Peak XV, YC",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44380185\"\u003eComments\u003c/a\u003e",
+         "link": "https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/",
+         "links": [
+             "https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/"
+         ],
+         "published": "Wed, 25 Jun 2025 18:07:02 +0000",
+         "publishedParsed": "2025-06-25T18:07:02Z"
+     },
+     {
+         "title": "Introduction to error handling strategies in Go",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44355003\"\u003eComments\u003c/a\u003e",
+         "link": "https://go-monk.beehiiv.com/p/error-handling",
+         "links": [
+             "https://go-monk.beehiiv.com/p/error-handling"
+         ],
+         "published": "Mon, 23 Jun 2025 12:16:30 +0000",
+         "publishedParsed": "2025-06-23T12:16:30Z"
+     },
+     {
+         "title": "Writing a basic Linux device driver when you know nothing about Linux drivers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44345681\"\u003eComments\u003c/a\u003e",
+         "link": "https://crescentro.se/posts/writing-drivers/",
+         "links": [
+             "https://crescentro.se/posts/writing-drivers/"
+         ],
+         "published": "Sun, 22 Jun 2025 10:29:42 +0000",
+         "publishedParsed": "2025-06-22T10:29:42Z"
+     },
+     {
+         "title": "Ambient Garden",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44358148\"\u003eComments\u003c/a\u003e",
+         "link": "https://ambient.garden",
+         "links": [
+             "https://ambient.garden"
+         ],
+         "published": "Mon, 23 Jun 2025 17:38:08 +0000",
+         "publishedParsed": "2025-06-23T17:38:08Z"
      },
      {
          "title": "LM Studio is now an MCP Host",
@@ -130,34 +180,14 @@
          "publishedParsed": "2025-06-22T14:53:59Z"
      },
      {
-         "title": "Libxml2's \"no security embargoes\" policy",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44381093\"\u003eComments\u003c/a\u003e",
-         "link": "https://lwn.net/SubscriberLink/1025971/73f269ad3695186d/",
+         "title": "Build a Sentence-Level Text-to-Speech Reader in JavaScript",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44354643\"\u003eComments\u003c/a\u003e",
+         "link": "https://jsdev.space/tts-sentence-reader/",
          "links": [
-             "https://lwn.net/SubscriberLink/1025971/73f269ad3695186d/"
+             "https://jsdev.space/tts-sentence-reader/"
          ],
-         "published": "Wed, 25 Jun 2025 19:36:55 +0000",
-         "publishedParsed": "2025-06-25T19:36:55Z"
-     },
-     {
-         "title": "Ambient Garden",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44358148\"\u003eComments\u003c/a\u003e",
-         "link": "https://ambient.garden",
-         "links": [
-             "https://ambient.garden"
-         ],
-         "published": "Mon, 23 Jun 2025 17:38:08 +0000",
-         "publishedParsed": "2025-06-23T17:38:08Z"
-     },
-     {
-         "title": "The Art of Hanakami, or Flower-Petal Folding",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44350655\"\u003eComments\u003c/a\u003e",
-         "link": "https://origamiusa.org/thefold/article/art-hanakami-or-flower-petal-folding",
-         "links": [
-             "https://origamiusa.org/thefold/article/art-hanakami-or-flower-petal-folding"
-         ],
-         "published": "Sun, 22 Jun 2025 22:00:00 +0000",
-         "publishedParsed": "2025-06-22T22:00:00Z"
+         "published": "Mon, 23 Jun 2025 11:34:26 +0000",
+         "publishedParsed": "2025-06-23T11:34:26Z"
      },
      {
          "title": "Iroh: A library to establish direct connection between peers",
@@ -168,6 +198,16 @@
          ],
          "published": "Wed, 25 Jun 2025 16:34:51 +0000",
          "publishedParsed": "2025-06-25T16:34:51Z"
+     },
+     {
+         "title": "Microsoft Dependency Has Risks",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44381358\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.miloslavhomer.cz/p/microsoft-dependency-has-risks",
+         "links": [
+             "https://blog.miloslavhomer.cz/p/microsoft-dependency-has-risks"
+         ],
+         "published": "Wed, 25 Jun 2025 20:08:26 +0000",
+         "publishedParsed": "2025-06-25T20:08:26Z"
      },
      {
          "title": "Web Embeddable Common Lisp",
@@ -188,16 +228,6 @@
          ],
          "published": "Wed, 25 Jun 2025 16:35:56 +0000",
          "publishedParsed": "2025-06-25T16:35:56Z"
-     },
-     {
-         "title": "Edward Burra's tour of the 20th century",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44350495\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.newstatesman.com/culture/2025/06/the-english-painters-relish-for-subcultures-took-him-across-genres-and-continents",
-         "links": [
-             "https://www.newstatesman.com/culture/2025/06/the-english-painters-relish-for-subcultures-took-him-across-genres-and-continents"
-         ],
-         "published": "Sun, 22 Jun 2025 21:36:06 +0000",
-         "publishedParsed": "2025-06-22T21:36:06Z"
      },
      {
          "title": "Games run faster on SteamOS than Windows 11, Ars testing finds",
@@ -238,35 +268,5 @@
          ],
          "published": "Wed, 25 Jun 2025 15:00:00 +0000",
          "publishedParsed": "2025-06-25T15:00:00Z"
-     },
-     {
-         "title": "Is Lovable getting monetization wrong?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44377495\"\u003eComments\u003c/a\u003e",
-         "link": "https://getlago.substack.com/p/lovable-makes-60m-in-6-monthsbut",
-         "links": [
-             "https://getlago.substack.com/p/lovable-makes-60m-in-6-monthsbut"
-         ],
-         "published": "Wed, 25 Jun 2025 14:05:13 +0000",
-         "publishedParsed": "2025-06-25T14:05:13Z"
-     },
-     {
-         "title": "IBM's Dmitry Krotov wants to crack the 'physics' of memory",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44382367\"\u003eComments\u003c/a\u003e",
-         "link": "https://research.ibm.com/blog/dmitry-krotov-ai-physics",
-         "links": [
-             "https://research.ibm.com/blog/dmitry-krotov-ai-physics"
-         ],
-         "published": "Wed, 25 Jun 2025 22:31:58 +0000",
-         "publishedParsed": "2025-06-25T22:31:58Z"
-     },
-     {
-         "title": "LLM Hallucinations in Practical Code Generation",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44353241\"\u003eComments\u003c/a\u003e",
-         "link": "https://dl.acm.org/doi/10.1145/3728894",
-         "links": [
-             "https://dl.acm.org/doi/10.1145/3728894"
-         ],
-         "published": "Mon, 23 Jun 2025 07:14:09 +0000",
-         "publishedParsed": "2025-06-23T07:14:09Z"
      }
  ]
