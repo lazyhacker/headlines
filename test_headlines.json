@@ -1,5 +1,15 @@
 [
      {
+         "title": "Error handling in Rust",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44416157\"\u003eComments\u003c/a\u003e",
+         "link": "https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html",
+         "links": [
+             "https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html"
+         ],
+         "published": "Sun, 29 Jun 2025 20:28:25 +0000",
+         "publishedParsed": "2025-06-29T20:28:25Z"
+     },
+     {
          "title": "I made my VM think it has a CPU fan",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44413185\"\u003eComments\u003c/a\u003e",
          "link": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html",
@@ -10,34 +20,24 @@
          "publishedParsed": "2025-06-29T13:55:18Z"
      },
      {
-         "title": "Error Handling in Rust",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44416157\"\u003eComments\u003c/a\u003e",
-         "link": "https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html",
+         "title": "Ask HN: What Are You Working On? (June 2025)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44416093\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=44416093",
          "links": [
-             "https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html"
+             "https://news.ycombinator.com/item?id=44416093"
          ],
-         "published": "Sun, 29 Jun 2025 20:28:25 +0000",
-         "publishedParsed": "2025-06-29T20:28:25Z"
+         "published": "Sun, 29 Jun 2025 20:21:28 +0000",
+         "publishedParsed": "2025-06-29T20:21:28Z"
      },
      {
-         "title": "Personal care products disrupt the human oxidation field",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44414719\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.science.org/doi/10.1126/sciadv.ads7908",
+         "title": "Reverse Engineering the Microchip CLB",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44416589\"\u003eComments\u003c/a\u003e",
+         "link": "http://mcp-clb.markomo.me/",
          "links": [
-             "https://www.science.org/doi/10.1126/sciadv.ads7908"
+             "http://mcp-clb.markomo.me/"
          ],
-         "published": "Sun, 29 Jun 2025 17:20:16 +0000",
-         "publishedParsed": "2025-06-29T17:20:16Z"
-     },
-     {
-         "title": "4-10x faster in-process pub/sub for Go",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44413809\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/kelindar/event",
-         "links": [
-             "https://github.com/kelindar/event"
-         ],
-         "published": "Sun, 29 Jun 2025 15:19:19 +0000",
-         "publishedParsed": "2025-06-29T15:19:19Z"
+         "published": "Sun, 29 Jun 2025 21:30:02 +0000",
+         "publishedParsed": "2025-06-29T21:30:02Z"
      },
      {
          "title": "Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok",
@@ -50,144 +50,24 @@
          "publishedParsed": "2025-06-29T11:24:17Z"
      },
      {
-         "title": "Most ints are not floats",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44397809\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.johndcook.com/blog/2025/06/27/most-ints-are-not-floats/",
+         "title": "4-10x faster in-process pub/sub for Go",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44413809\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/kelindar/event",
          "links": [
-             "https://www.johndcook.com/blog/2025/06/27/most-ints-are-not-floats/"
+             "https://github.com/kelindar/event"
          ],
-         "published": "Fri, 27 Jun 2025 15:57:45 +0000",
-         "publishedParsed": "2025-06-27T15:57:45Z"
+         "published": "Sun, 29 Jun 2025 15:19:19 +0000",
+         "publishedParsed": "2025-06-29T15:19:19Z"
      },
      {
-         "title": "Bloom Filters by Example",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44412370\"\u003eComments\u003c/a\u003e",
-         "link": "https://llimllib.github.io/bloomfilter-tutorial/",
+         "title": "Modelling API rate limits as diophantine inequalities",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44393998\"\u003eComments\u003c/a\u003e",
+         "link": "https://vivekn.dev/blog/rate-limit-diophantine",
          "links": [
-             "https://llimllib.github.io/bloomfilter-tutorial/"
+             "https://vivekn.dev/blog/rate-limit-diophantine"
          ],
-         "published": "Sun, 29 Jun 2025 11:56:09 +0000",
-         "publishedParsed": "2025-06-29T11:56:09Z"
-     },
-     {
-         "title": "Using the Internet without IPv4 connectivity",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44411273\"\u003eComments\u003c/a\u003e",
-         "link": "https://jamesmcm.github.io/blog/no-ipv4/",
-         "links": [
-             "https://jamesmcm.github.io/blog/no-ipv4/"
-         ],
-         "published": "Sun, 29 Jun 2025 08:23:40 +0000",
-         "publishedParsed": "2025-06-29T08:23:40Z"
-     },
-     {
-         "title": "Many ransomware strains will abort if they detect a Russian keyboard installed",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44415233\"\u003eComments\u003c/a\u003e",
-         "link": "https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/",
-         "links": [
-             "https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/"
-         ],
-         "published": "Sun, 29 Jun 2025 18:29:55 +0000",
-         "publishedParsed": "2025-06-29T18:29:55Z"
-     },
-     {
-         "title": "The Medley Interlisp Project: Reviving a Historical Software System [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44413574\"\u003eComments\u003c/a\u003e",
-         "link": "https://interlisp.org/documentation/young-ccece2025.pdf",
-         "links": [
-             "https://interlisp.org/documentation/young-ccece2025.pdf"
-         ],
-         "published": "Sun, 29 Jun 2025 14:45:10 +0000",
-         "publishedParsed": "2025-06-29T14:45:10Z"
-     },
-     {
-         "title": "Why Go Rocks for Building a Lua Interpreter",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44384425\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/",
-         "links": [
-             "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/"
-         ],
-         "published": "Thu, 26 Jun 2025 05:28:01 +0000",
-         "publishedParsed": "2025-06-26T05:28:01Z"
-     },
-     {
-         "title": "Tools I love: mise(-en-place)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44414987\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/",
-         "links": [
-             "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/"
-         ],
-         "published": "Sun, 29 Jun 2025 17:56:21 +0000",
-         "publishedParsed": "2025-06-29T17:56:21Z"
-     },
-     {
-         "title": "Show HN: A tool to benchmark LLM APIs (OpenAI, Claude, local/self-hosted)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44413921\"\u003eComments\u003c/a\u003e",
-         "link": "https://llmapitest.com/",
-         "links": [
-             "https://llmapitest.com/"
-         ],
-         "published": "Sun, 29 Jun 2025 15:33:57 +0000",
-         "publishedParsed": "2025-06-29T15:33:57Z"
-     },
-     {
-         "title": "The Unsustainability of Moore's Law",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44410900\"\u003eComments\u003c/a\u003e",
-         "link": "https://bzolang.blog/p/the-unsustainability-of-moores-law",
-         "links": [
-             "https://bzolang.blog/p/the-unsustainability-of-moores-law"
-         ],
-         "published": "Sun, 29 Jun 2025 07:07:03 +0000",
-         "publishedParsed": "2025-06-29T07:07:03Z"
-     },
-     {
-         "title": "Show HN: Sharpe Ratio Calculation Tool",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44414848\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.fundratios.com/",
-         "links": [
-             "https://www.fundratios.com/"
-         ],
-         "published": "Sun, 29 Jun 2025 17:38:31 +0000",
-         "publishedParsed": "2025-06-29T17:38:31Z"
-     },
-     {
-         "title": "Show HN: Rust ↦ WASM, K-Means Color Quantization Crate for Image-to-Pixel-Art",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44387923\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/gametorch/image_to_pixel_art_wasm",
-         "links": [
-             "https://github.com/gametorch/image_to_pixel_art_wasm"
-         ],
-         "published": "Thu, 26 Jun 2025 14:40:55 +0000",
-         "publishedParsed": "2025-06-26T14:40:55Z"
-     },
-     {
-         "title": "Solving `Passport Application` with Haskell",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44408872\"\u003eComments\u003c/a\u003e",
-         "link": "https://jameshaydon.github.io/passport/",
-         "links": [
-             "https://jameshaydon.github.io/passport/"
-         ],
-         "published": "Sat, 28 Jun 2025 23:01:15 +0000",
-         "publishedParsed": "2025-06-28T23:01:15Z"
-     },
-     {
-         "title": "Brad Woods Digital Garden",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44393920\"\u003eComments\u003c/a\u003e",
-         "link": "https://garden.bradwoods.io",
-         "links": [
-             "https://garden.bradwoods.io"
-         ],
-         "published": "Fri, 27 Jun 2025 05:27:25 +0000",
-         "publishedParsed": "2025-06-27T05:27:25Z"
-     },
-     {
-         "title": "Implementing fast TCP fingerprinting with eBPF",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44412080\"\u003eComments\u003c/a\u003e",
-         "link": "https://halb.it/posts/ebpf-fingerprinting-1/",
-         "links": [
-             "https://halb.it/posts/ebpf-fingerprinting-1/"
-         ],
-         "published": "Sun, 29 Jun 2025 10:59:26 +0000",
-         "publishedParsed": "2025-06-29T10:59:26Z"
+         "published": "Fri, 27 Jun 2025 05:48:22 +0000",
+         "publishedParsed": "2025-06-27T05:48:22Z"
      },
      {
          "title": "Revisiting Knuth's \"Premature Optimization\" Paper",
@@ -200,6 +80,186 @@
          "publishedParsed": "2025-06-26T11:17:12Z"
      },
      {
+         "title": "Many ransomware strains will abort if they detect a Russian keyboard installed (2021)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44415233\"\u003eComments\u003c/a\u003e",
+         "link": "https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/",
+         "links": [
+             "https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/"
+         ],
+         "published": "Sun, 29 Jun 2025 18:29:55 +0000",
+         "publishedParsed": "2025-06-29T18:29:55Z"
+     },
+     {
+         "title": "Bloom Filters by Example",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44412370\"\u003eComments\u003c/a\u003e",
+         "link": "https://llimllib.github.io/bloomfilter-tutorial/",
+         "links": [
+             "https://llimllib.github.io/bloomfilter-tutorial/"
+         ],
+         "published": "Sun, 29 Jun 2025 11:56:09 +0000",
+         "publishedParsed": "2025-06-29T11:56:09Z"
+     },
+     {
+         "title": "Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44416761\"\u003eComments\u003c/a\u003e",
+         "link": "https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security",
+         "links": [
+             "https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security"
+         ],
+         "published": "Sun, 29 Jun 2025 21:48:12 +0000",
+         "publishedParsed": "2025-06-29T21:48:12Z"
+     },
+     {
+         "title": "Honda Joins Space Race by Launching Successful Reusable Rocket",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44416805\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.forbes.com/sites/peterlyon/2025/06/22/as-spacex-explodes-again-honda-successfully-launches-reusable-rocket/",
+         "links": [
+             "https://www.forbes.com/sites/peterlyon/2025/06/22/as-spacex-explodes-again-honda-successfully-launches-reusable-rocket/"
+         ],
+         "published": "Sun, 29 Jun 2025 21:53:59 +0000",
+         "publishedParsed": "2025-06-29T21:53:59Z"
+     },
+     {
+         "title": "Using the Internet without IPv4 connectivity",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44411273\"\u003eComments\u003c/a\u003e",
+         "link": "https://jamesmcm.github.io/blog/no-ipv4/",
+         "links": [
+             "https://jamesmcm.github.io/blog/no-ipv4/"
+         ],
+         "published": "Sun, 29 Jun 2025 08:23:40 +0000",
+         "publishedParsed": "2025-06-29T08:23:40Z"
+     },
+     {
+         "title": "The Medley Interlisp Project: Reviving a Historical Software System [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44413574\"\u003eComments\u003c/a\u003e",
+         "link": "https://interlisp.org/documentation/young-ccece2025.pdf",
+         "links": [
+             "https://interlisp.org/documentation/young-ccece2025.pdf"
+         ],
+         "published": "Sun, 29 Jun 2025 14:45:10 +0000",
+         "publishedParsed": "2025-06-29T14:45:10Z"
+     },
+     {
+         "title": "Loss of key US satellite data could send hurricane forecasting back 'decades'",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44414853\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate",
+         "links": [
+             "https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate"
+         ],
+         "published": "Sun, 29 Jun 2025 17:39:08 +0000",
+         "publishedParsed": "2025-06-29T17:39:08Z"
+     },
+     {
+         "title": "Personal care products disrupt the human oxidation field",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44414719\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.science.org/doi/10.1126/sciadv.ads7908",
+         "links": [
+             "https://www.science.org/doi/10.1126/sciadv.ads7908"
+         ],
+         "published": "Sun, 29 Jun 2025 17:20:16 +0000",
+         "publishedParsed": "2025-06-29T17:20:16Z"
+     },
+     {
+         "title": "ZeroRISC Gets $10M Funding, Says Open-Source Silicon Security Inevitable",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44416304\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.eetimes.com/zerorisc-gets-10-million-funding-says-open-source-silicon-security-inevitable/",
+         "links": [
+             "https://www.eetimes.com/zerorisc-gets-10-million-funding-says-open-source-silicon-security-inevitable/"
+         ],
+         "published": "Sun, 29 Jun 2025 20:48:00 +0000",
+         "publishedParsed": "2025-06-29T20:48:00Z"
+     },
+     {
+         "title": "Why Go Rocks for Building a Lua Interpreter",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44384425\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/",
+         "links": [
+             "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/"
+         ],
+         "published": "Thu, 26 Jun 2025 05:28:01 +0000",
+         "publishedParsed": "2025-06-26T05:28:01Z"
+     },
+     {
+         "title": "Show HN: Rust -\u003e WASM, K-Means Color Quantization Crate for Image-to-Pixel-Art",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44387923\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/gametorch/image_to_pixel_art_wasm",
+         "links": [
+             "https://github.com/gametorch/image_to_pixel_art_wasm"
+         ],
+         "published": "Thu, 26 Jun 2025 14:40:55 +0000",
+         "publishedParsed": "2025-06-26T14:40:55Z"
+     },
+     {
+         "title": "Show HN: A tool to benchmark LLM APIs (OpenAI, Claude, local/self-hosted)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44413921\"\u003eComments\u003c/a\u003e",
+         "link": "https://llmapitest.com/",
+         "links": [
+             "https://llmapitest.com/"
+         ],
+         "published": "Sun, 29 Jun 2025 15:33:57 +0000",
+         "publishedParsed": "2025-06-29T15:33:57Z"
+     },
+     {
+         "title": "Show HN: Sharpe Ratio Calculation Tool",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44414848\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.fundratios.com/",
+         "links": [
+             "https://www.fundratios.com/"
+         ],
+         "published": "Sun, 29 Jun 2025 17:38:31 +0000",
+         "publishedParsed": "2025-06-29T17:38:31Z"
+     },
+     {
+         "title": "Show HN: Summle – A little maths Game",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44386132\"\u003eComments\u003c/a\u003e",
+         "link": "https://summle.net",
+         "links": [
+             "https://summle.net"
+         ],
+         "published": "Thu, 26 Jun 2025 10:58:38 +0000",
+         "publishedParsed": "2025-06-26T10:58:38Z"
+     },
+     {
+         "title": "More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44411069\"\u003eComments\u003c/a\u003e",
+         "link": "https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad",
+         "links": [
+             "https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad"
+         ],
+         "published": "Sun, 29 Jun 2025 07:45:56 +0000",
+         "publishedParsed": "2025-06-29T07:45:56Z"
+     },
+     {
+         "title": "Brad Woods Digital Garden",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44393920\"\u003eComments\u003c/a\u003e",
+         "link": "https://garden.bradwoods.io",
+         "links": [
+             "https://garden.bradwoods.io"
+         ],
+         "published": "Fri, 27 Jun 2025 05:27:25 +0000",
+         "publishedParsed": "2025-06-27T05:27:25Z"
+     },
+     {
+         "title": "Unhooking from Amazon Ebooks",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44415388\"\u003eComments\u003c/a\u003e",
+         "link": "https://remysharp.com/2025/06/29/unhooking-from-amazon-ebooks",
+         "links": [
+             "https://remysharp.com/2025/06/29/unhooking-from-amazon-ebooks"
+         ],
+         "published": "Sun, 29 Jun 2025 18:52:02 +0000",
+         "publishedParsed": "2025-06-29T18:52:02Z"
+     },
+     {
+         "title": "Solving `Passport Application` with Haskell",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44408872\"\u003eComments\u003c/a\u003e",
+         "link": "https://jameshaydon.github.io/passport/",
+         "links": [
+             "https://jameshaydon.github.io/passport/"
+         ],
+         "published": "Sat, 28 Jun 2025 23:01:15 +0000",
+         "publishedParsed": "2025-06-28T23:01:15Z"
+     },
+     {
          "title": "Scientists Retrace 30k-Year-Old Sea Voyage, in a Hollowed-Out Log",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44382356\"\u003eComments\u003c/a\u003e",
          "link": "https://www.nytimes.com/2025/06/25/science/anthropology-ocean-migration-japan.html",
@@ -210,63 +270,33 @@
          "publishedParsed": "2025-06-25T22:29:29Z"
      },
      {
-         "title": "Schizophrenia is the price we pay for minds poised near the edge of a cliff",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44408286\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay",
+         "title": "Implementing fast TCP fingerprinting with eBPF",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44412080\"\u003eComments\u003c/a\u003e",
+         "link": "https://halb.it/posts/ebpf-fingerprinting-1/",
          "links": [
-             "https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay"
+             "https://halb.it/posts/ebpf-fingerprinting-1/"
          ],
-         "published": "Sat, 28 Jun 2025 21:22:14 +0000",
-         "publishedParsed": "2025-06-28T21:22:14Z"
+         "published": "Sun, 29 Jun 2025 10:59:26 +0000",
+         "publishedParsed": "2025-06-29T10:59:26Z"
      },
      {
-         "title": "Sequence and first differences together list all positive numbers exactly once",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44375075\"\u003eComments\u003c/a\u003e",
-         "link": "https://oeis.org/A005228",
+         "title": "Tools I love: mise(-en-place)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44414987\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/",
          "links": [
-             "https://oeis.org/A005228"
+             "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/"
          ],
-         "published": "Wed, 25 Jun 2025 08:59:12 +0000",
-         "publishedParsed": "2025-06-25T08:59:12Z"
+         "published": "Sun, 29 Jun 2025 17:56:21 +0000",
+         "publishedParsed": "2025-06-29T17:56:21Z"
      },
      {
-         "title": "The Death of the Middle-Class Musician",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44408552\"\u003eComments\u003c/a\u003e",
-         "link": "https://thewalrus.ca/the-death-of-the-middle-class-musician/",
+         "title": "China Dominates 44% of Visible Fishing Activity Worldwide",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44416710\"\u003eComments\u003c/a\u003e",
+         "link": "https://oceana.org/press-releases/china-dominates-44-of-visible-fishing-activity-worldwide/",
          "links": [
-             "https://thewalrus.ca/the-death-of-the-middle-class-musician/"
+             "https://oceana.org/press-releases/china-dominates-44-of-visible-fishing-activity-worldwide/"
          ],
-         "published": "Sat, 28 Jun 2025 22:06:31 +0000",
-         "publishedParsed": "2025-06-28T22:06:31Z"
-     },
-     {
-         "title": "Europe approves first saliva-based contraceptive – no pill required",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44413069\"\u003eComments\u003c/a\u003e",
-         "link": "https://thenextweb.com/news/europe-approves-first-saliva-based-contraceptive-no-pill-required",
-         "links": [
-             "https://thenextweb.com/news/europe-approves-first-saliva-based-contraceptive-no-pill-required"
-         ],
-         "published": "Sun, 29 Jun 2025 13:39:52 +0000",
-         "publishedParsed": "2025-06-29T13:39:52Z"
-     },
-     {
-         "title": "Engineered Addictions",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44405057\"\u003eComments\u003c/a\u003e",
-         "link": "https://masonyarbrough.substack.com/p/engineered-addictions",
-         "links": [
-             "https://masonyarbrough.substack.com/p/engineered-addictions"
-         ],
-         "published": "Sat, 28 Jun 2025 14:45:43 +0000",
-         "publishedParsed": "2025-06-28T14:45:43Z"
-     },
-     {
-         "title": "Improving River Simulation",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44382419\"\u003eComments\u003c/a\u003e",
-         "link": "https://undiscoveredworlds.blogspot.com/2025/04/improving-river-simulation.html",
-         "links": [
-             "https://undiscoveredworlds.blogspot.com/2025/04/improving-river-simulation.html"
-         ],
-         "published": "Wed, 25 Jun 2025 22:37:53 +0000",
-         "publishedParsed": "2025-06-25T22:37:53Z"
+         "published": "Sun, 29 Jun 2025 21:43:50 +0000",
+         "publishedParsed": "2025-06-29T21:43:50Z"
      }
  ]
