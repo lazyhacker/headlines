@@ -1,6 +1,6 @@
 [
      {
-         "title": "Using the Internet without IPv4 connectivity",
+         "title": "Using the internet without IPv4 connectivity",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44411273\"\u003eComments\u003c/a\u003e",
          "link": "https://jamesmcm.github.io/blog/no-ipv4/",
          "links": [
@@ -20,6 +20,16 @@
          "publishedParsed": "2025-06-29T07:07:03Z"
      },
      {
+         "title": "Did Lead Poisoning Create a Generation of Serial Killers?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44411577\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.newyorker.com/books/under-review/did-lead-poisoning-create-a-generation-of-serial-killers",
+         "links": [
+             "https://www.newyorker.com/books/under-review/did-lead-poisoning-create-a-generation-of-serial-killers"
+         ],
+         "published": "Sun, 29 Jun 2025 09:28:57 +0000",
+         "publishedParsed": "2025-06-29T09:28:57Z"
+     },
+     {
          "title": "JavaScript Trademark Update",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44407139\"\u003eComments\u003c/a\u003e",
          "link": "https://deno.com/blog/deno-v-oracle4",
@@ -28,46 +38,6 @@
          ],
          "published": "Sat, 28 Jun 2025 18:52:00 +0000",
          "publishedParsed": "2025-06-28T18:52:00Z"
-     },
-     {
-         "title": "Brave creates new TLD on the blockchain",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44410616\"\u003eComments\u003c/a\u003e",
-         "link": "https://brave.com/blog/brave-tld/",
-         "links": [
-             "https://brave.com/blog/brave-tld/"
-         ],
-         "published": "Sun, 29 Jun 2025 05:44:13 +0000",
-         "publishedParsed": "2025-06-29T05:44:13Z"
-     },
-     {
-         "title": "Solving `Passport Application` with Haskell",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44408872\"\u003eComments\u003c/a\u003e",
-         "link": "https://jameshaydon.github.io/passport/",
-         "links": [
-             "https://jameshaydon.github.io/passport/"
-         ],
-         "published": "Sat, 28 Jun 2025 23:01:15 +0000",
-         "publishedParsed": "2025-06-28T23:01:15Z"
-     },
-     {
-         "title": "MCP: An (Accidentally) Universal Plugin System",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44404905\"\u003eComments\u003c/a\u003e",
-         "link": "https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin",
-         "links": [
-             "https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin"
-         ],
-         "published": "Sat, 28 Jun 2025 14:22:10 +0000",
-         "publishedParsed": "2025-06-28T14:22:10Z"
-     },
-     {
-         "title": "Sequence and first differences together list all positive numbers exactly once",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44375075\"\u003eComments\u003c/a\u003e",
-         "link": "https://oeis.org/A005228",
-         "links": [
-             "https://oeis.org/A005228"
-         ],
-         "published": "Wed, 25 Jun 2025 08:59:12 +0000",
-         "publishedParsed": "2025-06-25T08:59:12Z"
      },
      {
          "title": "More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad",
@@ -80,14 +50,34 @@
          "publishedParsed": "2025-06-29T07:45:56Z"
      },
      {
-         "title": "Google Gemini is about to control your messages and calls, even if you say no",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44411114\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.laptopmag.com/ai/gemini-phone-access-update",
+         "title": "Sequence and first differences together list all positive numbers exactly once",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44375075\"\u003eComments\u003c/a\u003e",
+         "link": "https://oeis.org/A005228",
          "links": [
-             "https://www.laptopmag.com/ai/gemini-phone-access-update"
+             "https://oeis.org/A005228"
          ],
-         "published": "Sun, 29 Jun 2025 07:54:52 +0000",
-         "publishedParsed": "2025-06-29T07:54:52Z"
+         "published": "Wed, 25 Jun 2025 08:59:12 +0000",
+         "publishedParsed": "2025-06-25T08:59:12Z"
+     },
+     {
+         "title": "MCP: An (Accidentally) Universal Plugin System",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44404905\"\u003eComments\u003c/a\u003e",
+         "link": "https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin",
+         "links": [
+             "https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin"
+         ],
+         "published": "Sat, 28 Jun 2025 14:22:10 +0000",
+         "publishedParsed": "2025-06-28T14:22:10Z"
+     },
+     {
+         "title": "Solving `Passport Application` with Haskell",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44408872\"\u003eComments\u003c/a\u003e",
+         "link": "https://jameshaydon.github.io/passport/",
+         "links": [
+             "https://jameshaydon.github.io/passport/"
+         ],
+         "published": "Sat, 28 Jun 2025 23:01:15 +0000",
+         "publishedParsed": "2025-06-28T23:01:15Z"
      },
      {
          "title": "The Perils of 'Design Thinking'",
@@ -140,7 +130,17 @@
          "publishedParsed": "2025-06-29T00:40:13Z"
      },
      {
-         "title": "We ran a Unix-like OS Xv6 on our home-built CPU with a home-built C compiler (2020)",
+         "title": "What UI first distinguished radio buttons from checkboxes with circles/squares?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44386670\"\u003eComments\u003c/a\u003e",
+         "link": "https://retrocomputing.stackexchange.com/questions/31806/what-ui-first-distinguished-radio-buttons-from-checkboxes-with-circles-and-squar",
+         "links": [
+             "https://retrocomputing.stackexchange.com/questions/31806/what-ui-first-distinguished-radio-buttons-from-checkboxes-with-circles-and-squar"
+         ],
+         "published": "Thu, 26 Jun 2025 12:15:44 +0000",
+         "publishedParsed": "2025-06-26T12:15:44Z"
+     },
+     {
+         "title": "We ran a Unix-like OS on our home-built CPU with a home-built C compiler (2020)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44404164\"\u003eComments\u003c/a\u003e",
          "link": "https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/",
          "links": [
@@ -160,6 +160,26 @@
          "publishedParsed": "2025-06-28T16:53:56Z"
      },
      {
+         "title": "Abusing copyright strings to trick SW into thinking it's running competitor's PC",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44383050\"\u003eComments\u003c/a\u003e",
+         "link": "https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299",
+         "links": [
+             "https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299"
+         ],
+         "published": "Thu, 26 Jun 2025 00:18:13 +0000",
+         "publishedParsed": "2025-06-26T00:18:13Z"
+     },
+     {
+         "title": "Schizophrenia is the price we pay for minds poised near the edge of a cliff",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44408286\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay",
+         "links": [
+             "https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay"
+         ],
+         "published": "Sat, 28 Jun 2025 21:22:14 +0000",
+         "publishedParsed": "2025-06-28T21:22:14Z"
+     },
+     {
          "title": "Life of an inference request (vLLM V1): How LLMs are served efficiently at scale",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44407058\"\u003eComments\u003c/a\u003e",
          "link": "https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1",
@@ -170,14 +190,14 @@
          "publishedParsed": "2025-06-28T18:42:05Z"
      },
      {
-         "title": "Magnetic Tape Storage Technology: usage, history, and future outlook",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44410822\"\u003eComments\u003c/a\u003e",
-         "link": "https://dl.acm.org/doi/10.1145/3708997",
+         "title": "Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong station",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44412009\"\u003eComments\u003c/a\u003e",
+         "link": "https://spacenews.com/chinas-shenzhou-20-astronauts-complete-second-spacewalk-to-enhance-tiangong-space-station/",
          "links": [
-             "https://dl.acm.org/doi/10.1145/3708997"
+             "https://spacenews.com/chinas-shenzhou-20-astronauts-complete-second-spacewalk-to-enhance-tiangong-space-station/"
          ],
-         "published": "Sun, 29 Jun 2025 06:47:01 +0000",
-         "publishedParsed": "2025-06-29T06:47:01Z"
+         "published": "Sun, 29 Jun 2025 10:48:13 +0000",
+         "publishedParsed": "2025-06-29T10:48:13Z"
      },
      {
          "title": "Community Is Motivation on Tap",
@@ -190,26 +210,6 @@
          "publishedParsed": "2025-06-25T04:13:43Z"
      },
      {
-         "title": "Group of investors represented by YouTuber Perifractic buys Commodore",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44408459\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.amiga-news.de/en/news/AN-2025-06-00123-EN.html",
-         "links": [
-             "https://www.amiga-news.de/en/news/AN-2025-06-00123-EN.html"
-         ],
-         "published": "Sat, 28 Jun 2025 21:52:24 +0000",
-         "publishedParsed": "2025-06-28T21:52:24Z"
-     },
-     {
-         "title": "Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44396518\"\u003eComments\u003c/a\u003e",
-         "link": "https://jameshard.ing/pilot",
-         "links": [
-             "https://jameshard.ing/pilot"
-         ],
-         "published": "Fri, 27 Jun 2025 13:06:54 +0000",
-         "publishedParsed": "2025-06-27T13:06:54Z"
-     },
-     {
          "title": "2025 ARRL Field Day",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44407245\"\u003eComments\u003c/a\u003e",
          "link": "https://www.arrl.org/field-day",
@@ -220,34 +220,14 @@
          "publishedParsed": "2025-06-28T19:04:04Z"
      },
      {
-         "title": "The European wood pigeon helped me appreciate its omnipresent city cousins",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44384693\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nytimes.com/2025/06/24/magazine/pigeons-city-nature.html",
+         "title": "Group of investors represented by YouTuber Perifractic buys Commodore",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44408459\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.amiga-news.de/en/news/AN-2025-06-00123-EN.html",
          "links": [
-             "https://www.nytimes.com/2025/06/24/magazine/pigeons-city-nature.html"
+             "https://www.amiga-news.de/en/news/AN-2025-06-00123-EN.html"
          ],
-         "published": "Thu, 26 Jun 2025 06:24:52 +0000",
-         "publishedParsed": "2025-06-26T06:24:52Z"
-     },
-     {
-         "title": "Show HN: SVG Lined Tile Generator",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44383341\"\u003eComments\u003c/a\u003e",
-         "link": "https://adpreese.github.io/svg-lined-tiles/",
-         "links": [
-             "https://adpreese.github.io/svg-lined-tiles/"
-         ],
-         "published": "Thu, 26 Jun 2025 01:13:29 +0000",
-         "publishedParsed": "2025-06-26T01:13:29Z"
-     },
-     {
-         "title": "It's Known as 'The List'–and It's a Secret File of AI Geniuses",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44410843\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.wsj.com/tech/meta-ai-recruiting-mark-zuckerberg-openai-018ed7fc",
-         "links": [
-             "https://www.wsj.com/tech/meta-ai-recruiting-mark-zuckerberg-openai-018ed7fc"
-         ],
-         "published": "Sun, 29 Jun 2025 06:53:48 +0000",
-         "publishedParsed": "2025-06-29T06:53:48Z"
+         "published": "Sat, 28 Jun 2025 21:52:24 +0000",
+         "publishedParsed": "2025-06-28T21:52:24Z"
      },
      {
          "title": "An Indoor Beehive in My Bedroom Wall",
@@ -260,24 +240,34 @@
          "publishedParsed": "2025-06-28T16:55:01Z"
      },
      {
-         "title": "Bazzite would shut down if Fedora goes ahead with removing 32-bit",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44381265\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.gamingonlinux.com/2025/06/bazzite-would-shut-down-if-fedora-goes-ahead-with-removing-32-bit/",
+         "title": "Magnetic Tape Storage Technology: usage, history, and future outlook",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44410822\"\u003eComments\u003c/a\u003e",
+         "link": "https://dl.acm.org/doi/10.1145/3708997",
          "links": [
-             "https://www.gamingonlinux.com/2025/06/bazzite-would-shut-down-if-fedora-goes-ahead-with-removing-32-bit/"
+             "https://dl.acm.org/doi/10.1145/3708997"
          ],
-         "published": "Wed, 25 Jun 2025 19:54:57 +0000",
-         "publishedParsed": "2025-06-25T19:54:57Z"
+         "published": "Sun, 29 Jun 2025 06:47:01 +0000",
+         "publishedParsed": "2025-06-29T06:47:01Z"
      },
      {
-         "title": "Universal pre-training by iterated random computation",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44409555\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2506.20057",
+         "title": "The European wood pigeon helped me appreciate its omnipresent city cousins",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44384693\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nytimes.com/2025/06/24/magazine/pigeons-city-nature.html",
          "links": [
-             "https://arxiv.org/abs/2506.20057"
+             "https://www.nytimes.com/2025/06/24/magazine/pigeons-city-nature.html"
          ],
-         "published": "Sun, 29 Jun 2025 01:12:32 +0000",
-         "publishedParsed": "2025-06-29T01:12:32Z"
+         "published": "Thu, 26 Jun 2025 06:24:52 +0000",
+         "publishedParsed": "2025-06-26T06:24:52Z"
+     },
+     {
+         "title": "Is being bilingual good for your brain?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44406140\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.economist.com/science-and-technology/2025/06/27/is-being-bilingual-good-for-your-brain",
+         "links": [
+             "https://www.economist.com/science-and-technology/2025/06/27/is-being-bilingual-good-for-your-brain"
+         ],
+         "published": "Sat, 28 Jun 2025 16:50:19 +0000",
+         "publishedParsed": "2025-06-28T16:50:19Z"
      },
      {
          "title": "Tennis Scorigami",
@@ -288,5 +278,15 @@
          ],
          "published": "Thu, 26 Jun 2025 15:25:25 +0000",
          "publishedParsed": "2025-06-26T15:25:25Z"
+     },
+     {
+         "title": "Sirius: A GPU-native SQL engine",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44404876\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/sirius-db/sirius",
+         "links": [
+             "https://github.com/sirius-db/sirius"
+         ],
+         "published": "Sat, 28 Jun 2025 14:18:18 +0000",
+         "publishedParsed": "2025-06-28T14:18:18Z"
      }
  ]
