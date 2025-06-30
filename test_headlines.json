@@ -1,15 +1,5 @@
 [
      {
-         "title": "Error handling in Rust",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44416157\"\u003eComments\u003c/a\u003e",
-         "link": "https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html",
-         "links": [
-             "https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html"
-         ],
-         "published": "Sun, 29 Jun 2025 20:28:25 +0000",
-         "publishedParsed": "2025-06-29T20:28:25Z"
-     },
-     {
          "title": "I made my VM think it has a CPU fan",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44413185\"\u003eComments\u003c/a\u003e",
          "link": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html",
@@ -18,6 +8,16 @@
          ],
          "published": "Sun, 29 Jun 2025 13:55:18 +0000",
          "publishedParsed": "2025-06-29T13:55:18Z"
+     },
+     {
+         "title": "Bitcoin's Security Budget Issue: Problems, Solutions and Myths Debunked",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44417090\"\u003eComments\u003c/a\u003e",
+         "link": "https://budget.day/",
+         "links": [
+             "https://budget.day/"
+         ],
+         "published": "Sun, 29 Jun 2025 22:22:30 +0000",
+         "publishedParsed": "2025-06-29T22:22:30Z"
      },
      {
          "title": "Ask HN: What Are You Working On? (June 2025)",
@@ -30,44 +30,24 @@
          "publishedParsed": "2025-06-29T20:21:28Z"
      },
      {
-         "title": "Reverse Engineering the Microchip CLB",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44416589\"\u003eComments\u003c/a\u003e",
-         "link": "http://mcp-clb.markomo.me/",
+         "title": "Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44416761\"\u003eComments\u003c/a\u003e",
+         "link": "https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security",
          "links": [
-             "http://mcp-clb.markomo.me/"
+             "https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security"
          ],
-         "published": "Sun, 29 Jun 2025 21:30:02 +0000",
-         "publishedParsed": "2025-06-29T21:30:02Z"
+         "published": "Sun, 29 Jun 2025 21:48:12 +0000",
+         "publishedParsed": "2025-06-29T21:48:12Z"
      },
      {
-         "title": "Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44412207\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/octelium/octelium",
+         "title": "The Book of Shaders",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44389622\"\u003eComments\u003c/a\u003e",
+         "link": "https://thebookofshaders.com/",
          "links": [
-             "https://github.com/octelium/octelium"
+             "https://thebookofshaders.com/"
          ],
-         "published": "Sun, 29 Jun 2025 11:24:17 +0000",
-         "publishedParsed": "2025-06-29T11:24:17Z"
-     },
-     {
-         "title": "4-10x faster in-process pub/sub for Go",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44413809\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/kelindar/event",
-         "links": [
-             "https://github.com/kelindar/event"
-         ],
-         "published": "Sun, 29 Jun 2025 15:19:19 +0000",
-         "publishedParsed": "2025-06-29T15:19:19Z"
-     },
-     {
-         "title": "Modelling API rate limits as diophantine inequalities",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44393998\"\u003eComments\u003c/a\u003e",
-         "link": "https://vivekn.dev/blog/rate-limit-diophantine",
-         "links": [
-             "https://vivekn.dev/blog/rate-limit-diophantine"
-         ],
-         "published": "Fri, 27 Jun 2025 05:48:22 +0000",
-         "publishedParsed": "2025-06-27T05:48:22Z"
+         "published": "Thu, 26 Jun 2025 17:48:03 +0000",
+         "publishedParsed": "2025-06-26T17:48:03Z"
      },
      {
          "title": "Revisiting Knuth's \"Premature Optimization\" Paper",
@@ -80,14 +60,54 @@
          "publishedParsed": "2025-06-26T11:17:12Z"
      },
      {
-         "title": "Many ransomware strains will abort if they detect a Russian keyboard installed (2021)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44415233\"\u003eComments\u003c/a\u003e",
-         "link": "https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/",
+         "title": "Modelling API rate limits as diophantine inequalities",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44393998\"\u003eComments\u003c/a\u003e",
+         "link": "https://vivekn.dev/blog/rate-limit-diophantine",
          "links": [
-             "https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/"
+             "https://vivekn.dev/blog/rate-limit-diophantine"
          ],
-         "published": "Sun, 29 Jun 2025 18:29:55 +0000",
-         "publishedParsed": "2025-06-29T18:29:55Z"
+         "published": "Fri, 27 Jun 2025 05:48:22 +0000",
+         "publishedParsed": "2025-06-27T05:48:22Z"
+     },
+     {
+         "title": "Error handling in Rust",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44416157\"\u003eComments\u003c/a\u003e",
+         "link": "https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html",
+         "links": [
+             "https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html"
+         ],
+         "published": "Sun, 29 Jun 2025 20:28:25 +0000",
+         "publishedParsed": "2025-06-29T20:28:25Z"
+     },
+     {
+         "title": "Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44412207\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/octelium/octelium",
+         "links": [
+             "https://github.com/octelium/octelium"
+         ],
+         "published": "Sun, 29 Jun 2025 11:24:17 +0000",
+         "publishedParsed": "2025-06-29T11:24:17Z"
+     },
+     {
+         "title": "Nearly 20% of cancer drugs defective in 4 African nations",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44417549\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.dw.com/en/nearly-20-of-cancer-drugs-defective-in-4-african-nations/a-73062221",
+         "links": [
+             "https://www.dw.com/en/nearly-20-of-cancer-drugs-defective-in-4-african-nations/a-73062221"
+         ],
+         "published": "Sun, 29 Jun 2025 23:23:09 +0000",
+         "publishedParsed": "2025-06-29T23:23:09Z"
+     },
+     {
+         "title": "4-10x faster in-process pub/sub for Go",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44413809\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/kelindar/event",
+         "links": [
+             "https://github.com/kelindar/event"
+         ],
+         "published": "Sun, 29 Jun 2025 15:19:19 +0000",
+         "publishedParsed": "2025-06-29T15:19:19Z"
      },
      {
          "title": "Bloom Filters by Example",
@@ -100,24 +120,14 @@
          "publishedParsed": "2025-06-29T11:56:09Z"
      },
      {
-         "title": "Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44416761\"\u003eComments\u003c/a\u003e",
-         "link": "https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security",
+         "title": "Many ransomware strains will abort if they detect a Russian keyboard installed (2021)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44415233\"\u003eComments\u003c/a\u003e",
+         "link": "https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/",
          "links": [
-             "https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security"
+             "https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/"
          ],
-         "published": "Sun, 29 Jun 2025 21:48:12 +0000",
-         "publishedParsed": "2025-06-29T21:48:12Z"
-     },
-     {
-         "title": "Honda Joins Space Race by Launching Successful Reusable Rocket",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44416805\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.forbes.com/sites/peterlyon/2025/06/22/as-spacex-explodes-again-honda-successfully-launches-reusable-rocket/",
-         "links": [
-             "https://www.forbes.com/sites/peterlyon/2025/06/22/as-spacex-explodes-again-honda-successfully-launches-reusable-rocket/"
-         ],
-         "published": "Sun, 29 Jun 2025 21:53:59 +0000",
-         "publishedParsed": "2025-06-29T21:53:59Z"
+         "published": "Sun, 29 Jun 2025 18:29:55 +0000",
+         "publishedParsed": "2025-06-29T18:29:55Z"
      },
      {
          "title": "Using the Internet without IPv4 connectivity",
@@ -150,6 +160,96 @@
          "publishedParsed": "2025-06-29T17:39:08Z"
      },
      {
+         "title": "China Dominates 44% of Visible Fishing Activity Worldwide",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44416710\"\u003eComments\u003c/a\u003e",
+         "link": "https://oceana.org/press-releases/china-dominates-44-of-visible-fishing-activity-worldwide/",
+         "links": [
+             "https://oceana.org/press-releases/china-dominates-44-of-visible-fishing-activity-worldwide/"
+         ],
+         "published": "Sun, 29 Jun 2025 21:43:50 +0000",
+         "publishedParsed": "2025-06-29T21:43:50Z"
+     },
+     {
+         "title": "Commodore acquired for a 'low seven figure' price – CEO from retro community",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44417417\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.tomshardware.com/video-games/retro-gaming/commodore-acquired-for-a-low-seven-figure-price-new-acting-ceo-comes-from-the-retro-community",
+         "links": [
+             "https://www.tomshardware.com/video-games/retro-gaming/commodore-acquired-for-a-low-seven-figure-price-new-acting-ceo-comes-from-the-retro-community"
+         ],
+         "published": "Sun, 29 Jun 2025 23:03:07 +0000",
+         "publishedParsed": "2025-06-29T23:03:07Z"
+     },
+     {
+         "title": "Several Anker power bank models recalled: Supplier's batteries pose fire hazard",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44417576\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.heise.de/en/news/Fire-hazard-Anker-recalls-several-power-bank-models-also-in-Germany-10463193.html",
+         "links": [
+             "https://www.heise.de/en/news/Fire-hazard-Anker-recalls-several-power-bank-models-also-in-Germany-10463193.html"
+         ],
+         "published": "Sun, 29 Jun 2025 23:28:00 +0000",
+         "publishedParsed": "2025-06-29T23:28:00Z"
+     },
+     {
+         "title": "Show HN: Rust -\u003e WASM, K-Means Color Quantization Crate for Image-to-Pixel-Art",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44387923\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/gametorch/image_to_pixel_art_wasm",
+         "links": [
+             "https://github.com/gametorch/image_to_pixel_art_wasm"
+         ],
+         "published": "Thu, 26 Jun 2025 14:40:55 +0000",
+         "publishedParsed": "2025-06-26T14:40:55Z"
+     },
+     {
+         "title": "Raymond Laflamme (1960-2025)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44393657\"\u003eComments\u003c/a\u003e",
+         "link": "https://scottaaronson.blog/?p=8949",
+         "links": [
+             "https://scottaaronson.blog/?p=8949"
+         ],
+         "published": "Fri, 27 Jun 2025 04:16:01 +0000",
+         "publishedParsed": "2025-06-27T04:16:01Z"
+     },
+     {
+         "title": "The Unsustainability of Moore's Law",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44410900\"\u003eComments\u003c/a\u003e",
+         "link": "https://bzolang.blog/p/the-unsustainability-of-moores-law",
+         "links": [
+             "https://bzolang.blog/p/the-unsustainability-of-moores-law"
+         ],
+         "published": "Sun, 29 Jun 2025 07:07:03 +0000",
+         "publishedParsed": "2025-06-29T07:07:03Z"
+     },
+     {
+         "title": "Show HN: A tool to benchmark LLM APIs (OpenAI, Claude, local/self-hosted)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44413921\"\u003eComments\u003c/a\u003e",
+         "link": "https://llmapitest.com/",
+         "links": [
+             "https://llmapitest.com/"
+         ],
+         "published": "Sun, 29 Jun 2025 15:33:57 +0000",
+         "publishedParsed": "2025-06-29T15:33:57Z"
+     },
+     {
+         "title": "More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44411069\"\u003eComments\u003c/a\u003e",
+         "link": "https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad",
+         "links": [
+             "https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad"
+         ],
+         "published": "Sun, 29 Jun 2025 07:45:56 +0000",
+         "publishedParsed": "2025-06-29T07:45:56Z"
+     },
+     {
+         "title": "Why Go Rocks for Building a Lua Interpreter",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44384425\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/",
+         "links": [
+             "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/"
+         ],
+         "published": "Thu, 26 Jun 2025 05:28:01 +0000",
+         "publishedParsed": "2025-06-26T05:28:01Z"
+     },
+     {
          "title": "Personal care products disrupt the human oxidation field",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44414719\"\u003eComments\u003c/a\u003e",
          "link": "https://www.science.org/doi/10.1126/sciadv.ads7908",
@@ -170,36 +270,6 @@
          "publishedParsed": "2025-06-29T20:48:00Z"
      },
      {
-         "title": "Why Go Rocks for Building a Lua Interpreter",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44384425\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/",
-         "links": [
-             "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/"
-         ],
-         "published": "Thu, 26 Jun 2025 05:28:01 +0000",
-         "publishedParsed": "2025-06-26T05:28:01Z"
-     },
-     {
-         "title": "Show HN: Rust -\u003e WASM, K-Means Color Quantization Crate for Image-to-Pixel-Art",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44387923\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/gametorch/image_to_pixel_art_wasm",
-         "links": [
-             "https://github.com/gametorch/image_to_pixel_art_wasm"
-         ],
-         "published": "Thu, 26 Jun 2025 14:40:55 +0000",
-         "publishedParsed": "2025-06-26T14:40:55Z"
-     },
-     {
-         "title": "Show HN: A tool to benchmark LLM APIs (OpenAI, Claude, local/self-hosted)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44413921\"\u003eComments\u003c/a\u003e",
-         "link": "https://llmapitest.com/",
-         "links": [
-             "https://llmapitest.com/"
-         ],
-         "published": "Sun, 29 Jun 2025 15:33:57 +0000",
-         "publishedParsed": "2025-06-29T15:33:57Z"
-     },
-     {
          "title": "Show HN: Sharpe Ratio Calculation Tool",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44414848\"\u003eComments\u003c/a\u003e",
          "link": "https://www.fundratios.com/",
@@ -218,85 +288,5 @@
          ],
          "published": "Thu, 26 Jun 2025 10:58:38 +0000",
          "publishedParsed": "2025-06-26T10:58:38Z"
-     },
-     {
-         "title": "More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44411069\"\u003eComments\u003c/a\u003e",
-         "link": "https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad",
-         "links": [
-             "https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad"
-         ],
-         "published": "Sun, 29 Jun 2025 07:45:56 +0000",
-         "publishedParsed": "2025-06-29T07:45:56Z"
-     },
-     {
-         "title": "Brad Woods Digital Garden",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44393920\"\u003eComments\u003c/a\u003e",
-         "link": "https://garden.bradwoods.io",
-         "links": [
-             "https://garden.bradwoods.io"
-         ],
-         "published": "Fri, 27 Jun 2025 05:27:25 +0000",
-         "publishedParsed": "2025-06-27T05:27:25Z"
-     },
-     {
-         "title": "Unhooking from Amazon Ebooks",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44415388\"\u003eComments\u003c/a\u003e",
-         "link": "https://remysharp.com/2025/06/29/unhooking-from-amazon-ebooks",
-         "links": [
-             "https://remysharp.com/2025/06/29/unhooking-from-amazon-ebooks"
-         ],
-         "published": "Sun, 29 Jun 2025 18:52:02 +0000",
-         "publishedParsed": "2025-06-29T18:52:02Z"
-     },
-     {
-         "title": "Solving `Passport Application` with Haskell",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44408872\"\u003eComments\u003c/a\u003e",
-         "link": "https://jameshaydon.github.io/passport/",
-         "links": [
-             "https://jameshaydon.github.io/passport/"
-         ],
-         "published": "Sat, 28 Jun 2025 23:01:15 +0000",
-         "publishedParsed": "2025-06-28T23:01:15Z"
-     },
-     {
-         "title": "Scientists Retrace 30k-Year-Old Sea Voyage, in a Hollowed-Out Log",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44382356\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nytimes.com/2025/06/25/science/anthropology-ocean-migration-japan.html",
-         "links": [
-             "https://www.nytimes.com/2025/06/25/science/anthropology-ocean-migration-japan.html"
-         ],
-         "published": "Wed, 25 Jun 2025 22:29:29 +0000",
-         "publishedParsed": "2025-06-25T22:29:29Z"
-     },
-     {
-         "title": "Implementing fast TCP fingerprinting with eBPF",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44412080\"\u003eComments\u003c/a\u003e",
-         "link": "https://halb.it/posts/ebpf-fingerprinting-1/",
-         "links": [
-             "https://halb.it/posts/ebpf-fingerprinting-1/"
-         ],
-         "published": "Sun, 29 Jun 2025 10:59:26 +0000",
-         "publishedParsed": "2025-06-29T10:59:26Z"
-     },
-     {
-         "title": "Tools I love: mise(-en-place)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44414987\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/",
-         "links": [
-             "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/"
-         ],
-         "published": "Sun, 29 Jun 2025 17:56:21 +0000",
-         "publishedParsed": "2025-06-29T17:56:21Z"
-     },
-     {
-         "title": "China Dominates 44% of Visible Fishing Activity Worldwide",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44416710\"\u003eComments\u003c/a\u003e",
-         "link": "https://oceana.org/press-releases/china-dominates-44-of-visible-fishing-activity-worldwide/",
-         "links": [
-             "https://oceana.org/press-releases/china-dominates-44-of-visible-fishing-activity-worldwide/"
-         ],
-         "published": "Sun, 29 Jun 2025 21:43:50 +0000",
-         "publishedParsed": "2025-06-29T21:43:50Z"
      }
  ]
