@@ -10,16 +10,6 @@
          "publishedParsed": "2025-07-03T15:03:14Z"
      },
      {
-         "title": "Poor Man's Back End-as-a-Service (BaaS), Similar to Firebase/Supabase/Pocketbase",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44456135\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/zserge/pennybase",
-         "links": [
-             "https://github.com/zserge/pennybase"
-         ],
-         "published": "Thu, 03 Jul 2025 15:35:34 +0000",
-         "publishedParsed": "2025-07-03T15:35:34Z"
-     },
-     {
          "title": "Launch HN: K-Scale Labs (YC W24) – Open-Source Humanoid Robots",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44456904\"\u003eComments\u003c/a\u003e",
          "link": "https://news.ycombinator.com/item?id=44456904",
@@ -30,14 +20,24 @@
          "publishedParsed": "2025-07-03T16:44:18Z"
      },
      {
-         "title": "AI for Scientific Search",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44455950\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2507.01903",
+         "title": "Opening up ‘Zero-Knowledge Proof’ technology",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44457390\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.google/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
          "links": [
-             "https://arxiv.org/abs/2507.01903"
+             "https://blog.google/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/"
          ],
-         "published": "Thu, 03 Jul 2025 15:19:20 +0000",
-         "publishedParsed": "2025-07-03T15:19:20Z"
+         "published": "Thu, 03 Jul 2025 17:36:13 +0000",
+         "publishedParsed": "2025-07-03T17:36:13Z"
+     },
+     {
+         "title": "The End of Moore's Law for AI? Gemini Flash Offers a Warning",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44457371\"\u003eComments\u003c/a\u003e",
+         "link": "https://sutro.sh/blog/the-end-of-moore-s-law-for-ai-gemini-flash-offers-a-warning",
+         "links": [
+             "https://sutro.sh/blog/the-end-of-moore-s-law-for-ai-gemini-flash-offers-a-warning"
+         ],
+         "published": "Thu, 03 Jul 2025 17:34:05 +0000",
+         "publishedParsed": "2025-07-03T17:34:05Z"
      },
      {
          "title": "AV1@Scale: Film Grain Synthesis, The Awakening",
@@ -50,36 +50,6 @@
          "publishedParsed": "2025-07-03T16:34:51Z"
      },
      {
-         "title": "Parallelizing SHA256 Calculation on FPGA",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44456027\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.controlpaths.com/2025/06/29/parallelizing_sha256-calculation-fpga/",
-         "links": [
-             "https://www.controlpaths.com/2025/06/29/parallelizing_sha256-calculation-fpga/"
-         ],
-         "published": "Thu, 03 Jul 2025 15:25:30 +0000",
-         "publishedParsed": "2025-07-03T15:25:30Z"
-     },
-     {
-         "title": "Tools: Code Is All You Need",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44453688\"\u003eComments\u003c/a\u003e",
-         "link": "https://lucumr.pocoo.org/2025/7/3/tools/",
-         "links": [
-             "https://lucumr.pocoo.org/2025/7/3/tools/"
-         ],
-         "published": "Thu, 03 Jul 2025 10:51:18 +0000",
-         "publishedParsed": "2025-07-03T10:51:18Z"
-     },
-     {
-         "title": "Locality of Behaviour (2020)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44455320\"\u003eComments\u003c/a\u003e",
-         "link": "https://htmx.org/essays/locality-of-behaviour/",
-         "links": [
-             "https://htmx.org/essays/locality-of-behaviour/"
-         ],
-         "published": "Thu, 03 Jul 2025 14:17:19 +0000",
-         "publishedParsed": "2025-07-03T14:17:19Z"
-     },
-     {
          "title": "Copper is Faster than Fiber (2017) [pdf]",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44435309\"\u003eComments\u003c/a\u003e",
          "link": "https://www.arista.com/assets/data/pdf/Copper-Faster-Than-Fiber-Brief.pdf",
@@ -88,6 +58,46 @@
          ],
          "published": "Tue, 01 Jul 2025 16:05:36 +0000",
          "publishedParsed": "2025-07-01T16:05:36Z"
+     },
+     {
+         "title": "Peasant Railgun",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44455222\"\u003eComments\u003c/a\u003e",
+         "link": "https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/",
+         "links": [
+             "https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/"
+         ],
+         "published": "Thu, 03 Jul 2025 14:05:05 +0000",
+         "publishedParsed": "2025-07-03T14:05:05Z"
+     },
+     {
+         "title": "Poor Man's Back End-as-a-Service (BaaS), Similar to Firebase/Supabase/Pocketbase",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44456135\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/zserge/pennybase",
+         "links": [
+             "https://github.com/zserge/pennybase"
+         ],
+         "published": "Thu, 03 Jul 2025 15:35:34 +0000",
+         "publishedParsed": "2025-07-03T15:35:34Z"
+     },
+     {
+         "title": "Show HN: HomeBrew HN – generate personal context for content ranking",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44454305\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.hackernews.coffee/",
+         "links": [
+             "https://www.hackernews.coffee/"
+         ],
+         "published": "Thu, 03 Jul 2025 12:27:51 +0000",
+         "publishedParsed": "2025-07-03T12:27:51Z"
+     },
+     {
+         "title": "ViscaCamLink – Camera control application for PTZ cameras",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44432884\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/misorrek/ViscaCamLink",
+         "links": [
+             "https://github.com/misorrek/ViscaCamLink"
+         ],
+         "published": "Tue, 01 Jul 2025 11:39:58 +0000",
+         "publishedParsed": "2025-07-01T11:39:58Z"
      },
      {
          "title": "Alice's Adventures in a Differentiable Wonderland",
@@ -110,94 +120,24 @@
          "publishedParsed": "2025-07-01T14:00:33Z"
      },
      {
-         "title": "Show HN: HomeBrew HN – generate personal context for content ranking",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44454305\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.hackernews.coffee/",
+         "title": "Stalking the Statistically Improbable Restaurant with Data",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44457215\"\u003eComments\u003c/a\u003e",
+         "link": "https://ethanzuckerman.com/2025/07/03/stalking-the-statistically-improbable-restaurant-with-data/",
          "links": [
-             "https://www.hackernews.coffee/"
+             "https://ethanzuckerman.com/2025/07/03/stalking-the-statistically-improbable-restaurant-with-data/"
          ],
-         "published": "Thu, 03 Jul 2025 12:27:51 +0000",
-         "publishedParsed": "2025-07-03T12:27:51Z"
+         "published": "Thu, 03 Jul 2025 17:15:56 +0000",
+         "publishedParsed": "2025-07-03T17:15:56Z"
      },
      {
-         "title": "About AI Evals",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44430117\"\u003eComments\u003c/a\u003e",
-         "link": "https://hamel.dev/blog/posts/evals-faq/",
+         "title": "Tools: Code Is All You Need",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44453688\"\u003eComments\u003c/a\u003e",
+         "link": "https://lucumr.pocoo.org/2025/7/3/tools/",
          "links": [
-             "https://hamel.dev/blog/posts/evals-faq/"
+             "https://lucumr.pocoo.org/2025/7/3/tools/"
          ],
-         "published": "Tue, 01 Jul 2025 02:48:16 +0000",
-         "publishedParsed": "2025-07-01T02:48:16Z"
-     },
-     {
-         "title": "Where is my von Braun wheel?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44455022\"\u003eComments\u003c/a\u003e",
-         "link": "https://angadh.com/wherevonbraunwheel",
-         "links": [
-             "https://angadh.com/wherevonbraunwheel"
-         ],
-         "published": "Thu, 03 Jul 2025 13:44:55 +0000",
-         "publishedParsed": "2025-07-03T13:44:55Z"
-     },
-     {
-         "title": "Spending Too Much Money on a Coding Agent",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44433218\"\u003eComments\u003c/a\u003e",
-         "link": "https://allenpike.com/2025/coding-agents",
-         "links": [
-             "https://allenpike.com/2025/coding-agents"
-         ],
-         "published": "Tue, 01 Jul 2025 12:26:51 +0000",
-         "publishedParsed": "2025-07-01T12:26:51Z"
-     },
-     {
-         "title": "Kyber (YC W23) Is Hiring Enterprise BDRs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44454114\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/kyber/jobs/F1XERLm-enterprise-business-development-representative",
-         "links": [
-             "https://www.ycombinator.com/companies/kyber/jobs/F1XERLm-enterprise-business-development-representative"
-         ],
-         "published": "Thu, 03 Jul 2025 12:00:28 +0000",
-         "publishedParsed": "2025-07-03T12:00:28Z"
-     },
-     {
-         "title": "Peasant Railgun",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44455222\"\u003eComments\u003c/a\u003e",
-         "link": "https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/",
-         "links": [
-             "https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/"
-         ],
-         "published": "Thu, 03 Jul 2025 14:05:05 +0000",
-         "publishedParsed": "2025-07-03T14:05:05Z"
-     },
-     {
-         "title": "Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44451329\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180",
-         "links": [
-             "https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180"
-         ],
-         "published": "Thu, 03 Jul 2025 03:19:24 +0000",
-         "publishedParsed": "2025-07-03T03:19:24Z"
-     },
-     {
-         "title": "ViscaCamLink – Camera control application for PTZ cameras",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44432884\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/misorrek/ViscaCamLink",
-         "links": [
-             "https://github.com/misorrek/ViscaCamLink"
-         ],
-         "published": "Tue, 01 Jul 2025 11:39:58 +0000",
-         "publishedParsed": "2025-07-01T11:39:58Z"
-     },
-     {
-         "title": "Importance of context management in AI NPCs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44429192\"\u003eComments\u003c/a\u003e",
-         "link": "https://walterfreedom.com/post.html?id=ai-context-management",
-         "links": [
-             "https://walterfreedom.com/post.html?id=ai-context-management"
-         ],
-         "published": "Mon, 30 Jun 2025 23:55:37 +0000",
-         "publishedParsed": "2025-06-30T23:55:37Z"
+         "published": "Thu, 03 Jul 2025 10:51:18 +0000",
+         "publishedParsed": "2025-07-03T10:51:18Z"
      },
      {
          "title": "Postcard is now open source",
@@ -210,24 +150,74 @@
          "publishedParsed": "2025-07-03T16:38:02Z"
      },
      {
-         "title": "Encoding Jake Gyllenhaal into one million checkboxes (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44456379\"\u003eComments\u003c/a\u003e",
-         "link": "https://ednamode.xyz/blogs/2.html",
+         "title": "AI for Scientific Search",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44455950\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2507.01903",
          "links": [
-             "https://ednamode.xyz/blogs/2.html"
+             "https://arxiv.org/abs/2507.01903"
          ],
-         "published": "Thu, 03 Jul 2025 15:58:32 +0000",
-         "publishedParsed": "2025-07-03T15:58:32Z"
+         "published": "Thu, 03 Jul 2025 15:19:20 +0000",
+         "publishedParsed": "2025-07-03T15:19:20Z"
      },
      {
-         "title": "Head in the Clouds",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44454758\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.commonwealmagazine.org/head-clouds",
+         "title": "Parallelizing SHA256 Calculation on FPGA",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44456027\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.controlpaths.com/2025/06/29/parallelizing_sha256-calculation-fpga/",
          "links": [
-             "https://www.commonwealmagazine.org/head-clouds"
+             "https://www.controlpaths.com/2025/06/29/parallelizing_sha256-calculation-fpga/"
          ],
-         "published": "Thu, 03 Jul 2025 13:18:59 +0000",
-         "publishedParsed": "2025-07-03T13:18:59Z"
+         "published": "Thu, 03 Jul 2025 15:25:30 +0000",
+         "publishedParsed": "2025-07-03T15:25:30Z"
+     },
+     {
+         "title": "About AI Evals",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44430117\"\u003eComments\u003c/a\u003e",
+         "link": "https://hamel.dev/blog/posts/evals-faq/",
+         "links": [
+             "https://hamel.dev/blog/posts/evals-faq/"
+         ],
+         "published": "Tue, 01 Jul 2025 02:48:16 +0000",
+         "publishedParsed": "2025-07-01T02:48:16Z"
+     },
+     {
+         "title": "Caching is an Abstraction, not an Optimization",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44432506\"\u003eComments\u003c/a\u003e",
+         "link": "https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/",
+         "links": [
+             "https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/"
+         ],
+         "published": "Tue, 01 Jul 2025 10:42:46 +0000",
+         "publishedParsed": "2025-07-01T10:42:46Z"
+     },
+     {
+         "title": "Kyber (YC W23) Is Hiring Enterprise BDRs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44454114\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/kyber/jobs/F1XERLm-enterprise-business-development-representative",
+         "links": [
+             "https://www.ycombinator.com/companies/kyber/jobs/F1XERLm-enterprise-business-development-representative"
+         ],
+         "published": "Thu, 03 Jul 2025 12:00:28 +0000",
+         "publishedParsed": "2025-07-03T12:00:28Z"
+     },
+     {
+         "title": "Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44451329\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180",
+         "links": [
+             "https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180"
+         ],
+         "published": "Thu, 03 Jul 2025 03:19:24 +0000",
+         "publishedParsed": "2025-07-03T03:19:24Z"
+     },
+     {
+         "title": "Importance of context management in AI NPCs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44429192\"\u003eComments\u003c/a\u003e",
+         "link": "https://walterfreedom.com/post.html?id=ai-context-management",
+         "links": [
+             "https://walterfreedom.com/post.html?id=ai-context-management"
+         ],
+         "published": "Mon, 30 Jun 2025 23:55:37 +0000",
+         "publishedParsed": "2025-06-30T23:55:37Z"
      },
      {
          "title": "That XOR Trick (2020)",
@@ -240,6 +230,16 @@
          "publishedParsed": "2025-06-30T17:32:41Z"
      },
      {
+         "title": "Encoding Jake Gyllenhaal into one million checkboxes (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44456379\"\u003eComments\u003c/a\u003e",
+         "link": "https://ednamode.xyz/blogs/2.html",
+         "links": [
+             "https://ednamode.xyz/blogs/2.html"
+         ],
+         "published": "Thu, 03 Jul 2025 15:58:32 +0000",
+         "publishedParsed": "2025-07-03T15:58:32Z"
+     },
+     {
          "title": "Exploiting the IKKO Activebuds “AI powered” earbuds (2024)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44443919\"\u003eComments\u003c/a\u003e",
          "link": "https://blog.mgdproductions.com/ikko-activebuds/",
@@ -248,6 +248,36 @@
          ],
          "published": "Wed, 02 Jul 2025 14:06:43 +0000",
          "publishedParsed": "2025-07-02T14:06:43Z"
+     },
+     {
+         "title": "Spending Too Much Money on a Coding Agent",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44433218\"\u003eComments\u003c/a\u003e",
+         "link": "https://allenpike.com/2025/coding-agents",
+         "links": [
+             "https://allenpike.com/2025/coding-agents"
+         ],
+         "published": "Tue, 01 Jul 2025 12:26:51 +0000",
+         "publishedParsed": "2025-07-01T12:26:51Z"
+     },
+     {
+         "title": "Locality of Behaviour (2020)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44455320\"\u003eComments\u003c/a\u003e",
+         "link": "https://htmx.org/essays/locality-of-behaviour/",
+         "links": [
+             "https://htmx.org/essays/locality-of-behaviour/"
+         ],
+         "published": "Thu, 03 Jul 2025 14:17:19 +0000",
+         "publishedParsed": "2025-07-03T14:17:19Z"
+     },
+     {
+         "title": "Pbf2sqlite: Reading OpenStreetMap into a SQLite Database",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44432058\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/osmzoso/pbf2sqlite",
+         "links": [
+             "https://github.com/osmzoso/pbf2sqlite"
+         ],
+         "published": "Tue, 01 Jul 2025 09:17:41 +0000",
+         "publishedParsed": "2025-07-01T09:17:41Z"
      },
      {
          "title": "Whole-genome ancestry of an Old Kingdom Egyptian",
@@ -268,35 +298,5 @@
          ],
          "published": "Thu, 03 Jul 2025 01:07:04 +0000",
          "publishedParsed": "2025-07-03T01:07:04Z"
-     },
-     {
-         "title": "Writing Code Was Never the Bottleneck",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44429789\"\u003eComments\u003c/a\u003e",
-         "link": "https://ordep.dev/posts/writing-code-was-never-the-bottleneck",
-         "links": [
-             "https://ordep.dev/posts/writing-code-was-never-the-bottleneck"
-         ],
-         "published": "Tue, 01 Jul 2025 01:43:57 +0000",
-         "publishedParsed": "2025-07-01T01:43:57Z"
-     },
-     {
-         "title": "Doom Didn't Kill the Amiga (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44455218\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.datagubbe.se/afb/",
-         "links": [
-             "https://www.datagubbe.se/afb/"
-         ],
-         "published": "Thu, 03 Jul 2025 14:04:27 +0000",
-         "publishedParsed": "2025-07-03T14:04:27Z"
-     },
-     {
-         "title": "Nano-engineered thermoelectrics enable scalable, compressor-free cooling",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44424087\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.jhuapl.edu/news/news-releases/250521-apl-thermoelectrics-enable-compressor-free-cooling",
-         "links": [
-             "https://www.jhuapl.edu/news/news-releases/250521-apl-thermoelectrics-enable-compressor-free-cooling"
-         ],
-         "published": "Mon, 30 Jun 2025 14:51:38 +0000",
-         "publishedParsed": "2025-06-30T14:51:38Z"
      }
  ]
