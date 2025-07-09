@@ -1,5 +1,15 @@
 [
      {
+         "title": "Helm local code execution via a malicious chart – CVE-2025-53547",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44506696\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm",
+         "links": [
+             "https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm"
+         ],
+         "published": "Wed, 09 Jul 2025 05:49:52 +0000",
+         "publishedParsed": "2025-07-09T05:49:52Z"
+     },
+     {
          "title": "RapidRAW: A non-destructive and GPU-accelerated RAW image editor",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44505876\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/CyberTimon/RapidRAW",
@@ -8,6 +18,16 @@
          ],
          "published": "Wed, 09 Jul 2025 02:37:28 +0000",
          "publishedParsed": "2025-07-09T02:37:28Z"
+     },
+     {
+         "title": "Where can I see Hokusai's Great Wave today?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44506117\"\u003eComments\u003c/a\u003e",
+         "link": "https://greatwavetoday.com/",
+         "links": [
+             "https://greatwavetoday.com/"
+         ],
+         "published": "Wed, 09 Jul 2025 03:34:37 +0000",
+         "publishedParsed": "2025-07-09T03:34:37Z"
      },
      {
          "title": "Bootstrapping a side project into a profitable seven-figure business",
@@ -28,6 +48,16 @@
          ],
          "published": "Tue, 08 Jul 2025 17:48:29 +0000",
          "publishedParsed": "2025-07-08T17:48:29Z"
+     },
+     {
+         "title": "7-Zip for Windows can now use more than 64 CPU threads for compression",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44489359\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.7-zip.org/history.txt",
+         "links": [
+             "https://www.7-zip.org/history.txt"
+         ],
+         "published": "Mon, 07 Jul 2025 11:52:10 +0000",
+         "publishedParsed": "2025-07-07T11:52:10Z"
      },
      {
          "title": "Frame of preference A history of Mac settings, 1984–2004",
@@ -60,26 +90,6 @@
          "publishedParsed": "2025-07-08T16:13:40Z"
      },
      {
-         "title": "Phrase origin: Why do we \"call\" functions?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44506251\"\u003eComments\u003c/a\u003e",
-         "link": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
-         "links": [
-             "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/"
-         ],
-         "published": "Wed, 09 Jul 2025 04:04:45 +0000",
-         "publishedParsed": "2025-07-09T04:04:45Z"
-     },
-     {
-         "title": "Where can I see Hokusai's Great Wave today?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44506117\"\u003eComments\u003c/a\u003e",
-         "link": "https://greatwavetoday.com/",
-         "links": [
-             "https://greatwavetoday.com/"
-         ],
-         "published": "Wed, 09 Jul 2025 03:34:37 +0000",
-         "publishedParsed": "2025-07-09T03:34:37Z"
-     },
-     {
          "title": "Radium Music Editor",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44502298\"\u003eComments\u003c/a\u003e",
          "link": "http://users.notam02.no/~kjetism/radium/",
@@ -90,34 +100,14 @@
          "publishedParsed": "2025-07-08T17:44:35Z"
      },
      {
-         "title": "Xenharmlib: A music theory library that supports non-western harmonic systems",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44504676\"\u003eComments\u003c/a\u003e",
-         "link": "https://xenharmlib.readthedocs.io/en/latest/",
+         "title": "I'm Building LLM for Satellite Data EarthGPT.app",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44488742\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.earthgpt.app/",
          "links": [
-             "https://xenharmlib.readthedocs.io/en/latest/"
+             "https://www.earthgpt.app/"
          ],
-         "published": "Tue, 08 Jul 2025 22:37:21 +0000",
-         "publishedParsed": "2025-07-08T22:37:21Z"
-     },
-     {
-         "title": "Rules of good writing (2007)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44490490\"\u003eComments\u003c/a\u003e",
-         "link": "https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html",
-         "links": [
-             "https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html"
-         ],
-         "published": "Mon, 07 Jul 2025 14:03:24 +0000",
-         "publishedParsed": "2025-07-07T14:03:24Z"
-     },
-     {
-         "title": "Ptar: Replacing .tgz for petabyte-scale S3 archives",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44490213\"\u003eComments\u003c/a\u003e",
-         "link": "https://plakar.io/posts/2025-06-30/technical-deep-dive-into-.ptar-replacing-.tgz-for-petabyte-scale-s3-archives/",
-         "links": [
-             "https://plakar.io/posts/2025-06-30/technical-deep-dive-into-.ptar-replacing-.tgz-for-petabyte-scale-s3-archives/"
-         ],
-         "published": "Mon, 07 Jul 2025 13:31:24 +0000",
-         "publishedParsed": "2025-07-07T13:31:24Z"
+         "published": "Mon, 07 Jul 2025 10:33:14 +0000",
+         "publishedParsed": "2025-07-07T10:33:14Z"
      },
      {
          "title": "Brut: A New Web Framework for Ruby",
@@ -130,16 +120,6 @@
          "publishedParsed": "2025-07-08T18:03:20Z"
      },
      {
-         "title": "Swahili on the Road",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44505359\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.historytoday.com/archive/behind-times/swahili-road",
-         "links": [
-             "https://www.historytoday.com/archive/behind-times/swahili-road"
-         ],
-         "published": "Wed, 09 Jul 2025 00:56:29 +0000",
-         "publishedParsed": "2025-07-09T00:56:29Z"
-     },
-     {
          "title": "Surfing on a Matchbox (1999)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44486368\"\u003eComments\u003c/a\u003e",
          "link": "http://news.bbc.co.uk/2/hi/science/nature/276762.stm",
@@ -148,6 +128,46 @@
          ],
          "published": "Mon, 07 Jul 2025 03:05:32 +0000",
          "publishedParsed": "2025-07-07T03:05:32Z"
+     },
+     {
+         "title": "Comparing the Climate and Productivity Impacts of a Shrinking Population",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44506397\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nber.org/papers/w33932",
+         "links": [
+             "https://www.nber.org/papers/w33932"
+         ],
+         "published": "Wed, 09 Jul 2025 04:39:44 +0000",
+         "publishedParsed": "2025-07-09T04:39:44Z"
+     },
+     {
+         "title": "Xenharmlib: A music theory library that supports non-western harmonic systems",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44504676\"\u003eComments\u003c/a\u003e",
+         "link": "https://xenharmlib.readthedocs.io/en/latest/",
+         "links": [
+             "https://xenharmlib.readthedocs.io/en/latest/"
+         ],
+         "published": "Tue, 08 Jul 2025 22:37:21 +0000",
+         "publishedParsed": "2025-07-08T22:37:21Z"
+     },
+     {
+         "title": "Libpostal: C library for parsing/normalizing street addresses around the world",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44505610\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/openvenues/libpostal",
+         "links": [
+             "https://github.com/openvenues/libpostal"
+         ],
+         "published": "Wed, 09 Jul 2025 01:45:55 +0000",
+         "publishedParsed": "2025-07-09T01:45:55Z"
+     },
+     {
+         "title": "Swahili on the Road",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44505359\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.historytoday.com/archive/behind-times/swahili-road",
+         "links": [
+             "https://www.historytoday.com/archive/behind-times/swahili-road"
+         ],
+         "published": "Wed, 09 Jul 2025 00:56:29 +0000",
+         "publishedParsed": "2025-07-09T00:56:29Z"
      },
      {
          "title": "Dynamical origin of Theia, the last giant impactor on Earth",
@@ -160,26 +180,6 @@
          "publishedParsed": "2025-07-08T18:10:46Z"
      },
      {
-         "title": "Taking over 60k spyware user accounts with SQL injection",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44455707\"\u003eComments\u003c/a\u003e",
-         "link": "https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/",
-         "links": [
-             "https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/"
-         ],
-         "published": "Thu, 03 Jul 2025 14:56:00 +0000",
-         "publishedParsed": "2025-07-03T14:56:00Z"
-     },
-     {
-         "title": "At the frontier between two lives–the evolutionary origins of pregnancy",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44482001\"\u003eComments\u003c/a\u003e",
-         "link": "https://phys.org/news/2025-07-frontier-evolutionary-pregnancy.html",
-         "links": [
-             "https://phys.org/news/2025-07-frontier-evolutionary-pregnancy.html"
-         ],
-         "published": "Sun, 06 Jul 2025 16:17:47 +0000",
-         "publishedParsed": "2025-07-06T16:17:47Z"
-     },
-     {
          "title": "Show HN: OffChess – Offline chess puzzles app",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44498296\"\u003eComments\u003c/a\u003e",
          "link": "https://offchess.com",
@@ -188,6 +188,16 @@
          ],
          "published": "Tue, 08 Jul 2025 08:57:01 +0000",
          "publishedParsed": "2025-07-08T08:57:01Z"
+     },
+     {
+         "title": "Taking over 60k spyware user accounts with SQL injection",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44455707\"\u003eComments\u003c/a\u003e",
+         "link": "https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/",
+         "links": [
+             "https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/"
+         ],
+         "published": "Thu, 03 Jul 2025 14:56:00 +0000",
+         "publishedParsed": "2025-07-03T14:56:00Z"
      },
      {
          "title": "Choosing a Database Schema for Polymorphic Data (2024)",
@@ -210,44 +220,14 @@
          "publishedParsed": "2025-07-05T13:18:39Z"
      },
      {
-         "title": "Libpostal: C library for parsing/normalizing street addresses around the world",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44505610\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/openvenues/libpostal",
+         "title": "iPod Linux – Linux for Your iPod",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44505816\"\u003eComments\u003c/a\u003e",
+         "link": "http://www.ipodlinux.org/",
          "links": [
-             "https://github.com/openvenues/libpostal"
+             "http://www.ipodlinux.org/"
          ],
-         "published": "Wed, 09 Jul 2025 01:45:55 +0000",
-         "publishedParsed": "2025-07-09T01:45:55Z"
-     },
-     {
-         "title": "GlobalFoundries to Acquire MIPS",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44501821\"\u003eComments\u003c/a\u003e",
-         "link": "https://mips.com/press-releases/gf-mips/",
-         "links": [
-             "https://mips.com/press-releases/gf-mips/"
-         ],
-         "published": "Tue, 08 Jul 2025 16:57:18 +0000",
-         "publishedParsed": "2025-07-08T16:57:18Z"
-     },
-     {
-         "title": "Can an email go 500 miles in 2025?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44466030\"\u003eComments\u003c/a\u003e",
-         "link": "https://flak.tedunangst.com/post/can-an-email-go-500-miles-in-2025",
-         "links": [
-             "https://flak.tedunangst.com/post/can-an-email-go-500-miles-in-2025"
-         ],
-         "published": "Fri, 04 Jul 2025 16:49:27 +0000",
-         "publishedParsed": "2025-07-04T16:49:27Z"
-     },
-     {
-         "title": "Show HN: A rain Pomodoro with brown noise, ASMR, and Middle Eastern music",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44502271\"\u003eComments\u003c/a\u003e",
-         "link": "https://forgetoolz.com/rain-pomodoro",
-         "links": [
-             "https://forgetoolz.com/rain-pomodoro"
-         ],
-         "published": "Tue, 08 Jul 2025 17:42:10 +0000",
-         "publishedParsed": "2025-07-08T17:42:10Z"
+         "published": "Wed, 09 Jul 2025 02:27:39 +0000",
+         "publishedParsed": "2025-07-09T02:27:39Z"
      },
      {
          "title": "New Horizons images enable first test of interstellar navigation",
@@ -260,6 +240,26 @@
          "publishedParsed": "2025-07-06T22:12:09Z"
      },
      {
+         "title": "Can an email go 500 miles in 2025?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44466030\"\u003eComments\u003c/a\u003e",
+         "link": "https://flak.tedunangst.com/post/can-an-email-go-500-miles-in-2025",
+         "links": [
+             "https://flak.tedunangst.com/post/can-an-email-go-500-miles-in-2025"
+         ],
+         "published": "Fri, 04 Jul 2025 16:49:27 +0000",
+         "publishedParsed": "2025-07-04T16:49:27Z"
+     },
+     {
+         "title": "GlobalFoundries to Acquire MIPS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44501821\"\u003eComments\u003c/a\u003e",
+         "link": "https://mips.com/press-releases/gf-mips/",
+         "links": [
+             "https://mips.com/press-releases/gf-mips/"
+         ],
+         "published": "Tue, 08 Jul 2025 16:57:18 +0000",
+         "publishedParsed": "2025-07-08T16:57:18Z"
+     },
+     {
          "title": "Blind to Disruption – The CEOs Who Missed the Future",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44499873\"\u003eComments\u003c/a\u003e",
          "link": "https://steveblank.com/2025/07/08/blind-to-disruption-the-ceos-who-missed-the-future/",
@@ -270,13 +270,13 @@
          "publishedParsed": "2025-07-08T13:41:43Z"
      },
      {
-         "title": "Ceramic: A cross-platform and open-source 2D framework in Haxe",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44472812\"\u003eComments\u003c/a\u003e",
-         "link": "https://ceramic-engine.com/",
+         "title": "Show HN: A rain Pomodoro with brown noise, ASMR, and Middle Eastern music",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44502271\"\u003eComments\u003c/a\u003e",
+         "link": "https://forgetoolz.com/rain-pomodoro",
          "links": [
-             "https://ceramic-engine.com/"
+             "https://forgetoolz.com/rain-pomodoro"
          ],
-         "published": "Sat, 05 Jul 2025 13:52:31 +0000",
-         "publishedParsed": "2025-07-05T13:52:31Z"
+         "published": "Tue, 08 Jul 2025 17:42:10 +0000",
+         "publishedParsed": "2025-07-08T17:42:10Z"
      }
  ]
