@@ -1,6 +1,6 @@
 [
      {
-         "title": "Helm local code execution via a malicious chart – CVE-2025-53547",
+         "title": "Helm local code execution via a malicious chart",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44506696\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm",
          "links": [
@@ -20,14 +20,34 @@
          "publishedParsed": "2025-07-09T07:38:29Z"
      },
      {
-         "title": "AI, Power and Sociolinguistics [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44507301\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.researchgate.net/profile/Ico-Maly-2/publication/385703534_AI_power_and_sociolinguistics/links/6813618cdf0e3f544f502f05/AI-power-and-sociolinguistics.pdf",
+         "title": "Ruby 3.4 Frozen String Literals: What Rails Developers Need to Know",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44479302\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/",
          "links": [
-             "https://www.researchgate.net/profile/Ico-Maly-2/publication/385703534_AI_power_and_sociolinguistics/links/6813618cdf0e3f544f502f05/AI-power-and-sociolinguistics.pdf"
+             "https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/"
          ],
-         "published": "Wed, 09 Jul 2025 07:48:03 +0000",
-         "publishedParsed": "2025-07-09T07:48:03Z"
+         "published": "Sun, 06 Jul 2025 09:58:26 +0000",
+         "publishedParsed": "2025-07-06T09:58:26Z"
+     },
+     {
+         "title": "ESIM Security",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44507830\"\u003eComments\u003c/a\u003e",
+         "link": "https://security-explorations.com/esim-security.html",
+         "links": [
+             "https://security-explorations.com/esim-security.html"
+         ],
+         "published": "Wed, 09 Jul 2025 09:13:10 +0000",
+         "publishedParsed": "2025-07-09T09:13:10Z"
+     },
+     {
+         "title": "Most RESTful APIs aren't really RESTful",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44507076\"\u003eComments\u003c/a\u003e",
+         "link": "https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html",
+         "links": [
+             "https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html"
+         ],
+         "published": "Wed, 09 Jul 2025 07:04:36 +0000",
+         "publishedParsed": "2025-07-09T07:04:36Z"
      },
      {
          "title": "RapidRAW: A non-destructive and GPU-accelerated RAW image editor",
@@ -50,16 +70,6 @@
          "publishedParsed": "2025-07-07T11:52:10Z"
      },
      {
-         "title": "Most RESTful APIs Aren't RESTful",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44507076\"\u003eComments\u003c/a\u003e",
-         "link": "https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html",
-         "links": [
-             "https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html"
-         ],
-         "published": "Wed, 09 Jul 2025 07:04:36 +0000",
-         "publishedParsed": "2025-07-09T07:04:36Z"
-     },
-     {
          "title": "Bootstrapping a side project into a profitable seven-figure business",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44495428\"\u003eComments\u003c/a\u003e",
          "link": "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding",
@@ -68,6 +78,26 @@
          ],
          "published": "Mon, 07 Jul 2025 22:58:45 +0000",
          "publishedParsed": "2025-07-07T22:58:45Z"
+     },
+     {
+         "title": "Astro is a return to the fundamentals of the web",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44507854\"\u003eComments\u003c/a\u003e",
+         "link": "https://websmith.studio/blog/astro-is-a-developers-dream/",
+         "links": [
+             "https://websmith.studio/blog/astro-is-a-developers-dream/"
+         ],
+         "published": "Wed, 09 Jul 2025 09:18:06 +0000",
+         "publishedParsed": "2025-07-09T09:18:06Z"
+     },
+     {
+         "title": "I'm Building LLM for Satellite Data EarthGPT.app",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44488742\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.earthgpt.app/",
+         "links": [
+             "https://www.earthgpt.app/"
+         ],
+         "published": "Mon, 07 Jul 2025 10:33:14 +0000",
+         "publishedParsed": "2025-07-07T10:33:14Z"
      },
      {
          "title": "Breaking Git with a carriage return and cloning RCE",
@@ -100,14 +130,14 @@
          "publishedParsed": "2025-07-09T07:29:52Z"
      },
      {
-         "title": "I'm Building LLM for Satellite Data EarthGPT.app",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44488742\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.earthgpt.app/",
+         "title": "Supabase MCP can leak your entire SQL database",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44502318\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.generalanalysis.com/blog/supabase-mcp-blog",
          "links": [
-             "https://www.earthgpt.app/"
+             "https://www.generalanalysis.com/blog/supabase-mcp-blog"
          ],
-         "published": "Mon, 07 Jul 2025 10:33:14 +0000",
-         "publishedParsed": "2025-07-07T10:33:14Z"
+         "published": "Tue, 08 Jul 2025 17:46:55 +0000",
+         "publishedParsed": "2025-07-08T17:46:55Z"
      },
      {
          "title": "Frame of preference A history of Mac settings, 1984–2004",
@@ -120,16 +150,6 @@
          "publishedParsed": "2025-07-09T00:14:19Z"
      },
      {
-         "title": "Supabase MCP can leak your entire SQL database",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44502318\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.generalanalysis.com/blog/supabase-mcp-blog",
-         "links": [
-             "https://www.generalanalysis.com/blog/supabase-mcp-blog"
-         ],
-         "published": "Tue, 08 Jul 2025 17:46:55 +0000",
-         "publishedParsed": "2025-07-08T17:46:55Z"
-     },
-     {
          "title": "Smollm3: Smol, multilingual, long-context reasoner LLM",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44501413\"\u003eComments\u003c/a\u003e",
          "link": "https://huggingface.co/blog/smollm3",
@@ -140,7 +160,7 @@
          "publishedParsed": "2025-07-08T16:13:40Z"
      },
      {
-         "title": "iPod Linux – Linux for Your iPod",
+         "title": "iPod Linux (2017)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44505816\"\u003eComments\u003c/a\u003e",
          "link": "http://www.ipodlinux.org/",
          "links": [
@@ -148,16 +168,6 @@
          ],
          "published": "Wed, 09 Jul 2025 02:27:39 +0000",
          "publishedParsed": "2025-07-09T02:27:39Z"
-     },
-     {
-         "title": "Brut: A New Web Framework for Ruby",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44502463\"\u003eComments\u003c/a\u003e",
-         "link": "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html",
-         "links": [
-             "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html"
-         ],
-         "published": "Tue, 08 Jul 2025 18:03:20 +0000",
-         "publishedParsed": "2025-07-08T18:03:20Z"
      },
      {
          "title": "Radium Music Editor",
@@ -170,54 +180,44 @@
          "publishedParsed": "2025-07-08T17:44:35Z"
      },
      {
-         "title": "Libpostal: C library for parsing/normalizing street addresses around the world",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44505610\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/openvenues/libpostal",
+         "title": "Show HN: Dev atrophy test – Can you still code without AI?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44507369\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=44507369",
          "links": [
-             "https://github.com/openvenues/libpostal"
+             "https://news.ycombinator.com/item?id=44507369"
          ],
-         "published": "Wed, 09 Jul 2025 01:45:55 +0000",
-         "publishedParsed": "2025-07-09T01:45:55Z"
+         "published": "Wed, 09 Jul 2025 08:00:32 +0000",
+         "publishedParsed": "2025-07-09T08:00:32Z"
      },
      {
-         "title": "The Dangers of Stochastic Parrots: Can Language Models Be Too Big?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44483917\"\u003eComments\u003c/a\u003e",
-         "link": "https://dl.acm.org/doi/10.1145/3442188.3445922",
+         "title": "The Capacity, Performance, and Reliability of MicroSD Cards",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44477870\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bahjeez.com/the-great-microsd-card-survey/",
          "links": [
-             "https://dl.acm.org/doi/10.1145/3442188.3445922"
+             "https://www.bahjeez.com/the-great-microsd-card-survey/"
          ],
-         "published": "Sun, 06 Jul 2025 20:48:03 +0000",
-         "publishedParsed": "2025-07-06T20:48:03Z"
+         "published": "Sun, 06 Jul 2025 04:33:36 +0000",
+         "publishedParsed": "2025-07-06T04:33:36Z"
      },
      {
-         "title": "Swahili on the Road",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44505359\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.historytoday.com/archive/behind-times/swahili-road",
+         "title": "Brut: A New Web Framework for Ruby",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44502463\"\u003eComments\u003c/a\u003e",
+         "link": "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html",
          "links": [
-             "https://www.historytoday.com/archive/behind-times/swahili-road"
+             "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html"
          ],
-         "published": "Wed, 09 Jul 2025 00:56:29 +0000",
-         "publishedParsed": "2025-07-09T00:56:29Z"
+         "published": "Tue, 08 Jul 2025 18:03:20 +0000",
+         "publishedParsed": "2025-07-08T18:03:20Z"
      },
      {
-         "title": "Surfing on a Matchbox (1999)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44486368\"\u003eComments\u003c/a\u003e",
-         "link": "http://news.bbc.co.uk/2/hi/science/nature/276762.stm",
+         "title": "IKEA ditches Zigbee for Thread going all in on Matter smart homes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44507971\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy",
          "links": [
-             "http://news.bbc.co.uk/2/hi/science/nature/276762.stm"
+             "https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy"
          ],
-         "published": "Mon, 07 Jul 2025 03:05:32 +0000",
-         "publishedParsed": "2025-07-07T03:05:32Z"
-     },
-     {
-         "title": "Introduction to Indian English",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44492175\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.oed.com/discover/introduction-to-indian-english/",
-         "links": [
-             "https://www.oed.com/discover/introduction-to-indian-english/"
-         ],
-         "published": "Mon, 07 Jul 2025 16:47:34 +0000",
-         "publishedParsed": "2025-07-07T16:47:34Z"
+         "published": "Wed, 09 Jul 2025 09:42:17 +0000",
+         "publishedParsed": "2025-07-09T09:42:17Z"
      },
      {
          "title": "Springer Nature book on machine learning is full of made-up citations",
@@ -240,6 +240,16 @@
          "publishedParsed": "2025-07-03T14:56:00Z"
      },
      {
+         "title": "Libpostal: C library for parsing/normalizing street addresses around the world",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44505610\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/openvenues/libpostal",
+         "links": [
+             "https://github.com/openvenues/libpostal"
+         ],
+         "published": "Wed, 09 Jul 2025 01:45:55 +0000",
+         "publishedParsed": "2025-07-09T01:45:55Z"
+     },
+     {
          "title": "Show HN: OffChess – Offline chess puzzles app",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44498296\"\u003eComments\u003c/a\u003e",
          "link": "https://offchess.com",
@@ -250,6 +260,16 @@
          "publishedParsed": "2025-07-08T08:57:01Z"
      },
      {
+         "title": "Swahili on the Road",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44505359\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.historytoday.com/archive/behind-times/swahili-road",
+         "links": [
+             "https://www.historytoday.com/archive/behind-times/swahili-road"
+         ],
+         "published": "Wed, 09 Jul 2025 00:56:29 +0000",
+         "publishedParsed": "2025-07-09T00:56:29Z"
+     },
+     {
          "title": "Dynamical origin of Theia, the last giant impactor on Earth",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44502527\"\u003eComments\u003c/a\u003e",
          "link": "https://arxiv.org/abs/2507.01826",
@@ -258,25 +278,5 @@
          ],
          "published": "Tue, 08 Jul 2025 18:10:46 +0000",
          "publishedParsed": "2025-07-08T18:10:46Z"
-     },
-     {
-         "title": "Where can I see Hokusai's Great Wave today?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44506117\"\u003eComments\u003c/a\u003e",
-         "link": "https://greatwavetoday.com/",
-         "links": [
-             "https://greatwavetoday.com/"
-         ],
-         "published": "Wed, 09 Jul 2025 03:34:37 +0000",
-         "publishedParsed": "2025-07-09T03:34:37Z"
-     },
-     {
-         "title": "PHP 8.5 alpha 1 is available for download",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44507284\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.php.net/archive/2025.php",
-         "links": [
-             "https://www.php.net/archive/2025.php"
-         ],
-         "published": "Wed, 09 Jul 2025 07:44:25 +0000",
-         "publishedParsed": "2025-07-09T07:44:25Z"
      }
  ]
