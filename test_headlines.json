@@ -1,5 +1,15 @@
 [
      {
+         "title": "How does a screen even work?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44550572\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.makingsoftware.com/chapters/how-a-screen-works",
+         "links": [
+             "https://www.makingsoftware.com/chapters/how-a-screen-works"
+         ],
+         "published": "Sun, 13 Jul 2025 14:09:06 +0000",
+         "publishedParsed": "2025-07-13T14:09:06Z"
+     },
+     {
          "title": "Reading Neuromancer for the first time in 2025",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44548353\"\u003eComments\u003c/a\u003e",
          "link": "https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson",
@@ -20,14 +30,14 @@
          "publishedParsed": "2025-07-12T19:06:09Z"
      },
      {
-         "title": "The upcoming GPT-3 moment for RL",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44512350\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/",
+         "title": "Show HN: Learn LLMs LeetCode Style",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44550157\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/Exorust/TorchLeet",
          "links": [
-             "https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/"
+             "https://github.com/Exorust/TorchLeet"
          ],
-         "published": "Wed, 09 Jul 2025 16:59:30 +0000",
-         "publishedParsed": "2025-07-09T16:59:30Z"
+         "published": "Sun, 13 Jul 2025 13:03:13 +0000",
+         "publishedParsed": "2025-07-13T13:03:13Z"
      },
      {
          "title": "Notes on Graham's ANSI Common Lisp (2024)",
@@ -40,54 +50,24 @@
          "publishedParsed": "2025-07-09T23:32:53Z"
      },
      {
-         "title": "Forget borrow checkers: C3 solved memory lifetimes with scopes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44532527\"\u003eComments\u003c/a\u003e",
-         "link": "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/",
+         "title": "The upcoming GPT-3 moment for RL",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44512350\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/",
          "links": [
-             "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/"
+             "https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/"
          ],
-         "published": "Fri, 11 Jul 2025 14:27:42 +0000",
-         "publishedParsed": "2025-07-11T14:27:42Z"
+         "published": "Wed, 09 Jul 2025 16:59:30 +0000",
+         "publishedParsed": "2025-07-09T16:59:30Z"
      },
      {
-         "title": "Gaming cancer: How citizen science games could help cure disease",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44549134\"\u003eComments\u003c/a\u003e",
-         "link": "https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/",
+         "title": "Local Chatbot RAG with FreeBSD Knowledge",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44550450\"\u003eComments\u003c/a\u003e",
+         "link": "https://hackacad.net/post/2025-07-12-local-chatbot-rag-with-freebsd-knowledge/",
          "links": [
-             "https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/"
+             "https://hackacad.net/post/2025-07-12-local-chatbot-rag-with-freebsd-knowledge/"
          ],
-         "published": "Sun, 13 Jul 2025 10:23:38 +0000",
-         "publishedParsed": "2025-07-13T10:23:38Z"
-     },
-     {
-         "title": "Show HN: ArchGW – an intelligent edge and service proxy for agents",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44546265\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=44546265",
-         "links": [
-             "https://news.ycombinator.com/item?id=44546265"
-         ],
-         "published": "Sat, 12 Jul 2025 23:55:39 +0000",
-         "publishedParsed": "2025-07-12T23:55:39Z"
-     },
-     {
-         "title": "Zig's New Async I/O",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44545949\"\u003eComments\u003c/a\u003e",
-         "link": "https://kristoff.it/blog/zig-new-async-io/",
-         "links": [
-             "https://kristoff.it/blog/zig-new-async-io/"
-         ],
-         "published": "Sat, 12 Jul 2025 23:03:41 +0000",
-         "publishedParsed": "2025-07-12T23:03:41Z"
-     },
-     {
-         "title": "Chrome's hidden X-Browser-Validation header reverse engineered",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44527739\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/dsekz/chrome-x-browser-validation-header",
-         "links": [
-             "https://github.com/dsekz/chrome-x-browser-validation-header"
-         ],
-         "published": "Fri, 11 Jul 2025 02:00:10 +0000",
-         "publishedParsed": "2025-07-11T02:00:10Z"
+         "published": "Sun, 13 Jul 2025 13:48:49 +0000",
+         "publishedParsed": "2025-07-13T13:48:49Z"
      },
      {
          "title": "The Decipherment of the Dhofari Script",
@@ -100,16 +80,6 @@
          "publishedParsed": "2025-07-13T10:25:18Z"
      },
      {
-         "title": "Let me pay for Firefox",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44548610\"\u003eComments\u003c/a\u003e",
-         "link": "https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297",
-         "links": [
-             "https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297"
-         ],
-         "published": "Sun, 13 Jul 2025 08:38:52 +0000",
-         "publishedParsed": "2025-07-13T08:38:52Z"
-     },
-     {
          "title": "Understanding Tool Calling in LLMs – Step-by-Step with REST and Spring AI",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44548906\"\u003eComments\u003c/a\u003e",
          "link": "https://muthuishere.medium.com/understanding-tool-function-calling-in-llms-step-by-step-examples-in-rest-and-spring-ai-2149ecd6b18b",
@@ -120,74 +90,24 @@
          "publishedParsed": "2025-07-13T09:44:47Z"
      },
      {
-         "title": "Show HN: Learn LLMs LeetCode Style",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44550157\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Exorust/TorchLeet",
+         "title": "Zig's New Async I/O",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44545949\"\u003eComments\u003c/a\u003e",
+         "link": "https://kristoff.it/blog/zig-new-async-io/",
          "links": [
-             "https://github.com/Exorust/TorchLeet"
+             "https://kristoff.it/blog/zig-new-async-io/"
          ],
-         "published": "Sun, 13 Jul 2025 13:03:13 +0000",
-         "publishedParsed": "2025-07-13T13:03:13Z"
+         "published": "Sat, 12 Jul 2025 23:03:41 +0000",
+         "publishedParsed": "2025-07-12T23:03:41Z"
      },
      {
-         "title": "Hacking Coroutines into C",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44546640\"\u003eComments\u003c/a\u003e",
-         "link": "https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html",
+         "title": "Gaming cancer: How citizen science games could help cure disease",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44549134\"\u003eComments\u003c/a\u003e",
+         "link": "https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/",
          "links": [
-             "https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html"
+             "https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/"
          ],
-         "published": "Sun, 13 Jul 2025 01:12:37 +0000",
-         "publishedParsed": "2025-07-13T01:12:37Z"
-     },
-     {
-         "title": "Switching to Claude Code and VSCode Inside Docker",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44533044\"\u003eComments\u003c/a\u003e",
-         "link": "https://timsh.org/claude-inside-docker/",
-         "links": [
-             "https://timsh.org/claude-inside-docker/"
-         ],
-         "published": "Fri, 11 Jul 2025 15:11:24 +0000",
-         "publishedParsed": "2025-07-11T15:11:24Z"
-     },
-     {
-         "title": "Aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44544862\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/aeron-io/aeron",
-         "links": [
-             "https://github.com/aeron-io/aeron"
-         ],
-         "published": "Sat, 12 Jul 2025 20:25:18 +0000",
-         "publishedParsed": "2025-07-12T20:25:18Z"
-     },
-     {
-         "title": "Lua beats MicroPython for serious embedded devs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44548503\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.embedded.com/why-lua-beats-micropython-for-serious-embedded-devs",
-         "links": [
-             "https://www.embedded.com/why-lua-beats-micropython-for-serious-embedded-devs"
-         ],
-         "published": "Sun, 13 Jul 2025 08:16:02 +0000",
-         "publishedParsed": "2025-07-13T08:16:02Z"
-     },
-     {
-         "title": "Parse, Don’t Validate – Some C Safety Tips",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44507405\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.lelanthran.com/chap13/content.html",
-         "links": [
-             "https://www.lelanthran.com/chap13/content.html"
-         ],
-         "published": "Wed, 09 Jul 2025 08:07:23 +0000",
-         "publishedParsed": "2025-07-09T08:07:23Z"
-     },
-     {
-         "title": "C++: Maps on Chains",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44529274\"\u003eComments\u003c/a\u003e",
-         "link": "http://bannalia.blogspot.com/2025/07/maps-on-chains.html",
-         "links": [
-             "http://bannalia.blogspot.com/2025/07/maps-on-chains.html"
-         ],
-         "published": "Fri, 11 Jul 2025 07:27:47 +0000",
-         "publishedParsed": "2025-07-11T07:27:47Z"
+         "published": "Sun, 13 Jul 2025 10:23:38 +0000",
+         "publishedParsed": "2025-07-13T10:23:38Z"
      },
      {
          "title": "Monitoring My Homelab, Simply",
@@ -200,6 +120,116 @@
          "publishedParsed": "2025-07-10T11:28:04Z"
      },
      {
+         "title": "The Robot Sculptors of Italy",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44517649\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bloomberg.com/features/2025-robot-sculptors-marble/",
+         "links": [
+             "https://www.bloomberg.com/features/2025-robot-sculptors-marble/"
+         ],
+         "published": "Thu, 10 Jul 2025 05:39:46 +0000",
+         "publishedParsed": "2025-07-10T05:39:46Z"
+     },
+     {
+         "title": "Chrome's hidden X-Browser-Validation header reverse engineered",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44527739\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/dsekz/chrome-x-browser-validation-header",
+         "links": [
+             "https://github.com/dsekz/chrome-x-browser-validation-header"
+         ],
+         "published": "Fri, 11 Jul 2025 02:00:10 +0000",
+         "publishedParsed": "2025-07-11T02:00:10Z"
+     },
+     {
+         "title": "Let me pay for Firefox",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44548610\"\u003eComments\u003c/a\u003e",
+         "link": "https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297",
+         "links": [
+             "https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297"
+         ],
+         "published": "Sun, 13 Jul 2025 08:38:52 +0000",
+         "publishedParsed": "2025-07-13T08:38:52Z"
+     },
+     {
+         "title": "Lua beats MicroPython for serious embedded devs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44548503\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.embedded.com/why-lua-beats-micropython-for-serious-embedded-devs",
+         "links": [
+             "https://www.embedded.com/why-lua-beats-micropython-for-serious-embedded-devs"
+         ],
+         "published": "Sun, 13 Jul 2025 08:16:02 +0000",
+         "publishedParsed": "2025-07-13T08:16:02Z"
+     },
+     {
+         "title": "Switching to Claude Code and VSCode Inside Docker",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44533044\"\u003eComments\u003c/a\u003e",
+         "link": "https://timsh.org/claude-inside-docker/",
+         "links": [
+             "https://timsh.org/claude-inside-docker/"
+         ],
+         "published": "Fri, 11 Jul 2025 15:11:24 +0000",
+         "publishedParsed": "2025-07-11T15:11:24Z"
+     },
+     {
+         "title": "Hacking Coroutines into C",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44546640\"\u003eComments\u003c/a\u003e",
+         "link": "https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html",
+         "links": [
+             "https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html"
+         ],
+         "published": "Sun, 13 Jul 2025 01:12:37 +0000",
+         "publishedParsed": "2025-07-13T01:12:37Z"
+     },
+     {
+         "title": "Show HN: ArchGW – an intelligent edge and service proxy for agents",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44546265\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=44546265",
+         "links": [
+             "https://news.ycombinator.com/item?id=44546265"
+         ],
+         "published": "Sat, 12 Jul 2025 23:55:39 +0000",
+         "publishedParsed": "2025-07-12T23:55:39Z"
+     },
+     {
+         "title": "Aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44544862\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/aeron-io/aeron",
+         "links": [
+             "https://github.com/aeron-io/aeron"
+         ],
+         "published": "Sat, 12 Jul 2025 20:25:18 +0000",
+         "publishedParsed": "2025-07-12T20:25:18Z"
+     },
+     {
+         "title": "Parse, Don’t Validate – Some C Safety Tips",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44507405\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.lelanthran.com/chap13/content.html",
+         "links": [
+             "https://www.lelanthran.com/chap13/content.html"
+         ],
+         "published": "Wed, 09 Jul 2025 08:07:23 +0000",
+         "publishedParsed": "2025-07-09T08:07:23Z"
+     },
+     {
+         "title": "A Mental Model for C++ Coroutine",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44534809\"\u003eComments\u003c/a\u003e",
+         "link": "https://uvdn7.github.io/cpp-coro/",
+         "links": [
+             "https://uvdn7.github.io/cpp-coro/"
+         ],
+         "published": "Fri, 11 Jul 2025 17:23:57 +0000",
+         "publishedParsed": "2025-07-11T17:23:57Z"
+     },
+     {
+         "title": "C++: Maps on Chains",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44529274\"\u003eComments\u003c/a\u003e",
+         "link": "http://bannalia.blogspot.com/2025/07/maps-on-chains.html",
+         "links": [
+             "http://bannalia.blogspot.com/2025/07/maps-on-chains.html"
+         ],
+         "published": "Fri, 11 Jul 2025 07:27:47 +0000",
+         "publishedParsed": "2025-07-11T07:27:47Z"
+     },
+     {
          "title": "Experimental imperative-style music sequence generator engine",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44507931\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/renoise/pattrns",
@@ -210,16 +240,6 @@
          "publishedParsed": "2025-07-09T09:33:57Z"
      },
      {
-         "title": "Edward Burtynsky's monumental chronicle of the human impact on the planet",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44547089\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale",
-         "links": [
-             "https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale"
-         ],
-         "published": "Sun, 13 Jul 2025 02:47:00 +0000",
-         "publishedParsed": "2025-07-13T02:47:00Z"
-     },
-     {
          "title": "Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams in Python",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44543240\"\u003eComments\u003c/a\u003e",
          "link": "https://inventwithpython.com/blog/lost-av-chapter.html",
@@ -228,6 +248,16 @@
          ],
          "published": "Sat, 12 Jul 2025 16:45:45 +0000",
          "publishedParsed": "2025-07-12T16:45:45Z"
+     },
+     {
+         "title": "Edward Burtynsky's monumental chronicle of the human impact on the planet",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44547089\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale",
+         "links": [
+             "https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale"
+         ],
+         "published": "Sun, 13 Jul 2025 02:47:00 +0000",
+         "publishedParsed": "2025-07-13T02:47:00Z"
      },
      {
          "title": "Capturing the International Space Station (2022)",
@@ -258,25 +288,5 @@
          ],
          "published": "Sat, 12 Jul 2025 08:45:15 +0000",
          "publishedParsed": "2025-07-12T08:45:15Z"
-     },
-     {
-         "title": "The fish kick may be the fastest subsurface swim stroke yet (2015)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44541576\"\u003eComments\u003c/a\u003e",
-         "link": "https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/",
-         "links": [
-             "https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/"
-         ],
-         "published": "Sat, 12 Jul 2025 12:25:28 +0000",
-         "publishedParsed": "2025-07-12T12:25:28Z"
-     },
-     {
-         "title": "Two-step system makes plastic from carbon dioxide, water and electricity",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44515210\"\u003eComments\u003c/a\u003e",
-         "link": "https://phys.org/news/2025-06-plastic-carbon-dioxide-electricity.html",
-         "links": [
-             "https://phys.org/news/2025-06-plastic-carbon-dioxide-electricity.html"
-         ],
-         "published": "Wed, 09 Jul 2025 22:10:37 +0000",
-         "publishedParsed": "2025-07-09T22:10:37Z"
      }
  ]
