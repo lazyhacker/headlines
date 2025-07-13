@@ -10,6 +10,16 @@
          "publishedParsed": "2025-07-12T19:06:09Z"
      },
      {
+         "title": "Switching to Claude Code and VSCode Inside Docker",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44533044\"\u003eComments\u003c/a\u003e",
+         "link": "https://timsh.org/claude-inside-docker/",
+         "links": [
+             "https://timsh.org/claude-inside-docker/"
+         ],
+         "published": "Fri, 11 Jul 2025 15:11:24 +0000",
+         "publishedParsed": "2025-07-11T15:11:24Z"
+     },
+     {
          "title": "Hacking Coroutines into C",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44546640\"\u003eComments\u003c/a\u003e",
          "link": "https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html",
@@ -30,14 +40,14 @@
          "publishedParsed": "2025-07-12T17:26:24Z"
      },
      {
-         "title": "Parse, Don't Validate (For C)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44507405\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.lelanthran.com/chap13/content.html",
+         "title": "Zig's New Async I/O",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44545949\"\u003eComments\u003c/a\u003e",
+         "link": "https://kristoff.it/blog/zig-new-async-io/",
          "links": [
-             "https://www.lelanthran.com/chap13/content.html"
+             "https://kristoff.it/blog/zig-new-async-io/"
          ],
-         "published": "Wed, 09 Jul 2025 08:07:23 +0000",
-         "publishedParsed": "2025-07-09T08:07:23Z"
+         "published": "Sat, 12 Jul 2025 23:03:41 +0000",
+         "publishedParsed": "2025-07-12T23:03:41Z"
      },
      {
          "title": "MacPaint Art from the Mid-80s Still Looks Great Today",
@@ -50,14 +60,14 @@
          "publishedParsed": "2025-07-12T08:45:15Z"
      },
      {
-         "title": "Switching to Claude Code and VSCode Inside Docker",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44533044\"\u003eComments\u003c/a\u003e",
-         "link": "https://timsh.org/claude-inside-docker/",
+         "title": "Nuclear Explosion for Carbon Sequestration",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44547538\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2501.06623",
          "links": [
-             "https://timsh.org/claude-inside-docker/"
+             "https://arxiv.org/abs/2501.06623"
          ],
-         "published": "Fri, 11 Jul 2025 15:11:24 +0000",
-         "publishedParsed": "2025-07-11T15:11:24Z"
+         "published": "Sun, 13 Jul 2025 04:33:44 +0000",
+         "publishedParsed": "2025-07-13T04:33:44Z"
      },
      {
          "title": "Chrome's hidden X-Browser-Validation header reverse engineered",
@@ -70,6 +80,46 @@
          "publishedParsed": "2025-07-11T02:00:10Z"
      },
      {
+         "title": "Aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44544862\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/aeron-io/aeron",
+         "links": [
+             "https://github.com/aeron-io/aeron"
+         ],
+         "published": "Sat, 12 Jul 2025 20:25:18 +0000",
+         "publishedParsed": "2025-07-12T20:25:18Z"
+     },
+     {
+         "title": "Edward Burtynsky's monumental chronicle of the human impact on the planet",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44547089\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale",
+         "links": [
+             "https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale"
+         ],
+         "published": "Sun, 13 Jul 2025 02:47:00 +0000",
+         "publishedParsed": "2025-07-13T02:47:00Z"
+     },
+     {
+         "title": "Parse, Don't Validate (For C)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44507405\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.lelanthran.com/chap13/content.html",
+         "links": [
+             "https://www.lelanthran.com/chap13/content.html"
+         ],
+         "published": "Wed, 09 Jul 2025 08:07:23 +0000",
+         "publishedParsed": "2025-07-09T08:07:23Z"
+     },
+     {
+         "title": "Programming Affordances That Invite Mistakes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44520218\"\u003eComments\u003c/a\u003e",
+         "link": "https://thetechenabler.substack.com/p/programming-affordance-when-a-languages",
+         "links": [
+             "https://thetechenabler.substack.com/p/programming-affordance-when-a-languages"
+         ],
+         "published": "Thu, 10 Jul 2025 12:26:32 +0000",
+         "publishedParsed": "2025-07-10T12:26:32Z"
+     },
+     {
          "title": "Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams in Python",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44543240\"\u003eComments\u003c/a\u003e",
          "link": "https://inventwithpython.com/blog/lost-av-chapter.html",
@@ -80,14 +130,24 @@
          "publishedParsed": "2025-07-12T16:45:45Z"
      },
      {
-         "title": "A better Ghidra MCP server – GhidrAssistMCP",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44543913\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/jtang613/GhidrAssistMCP",
+         "title": "Experimental imperative-style music sequence generator engine",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44507931\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/renoise/pattrns",
          "links": [
-             "https://github.com/jtang613/GhidrAssistMCP"
+             "https://github.com/renoise/pattrns"
          ],
-         "published": "Sat, 12 Jul 2025 18:21:33 +0000",
-         "publishedParsed": "2025-07-12T18:21:33Z"
+         "published": "Wed, 09 Jul 2025 09:33:57 +0000",
+         "publishedParsed": "2025-07-09T09:33:57Z"
+     },
+     {
+         "title": "Light exposure at night predicts incidence of cardiovascular diseases",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44545858\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1",
+         "links": [
+             "https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1"
+         ],
+         "published": "Sat, 12 Jul 2025 22:48:14 +0000",
+         "publishedParsed": "2025-07-12T22:48:14Z"
      },
      {
          "title": "The fish kick may be the fastest subsurface swim stroke yet (2015)",
@@ -110,6 +170,16 @@
          "publishedParsed": "2025-07-09T22:10:37Z"
      },
      {
+         "title": "A better Ghidra MCP server – GhidrAssistMCP",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44543913\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/jtang613/GhidrAssistMCP",
+         "links": [
+             "https://github.com/jtang613/GhidrAssistMCP"
+         ],
+         "published": "Sat, 12 Jul 2025 18:21:33 +0000",
+         "publishedParsed": "2025-07-12T18:21:33Z"
+     },
+     {
          "title": "Show HN: I made a JSFiddle-style playground to test and share prompts fast",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44543638\"\u003eComments\u003c/a\u003e",
          "link": "https://langfa.st/",
@@ -128,6 +198,26 @@
          ],
          "published": "Thu, 10 Jul 2025 11:59:35 +0000",
          "publishedParsed": "2025-07-10T11:59:35Z"
+     },
+     {
+         "title": "Malware found in official gravityforms plugin indicating supply chain breach",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44539879\"\u003eComments\u003c/a\u003e",
+         "link": "https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/",
+         "links": [
+             "https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/"
+         ],
+         "published": "Sat, 12 Jul 2025 06:41:59 +0000",
+         "publishedParsed": "2025-07-12T06:41:59Z"
+     },
+     {
+         "title": "New Date(\"wtf\") – How well do you know JavaScript's Date class?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44540241\"\u003eComments\u003c/a\u003e",
+         "link": "https://jsdate.wtf",
+         "links": [
+             "https://jsdate.wtf"
+         ],
+         "published": "Sat, 12 Jul 2025 08:14:02 +0000",
+         "publishedParsed": "2025-07-12T08:14:02Z"
      },
      {
          "title": "Second Variety, by Philip K. Dick (1953)",
@@ -150,14 +240,14 @@
          "publishedParsed": "2025-07-12T12:23:33Z"
      },
      {
-         "title": "New Date(\"wtf\") – How well do you know JavaScript's Date class?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44540241\"\u003eComments\u003c/a\u003e",
-         "link": "https://jsdate.wtf",
+         "title": "New Windows 11 build adds self-healing \"quick machine recovery\" feature",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44547433\"\u003eComments\u003c/a\u003e",
+         "link": "https://arstechnica.com/gadgets/2025/07/new-windows-11-build-adds-self-healing-quick-machine-recovery-feature/",
          "links": [
-             "https://jsdate.wtf"
+             "https://arstechnica.com/gadgets/2025/07/new-windows-11-build-adds-self-healing-quick-machine-recovery-feature/"
          ],
-         "published": "Sat, 12 Jul 2025 08:14:02 +0000",
-         "publishedParsed": "2025-07-12T08:14:02Z"
+         "published": "Sun, 13 Jul 2025 04:12:57 +0000",
+         "publishedParsed": "2025-07-13T04:12:57Z"
      },
      {
          "title": "Exposing a web service with Cloudflare Tunnel (2022)",
@@ -170,66 +260,6 @@
          "publishedParsed": "2025-07-09T09:08:34Z"
      },
      {
-         "title": "Malware found in official gravityforms plugin indicating supply chain breach",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44539879\"\u003eComments\u003c/a\u003e",
-         "link": "https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/",
-         "links": [
-             "https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/"
-         ],
-         "published": "Sat, 12 Jul 2025 06:41:59 +0000",
-         "publishedParsed": "2025-07-12T06:41:59Z"
-     },
-     {
-         "title": "Zig's New Async I/O",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44545949\"\u003eComments\u003c/a\u003e",
-         "link": "https://kristoff.it/blog/zig-new-async-io/",
-         "links": [
-             "https://kristoff.it/blog/zig-new-async-io/"
-         ],
-         "published": "Sat, 12 Jul 2025 23:03:41 +0000",
-         "publishedParsed": "2025-07-12T23:03:41Z"
-     },
-     {
-         "title": "Show HN: DesignArena – crowdsourced benchmark for AI-generated UI/UX",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44542578\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.designarena.ai/",
-         "links": [
-             "https://www.designarena.ai/"
-         ],
-         "published": "Sat, 12 Jul 2025 15:07:46 +0000",
-         "publishedParsed": "2025-07-12T15:07:46Z"
-     },
-     {
-         "title": "Light exposure at night predicts incidence of cardiovascular diseases",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44545858\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1",
-         "links": [
-             "https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1"
-         ],
-         "published": "Sat, 12 Jul 2025 22:48:14 +0000",
-         "publishedParsed": "2025-07-12T22:48:14Z"
-     },
-     {
-         "title": "MoonPay executives may have sent $250k to Nigerian scammer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44546422\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theblock.co/post/362339/moonpay-executives-may-have-sent-250000-to-nigerian-scammer-doj-filing-suggests",
-         "links": [
-             "https://www.theblock.co/post/362339/moonpay-executives-may-have-sent-250000-to-nigerian-scammer-doj-filing-suggests"
-         ],
-         "published": "Sun, 13 Jul 2025 00:29:21 +0000",
-         "publishedParsed": "2025-07-13T00:29:21Z"
-     },
-     {
-         "title": "Faking a JPEG",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44537631\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/",
-         "links": [
-             "https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/"
-         ],
-         "published": "Fri, 11 Jul 2025 22:57:25 +0000",
-         "publishedParsed": "2025-07-11T22:57:25Z"
-     },
-     {
          "title": "Vibe-Coding a PCB – surprisingly good",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44542880\"\u003eComments\u003c/a\u003e",
          "link": "https://atomic14.substack.com/p/vibe-coding-a-pcb-surprisingly-good",
@@ -240,43 +270,13 @@
          "publishedParsed": "2025-07-12T15:47:26Z"
      },
      {
-         "title": "First malaria treatment for babies approved for use",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44500815\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bbc.com/news/articles/c89e872jdjxo",
+         "title": "Show HN: DesignArena – crowdsourced benchmark for AI-generated UI/UX",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44542578\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.designarena.ai/",
          "links": [
-             "https://www.bbc.com/news/articles/c89e872jdjxo"
+             "https://www.designarena.ai/"
          ],
-         "published": "Tue, 08 Jul 2025 15:16:33 +0000",
-         "publishedParsed": "2025-07-08T15:16:33Z"
-     },
-     {
-         "title": "OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44536988\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theverge.com/openai/705999/google-windsurf-ceo-openai",
-         "links": [
-             "https://www.theverge.com/openai/705999/google-windsurf-ceo-openai"
-         ],
-         "published": "Fri, 11 Jul 2025 21:35:31 +0000",
-         "publishedParsed": "2025-07-11T21:35:31Z"
-     },
-     {
-         "title": "Preliminary report into Air India crash released",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44536459\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bbc.co.uk/news/live/cx20p2x9093t",
-         "links": [
-             "https://www.bbc.co.uk/news/live/cx20p2x9093t"
-         ],
-         "published": "Fri, 11 Jul 2025 20:23:18 +0000",
-         "publishedParsed": "2025-07-11T20:23:18Z"
-     },
-     {
-         "title": "Arizona resident dies from the plague less than 24 hours after showing symptoms",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44543368\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.independent.co.uk/news/health/arizona-plague-death-cases-b2787325.html",
-         "links": [
-             "https://www.independent.co.uk/news/health/arizona-plague-death-cases-b2787325.html"
-         ],
-         "published": "Sat, 12 Jul 2025 17:05:14 +0000",
-         "publishedParsed": "2025-07-12T17:05:14Z"
+         "published": "Sat, 12 Jul 2025 15:07:46 +0000",
+         "publishedParsed": "2025-07-12T15:07:46Z"
      }
  ]
