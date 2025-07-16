@@ -1,5 +1,15 @@
 [
      {
+         "title": "Six Years of Gemini",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44578143\"\u003eComments\u003c/a\u003e",
+         "link": "https://geminiprotocol.net/news/2025_06_20.gmi",
+         "links": [
+             "https://geminiprotocol.net/news/2025_06_20.gmi"
+         ],
+         "published": "Wed, 16 Jul 2025 02:37:37 +0000",
+         "publishedParsed": "2025-07-16T02:37:37Z"
+     },
+     {
          "title": "GPUHammer: Rowhammer attacks on GPU memories are practical",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44577268\"\u003eComments\u003c/a\u003e",
          "link": "https://gpuhammer.com/",
@@ -10,6 +20,26 @@
          "publishedParsed": "2025-07-16T00:05:45Z"
      },
      {
+         "title": "Tilck: A Tiny Linux-Compatible Kernel",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44578510\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/vvaltchev/tilck",
+         "links": [
+             "https://github.com/vvaltchev/tilck"
+         ],
+         "published": "Wed, 16 Jul 2025 03:50:00 +0000",
+         "publishedParsed": "2025-07-16T03:50:00Z"
+     },
+     {
+         "title": "Cloudflare 1.1.1.1 Incident on July 14, 2025",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44578490\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
+         "links": [
+             "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/"
+         ],
+         "published": "Wed, 16 Jul 2025 03:44:39 +0000",
+         "publishedParsed": "2025-07-16T03:44:39Z"
+     },
+     {
          "title": "Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44572377\"\u003eComments\u003c/a\u003e",
          "link": "https://www.matthieulc.com/posts/shoggoth-mini",
@@ -18,16 +48,6 @@
          ],
          "published": "Tue, 15 Jul 2025 15:46:41 +0000",
          "publishedParsed": "2025-07-15T15:46:41Z"
-     },
-     {
-         "title": "NIST ion clock sets new record for most accurate clock",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44572499\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world",
-         "links": [
-             "https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world"
-         ],
-         "published": "Tue, 15 Jul 2025 15:56:47 +0000",
-         "publishedParsed": "2025-07-15T15:56:47Z"
      },
      {
          "title": "Running a million-board chess MMO in a single process",
@@ -50,14 +70,24 @@
          "publishedParsed": "2025-07-15T16:49:06Z"
      },
      {
-         "title": "Where's Firefox going next?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44575794\"\u003eComments\u003c/a\u003e",
-         "link": "https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094",
+         "title": "NIST ion clock sets new record for most accurate clock",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44572499\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world",
          "links": [
-             "https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094"
+             "https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world"
          ],
-         "published": "Tue, 15 Jul 2025 21:03:50 +0000",
-         "publishedParsed": "2025-07-15T21:03:50Z"
+         "published": "Tue, 15 Jul 2025 15:56:47 +0000",
+         "publishedParsed": "2025-07-15T15:56:47Z"
+     },
+     {
+         "title": "Run LLM Agents as Microservices with One-Click Deployment",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44578558\"\u003eComments\u003c/a\u003e",
+         "link": "https://agentainer.io/",
+         "links": [
+             "https://agentainer.io/"
+         ],
+         "published": "Wed, 16 Jul 2025 04:03:04 +0000",
+         "publishedParsed": "2025-07-16T04:03:04Z"
      },
      {
          "title": "The FIPS 140-3 Go Cryptographic Module",
@@ -70,24 +100,14 @@
          "publishedParsed": "2025-07-15T20:42:49Z"
      },
      {
-         "title": "To be a better programmer, write little proofs in your head",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44573409\"\u003eComments\u003c/a\u003e",
-         "link": "https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/",
+         "title": "Where's Firefox going next?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44575794\"\u003eComments\u003c/a\u003e",
+         "link": "https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094",
          "links": [
-             "https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/"
+             "https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094"
          ],
-         "published": "Tue, 15 Jul 2025 17:05:39 +0000",
-         "publishedParsed": "2025-07-15T17:05:39Z"
-     },
-     {
-         "title": "How bad are childhood literacy rates?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44541509\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.vox.com/culture/419070/childhood-literacy-college-students-reading-crisis-ai",
-         "links": [
-             "https://www.vox.com/culture/419070/childhood-literacy-college-students-reading-crisis-ai"
-         ],
-         "published": "Sat, 12 Jul 2025 12:09:40 +0000",
-         "publishedParsed": "2025-07-12T12:09:40Z"
+         "published": "Tue, 15 Jul 2025 21:03:50 +0000",
+         "publishedParsed": "2025-07-15T21:03:50Z"
      },
      {
          "title": "My Family and the Flood",
@@ -100,6 +120,26 @@
          "publishedParsed": "2025-07-15T22:07:47Z"
      },
      {
+         "title": "To be a better programmer, write little proofs in your head",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44573409\"\u003eComments\u003c/a\u003e",
+         "link": "https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/",
+         "links": [
+             "https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/"
+         ],
+         "published": "Tue, 15 Jul 2025 17:05:39 +0000",
+         "publishedParsed": "2025-07-15T17:05:39Z"
+     },
+     {
+         "title": "Show HN: Reviving a 20 year old OS X App",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44540724\"\u003eComments\u003c/a\u003e",
+         "link": "https://andrewshaw.nl/blog/reviving-genius",
+         "links": [
+             "https://andrewshaw.nl/blog/reviving-genius"
+         ],
+         "published": "Sat, 12 Jul 2025 09:47:30 +0000",
+         "publishedParsed": "2025-07-12T09:47:30Z"
+     },
+     {
          "title": "Encrypting files with passkeys and age",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44562084\"\u003eComments\u003c/a\u003e",
          "link": "https://words.filippo.io/passkey-encryption/",
@@ -108,16 +148,6 @@
          ],
          "published": "Mon, 14 Jul 2025 16:31:37 +0000",
          "publishedParsed": "2025-07-14T16:31:37Z"
-     },
-     {
-         "title": "Unlike ChatGPT, Anthropic has doubled down on Artifacts",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44577171\"\u003eComments\u003c/a\u003e",
-         "link": "https://ben-mini.com/2025/claude-is-kicking-chatgpts-butt",
-         "links": [
-             "https://ben-mini.com/2025/claude-is-kicking-chatgpts-butt"
-         ],
-         "published": "Tue, 15 Jul 2025 23:50:02 +0000",
-         "publishedParsed": "2025-07-15T23:50:02Z"
      },
      {
          "title": "The Story of Mel, A Real Programmer, Annotated (1996)",
@@ -130,6 +160,16 @@
          "publishedParsed": "2025-07-12T14:42:04Z"
      },
      {
+         "title": "Plasma Bigscreen rises from the dead with a better UI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44573752\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.neowin.net/news/kdes-android-tv-alternative-plasma-bigscreen-rises-from-the-dead-with-a-better-ui/",
+         "links": [
+             "https://www.neowin.net/news/kdes-android-tv-alternative-plasma-bigscreen-rises-from-the-dead-with-a-better-ui/"
+         ],
+         "published": "Tue, 15 Jul 2025 17:35:42 +0000",
+         "publishedParsed": "2025-07-15T17:35:42Z"
+     },
+     {
          "title": "Designing for the Eye: Optical corrections in architecture and typography",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44573887\"\u003eComments\u003c/a\u003e",
          "link": "https://www.nubero.ch/blog/015/",
@@ -138,16 +178,6 @@
          ],
          "published": "Tue, 15 Jul 2025 17:48:35 +0000",
          "publishedParsed": "2025-07-15T17:48:35Z"
-     },
-     {
-         "title": "What Was Cyberpunk? In Memoriam: 1980-2020 (2020)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44548701\"\u003eComments\u003c/a\u003e",
-         "link": "https://forums.insertcredit.com/t/what-was-cyberpunk-in-memoriam-1980-2020/1721",
-         "links": [
-             "https://forums.insertcredit.com/t/what-was-cyberpunk-in-memoriam-1980-2020/1721"
-         ],
-         "published": "Sun, 13 Jul 2025 08:59:42 +0000",
-         "publishedParsed": "2025-07-13T08:59:42Z"
      },
      {
          "title": "Easy dynamic dispatch using GLIBC Hardware Capabilities",
@@ -180,16 +210,6 @@
          "publishedParsed": "2025-07-15T22:03:50Z"
      },
      {
-         "title": "Hazel: A live functional programming environment with typed holes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44574864\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/hazelgrove/hazel",
-         "links": [
-             "https://github.com/hazelgrove/hazel"
-         ],
-         "published": "Tue, 15 Jul 2025 19:23:07 +0000",
-         "publishedParsed": "2025-07-15T19:23:07Z"
-     },
-     {
          "title": "Lorem Gibson",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44548620\"\u003eComments\u003c/a\u003e",
          "link": "http://loremgibson.com/",
@@ -198,26 +218,6 @@
          ],
          "published": "Sun, 13 Jul 2025 08:39:47 +0000",
          "publishedParsed": "2025-07-13T08:39:47Z"
-     },
-     {
-         "title": "Show HN: Beyond Z²+C, Plot Any Fractal",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44574318\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.juliascope.com/",
-         "links": [
-             "https://www.juliascope.com/"
-         ],
-         "published": "Tue, 15 Jul 2025 18:24:51 +0000",
-         "publishedParsed": "2025-07-15T18:24:51Z"
-     },
-     {
-         "title": "OpenAI – vulnerability responsible disclosure",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44577018\"\u003eComments\u003c/a\u003e",
-         "link": "https://requilence.any.org/open-ai-vulnerability-responsible-disclosure",
-         "links": [
-             "https://requilence.any.org/open-ai-vulnerability-responsible-disclosure"
-         ],
-         "published": "Tue, 15 Jul 2025 23:29:54 +0000",
-         "publishedParsed": "2025-07-15T23:29:54Z"
      },
      {
          "title": "Mostly dead influential programming languages (2020)",
@@ -260,6 +260,26 @@
          "publishedParsed": "2025-07-15T17:00:04Z"
      },
      {
+         "title": "Show HN: Beyond Z²+C, Plot Any Fractal",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44574318\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.juliascope.com/",
+         "links": [
+             "https://www.juliascope.com/"
+         ],
+         "published": "Tue, 15 Jul 2025 18:24:51 +0000",
+         "publishedParsed": "2025-07-15T18:24:51Z"
+     },
+     {
+         "title": "Hazel: A live functional programming environment with typed holes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44574864\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/hazelgrove/hazel",
+         "links": [
+             "https://github.com/hazelgrove/hazel"
+         ],
+         "published": "Tue, 15 Jul 2025 19:23:07 +0000",
+         "publishedParsed": "2025-07-15T19:23:07Z"
+     },
+     {
          "title": "LLM Inevitabilism",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44567857\"\u003eComments\u003c/a\u003e",
          "link": "https://tomrenner.com/posts/llm-inevitabilism/",
@@ -268,35 +288,5 @@
          ],
          "published": "Tue, 15 Jul 2025 04:35:35 +0000",
          "publishedParsed": "2025-07-15T04:35:35Z"
-     },
-     {
-         "title": "Petabit-class transmission over \u003e 1000 km using standard 19-core optical fiber",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44546321\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nict.go.jp/en/press/2025/05/29-1.html",
-         "links": [
-             "https://www.nict.go.jp/en/press/2025/05/29-1.html"
-         ],
-         "published": "Sun, 13 Jul 2025 00:06:20 +0000",
-         "publishedParsed": "2025-07-13T00:06:20Z"
-     },
-     {
-         "title": "Helix Editor 25.07",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44574815\"\u003eComments\u003c/a\u003e",
-         "link": "https://helix-editor.com/news/release-25-07-highlights/",
-         "links": [
-             "https://helix-editor.com/news/release-25-07-highlights/"
-         ],
-         "published": "Tue, 15 Jul 2025 19:16:59 +0000",
-         "publishedParsed": "2025-07-15T19:16:59Z"
-     },
-     {
-         "title": "Show HN: I built this to talk Danish to my girlfriend – works with any language",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44549549\"\u003eComments\u003c/a\u003e",
-         "link": "https://menerdu.vercel.app/",
-         "links": [
-             "https://menerdu.vercel.app/"
-         ],
-         "published": "Sun, 13 Jul 2025 11:38:18 +0000",
-         "publishedParsed": "2025-07-13T11:38:18Z"
      }
  ]
