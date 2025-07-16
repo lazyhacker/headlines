@@ -1,5 +1,15 @@
 [
      {
+         "title": "Cloudflare 1.1.1.1 Incident on July 14, 2025",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44578490\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
+         "links": [
+             "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/"
+         ],
+         "published": "Wed, 16 Jul 2025 03:44:39 +0000",
+         "publishedParsed": "2025-07-16T03:44:39Z"
+     },
+     {
          "title": "Six Years of Gemini",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44578143\"\u003eComments\u003c/a\u003e",
          "link": "https://geminiprotocol.net/news/2025_06_20.gmi",
@@ -8,16 +18,6 @@
          ],
          "published": "Wed, 16 Jul 2025 02:37:37 +0000",
          "publishedParsed": "2025-07-16T02:37:37Z"
-     },
-     {
-         "title": "GPUHammer: Rowhammer attacks on GPU memories are practical",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44577268\"\u003eComments\u003c/a\u003e",
-         "link": "https://gpuhammer.com/",
-         "links": [
-             "https://gpuhammer.com/"
-         ],
-         "published": "Wed, 16 Jul 2025 00:05:45 +0000",
-         "publishedParsed": "2025-07-16T00:05:45Z"
      },
      {
          "title": "Tilck: A Tiny Linux-Compatible Kernel",
@@ -30,14 +30,24 @@
          "publishedParsed": "2025-07-16T03:50:00Z"
      },
      {
-         "title": "Cloudflare 1.1.1.1 Incident on July 14, 2025",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44578490\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
+         "title": "GPUHammer: Rowhammer attacks on GPU memories are practical",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44577268\"\u003eComments\u003c/a\u003e",
+         "link": "https://gpuhammer.com/",
          "links": [
-             "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/"
+             "https://gpuhammer.com/"
          ],
-         "published": "Wed, 16 Jul 2025 03:44:39 +0000",
-         "publishedParsed": "2025-07-16T03:44:39Z"
+         "published": "Wed, 16 Jul 2025 00:05:45 +0000",
+         "publishedParsed": "2025-07-16T00:05:45Z"
+     },
+     {
+         "title": "LLM Daydreaming",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44578070\"\u003eComments\u003c/a\u003e",
+         "link": "https://gwern.net/ai-daydreaming",
+         "links": [
+             "https://gwern.net/ai-daydreaming"
+         ],
+         "published": "Wed, 16 Jul 2025 02:22:02 +0000",
+         "publishedParsed": "2025-07-16T02:22:02Z"
      },
      {
          "title": "Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL",
@@ -48,16 +58,6 @@
          ],
          "published": "Tue, 15 Jul 2025 15:46:41 +0000",
          "publishedParsed": "2025-07-15T15:46:41Z"
-     },
-     {
-         "title": "Running a million-board chess MMO in a single process",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44541088\"\u003eComments\u003c/a\u003e",
-         "link": "https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process/",
-         "links": [
-             "https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process/"
-         ],
-         "published": "Sat, 12 Jul 2025 10:56:24 +0000",
-         "publishedParsed": "2025-07-12T10:56:24Z"
      },
      {
          "title": "Reflections on OpenAI",
@@ -80,24 +80,14 @@
          "publishedParsed": "2025-07-15T15:56:47Z"
      },
      {
-         "title": "Run LLM Agents as Microservices with One-Click Deployment",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44578558\"\u003eComments\u003c/a\u003e",
-         "link": "https://agentainer.io/",
+         "title": "Running a million-board chess MMO in a single process",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44541088\"\u003eComments\u003c/a\u003e",
+         "link": "https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process/",
          "links": [
-             "https://agentainer.io/"
+             "https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process/"
          ],
-         "published": "Wed, 16 Jul 2025 04:03:04 +0000",
-         "publishedParsed": "2025-07-16T04:03:04Z"
-     },
-     {
-         "title": "The FIPS 140-3 Go Cryptographic Module",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44575607\"\u003eComments\u003c/a\u003e",
-         "link": "https://go.dev/blog/fips140",
-         "links": [
-             "https://go.dev/blog/fips140"
-         ],
-         "published": "Tue, 15 Jul 2025 20:42:49 +0000",
-         "publishedParsed": "2025-07-15T20:42:49Z"
+         "published": "Sat, 12 Jul 2025 10:56:24 +0000",
+         "publishedParsed": "2025-07-12T10:56:24Z"
      },
      {
          "title": "Where's Firefox going next?",
@@ -110,14 +100,14 @@
          "publishedParsed": "2025-07-15T21:03:50Z"
      },
      {
-         "title": "My Family and the Flood",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44576352\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/",
+         "title": "The FIPS 140-3 Go Cryptographic Module",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44575607\"\u003eComments\u003c/a\u003e",
+         "link": "https://go.dev/blog/fips140",
          "links": [
-             "https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/"
+             "https://go.dev/blog/fips140"
          ],
-         "published": "Tue, 15 Jul 2025 22:07:47 +0000",
-         "publishedParsed": "2025-07-15T22:07:47Z"
+         "published": "Tue, 15 Jul 2025 20:42:49 +0000",
+         "publishedParsed": "2025-07-15T20:42:49Z"
      },
      {
          "title": "To be a better programmer, write little proofs in your head",
@@ -130,24 +120,24 @@
          "publishedParsed": "2025-07-15T17:05:39Z"
      },
      {
-         "title": "Show HN: Reviving a 20 year old OS X App",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44540724\"\u003eComments\u003c/a\u003e",
-         "link": "https://andrewshaw.nl/blog/reviving-genius",
+         "title": "My Family and the Flood",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44576352\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/",
          "links": [
-             "https://andrewshaw.nl/blog/reviving-genius"
+             "https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/"
          ],
-         "published": "Sat, 12 Jul 2025 09:47:30 +0000",
-         "publishedParsed": "2025-07-12T09:47:30Z"
+         "published": "Tue, 15 Jul 2025 22:07:47 +0000",
+         "publishedParsed": "2025-07-15T22:07:47Z"
      },
      {
-         "title": "Encrypting files with passkeys and age",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44562084\"\u003eComments\u003c/a\u003e",
-         "link": "https://words.filippo.io/passkey-encryption/",
+         "title": "Algorithms for making interesting organic simulations",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44551777\"\u003eComments\u003c/a\u003e",
+         "link": "https://bleuje.com/physarum-explanation/",
          "links": [
-             "https://words.filippo.io/passkey-encryption/"
+             "https://bleuje.com/physarum-explanation/"
          ],
-         "published": "Mon, 14 Jul 2025 16:31:37 +0000",
-         "publishedParsed": "2025-07-14T16:31:37Z"
+         "published": "Sun, 13 Jul 2025 16:59:59 +0000",
+         "publishedParsed": "2025-07-13T16:59:59Z"
      },
      {
          "title": "The Story of Mel, A Real Programmer, Annotated (1996)",
@@ -180,44 +170,14 @@
          "publishedParsed": "2025-07-15T17:48:35Z"
      },
      {
-         "title": "Easy dynamic dispatch using GLIBC Hardware Capabilities",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44545463\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/",
+         "title": "Show HN: Reviving a 20 year old OS X App",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44540724\"\u003eComments\u003c/a\u003e",
+         "link": "https://andrewshaw.nl/blog/reviving-genius",
          "links": [
-             "https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/"
+             "https://andrewshaw.nl/blog/reviving-genius"
          ],
-         "published": "Sat, 12 Jul 2025 21:45:20 +0000",
-         "publishedParsed": "2025-07-12T21:45:20Z"
-     },
-     {
-         "title": "Hierarchical Modeling (H-Nets)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44574990\"\u003eComments\u003c/a\u003e",
-         "link": "https://cartesia.ai/blog/hierarchical-modeling",
-         "links": [
-             "https://cartesia.ai/blog/hierarchical-modeling"
-         ],
-         "published": "Tue, 15 Jul 2025 19:35:15 +0000",
-         "publishedParsed": "2025-07-15T19:35:15Z"
-     },
-     {
-         "title": "Claude for Financial Services",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44576312\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.anthropic.com/news/claude-for-financial-services",
-         "links": [
-             "https://www.anthropic.com/news/claude-for-financial-services"
-         ],
-         "published": "Tue, 15 Jul 2025 22:03:50 +0000",
-         "publishedParsed": "2025-07-15T22:03:50Z"
-     },
-     {
-         "title": "Lorem Gibson",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44548620\"\u003eComments\u003c/a\u003e",
-         "link": "http://loremgibson.com/",
-         "links": [
-             "http://loremgibson.com/"
-         ],
-         "published": "Sun, 13 Jul 2025 08:39:47 +0000",
-         "publishedParsed": "2025-07-13T08:39:47Z"
+         "published": "Sat, 12 Jul 2025 09:47:30 +0000",
+         "publishedParsed": "2025-07-12T09:47:30Z"
      },
      {
          "title": "Mostly dead influential programming languages (2020)",
@@ -230,6 +190,26 @@
          "publishedParsed": "2025-07-12T20:50:56Z"
      },
      {
+         "title": "Encrypting files with passkeys and age",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44562084\"\u003eComments\u003c/a\u003e",
+         "link": "https://words.filippo.io/passkey-encryption/",
+         "links": [
+             "https://words.filippo.io/passkey-encryption/"
+         ],
+         "published": "Mon, 14 Jul 2025 16:31:37 +0000",
+         "publishedParsed": "2025-07-14T16:31:37Z"
+     },
+     {
+         "title": "Lorem Gibson",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44548620\"\u003eComments\u003c/a\u003e",
+         "link": "http://loremgibson.com/",
+         "links": [
+             "http://loremgibson.com/"
+         ],
+         "published": "Sun, 13 Jul 2025 08:39:47 +0000",
+         "publishedParsed": "2025-07-13T08:39:47Z"
+     },
+     {
          "title": "Mira Murati’s AI startup Thinking Machines valued at $12B in early-stage funding",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44573574\"\u003eComments\u003c/a\u003e",
          "link": "https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/",
@@ -238,6 +218,26 @@
          ],
          "published": "Tue, 15 Jul 2025 17:19:57 +0000",
          "publishedParsed": "2025-07-15T17:19:57Z"
+     },
+     {
+         "title": "Easy dynamic dispatch using GLIBC Hardware Capabilities",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44545463\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/",
+         "links": [
+             "https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/"
+         ],
+         "published": "Sat, 12 Jul 2025 21:45:20 +0000",
+         "publishedParsed": "2025-07-12T21:45:20Z"
+     },
+     {
+         "title": "LLM Inevitabilism",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44567857\"\u003eComments\u003c/a\u003e",
+         "link": "https://tomrenner.com/posts/llm-inevitabilism/",
+         "links": [
+             "https://tomrenner.com/posts/llm-inevitabilism/"
+         ],
+         "published": "Tue, 15 Jul 2025 04:35:35 +0000",
+         "publishedParsed": "2025-07-15T04:35:35Z"
      },
      {
          "title": "Voxtral – Frontier open source speech understanding models",
@@ -250,14 +250,14 @@
          "publishedParsed": "2025-07-15T14:47:02Z"
      },
      {
-         "title": "CoinTracker (YC W18) is hiring to solve crypto taxes and accounting (remote)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44573320\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=44573320",
+         "title": "Hierarchical Modeling (H-Nets)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44574990\"\u003eComments\u003c/a\u003e",
+         "link": "https://cartesia.ai/blog/hierarchical-modeling",
          "links": [
-             "https://news.ycombinator.com/item?id=44573320"
+             "https://cartesia.ai/blog/hierarchical-modeling"
          ],
-         "published": "Tue, 15 Jul 2025 17:00:04 +0000",
-         "publishedParsed": "2025-07-15T17:00:04Z"
+         "published": "Tue, 15 Jul 2025 19:35:15 +0000",
+         "publishedParsed": "2025-07-15T19:35:15Z"
      },
      {
          "title": "Show HN: Beyond Z²+C, Plot Any Fractal",
@@ -270,23 +270,13 @@
          "publishedParsed": "2025-07-15T18:24:51Z"
      },
      {
-         "title": "Hazel: A live functional programming environment with typed holes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44574864\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/hazelgrove/hazel",
+         "title": "The Symbol Grounding Problem (1990)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44546567\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/html/cs/9906002",
          "links": [
-             "https://github.com/hazelgrove/hazel"
+             "https://arxiv.org/html/cs/9906002"
          ],
-         "published": "Tue, 15 Jul 2025 19:23:07 +0000",
-         "publishedParsed": "2025-07-15T19:23:07Z"
-     },
-     {
-         "title": "LLM Inevitabilism",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44567857\"\u003eComments\u003c/a\u003e",
-         "link": "https://tomrenner.com/posts/llm-inevitabilism/",
-         "links": [
-             "https://tomrenner.com/posts/llm-inevitabilism/"
-         ],
-         "published": "Tue, 15 Jul 2025 04:35:35 +0000",
-         "publishedParsed": "2025-07-15T04:35:35Z"
+         "published": "Sun, 13 Jul 2025 01:00:04 +0000",
+         "publishedParsed": "2025-07-13T01:00:04Z"
      }
  ]
