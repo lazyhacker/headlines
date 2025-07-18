@@ -10,6 +10,16 @@
          "publishedParsed": "2025-07-18T03:49:50Z"
      },
      {
+         "title": "When Root Meets Immutable: OpenBSD Chflags vs. Log Tampering",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44602532\"\u003eComments\u003c/a\u003e",
+         "link": "https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/",
+         "links": [
+             "https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/"
+         ],
+         "published": "Fri, 18 Jul 2025 08:36:47 +0000",
+         "publishedParsed": "2025-07-18T08:36:47Z"
+     },
+     {
          "title": "NIH is cheaper than the wrong dependency",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44600594\"\u003eComments\u003c/a\u003e",
          "link": "https://lewiscampbell.tech/blog/250718.html",
@@ -18,36 +28,6 @@
          ],
          "published": "Fri, 18 Jul 2025 02:27:43 +0000",
          "publishedParsed": "2025-07-18T02:27:43Z"
-     },
-     {
-         "title": "Why is AI so slow to spread?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44601562\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.economist.com/finance-and-economics/2025/07/17/why-is-ai-so-slow-to-spread-economics-can-explain",
-         "links": [
-             "https://www.economist.com/finance-and-economics/2025/07/17/why-is-ai-so-slow-to-spread-economics-can-explain"
-         ],
-         "published": "Fri, 18 Jul 2025 05:38:55 +0000",
-         "publishedParsed": "2025-07-18T05:38:55Z"
-     },
-     {
-         "title": "My favorite use-case for AI is writing logs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44599549\"\u003eComments\u003c/a\u003e",
-         "link": "https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/",
-         "links": [
-             "https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/"
-         ],
-         "published": "Thu, 17 Jul 2025 23:38:48 +0000",
-         "publishedParsed": "2025-07-17T23:38:48Z"
-     },
-     {
-         "title": "ChatGPT agent: bridging research and action",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44595492\"\u003eComments\u003c/a\u003e",
-         "link": "https://openai.com/index/introducing-chatgpt-agent/",
-         "links": [
-             "https://openai.com/index/introducing-chatgpt-agent/"
-         ],
-         "published": "Thu, 17 Jul 2025 17:01:47 +0000",
-         "publishedParsed": "2025-07-17T17:01:47Z"
      },
      {
          "title": "Linux and Secure Boot certificate expiration",
@@ -60,14 +40,14 @@
          "publishedParsed": "2025-07-18T03:53:31Z"
      },
      {
-         "title": "The End of Windows 10: a toolkit for community repair groups",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44565763\"\u003eComments\u003c/a\u003e",
-         "link": "https://therestartproject.org/end-of-windows-10-toolkit-for-repair-groups/",
+         "title": "ChatGPT agent: bridging research and action",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44595492\"\u003eComments\u003c/a\u003e",
+         "link": "https://openai.com/index/introducing-chatgpt-agent/",
          "links": [
-             "https://therestartproject.org/end-of-windows-10-toolkit-for-repair-groups/"
+             "https://openai.com/index/introducing-chatgpt-agent/"
          ],
-         "published": "Mon, 14 Jul 2025 21:54:05 +0000",
-         "publishedParsed": "2025-07-14T21:54:05Z"
+         "published": "Thu, 17 Jul 2025 17:01:47 +0000",
+         "publishedParsed": "2025-07-17T17:01:47Z"
      },
      {
          "title": "Mistral Releases Deep Research, Voice, Projects in Le Chat",
@@ -80,24 +60,34 @@
          "publishedParsed": "2025-07-17T15:00:18Z"
      },
      {
-         "title": "Apple bans entire dev account, no reason given",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44601548\"\u003eComments\u003c/a\u003e",
-         "link": "https://twitter.com/rameerez/status/1945784476723810739",
+         "title": "The End of Windows 10: a toolkit for community repair groups",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44565763\"\u003eComments\u003c/a\u003e",
+         "link": "https://therestartproject.org/end-of-windows-10-toolkit-for-repair-groups/",
          "links": [
-             "https://twitter.com/rameerez/status/1945784476723810739"
+             "https://therestartproject.org/end-of-windows-10-toolkit-for-repair-groups/"
          ],
-         "published": "Fri, 18 Jul 2025 05:37:17 +0000",
-         "publishedParsed": "2025-07-18T05:37:17Z"
+         "published": "Mon, 14 Jul 2025 21:54:05 +0000",
+         "publishedParsed": "2025-07-14T21:54:05Z"
      },
      {
-         "title": "Claude Code Unleashed",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44574107\"\u003eComments\u003c/a\u003e",
-         "link": "https://ymichael.com/2025/07/15/claude-code-unleashed",
+         "title": "Arva AI (YC S24) Is Hiring an AI Research Engineer (London, UK)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44602364\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.arva.ai/careers/ai-research-engineer",
          "links": [
-             "https://ymichael.com/2025/07/15/claude-code-unleashed"
+             "https://www.arva.ai/careers/ai-research-engineer"
          ],
-         "published": "Tue, 15 Jul 2025 18:06:31 +0000",
-         "publishedParsed": "2025-07-15T18:06:31Z"
+         "published": "Fri, 18 Jul 2025 08:05:26 +0000",
+         "publishedParsed": "2025-07-18T08:05:26Z"
+     },
+     {
+         "title": "My favorite use-case for AI is writing logs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44599549\"\u003eComments\u003c/a\u003e",
+         "link": "https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/",
+         "links": [
+             "https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/"
+         ],
+         "published": "Thu, 17 Jul 2025 23:38:48 +0000",
+         "publishedParsed": "2025-07-17T23:38:48Z"
      },
      {
          "title": "My experience with Claude Code after two weeks of adventures",
@@ -110,6 +100,16 @@
          "publishedParsed": "2025-07-17T18:27:24Z"
      },
      {
+         "title": "Claude Code Unleashed",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44574107\"\u003eComments\u003c/a\u003e",
+         "link": "https://ymichael.com/2025/07/15/claude-code-unleashed",
+         "links": [
+             "https://ymichael.com/2025/07/15/claude-code-unleashed"
+         ],
+         "published": "Tue, 15 Jul 2025 18:06:31 +0000",
+         "publishedParsed": "2025-07-15T18:06:31Z"
+     },
+     {
          "title": "Perfume reviews",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44588319\"\u003eComments\u003c/a\u003e",
          "link": "https://gwern.net/blog/2025/perfume",
@@ -118,16 +118,6 @@
          ],
          "published": "Thu, 17 Jul 2025 00:16:17 +0000",
          "publishedParsed": "2025-07-17T00:16:17Z"
-     },
-     {
-         "title": "Extending That XOR Trick to Billions of Rows",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44561895\"\u003eComments\u003c/a\u003e",
-         "link": "https://nochlin.com/blog/extending-that-xor-trick",
-         "links": [
-             "https://nochlin.com/blog/extending-that-xor-trick"
-         ],
-         "published": "Mon, 14 Jul 2025 16:15:41 +0000",
-         "publishedParsed": "2025-07-14T16:15:41Z"
      },
      {
          "title": "Hand: open-source Robot Hand",
@@ -140,34 +130,34 @@
          "publishedParsed": "2025-07-17T12:08:38Z"
      },
      {
-         "title": "Mammals Evolved into Ant Eaters 12 Times Since Dinosaur Age, Study Finds",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44599334\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.njit.edu/mammals-evolved-ant-eaters-12-times-dinosaur-age-study-finds",
+         "title": "Extending That XOR Trick to Billions of Rows",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44561895\"\u003eComments\u003c/a\u003e",
+         "link": "https://nochlin.com/blog/extending-that-xor-trick",
          "links": [
-             "https://news.njit.edu/mammals-evolved-ant-eaters-12-times-dinosaur-age-study-finds"
+             "https://nochlin.com/blog/extending-that-xor-trick"
          ],
-         "published": "Thu, 17 Jul 2025 23:10:38 +0000",
-         "publishedParsed": "2025-07-17T23:10:38Z"
+         "published": "Mon, 14 Jul 2025 16:15:41 +0000",
+         "publishedParsed": "2025-07-14T16:15:41Z"
      },
      {
-         "title": "RisingWave: An Open‑Source Stream‑Processing and Management Platform",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44569367\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/risingwavelabs/risingwave",
+         "title": "TCP-in-UDP Solution (eBPF)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44569278\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html",
          "links": [
-             "https://github.com/risingwavelabs/risingwave"
+             "https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html"
          ],
-         "published": "Tue, 15 Jul 2025 09:16:21 +0000",
-         "publishedParsed": "2025-07-15T09:16:21Z"
+         "published": "Tue, 15 Jul 2025 08:59:08 +0000",
+         "publishedParsed": "2025-07-15T08:59:08Z"
      },
      {
-         "title": "USB-C hubs and my slow descent into madness (2021)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44600512\"\u003eComments\u003c/a\u003e",
-         "link": "https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/",
+         "title": "DIY Telescope Mods That Transformed My Astrophotography",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44568594\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.youtube.com/watch?v=Efmzr_K4ApQ",
          "links": [
-             "https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/"
+             "https://www.youtube.com/watch?v=Efmzr_K4ApQ"
          ],
-         "published": "Fri, 18 Jul 2025 02:14:33 +0000",
-         "publishedParsed": "2025-07-18T02:14:33Z"
+         "published": "Tue, 15 Jul 2025 06:53:45 +0000",
+         "publishedParsed": "2025-07-15T06:53:45Z"
      },
      {
          "title": "Self-taught engineers often outperform (2024)",
@@ -190,24 +180,14 @@
          "publishedParsed": "2025-07-15T05:39:26Z"
      },
      {
-         "title": "Anthropic tightens usage limits for Claude Code without telling users",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44598254\"\u003eComments\u003c/a\u003e",
-         "link": "https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/",
+         "title": "RisingWave: An Open‑Source Stream‑Processing and Management Platform",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44569367\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/risingwavelabs/risingwave",
          "links": [
-             "https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/"
+             "https://github.com/risingwavelabs/risingwave"
          ],
-         "published": "Thu, 17 Jul 2025 21:09:51 +0000",
-         "publishedParsed": "2025-07-17T21:09:51Z"
-     },
-     {
-         "title": "TCP-in-UDP Solution (eBPF)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44569278\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html",
-         "links": [
-             "https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html"
-         ],
-         "published": "Tue, 15 Jul 2025 08:59:08 +0000",
-         "publishedParsed": "2025-07-15T08:59:08Z"
+         "published": "Tue, 15 Jul 2025 09:16:21 +0000",
+         "publishedParsed": "2025-07-15T09:16:21Z"
      },
      {
          "title": "All AI models might be the same",
@@ -220,14 +200,14 @@
          "publishedParsed": "2025-07-17T17:28:49Z"
      },
      {
-         "title": "Modular Interpreters and Visitors in Rust with Extensible Variants and CGP",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44573524\"\u003eComments\u003c/a\u003e",
-         "link": "https://contextgeneric.dev/blog/extensible-datatypes-part-2/",
+         "title": "Why is AI so slow to spread?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44601562\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.economist.com/finance-and-economics/2025/07/17/why-is-ai-so-slow-to-spread-economics-can-explain",
          "links": [
-             "https://contextgeneric.dev/blog/extensible-datatypes-part-2/"
+             "https://www.economist.com/finance-and-economics/2025/07/17/why-is-ai-so-slow-to-spread-economics-can-explain"
          ],
-         "published": "Tue, 15 Jul 2025 17:16:51 +0000",
-         "publishedParsed": "2025-07-15T17:16:51Z"
+         "published": "Fri, 18 Jul 2025 05:38:55 +0000",
+         "publishedParsed": "2025-07-18T05:38:55Z"
      },
      {
          "title": "Apple Intelligence Foundation Language Models Tech Report 2025",
@@ -240,6 +220,36 @@
          "publishedParsed": "2025-07-17T18:09:59Z"
      },
      {
+         "title": "USB-C hubs and my slow descent into madness (2021)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44600512\"\u003eComments\u003c/a\u003e",
+         "link": "https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/",
+         "links": [
+             "https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/"
+         ],
+         "published": "Fri, 18 Jul 2025 02:14:33 +0000",
+         "publishedParsed": "2025-07-18T02:14:33Z"
+     },
+     {
+         "title": "Apple bans entire dev account, no reason given",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44601548\"\u003eComments\u003c/a\u003e",
+         "link": "https://twitter.com/rameerez/status/1945784476723810739",
+         "links": [
+             "https://twitter.com/rameerez/status/1945784476723810739"
+         ],
+         "published": "Fri, 18 Jul 2025 05:37:17 +0000",
+         "publishedParsed": "2025-07-18T05:37:17Z"
+     },
+     {
+         "title": "Fixing a Direct3D9 bug in Far Cry (2018)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44600574\"\u003eComments\u003c/a\u003e",
+         "link": "https://houssemnasri.github.io/2018/07/07/farcry-d3d9-bug/",
+         "links": [
+             "https://houssemnasri.github.io/2018/07/07/farcry-d3d9-bug/"
+         ],
+         "published": "Fri, 18 Jul 2025 02:24:15 +0000",
+         "publishedParsed": "2025-07-18T02:24:15Z"
+     },
+     {
          "title": "Astronomers Discover Rare Distant Object in Sync with Neptune",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44599711\"\u003eComments\u003c/a\u003e",
          "link": "https://pweb.cfa.harvard.edu/news/astronomers-discover-rare-distant-object-sync-neptune",
@@ -250,14 +260,14 @@
          "publishedParsed": "2025-07-18T00:01:54Z"
      },
      {
-         "title": "Run TypeScript code without worrying about configuration",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44595824\"\u003eComments\u003c/a\u003e",
-         "link": "https://tsx.is/",
+         "title": "Anthropic tightens usage limits for Claude Code without telling users",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44598254\"\u003eComments\u003c/a\u003e",
+         "link": "https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/",
          "links": [
-             "https://tsx.is/"
+             "https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/"
          ],
-         "published": "Thu, 17 Jul 2025 17:29:46 +0000",
-         "publishedParsed": "2025-07-17T17:29:46Z"
+         "published": "Thu, 17 Jul 2025 21:09:51 +0000",
+         "publishedParsed": "2025-07-17T21:09:51Z"
      },
      {
          "title": "Archaeologists discover tomb of first king of Caracol",
@@ -270,23 +280,23 @@
          "publishedParsed": "2025-07-14T06:21:28Z"
      },
      {
-         "title": "23andMe is out of bankruptcy. You should still delete your DNA",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44599325\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.washingtonpost.com/technology/2025/07/17/23andme-bankruptcy-privacy/",
+         "title": "The Pigeon River Is Perched, Which Is Geologically Bad News (2020)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44562076\"\u003eComments\u003c/a\u003e",
+         "link": "https://princegeology.com/the-pigeon-river-is-perched-which-is-geologically-bad-news-for-it/",
          "links": [
-             "https://www.washingtonpost.com/technology/2025/07/17/23andme-bankruptcy-privacy/"
+             "https://princegeology.com/the-pigeon-river-is-perched-which-is-geologically-bad-news-for-it/"
          ],
-         "published": "Thu, 17 Jul 2025 23:10:03 +0000",
-         "publishedParsed": "2025-07-17T23:10:03Z"
+         "published": "Mon, 14 Jul 2025 16:31:27 +0000",
+         "publishedParsed": "2025-07-14T16:31:27Z"
      },
      {
-         "title": "Show HN: PlutoFilter- A single-header, zero-allocation image filter library in C",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44556318\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/sammycage/plutofilter",
+         "title": "Run TypeScript code without worrying about configuration",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44595824\"\u003eComments\u003c/a\u003e",
+         "link": "https://tsx.is/",
          "links": [
-             "https://github.com/sammycage/plutofilter"
+             "https://tsx.is/"
          ],
-         "published": "Mon, 14 Jul 2025 03:57:02 +0000",
-         "publishedParsed": "2025-07-14T03:57:02Z"
+         "published": "Thu, 17 Jul 2025 17:29:46 +0000",
+         "publishedParsed": "2025-07-17T17:29:46Z"
      }
  ]
