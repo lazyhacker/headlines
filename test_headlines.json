@@ -1,15 +1,5 @@
 [
      {
-         "title": "How to handle people dismissing io_uring as insecure?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44632240\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/axboe/liburing/discussions/1047",
-         "links": [
-             "https://github.com/axboe/liburing/discussions/1047"
-         ],
-         "published": "Mon, 21 Jul 2025 06:15:05 +0000",
-         "publishedParsed": "2025-07-21T06:15:05Z"
-     },
-     {
          "title": "“Dynamic Programming” is not referring to “computer programming”",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44603349\"\u003eComments\u003c/a\u003e",
          "link": "https://www.vidarholen.net/contents/blog/?p=1172",
@@ -18,6 +8,16 @@
          ],
          "published": "Fri, 18 Jul 2025 11:09:07 +0000",
          "publishedParsed": "2025-07-18T11:09:07Z"
+     },
+     {
+         "title": "How to handle people dismissing io_uring as insecure?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44632240\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/axboe/liburing/discussions/1047",
+         "links": [
+             "https://github.com/axboe/liburing/discussions/1047"
+         ],
+         "published": "Mon, 21 Jul 2025 06:15:05 +0000",
+         "publishedParsed": "2025-07-21T06:15:05Z"
      },
      {
          "title": "The Daily Life of a Medieval King",
@@ -30,16 +30,6 @@
          "publishedParsed": "2025-07-17T20:54:02Z"
      },
      {
-         "title": "Show HN: X11 desktop widget that shows location of your network peers on a map",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44630648\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/h2337/connmap",
-         "links": [
-             "https://github.com/h2337/connmap"
-         ],
-         "published": "Mon, 21 Jul 2025 00:16:25 +0000",
-         "publishedParsed": "2025-07-21T00:16:25Z"
-     },
-     {
          "title": "Staying cool without refrigerants: Next-generation Peltier cooling",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44628930\"\u003eComments\u003c/a\u003e",
          "link": "https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling",
@@ -48,6 +38,16 @@
          ],
          "published": "Sun, 20 Jul 2025 20:18:54 +0000",
          "publishedParsed": "2025-07-20T20:18:54Z"
+     },
+     {
+         "title": "ESP32-Faikin: ESP32 based module to control Daikin aircon units",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44631594\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/revk/ESP32-Faikin",
+         "links": [
+             "https://github.com/revk/ESP32-Faikin"
+         ],
+         "published": "Mon, 21 Jul 2025 03:41:23 +0000",
+         "publishedParsed": "2025-07-21T03:41:23Z"
      },
      {
          "title": "Log by time, not by count",
@@ -60,14 +60,14 @@
          "publishedParsed": "2025-07-21T01:15:55Z"
      },
      {
-         "title": "ESP32-Faikin: ESP32 based module to control Daikin aircon units",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44631594\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/revk/ESP32-Faikin",
+         "title": "Show HN: X11 desktop widget that shows location of your network peers on a map",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44630648\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/h2337/connmap",
          "links": [
-             "https://github.com/revk/ESP32-Faikin"
+             "https://github.com/h2337/connmap"
          ],
-         "published": "Mon, 21 Jul 2025 03:41:23 +0000",
-         "publishedParsed": "2025-07-21T03:41:23Z"
+         "published": "Mon, 21 Jul 2025 00:16:25 +0000",
+         "publishedParsed": "2025-07-21T00:16:25Z"
      },
      {
          "title": "Agents built from alloys",
@@ -90,6 +90,16 @@
          "publishedParsed": "2025-07-20T14:03:39Z"
      },
      {
+         "title": "Debugging Bash Like a Sire",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44592797\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.brujordet.no/post/bash/debugging_bash_like_a_sire/",
+         "links": [
+             "https://blog.brujordet.no/post/bash/debugging_bash_like_a_sire/"
+         ],
+         "published": "Thu, 17 Jul 2025 12:51:28 +0000",
+         "publishedParsed": "2025-07-17T12:51:28Z"
+     },
+     {
          "title": "New colors without shooting lasers into your eyes",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44594808\"\u003eComments\u003c/a\u003e",
          "link": "https://dynomight.net/colors/",
@@ -110,6 +120,36 @@
          "publishedParsed": "2025-07-18T13:13:33Z"
      },
      {
+         "title": "Vibe coding service Replit deleted production database, faked data, told fibs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44632575\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/",
+         "links": [
+             "https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/"
+         ],
+         "published": "Mon, 21 Jul 2025 07:20:55 +0000",
+         "publishedParsed": "2025-07-21T07:20:55Z"
+     },
+     {
+         "title": "The sumerian game early computer game",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44614372\"\u003eComments\u003c/a\u003e",
+         "link": "https://spillhistorie.no/2025/07/10/the-sumerian-game-the-ancestor-of-modern-city-builders/",
+         "links": [
+             "https://spillhistorie.no/2025/07/10/the-sumerian-game-the-ancestor-of-modern-city-builders/"
+         ],
+         "published": "Sat, 19 Jul 2025 10:52:43 +0000",
+         "publishedParsed": "2025-07-19T10:52:43Z"
+     },
+     {
+         "title": "Why Some Satellites Use NetBSD?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44632246\"\u003eComments\u003c/a\u003e",
+         "link": "https://machaddr.substack.com/p/why-some-satellites-use-netbsd",
+         "links": [
+             "https://machaddr.substack.com/p/why-some-satellites-use-netbsd"
+         ],
+         "published": "Mon, 21 Jul 2025 06:16:14 +0000",
+         "publishedParsed": "2025-07-21T06:16:14Z"
+     },
+     {
          "title": "Simulating hand-drawn motion with SVG filters",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44591305\"\u003eComments\u003c/a\u003e",
          "link": "https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters",
@@ -118,16 +158,6 @@
          ],
          "published": "Thu, 17 Jul 2025 09:12:26 +0000",
          "publishedParsed": "2025-07-17T09:12:26Z"
-     },
-     {
-         "title": "Stdio(3) change: FILE is now opaque",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44627793\"\u003eComments\u003c/a\u003e",
-         "link": "https://undeadly.org/cgi?action=article;sid=20250717103345",
-         "links": [
-             "https://undeadly.org/cgi?action=article;sid=20250717103345"
-         ],
-         "published": "Sun, 20 Jul 2025 18:18:40 +0000",
-         "publishedParsed": "2025-07-20T18:18:40Z"
      },
      {
          "title": "Coding with LLMs in the summer of 2025 – an update",
@@ -140,24 +170,24 @@
          "publishedParsed": "2025-07-20T11:04:02Z"
      },
      {
-         "title": "Peep Show is the most realistic portrayal of evil I have seen (2020)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44629299\"\u003eComments\u003c/a\u003e",
-         "link": "https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/",
+         "title": "Structuring Arrays with Algebraic Shapes [video]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44604127\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.youtube.com/watch?v=3Lbs0pJ_OHI",
          "links": [
-             "https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/"
+             "https://www.youtube.com/watch?v=3Lbs0pJ_OHI"
          ],
-         "published": "Sun, 20 Jul 2025 21:05:19 +0000",
-         "publishedParsed": "2025-07-20T21:05:19Z"
+         "published": "Fri, 18 Jul 2025 12:48:49 +0000",
+         "publishedParsed": "2025-07-18T12:48:49Z"
      },
      {
-         "title": "SIOF (Scheme in One File) – A Minimal R7RS Scheme System",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44614510\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/false-schemers/siof",
+         "title": "Stdio(3) change: FILE is now opaque",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44627793\"\u003eComments\u003c/a\u003e",
+         "link": "https://undeadly.org/cgi?action=article;sid=20250717103345",
          "links": [
-             "https://github.com/false-schemers/siof"
+             "https://undeadly.org/cgi?action=article;sid=20250717103345"
          ],
-         "published": "Sat, 19 Jul 2025 11:17:48 +0000",
-         "publishedParsed": "2025-07-19T11:17:48Z"
+         "published": "Sun, 20 Jul 2025 18:18:40 +0000",
+         "publishedParsed": "2025-07-20T18:18:40Z"
      },
      {
          "title": "How slow motion became cinema’s dominant special effect",
@@ -170,14 +200,14 @@
          "publishedParsed": "2025-07-17T15:34:29Z"
      },
      {
-         "title": "IPv6 Based Canvas",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44629962\"\u003eComments\u003c/a\u003e",
-         "link": "https://canvas.openbased.org/",
+         "title": "SIOF (Scheme in One File) – A Minimal R7RS Scheme System",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44614510\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/false-schemers/siof",
          "links": [
-             "https://canvas.openbased.org/"
+             "https://github.com/false-schemers/siof"
          ],
-         "published": "Sun, 20 Jul 2025 22:29:04 +0000",
-         "publishedParsed": "2025-07-20T22:29:04Z"
+         "published": "Sat, 19 Jul 2025 11:17:48 +0000",
+         "publishedParsed": "2025-07-19T11:17:48Z"
      },
      {
          "title": "Show HN: Conductor, a Mac app that lets you run a bunch of Claude Codes at once",
@@ -188,6 +218,36 @@
          ],
          "published": "Thu, 17 Jul 2025 15:43:04 +0000",
          "publishedParsed": "2025-07-17T15:43:04Z"
+     },
+     {
+         "title": "IPv6 Based Canvas",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44629962\"\u003eComments\u003c/a\u003e",
+         "link": "https://canvas.openbased.org/",
+         "links": [
+             "https://canvas.openbased.org/"
+         ],
+         "published": "Sun, 20 Jul 2025 22:29:04 +0000",
+         "publishedParsed": "2025-07-20T22:29:04Z"
+     },
+     {
+         "title": "Subreply – An open source text-only social network",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44628082\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/lucianmarin/subreply",
+         "links": [
+             "https://github.com/lucianmarin/subreply"
+         ],
+         "published": "Sun, 20 Jul 2025 18:46:14 +0000",
+         "publishedParsed": "2025-07-20T18:46:14Z"
+     },
+     {
+         "title": "Speeding up my ZSH shell",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44626363\"\u003eComments\u003c/a\u003e",
+         "link": "https://scottspence.com/posts/speeding-up-my-zsh-shell",
+         "links": [
+             "https://scottspence.com/posts/speeding-up-my-zsh-shell"
+         ],
+         "published": "Sun, 20 Jul 2025 15:51:44 +0000",
+         "publishedParsed": "2025-07-20T15:51:44Z"
      },
      {
          "title": "What my mother didn’t talk about (2020)",
@@ -210,36 +270,6 @@
          "publishedParsed": "2025-07-20T20:51:41Z"
      },
      {
-         "title": "Speeding up my ZSH shell",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44626363\"\u003eComments\u003c/a\u003e",
-         "link": "https://scottspence.com/posts/speeding-up-my-zsh-shell",
-         "links": [
-             "https://scottspence.com/posts/speeding-up-my-zsh-shell"
-         ],
-         "published": "Sun, 20 Jul 2025 15:51:44 +0000",
-         "publishedParsed": "2025-07-20T15:51:44Z"
-     },
-     {
-         "title": "Subreply – An open source text-only social network",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44628082\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/lucianmarin/subreply",
-         "links": [
-             "https://github.com/lucianmarin/subreply"
-         ],
-         "published": "Sun, 20 Jul 2025 18:46:14 +0000",
-         "publishedParsed": "2025-07-20T18:46:14Z"
-     },
-     {
-         "title": "Debugging Bash Like a Sire",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44592797\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.brujordet.no/post/bash/debugging_bash_like_a_sire/",
-         "links": [
-             "https://blog.brujordet.no/post/bash/debugging_bash_like_a_sire/"
-         ],
-         "published": "Thu, 17 Jul 2025 12:51:28 +0000",
-         "publishedParsed": "2025-07-17T12:51:28Z"
-     },
-     {
          "title": "AI is killing the web – can anything save it?",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44623361\"\u003eComments\u003c/a\u003e",
          "link": "https://www.economist.com/business/2025/07/14/ai-is-killing-the-web-can-anything-save-it",
@@ -250,16 +280,6 @@
          "publishedParsed": "2025-07-20T09:33:48Z"
      },
      {
-         "title": "JOVE – Jonathan’s Own Version of Emacs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44591439\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/jonmacs/jove/",
-         "links": [
-             "https://github.com/jonmacs/jove/"
-         ],
-         "published": "Thu, 17 Jul 2025 09:35:37 +0000",
-         "publishedParsed": "2025-07-17T09:35:37Z"
-     },
-     {
          "title": "What birdsong and back ends can teach us about magic",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44630551\"\u003eComments\u003c/a\u003e",
          "link": "https://digitalseams.com/blog/what-birdsong-and-backends-can-teach-us-about-magic",
@@ -268,25 +288,5 @@
          ],
          "published": "Sun, 20 Jul 2025 23:59:39 +0000",
          "publishedParsed": "2025-07-20T23:59:39Z"
-     },
-     {
-         "title": "Insights on Teufel’s first open-source speaker",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44627158\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.teufelaudio.com/visionary-mynds-insights-on-teufels-first-open-source-speaker/",
-         "links": [
-             "https://blog.teufelaudio.com/visionary-mynds-insights-on-teufels-first-open-source-speaker/"
-         ],
-         "published": "Sun, 20 Jul 2025 17:11:43 +0000",
-         "publishedParsed": "2025-07-20T17:11:43Z"
-     },
-     {
-         "title": "Tell me again about neurons now",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44600899\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.science.org/content/blog-post/tell-me-again-about-neurons-now",
-         "links": [
-             "https://www.science.org/content/blog-post/tell-me-again-about-neurons-now"
-         ],
-         "published": "Fri, 18 Jul 2025 03:26:36 +0000",
-         "publishedParsed": "2025-07-18T03:26:36Z"
      }
  ]
