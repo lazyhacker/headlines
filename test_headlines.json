@@ -30,6 +30,36 @@
          "publishedParsed": "2025-07-20T20:18:54Z"
      },
      {
+         "title": "Using the Matrix Cores of AMD RDNA 4 architecture GPUs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44604311\"\u003eComments\u003c/a\u003e",
+         "link": "https://gpuopen.com/learn/using_matrix_core_amd_rdna4/",
+         "links": [
+             "https://gpuopen.com/learn/using_matrix_core_amd_rdna4/"
+         ],
+         "published": "Fri, 18 Jul 2025 13:13:33 +0000",
+         "publishedParsed": "2025-07-18T13:13:33Z"
+     },
+     {
+         "title": "Log by time, not by count",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44630927\"\u003eComments\u003c/a\u003e",
+         "link": "https://johnscolaro.xyz/blog/log-by-time-not-by-count",
+         "links": [
+             "https://johnscolaro.xyz/blog/log-by-time-not-by-count"
+         ],
+         "published": "Mon, 21 Jul 2025 01:15:55 +0000",
+         "publishedParsed": "2025-07-21T01:15:55Z"
+     },
+     {
+         "title": "“Dynamic Programming” is not referring to “computer programming”",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44603349\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.vidarholen.net/contents/blog/?p=1172",
+         "links": [
+             "https://www.vidarholen.net/contents/blog/?p=1172"
+         ],
+         "published": "Fri, 18 Jul 2025 11:09:07 +0000",
+         "publishedParsed": "2025-07-18T11:09:07Z"
+     },
+     {
          "title": "XMLUI",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44625292\"\u003eComments\u003c/a\u003e",
          "link": "https://blog.jonudell.net/2025/07/18/introducing-xmlui/",
@@ -50,37 +80,7 @@
          "publishedParsed": "2025-07-17T16:01:17Z"
      },
      {
-         "title": "Log by time, not by count",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44630927\"\u003eComments\u003c/a\u003e",
-         "link": "https://johnscolaro.xyz/blog/log-by-time-not-by-count",
-         "links": [
-             "https://johnscolaro.xyz/blog/log-by-time-not-by-count"
-         ],
-         "published": "Mon, 21 Jul 2025 01:15:55 +0000",
-         "publishedParsed": "2025-07-21T01:15:55Z"
-     },
-     {
-         "title": "iMessage integration in Claude can hijack the model to do anything",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44630815\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.generalanalysis.com/blog/imessage-stripe-exploit",
-         "links": [
-             "https://www.generalanalysis.com/blog/imessage-stripe-exploit"
-         ],
-         "published": "Mon, 21 Jul 2025 00:53:21 +0000",
-         "publishedParsed": "2025-07-21T00:53:21Z"
-     },
-     {
-         "title": "The Genius Device That Rocked F1",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44630453\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=FhmLb2DhNYM",
-         "links": [
-             "https://www.youtube.com/watch?v=FhmLb2DhNYM"
-         ],
-         "published": "Sun, 20 Jul 2025 23:42:26 +0000",
-         "publishedParsed": "2025-07-20T23:42:26Z"
-     },
-     {
-         "title": "Stdio(3) change: FILE is now opaque (OpenBSD)",
+         "title": "Stdio(3) change: FILE is now opaque",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44627793\"\u003eComments\u003c/a\u003e",
          "link": "https://undeadly.org/cgi?action=article;sid=20250717103345",
          "links": [
@@ -90,7 +90,7 @@
          "publishedParsed": "2025-07-20T18:18:40Z"
      },
      {
-         "title": "Simulating Hand-Drawn Motion with SVG Filters",
+         "title": "Simulating hand-drawn motion with SVG filters",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44591305\"\u003eComments\u003c/a\u003e",
          "link": "https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters",
          "links": [
@@ -110,17 +110,27 @@
          "publishedParsed": "2025-07-20T11:04:02Z"
      },
      {
-         "title": "Peep Show – The Most Realistic Portrayal of Evil Ever Made (2020)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44629299\"\u003eComments\u003c/a\u003e",
-         "link": "https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/",
+         "title": "SIOF (Scheme in One File) – A Minimal R7RS Scheme System",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44614510\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/false-schemers/siof",
          "links": [
-             "https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/"
+             "https://github.com/false-schemers/siof"
          ],
-         "published": "Sun, 20 Jul 2025 21:05:19 +0000",
-         "publishedParsed": "2025-07-20T21:05:19Z"
+         "published": "Sat, 19 Jul 2025 11:17:48 +0000",
+         "publishedParsed": "2025-07-19T11:17:48Z"
      },
      {
-         "title": "Slow Motion Became Cinema's Dominant Special Effect",
+         "title": "The Genius Device That Rocked F1",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44630453\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.youtube.com/watch?v=FhmLb2DhNYM",
+         "links": [
+             "https://www.youtube.com/watch?v=FhmLb2DhNYM"
+         ],
+         "published": "Sun, 20 Jul 2025 23:42:26 +0000",
+         "publishedParsed": "2025-07-20T23:42:26Z"
+     },
+     {
+         "title": "How slow motion became cinema’s dominant special effect",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44594486\"\u003eComments\u003c/a\u003e",
          "link": "https://newrepublic.com/article/196262/slow-motion-became-cinema-dominant-special-effect-downtime",
          "links": [
@@ -130,34 +140,14 @@
          "publishedParsed": "2025-07-17T15:34:29Z"
      },
      {
-         "title": "What birdsong and back ends can teach us about magic",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44630551\"\u003eComments\u003c/a\u003e",
-         "link": "https://digitalseams.com/blog/what-birdsong-and-backends-can-teach-us-about-magic",
+         "title": "Peep Show – The most realistic portrayal of evil ever made (2020)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44629299\"\u003eComments\u003c/a\u003e",
+         "link": "https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/",
          "links": [
-             "https://digitalseams.com/blog/what-birdsong-and-backends-can-teach-us-about-magic"
+             "https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/"
          ],
-         "published": "Sun, 20 Jul 2025 23:59:39 +0000",
-         "publishedParsed": "2025-07-20T23:59:39Z"
-     },
-     {
-         "title": "What My Mother Didn't Talk About (2020)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44598578\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.buzzfeednews.com/article/karolinawaclawiak/what-my-mother-didnt-talk-about-karolina-waclawiak",
-         "links": [
-             "https://www.buzzfeednews.com/article/karolinawaclawiak/what-my-mother-didnt-talk-about-karolina-waclawiak"
-         ],
-         "published": "Thu, 17 Jul 2025 21:43:23 +0000",
-         "publishedParsed": "2025-07-17T21:43:23Z"
-     },
-     {
-         "title": "HTTP/1.1 Must Die – The Desync Endgame Begins",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44631091\"\u003eComments\u003c/a\u003e",
-         "link": "https://http1mustdie.com/",
-         "links": [
-             "https://http1mustdie.com/"
-         ],
-         "published": "Mon, 21 Jul 2025 01:51:58 +0000",
-         "publishedParsed": "2025-07-21T01:51:58Z"
+         "published": "Sun, 20 Jul 2025 21:05:19 +0000",
+         "publishedParsed": "2025-07-20T21:05:19Z"
      },
      {
          "title": "IPv6 Based Canvas",
@@ -170,6 +160,16 @@
          "publishedParsed": "2025-07-20T22:29:04Z"
      },
      {
+         "title": "What my mother didn’t talk about (2020)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44598578\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.buzzfeednews.com/article/karolinawaclawiak/what-my-mother-didnt-talk-about-karolina-waclawiak",
+         "links": [
+             "https://www.buzzfeednews.com/article/karolinawaclawiak/what-my-mother-didnt-talk-about-karolina-waclawiak"
+         ],
+         "published": "Thu, 17 Jul 2025 21:43:23 +0000",
+         "publishedParsed": "2025-07-17T21:43:23Z"
+     },
+     {
          "title": "FFmpeg devs boast of another 100x leap thanks to handwritten assembly code",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44629206\"\u003eComments\u003c/a\u003e",
          "link": "https://www.tomshardware.com/software/the-biggest-speedup-ive-seen-so-far-ffmpeg-devs-boast-of-another-100x-leap-thanks-to-handwritten-assembly-code",
@@ -178,66 +178,6 @@
          ],
          "published": "Sun, 20 Jul 2025 20:51:41 +0000",
          "publishedParsed": "2025-07-20T20:51:41Z"
-     },
-     {
-         "title": "Speeding up my ZSH shell",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44626363\"\u003eComments\u003c/a\u003e",
-         "link": "https://scottspence.com/posts/speeding-up-my-zsh-shell",
-         "links": [
-             "https://scottspence.com/posts/speeding-up-my-zsh-shell"
-         ],
-         "published": "Sun, 20 Jul 2025 15:51:44 +0000",
-         "publishedParsed": "2025-07-20T15:51:44Z"
-     },
-     {
-         "title": "Computational complexity of neural networks (2022)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44630676\"\u003eComments\u003c/a\u003e",
-         "link": "https://lunalux.io/introduction-to-neural-networks/computational-complexity-of-neural-networks/",
-         "links": [
-             "https://lunalux.io/introduction-to-neural-networks/computational-complexity-of-neural-networks/"
-         ],
-         "published": "Mon, 21 Jul 2025 00:23:33 +0000",
-         "publishedParsed": "2025-07-21T00:23:33Z"
-     },
-     {
-         "title": "SIOF (Scheme in One File) – A Minimal R7RS Scheme System",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44614510\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/false-schemers/siof",
-         "links": [
-             "https://github.com/false-schemers/siof"
-         ],
-         "published": "Sat, 19 Jul 2025 11:17:48 +0000",
-         "publishedParsed": "2025-07-19T11:17:48Z"
-     },
-     {
-         "title": "Why not to use iframes for embedded dashboards",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44603657\"\u003eComments\u003c/a\u003e",
-         "link": "https://embeddable.com/blog/iframes-for-embedding",
-         "links": [
-             "https://embeddable.com/blog/iframes-for-embedding"
-         ],
-         "published": "Fri, 18 Jul 2025 11:48:39 +0000",
-         "publishedParsed": "2025-07-18T11:48:39Z"
-     },
-     {
-         "title": "Subreply – an open source text-only social network",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44628082\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/lucianmarin/subreply",
-         "links": [
-             "https://github.com/lucianmarin/subreply"
-         ],
-         "published": "Sun, 20 Jul 2025 18:46:14 +0000",
-         "publishedParsed": "2025-07-20T18:46:14Z"
-     },
-     {
-         "title": "JOVE – Jonathan’s Own Version of Emacs (1983)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44591439\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/jonmacs/jove/",
-         "links": [
-             "https://github.com/jonmacs/jove/"
-         ],
-         "published": "Thu, 17 Jul 2025 09:35:37 +0000",
-         "publishedParsed": "2025-07-17T09:35:37Z"
      },
      {
          "title": "Show HN: Conductor, a Mac app that lets you run a bunch of Claude Codes at once",
@@ -250,14 +190,54 @@
          "publishedParsed": "2025-07-17T15:43:04Z"
      },
      {
-         "title": "Discovering what we think we know is wrong",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44600899\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.science.org/content/blog-post/tell-me-again-about-neurons-now",
+         "title": "What birdsong and back ends can teach us about magic",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44630551\"\u003eComments\u003c/a\u003e",
+         "link": "https://digitalseams.com/blog/what-birdsong-and-backends-can-teach-us-about-magic",
          "links": [
-             "https://www.science.org/content/blog-post/tell-me-again-about-neurons-now"
+             "https://digitalseams.com/blog/what-birdsong-and-backends-can-teach-us-about-magic"
          ],
-         "published": "Fri, 18 Jul 2025 03:26:36 +0000",
-         "publishedParsed": "2025-07-18T03:26:36Z"
+         "published": "Sun, 20 Jul 2025 23:59:39 +0000",
+         "publishedParsed": "2025-07-20T23:59:39Z"
+     },
+     {
+         "title": "Subreply – An open source text-only social network",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44628082\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/lucianmarin/subreply",
+         "links": [
+             "https://github.com/lucianmarin/subreply"
+         ],
+         "published": "Sun, 20 Jul 2025 18:46:14 +0000",
+         "publishedParsed": "2025-07-20T18:46:14Z"
+     },
+     {
+         "title": "Speeding up my ZSH shell",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44626363\"\u003eComments\u003c/a\u003e",
+         "link": "https://scottspence.com/posts/speeding-up-my-zsh-shell",
+         "links": [
+             "https://scottspence.com/posts/speeding-up-my-zsh-shell"
+         ],
+         "published": "Sun, 20 Jul 2025 15:51:44 +0000",
+         "publishedParsed": "2025-07-20T15:51:44Z"
+     },
+     {
+         "title": "Why not to use iframes for embedded dashboards",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44603657\"\u003eComments\u003c/a\u003e",
+         "link": "https://embeddable.com/blog/iframes-for-embedding",
+         "links": [
+             "https://embeddable.com/blog/iframes-for-embedding"
+         ],
+         "published": "Fri, 18 Jul 2025 11:48:39 +0000",
+         "publishedParsed": "2025-07-18T11:48:39Z"
+     },
+     {
+         "title": "JOVE – Jonathan’s Own Version of Emacs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44591439\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/jonmacs/jove/",
+         "links": [
+             "https://github.com/jonmacs/jove/"
+         ],
+         "published": "Thu, 17 Jul 2025 09:35:37 +0000",
+         "publishedParsed": "2025-07-17T09:35:37Z"
      },
      {
          "title": "Logical implication is a comparison operator",
@@ -270,7 +250,27 @@
          "publishedParsed": "2025-07-17T19:15:52Z"
      },
      {
-         "title": "Insights on Teufel's First Open-Source Speaker",
+         "title": "Tell me again about neurons now",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44600899\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.science.org/content/blog-post/tell-me-again-about-neurons-now",
+         "links": [
+             "https://www.science.org/content/blog-post/tell-me-again-about-neurons-now"
+         ],
+         "published": "Fri, 18 Jul 2025 03:26:36 +0000",
+         "publishedParsed": "2025-07-18T03:26:36Z"
+     },
+     {
+         "title": "AI is killing the web – can anything save it?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44623361\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.economist.com/business/2025/07/14/ai-is-killing-the-web-can-anything-save-it",
+         "links": [
+             "https://www.economist.com/business/2025/07/14/ai-is-killing-the-web-can-anything-save-it"
+         ],
+         "published": "Sun, 20 Jul 2025 09:33:48 +0000",
+         "publishedParsed": "2025-07-20T09:33:48Z"
+     },
+     {
+         "title": "Insights on Teufel’s first open-source speaker",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44627158\"\u003eComments\u003c/a\u003e",
          "link": "https://blog.teufelaudio.com/visionary-mynds-insights-on-teufels-first-open-source-speaker/",
          "links": [
