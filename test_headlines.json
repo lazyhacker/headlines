@@ -1,6 +1,26 @@
 [
      {
-         "title": "Cerebras Launches Qwen3-235B, Achieving 1,500 Tokens per Second",
+         "title": "Reverse engineering GitHub Actions cache to make it fast",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44658909\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.blacksmith.sh/blog/cache",
+         "links": [
+             "https://www.blacksmith.sh/blog/cache"
+         ],
+         "published": "Wed, 23 Jul 2025 13:17:43 +0000",
+         "publishedParsed": "2025-07-23T13:17:43Z"
+     },
+     {
+         "title": "Using Radicle CI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44658820\"\u003eComments\u003c/a\u003e",
+         "link": "https://radicle.xyz/2025/07/23/using-radicle-ci-for-development",
+         "links": [
+             "https://radicle.xyz/2025/07/23/using-radicle-ci-for-development"
+         ],
+         "published": "Wed, 23 Jul 2025 13:09:01 +0000",
+         "publishedParsed": "2025-07-23T13:09:01Z"
+     },
+     {
+         "title": "Cerebras launches Qwen3-235B, achieving 1.5k tokens per second",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44657727\"\u003eComments\u003c/a\u003e",
          "link": "https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support",
          "links": [
@@ -10,34 +30,14 @@
          "publishedParsed": "2025-07-23T10:51:51Z"
      },
      {
-         "title": "Show HN: Header-only GIF decoder in pure C – no malloc, easy to use",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44658027\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=44658027",
+         "title": "Manticore Search: Fast, efficient, drop-in replacement for Elasticsearch",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44658978\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/manticoresoftware/manticoresearch",
          "links": [
-             "https://news.ycombinator.com/item?id=44658027"
+             "https://github.com/manticoresoftware/manticoresearch"
          ],
-         "published": "Wed, 23 Jul 2025 11:36:33 +0000",
-         "publishedParsed": "2025-07-23T11:36:33Z"
-     },
-     {
-         "title": "Apple's Liquid Glass: When Aesthetics Beat Function",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44658103\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.maxvanijsselmuiden.nl/liquid-glass",
-         "links": [
-             "https://www.maxvanijsselmuiden.nl/liquid-glass"
-         ],
-         "published": "Wed, 23 Jul 2025 11:46:09 +0000",
-         "publishedParsed": "2025-07-23T11:46:09Z"
-     },
-     {
-         "title": "Brave blocks Microsoft Recall by default",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44657291\"\u003eComments\u003c/a\u003e",
-         "link": "https://brave.com/privacy-updates/35-block-recall/",
-         "links": [
-             "https://brave.com/privacy-updates/35-block-recall/"
-         ],
-         "published": "Wed, 23 Jul 2025 09:33:23 +0000",
-         "publishedParsed": "2025-07-23T09:33:23Z"
+         "published": "Wed, 23 Jul 2025 13:23:49 +0000",
+         "publishedParsed": "2025-07-23T13:23:49Z"
      },
      {
          "title": "Geocities Backgrounds",
@@ -50,6 +50,36 @@
          "publishedParsed": "2025-07-21T01:42:22Z"
      },
      {
+         "title": "The Surprising gRPC Client Bottleneck in Low-Latency Networks",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44658973\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.ydb.tech/the-surprising-grpc-client-bottleneck-in-low-latency-networks-and-how-to-get-around-it-69d6977a1d02",
+         "links": [
+             "https://blog.ydb.tech/the-surprising-grpc-client-bottleneck-in-low-latency-networks-and-how-to-get-around-it-69d6977a1d02"
+         ],
+         "published": "Wed, 23 Jul 2025 13:23:20 +0000",
+         "publishedParsed": "2025-07-23T13:23:20Z"
+     },
+     {
+         "title": "20 years of Linux on the Desktop (part 4)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44658770\"\u003eComments\u003c/a\u003e",
+         "link": "https://ploum.net/2025-07-23-linux_desktop4.html",
+         "links": [
+             "https://ploum.net/2025-07-23-linux_desktop4.html"
+         ],
+         "published": "Wed, 23 Jul 2025 13:03:22 +0000",
+         "publishedParsed": "2025-07-23T13:03:22Z"
+     },
+     {
+         "title": "Reversing a Fingerprint Reader Protocol (2021)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44619835\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.th0m.as/misc/fingerprint-reversing/",
+         "links": [
+             "https://blog.th0m.as/misc/fingerprint-reversing/"
+         ],
+         "published": "Sat, 19 Jul 2025 22:02:37 +0000",
+         "publishedParsed": "2025-07-19T22:02:37Z"
+     },
+     {
          "title": "Qwen3-Coder: Agentic coding in the world",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44653072\"\u003eComments\u003c/a\u003e",
          "link": "https://qwenlm.github.io/blog/qwen3-coder/",
@@ -58,36 +88,6 @@
          ],
          "published": "Tue, 22 Jul 2025 21:12:30 +0000",
          "publishedParsed": "2025-07-22T21:12:30Z"
-     },
-     {
-         "title": "AI groups spend to replace low-cost 'data labellers' with high-paid experts",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44622637\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8",
-         "links": [
-             "https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8"
-         ],
-         "published": "Sun, 20 Jul 2025 07:02:03 +0000",
-         "publishedParsed": "2025-07-20T07:02:03Z"
-     },
-     {
-         "title": "QuestDB (YC S20) Is Hiring a Technical Content Lead",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44658233\"\u003eComments\u003c/a\u003e",
-         "link": "https://questdb.com/careers/technical-content-lead/",
-         "links": [
-             "https://questdb.com/careers/technical-content-lead/"
-         ],
-         "published": "Wed, 23 Jul 2025 12:00:36 +0000",
-         "publishedParsed": "2025-07-23T12:00:36Z"
-     },
-     {
-         "title": "Extending Emacs with Fennel (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44656073\"\u003eComments\u003c/a\u003e",
-         "link": "https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/",
-         "links": [
-             "https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/"
-         ],
-         "published": "Wed, 23 Jul 2025 05:54:21 +0000",
-         "publishedParsed": "2025-07-23T05:54:21Z"
      },
      {
          "title": "SQL Injection as a Feature",
@@ -100,14 +100,64 @@
          "publishedParsed": "2025-07-21T17:59:23Z"
      },
      {
-         "title": "Mathematics for Computer Science (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44655565\"\u003eComments\u003c/a\u003e",
-         "link": "https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/",
+         "title": "QuestDB (YC S20) Is Hiring a Technical Content Lead",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44658233\"\u003eComments\u003c/a\u003e",
+         "link": "https://questdb.com/careers/technical-content-lead/",
          "links": [
-             "https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/"
+             "https://questdb.com/careers/technical-content-lead/"
          ],
-         "published": "Wed, 23 Jul 2025 03:47:18 +0000",
-         "publishedParsed": "2025-07-23T03:47:18Z"
+         "published": "Wed, 23 Jul 2025 12:00:36 +0000",
+         "publishedParsed": "2025-07-23T12:00:36Z"
+     },
+     {
+         "title": "AI groups spend to replace low-cost 'data labellers' with high-paid experts",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44622637\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8",
+         "links": [
+             "https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8"
+         ],
+         "published": "Sun, 20 Jul 2025 07:02:03 +0000",
+         "publishedParsed": "2025-07-20T07:02:03Z"
+     },
+     {
+         "title": "Extending Emacs with Fennel (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44656073\"\u003eComments\u003c/a\u003e",
+         "link": "https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/",
+         "links": [
+             "https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/"
+         ],
+         "published": "Wed, 23 Jul 2025 05:54:21 +0000",
+         "publishedParsed": "2025-07-23T05:54:21Z"
+     },
+     {
+         "title": "SDR42E1 modulates Vitamin D absorption and cancer pathogenesis",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44658798\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2025.1585859/full",
+         "links": [
+             "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2025.1585859/full"
+         ],
+         "published": "Wed, 23 Jul 2025 13:06:43 +0000",
+         "publishedParsed": "2025-07-23T13:06:43Z"
+     },
+     {
+         "title": "When Is WebAssembly Going to Get DOM Support?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44655921\"\u003eComments\u003c/a\u003e",
+         "link": "https://queue.acm.org/detail.cfm?id=3746174",
+         "links": [
+             "https://queue.acm.org/detail.cfm?id=3746174"
+         ],
+         "published": "Wed, 23 Jul 2025 05:16:24 +0000",
+         "publishedParsed": "2025-07-23T05:16:24Z"
+     },
+     {
+         "title": "I'm Unsatisfied with Easing Functions",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44625500\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.davepagurek.com/blog/easing-functions/",
+         "links": [
+             "https://www.davepagurek.com/blog/easing-functions/"
+         ],
+         "published": "Sun, 20 Jul 2025 14:24:28 +0000",
+         "publishedParsed": "2025-07-20T14:24:28Z"
      },
      {
          "title": "Rescuing two PDP-11s from a former British Telecom underground shelter (2023)",
@@ -120,6 +170,26 @@
          "publishedParsed": "2025-07-23T06:02:40Z"
      },
      {
+         "title": "Checking Out CPython 3.14's remote debugging protocol",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44657433\"\u003eComments\u003c/a\u003e",
+         "link": "https://rtpg.co/2025/06/28/checking-out-sys-remote-exec/",
+         "links": [
+             "https://rtpg.co/2025/06/28/checking-out-sys-remote-exec/"
+         ],
+         "published": "Wed, 23 Jul 2025 09:57:25 +0000",
+         "publishedParsed": "2025-07-23T09:57:25Z"
+     },
+     {
+         "title": "Mathematics for Computer Science (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44655565\"\u003eComments\u003c/a\u003e",
+         "link": "https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/",
+         "links": [
+             "https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/"
+         ],
+         "published": "Wed, 23 Jul 2025 03:47:18 +0000",
+         "publishedParsed": "2025-07-23T03:47:18Z"
+     },
+     {
          "title": "More than you wanted to know about how Game Boy cartridges work",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44651770\"\u003eComments\u003c/a\u003e",
          "link": "https://abc.decontextualize.com/more-than-you-wanted-to-know/",
@@ -130,14 +200,24 @@
          "publishedParsed": "2025-07-22T19:17:38Z"
      },
      {
-         "title": "Android Earthquake Alerts: A global system for early warning",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44651092\"\u003eComments\u003c/a\u003e",
-         "link": "https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/",
+         "title": "AI coding agents are removing programming language barriers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44655515\"\u003eComments\u003c/a\u003e",
+         "link": "https://railsatscale.com/2025-07-19-ai-coding-agents-are-removing-programming-language-barriers/",
          "links": [
-             "https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/"
+             "https://railsatscale.com/2025-07-19-ai-coding-agents-are-removing-programming-language-barriers/"
          ],
-         "published": "Tue, 22 Jul 2025 18:23:14 +0000",
-         "publishedParsed": "2025-07-22T18:23:14Z"
+         "published": "Wed, 23 Jul 2025 03:39:13 +0000",
+         "publishedParsed": "2025-07-23T03:39:13Z"
+     },
+     {
+         "title": "Brave blocks Microsoft Recall by default",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44657291\"\u003eComments\u003c/a\u003e",
+         "link": "https://brave.com/privacy-updates/35-block-recall/",
+         "links": [
+             "https://brave.com/privacy-updates/35-block-recall/"
+         ],
+         "published": "Wed, 23 Jul 2025 09:33:23 +0000",
+         "publishedParsed": "2025-07-23T09:33:23Z"
      },
      {
          "title": "Algorithms for Modern Processor Architectures",
@@ -160,6 +240,26 @@
          "publishedParsed": "2025-07-23T00:16:18Z"
      },
      {
+         "title": "Show HN: Header-only GIF decoder in pure C – no malloc, easy to use",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44658027\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=44658027",
+         "links": [
+             "https://news.ycombinator.com/item?id=44658027"
+         ],
+         "published": "Wed, 23 Jul 2025 11:36:33 +0000",
+         "publishedParsed": "2025-07-23T11:36:33Z"
+     },
+     {
+         "title": "Android Earthquake Alerts: A global system for early warning",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44651092\"\u003eComments\u003c/a\u003e",
+         "link": "https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/",
+         "links": [
+             "https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/"
+         ],
+         "published": "Tue, 22 Jul 2025 18:23:14 +0000",
+         "publishedParsed": "2025-07-22T18:23:14Z"
+     },
+     {
          "title": "I watched Gemini CLI hallucinate and delete my files",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44651485\"\u003eComments\u003c/a\u003e",
          "link": "https://anuraag2601.github.io/gemini_cli_disaster.html",
@@ -170,133 +270,13 @@
          "publishedParsed": "2025-07-22T18:54:05Z"
      },
      {
-         "title": "I'm Unsatisfied with Easing Functions",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44625500\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.davepagurek.com/blog/easing-functions/",
+         "title": "Apple's Liquid Glass: When Aesthetics Beat Function",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44658103\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.maxvanijsselmuiden.nl/liquid-glass",
          "links": [
-             "https://www.davepagurek.com/blog/easing-functions/"
+             "https://www.maxvanijsselmuiden.nl/liquid-glass"
          ],
-         "published": "Sun, 20 Jul 2025 14:24:28 +0000",
-         "publishedParsed": "2025-07-20T14:24:28Z"
-     },
-     {
-         "title": "Are we Trek yet? – A guide for how close we are to Star Trek technology",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44658458\"\u003eComments\u003c/a\u003e",
-         "link": "https://arewetrekyet.com/",
-         "links": [
-             "https://arewetrekyet.com/"
-         ],
-         "published": "Wed, 23 Jul 2025 12:28:59 +0000",
-         "publishedParsed": "2025-07-23T12:28:59Z"
-     },
-     {
-         "title": "Org tutorials",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44655385\"\u003eComments\u003c/a\u003e",
-         "link": "https://orgmode.org/worg/org-tutorials/index.html",
-         "links": [
-             "https://orgmode.org/worg/org-tutorials/index.html"
-         ],
-         "published": "Wed, 23 Jul 2025 03:09:20 +0000",
-         "publishedParsed": "2025-07-23T03:09:20Z"
-     },
-     {
-         "title": "Don't animate height",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44619206\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.granola.ai/blog/dont-animate-height",
-         "links": [
-             "https://www.granola.ai/blog/dont-animate-height"
-         ],
-         "published": "Sat, 19 Jul 2025 20:44:19 +0000",
-         "publishedParsed": "2025-07-19T20:44:19Z"
-     },
-     {
-         "title": "Swift-erlang-actor-system",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44651539\"\u003eComments\u003c/a\u003e",
-         "link": "https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248",
-         "links": [
-             "https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248"
-         ],
-         "published": "Tue, 22 Jul 2025 18:59:04 +0000",
-         "publishedParsed": "2025-07-22T18:59:04Z"
-     },
-     {
-         "title": "We built an air-gapped Jira alternative for regulated industries",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44651766\"\u003eComments\u003c/a\u003e",
-         "link": "https://plane.so/blog/everything-you-need-to-know-about-plane-air-gapped",
-         "links": [
-             "https://plane.so/blog/everything-you-need-to-know-about-plane-air-gapped"
-         ],
-         "published": "Tue, 22 Jul 2025 19:17:32 +0000",
-         "publishedParsed": "2025-07-22T19:17:32Z"
-     },
-     {
-         "title": "Managing EFI boot loaders for Linux: Controlling secure boot (2015)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44619485\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.rodsbooks.com/efi-bootloaders/controlling-sb.html",
-         "links": [
-             "https://www.rodsbooks.com/efi-bootloaders/controlling-sb.html"
-         ],
-         "published": "Sat, 19 Jul 2025 21:15:56 +0000",
-         "publishedParsed": "2025-07-19T21:15:56Z"
-     },
-     {
-         "title": "Checking Out CPython 3.14's remote debugging protocol",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44657433\"\u003eComments\u003c/a\u003e",
-         "link": "https://rtpg.co/2025/06/28/checking-out-sys-remote-exec/",
-         "links": [
-             "https://rtpg.co/2025/06/28/checking-out-sys-remote-exec/"
-         ],
-         "published": "Wed, 23 Jul 2025 09:57:25 +0000",
-         "publishedParsed": "2025-07-23T09:57:25Z"
-     },
-     {
-         "title": "TODOs aren't for doing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44646801\"\u003eComments\u003c/a\u003e",
-         "link": "https://sophiebits.com/2025/07/21/todos-arent-for-doing",
-         "links": [
-             "https://sophiebits.com/2025/07/21/todos-arent-for-doing"
-         ],
-         "published": "Tue, 22 Jul 2025 13:43:16 +0000",
-         "publishedParsed": "2025-07-22T13:43:16Z"
-     },
-     {
-         "title": "SubTropolis and KC's Limestone Caves",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44632218\"\u003eComments\u003c/a\u003e",
-         "link": "https://kcyesterday.com/articles/subtropolis",
-         "links": [
-             "https://kcyesterday.com/articles/subtropolis"
-         ],
-         "published": "Mon, 21 Jul 2025 06:10:57 +0000",
-         "publishedParsed": "2025-07-21T06:10:57Z"
-     },
-     {
-         "title": "Subliminal learning: Models transmit behaviors via hidden signals in data",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44650840\"\u003eComments\u003c/a\u003e",
-         "link": "https://alignment.anthropic.com/2025/subliminal-learning/",
-         "links": [
-             "https://alignment.anthropic.com/2025/subliminal-learning/"
-         ],
-         "published": "Tue, 22 Jul 2025 18:02:11 +0000",
-         "publishedParsed": "2025-07-22T18:02:11Z"
-     },
-     {
-         "title": "Many lung cancers are now in nonsmokers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44648144\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nytimes.com/2025/07/22/well/lung-cancer-nonsmokers.html",
-         "links": [
-             "https://www.nytimes.com/2025/07/22/well/lung-cancer-nonsmokers.html"
-         ],
-         "published": "Tue, 22 Jul 2025 15:18:56 +0000",
-         "publishedParsed": "2025-07-22T15:18:56Z"
-     },
-     {
-         "title": "Show HN: WTFfmpeg – Natural Language to FFmpeg Translator",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44655632\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/scottvr/wtffmpeg",
-         "links": [
-             "https://github.com/scottvr/wtffmpeg"
-         ],
-         "published": "Wed, 23 Jul 2025 04:03:53 +0000",
-         "publishedParsed": "2025-07-23T04:03:53Z"
+         "published": "Wed, 23 Jul 2025 11:46:09 +0000",
+         "publishedParsed": "2025-07-23T11:46:09Z"
      }
  ]
