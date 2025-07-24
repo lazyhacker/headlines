@@ -1,5 +1,75 @@
 [
      {
+         "title": "Starlink is currently experiencing a service outage. Our team is investigating",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44674960\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.starlink.com/us",
+         "links": [
+             "https://www.starlink.com/us"
+         ],
+         "published": "Thu, 24 Jul 2025 19:26:12 +0000",
+         "publishedParsed": "2025-07-24T19:26:12Z"
+     },
+     {
+         "title": "Psilocybin delays aging, extends lifespan, new Emory study suggests",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44675708\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.emory.edu/stories/2025/07/hs_psilocybin_aging_study_10-07-2025/story.html",
+         "links": [
+             "https://news.emory.edu/stories/2025/07/hs_psilocybin_aging_study_10-07-2025/story.html"
+         ],
+         "published": "Thu, 24 Jul 2025 20:29:58 +0000",
+         "publishedParsed": "2025-07-24T20:29:58Z"
+     },
+     {
+         "title": "AMD CEO sees chips from TSMC's US plant costing 5%-20% more",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44663074\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more",
+         "links": [
+             "https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more"
+         ],
+         "published": "Wed, 23 Jul 2025 19:34:56 +0000",
+         "publishedParsed": "2025-07-23T19:34:56Z"
+     },
+     {
+         "title": "You can now train a 70B language model at home",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44674830\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html",
+         "links": [
+             "https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html"
+         ],
+         "published": "Thu, 24 Jul 2025 19:13:14 +0000",
+         "publishedParsed": "2025-07-24T19:13:14Z"
+     },
+     {
+         "title": "Inter-Planetary Network Special Interest Group",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44675553\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ipnsig.org",
+         "links": [
+             "https://www.ipnsig.org"
+         ],
+         "published": "Thu, 24 Jul 2025 20:19:57 +0000",
+         "publishedParsed": "2025-07-24T20:19:57Z"
+     },
+     {
+         "title": "I wasted weeks hand optimizing assembly because I benchmarked on random data",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44632674\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.vidarholen.net/contents/blog/?p=1160",
+         "links": [
+             "https://www.vidarholen.net/contents/blog/?p=1160"
+         ],
+         "published": "Mon, 21 Jul 2025 07:40:01 +0000",
+         "publishedParsed": "2025-07-21T07:40:01Z"
+     },
+     {
+         "title": "You might not need a Python class",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44675119\"\u003eComments\u003c/a\u003e",
+         "link": "https://adamgrant.micro.blog/2025/07/24/123050.html",
+         "links": [
+             "https://adamgrant.micro.blog/2025/07/24/123050.html"
+         ],
+         "published": "Thu, 24 Jul 2025 19:41:09 +0000",
+         "publishedParsed": "2025-07-24T19:41:09Z"
+     },
+     {
          "title": "PSA: SQLite WAL checksums fail silently and may lose data",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44671373\"\u003eComments\u003c/a\u003e",
          "link": "https://avi.im/blag/2025/sqlite-wal-checksum/",
@@ -18,26 +88,6 @@
          ],
          "published": "Thu, 24 Jul 2025 14:57:05 +0000",
          "publishedParsed": "2025-07-24T14:57:05Z"
-     },
-     {
-         "title": "I wasted weeks hand optimizing assembly because I benchmarked on random data",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44632674\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.vidarholen.net/contents/blog/?p=1160",
-         "links": [
-             "https://www.vidarholen.net/contents/blog/?p=1160"
-         ],
-         "published": "Mon, 21 Jul 2025 07:40:01 +0000",
-         "publishedParsed": "2025-07-21T07:40:01Z"
-     },
-     {
-         "title": "AMD CEO sees chips from TSMC's US plant costing 5%-20% more",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44663074\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more",
-         "links": [
-             "https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more"
-         ],
-         "published": "Wed, 23 Jul 2025 19:34:56 +0000",
-         "publishedParsed": "2025-07-23T19:34:56Z"
      },
      {
          "title": "Major Quantum Computing Advance Made Obsolete by Teenager (2018)",
@@ -70,6 +120,16 @@
          "publishedParsed": "2025-07-24T13:17:24Z"
      },
      {
+         "title": "Open Source Maintenance Fee",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44669858\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/wixtoolset/issues/issues/8974",
+         "links": [
+             "https://github.com/wixtoolset/issues/issues/8974"
+         ],
+         "published": "Thu, 24 Jul 2025 12:29:35 +0000",
+         "publishedParsed": "2025-07-24T12:29:35Z"
+     },
+     {
          "title": "The POSIX specification of vi",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44632783\"\u003eComments\u003c/a\u003e",
          "link": "https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html",
@@ -78,6 +138,16 @@
          ],
          "published": "Mon, 21 Jul 2025 08:01:27 +0000",
          "publishedParsed": "2025-07-21T08:01:27Z"
+     },
+     {
+         "title": "Hacker slips malicious 'wiping' command into Amazon's Q AI coding assistant",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44675557\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.zdnet.com/article/hacker-slips-malicious-wiping-command-into-amazons-q-ai-coding-assistant-and-devs-are-worried/",
+         "links": [
+             "https://www.zdnet.com/article/hacker-slips-malicious-wiping-command-into-amazons-q-ai-coding-assistant-and-devs-are-worried/"
+         ],
+         "published": "Thu, 24 Jul 2025 20:20:17 +0000",
+         "publishedParsed": "2025-07-24T20:20:17Z"
      },
      {
          "title": "When swiping supplants scissors: The hidden cost of touchscreens",
@@ -90,14 +160,14 @@
          "publishedParsed": "2025-07-24T15:46:46Z"
      },
      {
-         "title": "Open Source Maintenance Fee",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44669858\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/wixtoolset/issues/issues/8974",
+         "title": "Show HN: Nia – MCP server that gives more docs and repos to coding agents",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44671601\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.trynia.ai/",
          "links": [
-             "https://github.com/wixtoolset/issues/issues/8974"
+             "https://www.trynia.ai/"
          ],
-         "published": "Thu, 24 Jul 2025 12:29:35 +0000",
-         "publishedParsed": "2025-07-24T12:29:35Z"
+         "published": "Thu, 24 Jul 2025 15:05:12 +0000",
+         "publishedParsed": "2025-07-24T15:05:12Z"
      },
      {
          "title": "Lslvr/mwm: The smallest (usable) X11 window manager",
@@ -110,24 +180,14 @@
          "publishedParsed": "2025-07-21T12:04:49Z"
      },
      {
-         "title": "There is no memory safety without thread safety",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44672003\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
+         "title": "Linux Distros for Gaming: CachyOS Takes Over, According to ProtonDB",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44633758\"\u003eComments\u003c/a\u003e",
+         "link": "https://boilingsteam.com/distro-for-gaming-cachy-os-takes-over/",
          "links": [
-             "https://www.ralfj.de/blog/2025/07/24/memory-safety.html"
+             "https://boilingsteam.com/distro-for-gaming-cachy-os-takes-over/"
          ],
-         "published": "Thu, 24 Jul 2025 15:35:39 +0000",
-         "publishedParsed": "2025-07-24T15:35:39Z"
-     },
-     {
-         "title": "Show HN: Nia – MCP server that gives more docs and repos to coding agents",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44671601\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.trynia.ai/",
-         "links": [
-             "https://www.trynia.ai/"
-         ],
-         "published": "Thu, 24 Jul 2025 15:05:12 +0000",
-         "publishedParsed": "2025-07-24T15:05:12Z"
+         "published": "Mon, 21 Jul 2025 10:58:21 +0000",
+         "publishedParsed": "2025-07-21T10:58:21Z"
      },
      {
          "title": "AI overviews cause massive drop in search clicks",
@@ -150,36 +210,6 @@
          "publishedParsed": "2025-07-23T17:38:20Z"
      },
      {
-         "title": "The FastLanes File Format [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44671584\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf",
-         "links": [
-             "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf"
-         ],
-         "published": "Thu, 24 Jul 2025 15:03:56 +0000",
-         "publishedParsed": "2025-07-24T15:03:56Z"
-     },
-     {
-         "title": "A valid HTML zip bomb",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44670319\"\u003eComments\u003c/a\u003e",
-         "link": "https://ache.one/notes/html_zip_bomb",
-         "links": [
-             "https://ache.one/notes/html_zip_bomb"
-         ],
-         "published": "Thu, 24 Jul 2025 13:16:29 +0000",
-         "publishedParsed": "2025-07-24T13:16:29Z"
-     },
-     {
-         "title": "Show HN: A code editor that integrates into the browser",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44673499\"\u003eComments\u003c/a\u003e",
-         "link": "https://tachicode.dev/",
-         "links": [
-             "https://tachicode.dev/"
-         ],
-         "published": "Thu, 24 Jul 2025 17:28:54 +0000",
-         "publishedParsed": "2025-07-24T17:28:54Z"
-     },
-     {
          "title": "Thunder Compute (YC S24) Is Hiring a C++ Systems Engineer",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44669631\"\u003eComments\u003c/a\u003e",
          "link": "https://www.ycombinator.com/companies/thunder-compute/jobs/DhML6Uf-c-systems-engineer",
@@ -188,16 +218,6 @@
          ],
          "published": "Thu, 24 Jul 2025 12:00:13 +0000",
          "publishedParsed": "2025-07-24T12:00:13Z"
-     },
-     {
-         "title": "Covers as a way of learning music and code",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44636240\"\u003eComments\u003c/a\u003e",
-         "link": "https://ntietz.com/blog/covers-as-a-way-of-learning/",
-         "links": [
-             "https://ntietz.com/blog/covers-as-a-way-of-learning/"
-         ],
-         "published": "Mon, 21 Jul 2025 15:20:49 +0000",
-         "publishedParsed": "2025-07-21T15:20:49Z"
      },
      {
          "title": "Writing is thinking",
@@ -210,14 +230,24 @@
          "publishedParsed": "2025-07-21T06:30:21Z"
      },
      {
-         "title": "Two narratives about AI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44672414\"\u003eComments\u003c/a\u003e",
-         "link": "https://calnewport.com/no-one-knows-anything-about-ai/",
+         "title": "Show HN: A code editor that integrates into the browser",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44673499\"\u003eComments\u003c/a\u003e",
+         "link": "https://tachicode.dev/",
          "links": [
-             "https://calnewport.com/no-one-knows-anything-about-ai/"
+             "https://tachicode.dev/"
          ],
-         "published": "Thu, 24 Jul 2025 16:08:09 +0000",
-         "publishedParsed": "2025-07-24T16:08:09Z"
+         "published": "Thu, 24 Jul 2025 17:28:54 +0000",
+         "publishedParsed": "2025-07-24T17:28:54Z"
+     },
+     {
+         "title": "The FastLanes File Format [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44671584\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf",
+         "links": [
+             "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf"
+         ],
+         "published": "Thu, 24 Jul 2025 15:03:56 +0000",
+         "publishedParsed": "2025-07-24T15:03:56Z"
      },
      {
          "title": "A list of changes to make it easier to build beautiful and walkable places",
@@ -230,26 +260,6 @@
          "publishedParsed": "2025-07-24T14:55:53Z"
      },
      {
-         "title": "OpenAI prepares to launch GPT-5 in August",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44672450\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theverge.com/notepad-microsoft-newsletter/712950/openai-gpt-5-model-release-date-notepad",
-         "links": [
-             "https://www.theverge.com/notepad-microsoft-newsletter/712950/openai-gpt-5-model-release-date-notepad"
-         ],
-         "published": "Thu, 24 Jul 2025 16:11:25 +0000",
-         "publishedParsed": "2025-07-24T16:11:25Z"
-     },
-     {
-         "title": "BGP.Tools: Browse the Internet Ecosystem",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44665815\"\u003eComments\u003c/a\u003e",
-         "link": "https://bgp.tools/",
-         "links": [
-             "https://bgp.tools/"
-         ],
-         "published": "Thu, 24 Jul 2025 01:12:14 +0000",
-         "publishedParsed": "2025-07-24T01:12:14Z"
-     },
-     {
          "title": "Transformers Without Normalization",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44671375\"\u003eComments\u003c/a\u003e",
          "link": "https://arxiv.org/abs/2503.10622",
@@ -260,43 +270,23 @@
          "publishedParsed": "2025-07-24T14:48:21Z"
      },
      {
-         "title": "Diet, not lack of exercise, drives obesity, a new study finds",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44670590\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.npr.org/2025/07/24/nx-s1-5477662/diet-exercise-obesity-nutrition",
+         "title": "Working on a Programming Language in the Age of LLMs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44640471\"\u003eComments\u003c/a\u003e",
+         "link": "https://ryelang.org/blog/posts/programming-language-in-age-of-llms/",
          "links": [
-             "https://www.npr.org/2025/07/24/nx-s1-5477662/diet-exercise-obesity-nutrition"
+             "https://ryelang.org/blog/posts/programming-language-in-age-of-llms/"
          ],
-         "published": "Thu, 24 Jul 2025 13:42:03 +0000",
-         "publishedParsed": "2025-07-24T13:42:03Z"
+         "published": "Mon, 21 Jul 2025 21:12:30 +0000",
+         "publishedParsed": "2025-07-21T21:12:30Z"
      },
      {
-         "title": "Web fingerprinting is worse than I thought (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44669853\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html",
+         "title": "A valid HTML zip bomb",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44670319\"\u003eComments\u003c/a\u003e",
+         "link": "https://ache.one/notes/html_zip_bomb",
          "links": [
-             "https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html"
+             "https://ache.one/notes/html_zip_bomb"
          ],
-         "published": "Thu, 24 Jul 2025 12:28:31 +0000",
-         "publishedParsed": "2025-07-24T12:28:31Z"
-     },
-     {
-         "title": "Apache HTTP Server: 'RewriteCond expr' always evaluates to true",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44666896\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b",
-         "links": [
-             "https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b"
-         ],
-         "published": "Thu, 24 Jul 2025 04:20:52 +0000",
-         "publishedParsed": "2025-07-24T04:20:52Z"
-     },
-     {
-         "title": "Distillation makes AI models smaller and cheaper",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44629805\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/",
-         "links": [
-             "https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/"
-         ],
-         "published": "Sun, 20 Jul 2025 22:09:27 +0000",
-         "publishedParsed": "2025-07-20T22:09:27Z"
+         "published": "Thu, 24 Jul 2025 13:16:29 +0000",
+         "publishedParsed": "2025-07-24T13:16:29Z"
      }
  ]
