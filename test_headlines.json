@@ -1,25 +1,5 @@
 [
      {
-         "title": "No One Knows Anything About AI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44672414\"\u003eComments\u003c/a\u003e",
-         "link": "https://calnewport.com/no-one-knows-anything-about-ai/",
-         "links": [
-             "https://calnewport.com/no-one-knows-anything-about-ai/"
-         ],
-         "published": "Thu, 24 Jul 2025 16:08:09 +0000",
-         "publishedParsed": "2025-07-24T16:08:09Z"
-     },
-     {
-         "title": "There is no memory safety without thread safety",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44672003\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
-         "links": [
-             "https://www.ralfj.de/blog/2025/07/24/memory-safety.html"
-         ],
-         "published": "Thu, 24 Jul 2025 15:35:39 +0000",
-         "publishedParsed": "2025-07-24T15:35:39Z"
-     },
-     {
          "title": "PSA: SQLite WAL checksums fail silently and may lose data",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44671373\"\u003eComments\u003c/a\u003e",
          "link": "https://avi.im/blag/2025/sqlite-wal-checksum/",
@@ -28,6 +8,76 @@
          ],
          "published": "Thu, 24 Jul 2025 14:48:04 +0000",
          "publishedParsed": "2025-07-24T14:48:04Z"
+     },
+     {
+         "title": "Use Your Type System",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44671484\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
+         "links": [
+             "https://www.dzombak.com/blog/2025/07/use-your-type-system/"
+         ],
+         "published": "Thu, 24 Jul 2025 14:57:05 +0000",
+         "publishedParsed": "2025-07-24T14:57:05Z"
+     },
+     {
+         "title": "I wasted weeks hand optimizing assembly because I benchmarked on random data",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44632674\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.vidarholen.net/contents/blog/?p=1160",
+         "links": [
+             "https://www.vidarholen.net/contents/blog/?p=1160"
+         ],
+         "published": "Mon, 21 Jul 2025 07:40:01 +0000",
+         "publishedParsed": "2025-07-21T07:40:01Z"
+     },
+     {
+         "title": "AMD CEO sees chips from TSMC's US plant costing 5%-20% more",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44663074\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more",
+         "links": [
+             "https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more"
+         ],
+         "published": "Wed, 23 Jul 2025 19:34:56 +0000",
+         "publishedParsed": "2025-07-23T19:34:56Z"
+     },
+     {
+         "title": "Major Quantum Computing Advance Made Obsolete by Teenager (2018)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44672859\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/",
+         "links": [
+             "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/"
+         ],
+         "published": "Thu, 24 Jul 2025 16:42:25 +0000",
+         "publishedParsed": "2025-07-24T16:42:25Z"
+     },
+     {
+         "title": "Vet is a safety net for the curl | bash pattern",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44669998\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/vet-run/vet",
+         "links": [
+             "https://github.com/vet-run/vet"
+         ],
+         "published": "Thu, 24 Jul 2025 12:47:29 +0000",
+         "publishedParsed": "2025-07-24T12:47:29Z"
+     },
+     {
+         "title": "UK: Phone networks down: EE, BT, Three, Vodafone, O2 not working in mass outage",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44670326\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.the-independent.com/tech/ee-bt-three-vodafone-o2-down-phone-networks-outage-latest-b2795260.html",
+         "links": [
+             "https://www.the-independent.com/tech/ee-bt-three-vodafone-o2-down-phone-networks-outage-latest-b2795260.html"
+         ],
+         "published": "Thu, 24 Jul 2025 13:17:24 +0000",
+         "publishedParsed": "2025-07-24T13:17:24Z"
+     },
+     {
+         "title": "The POSIX specification of vi",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44632783\"\u003eComments\u003c/a\u003e",
+         "link": "https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html",
+         "links": [
+             "https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html"
+         ],
+         "published": "Mon, 21 Jul 2025 08:01:27 +0000",
+         "publishedParsed": "2025-07-21T08:01:27Z"
      },
      {
          "title": "When swiping supplants scissors: The hidden cost of touchscreens",
@@ -40,34 +90,14 @@
          "publishedParsed": "2025-07-24T15:46:46Z"
      },
      {
-         "title": "Everything Else",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44671804\"\u003eComments\u003c/a\u003e",
-         "link": "https://newleftreview.org/sidecar/posts/everything-else",
+         "title": "Open Source Maintenance Fee",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44669858\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/wixtoolset/issues/issues/8974",
          "links": [
-             "https://newleftreview.org/sidecar/posts/everything-else"
+             "https://github.com/wixtoolset/issues/issues/8974"
          ],
-         "published": "Thu, 24 Jul 2025 15:20:59 +0000",
-         "publishedParsed": "2025-07-24T15:20:59Z"
-     },
-     {
-         "title": "The FastLanes File Format [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44671584\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf",
-         "links": [
-             "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf"
-         ],
-         "published": "Thu, 24 Jul 2025 15:03:56 +0000",
-         "publishedParsed": "2025-07-24T15:03:56Z"
-     },
-     {
-         "title": "Major Quantum Computing Advance Made Obsolete by Teenager",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44672859\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/",
-         "links": [
-             "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/"
-         ],
-         "published": "Thu, 24 Jul 2025 16:42:25 +0000",
-         "publishedParsed": "2025-07-24T16:42:25Z"
+         "published": "Thu, 24 Jul 2025 12:29:35 +0000",
+         "publishedParsed": "2025-07-24T12:29:35Z"
      },
      {
          "title": "Lslvr/mwm: The smallest (usable) X11 window manager",
@@ -80,44 +110,24 @@
          "publishedParsed": "2025-07-21T12:04:49Z"
      },
      {
-         "title": "A valid HTML zip bomb",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44670319\"\u003eComments\u003c/a\u003e",
-         "link": "https://ache.one/notes/html_zip_bomb",
+         "title": "There is no memory safety without thread safety",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44672003\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
          "links": [
-             "https://ache.one/notes/html_zip_bomb"
+             "https://www.ralfj.de/blog/2025/07/24/memory-safety.html"
          ],
-         "published": "Thu, 24 Jul 2025 13:16:29 +0000",
-         "publishedParsed": "2025-07-24T13:16:29Z"
+         "published": "Thu, 24 Jul 2025 15:35:39 +0000",
+         "publishedParsed": "2025-07-24T15:35:39Z"
      },
      {
-         "title": "Vet is a safety net for the risky curl | bash pattern",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44669998\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/vet-run/vet",
+         "title": "Show HN: Nia – MCP server that gives more docs and repos to coding agents",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44671601\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.trynia.ai/",
          "links": [
-             "https://github.com/vet-run/vet"
+             "https://www.trynia.ai/"
          ],
-         "published": "Thu, 24 Jul 2025 12:47:29 +0000",
-         "publishedParsed": "2025-07-24T12:47:29Z"
-     },
-     {
-         "title": "Covers as a way of learning music and code",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44636240\"\u003eComments\u003c/a\u003e",
-         "link": "https://ntietz.com/blog/covers-as-a-way-of-learning/",
-         "links": [
-             "https://ntietz.com/blog/covers-as-a-way-of-learning/"
-         ],
-         "published": "Mon, 21 Jul 2025 15:20:49 +0000",
-         "publishedParsed": "2025-07-21T15:20:49Z"
-     },
-     {
-         "title": "CARA – High precision robot dog using rope",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44661846\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.aaedmusa.com/projects/cara",
-         "links": [
-             "https://www.aaedmusa.com/projects/cara"
-         ],
-         "published": "Wed, 23 Jul 2025 17:38:20 +0000",
-         "publishedParsed": "2025-07-23T17:38:20Z"
+         "published": "Thu, 24 Jul 2025 15:05:12 +0000",
+         "publishedParsed": "2025-07-24T15:05:12Z"
      },
      {
          "title": "AI overviews cause massive drop in search clicks",
@@ -130,14 +140,44 @@
          "publishedParsed": "2025-07-23T19:50:12Z"
      },
      {
-         "title": "Writing is thinking",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44632314\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nature.com/articles/s44222-025-00323-4",
+         "title": "CARA – High precision robot dog using rope",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44661846\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.aaedmusa.com/projects/cara",
          "links": [
-             "https://www.nature.com/articles/s44222-025-00323-4"
+             "https://www.aaedmusa.com/projects/cara"
          ],
-         "published": "Mon, 21 Jul 2025 06:30:21 +0000",
-         "publishedParsed": "2025-07-21T06:30:21Z"
+         "published": "Wed, 23 Jul 2025 17:38:20 +0000",
+         "publishedParsed": "2025-07-23T17:38:20Z"
+     },
+     {
+         "title": "The FastLanes File Format [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44671584\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf",
+         "links": [
+             "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf"
+         ],
+         "published": "Thu, 24 Jul 2025 15:03:56 +0000",
+         "publishedParsed": "2025-07-24T15:03:56Z"
+     },
+     {
+         "title": "A valid HTML zip bomb",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44670319\"\u003eComments\u003c/a\u003e",
+         "link": "https://ache.one/notes/html_zip_bomb",
+         "links": [
+             "https://ache.one/notes/html_zip_bomb"
+         ],
+         "published": "Thu, 24 Jul 2025 13:16:29 +0000",
+         "publishedParsed": "2025-07-24T13:16:29Z"
+     },
+     {
+         "title": "Show HN: A code editor that integrates into the browser",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44673499\"\u003eComments\u003c/a\u003e",
+         "link": "https://tachicode.dev/",
+         "links": [
+             "https://tachicode.dev/"
+         ],
+         "published": "Thu, 24 Jul 2025 17:28:54 +0000",
+         "publishedParsed": "2025-07-24T17:28:54Z"
      },
      {
          "title": "Thunder Compute (YC S24) Is Hiring a C++ Systems Engineer",
@@ -150,24 +190,54 @@
          "publishedParsed": "2025-07-24T12:00:13Z"
      },
      {
-         "title": "Web fingerprinting is worse than I thought (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44669853\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html",
+         "title": "Covers as a way of learning music and code",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44636240\"\u003eComments\u003c/a\u003e",
+         "link": "https://ntietz.com/blog/covers-as-a-way-of-learning/",
          "links": [
-             "https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html"
+             "https://ntietz.com/blog/covers-as-a-way-of-learning/"
          ],
-         "published": "Thu, 24 Jul 2025 12:28:31 +0000",
-         "publishedParsed": "2025-07-24T12:28:31Z"
+         "published": "Mon, 21 Jul 2025 15:20:49 +0000",
+         "publishedParsed": "2025-07-21T15:20:49Z"
      },
      {
-         "title": "Show HN: Nia – MCP server that gives more context to coding agents",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44671601\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.trynia.ai/",
+         "title": "Writing is thinking",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44632314\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nature.com/articles/s44222-025-00323-4",
          "links": [
-             "https://www.trynia.ai/"
+             "https://www.nature.com/articles/s44222-025-00323-4"
          ],
-         "published": "Thu, 24 Jul 2025 15:05:12 +0000",
-         "publishedParsed": "2025-07-24T15:05:12Z"
+         "published": "Mon, 21 Jul 2025 06:30:21 +0000",
+         "publishedParsed": "2025-07-21T06:30:21Z"
+     },
+     {
+         "title": "Two narratives about AI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44672414\"\u003eComments\u003c/a\u003e",
+         "link": "https://calnewport.com/no-one-knows-anything-about-ai/",
+         "links": [
+             "https://calnewport.com/no-one-knows-anything-about-ai/"
+         ],
+         "published": "Thu, 24 Jul 2025 16:08:09 +0000",
+         "publishedParsed": "2025-07-24T16:08:09Z"
+     },
+     {
+         "title": "A list of changes to make it easier to build beautiful and walkable places",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44671472\"\u003eComments\u003c/a\u003e",
+         "link": "https://chrisbarber.co/A+list+of+changes+to+make+it+easier+to+build+beautiful+%26+walkable+places",
+         "links": [
+             "https://chrisbarber.co/A+list+of+changes+to+make+it+easier+to+build+beautiful+%26+walkable+places"
+         ],
+         "published": "Thu, 24 Jul 2025 14:55:53 +0000",
+         "publishedParsed": "2025-07-24T14:55:53Z"
+     },
+     {
+         "title": "OpenAI prepares to launch GPT-5 in August",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44672450\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theverge.com/notepad-microsoft-newsletter/712950/openai-gpt-5-model-release-date-notepad",
+         "links": [
+             "https://www.theverge.com/notepad-microsoft-newsletter/712950/openai-gpt-5-model-release-date-notepad"
+         ],
+         "published": "Thu, 24 Jul 2025 16:11:25 +0000",
+         "publishedParsed": "2025-07-24T16:11:25Z"
      },
      {
          "title": "BGP.Tools: Browse the Internet Ecosystem",
@@ -190,14 +260,24 @@
          "publishedParsed": "2025-07-24T14:48:21Z"
      },
      {
-         "title": "Detekt – A static code analyzer for Kotlin",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44669365\"\u003eComments\u003c/a\u003e",
-         "link": "https://detekt.dev/",
+         "title": "Diet, not lack of exercise, drives obesity, a new study finds",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44670590\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.npr.org/2025/07/24/nx-s1-5477662/diet-exercise-obesity-nutrition",
          "links": [
-             "https://detekt.dev/"
+             "https://www.npr.org/2025/07/24/nx-s1-5477662/diet-exercise-obesity-nutrition"
          ],
-         "published": "Thu, 24 Jul 2025 11:16:19 +0000",
-         "publishedParsed": "2025-07-24T11:16:19Z"
+         "published": "Thu, 24 Jul 2025 13:42:03 +0000",
+         "publishedParsed": "2025-07-24T13:42:03Z"
+     },
+     {
+         "title": "Web fingerprinting is worse than I thought (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44669853\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html",
+         "links": [
+             "https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html"
+         ],
+         "published": "Thu, 24 Jul 2025 12:28:31 +0000",
+         "publishedParsed": "2025-07-24T12:28:31Z"
      },
      {
          "title": "Apache HTTP Server: 'RewriteCond expr' always evaluates to true",
@@ -210,16 +290,6 @@
          "publishedParsed": "2025-07-24T04:20:52Z"
      },
      {
-         "title": "XOR_singleheader: Header-only binary fuse and XOR filter library",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44669318\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/FastFilter/xor_singleheader",
-         "links": [
-             "https://github.com/FastFilter/xor_singleheader"
-         ],
-         "published": "Thu, 24 Jul 2025 11:09:26 +0000",
-         "publishedParsed": "2025-07-24T11:09:26Z"
-     },
-     {
          "title": "Distillation makes AI models smaller and cheaper",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44629805\"\u003eComments\u003c/a\u003e",
          "link": "https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/",
@@ -228,65 +298,5 @@
          ],
          "published": "Sun, 20 Jul 2025 22:09:27 +0000",
          "publishedParsed": "2025-07-20T22:09:27Z"
-     },
-     {
-         "title": "Use Your Type System",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44671484\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
-         "links": [
-             "https://www.dzombak.com/blog/2025/07/use-your-type-system/"
-         ],
-         "published": "Thu, 24 Jul 2025 14:57:05 +0000",
-         "publishedParsed": "2025-07-24T14:57:05Z"
-     },
-     {
-         "title": "Electric cars produce far less brake dust pollution than combustion-engine cars",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44666157\"\u003eComments\u003c/a\u003e",
-         "link": "https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/",
-         "links": [
-             "https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/"
-         ],
-         "published": "Thu, 24 Jul 2025 02:13:20 +0000",
-         "publishedParsed": "2025-07-24T02:13:20Z"
-     },
-     {
-         "title": "Global earthquake detection and warning using Android phones",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44633809\"\u003eComments\u003c/a\u003e",
-         "link": "https://doi.org/10.1126/science.ads4779",
-         "links": [
-             "https://doi.org/10.1126/science.ads4779"
-         ],
-         "published": "Mon, 21 Jul 2025 11:06:48 +0000",
-         "publishedParsed": "2025-07-21T11:06:48Z"
-     },
-     {
-         "title": "The Promised LAN",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44661682\"\u003eComments\u003c/a\u003e",
-         "link": "https://tpl.house/",
-         "links": [
-             "https://tpl.house/"
-         ],
-         "published": "Wed, 23 Jul 2025 17:24:32 +0000",
-         "publishedParsed": "2025-07-23T17:24:32Z"
-     },
-     {
-         "title": "Vanishing home field advantage in English football",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44629300\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.engora.com/2025/07/vanishing-home-field-advantage-in.html",
-         "links": [
-             "https://blog.engora.com/2025/07/vanishing-home-field-advantage-in.html"
-         ],
-         "published": "Sun, 20 Jul 2025 21:05:19 +0000",
-         "publishedParsed": "2025-07-20T21:05:19Z"
-     },
-     {
-         "title": "WiX Toolset: Introduce the Open Source Maintenance Fee",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44669858\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/wixtoolset/issues/issues/8974",
-         "links": [
-             "https://github.com/wixtoolset/issues/issues/8974"
-         ],
-         "published": "Thu, 24 Jul 2025 12:29:35 +0000",
-         "publishedParsed": "2025-07-24T12:29:35Z"
      }
  ]
