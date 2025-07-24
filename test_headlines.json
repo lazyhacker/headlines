@@ -30,7 +30,7 @@
          "publishedParsed": "2025-07-23T19:50:12Z"
      },
      {
-         "title": "CVE-2025-54090: Apache HTTP Server: 'RewriteCond expr' always evaluates to true",
+         "title": "Apache HTTP Server: 'RewriteCond expr' always evaluates to true",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44666896\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b",
          "links": [
@@ -58,6 +58,16 @@
          ],
          "published": "Sun, 20 Jul 2025 22:09:27 +0000",
          "publishedParsed": "2025-07-20T22:09:27Z"
+     },
+     {
+         "title": "Bus Bunching",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44625493\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.futilitycloset.com/2025/07/12/bus-bunching/",
+         "links": [
+             "https://www.futilitycloset.com/2025/07/12/bus-bunching/"
+         ],
+         "published": "Sun, 20 Jul 2025 14:24:02 +0000",
+         "publishedParsed": "2025-07-20T14:24:02Z"
      },
      {
          "title": "The Promised LAN",
@@ -90,24 +100,14 @@
          "publishedParsed": "2025-07-23T22:53:27Z"
      },
      {
-         "title": "I drank every cocktail",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44665373\"\u003eComments\u003c/a\u003e",
-         "link": "https://aaronson.org/blog/i-drank-every-cocktail",
+         "title": "A Python tool to parse PDF statements from Poste Italiane",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44634756\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/genbs/poste-italiane-parser",
          "links": [
-             "https://aaronson.org/blog/i-drank-every-cocktail"
+             "https://github.com/genbs/poste-italiane-parser"
          ],
-         "published": "Wed, 23 Jul 2025 23:56:25 +0000",
-         "publishedParsed": "2025-07-23T23:56:25Z"
-     },
-     {
-         "title": "Building better AI tools",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44659921\"\u003eComments\u003c/a\u003e",
-         "link": "https://hazelweakly.me/blog/stop-building-ai-tools-backwards/",
-         "links": [
-             "https://hazelweakly.me/blog/stop-building-ai-tools-backwards/"
-         ],
-         "published": "Wed, 23 Jul 2025 14:56:31 +0000",
-         "publishedParsed": "2025-07-23T14:56:31Z"
+         "published": "Mon, 21 Jul 2025 13:18:47 +0000",
+         "publishedParsed": "2025-07-21T13:18:47Z"
      },
      {
          "title": "Neil Armstrong's customs form for moon rocks (2016)",
@@ -120,24 +120,24 @@
          "publishedParsed": "2025-07-23T15:37:40Z"
      },
      {
-         "title": "Parsing Protobuf like never before",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44591605\"\u003eComments\u003c/a\u003e",
-         "link": "https://mcyoung.xyz/2025/07/16/hyperpb/",
+         "title": "Building better AI tools",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44659921\"\u003eComments\u003c/a\u003e",
+         "link": "https://hazelweakly.me/blog/stop-building-ai-tools-backwards/",
          "links": [
-             "https://mcyoung.xyz/2025/07/16/hyperpb/"
+             "https://hazelweakly.me/blog/stop-building-ai-tools-backwards/"
          ],
-         "published": "Thu, 17 Jul 2025 10:09:48 +0000",
-         "publishedParsed": "2025-07-17T10:09:48Z"
+         "published": "Wed, 23 Jul 2025 14:56:31 +0000",
+         "publishedParsed": "2025-07-23T14:56:31Z"
      },
      {
-         "title": "Leprechauns, root causes, and other fairy tales",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44632739\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.tomdalling.com/blog/software-processes/leprechauns-root-causes-and-other-fairy-tails/",
+         "title": "I drank every cocktail",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44665373\"\u003eComments\u003c/a\u003e",
+         "link": "https://aaronson.org/blog/i-drank-every-cocktail",
          "links": [
-             "https://www.tomdalling.com/blog/software-processes/leprechauns-root-causes-and-other-fairy-tails/"
+             "https://aaronson.org/blog/i-drank-every-cocktail"
          ],
-         "published": "Mon, 21 Jul 2025 07:52:20 +0000",
-         "publishedParsed": "2025-07-21T07:52:20Z"
+         "published": "Wed, 23 Jul 2025 23:56:25 +0000",
+         "publishedParsed": "2025-07-23T23:56:25Z"
      },
      {
          "title": "Jitsi privacy flaw enables one-click stealth audio and video capture",
@@ -150,14 +150,24 @@
          "publishedParsed": "2025-07-23T20:31:16Z"
      },
      {
-         "title": "Seven Sisters eclipse will temporarily block stars from view",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44622994\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.discovermagazine.com/the-sciences/the-seven-sisters-eclipse-will-temporarily-block-stars-from-view",
+         "title": "Parsing Protobuf like never before",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44591605\"\u003eComments\u003c/a\u003e",
+         "link": "https://mcyoung.xyz/2025/07/16/hyperpb/",
          "links": [
-             "https://www.discovermagazine.com/the-sciences/the-seven-sisters-eclipse-will-temporarily-block-stars-from-view"
+             "https://mcyoung.xyz/2025/07/16/hyperpb/"
          ],
-         "published": "Sun, 20 Jul 2025 08:16:26 +0000",
-         "publishedParsed": "2025-07-20T08:16:26Z"
+         "published": "Thu, 17 Jul 2025 10:09:48 +0000",
+         "publishedParsed": "2025-07-17T10:09:48Z"
+     },
+     {
+         "title": "Vector Tiles are deployed on OpenStreetMap.org",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44653136\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/",
+         "links": [
+             "https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/"
+         ],
+         "published": "Tue, 22 Jul 2025 21:20:16 +0000",
+         "publishedParsed": "2025-07-22T21:20:16Z"
      },
      {
          "title": "Lumo: Privacy-first AI assistant",
@@ -180,34 +190,24 @@
          "publishedParsed": "2025-07-23T13:27:38Z"
      },
      {
-         "title": "A small web July",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44665984\"\u003eComments\u003c/a\u003e",
-         "link": "https://smallcypress.bearblog.dev/a-small-web-july/",
+         "title": "Seven Sisters eclipse will temporarily block stars from view",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44622994\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.discovermagazine.com/the-sciences/the-seven-sisters-eclipse-will-temporarily-block-stars-from-view",
          "links": [
-             "https://smallcypress.bearblog.dev/a-small-web-july/"
+             "https://www.discovermagazine.com/the-sciences/the-seven-sisters-eclipse-will-temporarily-block-stars-from-view"
          ],
-         "published": "Thu, 24 Jul 2025 01:41:55 +0000",
-         "publishedParsed": "2025-07-24T01:41:55Z"
+         "published": "Sun, 20 Jul 2025 08:16:26 +0000",
+         "publishedParsed": "2025-07-20T08:16:26Z"
      },
      {
-         "title": "Vector Tiles are deployed on OpenStreetMap.org",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44653136\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/",
+         "title": "Leprechauns, root causes, and other fairy tales",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44632739\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.tomdalling.com/blog/software-processes/leprechauns-root-causes-and-other-fairy-tails/",
          "links": [
-             "https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/"
+             "https://www.tomdalling.com/blog/software-processes/leprechauns-root-causes-and-other-fairy-tails/"
          ],
-         "published": "Tue, 22 Jul 2025 21:20:16 +0000",
-         "publishedParsed": "2025-07-22T21:20:16Z"
-     },
-     {
-         "title": "Checklists are hard, but still a good thing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44626359\"\u003eComments\u003c/a\u003e",
-         "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsAreHardButGood",
-         "links": [
-             "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsAreHardButGood"
-         ],
-         "published": "Sun, 20 Jul 2025 15:51:15 +0000",
-         "publishedParsed": "2025-07-20T15:51:15Z"
+         "published": "Mon, 21 Jul 2025 07:52:20 +0000",
+         "publishedParsed": "2025-07-21T07:52:20Z"
      },
      {
          "title": "Why Elixir? Common misconceptions",
@@ -220,14 +220,24 @@
          "publishedParsed": "2025-07-23T13:52:47Z"
      },
      {
-         "title": "Cops say criminals use a Google Pixel with GrapheneOS – I say that's freedom",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44658908\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/",
+         "title": "A small web July",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44665984\"\u003eComments\u003c/a\u003e",
+         "link": "https://smallcypress.bearblog.dev/a-small-web-july/",
          "links": [
-             "https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/"
+             "https://smallcypress.bearblog.dev/a-small-web-july/"
          ],
-         "published": "Wed, 23 Jul 2025 13:17:38 +0000",
-         "publishedParsed": "2025-07-23T13:17:38Z"
+         "published": "Thu, 24 Jul 2025 01:41:55 +0000",
+         "publishedParsed": "2025-07-24T01:41:55Z"
+     },
+     {
+         "title": "Checklists are hard, but still a good thing",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44626359\"\u003eComments\u003c/a\u003e",
+         "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsAreHardButGood",
+         "links": [
+             "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsAreHardButGood"
+         ],
+         "published": "Sun, 20 Jul 2025 15:51:15 +0000",
+         "publishedParsed": "2025-07-20T15:51:15Z"
      },
      {
          "title": "Major rule about cooking meat turns out to be wrong",
@@ -240,14 +250,14 @@
          "publishedParsed": "2025-07-23T19:02:46Z"
      },
      {
-         "title": "I'm Unsatisfied with Easing Functions",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44584830\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.davepagurek.com/blog/easing-functions/",
+         "title": "Tram Trains",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44659712\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.worksinprogress.news/p/tram-trains",
          "links": [
-             "https://www.davepagurek.com/blog/easing-functions/"
+             "https://www.worksinprogress.news/p/tram-trains"
          ],
-         "published": "Wed, 16 Jul 2025 17:30:02 +0000",
-         "publishedParsed": "2025-07-16T17:30:02Z"
+         "published": "Wed, 23 Jul 2025 14:37:12 +0000",
+         "publishedParsed": "2025-07-23T14:37:12Z"
      },
      {
          "title": "FastVLM: Efficient Vision Encoding for Vision Language Models",
@@ -260,33 +270,13 @@
          "publishedParsed": "2025-07-23T17:09:47Z"
      },
      {
-         "title": "Tram Trains",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44659712\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.worksinprogress.news/p/tram-trains",
+         "title": "Show HN: TheProtector – Linux Bash script for the paranoid admin on a budget",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44662497\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/IHATEGIVINGAUSERNAME/theProtector",
          "links": [
-             "https://www.worksinprogress.news/p/tram-trains"
+             "https://github.com/IHATEGIVINGAUSERNAME/theProtector"
          ],
-         "published": "Wed, 23 Jul 2025 14:37:12 +0000",
-         "publishedParsed": "2025-07-23T14:37:12Z"
-     },
-     {
-         "title": "A diverse cast of rocky worlds around a small star revealed by astronomers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44661862\"\u003eComments\u003c/a\u003e",
-         "link": "https://nouvelles.umontreal.ca/en/article/2025/07/22/a-udem-team-confirms-a-fifth-potentially-habitable-planet-around-l-98-59-a-red-dwarf-35-l/",
-         "links": [
-             "https://nouvelles.umontreal.ca/en/article/2025/07/22/a-udem-team-confirms-a-fifth-potentially-habitable-planet-around-l-98-59-a-red-dwarf-35-l/"
-         ],
-         "published": "Wed, 23 Jul 2025 17:39:57 +0000",
-         "publishedParsed": "2025-07-23T17:39:57Z"
-     },
-     {
-         "title": "Vintage Macintosh Programming Book Library (2017)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44665704\"\u003eComments\u003c/a\u003e",
-         "link": "https://vintageapple.org/macprogramming/index_year.html",
-         "links": [
-             "https://vintageapple.org/macprogramming/index_year.html"
-         ],
-         "published": "Thu, 24 Jul 2025 00:53:45 +0000",
-         "publishedParsed": "2025-07-24T00:53:45Z"
+         "published": "Wed, 23 Jul 2025 18:37:48 +0000",
+         "publishedParsed": "2025-07-23T18:37:48Z"
      }
  ]
