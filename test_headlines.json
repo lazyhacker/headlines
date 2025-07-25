@@ -1,5 +1,25 @@
 [
      {
+         "title": "Scientists may have found a way to eliminate chromosome linked to Down syndrome",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44676817\"\u003eComments\u003c/a\u003e",
+         "link": "https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019",
+         "links": [
+             "https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019"
+         ],
+         "published": "Thu, 24 Jul 2025 21:59:19 +0000",
+         "publishedParsed": "2025-07-24T21:59:19Z"
+     },
+     {
+         "title": "Graphene OS: a security-enhanced Android build",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44676691\"\u003eComments\u003c/a\u003e",
+         "link": "https://lwn.net/SubscriberLink/1030004/898017c7953c0946/",
+         "links": [
+             "https://lwn.net/SubscriberLink/1030004/898017c7953c0946/"
+         ],
+         "published": "Thu, 24 Jul 2025 21:48:53 +0000",
+         "publishedParsed": "2025-07-24T21:48:53Z"
+     },
+     {
          "title": "Inter-Planetary Network Special Interest Group",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44675553\"\u003eComments\u003c/a\u003e",
          "link": "https://www.ipnsig.org",
@@ -20,24 +40,14 @@
          "publishedParsed": "2025-07-21T12:59:56Z"
      },
      {
-         "title": "Scientists may have found a way to eliminate chromosome linked to Down syndrome",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44676817\"\u003eComments\u003c/a\u003e",
-         "link": "https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019",
+         "title": "New Aarch64 Back End",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44676315\"\u003eComments\u003c/a\u003e",
+         "link": "https://ziglang.org/devlog/2025/#2025-07-23",
          "links": [
-             "https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019"
+             "https://ziglang.org/devlog/2025/#2025-07-23"
          ],
-         "published": "Thu, 24 Jul 2025 21:59:19 +0000",
-         "publishedParsed": "2025-07-24T21:59:19Z"
-     },
-     {
-         "title": "Visa and Mastercard: The global payment duopoly (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44676559\"\u003eComments\u003c/a\u003e",
-         "link": "https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly",
-         "links": [
-             "https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly"
-         ],
-         "published": "Thu, 24 Jul 2025 21:39:08 +0000",
-         "publishedParsed": "2025-07-24T21:39:08Z"
+         "published": "Thu, 24 Jul 2025 21:20:01 +0000",
+         "publishedParsed": "2025-07-24T21:20:01Z"
      },
      {
          "title": "I wasted weeks hand optimizing assembly because I benchmarked on random data",
@@ -50,6 +60,16 @@
          "publishedParsed": "2025-07-21T07:40:01Z"
      },
      {
+         "title": "There is no memory safety without thread safety",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44672003\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
+         "links": [
+             "https://www.ralfj.de/blog/2025/07/24/memory-safety.html"
+         ],
+         "published": "Thu, 24 Jul 2025 15:35:39 +0000",
+         "publishedParsed": "2025-07-24T15:35:39Z"
+     },
+     {
          "title": "AMD CEO sees chips from TSMC's US plant costing 5%-20% more",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44663074\"\u003eComments\u003c/a\u003e",
          "link": "https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more",
@@ -58,36 +78,6 @@
          ],
          "published": "Wed, 23 Jul 2025 19:34:56 +0000",
          "publishedParsed": "2025-07-23T19:34:56Z"
-     },
-     {
-         "title": "Why concatenative programming matters (2012)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44634576\"\u003eComments\u003c/a\u003e",
-         "link": "http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html",
-         "links": [
-             "http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html"
-         ],
-         "published": "Mon, 21 Jul 2025 12:57:26 +0000",
-         "publishedParsed": "2025-07-21T12:57:26Z"
-     },
-     {
-         "title": "Revisiting Moneyball",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44676348\"\u003eComments\u003c/a\u003e",
-         "link": "https://djpardis.medium.com/revisiting-moneyball-074fc2435b07",
-         "links": [
-             "https://djpardis.medium.com/revisiting-moneyball-074fc2435b07"
-         ],
-         "published": "Thu, 24 Jul 2025 21:22:15 +0000",
-         "publishedParsed": "2025-07-24T21:22:15Z"
-     },
-     {
-         "title": "PSA: SQLite WAL checksums fail silently and may lose data",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44671373\"\u003eComments\u003c/a\u003e",
-         "link": "https://avi.im/blag/2025/sqlite-wal-checksum/",
-         "links": [
-             "https://avi.im/blag/2025/sqlite-wal-checksum/"
-         ],
-         "published": "Thu, 24 Jul 2025 14:48:04 +0000",
-         "publishedParsed": "2025-07-24T14:48:04Z"
      },
      {
          "title": "A GPU Calculator That Helps Calculate What GPU to Use",
@@ -100,6 +90,46 @@
          "publishedParsed": "2025-07-24T22:14:20Z"
      },
      {
+         "title": "Visa and Mastercard: The global payment duopoly (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44676559\"\u003eComments\u003c/a\u003e",
+         "link": "https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly",
+         "links": [
+             "https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly"
+         ],
+         "published": "Thu, 24 Jul 2025 21:39:08 +0000",
+         "publishedParsed": "2025-07-24T21:39:08Z"
+     },
+     {
+         "title": "Revisiting Moneyball",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44676348\"\u003eComments\u003c/a\u003e",
+         "link": "https://djpardis.medium.com/revisiting-moneyball-074fc2435b07",
+         "links": [
+             "https://djpardis.medium.com/revisiting-moneyball-074fc2435b07"
+         ],
+         "published": "Thu, 24 Jul 2025 21:22:15 +0000",
+         "publishedParsed": "2025-07-24T21:22:15Z"
+     },
+     {
+         "title": "Why concatenative programming matters (2012)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44634576\"\u003eComments\u003c/a\u003e",
+         "link": "http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html",
+         "links": [
+             "http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html"
+         ],
+         "published": "Mon, 21 Jul 2025 12:57:26 +0000",
+         "publishedParsed": "2025-07-21T12:57:26Z"
+     },
+     {
+         "title": "PSA: SQLite WAL checksums fail silently and may lose data",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44671373\"\u003eComments\u003c/a\u003e",
+         "link": "https://avi.im/blag/2025/sqlite-wal-checksum/",
+         "links": [
+             "https://avi.im/blag/2025/sqlite-wal-checksum/"
+         ],
+         "published": "Thu, 24 Jul 2025 14:48:04 +0000",
+         "publishedParsed": "2025-07-24T14:48:04Z"
+     },
+     {
          "title": "Use Your Type System",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44671484\"\u003eComments\u003c/a\u003e",
          "link": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
@@ -108,6 +138,16 @@
          ],
          "published": "Thu, 24 Jul 2025 14:57:05 +0000",
          "publishedParsed": "2025-07-24T14:57:05Z"
+     },
+     {
+         "title": "RE#: High performance derivative-based regular expression matching (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44633024\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2407.20479",
+         "links": [
+             "https://arxiv.org/abs/2407.20479"
+         ],
+         "published": "Mon, 21 Jul 2025 08:42:05 +0000",
+         "publishedParsed": "2025-07-21T08:42:05Z"
      },
      {
          "title": "Vet is a safety net for the curl | bash pattern",
@@ -120,14 +160,14 @@
          "publishedParsed": "2025-07-24T12:47:29Z"
      },
      {
-         "title": "New Aarch64 Back End",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44676315\"\u003eComments\u003c/a\u003e",
-         "link": "https://ziglang.org/devlog/2025/#2025-07-23",
+         "title": "Intel CEO Letter to Employees",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44675965\"\u003eComments\u003c/a\u003e",
+         "link": "https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees",
          "links": [
-             "https://ziglang.org/devlog/2025/#2025-07-23"
+             "https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees"
          ],
-         "published": "Thu, 24 Jul 2025 21:20:01 +0000",
-         "publishedParsed": "2025-07-24T21:20:01Z"
+         "published": "Thu, 24 Jul 2025 20:52:41 +0000",
+         "publishedParsed": "2025-07-24T20:52:41Z"
      },
      {
          "title": "Open Source Maintenance Fee",
@@ -150,26 +190,6 @@
          "publishedParsed": "2025-07-21T15:20:49Z"
      },
      {
-         "title": "Show HN: Easy Python Time Parsing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44633522\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/felixnext/python-time-helper",
-         "links": [
-             "https://github.com/felixnext/python-time-helper"
-         ],
-         "published": "Mon, 21 Jul 2025 10:17:21 +0000",
-         "publishedParsed": "2025-07-21T10:17:21Z"
-     },
-     {
-         "title": "Building MCP servers for ChatGPT and API integrations",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44676066\"\u003eComments\u003c/a\u003e",
-         "link": "https://platform.openai.com/docs/mcp",
-         "links": [
-             "https://platform.openai.com/docs/mcp"
-         ],
-         "published": "Thu, 24 Jul 2025 20:59:25 +0000",
-         "publishedParsed": "2025-07-24T20:59:25Z"
-     },
-     {
          "title": "Superfunctions: A universal solution against sync/async fragmentation in Python",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44634030\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/pomponchik/transfunctions",
@@ -178,16 +198,6 @@
          ],
          "published": "Mon, 21 Jul 2025 11:39:48 +0000",
          "publishedParsed": "2025-07-21T11:39:48Z"
-     },
-     {
-         "title": "The POSIX specification of vi",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44632783\"\u003eComments\u003c/a\u003e",
-         "link": "https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html",
-         "links": [
-             "https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html"
-         ],
-         "published": "Mon, 21 Jul 2025 08:01:27 +0000",
-         "publishedParsed": "2025-07-21T08:01:27Z"
      },
      {
          "title": "Bus Bunching",
@@ -200,14 +210,14 @@
          "publishedParsed": "2025-07-20T14:24:02Z"
      },
      {
-         "title": "The Secret Life of Fsync (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44676714\"\u003eComments\u003c/a\u003e",
-         "link": "https://puzpuzpuz.dev/the-secret-life-of-fsync",
+         "title": "UK: Phone networks down: EE, BT, Three, Vodafone, O2 not working in mass outage",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44670326\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.the-independent.com/tech/ee-bt-three-vodafone-o2-down-phone-networks-outage-latest-b2795260.html",
          "links": [
-             "https://puzpuzpuz.dev/the-secret-life-of-fsync"
+             "https://www.the-independent.com/tech/ee-bt-three-vodafone-o2-down-phone-networks-outage-latest-b2795260.html"
          ],
-         "published": "Thu, 24 Jul 2025 21:50:43 +0000",
-         "publishedParsed": "2025-07-24T21:50:43Z"
+         "published": "Thu, 24 Jul 2025 13:17:24 +0000",
+         "publishedParsed": "2025-07-24T13:17:24Z"
      },
      {
          "title": "Mwm – The smallest usable X11 window manager",
@@ -220,14 +230,34 @@
          "publishedParsed": "2025-07-21T12:04:49Z"
      },
      {
-         "title": "Major quantum computing advance made obsolete by teenager (2018)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44672859\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/",
+         "title": "The POSIX specification of vi",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44632783\"\u003eComments\u003c/a\u003e",
+         "link": "https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html",
          "links": [
-             "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/"
+             "https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html"
          ],
-         "published": "Thu, 24 Jul 2025 16:42:25 +0000",
-         "publishedParsed": "2025-07-24T16:42:25Z"
+         "published": "Mon, 21 Jul 2025 08:01:27 +0000",
+         "publishedParsed": "2025-07-21T08:01:27Z"
+     },
+     {
+         "title": "Writing is thinking",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44632314\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nature.com/articles/s44222-025-00323-4",
+         "links": [
+             "https://www.nature.com/articles/s44222-025-00323-4"
+         ],
+         "published": "Mon, 21 Jul 2025 06:30:21 +0000",
+         "publishedParsed": "2025-07-21T06:30:21Z"
+     },
+     {
+         "title": "Show HN: Easy Python Time Parsing",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44633522\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/felixnext/python-time-helper",
+         "links": [
+             "https://github.com/felixnext/python-time-helper"
+         ],
+         "published": "Mon, 21 Jul 2025 10:17:21 +0000",
+         "publishedParsed": "2025-07-21T10:17:21Z"
      },
      {
          "title": "Thunder Compute (YC S24) Is Hiring a C++ Systems Engineer",
@@ -240,23 +270,13 @@
          "publishedParsed": "2025-07-24T12:00:13Z"
      },
      {
-         "title": "When swiping supplants scissors: The hidden cost of touchscreens",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44672145\"\u003eComments\u003c/a\u003e",
-         "link": "https://caseorganic.medium.com/when-swiping-supplants-scissors-the-hidden-cost-of-touchscreens-and-how-designers-can-help-dba0fa65f5b7",
+         "title": "Building MCP servers for ChatGPT and API integrations",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44676066\"\u003eComments\u003c/a\u003e",
+         "link": "https://platform.openai.com/docs/mcp",
          "links": [
-             "https://caseorganic.medium.com/when-swiping-supplants-scissors-the-hidden-cost-of-touchscreens-and-how-designers-can-help-dba0fa65f5b7"
+             "https://platform.openai.com/docs/mcp"
          ],
-         "published": "Thu, 24 Jul 2025 15:46:46 +0000",
-         "publishedParsed": "2025-07-24T15:46:46Z"
-     },
-     {
-         "title": "Psilocybin treatment extends cellular lifespan, improves survival of aged mice",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44675708\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.emory.edu/stories/2025/07/hs_psilocybin_aging_study_10-07-2025/story.html",
-         "links": [
-             "https://news.emory.edu/stories/2025/07/hs_psilocybin_aging_study_10-07-2025/story.html"
-         ],
-         "published": "Thu, 24 Jul 2025 20:29:58 +0000",
-         "publishedParsed": "2025-07-24T20:29:58Z"
+         "published": "Thu, 24 Jul 2025 20:59:25 +0000",
+         "publishedParsed": "2025-07-24T20:59:25Z"
      }
  ]
