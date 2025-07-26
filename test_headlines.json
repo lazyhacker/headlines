@@ -1,5 +1,15 @@
 [
      {
+         "title": "Rust on Every GPU",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44692876\"\u003eComments\u003c/a\u003e",
+         "link": "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/",
+         "links": [
+             "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/"
+         ],
+         "published": "Sat, 26 Jul 2025 10:08:09 +0000",
+         "publishedParsed": "2025-07-26T10:08:09Z"
+     },
+     {
          "title": "Do not download the app, use the website",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44689059\"\u003eComments\u003c/a\u003e",
          "link": "https://idiallo.com/blog/dont-download-apps",
@@ -20,14 +30,14 @@
          "publishedParsed": "2025-07-23T10:22:05Z"
      },
      {
-         "title": "Turn any diagram image into an editable Draw.io file. No more redrawing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44691896\"\u003eComments\u003c/a\u003e",
-         "link": "https://imagetodrawio.com/",
+         "title": "It's time for modern CSS to kill the SPA",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44688489\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
          "links": [
-             "https://imagetodrawio.com/"
+             "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/"
          ],
-         "published": "Sat, 26 Jul 2025 06:36:27 +0000",
-         "publishedParsed": "2025-07-26T06:36:27Z"
+         "published": "Fri, 25 Jul 2025 21:08:00 +0000",
+         "publishedParsed": "2025-07-25T21:08:00Z"
      },
      {
          "title": "CCTV Footage Captures the First-Ever Video of an Earthquake Fault in Motion",
@@ -40,34 +50,14 @@
          "publishedParsed": "2025-07-26T02:54:43Z"
      },
      {
-         "title": "It's time for modern CSS to kill the SPA",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44688489\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
+         "title": "The Rise and Fall of the Hanseatic League",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44656961\"\u003eComments\u003c/a\u003e",
+         "link": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-hanseatic-league/",
          "links": [
-             "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/"
+             "https://worksinprogress.co/issue/the-rise-and-fall-of-the-hanseatic-league/"
          ],
-         "published": "Fri, 25 Jul 2025 21:08:00 +0000",
-         "publishedParsed": "2025-07-25T21:08:00Z"
-     },
-     {
-         "title": "Show HN: Auto Favicon MCP Server",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44692015\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/dh1011/auto-favicon-mcp",
-         "links": [
-             "https://github.com/dh1011/auto-favicon-mcp"
-         ],
-         "published": "Sat, 26 Jul 2025 07:02:47 +0000",
-         "publishedParsed": "2025-07-26T07:02:47Z"
-     },
-     {
-         "title": "Users claim Discord's age verification can be tricked with video game characters",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44691312\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.thepinknews.com/2025/07/25/discord-video-game-characters-age-verification-checks-uk-online-safety-act/",
-         "links": [
-             "https://www.thepinknews.com/2025/07/25/discord-video-game-characters-age-verification-checks-uk-online-safety-act/"
-         ],
-         "published": "Sat, 26 Jul 2025 04:23:36 +0000",
-         "publishedParsed": "2025-07-26T04:23:36Z"
+         "published": "Wed, 23 Jul 2025 08:36:04 +0000",
+         "publishedParsed": "2025-07-23T08:36:04Z"
      },
      {
          "title": "Simon Tatham's Portable Puzzle Collection",
@@ -80,6 +70,16 @@
          "publishedParsed": "2025-07-26T06:46:44Z"
      },
      {
+         "title": "Turn any diagram image into an editable Draw.io file. No more redrawing",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44691896\"\u003eComments\u003c/a\u003e",
+         "link": "https://imagetodrawio.com/",
+         "links": [
+             "https://imagetodrawio.com/"
+         ],
+         "published": "Sat, 26 Jul 2025 06:36:27 +0000",
+         "publishedParsed": "2025-07-26T06:36:27Z"
+     },
+     {
          "title": "It's a DE9, not a DB9 (but we know what you mean)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44682964\"\u003eComments\u003c/a\u003e",
          "link": "https://news.sparkfun.com/14298",
@@ -88,6 +88,16 @@
          ],
          "published": "Fri, 25 Jul 2025 13:35:09 +0000",
          "publishedParsed": "2025-07-25T13:35:09Z"
+     },
+     {
+         "title": "Keep Pydantic out of your Domain Layer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44656419\"\u003eComments\u003c/a\u003e",
+         "link": "https://coderik.nl/posts/keep-pydantic-out-of-your-domain-layer/",
+         "links": [
+             "https://coderik.nl/posts/keep-pydantic-out-of-your-domain-layer/"
+         ],
+         "published": "Wed, 23 Jul 2025 06:54:11 +0000",
+         "publishedParsed": "2025-07-23T06:54:11Z"
      },
      {
          "title": "Never write your own date parsing library",
@@ -100,34 +110,14 @@
          "publishedParsed": "2025-07-25T17:36:25Z"
      },
      {
-         "title": "Windsurf employee #2: I was given a payout of only 1% what my shares where worth",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44673296\"\u003eComments\u003c/a\u003e",
-         "link": "https://twitter.com/premqnair/status/1948420769945682413",
+         "title": "Why I Do Programming",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44691722\"\u003eComments\u003c/a\u003e",
+         "link": "https://esafev.com/notes/why-i-do-programming/",
          "links": [
-             "https://twitter.com/premqnair/status/1948420769945682413"
+             "https://esafev.com/notes/why-i-do-programming/"
          ],
-         "published": "Thu, 24 Jul 2025 17:15:41 +0000",
-         "publishedParsed": "2025-07-24T17:15:41Z"
-     },
-     {
-         "title": "Vanilla JavaScript support for Tailwind Plus",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44686317\"\u003eComments\u003c/a\u003e",
-         "link": "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus",
-         "links": [
-             "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus"
-         ],
-         "published": "Fri, 25 Jul 2025 18:11:21 +0000",
-         "publishedParsed": "2025-07-25T18:11:21Z"
-     },
-     {
-         "title": "The Rise and Fall of the Hanseatic League",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44656961\"\u003eComments\u003c/a\u003e",
-         "link": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-hanseatic-league/",
-         "links": [
-             "https://worksinprogress.co/issue/the-rise-and-fall-of-the-hanseatic-league/"
-         ],
-         "published": "Wed, 23 Jul 2025 08:36:04 +0000",
-         "publishedParsed": "2025-07-23T08:36:04Z"
+         "published": "Sat, 26 Jul 2025 05:57:20 +0000",
+         "publishedParsed": "2025-07-26T05:57:20Z"
      },
      {
          "title": "Why MIT switched from Scheme to Python (2009)",
@@ -150,14 +140,24 @@
          "publishedParsed": "2025-07-25T16:30:44Z"
      },
      {
-         "title": "Why I Do Programming",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44691722\"\u003eComments\u003c/a\u003e",
-         "link": "https://esafev.com/notes/why-i-do-programming/",
+         "title": "Yes, the Book of PF, Fourth Edition Is Coming Soon",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44657803\"\u003eComments\u003c/a\u003e",
+         "link": "https://bsdly.blogspot.com/2025/07/yes-book-of-pf-4th-edition-is-coming.html",
          "links": [
-             "https://esafev.com/notes/why-i-do-programming/"
+             "https://bsdly.blogspot.com/2025/07/yes-book-of-pf-4th-edition-is-coming.html"
          ],
-         "published": "Sat, 26 Jul 2025 05:57:20 +0000",
-         "publishedParsed": "2025-07-26T05:57:20Z"
+         "published": "Wed, 23 Jul 2025 11:04:47 +0000",
+         "publishedParsed": "2025-07-23T11:04:47Z"
+     },
+     {
+         "title": "Vanilla JavaScript support for Tailwind Plus",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44686317\"\u003eComments\u003c/a\u003e",
+         "link": "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus",
+         "links": [
+             "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus"
+         ],
+         "published": "Fri, 25 Jul 2025 18:11:21 +0000",
+         "publishedParsed": "2025-07-25T18:11:21Z"
      },
      {
          "title": "Animated Cursors",
@@ -170,16 +170,6 @@
          "publishedParsed": "2025-07-25T17:59:25Z"
      },
      {
-         "title": "Experimental surgery performed by AI-driven surgical robot",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44688096\"\u003eComments\u003c/a\u003e",
-         "link": "https://arstechnica.com/science/2025/07/experimental-surgery-performed-by-ai-driven-surgical-robot/",
-         "links": [
-             "https://arstechnica.com/science/2025/07/experimental-surgery-performed-by-ai-driven-surgical-robot/"
-         ],
-         "published": "Fri, 25 Jul 2025 20:34:22 +0000",
-         "publishedParsed": "2025-07-25T20:34:22Z"
-     },
-     {
          "title": "The future is not self-hosted",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44682175\"\u003eComments\u003c/a\u003e",
          "link": "https://www.drewlyton.com/story/the-future-is-not-self-hosted/",
@@ -188,6 +178,26 @@
          ],
          "published": "Fri, 25 Jul 2025 12:00:05 +0000",
          "publishedParsed": "2025-07-25T12:00:05Z"
+     },
+     {
+         "title": "Users claim Discord's age verification can be tricked with video game characters",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44691312\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.thepinknews.com/2025/07/25/discord-video-game-characters-age-verification-checks-uk-online-safety-act/",
+         "links": [
+             "https://www.thepinknews.com/2025/07/25/discord-video-game-characters-age-verification-checks-uk-online-safety-act/"
+         ],
+         "published": "Sat, 26 Jul 2025 04:23:36 +0000",
+         "publishedParsed": "2025-07-26T04:23:36Z"
+     },
+     {
+         "title": "Experimental surgery performed by AI-driven surgical robot",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44688096\"\u003eComments\u003c/a\u003e",
+         "link": "https://arstechnica.com/science/2025/07/experimental-surgery-performed-by-ai-driven-surgical-robot/",
+         "links": [
+             "https://arstechnica.com/science/2025/07/experimental-surgery-performed-by-ai-driven-surgical-robot/"
+         ],
+         "published": "Fri, 25 Jul 2025 20:34:22 +0000",
+         "publishedParsed": "2025-07-25T20:34:22Z"
      },
      {
          "title": "Steam, Itch.io are pulling ‘porn’ games. Critics say it's a slippery slope",
@@ -200,16 +210,6 @@
          "publishedParsed": "2025-07-25T16:27:51Z"
      },
      {
-         "title": "What is X-Forwarded-For and when can you trust it? (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44657527\"\u003eComments\u003c/a\u003e",
-         "link": "https://httptoolkit.com/blog/what-is-x-forwarded-for/",
-         "links": [
-             "https://httptoolkit.com/blog/what-is-x-forwarded-for/"
-         ],
-         "published": "Wed, 23 Jul 2025 10:18:06 +0000",
-         "publishedParsed": "2025-07-23T10:18:06Z"
-     },
-     {
          "title": "Developing our position on AI",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44663072\"\u003eComments\u003c/a\u003e",
          "link": "https://www.recurse.com/blog/191-developing-our-position-on-ai",
@@ -218,6 +218,16 @@
          ],
          "published": "Wed, 23 Jul 2025 19:34:26 +0000",
          "publishedParsed": "2025-07-23T19:34:26Z"
+     },
+     {
+         "title": "Generic Containers in C: Vec",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44656472\"\u003eComments\u003c/a\u003e",
+         "link": "https://uecker.codeberg.page/2025-07-20.html",
+         "links": [
+             "https://uecker.codeberg.page/2025-07-20.html"
+         ],
+         "published": "Wed, 23 Jul 2025 07:04:26 +0000",
+         "publishedParsed": "2025-07-23T07:04:26Z"
      },
      {
          "title": "CO2 Battery",
@@ -230,16 +240,6 @@
          "publishedParsed": "2025-07-25T16:32:32Z"
      },
      {
-         "title": "Programming vehicles in games",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44683682\"\u003eComments\u003c/a\u003e",
-         "link": "https://wassimulator.com/blog/programming/programming_vehicles_in_games.html",
-         "links": [
-             "https://wassimulator.com/blog/programming/programming_vehicles_in_games.html"
-         ],
-         "published": "Fri, 25 Jul 2025 14:41:03 +0000",
-         "publishedParsed": "2025-07-25T14:41:03Z"
-     },
-     {
          "title": "Women dating safety app 'Tea' breached, users' IDs posted to 4chan",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44684373\"\u003eComments\u003c/a\u003e",
          "link": "https://www.404media.co/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan/",
@@ -250,43 +250,33 @@
          "publishedParsed": "2025-07-25T15:36:52Z"
      },
      {
-         "title": "Researchers value null results, but struggle to publish them",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44657188\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nature.com/articles/d41586-025-02312-4",
+         "title": "Show HN: Auto Favicon MCP Server",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44692015\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/dh1011/auto-favicon-mcp",
          "links": [
-             "https://www.nature.com/articles/d41586-025-02312-4"
+             "https://github.com/dh1011/auto-favicon-mcp"
          ],
-         "published": "Wed, 23 Jul 2025 09:16:26 +0000",
-         "publishedParsed": "2025-07-23T09:16:26Z"
+         "published": "Sat, 26 Jul 2025 07:02:47 +0000",
+         "publishedParsed": "2025-07-26T07:02:47Z"
      },
      {
-         "title": "Show HN: Apple Health MCP Server",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44661673\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/neiltron/apple-health-mcp",
+         "title": "Programming vehicles in games",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44683682\"\u003eComments\u003c/a\u003e",
+         "link": "https://wassimulator.com/blog/programming/programming_vehicles_in_games.html",
          "links": [
-             "https://github.com/neiltron/apple-health-mcp"
+             "https://wassimulator.com/blog/programming/programming_vehicles_in_games.html"
          ],
-         "published": "Wed, 23 Jul 2025 17:23:23 +0000",
-         "publishedParsed": "2025-07-23T17:23:23Z"
+         "published": "Fri, 25 Jul 2025 14:41:03 +0000",
+         "publishedParsed": "2025-07-25T14:41:03Z"
      },
      {
-         "title": "Steve Jobs' cabinet",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44656684\"\u003eComments\u003c/a\u003e",
-         "link": "https://perfectdays23.substack.com/p/steve-jobs-cabinet",
+         "title": "What is X-Forwarded-For and when can you trust it? (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44657527\"\u003eComments\u003c/a\u003e",
+         "link": "https://httptoolkit.com/blog/what-is-x-forwarded-for/",
          "links": [
-             "https://perfectdays23.substack.com/p/steve-jobs-cabinet"
+             "https://httptoolkit.com/blog/what-is-x-forwarded-for/"
          ],
-         "published": "Wed, 23 Jul 2025 07:40:26 +0000",
-         "publishedParsed": "2025-07-23T07:40:26Z"
-     },
-     {
-         "title": "Generic Containers in C: Vec",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44656472\"\u003eComments\u003c/a\u003e",
-         "link": "https://uecker.codeberg.page/2025-07-20.html",
-         "links": [
-             "https://uecker.codeberg.page/2025-07-20.html"
-         ],
-         "published": "Wed, 23 Jul 2025 07:04:26 +0000",
-         "publishedParsed": "2025-07-23T07:04:26Z"
+         "published": "Wed, 23 Jul 2025 10:18:06 +0000",
+         "publishedParsed": "2025-07-23T10:18:06Z"
      }
  ]
