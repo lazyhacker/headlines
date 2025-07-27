@@ -1,5 +1,15 @@
 [
      {
+         "title": "When We Get Komooted",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44699421\"\u003eComments\u003c/a\u003e",
+         "link": "https://bikepacking.com/plog/when-we-get-komooted/",
+         "links": [
+             "https://bikepacking.com/plog/when-we-get-komooted/"
+         ],
+         "published": "Sun, 27 Jul 2025 07:07:09 +0000",
+         "publishedParsed": "2025-07-27T07:07:09Z"
+     },
+     {
          "title": "Linux on Snapdragon X Elite: Linaro and Tuxedo Pave the Way for ARM64 Laptops",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44699393\"\u003eComments\u003c/a\u003e",
          "link": "https://www.linaro.org/blog/linux-on-snapdragon-x-elite/",
@@ -18,16 +28,6 @@
          ],
          "published": "Sun, 27 Jul 2025 04:35:33 +0000",
          "publishedParsed": "2025-07-27T04:35:33Z"
-     },
-     {
-         "title": "When We Get Komooted",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44699421\"\u003eComments\u003c/a\u003e",
-         "link": "https://bikepacking.com/plog/when-we-get-komooted/",
-         "links": [
-             "https://bikepacking.com/plog/when-we-get-komooted/"
-         ],
-         "published": "Sun, 27 Jul 2025 07:07:09 +0000",
-         "publishedParsed": "2025-07-27T07:07:09Z"
      },
      {
          "title": "Sapients paper on the concept of Hierarchical Reasoning Model",
@@ -50,7 +50,7 @@
          "publishedParsed": "2025-07-27T03:38:27Z"
      },
      {
-         "title": "Smallest particulate matter sensor revolutionizes air quality measurement",
+         "title": "Smallest particulate matter air quality sensor for ultra-compact IoT devices",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44698733\"\u003eComments\u003c/a\u003e",
          "link": "https://www.bosch-sensortec.com/news/worlds-smallest-particulate-matter-sensor-bmv080.html",
          "links": [
@@ -70,34 +70,14 @@
          "publishedParsed": "2025-07-23T15:20:28Z"
      },
      {
-         "title": "The future is not self-hosted, but self-sovereign",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44698899\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.robertmao.com/blog/en/the-future-is-not-self-hosted-but-self-sovereign",
+         "title": "Janet: Lightweight, Expressive, Modern Lisp",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44698185\"\u003eComments\u003c/a\u003e",
+         "link": "https://janet-lang.org",
          "links": [
-             "https://www.robertmao.com/blog/en/the-future-is-not-self-hosted-but-self-sovereign"
+             "https://janet-lang.org"
          ],
-         "published": "Sun, 27 Jul 2025 04:26:08 +0000",
-         "publishedParsed": "2025-07-27T04:26:08Z"
-     },
-     {
-         "title": "Implementing dynamic scope for Fennel and Lua",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44663887\"\u003eComments\u003c/a\u003e",
-         "link": "https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/",
-         "links": [
-             "https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/"
-         ],
-         "published": "Wed, 23 Jul 2025 20:49:58 +0000",
-         "publishedParsed": "2025-07-23T20:49:58Z"
-     },
-     {
-         "title": "Beyond Food and People",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44699437\"\u003eComments\u003c/a\u003e",
-         "link": "https://aeon.co/essays/nietzsches-startling-provocation-youre-edible-and-delicious",
-         "links": [
-             "https://aeon.co/essays/nietzsches-startling-provocation-youre-edible-and-delicious"
-         ],
-         "published": "Sun, 27 Jul 2025 07:11:16 +0000",
-         "publishedParsed": "2025-07-27T07:11:16Z"
+         "published": "Sun, 27 Jul 2025 01:28:36 +0000",
+         "publishedParsed": "2025-07-27T01:28:36Z"
      },
      {
          "title": "Resizable structs in Zig",
@@ -110,14 +90,24 @@
          "publishedParsed": "2025-07-26T21:43:57Z"
      },
      {
-         "title": "Low cost mmWave 60GHz radar sensor for advanced sensing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44665982\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.infineon.com/part/BGT60TR13C",
+         "title": "Cable Bacteria Are Living Batteries",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44661571\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.asimov.press/p/cable-bacteria",
          "links": [
-             "https://www.infineon.com/part/BGT60TR13C"
+             "https://www.asimov.press/p/cable-bacteria"
          ],
-         "published": "Thu, 24 Jul 2025 01:41:39 +0000",
-         "publishedParsed": "2025-07-24T01:41:39Z"
+         "published": "Wed, 23 Jul 2025 17:12:57 +0000",
+         "publishedParsed": "2025-07-23T17:12:57Z"
+     },
+     {
+         "title": "Implementing dynamic scope for Fennel and Lua",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44663887\"\u003eComments\u003c/a\u003e",
+         "link": "https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/",
+         "links": [
+             "https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/"
+         ],
+         "published": "Wed, 23 Jul 2025 20:49:58 +0000",
+         "publishedParsed": "2025-07-23T20:49:58Z"
      },
      {
          "title": "How we rooted Copilot",
@@ -130,16 +120,6 @@
          "publishedParsed": "2025-07-26T16:06:09Z"
      },
      {
-         "title": "16colo.rs: ANSI/ASCII art archive",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44665816\"\u003eComments\u003c/a\u003e",
-         "link": "https://16colo.rs/",
-         "links": [
-             "https://16colo.rs/"
-         ],
-         "published": "Thu, 24 Jul 2025 01:12:35 +0000",
-         "publishedParsed": "2025-07-24T01:12:35Z"
-     },
-     {
          "title": "Purple Earth hypothesis",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44665644\"\u003eComments\u003c/a\u003e",
          "link": "https://en.wikipedia.org/wiki/Purple_Earth_hypothesis",
@@ -150,14 +130,14 @@
          "publishedParsed": "2025-07-24T00:43:38Z"
      },
      {
-         "title": "Janet: Lightweight, Expressive, Modern Lisp",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44698185\"\u003eComments\u003c/a\u003e",
-         "link": "https://janet-lang.org",
+         "title": "Low cost mmWave 60GHz radar sensor for advanced sensing",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44665982\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.infineon.com/part/BGT60TR13C",
          "links": [
-             "https://janet-lang.org"
+             "https://www.infineon.com/part/BGT60TR13C"
          ],
-         "published": "Sun, 27 Jul 2025 01:28:36 +0000",
-         "publishedParsed": "2025-07-27T01:28:36Z"
+         "published": "Thu, 24 Jul 2025 01:41:39 +0000",
+         "publishedParsed": "2025-07-24T01:41:39Z"
      },
      {
          "title": "Rust running on every GPU",
@@ -170,36 +150,6 @@
          "publishedParsed": "2025-07-26T10:08:09Z"
      },
      {
-         "title": "Reading QR codes without a computer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44660656\"\u003eComments\u003c/a\u003e",
-         "link": "https://qr.blinry.org/",
-         "links": [
-             "https://qr.blinry.org/"
-         ],
-         "published": "Wed, 23 Jul 2025 15:57:11 +0000",
-         "publishedParsed": "2025-07-23T15:57:11Z"
-     },
-     {
-         "title": "Show HN: QuickTunes: Apple Music player for Mac with iPod vibes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44697798\"\u003eComments\u003c/a\u003e",
-         "link": "https://furnacecreek.org/quicktunes/",
-         "links": [
-             "https://furnacecreek.org/quicktunes/"
-         ],
-         "published": "Sat, 26 Jul 2025 23:43:26 +0000",
-         "publishedParsed": "2025-07-26T23:43:26Z"
-     },
-     {
-         "title": "Cable Bacteria Are Living Batteries",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44661571\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.asimov.press/p/cable-bacteria",
-         "links": [
-             "https://www.asimov.press/p/cable-bacteria"
-         ],
-         "published": "Wed, 23 Jul 2025 17:12:57 +0000",
-         "publishedParsed": "2025-07-23T17:12:57Z"
-     },
-     {
          "title": "Coronary artery calcium testing can reveal plaque in arteries, but is underused",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44697145\"\u003eComments\u003c/a\u003e",
          "link": "https://www.nytimes.com/2025/07/26/health/coronary-artery-calcium-heart.html",
@@ -208,6 +158,16 @@
          ],
          "published": "Sat, 26 Jul 2025 21:45:07 +0000",
          "publishedParsed": "2025-07-26T21:45:07Z"
+     },
+     {
+         "title": "16colo.rs: ANSI/ASCII art archive",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44665816\"\u003eComments\u003c/a\u003e",
+         "link": "https://16colo.rs/",
+         "links": [
+             "https://16colo.rs/"
+         ],
+         "published": "Thu, 24 Jul 2025 01:12:35 +0000",
+         "publishedParsed": "2025-07-24T01:12:35Z"
      },
      {
          "title": "Personal aviation is about to get interesting (2023)",
@@ -220,6 +180,26 @@
          "publishedParsed": "2025-07-26T23:03:26Z"
      },
      {
+         "title": "Three high-performance RISC-V processors to watch in H2 2025",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44658722\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cnx-software.com/2025/07/22/three-high-performance-risc-v-processors-to-watch-in-h2-2025-ultrarisc-ur-dp1000-zizhe-a210-and-spacemit-k3/",
+         "links": [
+             "https://www.cnx-software.com/2025/07/22/three-high-performance-risc-v-processors-to-watch-in-h2-2025-ultrarisc-ur-dp1000-zizhe-a210-and-spacemit-k3/"
+         ],
+         "published": "Wed, 23 Jul 2025 12:58:48 +0000",
+         "publishedParsed": "2025-07-23T12:58:48Z"
+     },
+     {
+         "title": "Reading QR codes without a computer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44660656\"\u003eComments\u003c/a\u003e",
+         "link": "https://qr.blinry.org/",
+         "links": [
+             "https://qr.blinry.org/"
+         ],
+         "published": "Wed, 23 Jul 2025 15:57:11 +0000",
+         "publishedParsed": "2025-07-23T15:57:11Z"
+     },
+     {
          "title": "What went wrong for Yahoo",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44696033\"\u003eComments\u003c/a\u003e",
          "link": "https://dfarq.homeip.net/what-went-wrong-for-yahoo/",
@@ -228,6 +208,16 @@
          ],
          "published": "Sat, 26 Jul 2025 18:25:13 +0000",
          "publishedParsed": "2025-07-26T18:25:13Z"
+     },
+     {
+         "title": "Show HN: QuickTunes: Apple Music player for Mac with iPod vibes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44697798\"\u003eComments\u003c/a\u003e",
+         "link": "https://furnacecreek.org/quicktunes/",
+         "links": [
+             "https://furnacecreek.org/quicktunes/"
+         ],
+         "published": "Sat, 26 Jul 2025 23:43:26 +0000",
+         "publishedParsed": "2025-07-26T23:43:26Z"
      },
      {
          "title": "Paul Dirac and the religion of mathematical beauty (2011) [video]",
@@ -240,14 +230,24 @@
          "publishedParsed": "2025-07-26T22:32:45Z"
      },
      {
-         "title": "Getting decent error reports in Bash when you're using 'set -e'",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44666984\"\u003eComments\u003c/a\u003e",
-         "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports",
+         "title": "Beyond Food and People",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44699437\"\u003eComments\u003c/a\u003e",
+         "link": "https://aeon.co/essays/nietzsches-startling-provocation-youre-edible-and-delicious",
          "links": [
-             "https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports"
+             "https://aeon.co/essays/nietzsches-startling-provocation-youre-edible-and-delicious"
          ],
-         "published": "Thu, 24 Jul 2025 04:40:27 +0000",
-         "publishedParsed": "2025-07-24T04:40:27Z"
+         "published": "Sun, 27 Jul 2025 07:11:16 +0000",
+         "publishedParsed": "2025-07-27T07:11:16Z"
+     },
+     {
+         "title": "Teach Yourself Programming in Ten Years (1998)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44697007\"\u003eComments\u003c/a\u003e",
+         "link": "https://norvig.com/21-days.html",
+         "links": [
+             "https://norvig.com/21-days.html"
+         ],
+         "published": "Sat, 26 Jul 2025 21:24:51 +0000",
+         "publishedParsed": "2025-07-26T21:24:51Z"
      },
      {
          "title": "The natural diamond industry is getting rocked. Thank the lab-grown variety",
@@ -260,6 +260,16 @@
          "publishedParsed": "2025-07-26T12:20:55Z"
      },
      {
+         "title": "Getting decent error reports in Bash when you're using 'set -e'",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44666984\"\u003eComments\u003c/a\u003e",
+         "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports",
+         "links": [
+             "https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports"
+         ],
+         "published": "Thu, 24 Jul 2025 04:40:27 +0000",
+         "publishedParsed": "2025-07-24T04:40:27Z"
+     },
+     {
          "title": "Arvo Pärt at 90",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44696894\"\u003eComments\u003c/a\u003e",
          "link": "https://www.theguardian.com/music/2025/jul/24/the-god-of-small-things-celebrating-arvo-part-at-90",
@@ -270,6 +280,16 @@
          "publishedParsed": "2025-07-26T21:03:03Z"
      },
      {
+         "title": "Where are vacation homes located in the US?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44695877\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.construction-physics.com/p/where-are-vacation-homes-located",
+         "links": [
+             "https://www.construction-physics.com/p/where-are-vacation-homes-located"
+         ],
+         "published": "Sat, 26 Jul 2025 18:00:32 +0000",
+         "publishedParsed": "2025-07-26T18:00:32Z"
+     },
+     {
          "title": "Torqued Accelerator Using Radiation from the Sun (Tars) for Interstellar Payload",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44697465\"\u003eComments\u003c/a\u003e",
          "link": "https://arxiv.org/abs/2507.17615",
@@ -278,15 +298,5 @@
          ],
          "published": "Sat, 26 Jul 2025 22:39:19 +0000",
          "publishedParsed": "2025-07-26T22:39:19Z"
-     },
-     {
-         "title": "Teach Yourself Programming in Ten Years (1998)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44697007\"\u003eComments\u003c/a\u003e",
-         "link": "https://norvig.com/21-days.html",
-         "links": [
-             "https://norvig.com/21-days.html"
-         ],
-         "published": "Sat, 26 Jul 2025 21:24:51 +0000",
-         "publishedParsed": "2025-07-26T21:24:51Z"
      }
  ]
