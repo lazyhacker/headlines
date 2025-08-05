@@ -10,16 +10,6 @@
          "publishedParsed": "2025-08-05T17:02:02Z"
      },
      {
-         "title": "Base64 encoded JSON, certificates, and private keys",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44802886\"\u003eComments\u003c/a\u003e",
-         "link": "https://ergaster.org/til/base64-encoded-json/",
-         "links": [
-             "https://ergaster.org/til/base64-encoded-json/"
-         ],
-         "published": "Tue, 05 Aug 2025 19:17:38 +0000",
-         "publishedParsed": "2025-08-05T19:17:38Z"
-     },
-     {
          "title": "Genie 3: A new frontier for world models",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44798166\"\u003eComments\u003c/a\u003e",
          "link": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
@@ -28,6 +18,16 @@
          ],
          "published": "Tue, 05 Aug 2025 14:08:52 +0000",
          "publishedParsed": "2025-08-05T14:08:52Z"
+     },
+     {
+         "title": "Spotting base64 encoded JSON, certificates, and private keys",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44802886\"\u003eComments\u003c/a\u003e",
+         "link": "https://ergaster.org/til/base64-encoded-json/",
+         "links": [
+             "https://ergaster.org/til/base64-encoded-json/"
+         ],
+         "published": "Tue, 05 Aug 2025 19:17:38 +0000",
+         "publishedParsed": "2025-08-05T19:17:38Z"
      },
      {
          "title": "Ollama Turbo",
@@ -40,16 +40,6 @@
          "publishedParsed": "2025-08-05T18:46:18Z"
      },
      {
-         "title": "OpenAI Harmony",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44799869\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/openai/harmony",
-         "links": [
-             "https://github.com/openai/harmony"
-         ],
-         "published": "Tue, 05 Aug 2025 16:07:58 +0000",
-         "publishedParsed": "2025-08-05T16:07:58Z"
-     },
-     {
          "title": "uBlock Origin Lite now available for Safari",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44795825\"\u003eComments\u003c/a\u003e",
          "link": "https://apps.apple.com/app/ublock-origin-lite/id6745342698",
@@ -58,6 +48,16 @@
          ],
          "published": "Tue, 05 Aug 2025 09:01:54 +0000",
          "publishedParsed": "2025-08-05T09:01:54Z"
+     },
+     {
+         "title": "Create personal illustrated storybooks in the Gemini app",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44804411\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.google/products/gemini/storybooks/",
+         "links": [
+             "https://blog.google/products/gemini/storybooks/"
+         ],
+         "published": "Tue, 05 Aug 2025 21:14:49 +0000",
+         "publishedParsed": "2025-08-05T21:14:49Z"
      },
      {
          "title": "Consider using Zstandard and/or LZ4 instead of Deflate",
@@ -70,14 +70,24 @@
          "publishedParsed": "2025-08-05T17:18:37Z"
      },
      {
-         "title": "Introducing gpt-oss",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44800730\"\u003eComments\u003c/a\u003e",
-         "link": "https://openai.com/index/introducing-gpt-oss/",
+         "title": "The mystery of Winston Churchill's dead platypus was unsolved until now",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44776505\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bbc.com/news/articles/cglzl1ez283o",
          "links": [
-             "https://openai.com/index/introducing-gpt-oss/"
+             "https://www.bbc.com/news/articles/cglzl1ez283o"
          ],
-         "published": "Tue, 05 Aug 2025 17:00:49 +0000",
-         "publishedParsed": "2025-08-05T17:00:49Z"
+         "published": "Sun, 03 Aug 2025 13:35:40 +0000",
+         "publishedParsed": "2025-08-03T13:35:40Z"
+     },
+     {
+         "title": "Kyber (YC W23) is hiring enterprise account executives",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44804230\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae",
+         "links": [
+             "https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae"
+         ],
+         "published": "Tue, 05 Aug 2025 21:02:21 +0000",
+         "publishedParsed": "2025-08-05T21:02:21Z"
      },
      {
          "title": "Claude Opus 4.1",
@@ -90,6 +100,16 @@
          "publishedParsed": "2025-08-05T16:28:05Z"
      },
      {
+         "title": "What's wrong with the JSON gem API?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44804043\"\u003eComments\u003c/a\u003e",
+         "link": "https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html",
+         "links": [
+             "https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html"
+         ],
+         "published": "Tue, 05 Aug 2025 20:46:38 +0000",
+         "publishedParsed": "2025-08-05T20:46:38Z"
+     },
+     {
          "title": "Things that helped me get out of the AI 10x engineer imposter syndrome",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44798189\"\u003eComments\u003c/a\u003e",
          "link": "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/",
@@ -98,6 +118,26 @@
          ],
          "published": "Tue, 05 Aug 2025 14:10:42 +0000",
          "publishedParsed": "2025-08-05T14:10:42Z"
+     },
+     {
+         "title": "Cannibal Modernity: Oswald de Andrade's Manifesto Antropófago (1928)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44778810\"\u003eComments\u003c/a\u003e",
+         "link": "https://publicdomainreview.org/collection/manifesto-antropofago/",
+         "links": [
+             "https://publicdomainreview.org/collection/manifesto-antropofago/"
+         ],
+         "published": "Sun, 03 Aug 2025 18:59:47 +0000",
+         "publishedParsed": "2025-08-03T18:59:47Z"
+     },
+     {
+         "title": "Scientific fraud has become an 'industry,' analysis finds",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44796526\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds",
+         "links": [
+             "https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds"
+         ],
+         "published": "Tue, 05 Aug 2025 10:56:07 +0000",
+         "publishedParsed": "2025-08-05T10:56:07Z"
      },
      {
          "title": "Los Alamos is capturing real-time images of explosions at 7mths of a second",
@@ -110,16 +150,6 @@
          "publishedParsed": "2025-08-05T14:47:07Z"
      },
      {
-         "title": "Show HN: Whittle – A Shrinking Word Game",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44801399\"\u003eComments\u003c/a\u003e",
-         "link": "https://playwhittle.com/",
-         "links": [
-             "https://playwhittle.com/"
-         ],
-         "published": "Tue, 05 Aug 2025 17:39:26 +0000",
-         "publishedParsed": "2025-08-05T17:39:26Z"
-     },
-     {
          "title": "Build Your Own Lisp",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44796953\"\u003eComments\u003c/a\u003e",
          "link": "https://www.buildyourownlisp.com/",
@@ -130,64 +160,44 @@
          "publishedParsed": "2025-08-05T11:55:20Z"
      },
      {
-         "title": "Scientific fraud has become an 'industry,' alarming analysis finds",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44796526\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds",
+         "title": "Show HN: Whittle – A Shrinking Word Game",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44801399\"\u003eComments\u003c/a\u003e",
+         "link": "https://playwhittle.com/",
          "links": [
-             "https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds"
+             "https://playwhittle.com/"
          ],
-         "published": "Tue, 05 Aug 2025 10:56:07 +0000",
-         "publishedParsed": "2025-08-05T10:56:07Z"
+         "published": "Tue, 05 Aug 2025 17:39:26 +0000",
+         "publishedParsed": "2025-08-05T17:39:26Z"
      },
      {
-         "title": "Show HN: Stagewise (YC S25) – Front end coding agent for existing codebases",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44798553\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/stagewise-io/stagewise",
+         "title": "The First Widespread Cure for HIV Could Be in Children",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44765981\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/",
          "links": [
-             "https://github.com/stagewise-io/stagewise"
+             "https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/"
          ],
-         "published": "Tue, 05 Aug 2025 14:38:36 +0000",
-         "publishedParsed": "2025-08-05T14:38:36Z"
+         "published": "Sat, 02 Aug 2025 09:20:42 +0000",
+         "publishedParsed": "2025-08-02T09:20:42Z"
      },
      {
-         "title": "Ozempic shows anti-aging effects in trial",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44798410\"\u003eComments\u003c/a\u003e",
-         "link": "https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years",
+         "title": "Ask HN: Have you ever regretted open-sourcing something?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44766771\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=44766771",
          "links": [
-             "https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years"
+             "https://news.ycombinator.com/item?id=44766771"
          ],
-         "published": "Tue, 05 Aug 2025 14:28:39 +0000",
-         "publishedParsed": "2025-08-05T14:28:39Z"
+         "published": "Sat, 02 Aug 2025 11:37:00 +0000",
+         "publishedParsed": "2025-08-02T11:37:00Z"
      },
      {
-         "title": "The AI bubble is so big it's propping up the US economy",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44802916\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping",
+         "title": "Under the Hood of AFD.sys Part 1: Investigating Undocumented Interfaces",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44776695\"\u003eComments\u003c/a\u003e",
+         "link": "https://leftarcode.com/posts/afd-reverse-engineering-part1/",
          "links": [
-             "https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping"
+             "https://leftarcode.com/posts/afd-reverse-engineering-part1/"
          ],
-         "published": "Tue, 05 Aug 2025 19:19:25 +0000",
-         "publishedParsed": "2025-08-05T19:19:25Z"
-     },
-     {
-         "title": "GitHub pull requests were down",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44799494\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.githubstatus.com/incidents/6swp0zf7lk8h",
-         "links": [
-             "https://www.githubstatus.com/incidents/6swp0zf7lk8h"
-         ],
-         "published": "Tue, 05 Aug 2025 15:44:09 +0000",
-         "publishedParsed": "2025-08-05T15:44:09Z"
-     },
-     {
-         "title": "Eleven Music",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44799479\"\u003eComments\u003c/a\u003e",
-         "link": "https://elevenlabs.io/blog/eleven-music-is-here",
-         "links": [
-             "https://elevenlabs.io/blog/eleven-music-is-here"
-         ],
-         "published": "Tue, 05 Aug 2025 15:42:40 +0000",
-         "publishedParsed": "2025-08-05T15:42:40Z"
+         "published": "Sun, 03 Aug 2025 14:06:47 +0000",
+         "publishedParsed": "2025-08-03T14:06:47Z"
      },
      {
          "title": "Tell HN: Anthropic expires paid credits after a year",
@@ -200,24 +210,24 @@
          "publishedParsed": "2025-08-05T01:43:40Z"
      },
      {
-         "title": "The X11 Security extension from the 1990s",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44768745\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.uninformativ.de/blog/postings/2025-08-02/0/POSTING-en.html",
+         "title": "Show HN: Stagewise (YC S25) – Front end coding agent for existing codebases",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44798553\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/stagewise-io/stagewise",
          "links": [
-             "https://www.uninformativ.de/blog/postings/2025-08-02/0/POSTING-en.html"
+             "https://github.com/stagewise-io/stagewise"
          ],
-         "published": "Sat, 02 Aug 2025 16:06:33 +0000",
-         "publishedParsed": "2025-08-02T16:06:33Z"
+         "published": "Tue, 05 Aug 2025 14:38:36 +0000",
+         "publishedParsed": "2025-08-05T14:38:36Z"
      },
      {
-         "title": "Show HN: I built a tool to replace capcut audio transcription",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44802063\"\u003eComments\u003c/a\u003e",
-         "link": "https://meetcosmos.com/free-audio-transcription/",
+         "title": "Eleven Music",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44799479\"\u003eComments\u003c/a\u003e",
+         "link": "https://elevenlabs.io/blog/eleven-music-is-here",
          "links": [
-             "https://meetcosmos.com/free-audio-transcription/"
+             "https://elevenlabs.io/blog/eleven-music-is-here"
          ],
-         "published": "Tue, 05 Aug 2025 18:20:23 +0000",
-         "publishedParsed": "2025-08-05T18:20:23Z"
+         "published": "Tue, 05 Aug 2025 15:42:40 +0000",
+         "publishedParsed": "2025-08-05T15:42:40Z"
      },
      {
          "title": "Apache ECharts 6",
@@ -230,33 +240,33 @@
          "publishedParsed": "2025-08-05T06:33:04Z"
      },
      {
-         "title": "Create space-saving clones on macOS with Python",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44778149\"\u003eComments\u003c/a\u003e",
-         "link": "https://alexwlchan.net/2025/cloning-with-python/",
+         "title": "No Comment (2010)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44798434\"\u003eComments\u003c/a\u003e",
+         "link": "https://prog21.dadgum.com/57.html",
          "links": [
-             "https://alexwlchan.net/2025/cloning-with-python/"
+             "https://prog21.dadgum.com/57.html"
          ],
-         "published": "Sun, 03 Aug 2025 17:27:33 +0000",
-         "publishedParsed": "2025-08-03T17:27:33Z"
+         "published": "Tue, 05 Aug 2025 14:30:19 +0000",
+         "publishedParsed": "2025-08-05T14:30:19Z"
      },
      {
-         "title": "I dumped Google for Kagi",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44798215\"\u003eComments\u003c/a\u003e",
-         "link": "https://arstechnica.com/gadgets/2025/08/enough-is-enough-i-dumped-googles-worsening-search-for-kagi/",
+         "title": "The X11 Security extension from the 1990s",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44768745\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.uninformativ.de/blog/postings/2025-08-02/0/POSTING-en.html",
          "links": [
-             "https://arstechnica.com/gadgets/2025/08/enough-is-enough-i-dumped-googles-worsening-search-for-kagi/"
+             "https://www.uninformativ.de/blog/postings/2025-08-02/0/POSTING-en.html"
          ],
-         "published": "Tue, 05 Aug 2025 14:12:51 +0000",
-         "publishedParsed": "2025-08-05T14:12:51Z"
+         "published": "Sat, 02 Aug 2025 16:06:33 +0000",
+         "publishedParsed": "2025-08-02T16:06:33Z"
      },
      {
-         "title": "US Coast Guard Report on Titan Submersible",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44798705\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.news.uscg.mil/Press-Releases/Article/4265651/coast-guard-marine-board-of-investigation-releases-report-on-titan-submersible/",
+         "title": "GitHub pull requests were down",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44799494\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.githubstatus.com/incidents/6swp0zf7lk8h",
          "links": [
-             "https://www.news.uscg.mil/Press-Releases/Article/4265651/coast-guard-marine-board-of-investigation-releases-report-on-titan-submersible/"
+             "https://www.githubstatus.com/incidents/6swp0zf7lk8h"
          ],
-         "published": "Tue, 05 Aug 2025 14:47:35 +0000",
-         "publishedParsed": "2025-08-05T14:47:35Z"
+         "published": "Tue, 05 Aug 2025 15:44:09 +0000",
+         "publishedParsed": "2025-08-05T15:44:09Z"
      }
  ]
