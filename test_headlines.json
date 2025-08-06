@@ -20,14 +20,14 @@
          "publishedParsed": "2025-08-06T16:00:54Z"
      },
      {
-         "title": "Dotfiles feel too intimate and personal to share",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44812611\"\u003eComments\u003c/a\u003e",
-         "link": "https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/",
+         "title": "Cognitive Decline Can Be Slowed Down with Lifestyle Changes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44815877\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.smithsonianmag.com/smart-news/cognitive-decline-can-be-slowed-down-with-lifestyle-changes-from-diet-to-exercise-and-social-time-new-study-suggests-180987077/",
          "links": [
-             "https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/"
+             "https://www.smithsonianmag.com/smart-news/cognitive-decline-can-be-slowed-down-with-lifestyle-changes-from-diet-to-exercise-and-social-time-new-study-suggests-180987077/"
          ],
-         "published": "Wed, 06 Aug 2025 14:36:01 +0000",
-         "publishedParsed": "2025-08-06T14:36:01Z"
+         "published": "Wed, 06 Aug 2025 18:37:21 +0000",
+         "publishedParsed": "2025-08-06T18:37:21Z"
      },
      {
          "title": "Breaking the sorting barrier for directed single-source shortest paths",
@@ -40,6 +40,16 @@
          "publishedParsed": "2025-08-06T14:43:02Z"
      },
      {
+         "title": "Jules, our asynchronous coding agent",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44813854\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.google/technology/google-labs/jules-now-available/",
+         "links": [
+             "https://blog.google/technology/google-labs/jules-now-available/"
+         ],
+         "published": "Wed, 06 Aug 2025 16:05:39 +0000",
+         "publishedParsed": "2025-08-06T16:05:39Z"
+     },
+     {
          "title": "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44807868\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/KittenML/KittenTTS",
@@ -50,17 +60,7 @@
          "publishedParsed": "2025-08-06T05:04:36Z"
      },
      {
-         "title": "NetBird Is Embracing the AGPLv3 License",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44813110\"\u003eComments\u003c/a\u003e",
-         "link": "https://netbird.io/knowledge-hub/netbird-agpl-announcement",
-         "links": [
-             "https://netbird.io/knowledge-hub/netbird-agpl-announcement"
-         ],
-         "published": "Wed, 06 Aug 2025 15:13:30 +0000",
-         "publishedParsed": "2025-08-06T15:13:30Z"
-     },
-     {
-         "title": "Zig-Error-Patterns",
+         "title": "Zig Error Patterns",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44812985\"\u003eComments\u003c/a\u003e",
          "link": "https://glfmn.io/posts/zig-error-patterns/",
          "links": [
@@ -68,6 +68,56 @@
          ],
          "published": "Wed, 06 Aug 2025 15:03:19 +0000",
          "publishedParsed": "2025-08-06T15:03:19Z"
+     },
+     {
+         "title": "A Fast, Growable Array with Stable Pointers in C",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44815702\"\u003eComments\u003c/a\u003e",
+         "link": "https://danielchasehooper.com/posts/segment_array/",
+         "links": [
+             "https://danielchasehooper.com/posts/segment_array/"
+         ],
+         "published": "Wed, 06 Aug 2025 18:21:28 +0000",
+         "publishedParsed": "2025-08-06T18:21:28Z"
+     },
+     {
+         "title": "Multics",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44814596\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.multicians.org/multics.html",
+         "links": [
+             "https://www.multicians.org/multics.html"
+         ],
+         "published": "Wed, 06 Aug 2025 16:57:55 +0000",
+         "publishedParsed": "2025-08-06T16:57:55Z"
+     },
+     {
+         "title": "Why is it worth spending time on type theory? (2013)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44788321\"\u003eComments\u003c/a\u003e",
+         "link": "https://math.stackexchange.com/questions/567265/why-is-it-worth-spending-time-on-type-theory",
+         "links": [
+             "https://math.stackexchange.com/questions/567265/why-is-it-worth-spending-time-on-type-theory"
+         ],
+         "published": "Mon, 04 Aug 2025 16:46:10 +0000",
+         "publishedParsed": "2025-08-04T16:46:10Z"
+     },
+     {
+         "title": "Google says AI in Search is driving more queries and higher quality clicks",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44815046\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.google/products/search/ai-search-driving-more-queries-higher-quality-clicks/",
+         "links": [
+             "https://blog.google/products/search/ai-search-driving-more-queries-higher-quality-clicks/"
+         ],
+         "published": "Wed, 06 Aug 2025 17:32:42 +0000",
+         "publishedParsed": "2025-08-06T17:32:42Z"
+     },
+     {
+         "title": "Gleam v1.12.0 Released",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44815405\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/gleam-lang/gleam/blob/main/changelog/v1.12.md",
+         "links": [
+             "https://github.com/gleam-lang/gleam/blob/main/changelog/v1.12.md"
+         ],
+         "published": "Wed, 06 Aug 2025 17:57:57 +0000",
+         "publishedParsed": "2025-08-06T17:57:57Z"
      },
      {
          "title": "303Gen – 303 acid loops generator",
@@ -80,14 +130,14 @@
          "publishedParsed": "2025-08-06T12:50:06Z"
      },
      {
-         "title": "NautilusTrader: Open-source algorithmic trading platform",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44810552\"\u003eComments\u003c/a\u003e",
-         "link": "https://nautilustrader.io/",
+         "title": "Show HN: Sinkzone DNS – Forwarder that blocks everything except your allowlist",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44813905\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/berbyte/sinkzone",
          "links": [
-             "https://nautilustrader.io/"
+             "https://github.com/berbyte/sinkzone"
          ],
-         "published": "Wed, 06 Aug 2025 11:23:42 +0000",
-         "publishedParsed": "2025-08-06T11:23:42Z"
+         "published": "Wed, 06 Aug 2025 16:08:23 +0000",
+         "publishedParsed": "2025-08-06T16:08:23Z"
      },
      {
          "title": "The 1090 Megahertz Riddle: A Guide to Decoding Mode S and ADS-B Signals",
@@ -100,6 +150,16 @@
          "publishedParsed": "2025-08-03T18:54:34Z"
      },
      {
+         "title": "We shouldn't have needed lockfiles",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44813397\"\u003eComments\u003c/a\u003e",
+         "link": "https://tonsky.me/blog/lockfiles/",
+         "links": [
+             "https://tonsky.me/blog/lockfiles/"
+         ],
+         "published": "Wed, 06 Aug 2025 15:33:37 +0000",
+         "publishedParsed": "2025-08-06T15:33:37Z"
+     },
+     {
          "title": "About the BLOBs in Ventoy",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44810281\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/ventoy/Ventoy/issues/3224",
@@ -108,56 +168,6 @@
          ],
          "published": "Wed, 06 Aug 2025 10:41:01 +0000",
          "publishedParsed": "2025-08-06T10:41:01Z"
-     },
-     {
-         "title": "Show HN: Sinkzone DNS forwarder that blocks everything except your allowlist",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44813905\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/berbyte/sinkzone",
-         "links": [
-             "https://github.com/berbyte/sinkzone"
-         ],
-         "published": "Wed, 06 Aug 2025 16:08:23 +0000",
-         "publishedParsed": "2025-08-06T16:08:23Z"
-     },
-     {
-         "title": "Google suffers data breach in ongoing Salesforce data theft attacks",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44812198\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/",
-         "links": [
-             "https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/"
-         ],
-         "published": "Wed, 06 Aug 2025 14:04:13 +0000",
-         "publishedParsed": "2025-08-06T14:04:13Z"
-     },
-     {
-         "title": "Qwen3-4B-Thinking-2507",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44813627\"\u003eComments\u003c/a\u003e",
-         "link": "https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507",
-         "links": [
-             "https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507"
-         ],
-         "published": "Wed, 06 Aug 2025 15:50:47 +0000",
-         "publishedParsed": "2025-08-06T15:50:47Z"
-     },
-     {
-         "title": "Show HN: An Open-Source E-Book Reader for Conversational Reading with an LLM",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44811387\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/shutootaki/bookwith",
-         "links": [
-             "https://github.com/shutootaki/bookwith"
-         ],
-         "published": "Wed, 06 Aug 2025 13:01:36 +0000",
-         "publishedParsed": "2025-08-06T13:01:36Z"
-     },
-     {
-         "title": "Critcl – C Runtime in Tcl",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44779240\"\u003eComments\u003c/a\u003e",
-         "link": "https://andreas-kupries.github.io/critcl/",
-         "links": [
-             "https://andreas-kupries.github.io/critcl/"
-         ],
-         "published": "Sun, 03 Aug 2025 19:58:55 +0000",
-         "publishedParsed": "2025-08-03T19:58:55Z"
      },
      {
          "title": "The Origin of Cisco Systems",
@@ -170,6 +180,96 @@
          "publishedParsed": "2025-08-04T09:48:15Z"
      },
      {
+         "title": "When is the next caltrain? (minimal webapp)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44813615\"\u003eComments\u003c/a\u003e",
+         "link": "https://erikschluntz.com/caltrain",
+         "links": [
+             "https://erikschluntz.com/caltrain"
+         ],
+         "published": "Wed, 06 Aug 2025 15:50:09 +0000",
+         "publishedParsed": "2025-08-06T15:50:09Z"
+     },
+     {
+         "title": "Qwen3-4B-Thinking-2507",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44813627\"\u003eComments\u003c/a\u003e",
+         "link": "https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507",
+         "links": [
+             "https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507"
+         ],
+         "published": "Wed, 06 Aug 2025 15:50:47 +0000",
+         "publishedParsed": "2025-08-06T15:50:47Z"
+     },
+     {
+         "title": "NautilusTrader: Open-source algorithmic trading platform",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44810552\"\u003eComments\u003c/a\u003e",
+         "link": "https://nautilustrader.io/",
+         "links": [
+             "https://nautilustrader.io/"
+         ],
+         "published": "Wed, 06 Aug 2025 11:23:42 +0000",
+         "publishedParsed": "2025-08-06T11:23:42Z"
+     },
+     {
+         "title": "Dotfiles feel too personal to share",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44812611\"\u003eComments\u003c/a\u003e",
+         "link": "https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/",
+         "links": [
+             "https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/"
+         ],
+         "published": "Wed, 06 Aug 2025 14:36:01 +0000",
+         "publishedParsed": "2025-08-06T14:36:01Z"
+     },
+     {
+         "title": "The internet wants to check your ID",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44814278\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.newyorker.com/culture/infinite-scroll/the-internet-wants-to-check-your-id",
+         "links": [
+             "https://www.newyorker.com/culture/infinite-scroll/the-internet-wants-to-check-your-id"
+         ],
+         "published": "Wed, 06 Aug 2025 16:32:50 +0000",
+         "publishedParsed": "2025-08-06T16:32:50Z"
+     },
+     {
+         "title": "Google suffers data breach in ongoing Salesforce data theft attacks",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44812198\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/",
+         "links": [
+             "https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/"
+         ],
+         "published": "Wed, 06 Aug 2025 14:04:13 +0000",
+         "publishedParsed": "2025-08-06T14:04:13Z"
+     },
+     {
+         "title": "Realizing we needed two sorts of alerts for our temperature monitoring",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44781683\"\u003eComments\u003c/a\u003e",
+         "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MachineRoomTempTwoSortsOfAlerts",
+         "links": [
+             "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MachineRoomTempTwoSortsOfAlerts"
+         ],
+         "published": "Mon, 04 Aug 2025 02:47:02 +0000",
+         "publishedParsed": "2025-08-04T02:47:02Z"
+     },
+     {
+         "title": "Wild pigs' flesh turning neon blue in California: Authorities sounding the alarm",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44814993\"\u003eComments\u003c/a\u003e",
+         "link": "https://phys.org/news/2025-08-wild-pigs-flesh-neon-blue.html",
+         "links": [
+             "https://phys.org/news/2025-08-wild-pigs-flesh-neon-blue.html"
+         ],
+         "published": "Wed, 06 Aug 2025 17:28:56 +0000",
+         "publishedParsed": "2025-08-06T17:28:56Z"
+     },
+     {
+         "title": "Show HN: An Open-Source E-Book Reader for Conversational Reading with an LLM",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44811387\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/shutootaki/bookwith",
+         "links": [
+             "https://github.com/shutootaki/bookwith"
+         ],
+         "published": "Wed, 06 Aug 2025 13:01:36 +0000",
+         "publishedParsed": "2025-08-06T13:01:36Z"
+     },
+     {
          "title": "Python performance myths and fairy tales",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44809387\"\u003eComments\u003c/a\u003e",
          "link": "https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/",
@@ -180,66 +280,6 @@
          "publishedParsed": "2025-08-06T08:36:28Z"
      },
      {
-         "title": "Software Rot",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44807002\"\u003eComments\u003c/a\u003e",
-         "link": "https://permacomputing.net/software_rot/",
-         "links": [
-             "https://permacomputing.net/software_rot/"
-         ],
-         "published": "Wed, 06 Aug 2025 02:35:19 +0000",
-         "publishedParsed": "2025-08-06T02:35:19Z"
-     },
-     {
-         "title": "Open models by OpenAI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44800746\"\u003eComments\u003c/a\u003e",
-         "link": "https://openai.com/open-models/",
-         "links": [
-             "https://openai.com/open-models/"
-         ],
-         "published": "Tue, 05 Aug 2025 17:02:02 +0000",
-         "publishedParsed": "2025-08-05T17:02:02Z"
-     },
-     {
-         "title": "Rethinking DOM from first principles",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44808542\"\u003eComments\u003c/a\u003e",
-         "link": "https://acko.net/blog/html-is-dead-long-live-html/",
-         "links": [
-             "https://acko.net/blog/html-is-dead-long-live-html/"
-         ],
-         "published": "Wed, 06 Aug 2025 06:51:13 +0000",
-         "publishedParsed": "2025-08-06T06:51:13Z"
-     },
-     {
-         "title": "LLM Inflation",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44810307\"\u003eComments\u003c/a\u003e",
-         "link": "https://tratt.net/laurie/blog/2025/llm_inflation.html",
-         "links": [
-             "https://tratt.net/laurie/blog/2025/llm_inflation.html"
-         ],
-         "published": "Wed, 06 Aug 2025 10:44:38 +0000",
-         "publishedParsed": "2025-08-06T10:44:38Z"
-     },
-     {
-         "title": "I'm Archiving Picocrypt",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44807210\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Picocrypt/Picocrypt/issues/134",
-         "links": [
-             "https://github.com/Picocrypt/Picocrypt/issues/134"
-         ],
-         "published": "Wed, 06 Aug 2025 03:14:22 +0000",
-         "publishedParsed": "2025-08-06T03:14:22Z"
-     },
-     {
-         "title": "I gave the AI arms and legs then it rejected me",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44808794\"\u003eComments\u003c/a\u003e",
-         "link": "https://grell.dev/blog/ai_rejection",
-         "links": [
-             "https://grell.dev/blog/ai_rejection"
-         ],
-         "published": "Wed, 06 Aug 2025 07:25:43 +0000",
-         "publishedParsed": "2025-08-06T07:25:43Z"
-     },
-     {
          "title": "How to Scale Proteomics",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44811996\"\u003eComments\u003c/a\u003e",
          "link": "https://www.asimov.press/p/proteomics",
@@ -248,15 +288,5 @@
          ],
          "published": "Wed, 06 Aug 2025 13:47:33 +0000",
          "publishedParsed": "2025-08-06T13:47:33Z"
-     },
-     {
-         "title": "Automerge 3.0",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44777086\"\u003eComments\u003c/a\u003e",
-         "link": "https://automerge.org/blog/automerge-3/",
-         "links": [
-             "https://automerge.org/blog/automerge-3/"
-         ],
-         "published": "Sun, 03 Aug 2025 15:08:58 +0000",
-         "publishedParsed": "2025-08-03T15:08:58Z"
      }
  ]
