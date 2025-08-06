@@ -1,6 +1,6 @@
 [
      {
-         "title": "Claude Code IDE Integration for Emacs",
+         "title": "Claude Code IDE integration for Emacs",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44811567\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/manzaltu/claude-code-ide.el",
          "links": [
@@ -10,14 +10,14 @@
          "publishedParsed": "2025-08-06T13:17:38Z"
      },
      {
-         "title": "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44807868\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/KittenML/KittenTTS",
+         "title": "Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44813789\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/",
          "links": [
-             "https://github.com/KittenML/KittenTTS"
+             "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/"
          ],
-         "published": "Wed, 06 Aug 2025 05:04:36 +0000",
-         "publishedParsed": "2025-08-06T05:04:36Z"
+         "published": "Wed, 06 Aug 2025 16:00:54 +0000",
+         "publishedParsed": "2025-08-06T16:00:54Z"
      },
      {
          "title": "Dotfiles feel too intimate and personal to share",
@@ -30,6 +30,56 @@
          "publishedParsed": "2025-08-06T14:36:01Z"
      },
      {
+         "title": "Breaking the sorting barrier for directed single-source shortest paths",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44812695\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/",
+         "links": [
+             "https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/"
+         ],
+         "published": "Wed, 06 Aug 2025 14:43:02 +0000",
+         "publishedParsed": "2025-08-06T14:43:02Z"
+     },
+     {
+         "title": "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44807868\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/KittenML/KittenTTS",
+         "links": [
+             "https://github.com/KittenML/KittenTTS"
+         ],
+         "published": "Wed, 06 Aug 2025 05:04:36 +0000",
+         "publishedParsed": "2025-08-06T05:04:36Z"
+     },
+     {
+         "title": "NetBird Is Embracing the AGPLv3 License",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44813110\"\u003eComments\u003c/a\u003e",
+         "link": "https://netbird.io/knowledge-hub/netbird-agpl-announcement",
+         "links": [
+             "https://netbird.io/knowledge-hub/netbird-agpl-announcement"
+         ],
+         "published": "Wed, 06 Aug 2025 15:13:30 +0000",
+         "publishedParsed": "2025-08-06T15:13:30Z"
+     },
+     {
+         "title": "Zig-Error-Patterns",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44812985\"\u003eComments\u003c/a\u003e",
+         "link": "https://glfmn.io/posts/zig-error-patterns/",
+         "links": [
+             "https://glfmn.io/posts/zig-error-patterns/"
+         ],
+         "published": "Wed, 06 Aug 2025 15:03:19 +0000",
+         "publishedParsed": "2025-08-06T15:03:19Z"
+     },
+     {
+         "title": "303Gen – 303 acid loops generator",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44811280\"\u003eComments\u003c/a\u003e",
+         "link": "https://303-gen-06a668.netlify.app/",
+         "links": [
+             "https://303-gen-06a668.netlify.app/"
+         ],
+         "published": "Wed, 06 Aug 2025 12:50:06 +0000",
+         "publishedParsed": "2025-08-06T12:50:06Z"
+     },
+     {
          "title": "NautilusTrader: Open-source algorithmic trading platform",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44810552\"\u003eComments\u003c/a\u003e",
          "link": "https://nautilustrader.io/",
@@ -38,46 +88,6 @@
          ],
          "published": "Wed, 06 Aug 2025 11:23:42 +0000",
          "publishedParsed": "2025-08-06T11:23:42Z"
-     },
-     {
-         "title": "Coffee-shop pitch change helped founder unlock traction for laptop campers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44811602\"\u003eComments\u003c/a\u003e",
-         "link": "https://iwantproductmarketfit.substack.com/p/how-one-pitch-change-helped-this",
-         "links": [
-             "https://iwantproductmarketfit.substack.com/p/how-one-pitch-change-helped-this"
-         ],
-         "published": "Wed, 06 Aug 2025 13:20:21 +0000",
-         "publishedParsed": "2025-08-06T13:20:21Z"
-     },
-     {
-         "title": "About the BLOBs in Ventoy",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44810281\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/ventoy/Ventoy/issues/3224",
-         "links": [
-             "https://github.com/ventoy/Ventoy/issues/3224"
-         ],
-         "published": "Wed, 06 Aug 2025 10:41:01 +0000",
-         "publishedParsed": "2025-08-06T10:41:01Z"
-     },
-     {
-         "title": "Google suffers data breach in ongoing Salesforce data theft attacks",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44812198\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/",
-         "links": [
-             "https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/"
-         ],
-         "published": "Wed, 06 Aug 2025 14:04:13 +0000",
-         "publishedParsed": "2025-08-06T14:04:13Z"
-     },
-     {
-         "title": "Show HN: An Open-Source E-Book Reader for Conversational Reading with an LLM",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44811387\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/shutootaki/bookwith",
-         "links": [
-             "https://github.com/shutootaki/bookwith"
-         ],
-         "published": "Wed, 06 Aug 2025 13:01:36 +0000",
-         "publishedParsed": "2025-08-06T13:01:36Z"
      },
      {
          "title": "The 1090 Megahertz Riddle: A Guide to Decoding Mode S and ADS-B Signals",
@@ -90,6 +100,76 @@
          "publishedParsed": "2025-08-03T18:54:34Z"
      },
      {
+         "title": "About the BLOBs in Ventoy",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44810281\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/ventoy/Ventoy/issues/3224",
+         "links": [
+             "https://github.com/ventoy/Ventoy/issues/3224"
+         ],
+         "published": "Wed, 06 Aug 2025 10:41:01 +0000",
+         "publishedParsed": "2025-08-06T10:41:01Z"
+     },
+     {
+         "title": "Show HN: Sinkzone DNS forwarder that blocks everything except your allowlist",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44813905\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/berbyte/sinkzone",
+         "links": [
+             "https://github.com/berbyte/sinkzone"
+         ],
+         "published": "Wed, 06 Aug 2025 16:08:23 +0000",
+         "publishedParsed": "2025-08-06T16:08:23Z"
+     },
+     {
+         "title": "Google suffers data breach in ongoing Salesforce data theft attacks",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44812198\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/",
+         "links": [
+             "https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/"
+         ],
+         "published": "Wed, 06 Aug 2025 14:04:13 +0000",
+         "publishedParsed": "2025-08-06T14:04:13Z"
+     },
+     {
+         "title": "Qwen3-4B-Thinking-2507",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44813627\"\u003eComments\u003c/a\u003e",
+         "link": "https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507",
+         "links": [
+             "https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507"
+         ],
+         "published": "Wed, 06 Aug 2025 15:50:47 +0000",
+         "publishedParsed": "2025-08-06T15:50:47Z"
+     },
+     {
+         "title": "Show HN: An Open-Source E-Book Reader for Conversational Reading with an LLM",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44811387\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/shutootaki/bookwith",
+         "links": [
+             "https://github.com/shutootaki/bookwith"
+         ],
+         "published": "Wed, 06 Aug 2025 13:01:36 +0000",
+         "publishedParsed": "2025-08-06T13:01:36Z"
+     },
+     {
+         "title": "Critcl – C Runtime in Tcl",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44779240\"\u003eComments\u003c/a\u003e",
+         "link": "https://andreas-kupries.github.io/critcl/",
+         "links": [
+             "https://andreas-kupries.github.io/critcl/"
+         ],
+         "published": "Sun, 03 Aug 2025 19:58:55 +0000",
+         "publishedParsed": "2025-08-03T19:58:55Z"
+     },
+     {
+         "title": "The Origin of Cisco Systems",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44783717\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.tcracs.org/tcrwp/1origin-of-cisco/",
+         "links": [
+             "https://www.tcracs.org/tcrwp/1origin-of-cisco/"
+         ],
+         "published": "Mon, 04 Aug 2025 09:48:15 +0000",
+         "publishedParsed": "2025-08-04T09:48:15Z"
+     },
+     {
          "title": "Python performance myths and fairy tales",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44809387\"\u003eComments\u003c/a\u003e",
          "link": "https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/",
@@ -98,16 +178,6 @@
          ],
          "published": "Wed, 06 Aug 2025 08:36:28 +0000",
          "publishedParsed": "2025-08-06T08:36:28Z"
-     },
-     {
-         "title": "303Gen – 303 acid loops generator",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44811280\"\u003eComments\u003c/a\u003e",
-         "link": "https://303-gen-06a668.netlify.app/",
-         "links": [
-             "https://303-gen-06a668.netlify.app/"
-         ],
-         "published": "Wed, 06 Aug 2025 12:50:06 +0000",
-         "publishedParsed": "2025-08-06T12:50:06Z"
      },
      {
          "title": "Software Rot",
@@ -130,16 +200,6 @@
          "publishedParsed": "2025-08-05T17:02:02Z"
      },
      {
-         "title": "LLM Inflation",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44810307\"\u003eComments\u003c/a\u003e",
-         "link": "https://tratt.net/laurie/blog/2025/llm_inflation.html",
-         "links": [
-             "https://tratt.net/laurie/blog/2025/llm_inflation.html"
-         ],
-         "published": "Wed, 06 Aug 2025 10:44:38 +0000",
-         "publishedParsed": "2025-08-06T10:44:38Z"
-     },
-     {
          "title": "Rethinking DOM from first principles",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44808542\"\u003eComments\u003c/a\u003e",
          "link": "https://acko.net/blog/html-is-dead-long-live-html/",
@@ -150,24 +210,14 @@
          "publishedParsed": "2025-08-06T06:51:13Z"
      },
      {
-         "title": "I gave the AI arms and legs then it rejected me",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44808794\"\u003eComments\u003c/a\u003e",
-         "link": "https://grell.dev/blog/ai_rejection",
+         "title": "LLM Inflation",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44810307\"\u003eComments\u003c/a\u003e",
+         "link": "https://tratt.net/laurie/blog/2025/llm_inflation.html",
          "links": [
-             "https://grell.dev/blog/ai_rejection"
+             "https://tratt.net/laurie/blog/2025/llm_inflation.html"
          ],
-         "published": "Wed, 06 Aug 2025 07:25:43 +0000",
-         "publishedParsed": "2025-08-06T07:25:43Z"
-     },
-     {
-         "title": "Speedhunters was a car culture juggernaut",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44790918\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.thedrive.com/news/speedhunters-was-a-car-culture-juggernaut-this-is-how-it-died",
-         "links": [
-             "https://www.thedrive.com/news/speedhunters-was-a-car-culture-juggernaut-this-is-how-it-died"
-         ],
-         "published": "Mon, 04 Aug 2025 20:20:26 +0000",
-         "publishedParsed": "2025-08-04T20:20:26Z"
+         "published": "Wed, 06 Aug 2025 10:44:38 +0000",
+         "publishedParsed": "2025-08-06T10:44:38Z"
      },
      {
          "title": "I'm Archiving Picocrypt",
@@ -180,24 +230,24 @@
          "publishedParsed": "2025-08-06T03:14:22Z"
      },
      {
-         "title": "Omarchy, a Linux Distribution by DHH",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44811905\"\u003eComments\u003c/a\u003e",
-         "link": "https://omarchy.org/",
+         "title": "I gave the AI arms and legs then it rejected me",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44808794\"\u003eComments\u003c/a\u003e",
+         "link": "https://grell.dev/blog/ai_rejection",
          "links": [
-             "https://omarchy.org/"
+             "https://grell.dev/blog/ai_rejection"
          ],
-         "published": "Wed, 06 Aug 2025 13:41:46 +0000",
-         "publishedParsed": "2025-08-06T13:41:46Z"
+         "published": "Wed, 06 Aug 2025 07:25:43 +0000",
+         "publishedParsed": "2025-08-06T07:25:43Z"
      },
      {
-         "title": "Ozempic shows anti-aging effects in trial",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44798410\"\u003eComments\u003c/a\u003e",
-         "link": "https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years",
+         "title": "How to Scale Proteomics",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44811996\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.asimov.press/p/proteomics",
          "links": [
-             "https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years"
+             "https://www.asimov.press/p/proteomics"
          ],
-         "published": "Tue, 05 Aug 2025 14:28:39 +0000",
-         "publishedParsed": "2025-08-05T14:28:39Z"
+         "published": "Wed, 06 Aug 2025 13:47:33 +0000",
+         "publishedParsed": "2025-08-06T13:47:33Z"
      },
      {
          "title": "Automerge 3.0",
@@ -208,65 +258,5 @@
          ],
          "published": "Sun, 03 Aug 2025 15:08:58 +0000",
          "publishedParsed": "2025-08-03T15:08:58Z"
-     },
-     {
-         "title": "Ollama Turbo",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44802414\"\u003eComments\u003c/a\u003e",
-         "link": "https://ollama.com/turbo",
-         "links": [
-             "https://ollama.com/turbo"
-         ],
-         "published": "Tue, 05 Aug 2025 18:46:18 +0000",
-         "publishedParsed": "2025-08-05T18:46:18Z"
-     },
-     {
-         "title": "Some thoughts on journals, refereeing, and the P vs NP problem",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44808693\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.computationalcomplexity.org/2025/08/some-thoughts-on-journals-refereeing.html",
-         "links": [
-             "https://blog.computationalcomplexity.org/2025/08/some-thoughts-on-journals-refereeing.html"
-         ],
-         "published": "Wed, 06 Aug 2025 07:12:08 +0000",
-         "publishedParsed": "2025-08-06T07:12:08Z"
-     },
-     {
-         "title": "Spotting base64 encoded JSON, certificates, and private keys",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44802886\"\u003eComments\u003c/a\u003e",
-         "link": "https://ergaster.org/til/base64-encoded-json/",
-         "links": [
-             "https://ergaster.org/til/base64-encoded-json/"
-         ],
-         "published": "Tue, 05 Aug 2025 19:17:38 +0000",
-         "publishedParsed": "2025-08-05T19:17:38Z"
-     },
-     {
-         "title": "Wired Called Our AirGradient Monitor 'Not Recommended' over a Broken Display",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44810574\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.airgradient.com/blog/wired-review-of-airgradient-one-not-recommended/",
-         "links": [
-             "https://www.airgradient.com/blog/wired-review-of-airgradient-one-not-recommended/"
-         ],
-         "published": "Wed, 06 Aug 2025 11:27:27 +0000",
-         "publishedParsed": "2025-08-06T11:27:27Z"
-     },
-     {
-         "title": "UR5 with Robotiq 85 Gripper: Object Grasping and Placement Simulation",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44767197\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/leesweqq/ur5_grasp_object_pybullet",
-         "links": [
-             "https://github.com/leesweqq/ur5_grasp_object_pybullet"
-         ],
-         "published": "Sat, 02 Aug 2025 12:50:26 +0000",
-         "publishedParsed": "2025-08-02T12:50:26Z"
-     },
-     {
-         "title": "Kyber (YC W23) is hiring enterprise account executives",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44804230\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae",
-         "links": [
-             "https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae"
-         ],
-         "published": "Tue, 05 Aug 2025 21:02:21 +0000",
-         "publishedParsed": "2025-08-05T21:02:21Z"
      }
  ]
