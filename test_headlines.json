@@ -1,6 +1,6 @@
 [
      {
-         "title": "\"I closed MPEG on 2 Jun '20 when I left because obscure forces had hijacked it.\"",
+         "title": "Leonardo Chiariglione: “I closed MPEG on 2 June 2020”",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44822637\"\u003eComments\u003c/a\u003e",
          "link": "https://leonardo.chiariglione.org/",
          "links": [
@@ -8,16 +8,6 @@
          ],
          "published": "Thu, 07 Aug 2025 10:09:41 +0000",
          "publishedParsed": "2025-08-07T10:09:41Z"
-     },
-     {
-         "title": "We replaced passwords with something worse",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44819917\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.danielh.cc/blog/passwords",
-         "links": [
-             "https://blog.danielh.cc/blog/passwords"
-         ],
-         "published": "Thu, 07 Aug 2025 02:19:25 +0000",
-         "publishedParsed": "2025-08-07T02:19:25Z"
      },
      {
          "title": "New AI Coding Teammate: Gemini CLI GitHub Actions",
@@ -30,6 +20,26 @@
          "publishedParsed": "2025-08-07T09:28:46Z"
      },
      {
+         "title": "We replaced passwords with something worse",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44819917\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.danielh.cc/blog/passwords",
+         "links": [
+             "https://blog.danielh.cc/blog/passwords"
+         ],
+         "published": "Thu, 07 Aug 2025 02:19:25 +0000",
+         "publishedParsed": "2025-08-07T02:19:25Z"
+     },
+     {
+         "title": "Show HN: Stasher – Burn-after-read secrets from the CLI, no server, no trust",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44823262\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/stasher-dev/stasher-cli",
+         "links": [
+             "https://github.com/stasher-dev/stasher-cli"
+         ],
+         "published": "Thu, 07 Aug 2025 11:48:11 +0000",
+         "publishedParsed": "2025-08-07T11:48:11Z"
+     },
+     {
          "title": "Cracking the Vault: How we found zero-day flaws in HashiCorp Vault",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44821434\"\u003eComments\u003c/a\u003e",
          "link": "https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/",
@@ -38,16 +48,6 @@
          ],
          "published": "Thu, 07 Aug 2025 07:01:42 +0000",
          "publishedParsed": "2025-08-07T07:01:42Z"
-     },
-     {
-         "title": "Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44819968\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/",
-         "links": [
-             "https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/"
-         ],
-         "published": "Thu, 07 Aug 2025 02:28:47 +0000",
-         "publishedParsed": "2025-08-07T02:28:47Z"
      },
      {
          "title": "Claude Code IDE integration for Emacs",
@@ -60,24 +60,44 @@
          "publishedParsed": "2025-08-06T13:17:38Z"
      },
      {
-         "title": "About AI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44822258\"\u003eComments\u003c/a\u003e",
-         "link": "https://priver.dev/blog/ai/about-ai/",
+         "title": "How AI Conquered the US Economy: A Visual FAQ",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44822665\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a",
          "links": [
-             "https://priver.dev/blog/ai/about-ai/"
+             "https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a"
          ],
-         "published": "Thu, 07 Aug 2025 09:05:43 +0000",
-         "publishedParsed": "2025-08-07T09:05:43Z"
+         "published": "Thu, 07 Aug 2025 10:12:54 +0000",
+         "publishedParsed": "2025-08-07T10:12:54Z"
      },
      {
-         "title": "Project Hyperion: Interstellar ship design competition",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44817539\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.projecthyperion.org",
+         "title": "GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44823354\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=44823354",
          "links": [
-             "https://www.projecthyperion.org"
+             "https://news.ycombinator.com/item?id=44823354"
          ],
-         "published": "Wed, 06 Aug 2025 20:40:17 +0000",
-         "publishedParsed": "2025-08-06T20:40:17Z"
+         "published": "Thu, 07 Aug 2025 12:01:09 +0000",
+         "publishedParsed": "2025-08-07T12:01:09Z"
+     },
+     {
+         "title": "Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44819968\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/",
+         "links": [
+             "https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/"
+         ],
+         "published": "Thu, 07 Aug 2025 02:28:47 +0000",
+         "publishedParsed": "2025-08-07T02:28:47Z"
+     },
+     {
+         "title": "Children's movie leads art historian to long-lost Hungarian masterpiece (2014)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44782097\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theguardian.com/world/2014/nov/27/stuart-little-art-historian-long-lost-hungarian-masterpiece",
+         "links": [
+             "https://www.theguardian.com/world/2014/nov/27/stuart-little-art-historian-long-lost-hungarian-masterpiece"
+         ],
+         "published": "Mon, 04 Aug 2025 04:21:00 +0000",
+         "publishedParsed": "2025-08-04T04:21:00Z"
      },
      {
          "title": "Debounce",
@@ -90,64 +110,24 @@
          "publishedParsed": "2025-08-04T16:04:13Z"
      },
      {
-         "title": "Herbie detects inaccurate expressions and finds more accurate replacements",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44777419\"\u003eComments\u003c/a\u003e",
-         "link": "https://herbie.uwplse.org/",
+         "title": "Project Hyperion: Interstellar ship design competition",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44817539\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.projecthyperion.org",
          "links": [
-             "https://herbie.uwplse.org/"
+             "https://www.projecthyperion.org"
          ],
-         "published": "Sun, 03 Aug 2025 15:54:30 +0000",
-         "publishedParsed": "2025-08-03T15:54:30Z"
+         "published": "Wed, 06 Aug 2025 20:40:17 +0000",
+         "publishedParsed": "2025-08-06T20:40:17Z"
      },
      {
-         "title": "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44807868\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/KittenML/KittenTTS",
+         "title": "Show HN: Aura – Like robots.txt, but for AI actions",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44811840\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/osmandkitay/aura",
          "links": [
-             "https://github.com/KittenML/KittenTTS"
+             "https://github.com/osmandkitay/aura"
          ],
-         "published": "Wed, 06 Aug 2025 05:04:36 +0000",
-         "publishedParsed": "2025-08-06T05:04:36Z"
-     },
-     {
-         "title": "A candidate giant planet imaged in the habitable zone of α  Cen A",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44819738\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2508.03814",
-         "links": [
-             "https://arxiv.org/abs/2508.03814"
-         ],
-         "published": "Thu, 07 Aug 2025 01:42:18 +0000",
-         "publishedParsed": "2025-08-07T01:42:18Z"
-     },
-     {
-         "title": "Litestar is worth a look",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44816755\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
-         "links": [
-             "https://www.b-list.org/weblog/2025/aug/06/litestar/"
-         ],
-         "published": "Wed, 06 Aug 2025 19:43:01 +0000",
-         "publishedParsed": "2025-08-06T19:43:01Z"
-     },
-     {
-         "title": "Jules, our asynchronous coding agent",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44813854\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.google/technology/google-labs/jules-now-available/",
-         "links": [
-             "https://blog.google/technology/google-labs/jules-now-available/"
-         ],
-         "published": "Wed, 06 Aug 2025 16:05:39 +0000",
-         "publishedParsed": "2025-08-06T16:05:39Z"
-     },
-     {
-         "title": "Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44813789\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/",
-         "links": [
-             "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/"
-         ],
-         "published": "Wed, 06 Aug 2025 16:00:54 +0000",
-         "publishedParsed": "2025-08-06T16:00:54Z"
+         "published": "Wed, 06 Aug 2025 13:37:47 +0000",
+         "publishedParsed": "2025-08-06T13:37:47Z"
      },
      {
          "title": "Did Craigslist decimate newspapers? Legend meets reality",
@@ -160,6 +140,106 @@
          "publishedParsed": "2025-08-03T21:35:33Z"
      },
      {
+         "title": "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44807868\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/KittenML/KittenTTS",
+         "links": [
+             "https://github.com/KittenML/KittenTTS"
+         ],
+         "published": "Wed, 06 Aug 2025 05:04:36 +0000",
+         "publishedParsed": "2025-08-06T05:04:36Z"
+     },
+     {
+         "title": "Splatshop: Efficiently Editing Large Gaussian Splat Models",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44783372\"\u003eComments\u003c/a\u003e",
+         "link": "https://momentsingraphics.de/HPG2025.html",
+         "links": [
+             "https://momentsingraphics.de/HPG2025.html"
+         ],
+         "published": "Mon, 04 Aug 2025 08:53:44 +0000",
+         "publishedParsed": "2025-08-04T08:53:44Z"
+     },
+     {
+         "title": "A candidate giant planet imaged in the habitable zone of α  Cen A",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44819738\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2508.03814",
+         "links": [
+             "https://arxiv.org/abs/2508.03814"
+         ],
+         "published": "Thu, 07 Aug 2025 01:42:18 +0000",
+         "publishedParsed": "2025-08-07T01:42:18Z"
+     },
+     {
+         "title": "About AI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44822258\"\u003eComments\u003c/a\u003e",
+         "link": "https://priver.dev/blog/ai/about-ai/",
+         "links": [
+             "https://priver.dev/blog/ai/about-ai/"
+         ],
+         "published": "Thu, 07 Aug 2025 09:05:43 +0000",
+         "publishedParsed": "2025-08-07T09:05:43Z"
+     },
+     {
+         "title": "Litestar is worth a look",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44816755\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
+         "links": [
+             "https://www.b-list.org/weblog/2025/aug/06/litestar/"
+         ],
+         "published": "Wed, 06 Aug 2025 19:43:01 +0000",
+         "publishedParsed": "2025-08-06T19:43:01Z"
+     },
+     {
+         "title": "PastVu: Historical Photographs on Current Maps",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44789964\"\u003eComments\u003c/a\u003e",
+         "link": "https://pastvu.com/?_nojs=1",
+         "links": [
+             "https://pastvu.com/?_nojs=1"
+         ],
+         "published": "Mon, 04 Aug 2025 18:52:28 +0000",
+         "publishedParsed": "2025-08-04T18:52:28Z"
+     },
+     {
+         "title": "Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44813789\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/",
+         "links": [
+             "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/"
+         ],
+         "published": "Wed, 06 Aug 2025 16:00:54 +0000",
+         "publishedParsed": "2025-08-06T16:00:54Z"
+     },
+     {
+         "title": "Jules, our asynchronous coding agent",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44813854\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.google/technology/google-labs/jules-now-available/",
+         "links": [
+             "https://blog.google/technology/google-labs/jules-now-available/"
+         ],
+         "published": "Wed, 06 Aug 2025 16:05:39 +0000",
+         "publishedParsed": "2025-08-06T16:05:39Z"
+     },
+     {
+         "title": "The Whispering Earring (Scott Alexander)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44822684\"\u003eComments\u003c/a\u003e",
+         "link": "https://croissanthology.com/earring",
+         "links": [
+             "https://croissanthology.com/earring"
+         ],
+         "published": "Thu, 07 Aug 2025 10:16:28 +0000",
+         "publishedParsed": "2025-08-07T10:16:28Z"
+     },
+     {
+         "title": "Photographer spends years on street corner capturing same commuters daily (2017)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44823123\"\u003eComments\u003c/a\u003e",
+         "link": "https://mymodernmet.com/peter-funch-candid-photographs-commuters/",
+         "links": [
+             "https://mymodernmet.com/peter-funch-candid-photographs-commuters/"
+         ],
+         "published": "Thu, 07 Aug 2025 11:24:58 +0000",
+         "publishedParsed": "2025-08-07T11:24:58Z"
+     },
+     {
          "title": "We'd be better off with 9-bit bytes",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44816692\"\u003eComments\u003c/a\u003e",
          "link": "https://pavpanchekha.com/blog/9bit.html",
@@ -168,6 +248,16 @@
          ],
          "published": "Wed, 06 Aug 2025 19:39:20 +0000",
          "publishedParsed": "2025-08-06T19:39:20Z"
+     },
+     {
+         "title": "You know more Finnish than you think",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44790132\"\u003eComments\u003c/a\u003e",
+         "link": "https://dannybate.com/2025/08/03/you-know-more-finnish-than-you-think/",
+         "links": [
+             "https://dannybate.com/2025/08/03/you-know-more-finnish-than-you-think/"
+         ],
+         "published": "Mon, 04 Aug 2025 19:08:19 +0000",
+         "publishedParsed": "2025-08-04T19:08:19Z"
      },
      {
          "title": "A fast, growable array with stable pointers in C",
@@ -188,105 +278,5 @@
          ],
          "published": "Wed, 06 Aug 2025 20:43:08 +0000",
          "publishedParsed": "2025-08-06T20:43:08Z"
-     },
-     {
-         "title": "40 Years of the Amiga",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44821642\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.goto10retro.com/p/40-years-of-the-amiga-from-commodore",
-         "links": [
-             "https://www.goto10retro.com/p/40-years-of-the-amiga-from-commodore"
-         ],
-         "published": "Thu, 07 Aug 2025 07:36:15 +0000",
-         "publishedParsed": "2025-08-07T07:36:15Z"
-     },
-     {
-         "title": "Children's movie leads art historian to long-lost Hungarian masterpiece (2014)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44782097\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theguardian.com/world/2014/nov/27/stuart-little-art-historian-long-lost-hungarian-masterpiece",
-         "links": [
-             "https://www.theguardian.com/world/2014/nov/27/stuart-little-art-historian-long-lost-hungarian-masterpiece"
-         ],
-         "published": "Mon, 04 Aug 2025 04:21:00 +0000",
-         "publishedParsed": "2025-08-04T04:21:00Z"
-     },
-     {
-         "title": "Scientists have recreated the Universe's first molecule",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44787073\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.sciencedaily.com/releases/2025/08/250803011840.htm",
-         "links": [
-             "https://www.sciencedaily.com/releases/2025/08/250803011840.htm"
-         ],
-         "published": "Mon, 04 Aug 2025 15:20:51 +0000",
-         "publishedParsed": "2025-08-04T15:20:51Z"
-     },
-     {
-         "title": "Mac history echoes in current Mac operating systems",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44819962\"\u003eComments\u003c/a\u003e",
-         "link": "http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html",
-         "links": [
-             "http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html"
-         ],
-         "published": "Thu, 07 Aug 2025 02:27:51 +0000",
-         "publishedParsed": "2025-08-07T02:27:51Z"
-     },
-     {
-         "title": "Automerge 3.0",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44777086\"\u003eComments\u003c/a\u003e",
-         "link": "https://automerge.org/blog/automerge-3/",
-         "links": [
-             "https://automerge.org/blog/automerge-3/"
-         ],
-         "published": "Sun, 03 Aug 2025 15:08:58 +0000",
-         "publishedParsed": "2025-08-03T15:08:58Z"
-     },
-     {
-         "title": "What is the average length of a queue of cars? (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44782229\"\u003eComments\u003c/a\u003e",
-         "link": "https://e-dorigatti.github.io/math/2023/11/01/queue-length.html",
-         "links": [
-             "https://e-dorigatti.github.io/math/2023/11/01/queue-length.html"
-         ],
-         "published": "Mon, 04 Aug 2025 04:55:11 +0000",
-         "publishedParsed": "2025-08-04T04:55:11Z"
-     },
-     {
-         "title": "SQLite offline sync for Android quick start",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44788997\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/sqliteai/sqlite-sync/tree/main/examples/android-integration",
-         "links": [
-             "https://github.com/sqliteai/sqlite-sync/tree/main/examples/android-integration"
-         ],
-         "published": "Mon, 04 Aug 2025 17:34:19 +0000",
-         "publishedParsed": "2025-08-04T17:34:19Z"
-     },
-     {
-         "title": "Multics",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44814596\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.multicians.org/multics.html",
-         "links": [
-             "https://www.multicians.org/multics.html"
-         ],
-         "published": "Wed, 06 Aug 2025 16:57:55 +0000",
-         "publishedParsed": "2025-08-06T16:57:55Z"
-     },
-     {
-         "title": "Comptime.ts: compile-time expressions for TypeScript",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44778898\"\u003eComments\u003c/a\u003e",
-         "link": "https://comptime.js.org/",
-         "links": [
-             "https://comptime.js.org/"
-         ],
-         "published": "Sun, 03 Aug 2025 19:11:40 +0000",
-         "publishedParsed": "2025-08-03T19:11:40Z"
-     },
-     {
-         "title": "Breaking the sorting barrier for directed single-source shortest paths",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44812695\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/",
-         "links": [
-             "https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/"
-         ],
-         "published": "Wed, 06 Aug 2025 14:43:02 +0000",
-         "publishedParsed": "2025-08-06T14:43:02Z"
      }
  ]
