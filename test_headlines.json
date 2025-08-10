@@ -1,5 +1,15 @@
 [
      {
+         "title": "Writing Your Own Simple Tab-Completions for Bash and Zsh",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44854035\"\u003eComments\u003c/a\u003e",
+         "link": "https://mill-build.org/blog/14-bash-zsh-completion.html",
+         "links": [
+             "https://mill-build.org/blog/14-bash-zsh-completion.html"
+         ],
+         "published": "Sun, 10 Aug 2025 09:50:25 +0000",
+         "publishedParsed": "2025-08-10T09:50:25Z"
+     },
+     {
          "title": "Abogen – Generate audiobooks from EPUBs, PDFs and text",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44853064\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/denizsafak/abogen",
@@ -60,16 +70,6 @@
          "publishedParsed": "2025-08-09T14:47:38Z"
      },
      {
-         "title": "Don't “let it crash”, let it heal",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44810890\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.zachdaniel.dev/p/elixir-misconceptions-1",
-         "links": [
-             "https://www.zachdaniel.dev/p/elixir-misconceptions-1"
-         ],
-         "published": "Wed, 06 Aug 2025 12:08:22 +0000",
-         "publishedParsed": "2025-08-06T12:08:22Z"
-     },
-     {
          "title": "The importance of offtopic",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44810144\"\u003eComments\u003c/a\u003e",
          "link": "https://blog.tadzik.net/the-importance-of-offtopic.html",
@@ -90,6 +90,16 @@
          "publishedParsed": "2025-08-06T14:36:08Z"
      },
      {
+         "title": "Don't “let it crash”, let it heal",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44810890\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.zachdaniel.dev/p/elixir-misconceptions-1",
+         "links": [
+             "https://www.zachdaniel.dev/p/elixir-misconceptions-1"
+         ],
+         "published": "Wed, 06 Aug 2025 12:08:22 +0000",
+         "publishedParsed": "2025-08-06T12:08:22Z"
+     },
+     {
          "title": "OpenFreeMap survived 100k requests per second",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44846318\"\u003eComments\u003c/a\u003e",
          "link": "https://blog.hyperknot.com/p/openfreemap-survived-100000-requests",
@@ -98,6 +108,36 @@
          ],
          "published": "Sat, 09 Aug 2025 13:31:30 +0000",
          "publishedParsed": "2025-08-09T13:31:30Z"
+     },
+     {
+         "title": "P-fast trie, but smaller",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44817979\"\u003eComments\u003c/a\u003e",
+         "link": "https://dotat.at/@/2025-08-06-p-fast-trie.html",
+         "links": [
+             "https://dotat.at/@/2025-08-06-p-fast-trie.html"
+         ],
+         "published": "Wed, 06 Aug 2025 21:18:52 +0000",
+         "publishedParsed": "2025-08-06T21:18:52Z"
+     },
+     {
+         "title": "Microsoft POML – Prompt Orchestration Markup Language",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44853184\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/microsoft/poml",
+         "links": [
+             "https://github.com/microsoft/poml"
+         ],
+         "published": "Sun, 10 Aug 2025 06:26:42 +0000",
+         "publishedParsed": "2025-08-10T06:26:42Z"
+     },
+     {
+         "title": "How I use Tailscale",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44809166\"\u003eComments\u003c/a\u003e",
+         "link": "https://chameth.com/how-i-use-tailscale/",
+         "links": [
+             "https://chameth.com/how-i-use-tailscale/"
+         ],
+         "published": "Wed, 06 Aug 2025 08:09:09 +0000",
+         "publishedParsed": "2025-08-06T08:09:09Z"
      },
      {
          "title": "A CT scanner reveals surprises inside the 386 processor's ceramic package",
@@ -110,14 +150,24 @@
          "publishedParsed": "2025-08-09T17:17:07Z"
      },
      {
-         "title": "How I use Tailscale",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44809166\"\u003eComments\u003c/a\u003e",
-         "link": "https://chameth.com/how-i-use-tailscale/",
+         "title": "The Framework Desktop is a beast",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44841262\"\u003eComments\u003c/a\u003e",
+         "link": "https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff",
          "links": [
-             "https://chameth.com/how-i-use-tailscale/"
+             "https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff"
          ],
-         "published": "Wed, 06 Aug 2025 08:09:09 +0000",
-         "publishedParsed": "2025-08-06T08:09:09Z"
+         "published": "Fri, 08 Aug 2025 20:19:10 +0000",
+         "publishedParsed": "2025-08-08T20:19:10Z"
+     },
+     {
+         "title": "GTP Blind Voting: GPT-5 vs. 4o",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44842635\"\u003eComments\u003c/a\u003e",
+         "link": "https://gptblindvoting.vercel.app/",
+         "links": [
+             "https://gptblindvoting.vercel.app/"
+         ],
+         "published": "Fri, 08 Aug 2025 23:11:28 +0000",
+         "publishedParsed": "2025-08-08T23:11:28Z"
      },
      {
          "title": "Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API",
@@ -140,26 +190,6 @@
          "publishedParsed": "2025-08-09T16:17:16Z"
      },
      {
-         "title": "The Framework Desktop is a beast",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44841262\"\u003eComments\u003c/a\u003e",
-         "link": "https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff",
-         "links": [
-             "https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff"
-         ],
-         "published": "Fri, 08 Aug 2025 20:19:10 +0000",
-         "publishedParsed": "2025-08-08T20:19:10Z"
-     },
-     {
-         "title": "Debian 13 \"Trixie\"",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44848782\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.debian.org/News/2025/20250809",
-         "links": [
-             "https://www.debian.org/News/2025/20250809"
-         ],
-         "published": "Sat, 09 Aug 2025 18:18:45 +0000",
-         "publishedParsed": "2025-08-09T18:18:45Z"
-     },
-     {
          "title": "People returned to live in Pompeii's ruins, archaeologists say",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44824088\"\u003eComments\u003c/a\u003e",
          "link": "https://www.bbc.com/news/articles/c62wx23y2v1o",
@@ -170,14 +200,24 @@
          "publishedParsed": "2025-08-07T13:16:52Z"
      },
      {
-         "title": "Who got arrested in the raid on the XSS crime forum?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44810945\"\u003eComments\u003c/a\u003e",
-         "link": "https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/",
+         "title": "Melonking Website",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44852582\"\u003eComments\u003c/a\u003e",
+         "link": "https://melonking.net/",
          "links": [
-             "https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/"
+             "https://melonking.net/"
          ],
-         "published": "Wed, 06 Aug 2025 12:14:47 +0000",
-         "publishedParsed": "2025-08-06T12:14:47Z"
+         "published": "Sun, 10 Aug 2025 03:38:14 +0000",
+         "publishedParsed": "2025-08-10T03:38:14Z"
+     },
+     {
+         "title": "Debian 13 \"Trixie\"",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44848782\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.debian.org/News/2025/20250809",
+         "links": [
+             "https://www.debian.org/News/2025/20250809"
+         ],
+         "published": "Sat, 09 Aug 2025 18:18:45 +0000",
+         "publishedParsed": "2025-08-09T18:18:45Z"
      },
      {
          "title": "Quickshell – building blocks for your desktop",
@@ -200,14 +240,14 @@
          "publishedParsed": "2025-08-09T13:01:31Z"
      },
      {
-         "title": "How to interactively debug GitHub Actions with netcat",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44815480\"\u003eComments\u003c/a\u003e",
-         "link": "https://jacobtomlinson.dev/posts/2021/how-to-interactively-debug-github-actions-with-netcat/",
+         "title": "Who got arrested in the raid on the XSS crime forum?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44810945\"\u003eComments\u003c/a\u003e",
+         "link": "https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/",
          "links": [
-             "https://jacobtomlinson.dev/posts/2021/how-to-interactively-debug-github-actions-with-netcat/"
+             "https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/"
          ],
-         "published": "Wed, 06 Aug 2025 18:03:19 +0000",
-         "publishedParsed": "2025-08-06T18:03:19Z"
+         "published": "Wed, 06 Aug 2025 12:14:47 +0000",
+         "publishedParsed": "2025-08-06T12:14:47Z"
      },
      {
          "title": "R0ML's Ratio",
@@ -220,26 +260,6 @@
          "publishedParsed": "2025-08-09T12:21:31Z"
      },
      {
-         "title": "A Simple CPU on the Game of Life (2021)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44813175\"\u003eComments\u003c/a\u003e",
-         "link": "https://nicholas.carlini.com/writing/2021/unlimited-register-machine-game-of-life.html",
-         "links": [
-             "https://nicholas.carlini.com/writing/2021/unlimited-register-machine-game-of-life.html"
-         ],
-         "published": "Wed, 06 Aug 2025 15:17:22 +0000",
-         "publishedParsed": "2025-08-06T15:17:22Z"
-     },
-     {
-         "title": "Melonking Website",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44852582\"\u003eComments\u003c/a\u003e",
-         "link": "https://melonking.net/",
-         "links": [
-             "https://melonking.net/"
-         ],
-         "published": "Sun, 10 Aug 2025 03:38:14 +0000",
-         "publishedParsed": "2025-08-10T03:38:14Z"
-     },
-     {
          "title": "An engineer's perspective on hiring",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44845251\"\u003eComments\u003c/a\u003e",
          "link": "https://jyn.dev/an-engineers-perspective-on-hiring",
@@ -250,33 +270,13 @@
          "publishedParsed": "2025-08-09T09:49:11Z"
      },
      {
-         "title": "Caligra Workbench",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44810847\"\u003eComments\u003c/a\u003e",
-         "link": "https://caligra.com/workbench/",
+         "title": "A Simple CPU on the Game of Life (2021)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44813175\"\u003eComments\u003c/a\u003e",
+         "link": "https://nicholas.carlini.com/writing/2021/unlimited-register-machine-game-of-life.html",
          "links": [
-             "https://caligra.com/workbench/"
+             "https://nicholas.carlini.com/writing/2021/unlimited-register-machine-game-of-life.html"
          ],
-         "published": "Wed, 06 Aug 2025 12:02:14 +0000",
-         "publishedParsed": "2025-08-06T12:02:14Z"
-     },
-     {
-         "title": "GPTs and Feeling Left Behind",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44851214\"\u003eComments\u003c/a\u003e",
-         "link": "https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/",
-         "links": [
-             "https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/"
-         ],
-         "published": "Sat, 09 Aug 2025 23:07:58 +0000",
-         "publishedParsed": "2025-08-09T23:07:58Z"
-     },
-     {
-         "title": "Ratfactor's illustrated guide to folding fitted sheets",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44845839\"\u003eComments\u003c/a\u003e",
-         "link": "https://ratfactor.com/cards/fitted-sheets",
-         "links": [
-             "https://ratfactor.com/cards/fitted-sheets"
-         ],
-         "published": "Sat, 09 Aug 2025 11:58:52 +0000",
-         "publishedParsed": "2025-08-09T11:58:52Z"
+         "published": "Wed, 06 Aug 2025 15:17:22 +0000",
+         "publishedParsed": "2025-08-06T15:17:22Z"
      }
  ]
