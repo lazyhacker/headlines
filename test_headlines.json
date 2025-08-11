@@ -10,6 +10,26 @@
          "publishedParsed": "2025-08-11T13:59:02Z"
      },
      {
+         "title": "Why tail-recursive functions are loops",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44837949\"\u003eComments\u003c/a\u003e",
+         "link": "https://kmicinski.com/functional-programming/2025/08/01/loops/",
+         "links": [
+             "https://kmicinski.com/functional-programming/2025/08/01/loops/"
+         ],
+         "published": "Fri, 08 Aug 2025 15:10:54 +0000",
+         "publishedParsed": "2025-08-08T15:10:54Z"
+     },
+     {
+         "title": "Show HN: Play Pokémon to unlock your Wayland session",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44854686\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/AdoPi/wlgblock",
+         "links": [
+             "https://github.com/AdoPi/wlgblock"
+         ],
+         "published": "Sun, 10 Aug 2025 12:15:01 +0000",
+         "publishedParsed": "2025-08-10T12:15:01Z"
+     },
+     {
          "title": "Neki – sharded Postgres by the team behind Vitess",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44867374\"\u003eComments\u003c/a\u003e",
          "link": "https://planetscale.com/blog/announcing-neki",
@@ -30,16 +50,6 @@
          "publishedParsed": "2025-08-11T12:01:58Z"
      },
      {
-         "title": "GitHub is no longer independent at Microsoft after CEO resignation",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44865560\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition",
-         "links": [
-             "https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition"
-         ],
-         "published": "Mon, 11 Aug 2025 15:47:48 +0000",
-         "publishedParsed": "2025-08-11T15:47:48Z"
-     },
-     {
          "title": "Byte Buddy is a code generation and manipulation library for Java",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44839496\"\u003eComments\u003c/a\u003e",
          "link": "https://bytebuddy.net/",
@@ -50,14 +60,14 @@
          "publishedParsed": "2025-08-08T17:25:03Z"
      },
      {
-         "title": "Learn, Reflect, Apply, Prepare: The Four Daily Practices That Changed How I Live",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44865834\"\u003eComments\u003c/a\u003e",
-         "link": "https://opuslabs.substack.com/p/learn-reflect-apply-prepare",
+         "title": "Ollama and gguf",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44867238\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/ollama/ollama/issues/11714",
          "links": [
-             "https://opuslabs.substack.com/p/learn-reflect-apply-prepare"
+             "https://github.com/ollama/ollama/issues/11714"
          ],
-         "published": "Mon, 11 Aug 2025 16:06:04 +0000",
-         "publishedParsed": "2025-08-11T16:06:04Z"
+         "published": "Mon, 11 Aug 2025 17:54:08 +0000",
+         "publishedParsed": "2025-08-11T17:54:08Z"
      },
      {
          "title": "The Joy of Mixing Custom Elements, Web Components, and Markdown",
@@ -70,14 +80,44 @@
          "publishedParsed": "2025-08-11T16:16:56Z"
      },
      {
-         "title": "The Value of Institutional Memory",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44866500\"\u003eComments\u003c/a\u003e",
-         "link": "https://timharford.com/2025/05/the-value-of-institutional-memory/",
+         "title": "Claude Code is all you need",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44864185\"\u003eComments\u003c/a\u003e",
+         "link": "https://dwyer.co.za/static/claude-code-is-all-you-need.html",
          "links": [
-             "https://timharford.com/2025/05/the-value-of-institutional-memory/"
+             "https://dwyer.co.za/static/claude-code-is-all-you-need.html"
          ],
-         "published": "Mon, 11 Aug 2025 16:53:43 +0000",
-         "publishedParsed": "2025-08-11T16:53:43Z"
+         "published": "Mon, 11 Aug 2025 14:03:46 +0000",
+         "publishedParsed": "2025-08-11T14:03:46Z"
+     },
+     {
+         "title": "Launch HN: Halluminate (YC S25) – Simulating the internet to train computer use",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44865290\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=44865290",
+         "links": [
+             "https://news.ycombinator.com/item?id=44865290"
+         ],
+         "published": "Mon, 11 Aug 2025 15:30:49 +0000",
+         "publishedParsed": "2025-08-11T15:30:49Z"
+     },
+     {
+         "title": "GitHub is no longer independent at Microsoft after CEO resignation",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44865560\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition",
+         "links": [
+             "https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition"
+         ],
+         "published": "Mon, 11 Aug 2025 15:47:48 +0000",
+         "publishedParsed": "2025-08-11T15:47:48Z"
+     },
+     {
+         "title": "Learn, Reflect, Apply, Prepare: The Four Daily Practices That Changed How I Live",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44865834\"\u003eComments\u003c/a\u003e",
+         "link": "https://opuslabs.substack.com/p/learn-reflect-apply-prepare",
+         "links": [
+             "https://opuslabs.substack.com/p/learn-reflect-apply-prepare"
+         ],
+         "published": "Mon, 11 Aug 2025 16:06:04 +0000",
+         "publishedParsed": "2025-08-11T16:06:04Z"
      },
      {
          "title": "UI vs. API. vs. UAI",
@@ -90,24 +130,24 @@
          "publishedParsed": "2025-08-11T16:11:50Z"
      },
      {
-         "title": "How Boom uses software to accelerate hardware development",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44857643\"\u003eComments\u003c/a\u003e",
-         "link": "https://bscholl.substack.com/p/move-fast-and-dont-break-safety-critical",
+         "title": "The demographic future of humanity: facts and consequences [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44866621\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.sas.upenn.edu/~jesusfv/Slides_London.pdf",
          "links": [
-             "https://bscholl.substack.com/p/move-fast-and-dont-break-safety-critical"
+             "https://www.sas.upenn.edu/~jesusfv/Slides_London.pdf"
          ],
-         "published": "Sun, 10 Aug 2025 19:37:25 +0000",
-         "publishedParsed": "2025-08-10T19:37:25Z"
+         "published": "Mon, 11 Aug 2025 17:03:33 +0000",
+         "publishedParsed": "2025-08-11T17:03:33Z"
      },
      {
-         "title": "Claude Code is all you need",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44864185\"\u003eComments\u003c/a\u003e",
-         "link": "https://dwyer.co.za/static/claude-code-is-all-you-need.html",
+         "title": "36B solar mass black hole at centre of the Cosmic Horseshoe gravitational lens",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44864680\"\u003eComments\u003c/a\u003e",
+         "link": "https://academic.oup.com/mnras/article/541/4/2853/8213862?login=false",
          "links": [
-             "https://dwyer.co.za/static/claude-code-is-all-you-need.html"
+             "https://academic.oup.com/mnras/article/541/4/2853/8213862?login=false"
          ],
-         "published": "Mon, 11 Aug 2025 14:03:46 +0000",
-         "publishedParsed": "2025-08-11T14:03:46Z"
+         "published": "Mon, 11 Aug 2025 14:42:27 +0000",
+         "publishedParsed": "2025-08-11T14:42:27Z"
      },
      {
          "title": "Pricing Pages – A Curated Gallery of Pricing Page Designs",
@@ -130,14 +170,24 @@
          "publishedParsed": "2025-08-11T17:00:04Z"
      },
      {
-         "title": "The Chrome VRP Panel has decided to award $250k for this report",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44861106\"\u003eComments\u003c/a\u003e",
-         "link": "https://issues.chromium.org/issues/412578726",
+         "title": "How to Teach Your Kids to Play Poker: Start with One Card",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44840573\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bloomberg.com/news/articles/2025-08-08/how-to-teach-your-kids-poker-with-one-card-at-age-four",
          "links": [
-             "https://issues.chromium.org/issues/412578726"
+             "https://www.bloomberg.com/news/articles/2025-08-08/how-to-teach-your-kids-poker-with-one-card-at-age-four"
          ],
-         "published": "Mon, 11 Aug 2025 05:56:33 +0000",
-         "publishedParsed": "2025-08-11T05:56:33Z"
+         "published": "Fri, 08 Aug 2025 19:11:13 +0000",
+         "publishedParsed": "2025-08-08T19:11:13Z"
+     },
+     {
+         "title": "The Value of Institutional Memory",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44866500\"\u003eComments\u003c/a\u003e",
+         "link": "https://timharford.com/2025/05/the-value-of-institutional-memory/",
+         "links": [
+             "https://timharford.com/2025/05/the-value-of-institutional-memory/"
+         ],
+         "published": "Mon, 11 Aug 2025 16:53:43 +0000",
+         "publishedParsed": "2025-08-11T16:53:43Z"
      },
      {
          "title": "White Mountain Direttissima",
@@ -150,6 +200,26 @@
          "publishedParsed": "2025-08-08T07:44:57Z"
      },
      {
+         "title": "How Boom uses software to accelerate hardware development",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44857643\"\u003eComments\u003c/a\u003e",
+         "link": "https://bscholl.substack.com/p/move-fast-and-dont-break-safety-critical",
+         "links": [
+             "https://bscholl.substack.com/p/move-fast-and-dont-break-safety-critical"
+         ],
+         "published": "Sun, 10 Aug 2025 19:37:25 +0000",
+         "publishedParsed": "2025-08-10T19:37:25Z"
+     },
+     {
+         "title": "Designing Software in the Large",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44864467\"\u003eComments\u003c/a\u003e",
+         "link": "https://dafoster.net/articles/2025/07/22/designing-software-in-the-large/",
+         "links": [
+             "https://dafoster.net/articles/2025/07/22/designing-software-in-the-large/"
+         ],
+         "published": "Mon, 11 Aug 2025 14:25:58 +0000",
+         "publishedParsed": "2025-08-11T14:25:58Z"
+     },
+     {
          "title": "A Guide Dog for the Face-Blind",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44841354\"\u003eComments\u003c/a\u003e",
          "link": "https://asimov.blog/a-guide-dog-for-the-face-blind/",
@@ -160,24 +230,14 @@
          "publishedParsed": "2025-08-08T20:26:47Z"
      },
      {
-         "title": "Why Tail-Recursive Functions Are Loops",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44837949\"\u003eComments\u003c/a\u003e",
-         "link": "https://kmicinski.com/functional-programming/2025/08/01/loops/",
+         "title": "Faster substring search with SIMD in Zig",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44862414\"\u003eComments\u003c/a\u003e",
+         "link": "https://aarol.dev/posts/zig-simd-substr/",
          "links": [
-             "https://kmicinski.com/functional-programming/2025/08/01/loops/"
+             "https://aarol.dev/posts/zig-simd-substr/"
          ],
-         "published": "Fri, 08 Aug 2025 15:10:54 +0000",
-         "publishedParsed": "2025-08-08T15:10:54Z"
-     },
-     {
-         "title": "Launch HN: Halluminate (YC S25) – Simulating the internet to train computer use",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44865290\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=44865290",
-         "links": [
-             "https://news.ycombinator.com/item?id=44865290"
-         ],
-         "published": "Mon, 11 Aug 2025 15:30:49 +0000",
-         "publishedParsed": "2025-08-11T15:30:49Z"
+         "published": "Mon, 11 Aug 2025 09:41:13 +0000",
+         "publishedParsed": "2025-08-11T09:41:13Z"
      },
      {
          "title": "AP to end its weekly book reviews",
@@ -200,56 +260,6 @@
          "publishedParsed": "2025-08-07T20:14:09Z"
      },
      {
-         "title": "36B solar mass black hole at centre of the Cosmic Horseshoe gravitational lens",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44864680\"\u003eComments\u003c/a\u003e",
-         "link": "https://academic.oup.com/mnras/article/541/4/2853/8213862?login=false",
-         "links": [
-             "https://academic.oup.com/mnras/article/541/4/2853/8213862?login=false"
-         ],
-         "published": "Mon, 11 Aug 2025 14:42:27 +0000",
-         "publishedParsed": "2025-08-11T14:42:27Z"
-     },
-     {
-         "title": "Claude is the drug, Cursor is the dealer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44865813\"\u003eComments\u003c/a\u003e",
-         "link": "https://middlelayer.substack.com/p/i-claude-is-the-drug-cursor-is-the",
-         "links": [
-             "https://middlelayer.substack.com/p/i-claude-is-the-drug-cursor-is-the"
-         ],
-         "published": "Mon, 11 Aug 2025 16:04:34 +0000",
-         "publishedParsed": "2025-08-11T16:04:34Z"
-     },
-     {
-         "title": "Designing Software in the Large",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44864467\"\u003eComments\u003c/a\u003e",
-         "link": "https://dafoster.net/articles/2025/07/22/designing-software-in-the-large/",
-         "links": [
-             "https://dafoster.net/articles/2025/07/22/designing-software-in-the-large/"
-         ],
-         "published": "Mon, 11 Aug 2025 14:25:58 +0000",
-         "publishedParsed": "2025-08-11T14:25:58Z"
-     },
-     {
-         "title": "Faster substring search with SIMD in Zig",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44862414\"\u003eComments\u003c/a\u003e",
-         "link": "https://aarol.dev/posts/zig-simd-substr/",
-         "links": [
-             "https://aarol.dev/posts/zig-simd-substr/"
-         ],
-         "published": "Mon, 11 Aug 2025 09:41:13 +0000",
-         "publishedParsed": "2025-08-11T09:41:13Z"
-     },
-     {
-         "title": "Ollama and gguf",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44867238\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/ollama/ollama/issues/11714",
-         "links": [
-             "https://github.com/ollama/ollama/issues/11714"
-         ],
-         "published": "Mon, 11 Aug 2025 17:54:08 +0000",
-         "publishedParsed": "2025-08-11T17:54:08Z"
-     },
-     {
          "title": "Mistral Integration Improved in Llama.cpp",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44862583\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/ggml-org/llama.cpp/pull/14737",
@@ -270,23 +280,13 @@
          "publishedParsed": "2025-08-11T01:32:31Z"
      },
      {
-         "title": "Apache Iceberg V3 Spec new features for more efficient and flexible data lakes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44866677\"\u003eComments\u003c/a\u003e",
-         "link": "https://opensource.googleblog.com/2025/08/whats-new-in-iceberg-v3.html",
+         "title": "A simple pixel physics simulator in Rust using Macroquad",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44824811\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/gale93/sbixel",
          "links": [
-             "https://opensource.googleblog.com/2025/08/whats-new-in-iceberg-v3.html"
+             "https://github.com/gale93/sbixel"
          ],
-         "published": "Mon, 11 Aug 2025 17:07:34 +0000",
-         "publishedParsed": "2025-08-11T17:07:34Z"
-     },
-     {
-         "title": "Bcachefs to be removed from mainline Linux kernel",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44868868\"\u003eComments\u003c/a\u003e",
-         "link": "https://lore.kernel.org/lkml/22ib5scviwwa7bqeln22w2xm3dlywc4yuactrddhmsntixnghr@wjmmbpxjvipv/T/#u",
-         "links": [
-             "https://lore.kernel.org/lkml/22ib5scviwwa7bqeln22w2xm3dlywc4yuactrddhmsntixnghr@wjmmbpxjvipv/T/#u"
-         ],
-         "published": "Mon, 11 Aug 2025 20:09:50 +0000",
-         "publishedParsed": "2025-08-11T20:09:50Z"
+         "published": "Thu, 07 Aug 2025 14:21:39 +0000",
+         "publishedParsed": "2025-08-07T14:21:39Z"
      }
  ]
