@@ -1,5 +1,15 @@
 [
      {
+         "title": "Google paid a $250K reward for a bug",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44861106\"\u003eComments\u003c/a\u003e",
+         "link": "https://issues.chromium.org/issues/412578726",
+         "links": [
+             "https://issues.chromium.org/issues/412578726"
+         ],
+         "published": "Mon, 11 Aug 2025 05:56:33 +0000",
+         "publishedParsed": "2025-08-11T05:56:33Z"
+     },
+     {
          "title": "Vanishing from Hyundai’s data network",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44860139\"\u003eComments\u003c/a\u003e",
          "link": "http://techno-fandom.org/~hobbit/cars/ev/offnet.html",
@@ -10,14 +20,54 @@
          "publishedParsed": "2025-08-11T01:55:26Z"
      },
      {
-         "title": "Compiling a Lisp: Lambda lifting",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44858892\"\u003eComments\u003c/a\u003e",
-         "link": "https://bernsteinbear.com/blog/compiling-a-lisp-12/",
+         "title": "Basic Social Skills Guide",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44860932\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.improveyoursocialskills.com/basic-social-skills-guide",
          "links": [
-             "https://bernsteinbear.com/blog/compiling-a-lisp-12/"
+             "https://www.improveyoursocialskills.com/basic-social-skills-guide"
          ],
-         "published": "Sun, 10 Aug 2025 22:35:03 +0000",
-         "publishedParsed": "2025-08-10T22:35:03Z"
+         "published": "Mon, 11 Aug 2025 05:19:01 +0000",
+         "publishedParsed": "2025-08-11T05:19:01Z"
+     },
+     {
+         "title": "Going faster than memcpy",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44860847\"\u003eComments\u003c/a\u003e",
+         "link": "https://squadrick.dev/journal/going-faster-than-memcpy",
+         "links": [
+             "https://squadrick.dev/journal/going-faster-than-memcpy"
+         ],
+         "published": "Mon, 11 Aug 2025 04:59:03 +0000",
+         "publishedParsed": "2025-08-11T04:59:03Z"
+     },
+     {
+         "title": "Graham: Synchronizing Clocks by Leveraging Local Clock Properties (2022) [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44860832\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf",
+         "links": [
+             "https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf"
+         ],
+         "published": "Mon, 11 Aug 2025 04:54:20 +0000",
+         "publishedParsed": "2025-08-11T04:54:20Z"
+     },
+     {
+         "title": "Easily run Windows software on Linux with Bottles",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44824321\"\u003eComments\u003c/a\u003e",
+         "link": "https://usebottles.com/",
+         "links": [
+             "https://usebottles.com/"
+         ],
+         "published": "Thu, 07 Aug 2025 13:39:25 +0000",
+         "publishedParsed": "2025-08-07T13:39:25Z"
+     },
+     {
+         "title": "Generic Containers in C: Safe Division Using Maybe",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44860908\"\u003eComments\u003c/a\u003e",
+         "link": "https://uecker.codeberg.page/2025-08-10.html",
+         "links": [
+             "https://uecker.codeberg.page/2025-08-10.html"
+         ],
+         "published": "Mon, 11 Aug 2025 05:14:06 +0000",
+         "publishedParsed": "2025-08-11T05:14:06Z"
      },
      {
          "title": "Try and",
@@ -28,6 +78,16 @@
          ],
          "published": "Sun, 10 Aug 2025 13:32:13 +0000",
          "publishedParsed": "2025-08-10T13:32:13Z"
+     },
+     {
+         "title": "Compiling a Lisp: Lambda lifting",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44858892\"\u003eComments\u003c/a\u003e",
+         "link": "https://bernsteinbear.com/blog/compiling-a-lisp-12/",
+         "links": [
+             "https://bernsteinbear.com/blog/compiling-a-lisp-12/"
+         ],
+         "published": "Sun, 10 Aug 2025 22:35:03 +0000",
+         "publishedParsed": "2025-08-10T22:35:03Z"
      },
      {
          "title": "The enduring puzzle of static electricity",
@@ -50,16 +110,6 @@
          "publishedParsed": "2025-08-10T15:06:07Z"
      },
      {
-         "title": "Lists and Lists: Basics of Lisp through interactive fiction (1996)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44821848\"\u003eComments\u003c/a\u003e",
-         "link": "https://eblong.com/zarf/zweb/lists/",
-         "links": [
-             "https://eblong.com/zarf/zweb/lists/"
-         ],
-         "published": "Thu, 07 Aug 2025 08:04:04 +0000",
-         "publishedParsed": "2025-08-07T08:04:04Z"
-     },
-     {
          "title": "Show HN: Bolt – A super-fast, statically-typed scripting language written in C",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44856935\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/Beariish/bolt",
@@ -68,6 +118,16 @@
          ],
          "published": "Sun, 10 Aug 2025 17:53:09 +0000",
          "publishedParsed": "2025-08-10T17:53:09Z"
+     },
+     {
+         "title": "Lists and Lists: Basics of Lisp through interactive fiction (1996)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44821848\"\u003eComments\u003c/a\u003e",
+         "link": "https://eblong.com/zarf/zweb/lists/",
+         "links": [
+             "https://eblong.com/zarf/zweb/lists/"
+         ],
+         "published": "Thu, 07 Aug 2025 08:04:04 +0000",
+         "publishedParsed": "2025-08-07T08:04:04Z"
      },
      {
          "title": "Show HN: A Sinclair ZX81 retro web assembler+simulator",
@@ -80,6 +140,26 @@
          "publishedParsed": "2025-08-11T00:44:20Z"
      },
      {
+         "title": "One Million Screenshots",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44858067\"\u003eComments\u003c/a\u003e",
+         "link": "https://onemillionscreenshots.com/?q=random",
+         "links": [
+             "https://onemillionscreenshots.com/?q=random"
+         ],
+         "published": "Sun, 10 Aug 2025 20:30:34 +0000",
+         "publishedParsed": "2025-08-10T20:30:34Z"
+     },
+     {
+         "title": "\"McKinsey in a Box\": The End of Strategic Consulting?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44822486\"\u003eComments\u003c/a\u003e",
+         "link": "https://knowledge.insead.edu/strategy/mckinsey-box-end-strategic-consulting",
+         "links": [
+             "https://knowledge.insead.edu/strategy/mckinsey-box-end-strategic-consulting"
+         ],
+         "published": "Thu, 07 Aug 2025 09:39:42 +0000",
+         "publishedParsed": "2025-08-07T09:39:42Z"
+     },
+     {
          "title": "Show HN: Engineering.fyi – Search across tech engineering blogs in one place",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44855157\"\u003eComments\u003c/a\u003e",
          "link": "https://engineering.fyi/",
@@ -88,6 +168,16 @@
          ],
          "published": "Sun, 10 Aug 2025 13:44:05 +0000",
          "publishedParsed": "2025-08-10T13:44:05Z"
+     },
+     {
+         "title": "Bouncing on trampolines to run eBPF programs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44822076\"\u003eComments\u003c/a\u003e",
+         "link": "https://bootlin.com/blog/bouncing-on-trampolines-to-run-ebpf-programs/",
+         "links": [
+             "https://bootlin.com/blog/bouncing-on-trampolines-to-run-ebpf-programs/"
+         ],
+         "published": "Thu, 07 Aug 2025 08:37:29 +0000",
+         "publishedParsed": "2025-08-07T08:37:29Z"
      },
      {
          "title": "Creating the Longest Possible Ski Jump in “The Games: Winter Challenge”",
@@ -100,26 +190,6 @@
          "publishedParsed": "2025-08-07T14:57:34Z"
      },
      {
-         "title": "One Million Screenshots",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44858067\"\u003eComments\u003c/a\u003e",
-         "link": "https://onemillionscreenshots.com/?q=random",
-         "links": [
-             "https://onemillionscreenshots.com/?q=random"
-         ],
-         "published": "Sun, 10 Aug 2025 20:30:34 +0000",
-         "publishedParsed": "2025-08-10T20:30:34Z"
-     },
-     {
-         "title": "Digital Foundry leaves IGN, now independent [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44833448\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=tl7bIJ2yu4I",
-         "links": [
-             "https://www.youtube.com/watch?v=tl7bIJ2yu4I"
-         ],
-         "published": "Fri, 08 Aug 2025 04:34:54 +0000",
-         "publishedParsed": "2025-08-08T04:34:54Z"
-     },
-     {
          "title": "Diffusion language models are super data learners",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44856101\"\u003eComments\u003c/a\u003e",
          "link": "https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac",
@@ -128,96 +198,6 @@
          ],
          "published": "Sun, 10 Aug 2025 16:04:05 +0000",
          "publishedParsed": "2025-08-10T16:04:05Z"
-     },
-     {
-         "title": "Optimizing My Sleep Around Claude Usage Limits",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44860015\"\u003eComments\u003c/a\u003e",
-         "link": "https://mattwie.se/no-sleep-till-agi",
-         "links": [
-             "https://mattwie.se/no-sleep-till-agi"
-         ],
-         "published": "Mon, 11 Aug 2025 01:32:31 +0000",
-         "publishedParsed": "2025-08-11T01:32:31Z"
-     },
-     {
-         "title": "PHP compile time generics: yay or nay?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44823272\"\u003eComments\u003c/a\u003e",
-         "link": "https://thephp.foundation/blog/2025/08/05/compile-generics/",
-         "links": [
-             "https://thephp.foundation/blog/2025/08/05/compile-generics/"
-         ],
-         "published": "Thu, 07 Aug 2025 11:49:17 +0000",
-         "publishedParsed": "2025-08-07T11:49:17Z"
-     },
-     {
-         "title": "Easily run Windows software on Linux with Bottles",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44824321\"\u003eComments\u003c/a\u003e",
-         "link": "https://usebottles.com/",
-         "links": [
-             "https://usebottles.com/"
-         ],
-         "published": "Thu, 07 Aug 2025 13:39:25 +0000",
-         "publishedParsed": "2025-08-07T13:39:25Z"
-     },
-     {
-         "title": "Booting 5000 Erlangs on Ampere One 192-core",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44854525\"\u003eComments\u003c/a\u003e",
-         "link": "https://underjord.io/booting-5000-erlangs-on-ampere-one.html",
-         "links": [
-             "https://underjord.io/booting-5000-erlangs-on-ampere-one.html"
-         ],
-         "published": "Sun, 10 Aug 2025 11:41:34 +0000",
-         "publishedParsed": "2025-08-10T11:41:34Z"
-     },
-     {
-         "title": "Reflections on Soviet Amateur Photography",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44832060\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.publicbooks.org/strangers-in-the-family-album-reflections-on-soviet-amateur-photography/",
-         "links": [
-             "https://www.publicbooks.org/strangers-in-the-family-album-reflections-on-soviet-amateur-photography/"
-         ],
-         "published": "Fri, 08 Aug 2025 00:29:19 +0000",
-         "publishedParsed": "2025-08-08T00:29:19Z"
-     },
-     {
-         "title": "Writing simple tab-completions for Bash and Zsh",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44854035\"\u003eComments\u003c/a\u003e",
-         "link": "https://mill-build.org/blog/14-bash-zsh-completion.html",
-         "links": [
-             "https://mill-build.org/blog/14-bash-zsh-completion.html"
-         ],
-         "published": "Sun, 10 Aug 2025 09:50:25 +0000",
-         "publishedParsed": "2025-08-10T09:50:25Z"
-     },
-     {
-         "title": "Squashing my dumb bugs and why I log build IDs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44825658\"\u003eComments\u003c/a\u003e",
-         "link": "https://rachelbythebay.com/w/2025/08/03/scope/",
-         "links": [
-             "https://rachelbythebay.com/w/2025/08/03/scope/"
-         ],
-         "published": "Thu, 07 Aug 2025 15:20:52 +0000",
-         "publishedParsed": "2025-08-07T15:20:52Z"
-     },
-     {
-         "title": "How I code with AI on a budget/free",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44850913\"\u003eComments\u003c/a\u003e",
-         "link": "https://wuu73.org/blog/aiguide1.html",
-         "links": [
-             "https://wuu73.org/blog/aiguide1.html"
-         ],
-         "published": "Sat, 09 Aug 2025 22:27:37 +0000",
-         "publishedParsed": "2025-08-09T22:27:37Z"
-     },
-     {
-         "title": "Abogen – Generate audiobooks from EPUBs, PDFs and text",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44853064\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/denizsafak/abogen",
-         "links": [
-             "https://github.com/denizsafak/abogen"
-         ],
-         "published": "Sun, 10 Aug 2025 05:56:14 +0000",
-         "publishedParsed": "2025-08-10T05:56:14Z"
      },
      {
          "title": "TCP Client Self-Connect (2013)",
@@ -230,53 +210,73 @@
          "publishedParsed": "2025-08-11T00:33:09Z"
      },
      {
-         "title": "Events",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44858009\"\u003eComments\u003c/a\u003e",
-         "link": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events",
+         "title": "PHP compile time generics: yay or nay?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44823272\"\u003eComments\u003c/a\u003e",
+         "link": "https://thephp.foundation/blog/2025/08/05/compile-generics/",
          "links": [
-             "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events"
+             "https://thephp.foundation/blog/2025/08/05/compile-generics/"
          ],
-         "published": "Sun, 10 Aug 2025 20:22:24 +0000",
-         "publishedParsed": "2025-08-10T20:22:24Z"
+         "published": "Thu, 07 Aug 2025 11:49:17 +0000",
+         "publishedParsed": "2025-08-07T11:49:17Z"
      },
      {
-         "title": "Type (YC W23) is hiring a founding engineer to build an AI-native doc editor",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44856667\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer",
+         "title": "Booting 5000 Erlangs on Ampere One 192-core",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44854525\"\u003eComments\u003c/a\u003e",
+         "link": "https://underjord.io/booting-5000-erlangs-on-ampere-one.html",
          "links": [
-             "https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer"
+             "https://underjord.io/booting-5000-erlangs-on-ampere-one.html"
          ],
-         "published": "Sun, 10 Aug 2025 17:19:25 +0000",
-         "publishedParsed": "2025-08-10T17:19:25Z"
+         "published": "Sun, 10 Aug 2025 11:41:34 +0000",
+         "publishedParsed": "2025-08-10T11:41:34Z"
      },
      {
-         "title": "ECScape: Understanding IAM Privilege Boundaries in Amazon ECS",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44818501\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.sweet.security/blog/ecscape-understanding-iam-privilege-boundaries-in-amazon-ecs",
+         "title": "Digital Foundry leaves IGN, now independent [video]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44833448\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.youtube.com/watch?v=tl7bIJ2yu4I",
          "links": [
-             "https://www.sweet.security/blog/ecscape-understanding-iam-privilege-boundaries-in-amazon-ecs"
+             "https://www.youtube.com/watch?v=tl7bIJ2yu4I"
          ],
-         "published": "Wed, 06 Aug 2025 22:16:00 +0000",
-         "publishedParsed": "2025-08-06T22:16:00Z"
+         "published": "Fri, 08 Aug 2025 04:34:54 +0000",
+         "publishedParsed": "2025-08-08T04:34:54Z"
      },
      {
-         "title": "Inside OS/2 (1987)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44854989\"\u003eComments\u003c/a\u003e",
-         "link": "https://gitpi.us/article-archive/inside-os2/",
+         "title": "Writing simple tab-completions for Bash and Zsh",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44854035\"\u003eComments\u003c/a\u003e",
+         "link": "https://mill-build.org/blog/14-bash-zsh-completion.html",
          "links": [
-             "https://gitpi.us/article-archive/inside-os2/"
+             "https://mill-build.org/blog/14-bash-zsh-completion.html"
          ],
-         "published": "Sun, 10 Aug 2025 13:15:33 +0000",
-         "publishedParsed": "2025-08-10T13:15:33Z"
+         "published": "Sun, 10 Aug 2025 09:50:25 +0000",
+         "publishedParsed": "2025-08-10T09:50:25Z"
      },
      {
-         "title": "Beyond Meat is headed to Chapter 11 bankruptcy",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44860477\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.thestreet.com/restaurants/beyond-meat-is-headed-to-chapter-11-bankruptcy",
+         "title": "How I code with AI on a budget/free",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44850913\"\u003eComments\u003c/a\u003e",
+         "link": "https://wuu73.org/blog/aiguide1.html",
          "links": [
-             "https://www.thestreet.com/restaurants/beyond-meat-is-headed-to-chapter-11-bankruptcy"
+             "https://wuu73.org/blog/aiguide1.html"
          ],
-         "published": "Mon, 11 Aug 2025 03:12:19 +0000",
-         "publishedParsed": "2025-08-11T03:12:19Z"
+         "published": "Sat, 09 Aug 2025 22:27:37 +0000",
+         "publishedParsed": "2025-08-09T22:27:37Z"
+     },
+     {
+         "title": "Reflections on Soviet Amateur Photography",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44832060\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.publicbooks.org/strangers-in-the-family-album-reflections-on-soviet-amateur-photography/",
+         "links": [
+             "https://www.publicbooks.org/strangers-in-the-family-album-reflections-on-soviet-amateur-photography/"
+         ],
+         "published": "Fri, 08 Aug 2025 00:29:19 +0000",
+         "publishedParsed": "2025-08-08T00:29:19Z"
+     },
+     {
+         "title": "Abogen – Generate audiobooks from EPUBs, PDFs and text",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44853064\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/denizsafak/abogen",
+         "links": [
+             "https://github.com/denizsafak/abogen"
+         ],
+         "published": "Sun, 10 Aug 2025 05:56:14 +0000",
+         "publishedParsed": "2025-08-10T05:56:14Z"
      }
  ]
