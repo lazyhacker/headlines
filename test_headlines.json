@@ -2,12 +2,22 @@
      {
          "title": "PYX: The next step in Python packaging",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44892209\"\u003eComments\u003c/a\u003e",
-         "link": "https://astral.sh/pyx",
+         "link": "https://astral.sh/blog/introducing-pyx",
          "links": [
-             "https://astral.sh/pyx"
+             "https://astral.sh/blog/introducing-pyx"
          ],
          "published": "Wed, 13 Aug 2025 18:42:49 +0000",
          "publishedParsed": "2025-08-13T18:42:49Z"
+     },
+     {
+         "title": "Show HN: Yet Another Memory System for LLM's",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44896489\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/trvon/yams",
+         "links": [
+             "https://github.com/trvon/yams"
+         ],
+         "published": "Thu, 14 Aug 2025 03:34:11 +0000",
+         "publishedParsed": "2025-08-14T03:34:11Z"
      },
      {
          "title": "Nginx introduces native support for ACME protocol",
@@ -20,16 +30,6 @@
          "publishedParsed": "2025-08-13T15:41:55Z"
      },
      {
-         "title": "NIST Finalizes 'Lightweight Cryptography' Standard to Protect Small Devices",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44893600\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices",
-         "links": [
-             "https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices"
-         ],
-         "published": "Wed, 13 Aug 2025 20:43:46 +0000",
-         "publishedParsed": "2025-08-13T20:43:46Z"
-     },
-     {
          "title": "FFmpeg 8.0 adds Whisper support",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44886647\"\u003eComments\u003c/a\u003e",
          "link": "https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b",
@@ -40,34 +40,14 @@
          "publishedParsed": "2025-08-13T10:19:35Z"
      },
      {
-         "title": "OCaml as my primary language",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44891759\"\u003eComments\u003c/a\u003e",
-         "link": "https://xvw.lol/en/articles/why-ocaml.html",
+         "title": "Zenobia Pay – A mission to build an alternative to high-fee card networks",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44896085\"\u003eComments\u003c/a\u003e",
+         "link": "https://zenobiapay.com/blog/open-source-payments",
          "links": [
-             "https://xvw.lol/en/articles/why-ocaml.html"
+             "https://zenobiapay.com/blog/open-source-payments"
          ],
-         "published": "Wed, 13 Aug 2025 18:05:05 +0000",
-         "publishedParsed": "2025-08-13T18:05:05Z"
-     },
-     {
-         "title": "VC-backed company just killed my EU trademark for a small OSS project",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44883634\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=44883634",
-         "links": [
-             "https://news.ycombinator.com/item?id=44883634"
-         ],
-         "published": "Wed, 13 Aug 2025 01:14:36 +0000",
-         "publishedParsed": "2025-08-13T01:14:36Z"
-     },
-     {
-         "title": "Show HN: Real-time privacy protection for smart glasses",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44868563\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/PrivacyIsAllYouNeed/protector",
-         "links": [
-             "https://github.com/PrivacyIsAllYouNeed/protector"
-         ],
-         "published": "Mon, 11 Aug 2025 19:40:47 +0000",
-         "publishedParsed": "2025-08-11T19:40:47Z"
+         "published": "Thu, 14 Aug 2025 02:19:37 +0000",
+         "publishedParsed": "2025-08-14T02:19:37Z"
      },
      {
          "title": "ForgeFed: ActivityPub-based forge federation protocol",
@@ -80,6 +60,46 @@
          "publishedParsed": "2025-08-12T07:19:13Z"
      },
      {
+         "title": "NIST Finalizes 'Lightweight Cryptography' Standard to Protect Small Devices",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44893600\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices",
+         "links": [
+             "https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices"
+         ],
+         "published": "Wed, 13 Aug 2025 20:43:46 +0000",
+         "publishedParsed": "2025-08-13T20:43:46Z"
+     },
+     {
+         "title": "OCaml as my primary language",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44891759\"\u003eComments\u003c/a\u003e",
+         "link": "https://xvw.lol/en/articles/why-ocaml.html",
+         "links": [
+             "https://xvw.lol/en/articles/why-ocaml.html"
+         ],
+         "published": "Wed, 13 Aug 2025 18:05:05 +0000",
+         "publishedParsed": "2025-08-13T18:05:05Z"
+     },
+     {
+         "title": "Nyxt: The Emacs-like web browser",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44860080\"\u003eComments\u003c/a\u003e",
+         "link": "https://lwn.net/Articles/1001773/",
+         "links": [
+             "https://lwn.net/Articles/1001773/"
+         ],
+         "published": "Mon, 11 Aug 2025 01:46:22 +0000",
+         "publishedParsed": "2025-08-11T01:46:22Z"
+     },
+     {
+         "title": "Show HN: Real-time privacy protection for smart glasses",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44868563\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/PrivacyIsAllYouNeed/protector",
+         "links": [
+             "https://github.com/PrivacyIsAllYouNeed/protector"
+         ],
+         "published": "Mon, 11 Aug 2025 19:40:47 +0000",
+         "publishedParsed": "2025-08-11T19:40:47Z"
+     },
+     {
          "title": "Kodak says it might have to cease operations",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44875270\"\u003eComments\u003c/a\u003e",
          "link": "https://www.cnn.com/2025/08/12/business/kodak-survival-warning",
@@ -90,54 +110,14 @@
          "publishedParsed": "2025-08-12T12:15:13Z"
      },
      {
-         "title": "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44891090\"\u003eComments\u003c/a\u003e",
-         "link": "https://video.golpoai.com/",
+         "title": "Open Banking and Payments Competition",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44895222\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bitsaboutmoney.com/archive/open-banking-and-payments-competition/",
          "links": [
-             "https://video.golpoai.com/"
+             "https://www.bitsaboutmoney.com/archive/open-banking-and-payments-competition/"
          ],
-         "published": "Wed, 13 Aug 2025 17:11:35 +0000",
-         "publishedParsed": "2025-08-13T17:11:35Z"
-     },
-     {
-         "title": "Print, a one-line BASIC program",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44881109\"\u003eComments\u003c/a\u003e",
-         "link": "https://10print.org",
-         "links": [
-             "https://10print.org"
-         ],
-         "published": "Tue, 12 Aug 2025 19:53:17 +0000",
-         "publishedParsed": "2025-08-12T19:53:17Z"
-     },
-     {
-         "title": "PCIe 8.0 announced by the PCI-Sig will double throughput again",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44851019\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.servethehome.com/pcie-8-0-announced-by-the-pci-sig-will-double-throughput-again/",
-         "links": [
-             "https://www.servethehome.com/pcie-8-0-announced-by-the-pci-sig-will-double-throughput-again/"
-         ],
-         "published": "Sat, 09 Aug 2025 22:41:36 +0000",
-         "publishedParsed": "2025-08-09T22:41:36Z"
-     },
-     {
-         "title": "So what's the difference between plotted and printed artwork?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44887965\"\u003eComments\u003c/a\u003e",
-         "link": "https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork",
-         "links": [
-             "https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork"
-         ],
-         "published": "Wed, 13 Aug 2025 13:06:29 +0000",
-         "publishedParsed": "2025-08-13T13:06:29Z"
-     },
-     {
-         "title": "Pebble Time 2 Design Reveal [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44887853\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=pcPzmDePH3E",
-         "links": [
-             "https://www.youtube.com/watch?v=pcPzmDePH3E"
-         ],
-         "published": "Wed, 13 Aug 2025 12:54:45 +0000",
-         "publishedParsed": "2025-08-13T12:54:45Z"
+         "published": "Wed, 13 Aug 2025 23:44:18 +0000",
+         "publishedParsed": "2025-08-13T23:44:18Z"
      },
      {
          "title": "What Medieval People Got Right About Learning (2019)",
@@ -150,24 +130,54 @@
          "publishedParsed": "2025-08-14T00:29:46Z"
      },
      {
-         "title": "Rerank-2.5 and rerank-2.5-lite: instruction-following rerankers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44872984\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.voyageai.com/2025/08/11/rerank-2-5/",
+         "title": "My AI-Driven Identity Crisis",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44896539\"\u003eComments\u003c/a\u003e",
+         "link": "https://dusty.phillips.codes/2025/06/08/my-ai-driven-identity-crisis/",
          "links": [
-             "https://blog.voyageai.com/2025/08/11/rerank-2-5/"
+             "https://dusty.phillips.codes/2025/06/08/my-ai-driven-identity-crisis/"
          ],
-         "published": "Tue, 12 Aug 2025 06:12:32 +0000",
-         "publishedParsed": "2025-08-12T06:12:32Z"
+         "published": "Thu, 14 Aug 2025 03:44:55 +0000",
+         "publishedParsed": "2025-08-14T03:44:55Z"
      },
      {
-         "title": "Why top and free in containers don't show the correct container memory (2018)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44871093\"\u003eComments\u003c/a\u003e",
-         "link": "https://ops.tips/blog/why-top-inside-container-wrong-memory/",
+         "title": "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44891090\"\u003eComments\u003c/a\u003e",
+         "link": "https://video.golpoai.com/",
          "links": [
-             "https://ops.tips/blog/why-top-inside-container-wrong-memory/"
+             "https://video.golpoai.com/"
          ],
-         "published": "Tue, 12 Aug 2025 00:42:04 +0000",
-         "publishedParsed": "2025-08-12T00:42:04Z"
+         "published": "Wed, 13 Aug 2025 17:11:35 +0000",
+         "publishedParsed": "2025-08-13T17:11:35Z"
+     },
+     {
+         "title": "PCIe 8.0 announced by the PCI-Sig will double throughput again",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44851019\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.servethehome.com/pcie-8-0-announced-by-the-pci-sig-will-double-throughput-again/",
+         "links": [
+             "https://www.servethehome.com/pcie-8-0-announced-by-the-pci-sig-will-double-throughput-again/"
+         ],
+         "published": "Sat, 09 Aug 2025 22:41:36 +0000",
+         "publishedParsed": "2025-08-09T22:41:36Z"
+     },
+     {
+         "title": "Print, a one-line BASIC program",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44881109\"\u003eComments\u003c/a\u003e",
+         "link": "https://10print.org",
+         "links": [
+             "https://10print.org"
+         ],
+         "published": "Tue, 12 Aug 2025 19:53:17 +0000",
+         "publishedParsed": "2025-08-12T19:53:17Z"
+     },
+     {
+         "title": "So what's the difference between plotted and printed artwork?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44887965\"\u003eComments\u003c/a\u003e",
+         "link": "https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork",
+         "links": [
+             "https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork"
+         ],
+         "published": "Wed, 13 Aug 2025 13:06:29 +0000",
+         "publishedParsed": "2025-08-13T13:06:29Z"
      },
      {
          "title": "Index 1.6B Keys with Automata and Rust (2015)",
@@ -180,14 +190,24 @@
          "publishedParsed": "2025-08-10T11:35:10Z"
      },
      {
-         "title": "Fighting with YouTube to show a preview image",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44865908\"\u003eComments\u003c/a\u003e",
-         "link": "https://shaneosullivan.wordpress.com/2025/08/11/fighting-with-youtube-to-show-a-preview-image/",
+         "title": "VC-backed company just killed my EU trademark for a small OSS project",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44883634\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=44883634",
          "links": [
-             "https://shaneosullivan.wordpress.com/2025/08/11/fighting-with-youtube-to-show-a-preview-image/"
+             "https://news.ycombinator.com/item?id=44883634"
          ],
-         "published": "Mon, 11 Aug 2025 16:11:16 +0000",
-         "publishedParsed": "2025-08-11T16:11:16Z"
+         "published": "Wed, 13 Aug 2025 01:14:36 +0000",
+         "publishedParsed": "2025-08-13T01:14:36Z"
+     },
+     {
+         "title": "Pebble Time 2 Design Reveal [video]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44887853\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.youtube.com/watch?v=pcPzmDePH3E",
+         "links": [
+             "https://www.youtube.com/watch?v=pcPzmDePH3E"
+         ],
+         "published": "Wed, 13 Aug 2025 12:54:45 +0000",
+         "publishedParsed": "2025-08-13T12:54:45Z"
      },
      {
          "title": "Igor Babuschkin, a co-founder of xAI, has announced his departure",
@@ -200,14 +220,24 @@
          "publishedParsed": "2025-08-13T23:51:33Z"
      },
      {
-         "title": "ReadMe (YC W15) Is Hiring a Developer Experience PM",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44890956\"\u003eComments\u003c/a\u003e",
-         "link": "https://readme.com/careers#product-manager-developer-experience",
+         "title": "Study: Social media probably can't be fixed",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44889715\"\u003eComments\u003c/a\u003e",
+         "link": "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/",
          "links": [
-             "https://readme.com/careers#product-manager-developer-experience"
+             "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/"
          ],
-         "published": "Wed, 13 Aug 2025 17:00:37 +0000",
-         "publishedParsed": "2025-08-13T17:00:37Z"
+         "published": "Wed, 13 Aug 2025 15:26:28 +0000",
+         "publishedParsed": "2025-08-13T15:26:28Z"
+     },
+     {
+         "title": "Rerank-2.5 and rerank-2.5-lite: instruction-following rerankers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44872984\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.voyageai.com/2025/08/11/rerank-2-5/",
+         "links": [
+             "https://blog.voyageai.com/2025/08/11/rerank-2-5/"
+         ],
+         "published": "Tue, 12 Aug 2025 06:12:32 +0000",
+         "publishedParsed": "2025-08-12T06:12:32Z"
      },
      {
          "title": "Cross-Site Request Forgery",
@@ -220,33 +250,23 @@
          "publishedParsed": "2025-08-13T17:31:08Z"
      },
      {
-         "title": "This website is for humans",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44889627\"\u003eComments\u003c/a\u003e",
-         "link": "https://localghost.dev/blog/this-website-is-for-humans/",
+         "title": "Fighting with YouTube to show a preview image",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44865908\"\u003eComments\u003c/a\u003e",
+         "link": "https://shaneosullivan.wordpress.com/2025/08/11/fighting-with-youtube-to-show-a-preview-image/",
          "links": [
-             "https://localghost.dev/blog/this-website-is-for-humans/"
+             "https://shaneosullivan.wordpress.com/2025/08/11/fighting-with-youtube-to-show-a-preview-image/"
          ],
-         "published": "Wed, 13 Aug 2025 15:19:53 +0000",
-         "publishedParsed": "2025-08-13T15:19:53Z"
+         "published": "Mon, 11 Aug 2025 16:11:16 +0000",
+         "publishedParsed": "2025-08-11T16:11:16Z"
      },
      {
-         "title": "Coalton Playground: Type-Safe Lisp in the Browser",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44889359\"\u003eComments\u003c/a\u003e",
-         "link": "https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/",
+         "title": "ReadMe (YC W15) Is Hiring a Developer Experience PM",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44890956\"\u003eComments\u003c/a\u003e",
+         "link": "https://readme.com/careers#product-manager-developer-experience",
          "links": [
-             "https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/"
+             "https://readme.com/careers#product-manager-developer-experience"
          ],
-         "published": "Wed, 13 Aug 2025 15:00:33 +0000",
-         "publishedParsed": "2025-08-13T15:00:33Z"
-     },
-     {
-         "title": "Angle brackets in a Nix flake world",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44859849\"\u003eComments\u003c/a\u003e",
-         "link": "https://fzakaria.com/2025/08/10/angle-brackets-in-a-nix-flake-world",
-         "links": [
-             "https://fzakaria.com/2025/08/10/angle-brackets-in-a-nix-flake-world"
-         ],
-         "published": "Mon, 11 Aug 2025 01:06:25 +0000",
-         "publishedParsed": "2025-08-11T01:06:25Z"
+         "published": "Wed, 13 Aug 2025 17:00:37 +0000",
+         "publishedParsed": "2025-08-13T17:00:37Z"
      }
  ]
