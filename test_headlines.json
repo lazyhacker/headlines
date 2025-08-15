@@ -10,16 +10,6 @@
          "publishedParsed": "2025-08-15T17:34:54Z"
      },
      {
-         "title": "Claude Opus 4 and 4.1 can now end a rare subset of conversations",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44916813\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.anthropic.com/research/end-subset-conversations",
-         "links": [
-             "https://www.anthropic.com/research/end-subset-conversations"
-         ],
-         "published": "Fri, 15 Aug 2025 20:12:13 +0000",
-         "publishedParsed": "2025-08-15T20:12:13Z"
-     },
-     {
          "title": "Occult books digitized and put online by Amsterdam’s Ritman Library",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44914061\"\u003eComments\u003c/a\u003e",
          "link": "https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html",
@@ -30,24 +20,34 @@
          "publishedParsed": "2025-08-15T16:03:36Z"
      },
      {
-         "title": "OpenBSD is so fast, I had to modify the program slightly to measure itself",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44915824\"\u003eComments\u003c/a\u003e",
-         "link": "https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux",
+         "title": "The Future of Large Files in Git Is Git",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44916783\"\u003eComments\u003c/a\u003e",
+         "link": "https://tylercipriani.com/blog/2025/08/15/git-lfs/",
          "links": [
-             "https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux"
+             "https://tylercipriani.com/blog/2025/08/15/git-lfs/"
          ],
-         "published": "Fri, 15 Aug 2025 18:25:02 +0000",
-         "publishedParsed": "2025-08-15T18:25:02Z"
+         "published": "Fri, 15 Aug 2025 20:07:06 +0000",
+         "publishedParsed": "2025-08-15T20:07:06Z"
      },
      {
-         "title": "Launch HN: Embedder (YC S25) – Claude code for embedded software",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44915206\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=44915206",
+         "title": "I accidentally became PureGym’s unofficial Apple Wallet developer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44910865\"\u003eComments\u003c/a\u003e",
+         "link": "https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/",
          "links": [
-             "https://news.ycombinator.com/item?id=44915206"
+             "https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/"
          ],
-         "published": "Fri, 15 Aug 2025 17:38:05 +0000",
-         "publishedParsed": "2025-08-15T17:38:05Z"
+         "published": "Fri, 15 Aug 2025 11:06:27 +0000",
+         "publishedParsed": "2025-08-15T11:06:27Z"
+     },
+     {
+         "title": "TextKit 2 – The Promised Land",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44917450\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/",
+         "links": [
+             "https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/"
+         ],
+         "published": "Fri, 15 Aug 2025 21:26:53 +0000",
+         "publishedParsed": "2025-08-15T21:26:53Z"
      },
      {
          "title": "Do Things That Don't Scale (2013)",
@@ -60,14 +60,44 @@
          "publishedParsed": "2025-08-15T15:07:04Z"
      },
      {
-         "title": "Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44872584\"\u003eComments\u003c/a\u003e",
-         "link": "https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/",
+         "title": "Launch HN: Embedder (YC S25) – Claude code for embedded software",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44915206\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=44915206",
          "links": [
-             "https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/"
+             "https://news.ycombinator.com/item?id=44915206"
          ],
-         "published": "Tue, 12 Aug 2025 05:04:21 +0000",
-         "publishedParsed": "2025-08-12T05:04:21Z"
+         "published": "Fri, 15 Aug 2025 17:38:05 +0000",
+         "publishedParsed": "2025-08-15T17:38:05Z"
+     },
+     {
+         "title": "Claude Opus 4 and 4.1 can now end a rare subset of conversations",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44916813\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.anthropic.com/research/end-subset-conversations",
+         "links": [
+             "https://www.anthropic.com/research/end-subset-conversations"
+         ],
+         "published": "Fri, 15 Aug 2025 20:12:13 +0000",
+         "publishedParsed": "2025-08-15T20:12:13Z"
+     },
+     {
+         "title": "OpenBSD is so fast, I had to modify the program slightly to measure itself",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44915824\"\u003eComments\u003c/a\u003e",
+         "link": "https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux",
+         "links": [
+             "https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux"
+         ],
+         "published": "Fri, 15 Aug 2025 18:25:02 +0000",
+         "publishedParsed": "2025-08-15T18:25:02Z"
+     },
+     {
+         "title": "A mind–reading brain implant that comes with password protection",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44907358\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nature.com/articles/d41586-025-02589-5",
+         "links": [
+             "https://www.nature.com/articles/d41586-025-02589-5"
+         ],
+         "published": "Fri, 15 Aug 2025 00:32:21 +0000",
+         "publishedParsed": "2025-08-15T00:32:21Z"
      },
      {
          "title": "Bullfrog in the Dungeon",
@@ -78,66 +108,6 @@
          ],
          "published": "Fri, 15 Aug 2025 16:10:18 +0000",
          "publishedParsed": "2025-08-15T16:10:18Z"
-     },
-     {
-         "title": "I let LLMs write an Elixir NIF in C; it mostly worked",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44914040\"\u003eComments\u003c/a\u003e",
-         "link": "https://overbring.com/blog/2025-08-13-writing-an-elixir-nif-with-genai/",
-         "links": [
-             "https://overbring.com/blog/2025-08-13-writing-an-elixir-nif-with-genai/"
-         ],
-         "published": "Fri, 15 Aug 2025 16:02:25 +0000",
-         "publishedParsed": "2025-08-15T16:02:25Z"
-     },
-     {
-         "title": "ARM adds neural accelerators to GPUs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44876346\"\u003eComments\u003c/a\u003e",
-         "link": "https://newsroom.arm.com/news/arm-announces-arm-neural-technology",
-         "links": [
-             "https://newsroom.arm.com/news/arm-announces-arm-neural-technology"
-         ],
-         "published": "Tue, 12 Aug 2025 14:03:47 +0000",
-         "publishedParsed": "2025-08-12T14:03:47Z"
-     },
-     {
-         "title": "Show HN: JMAP MCP – Email for your agents",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44915220\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/wyattjoh/jmap-mcp",
-         "links": [
-             "https://github.com/wyattjoh/jmap-mcp"
-         ],
-         "published": "Fri, 15 Aug 2025 17:39:02 +0000",
-         "publishedParsed": "2025-08-15T17:39:02Z"
-     },
-     {
-         "title": "Imagen 4 is now generally available",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44915187\"\u003eComments\u003c/a\u003e",
-         "link": "https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/",
-         "links": [
-             "https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/"
-         ],
-         "published": "Fri, 15 Aug 2025 17:36:15 +0000",
-         "publishedParsed": "2025-08-15T17:36:15Z"
-     },
-     {
-         "title": "In-depth analysis on Valorant's Guarded Regions",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44882754\"\u003eComments\u003c/a\u003e",
-         "link": "https://reversing.info/posts/guardedregions/",
-         "links": [
-             "https://reversing.info/posts/guardedregions/"
-         ],
-         "published": "Tue, 12 Aug 2025 23:00:46 +0000",
-         "publishedParsed": "2025-08-12T23:00:46Z"
-     },
-     {
-         "title": "EasyPost (YC S13) Is Hiring",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44914771\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.easypost.com/careers",
-         "links": [
-             "https://www.easypost.com/careers"
-         ],
-         "published": "Fri, 15 Aug 2025 17:01:23 +0000",
-         "publishedParsed": "2025-08-15T17:01:23Z"
      },
      {
          "title": "ADHD drug treatment and risk of negative events and outcomes",
@@ -160,14 +130,44 @@
          "publishedParsed": "2025-08-13T13:59:23Z"
      },
      {
-         "title": "Vaultwarden commit introduces SSO using OpenID Connect",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44911560\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/dani-garcia/vaultwarden/pull/3899",
+         "title": "Model intelligence is no longer the constraint for automation",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44913081\"\u003eComments\u003c/a\u003e",
+         "link": "https://latentintent.substack.com/p/model-intelligence-is-no-longer-the",
          "links": [
-             "https://github.com/dani-garcia/vaultwarden/pull/3899"
+             "https://latentintent.substack.com/p/model-intelligence-is-no-longer-the"
          ],
-         "published": "Fri, 15 Aug 2025 12:31:54 +0000",
-         "publishedParsed": "2025-08-15T12:31:54Z"
+         "published": "Fri, 15 Aug 2025 14:44:49 +0000",
+         "publishedParsed": "2025-08-15T14:44:49Z"
+     },
+     {
+         "title": "Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44872584\"\u003eComments\u003c/a\u003e",
+         "link": "https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/",
+         "links": [
+             "https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/"
+         ],
+         "published": "Tue, 12 Aug 2025 05:04:21 +0000",
+         "publishedParsed": "2025-08-12T05:04:21Z"
+     },
+     {
+         "title": "ARM adds neural accelerators to GPUs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44876346\"\u003eComments\u003c/a\u003e",
+         "link": "https://newsroom.arm.com/news/arm-announces-arm-neural-technology",
+         "links": [
+             "https://newsroom.arm.com/news/arm-announces-arm-neural-technology"
+         ],
+         "published": "Tue, 12 Aug 2025 14:03:47 +0000",
+         "publishedParsed": "2025-08-12T14:03:47Z"
+     },
+     {
+         "title": "EasyPost (YC S13) Is Hiring",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44914771\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.easypost.com/careers",
+         "links": [
+             "https://www.easypost.com/careers"
+         ],
+         "published": "Fri, 15 Aug 2025 17:01:23 +0000",
+         "publishedParsed": "2025-08-15T17:01:23Z"
      },
      {
          "title": "Open hardware desktop 3D printing is dead?",
@@ -180,84 +180,64 @@
          "publishedParsed": "2025-08-15T12:14:46Z"
      },
      {
-         "title": "Dexter Cows and Kefir Cheese",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44878887\"\u003eComments\u003c/a\u003e",
-         "link": "https://smallfarmersjournal.com/dexter-cows-and-kefir-cheese/",
+         "title": "Porting Gigabyte MZ33-AR1 Server Board with AMD Turin CPU to Coreboot",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44916900\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.3mdeb.com/2025/2025-08-07-gigabyte_mz33_ar1_part1/",
          "links": [
-             "https://smallfarmersjournal.com/dexter-cows-and-kefir-cheese/"
+             "https://blog.3mdeb.com/2025/2025-08-07-gigabyte_mz33_ar1_part1/"
          ],
-         "published": "Tue, 12 Aug 2025 16:51:42 +0000",
-         "publishedParsed": "2025-08-12T16:51:42Z"
+         "published": "Fri, 15 Aug 2025 20:21:27 +0000",
+         "publishedParsed": "2025-08-15T20:21:27Z"
      },
      {
-         "title": "Entities enabling scientific fraud at scale are large, and growing rapidly",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44916233\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.pnas.org/doi/10.1073/pnas.2420092122",
+         "title": "Vaultwarden commit introduces SSO using OpenID Connect",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44911560\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/dani-garcia/vaultwarden/pull/3899",
          "links": [
-             "https://www.pnas.org/doi/10.1073/pnas.2420092122"
+             "https://github.com/dani-garcia/vaultwarden/pull/3899"
          ],
-         "published": "Fri, 15 Aug 2025 19:01:36 +0000",
-         "publishedParsed": "2025-08-15T19:01:36Z"
+         "published": "Fri, 15 Aug 2025 12:31:54 +0000",
+         "publishedParsed": "2025-08-15T12:31:54Z"
      },
      {
-         "title": "The Timmy Trap",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44912646\"\u003eComments\u003c/a\u003e",
-         "link": "https://jenson.org/timmy/",
+         "title": "I let LLMs write an Elixir NIF in C; it mostly worked",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44914040\"\u003eComments\u003c/a\u003e",
+         "link": "https://overbring.com/blog/2025-08-13-writing-an-elixir-nif-with-genai/",
          "links": [
-             "https://jenson.org/timmy/"
+             "https://overbring.com/blog/2025-08-13-writing-an-elixir-nif-with-genai/"
          ],
-         "published": "Fri, 15 Aug 2025 14:10:45 +0000",
-         "publishedParsed": "2025-08-15T14:10:45Z"
+         "published": "Fri, 15 Aug 2025 16:02:25 +0000",
+         "publishedParsed": "2025-08-15T16:02:25Z"
      },
      {
-         "title": "The Folk Economics of Housing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44914153\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.aeaweb.org/articles?id=10.1257/jep.20241428",
+         "title": "Show HN: JMAP MCP – Email for your agents",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44915220\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/wyattjoh/jmap-mcp",
          "links": [
-             "https://www.aeaweb.org/articles?id=10.1257/jep.20241428"
+             "https://github.com/wyattjoh/jmap-mcp"
          ],
-         "published": "Fri, 15 Aug 2025 16:10:41 +0000",
-         "publishedParsed": "2025-08-15T16:10:41Z"
+         "published": "Fri, 15 Aug 2025 17:39:02 +0000",
+         "publishedParsed": "2025-08-15T17:39:02Z"
      },
      {
-         "title": "The beauty of a text only webpage",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44913340\"\u003eComments\u003c/a\u003e",
-         "link": "https://albanbrooke.com/the-beauty-of-a-text-only-webpage/",
+         "title": "Is air travel getting worse?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44911941\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.maximum-progress.com/p/is-air-travel-getting-worse",
          "links": [
-             "https://albanbrooke.com/the-beauty-of-a-text-only-webpage/"
+             "https://www.maximum-progress.com/p/is-air-travel-getting-worse"
          ],
-         "published": "Fri, 15 Aug 2025 15:05:02 +0000",
-         "publishedParsed": "2025-08-15T15:05:02Z"
+         "published": "Fri, 15 Aug 2025 13:06:33 +0000",
+         "publishedParsed": "2025-08-15T13:06:33Z"
      },
      {
-         "title": "An interactive guide to sensor fusion with quaternions",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44912727\"\u003eComments\u003c/a\u003e",
-         "link": "https://quaternion.cafe/",
+         "title": "Imagen 4 is now generally available",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44915187\"\u003eComments\u003c/a\u003e",
+         "link": "https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/",
          "links": [
-             "https://quaternion.cafe/"
+             "https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/"
          ],
-         "published": "Fri, 15 Aug 2025 14:17:07 +0000",
-         "publishedParsed": "2025-08-15T14:17:07Z"
-     },
-     {
-         "title": "It seems like the AI crawlers learned how to solve the Anubis challenges",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44914773\"\u003eComments\u003c/a\u003e",
-         "link": "https://social.anoxinon.de/@Codeberg/115033790447125787",
-         "links": [
-             "https://social.anoxinon.de/@Codeberg/115033790447125787"
-         ],
-         "published": "Fri, 15 Aug 2025 17:01:40 +0000",
-         "publishedParsed": "2025-08-15T17:01:40Z"
-     },
-     {
-         "title": "Using AI to secure AI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44913682\"\u003eComments\u003c/a\u003e",
-         "link": "https://mattsayar.com/letting-inmates-run-the-asylum-using-ai-to-secure-ai/",
-         "links": [
-             "https://mattsayar.com/letting-inmates-run-the-asylum-using-ai-to-secure-ai/"
-         ],
-         "published": "Fri, 15 Aug 2025 15:36:06 +0000",
-         "publishedParsed": "2025-08-15T15:36:06Z"
+         "published": "Fri, 15 Aug 2025 17:36:15 +0000",
+         "publishedParsed": "2025-08-15T17:36:15Z"
      },
      {
          "title": "When the CIA got away with building a heart attack gun",
@@ -270,24 +250,14 @@
          "publishedParsed": "2025-08-15T12:13:39Z"
      },
      {
-         "title": "Non-invasive vagus nerve stimulation and exercise capacity in healthy volunteers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44911571\"\u003eComments\u003c/a\u003e",
-         "link": "https://academic.oup.com/eurheartj/article/46/17/1634/8023896?login=false",
+         "title": "California unemployment rises to 5.5%, worst in the U.S. as tech falters",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44917835\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.sfchronicle.com/california/article/unemployment-rate-rises-tech-20819276.php",
          "links": [
-             "https://academic.oup.com/eurheartj/article/46/17/1634/8023896?login=false"
+             "https://www.sfchronicle.com/california/article/unemployment-rate-rises-tech-20819276.php"
          ],
-         "published": "Fri, 15 Aug 2025 12:32:43 +0000",
-         "publishedParsed": "2025-08-15T12:32:43Z"
-     },
-     {
-         "title": "Simulating and Visualising the Central Limit Theorem",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44909133\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.foletta.net/post/2025-07-14-clt/",
-         "links": [
-             "https://blog.foletta.net/post/2025-07-14-clt/"
-         ],
-         "published": "Fri, 15 Aug 2025 06:11:51 +0000",
-         "publishedParsed": "2025-08-15T06:11:51Z"
+         "published": "Fri, 15 Aug 2025 22:10:26 +0000",
+         "publishedParsed": "2025-08-15T22:10:26Z"
      },
      {
          "title": "The electric fence stopped working years ago",
@@ -298,5 +268,25 @@
          ],
          "published": "Fri, 15 Aug 2025 15:34:43 +0000",
          "publishedParsed": "2025-08-15T15:34:43Z"
+     },
+     {
+         "title": "An interactive guide to sensor fusion with quaternions",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44912727\"\u003eComments\u003c/a\u003e",
+         "link": "https://quaternion.cafe/",
+         "links": [
+             "https://quaternion.cafe/"
+         ],
+         "published": "Fri, 15 Aug 2025 14:17:07 +0000",
+         "publishedParsed": "2025-08-15T14:17:07Z"
+     },
+     {
+         "title": "The Timmy Trap",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44912646\"\u003eComments\u003c/a\u003e",
+         "link": "https://jenson.org/timmy/",
+         "links": [
+             "https://jenson.org/timmy/"
+         ],
+         "published": "Fri, 15 Aug 2025 14:10:45 +0000",
+         "publishedParsed": "2025-08-15T14:10:45Z"
      }
  ]
