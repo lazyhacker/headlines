@@ -1,5 +1,15 @@
 [
      {
+         "title": "FFmpeg moves to Forgejo",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44886997\"\u003eComments\u003c/a\u003e",
+         "link": "https://code.ffmpeg.org/FFmpeg/FFmpeg",
+         "links": [
+             "https://code.ffmpeg.org/FFmpeg/FFmpeg"
+         ],
+         "published": "Wed, 13 Aug 2025 11:08:50 +0000",
+         "publishedParsed": "2025-08-13T11:08:50Z"
+     },
+     {
          "title": "Dev Compass – Programming Philosophy Quiz",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44927244\"\u003eComments\u003c/a\u003e",
          "link": "https://treeform.github.io/devcompas/",
@@ -8,6 +18,16 @@
          ],
          "published": "Sat, 16 Aug 2025 22:04:29 +0000",
          "publishedParsed": "2025-08-16T22:04:29Z"
+     },
+     {
+         "title": "Hardening Systemd Services",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44928504\"\u003eComments\u003c/a\u003e",
+         "link": "https://us.jlcarveth.dev/post/hardening-systemd.md",
+         "links": [
+             "https://us.jlcarveth.dev/post/hardening-systemd.md"
+         ],
+         "published": "Sun, 17 Aug 2025 02:53:23 +0000",
+         "publishedParsed": "2025-08-17T02:53:23Z"
      },
      {
          "title": "Visualising how close random GUIDs come to being the same",
@@ -40,14 +60,24 @@
          "publishedParsed": "2025-08-13T09:09:34Z"
      },
      {
-         "title": "For Iris Murdoch, morality is about love, not duties and rules",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44885127\"\u003eComments\u003c/a\u003e",
-         "link": "https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules",
+         "title": "An Argument for Increasing TCP's Initial Congestion Window Again",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44889673\"\u003eComments\u003c/a\u003e",
+         "link": "https://jeclark.net/articles/tcp-initcwnd/?tag=performance",
          "links": [
-             "https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules"
+             "https://jeclark.net/articles/tcp-initcwnd/?tag=performance"
          ],
-         "published": "Wed, 13 Aug 2025 06:12:08 +0000",
-         "publishedParsed": "2025-08-13T06:12:08Z"
+         "published": "Wed, 13 Aug 2025 15:23:11 +0000",
+         "publishedParsed": "2025-08-13T15:23:11Z"
+     },
+     {
+         "title": "OpenAI Progress",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44924461\"\u003eComments\u003c/a\u003e",
+         "link": "https://progress.openai.com",
+         "links": [
+             "https://progress.openai.com"
+         ],
+         "published": "Sat, 16 Aug 2025 15:47:12 +0000",
+         "publishedParsed": "2025-08-16T15:47:12Z"
      },
      {
          "title": "Dicing an Onion, the Mathematically Optimal Way",
@@ -70,24 +100,24 @@
          "publishedParsed": "2025-08-16T09:07:49Z"
      },
      {
-         "title": "OpenAI Progress",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44924461\"\u003eComments\u003c/a\u003e",
-         "link": "https://progress.openai.com",
+         "title": "Living with Williams Syndrome, the 'opposite of autism' (2014)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44926965\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bbc.com/news/health-26888280",
          "links": [
-             "https://progress.openai.com"
+             "https://www.bbc.com/news/health-26888280"
          ],
-         "published": "Sat, 16 Aug 2025 15:47:12 +0000",
-         "publishedParsed": "2025-08-16T15:47:12Z"
+         "published": "Sat, 16 Aug 2025 21:12:40 +0000",
+         "publishedParsed": "2025-08-16T21:12:40Z"
      },
      {
-         "title": "Office on HP-UX and Unix",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44925847\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.openpa.net/hp-ux_office.html",
+         "title": "For Iris Murdoch, morality is about love, not duties and rules",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44885127\"\u003eComments\u003c/a\u003e",
+         "link": "https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules",
          "links": [
-             "https://www.openpa.net/hp-ux_office.html"
+             "https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules"
          ],
-         "published": "Sat, 16 Aug 2025 18:36:46 +0000",
-         "publishedParsed": "2025-08-16T18:36:46Z"
+         "published": "Wed, 13 Aug 2025 06:12:08 +0000",
+         "publishedParsed": "2025-08-13T06:12:08Z"
      },
      {
          "title": "That 16B password story (a.k.a. \"data troll\")",
@@ -100,14 +130,24 @@
          "publishedParsed": "2025-08-13T20:01:21Z"
      },
      {
-         "title": "Do things that don't scale, and then don't scale",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44925380\"\u003eComments\u003c/a\u003e",
-         "link": "https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156",
+         "title": "Show HN: unsafehttp – tiny web server from scratch in C, running on an orange pi",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44926785\"\u003eComments\u003c/a\u003e",
+         "link": "http://unsafehttp.benren.au",
          "links": [
-             "https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156"
+             "http://unsafehttp.benren.au"
          ],
-         "published": "Sat, 16 Aug 2025 17:33:08 +0000",
-         "publishedParsed": "2025-08-16T17:33:08Z"
+         "published": "Sat, 16 Aug 2025 20:46:15 +0000",
+         "publishedParsed": "2025-08-16T20:46:15Z"
+     },
+     {
+         "title": "Office on HP-UX and Unix",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44925847\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.openpa.net/hp-ux_office.html",
+         "links": [
+             "https://www.openpa.net/hp-ux_office.html"
+         ],
+         "published": "Sat, 16 Aug 2025 18:36:46 +0000",
+         "publishedParsed": "2025-08-16T18:36:46Z"
      },
      {
          "title": "Tversky Neural Networks",
@@ -120,16 +160,6 @@
          "publishedParsed": "2025-08-16T16:59:51Z"
      },
      {
-         "title": "Show HN: Lue – Terminal eBook Reader with Text-to-Speech",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44925597\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/superstarryeyes/lue",
-         "links": [
-             "https://github.com/superstarryeyes/lue"
-         ],
-         "published": "Sat, 16 Aug 2025 18:00:33 +0000",
-         "publishedParsed": "2025-08-16T18:00:33Z"
-     },
-     {
          "title": "A single lock of hair could rewrite what we know about Inca record-keeping",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44899516\"\u003eComments\u003c/a\u003e",
          "link": "https://www.science.org/content/article/single-lock-hair-could-rewrite-what-we-know-about-inca-record-keeping",
@@ -140,24 +170,14 @@
          "publishedParsed": "2025-08-14T12:17:18Z"
      },
      {
-         "title": "A Lisp in 99LOC",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44925853\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Robert-van-Engelen/tinylisp",
+         "title": "Do things that don't scale, and then don't scale",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44925380\"\u003eComments\u003c/a\u003e",
+         "link": "https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156",
          "links": [
-             "https://github.com/Robert-van-Engelen/tinylisp"
+             "https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156"
          ],
-         "published": "Sat, 16 Aug 2025 18:37:17 +0000",
-         "publishedParsed": "2025-08-16T18:37:17Z"
-     },
-     {
-         "title": "Show HN: unsafehttp – tiny web server from scratch in C, running on an orange pi",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44926785\"\u003eComments\u003c/a\u003e",
-         "link": "http://unsafehttp.benren.au",
-         "links": [
-             "http://unsafehttp.benren.au"
-         ],
-         "published": "Sat, 16 Aug 2025 20:46:15 +0000",
-         "publishedParsed": "2025-08-16T20:46:15Z"
+         "published": "Sat, 16 Aug 2025 17:33:08 +0000",
+         "publishedParsed": "2025-08-16T17:33:08Z"
      },
      {
          "title": "Traps to Developers",
@@ -170,14 +190,24 @@
          "publishedParsed": "2025-08-16T10:34:35Z"
      },
      {
-         "title": "Toothpaste made with keratin may protect and repair damaged teeth: study",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44922571\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth",
+         "title": "A Lisp in 99LOC",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44925853\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/Robert-van-Engelen/tinylisp",
          "links": [
-             "https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth"
+             "https://github.com/Robert-van-Engelen/tinylisp"
          ],
-         "published": "Sat, 16 Aug 2025 12:13:12 +0000",
-         "publishedParsed": "2025-08-16T12:13:12Z"
+         "published": "Sat, 16 Aug 2025 18:37:17 +0000",
+         "publishedParsed": "2025-08-16T18:37:17Z"
+     },
+     {
+         "title": "Show HN: Lue – Terminal eBook Reader with Text-to-Speech",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44925597\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/superstarryeyes/lue",
+         "links": [
+             "https://github.com/superstarryeyes/lue"
+         ],
+         "published": "Sat, 16 Aug 2025 18:00:33 +0000",
+         "publishedParsed": "2025-08-16T18:00:33Z"
      },
      {
          "title": "Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2",
@@ -190,6 +220,26 @@
          "publishedParsed": "2025-08-13T14:47:01Z"
      },
      {
+         "title": "Toothpaste made with keratin may protect and repair damaged teeth: study",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44922571\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth",
+         "links": [
+             "https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth"
+         ],
+         "published": "Sat, 16 Aug 2025 12:13:12 +0000",
+         "publishedParsed": "2025-08-16T12:13:12Z"
+     },
+     {
+         "title": "Please Keep Humans in the Loop (on GitHub Issues)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44927182\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/microsoft/vscode/issues/261976",
+         "links": [
+             "https://github.com/microsoft/vscode/issues/261976"
+         ],
+         "published": "Sat, 16 Aug 2025 21:52:16 +0000",
+         "publishedParsed": "2025-08-16T21:52:16Z"
+     },
+     {
          "title": "Princeton NuEnergy's battery recycling tech recovers 97% of lithium-ion material",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44923962\"\u003eComments\u003c/a\u003e",
          "link": "https://www.energy-reporters.com/environment/97-battery-recycling-breakthrough-princeton-nuenergy-opens-first-u-s-commercial-facility-cutting-costs-38-and-slashing-environmental-impact/",
@@ -200,24 +250,14 @@
          "publishedParsed": "2025-08-16T14:49:49Z"
      },
      {
-         "title": "Making Your Own Merchant Service Provider",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44924055\"\u003eComments\u003c/a\u003e",
-         "link": "https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/",
+         "title": "Passive Microwave Repeaters",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44927953\"\u003eComments\u003c/a\u003e",
+         "link": "https://computer.rip/2025-08-16-passive-microwave-repeaters.html",
          "links": [
-             "https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/"
+             "https://computer.rip/2025-08-16-passive-microwave-repeaters.html"
          ],
-         "published": "Sat, 16 Aug 2025 15:01:20 +0000",
-         "publishedParsed": "2025-08-16T15:01:20Z"
-     },
-     {
-         "title": "Apple's new Processor Trace instrument is incredible",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44926758\"\u003eComments\u003c/a\u003e",
-         "link": "https://victorwynne.com/processor-trace-instrument/",
-         "links": [
-             "https://victorwynne.com/processor-trace-instrument/"
-         ],
-         "published": "Sat, 16 Aug 2025 20:42:28 +0000",
-         "publishedParsed": "2025-08-16T20:42:28Z"
+         "published": "Sun, 17 Aug 2025 00:25:27 +0000",
+         "publishedParsed": "2025-08-17T00:25:27Z"
      },
      {
          "title": "Good system design",
@@ -230,63 +270,23 @@
          "publishedParsed": "2025-08-16T07:38:46Z"
      },
      {
-         "title": "Stylish Bugs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44884857\"\u003eComments\u003c/a\u003e",
-         "link": "https://flak.tedunangst.com/post/stylish-bugs",
+         "title": "Apple's new Processor Trace instrument is incredible",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44926758\"\u003eComments\u003c/a\u003e",
+         "link": "https://victorwynne.com/processor-trace-instrument/",
          "links": [
-             "https://flak.tedunangst.com/post/stylish-bugs"
+             "https://victorwynne.com/processor-trace-instrument/"
          ],
-         "published": "Wed, 13 Aug 2025 05:17:55 +0000",
-         "publishedParsed": "2025-08-13T05:17:55Z"
+         "published": "Sat, 16 Aug 2025 20:42:28 +0000",
+         "publishedParsed": "2025-08-16T20:42:28Z"
      },
      {
-         "title": "Monday – A personality experiment",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44925476\"\u003eComments\u003c/a\u003e",
-         "link": "https://chatgpt.com/g/g-67ec3b78892481918c89067962526695-monday",
+         "title": "Making Your Own Merchant Service Provider",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44924055\"\u003eComments\u003c/a\u003e",
+         "link": "https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/",
          "links": [
-             "https://chatgpt.com/g/g-67ec3b78892481918c89067962526695-monday"
+             "https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/"
          ],
-         "published": "Sat, 16 Aug 2025 17:46:32 +0000",
-         "publishedParsed": "2025-08-16T17:46:32Z"
-     },
-     {
-         "title": "PuTTY has a new website",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44919891\"\u003eComments\u003c/a\u003e",
-         "link": "https://putty.software/",
-         "links": [
-             "https://putty.software/"
-         ],
-         "published": "Sat, 16 Aug 2025 03:35:06 +0000",
-         "publishedParsed": "2025-08-16T03:35:06Z"
-     },
-     {
-         "title": "James Baldwin's Apotheosis",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44897255\"\u003eComments\u003c/a\u003e",
-         "link": "https://hudsonreview.com/2025/08/james-baldwins-apotheosis/",
-         "links": [
-             "https://hudsonreview.com/2025/08/james-baldwins-apotheosis/"
-         ],
-         "published": "Thu, 14 Aug 2025 06:14:34 +0000",
-         "publishedParsed": "2025-08-14T06:14:34Z"
-     },
-     {
-         "title": "Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44922484\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ashbyhq.com/careers?utm_source=hn\u0026ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405",
-         "links": [
-             "https://www.ashbyhq.com/careers?utm_source=hn\u0026ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405"
-         ],
-         "published": "Sat, 16 Aug 2025 12:00:59 +0000",
-         "publishedParsed": "2025-08-16T12:00:59Z"
-     },
-     {
-         "title": "Living with Williams Syndrome, the 'opposite of autism' (2014)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44926965\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bbc.com/news/health-26888280",
-         "links": [
-             "https://www.bbc.com/news/health-26888280"
-         ],
-         "published": "Sat, 16 Aug 2025 21:12:40 +0000",
-         "publishedParsed": "2025-08-16T21:12:40Z"
+         "published": "Sat, 16 Aug 2025 15:01:20 +0000",
+         "publishedParsed": "2025-08-16T15:01:20Z"
      }
  ]
