@@ -10,6 +10,16 @@
          "publishedParsed": "2025-08-17T06:51:50Z"
      },
      {
+         "title": "Eliminating JavaScript cold starts on AWS Lambda",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44922383\"\u003eComments\u003c/a\u003e",
+         "link": "https://goose.icu/lambda/",
+         "links": [
+             "https://goose.icu/lambda/"
+         ],
+         "published": "Sat, 16 Aug 2025 11:44:42 +0000",
+         "publishedParsed": "2025-08-16T11:44:42Z"
+     },
+     {
          "title": "SuperSight: A graphical enhancement mod for Brøderbund's \"Stunts\"",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44887744\"\u003eComments\u003c/a\u003e",
          "link": "https://marnetto.net/2025/02/20/broderbund-stunts-1",
@@ -40,6 +50,16 @@
          "publishedParsed": "2025-08-16T22:04:29Z"
      },
      {
+         "title": "Wan – Open-source alternative to VEO 3",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44928997\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/Wan-Video/Wan2.2",
+         "links": [
+             "https://github.com/Wan-Video/Wan2.2"
+         ],
+         "published": "Sun, 17 Aug 2025 05:00:40 +0000",
+         "publishedParsed": "2025-08-17T05:00:40Z"
+     },
+     {
          "title": "Visualising how close random GUIDs come to being the same",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44927271\"\u003eComments\u003c/a\u003e",
          "link": "https://www.guidsmash.com",
@@ -58,26 +78,6 @@
          ],
          "published": "Wed, 13 Aug 2025 15:23:11 +0000",
          "publishedParsed": "2025-08-13T15:23:11Z"
-     },
-     {
-         "title": "LLMs tell bad jokes because they avoid surprises",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44891596\"\u003eComments\u003c/a\u003e",
-         "link": "https://danfabulich.medium.com/llms-tell-bad-jokes-because-they-avoid-surprises-7f111aac4f96",
-         "links": [
-             "https://danfabulich.medium.com/llms-tell-bad-jokes-because-they-avoid-surprises-7f111aac4f96"
-         ],
-         "published": "Wed, 13 Aug 2025 17:53:12 +0000",
-         "publishedParsed": "2025-08-13T17:53:12Z"
-     },
-     {
-         "title": "Wan – Open-source alternative to VEO 3",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44928997\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Wan-Video/Wan2.2",
-         "links": [
-             "https://github.com/Wan-Video/Wan2.2"
-         ],
-         "published": "Sun, 17 Aug 2025 05:00:40 +0000",
-         "publishedParsed": "2025-08-17T05:00:40Z"
      },
      {
          "title": "OpenAI Progress",
@@ -100,14 +100,14 @@
          "publishedParsed": "2025-08-16T19:50:15Z"
      },
      {
-         "title": "Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling move",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44928497\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/",
+         "title": "Dicing an Onion, the Mathematically Optimal Way",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44923465\"\u003eComments\u003c/a\u003e",
+         "link": "https://pudding.cool/2025/08/onions/",
          "links": [
-             "https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/"
+             "https://pudding.cool/2025/08/onions/"
          ],
-         "published": "Sun, 17 Aug 2025 02:49:48 +0000",
-         "publishedParsed": "2025-08-17T02:49:48Z"
+         "published": "Sat, 16 Aug 2025 13:54:19 +0000",
+         "publishedParsed": "2025-08-16T13:54:19Z"
      },
      {
          "title": "The Raft Consensus Algorithm (2015)",
@@ -118,16 +118,6 @@
          ],
          "published": "Wed, 13 Aug 2025 09:09:34 +0000",
          "publishedParsed": "2025-08-13T09:09:34Z"
-     },
-     {
-         "title": "Dicing an Onion, the Mathematically Optimal Way",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44923465\"\u003eComments\u003c/a\u003e",
-         "link": "https://pudding.cool/2025/08/onions/",
-         "links": [
-             "https://pudding.cool/2025/08/onions/"
-         ],
-         "published": "Sat, 16 Aug 2025 13:54:19 +0000",
-         "publishedParsed": "2025-08-16T13:54:19Z"
      },
      {
          "title": "Pfeilstorch",
@@ -160,14 +150,44 @@
          "publishedParsed": "2025-08-13T12:30:31Z"
      },
      {
-         "title": "Show HN: unsafehttp – tiny web server from scratch in C, running on an orange pi",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44926785\"\u003eComments\u003c/a\u003e",
-         "link": "http://unsafehttp.benren.au",
+         "title": "OpenAI Misled You on RLHF",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44929424\"\u003eComments\u003c/a\u003e",
+         "link": "https://aerial-toothpaste-34a.notion.site/How-OpenAI-Misled-You-on-RLHF-1f83f742d9dd80a68129d06503464aff",
          "links": [
-             "http://unsafehttp.benren.au"
+             "https://aerial-toothpaste-34a.notion.site/How-OpenAI-Misled-You-on-RLHF-1f83f742d9dd80a68129d06503464aff"
          ],
-         "published": "Sat, 16 Aug 2025 20:46:15 +0000",
-         "publishedParsed": "2025-08-16T20:46:15Z"
+         "published": "Sun, 17 Aug 2025 06:37:10 +0000",
+         "publishedParsed": "2025-08-17T06:37:10Z"
+     },
+     {
+         "title": "IQ Tests Results for AI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44930222\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.trackingai.org/home",
+         "links": [
+             "https://www.trackingai.org/home"
+         ],
+         "published": "Sun, 17 Aug 2025 09:36:22 +0000",
+         "publishedParsed": "2025-08-17T09:36:22Z"
+     },
+     {
+         "title": "A Lisp in 99LOC",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44925853\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/Robert-van-Engelen/tinylisp",
+         "links": [
+             "https://github.com/Robert-van-Engelen/tinylisp"
+         ],
+         "published": "Sat, 16 Aug 2025 18:37:17 +0000",
+         "publishedParsed": "2025-08-16T18:37:17Z"
+     },
+     {
+         "title": "Traps to Developers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44922020\"\u003eComments\u003c/a\u003e",
+         "link": "https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers",
+         "links": [
+             "https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers"
+         ],
+         "published": "Sat, 16 Aug 2025 10:34:35 +0000",
+         "publishedParsed": "2025-08-16T10:34:35Z"
      },
      {
          "title": "Living with Williams Syndrome, the 'opposite of autism' (2014)",
@@ -190,24 +210,14 @@
          "publishedParsed": "2025-08-16T16:59:51Z"
      },
      {
-         "title": "Traps to Developers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44922020\"\u003eComments\u003c/a\u003e",
-         "link": "https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers",
+         "title": "Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44889163\"\u003eComments\u003c/a\u003e",
+         "link": "https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html",
          "links": [
-             "https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers"
+             "https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html"
          ],
-         "published": "Sat, 16 Aug 2025 10:34:35 +0000",
-         "publishedParsed": "2025-08-16T10:34:35Z"
-     },
-     {
-         "title": "A Lisp in 99LOC",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44925853\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Robert-van-Engelen/tinylisp",
-         "links": [
-             "https://github.com/Robert-van-Engelen/tinylisp"
-         ],
-         "published": "Sat, 16 Aug 2025 18:37:17 +0000",
-         "publishedParsed": "2025-08-16T18:37:17Z"
+         "published": "Wed, 13 Aug 2025 14:47:01 +0000",
+         "publishedParsed": "2025-08-13T14:47:01Z"
      },
      {
          "title": "For Iris Murdoch, morality is about love, not duties and rules",
@@ -220,36 +230,6 @@
          "publishedParsed": "2025-08-13T06:12:08Z"
      },
      {
-         "title": "Passive Microwave Repeaters",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44927953\"\u003eComments\u003c/a\u003e",
-         "link": "https://computer.rip/2025-08-16-passive-microwave-repeaters.html",
-         "links": [
-             "https://computer.rip/2025-08-16-passive-microwave-repeaters.html"
-         ],
-         "published": "Sun, 17 Aug 2025 00:25:27 +0000",
-         "publishedParsed": "2025-08-17T00:25:27Z"
-     },
-     {
-         "title": "GDPR meant nothing: chat control ends privacy for the EU [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44927934\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=3NyUgv6dpJc",
-         "links": [
-             "https://www.youtube.com/watch?v=3NyUgv6dpJc"
-         ],
-         "published": "Sun, 17 Aug 2025 00:21:50 +0000",
-         "publishedParsed": "2025-08-17T00:21:50Z"
-     },
-     {
-         "title": "Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44889163\"\u003eComments\u003c/a\u003e",
-         "link": "https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html",
-         "links": [
-             "https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html"
-         ],
-         "published": "Wed, 13 Aug 2025 14:47:01 +0000",
-         "publishedParsed": "2025-08-13T14:47:01Z"
-     },
-     {
          "title": "Running Wayland Clients as Non-Root Users on Yocto",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44903923\"\u003eComments\u003c/a\u003e",
          "link": "https://embeddeduse.com/2025/08/11/running-wayland-clients-as-non-root-users/",
@@ -258,6 +238,26 @@
          ],
          "published": "Thu, 14 Aug 2025 18:30:27 +0000",
          "publishedParsed": "2025-08-14T18:30:27Z"
+     },
+     {
+         "title": "Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling move",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44928497\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/",
+         "links": [
+             "https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/"
+         ],
+         "published": "Sun, 17 Aug 2025 02:49:48 +0000",
+         "publishedParsed": "2025-08-17T02:49:48Z"
+     },
+     {
+         "title": "Toothpaste made with keratin may protect and repair damaged teeth: study",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44922571\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth",
+         "links": [
+             "https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth"
+         ],
+         "published": "Sat, 16 Aug 2025 12:13:12 +0000",
+         "publishedParsed": "2025-08-16T12:13:12Z"
      },
      {
          "title": "Do things that don't scale, and then don't scale",
@@ -270,6 +270,16 @@
          "publishedParsed": "2025-08-16T17:33:08Z"
      },
      {
+         "title": "Clinical genetics and the problem of uncertain significance",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44897043\"\u003eComments\u003c/a\u003e",
+         "link": "https://stetson.substack.com/p/solving-the-problem-of-uncertain",
+         "links": [
+             "https://stetson.substack.com/p/solving-the-problem-of-uncertain"
+         ],
+         "published": "Thu, 14 Aug 2025 05:32:35 +0000",
+         "publishedParsed": "2025-08-14T05:32:35Z"
+     },
+     {
          "title": "A single lock of hair could rewrite what we know about Inca record-keeping",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44899516\"\u003eComments\u003c/a\u003e",
          "link": "https://www.science.org/content/article/single-lock-hair-could-rewrite-what-we-know-about-inca-record-keeping",
@@ -278,25 +288,5 @@
          ],
          "published": "Thu, 14 Aug 2025 12:17:18 +0000",
          "publishedParsed": "2025-08-14T12:17:18Z"
-     },
-     {
-         "title": "\"Mocha Dick,\" the White Whale of the Pacific",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44895666\"\u003eComments\u003c/a\u003e",
-         "link": "https://lithub.com/on-mocha-dick-the-white-whale-of-the-pacific-that-influenced-herman-melville/",
-         "links": [
-             "https://lithub.com/on-mocha-dick-the-white-whale-of-the-pacific-that-influenced-herman-melville/"
-         ],
-         "published": "Thu, 14 Aug 2025 01:01:09 +0000",
-         "publishedParsed": "2025-08-14T01:01:09Z"
-     },
-     {
-         "title": "Toothpaste made with keratin may protect and repair damaged teeth: study",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44922571\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth",
-         "links": [
-             "https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth"
-         ],
-         "published": "Sat, 16 Aug 2025 12:13:12 +0000",
-         "publishedParsed": "2025-08-16T12:13:12Z"
      }
  ]
