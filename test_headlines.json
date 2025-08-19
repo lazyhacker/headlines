@@ -1,16 +1,6 @@
 [
      {
-         "title": "Without the Futex, It's Futile",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44951563\"\u003eComments\u003c/a\u003e",
-         "link": "https://h4x0r.org/futex/",
-         "links": [
-             "https://h4x0r.org/futex/"
-         ],
-         "published": "Tue, 19 Aug 2025 13:53:42 +0000",
-         "publishedParsed": "2025-08-19T13:53:42Z"
-     },
-     {
-         "title": "How We Exploited CodeRabbit: From Simple PR to RCE and Write Access on 1M Repos",
+         "title": "How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44953032\"\u003eComments\u003c/a\u003e",
          "link": "https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/",
          "links": [
@@ -18,16 +8,6 @@
          ],
          "published": "Tue, 19 Aug 2025 15:55:15 +0000",
          "publishedParsed": "2025-08-19T15:55:15Z"
-     },
-     {
-         "title": "Chrome intends to remove XSLT from the HTML spec",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44952185\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/whatwg/html/pull/11563",
-         "links": [
-             "https://github.com/whatwg/html/pull/11563"
-         ],
-         "published": "Tue, 19 Aug 2025 14:48:54 +0000",
-         "publishedParsed": "2025-08-19T14:48:54Z"
      },
      {
          "title": "Emacs as your video-trimming tool",
@@ -40,14 +20,44 @@
          "publishedParsed": "2025-08-19T16:22:01Z"
      },
      {
-         "title": "Custom telescope mount using harmonic drives and ESP32",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44949895\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.svendewaerhert.com/blog/telescope-mount/",
+         "title": "Without the futex, it's futile",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44951563\"\u003eComments\u003c/a\u003e",
+         "link": "https://h4x0r.org/futex/",
          "links": [
-             "https://www.svendewaerhert.com/blog/telescope-mount/"
+             "https://h4x0r.org/futex/"
          ],
-         "published": "Tue, 19 Aug 2025 09:46:27 +0000",
-         "publishedParsed": "2025-08-19T09:46:27Z"
+         "published": "Tue, 19 Aug 2025 13:53:42 +0000",
+         "publishedParsed": "2025-08-19T13:53:42Z"
+     },
+     {
+         "title": "Figma's Multiplayer Technology (2019)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44922362\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.figma.com/blog/how-figmas-multiplayer-technology-works/",
+         "links": [
+             "https://www.figma.com/blog/how-figmas-multiplayer-technology-works/"
+         ],
+         "published": "Sat, 16 Aug 2025 11:41:02 +0000",
+         "publishedParsed": "2025-08-16T11:41:02Z"
+     },
+     {
+         "title": "AnduinOS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44954823\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.anduinos.com/",
+         "links": [
+             "https://www.anduinos.com/"
+         ],
+         "published": "Tue, 19 Aug 2025 18:42:25 +0000",
+         "publishedParsed": "2025-08-19T18:42:25Z"
+     },
+     {
+         "title": "D2 (text to diagram tool) now supports ASCII renders",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44954524\"\u003eComments\u003c/a\u003e",
+         "link": "https://d2lang.com/blog/ascii/",
+         "links": [
+             "https://d2lang.com/blog/ascii/"
+         ],
+         "published": "Tue, 19 Aug 2025 18:14:41 +0000",
+         "publishedParsed": "2025-08-19T18:14:41Z"
      },
      {
          "title": "Candle Flame Oscillations as a Clock",
@@ -60,34 +70,34 @@
          "publishedParsed": "2025-08-16T07:49:51Z"
      },
      {
-         "title": "Launch HN: Parachute (YC S25) – Guardrails for Clinical AI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44952246\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=44952246",
+         "title": "A renovation project in Turkey led to the discovery of a lost city (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44952789\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps",
          "links": [
-             "https://news.ycombinator.com/item?id=44952246"
+             "https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps"
          ],
-         "published": "Tue, 19 Aug 2025 14:53:11 +0000",
-         "publishedParsed": "2025-08-19T14:53:11Z"
+         "published": "Tue, 19 Aug 2025 15:34:55 +0000",
+         "publishedParsed": "2025-08-19T15:34:55Z"
      },
      {
-         "title": "Critical Cache Poisoning Vulnerability in Dnsmasq",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44950981\"\u003eComments\u003c/a\u003e",
-         "link": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html",
+         "title": "Positron, a New Data Science IDE",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44951862\"\u003eComments\u003c/a\u003e",
+         "link": "https://posit.co/blog/positron-product-announcement-aug-2025/",
          "links": [
-             "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html"
+             "https://posit.co/blog/positron-product-announcement-aug-2025/"
          ],
-         "published": "Tue, 19 Aug 2025 12:56:47 +0000",
-         "publishedParsed": "2025-08-19T12:56:47Z"
+         "published": "Tue, 19 Aug 2025 14:20:25 +0000",
+         "publishedParsed": "2025-08-19T14:20:25Z"
      },
      {
-         "title": "Launch HN: Uplift (YC S25) – Voice models for under-served languages",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44950661\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=44950661",
+         "title": "Custom telescope mount using harmonic drives and ESP32",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44949895\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.svendewaerhert.com/blog/telescope-mount/",
          "links": [
-             "https://news.ycombinator.com/item?id=44950661"
+             "https://www.svendewaerhert.com/blog/telescope-mount/"
          ],
-         "published": "Tue, 19 Aug 2025 12:10:09 +0000",
-         "publishedParsed": "2025-08-19T12:10:09Z"
+         "published": "Tue, 19 Aug 2025 09:46:27 +0000",
+         "publishedParsed": "2025-08-19T09:46:27Z"
      },
      {
          "title": "Lazy-brush – smooth drawing with mouse or finger",
@@ -100,6 +110,16 @@
          "publishedParsed": "2025-08-15T18:30:47Z"
      },
      {
+         "title": "As Alaska's salmon plummet, scientists home in on the killer – Science – AAAS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44952672\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.science.org/content/article/alaska-s-salmon-plummet-scientists-home-killer",
+         "links": [
+             "https://www.science.org/content/article/alaska-s-salmon-plummet-scientists-home-killer"
+         ],
+         "published": "Tue, 19 Aug 2025 15:25:42 +0000",
+         "publishedParsed": "2025-08-19T15:25:42Z"
+     },
+     {
          "title": "Geotoy – Shadertoy for 3D Geometry",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44938622\"\u003eComments\u003c/a\u003e",
          "link": "https://3d.ameo.design/geotoy",
@@ -108,6 +128,46 @@
          ],
          "published": "Mon, 18 Aug 2025 08:54:48 +0000",
          "publishedParsed": "2025-08-18T08:54:48Z"
+     },
+     {
+         "title": "\"Remove mentions of XSLT from the html spec\"",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44952185\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/whatwg/html/pull/11563",
+         "links": [
+             "https://github.com/whatwg/html/pull/11563"
+         ],
+         "published": "Tue, 19 Aug 2025 14:48:54 +0000",
+         "publishedParsed": "2025-08-19T14:48:54Z"
+     },
+     {
+         "title": "Launch HN: Uplift (YC S25) – Voice models for under-served languages",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44950661\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=44950661",
+         "links": [
+             "https://news.ycombinator.com/item?id=44950661"
+         ],
+         "published": "Tue, 19 Aug 2025 12:10:09 +0000",
+         "publishedParsed": "2025-08-19T12:10:09Z"
+     },
+     {
+         "title": "Show HN: Chroma Cloud – serverless search database for AI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44944241\"\u003eComments\u003c/a\u003e",
+         "link": "https://trychroma.com/cloud",
+         "links": [
+             "https://trychroma.com/cloud"
+         ],
+         "published": "Mon, 18 Aug 2025 19:20:01 +0000",
+         "publishedParsed": "2025-08-18T19:20:01Z"
+     },
+     {
+         "title": "Critical Cache Poisoning Vulnerability in Dnsmasq",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44950981\"\u003eComments\u003c/a\u003e",
+         "link": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html",
+         "links": [
+             "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html"
+         ],
+         "published": "Tue, 19 Aug 2025 12:56:47 +0000",
+         "publishedParsed": "2025-08-19T12:56:47Z"
      },
      {
          "title": "Prime Number Grid",
@@ -120,6 +180,16 @@
          "publishedParsed": "2025-08-19T07:33:09Z"
      },
      {
+         "title": "Launch HN: Parachute (YC S25) – Guardrails for Clinical AI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44952246\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=44952246",
+         "links": [
+             "https://news.ycombinator.com/item?id=44952246"
+         ],
+         "published": "Tue, 19 Aug 2025 14:53:11 +0000",
+         "publishedParsed": "2025-08-19T14:53:11Z"
+     },
+     {
          "title": "PyPI Preventing Domain Resurrection Attacks",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44950091\"\u003eComments\u003c/a\u003e",
          "link": "https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/",
@@ -130,24 +200,14 @@
          "publishedParsed": "2025-08-19T10:32:41Z"
      },
      {
-         "title": "OpenMower – An open source lawn mower",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44946996\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/ClemensElflein/OpenMower",
+         "title": "CRLite: Certificate Revocation Checking in Firefox",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44953282\"\u003eComments\u003c/a\u003e",
+         "link": "https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/",
          "links": [
-             "https://github.com/ClemensElflein/OpenMower"
+             "https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/"
          ],
-         "published": "Tue, 19 Aug 2025 00:35:08 +0000",
-         "publishedParsed": "2025-08-19T00:35:08Z"
-     },
-     {
-         "title": "Positron, a New Data Science IDE",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44951862\"\u003eComments\u003c/a\u003e",
-         "link": "https://posit.co/blog/positron-product-announcement-aug-2025/",
-         "links": [
-             "https://posit.co/blog/positron-product-announcement-aug-2025/"
-         ],
-         "published": "Tue, 19 Aug 2025 14:20:25 +0000",
-         "publishedParsed": "2025-08-19T14:20:25Z"
+         "published": "Tue, 19 Aug 2025 16:18:27 +0000",
+         "publishedParsed": "2025-08-19T16:18:27Z"
      },
      {
          "title": "Vim Macros for Beancount",
@@ -170,16 +230,6 @@
          "publishedParsed": "2025-08-16T08:43:19Z"
      },
      {
-         "title": "Attention Is the New Big-O: A Systems Design Approach to Prompt Engineering",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44951287\"\u003eComments\u003c/a\u003e",
-         "link": "https://alexchesser.medium.com/attention-is-the-new-big-o-9c68e1ae9b27",
-         "links": [
-             "https://alexchesser.medium.com/attention-is-the-new-big-o-9c68e1ae9b27"
-         ],
-         "published": "Tue, 19 Aug 2025 13:29:58 +0000",
-         "publishedParsed": "2025-08-19T13:29:58Z"
-     },
-     {
          "title": "How to Build a Medieval Castle",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44948352\"\u003eComments\u003c/a\u003e",
          "link": "https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/",
@@ -200,44 +250,14 @@
          "publishedParsed": "2025-08-15T14:28:56Z"
      },
      {
-         "title": "Octopolis and Octlantis",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44953125\"\u003eComments\u003c/a\u003e",
-         "link": "https://en.wikipedia.org/wiki/Octopolis_and_Octlantis",
+         "title": "Why I'm all-in on Zen Browser",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44951799\"\u003eComments\u003c/a\u003e",
+         "link": "https://werd.io/why-im-all-in-on-zen-browser/",
          "links": [
-             "https://en.wikipedia.org/wiki/Octopolis_and_Octlantis"
+             "https://werd.io/why-im-all-in-on-zen-browser/"
          ],
-         "published": "Tue, 19 Aug 2025 16:03:59 +0000",
-         "publishedParsed": "2025-08-19T16:03:59Z"
-     },
-     {
-         "title": "EloqKV, a distributed database with Redis compatible API (GPLv2 and AGPLv3)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44937978\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/eloqdata/eloqkv",
-         "links": [
-             "https://github.com/eloqdata/eloqkv"
-         ],
-         "published": "Mon, 18 Aug 2025 06:35:02 +0000",
-         "publishedParsed": "2025-08-18T06:35:02Z"
-     },
-     {
-         "title": "CEO pay at top US companies accelerates at fastest pace in 4 years",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44953264\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ft.com/content/d8da9877-a5d0-4ac2-87cd-236ff33d7269",
-         "links": [
-             "https://www.ft.com/content/d8da9877-a5d0-4ac2-87cd-236ff33d7269"
-         ],
-         "published": "Tue, 19 Aug 2025 16:16:22 +0000",
-         "publishedParsed": "2025-08-19T16:16:22Z"
-     },
-     {
-         "title": "Show HN: Whispering – Open-source, local-first dictation you can trust",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44942731\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/epicenter-so/epicenter/tree/main/apps/whispering",
-         "links": [
-             "https://github.com/epicenter-so/epicenter/tree/main/apps/whispering"
-         ],
-         "published": "Mon, 18 Aug 2025 16:52:29 +0000",
-         "publishedParsed": "2025-08-18T16:52:29Z"
+         "published": "Tue, 19 Aug 2025 14:14:44 +0000",
+         "publishedParsed": "2025-08-19T14:14:44Z"
      },
      {
          "title": "Ted Chiang: The Secret Third Thing",
@@ -250,24 +270,14 @@
          "publishedParsed": "2025-08-19T00:05:59Z"
      },
      {
-         "title": "Counter-Strike: A billion-dollar game built in a dorm room",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44941369\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html",
+         "title": "Giving people money helped less than I thought it would",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44952496\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theargumentmag.com/p/giving-people-money-helped-less-than",
          "links": [
-             "https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html"
+             "https://www.theargumentmag.com/p/giving-people-money-helped-less-than"
          ],
-         "published": "Mon, 18 Aug 2025 14:59:26 +0000",
-         "publishedParsed": "2025-08-18T14:59:26Z"
-     },
-     {
-         "title": "Netflix Revamps Tudum's CQRS Architecture with Raw Hollow In-Memory Object Store",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44924261\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/",
-         "links": [
-             "https://www.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/"
-         ],
-         "published": "Sat, 16 Aug 2025 15:27:27 +0000",
-         "publishedParsed": "2025-08-16T15:27:27Z"
+         "published": "Tue, 19 Aug 2025 15:13:15 +0000",
+         "publishedParsed": "2025-08-19T15:13:15Z"
      },
      {
          "title": "Tiny-tpu: A minimal tensor processing unit (TPU), inspired by Google's TPU",
@@ -278,25 +288,5 @@
          ],
          "published": "Mon, 18 Aug 2025 20:34:37 +0000",
          "publishedParsed": "2025-08-18T20:34:37Z"
-     },
-     {
-         "title": "Show HN: I built an app to block Shorts and Reels",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44923520\"\u003eComments\u003c/a\u003e",
-         "link": "https://scrollguard.app/",
-         "links": [
-             "https://scrollguard.app/"
-         ],
-         "published": "Sat, 16 Aug 2025 14:01:38 +0000",
-         "publishedParsed": "2025-08-16T14:01:38Z"
-     },
-     {
-         "title": "X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44926855\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.popsci.com/technology/tibetan-prayer-scroll-scans/",
-         "links": [
-             "https://www.popsci.com/technology/tibetan-prayer-scroll-scans/"
-         ],
-         "published": "Sat, 16 Aug 2025 20:54:54 +0000",
-         "publishedParsed": "2025-08-16T20:54:54Z"
      }
  ]
