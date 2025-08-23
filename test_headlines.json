@@ -1,15 +1,5 @@
 [
      {
-         "title": "If we can find information by asking GenAI, who needs the Web?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44990435\"\u003eComments\u003c/a\u003e",
-         "link": "https://cacm.acm.org/opinion/will-ai-destroy-the-world-wide-web/",
-         "links": [
-             "https://cacm.acm.org/opinion/will-ai-destroy-the-world-wide-web/"
-         ],
-         "published": "Fri, 22 Aug 2025 22:06:59 +0000",
-         "publishedParsed": "2025-08-22T22:06:59Z"
-     },
-     {
          "title": "Nitro: A tiny but flexible init system and process supervisor",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44988530\"\u003eComments\u003c/a\u003e",
          "link": "https://git.vuxu.org/nitro/about/",
@@ -18,6 +8,16 @@
          ],
          "published": "Fri, 22 Aug 2025 19:06:29 +0000",
          "publishedParsed": "2025-08-22T19:06:29Z"
+     },
+     {
+         "title": "Show HN: JavaScript-free (X)HTML Includes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44988271\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/Evidlo/xsl-website",
+         "links": [
+             "https://github.com/Evidlo/xsl-website"
+         ],
+         "published": "Fri, 22 Aug 2025 18:47:30 +0000",
+         "publishedParsed": "2025-08-22T18:47:30Z"
      },
      {
          "title": "The First Media over QUIC CDN: Cloudflare",
@@ -40,6 +40,16 @@
          "publishedParsed": "2025-08-22T04:48:29Z"
      },
      {
+         "title": "Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44990680\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/mbuhot/glyn",
+         "links": [
+             "https://github.com/mbuhot/glyn"
+         ],
+         "published": "Fri, 22 Aug 2025 22:29:28 +0000",
+         "publishedParsed": "2025-08-22T22:29:28Z"
+     },
+     {
          "title": "FFmpeg 8.0",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44985730\"\u003eComments\u003c/a\u003e",
          "link": "https://ffmpeg.org/index.html#pr8.0",
@@ -50,14 +60,24 @@
          "publishedParsed": "2025-08-22T15:22:42Z"
      },
      {
-         "title": "Leaving Gmail for Mailbox.org",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44987380\"\u003eComments\u003c/a\u003e",
-         "link": "https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/",
+         "title": "Transcribe music in abc with syntax highlighting",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44990798\"\u003eComments\u003c/a\u003e",
+         "link": "https://fugue-state.io/app?project=24024aab-22f1-43cc-abef-c1647cc59597",
          "links": [
-             "https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/"
+             "https://fugue-state.io/app?project=24024aab-22f1-43cc-abef-c1647cc59597"
          ],
-         "published": "Fri, 22 Aug 2025 17:41:48 +0000",
-         "publishedParsed": "2025-08-22T17:41:48Z"
+         "published": "Fri, 22 Aug 2025 22:41:20 +0000",
+         "publishedParsed": "2025-08-22T22:41:20Z"
+     },
+     {
+         "title": "70% of Japan smartphone games bypass in-app payment to avoid US tech giants",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44991384\"\u003eComments\u003c/a\u003e",
+         "link": "https://english.kyodonews.net/articles/-/59689",
+         "links": [
+             "https://english.kyodonews.net/articles/-/59689"
+         ],
+         "published": "Fri, 22 Aug 2025 23:50:13 +0000",
+         "publishedParsed": "2025-08-22T23:50:13Z"
      },
      {
          "title": "Launch HN: BlankBio (YC S25) - Making RNA Programmable",
@@ -70,24 +90,14 @@
          "publishedParsed": "2025-08-22T16:53:30Z"
      },
      {
-         "title": "The issue of anti-cheat on Linux (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44980064\"\u003eComments\u003c/a\u003e",
-         "link": "https://tulach.cc/the-issue-of-anti-cheat-on-linux/",
+         "title": "Leaving Gmail for Mailbox.org",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44987380\"\u003eComments\u003c/a\u003e",
+         "link": "https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/",
          "links": [
-             "https://tulach.cc/the-issue-of-anti-cheat-on-linux/"
+             "https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/"
          ],
-         "published": "Fri, 22 Aug 2025 01:09:33 +0000",
-         "publishedParsed": "2025-08-22T01:09:33Z"
-     },
-     {
-         "title": "Should the web platform adopt XSLT 3.0?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44987552\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/whatwg/html/issues/11578",
-         "links": [
-             "https://github.com/whatwg/html/issues/11578"
-         ],
-         "published": "Fri, 22 Aug 2025 17:56:12 +0000",
-         "publishedParsed": "2025-08-22T17:56:12Z"
+         "published": "Fri, 22 Aug 2025 17:41:48 +0000",
+         "publishedParsed": "2025-08-22T17:41:48Z"
      },
      {
          "title": "LabPlot: Free, open source and cross-platform Data Visualization and Analysis",
@@ -100,26 +110,6 @@
          "publishedParsed": "2025-08-22T09:11:26Z"
      },
      {
-         "title": "Show HN: Clyp – Clipboard Manager for Linux",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44986205\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/murat-cileli/clyp",
-         "links": [
-             "https://github.com/murat-cileli/clyp"
-         ],
-         "published": "Fri, 22 Aug 2025 16:03:26 +0000",
-         "publishedParsed": "2025-08-22T16:03:26Z"
-     },
-     {
-         "title": "Waymo granted permit to begin testing in New York City",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44986949\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html",
-         "links": [
-             "https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html"
-         ],
-         "published": "Fri, 22 Aug 2025 17:02:48 +0000",
-         "publishedParsed": "2025-08-22T17:02:48Z"
-     },
-     {
          "title": "Writing Micro Compiler in OCaml (2014)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44947484\"\u003eComments\u003c/a\u003e",
          "link": "http://troydm.github.io/blog/2014/03/29/writing-micro-compiler-in-ocaml/",
@@ -130,6 +120,46 @@
          "publishedParsed": "2025-08-19T02:00:32Z"
      },
      {
+         "title": "What Happened to Egghead Software",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44952572\"\u003eComments\u003c/a\u003e",
+         "link": "https://dfarq.homeip.net/what-happened-to-egghead-software/",
+         "links": [
+             "https://dfarq.homeip.net/what-happened-to-egghead-software/"
+         ],
+         "published": "Tue, 19 Aug 2025 15:18:18 +0000",
+         "publishedParsed": "2025-08-19T15:18:18Z"
+     },
+     {
+         "title": "Show HN: Clyp – Clipboard Manager for Linux",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44986205\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/murat-cileli/clyp",
+         "links": [
+             "https://github.com/murat-cileli/clyp"
+         ],
+         "published": "Fri, 22 Aug 2025 16:03:26 +0000",
+         "publishedParsed": "2025-08-22T16:03:26Z"
+     },
+     {
+         "title": "Why the Internet Is Turning to Shit",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44991117\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.currentaffairs.org/news/why-the-internet-is-turning-to-shit",
+         "links": [
+             "https://www.currentaffairs.org/news/why-the-internet-is-turning-to-shit"
+         ],
+         "published": "Fri, 22 Aug 2025 23:16:10 +0000",
+         "publishedParsed": "2025-08-22T23:16:10Z"
+     },
+     {
+         "title": "The issue of anti-cheat on Linux (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44980064\"\u003eComments\u003c/a\u003e",
+         "link": "https://tulach.cc/the-issue-of-anti-cheat-on-linux/",
+         "links": [
+             "https://tulach.cc/the-issue-of-anti-cheat-on-linux/"
+         ],
+         "published": "Fri, 22 Aug 2025 01:09:33 +0000",
+         "publishedParsed": "2025-08-22T01:09:33Z"
+     },
+     {
          "title": "Closing the Nix gap: From environments to packaged applications for rust",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44986251\"\u003eComments\u003c/a\u003e",
          "link": "https://devenv.sh/blog/2025/08/22/closing-the-nix-gap-from-environments-to-packaged-applications-for-rust/",
@@ -138,6 +168,26 @@
          ],
          "published": "Fri, 22 Aug 2025 16:06:15 +0000",
          "publishedParsed": "2025-08-22T16:06:15Z"
+     },
+     {
+         "title": "Should the web platform adopt XSLT 3.0?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44987552\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/whatwg/html/issues/11578",
+         "links": [
+             "https://github.com/whatwg/html/issues/11578"
+         ],
+         "published": "Fri, 22 Aug 2025 17:56:12 +0000",
+         "publishedParsed": "2025-08-22T17:56:12Z"
+     },
+     {
+         "title": "Waymo granted permit to begin testing in New York City",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44986949\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html",
+         "links": [
+             "https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html"
+         ],
+         "published": "Fri, 22 Aug 2025 17:02:48 +0000",
+         "publishedParsed": "2025-08-22T17:02:48Z"
      },
      {
          "title": "Launch HN: Inconvo (YC S23) – AI agents for customer-facing analytics",
@@ -160,56 +210,6 @@
          "publishedParsed": "2025-08-22T11:49:08Z"
      },
      {
-         "title": "Ejabberd 25.08",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44989373\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.process-one.net/blog/ejabberd-25-08/",
-         "links": [
-             "https://www.process-one.net/blog/ejabberd-25-08/"
-         ],
-         "published": "Fri, 22 Aug 2025 20:23:35 +0000",
-         "publishedParsed": "2025-08-22T20:23:35Z"
-     },
-     {
-         "title": "Control shopping cart wheels with your phone (2021)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44980004\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.begaydocrime.com/",
-         "links": [
-             "https://www.begaydocrime.com/"
-         ],
-         "published": "Fri, 22 Aug 2025 00:59:04 +0000",
-         "publishedParsed": "2025-08-22T00:59:04Z"
-     },
-     {
-         "title": "Build Log: Macintosh Classic",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44984958\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.jeffgeerling.com/blog/2025/build-log-macintosh-classic",
-         "links": [
-             "https://www.jeffgeerling.com/blog/2025/build-log-macintosh-classic"
-         ],
-         "published": "Fri, 22 Aug 2025 14:14:26 +0000",
-         "publishedParsed": "2025-08-22T14:14:26Z"
-     },
-     {
-         "title": "Show HN: Pinch – macOS voice translation for real-time conversations",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44961153\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.startpinch.com/",
-         "links": [
-             "https://www.startpinch.com/"
-         ],
-         "published": "Wed, 20 Aug 2025 12:10:58 +0000",
-         "publishedParsed": "2025-08-20T12:10:58Z"
-     },
-     {
-         "title": "Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44985278\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2508.12631",
-         "links": [
-             "https://arxiv.org/abs/2508.12631"
-         ],
-         "published": "Fri, 22 Aug 2025 14:43:31 +0000",
-         "publishedParsed": "2025-08-22T14:43:31Z"
-     },
-     {
          "title": "Everything is correlated (2014–23)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44980339\"\u003eComments\u003c/a\u003e",
          "link": "https://gwern.net/everything",
@@ -230,53 +230,23 @@
          "publishedParsed": "2025-08-22T06:18:56Z"
      },
      {
-         "title": "DeepSeek v3.1 is not having a moment",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44986291\"\u003eComments\u003c/a\u003e",
-         "link": "https://thezvi.wordpress.com/2025/08/22/deepseek-v3-1-is-not-having-a-moment/",
+         "title": "Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44985278\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2508.12631",
          "links": [
-             "https://thezvi.wordpress.com/2025/08/22/deepseek-v3-1-is-not-having-a-moment/"
+             "https://arxiv.org/abs/2508.12631"
          ],
-         "published": "Fri, 22 Aug 2025 16:08:59 +0000",
-         "publishedParsed": "2025-08-22T16:08:59Z"
+         "published": "Fri, 22 Aug 2025 14:43:31 +0000",
+         "publishedParsed": "2025-08-22T14:43:31Z"
      },
      {
-         "title": "VHS-C: When a lazy idea stumbles towards perfection [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44941056\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=HFYWHeBhYbM",
+         "title": "Build Log: Macintosh Classic",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44984958\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.jeffgeerling.com/blog/2025/build-log-macintosh-classic",
          "links": [
-             "https://www.youtube.com/watch?v=HFYWHeBhYbM"
+             "https://www.jeffgeerling.com/blog/2025/build-log-macintosh-classic"
          ],
-         "published": "Mon, 18 Aug 2025 14:30:28 +0000",
-         "publishedParsed": "2025-08-18T14:30:28Z"
-     },
-     {
-         "title": "Code formatting comes to uv experimentally",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44977645\"\u003eComments\u003c/a\u003e",
-         "link": "https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/",
-         "links": [
-             "https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/"
-         ],
-         "published": "Thu, 21 Aug 2025 20:26:44 +0000",
-         "publishedParsed": "2025-08-21T20:26:44Z"
-     },
-     {
-         "title": "Sprinkling self-doubt on ChatGPT",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44987422\"\u003eComments\u003c/a\u003e",
-         "link": "https://justin.searls.co/posts/sprinkling-self-doubt-on-chatgpt/",
-         "links": [
-             "https://justin.searls.co/posts/sprinkling-self-doubt-on-chatgpt/"
-         ],
-         "published": "Fri, 22 Aug 2025 17:45:27 +0000",
-         "publishedParsed": "2025-08-22T17:45:27Z"
-     },
-     {
-         "title": "The Minecraft Code (2024) [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44981802\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=nz2LeXwJOyI",
-         "links": [
-             "https://www.youtube.com/watch?v=nz2LeXwJOyI"
-         ],
-         "published": "Fri, 22 Aug 2025 07:18:48 +0000",
-         "publishedParsed": "2025-08-22T07:18:48Z"
+         "published": "Fri, 22 Aug 2025 14:14:26 +0000",
+         "publishedParsed": "2025-08-22T14:14:26Z"
      }
  ]
