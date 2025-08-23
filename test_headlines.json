@@ -1,5 +1,15 @@
 [
      {
+         "title": "Writing Speed-of-Light Flash Attention for 5090 in CUDA C++",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44995508\"\u003eComments\u003c/a\u003e",
+         "link": "https://gau-nernst.github.io/fa-5090/",
+         "links": [
+             "https://gau-nernst.github.io/fa-5090/"
+         ],
+         "published": "Sat, 23 Aug 2025 12:29:02 +0000",
+         "publishedParsed": "2025-08-23T12:29:02Z"
+     },
+     {
          "title": "RFC 9839 and Bad Unicode",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44995640\"\u003eComments\u003c/a\u003e",
          "link": "https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839",
@@ -8,16 +18,6 @@
          ],
          "published": "Sat, 23 Aug 2025 12:54:01 +0000",
          "publishedParsed": "2025-08-23T12:54:01Z"
-     },
-     {
-         "title": "Manim: Animation engine for explanatory math videos",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44994071\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/3b1b/manim",
-         "links": [
-             "https://github.com/3b1b/manim"
-         ],
-         "published": "Sat, 23 Aug 2025 07:35:49 +0000",
-         "publishedParsed": "2025-08-23T07:35:49Z"
      },
      {
          "title": "Librebox: An open source, Roblox-compatible game engine",
@@ -30,6 +30,26 @@
          "publishedParsed": "2025-08-23T11:22:15Z"
      },
      {
+         "title": "Manim: Animation engine for explanatory math videos",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44994071\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/3b1b/manim",
+         "links": [
+             "https://github.com/3b1b/manim"
+         ],
+         "published": "Sat, 23 Aug 2025 07:35:49 +0000",
+         "publishedParsed": "2025-08-23T07:35:49Z"
+     },
+     {
+         "title": "Building A16Z's Personal AI Workstation",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44996892\"\u003eComments\u003c/a\u003e",
+         "link": "https://a16z.com/building-a16zs-personal-ai-workstation-with-four-nvidia-rtx-6000-pro-blackwell-max-q-gpus/",
+         "links": [
+             "https://a16z.com/building-a16zs-personal-ai-workstation-with-four-nvidia-rtx-6000-pro-blackwell-max-q-gpus/"
+         ],
+         "published": "Sat, 23 Aug 2025 16:03:13 +0000",
+         "publishedParsed": "2025-08-23T16:03:13Z"
+     },
+     {
          "title": "Rethinking the Linux cloud stack for confidential VMs",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44995234\"\u003eComments\u003c/a\u003e",
          "link": "https://lwn.net/Articles/1030818/",
@@ -38,16 +58,6 @@
          ],
          "published": "Sat, 23 Aug 2025 11:39:15 +0000",
          "publishedParsed": "2025-08-23T11:39:15Z"
-     },
-     {
-         "title": "Writing Speed-of-Light Flash Attention for 5090 in CUDA C++",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44995508\"\u003eComments\u003c/a\u003e",
-         "link": "https://gau-nernst.github.io/fa-5090/",
-         "links": [
-             "https://gau-nernst.github.io/fa-5090/"
-         ],
-         "published": "Sat, 23 Aug 2025 12:29:02 +0000",
-         "publishedParsed": "2025-08-23T12:29:02Z"
      },
      {
          "title": "I Made a Floppy Disk from Scratch",
@@ -70,6 +80,16 @@
          "publishedParsed": "2025-08-23T09:20:26Z"
      },
      {
+         "title": "450× Faster Joins with Index Condition Pushdown",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44952895\"\u003eComments\u003c/a\u003e",
+         "link": "https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown",
+         "links": [
+             "https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown"
+         ],
+         "published": "Tue, 19 Aug 2025 15:43:37 +0000",
+         "publishedParsed": "2025-08-19T15:43:37Z"
+     },
+     {
          "title": "WebR – R in the Browser",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44952018\"\u003eComments\u003c/a\u003e",
          "link": "https://docs.r-wasm.org/webr/latest/",
@@ -80,24 +100,14 @@
          "publishedParsed": "2025-08-19T14:36:10Z"
      },
      {
-         "title": "You can't grow cool-climate plants in hot climates",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44961853\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.crimepaysbutbotanydoesnt.com/blog/why-you-cant-grow-cool-climate-plants-in-hot-climates",
+         "title": "Waitgroups: What they are, how to use them and what changed with Go 1.25",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44996623\"\u003eComments\u003c/a\u003e",
+         "link": "https://mfbmina.dev/en/posts/waitgroups/",
          "links": [
-             "https://www.crimepaysbutbotanydoesnt.com/blog/why-you-cant-grow-cool-climate-plants-in-hot-climates"
+             "https://mfbmina.dev/en/posts/waitgroups/"
          ],
-         "published": "Wed, 20 Aug 2025 13:38:00 +0000",
-         "publishedParsed": "2025-08-20T13:38:00Z"
-     },
-     {
-         "title": "450× Faster Joins with Index Condition Pushdown",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44952895\"\u003eComments\u003c/a\u003e",
-         "link": "https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown",
-         "links": [
-             "https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown"
-         ],
-         "published": "Tue, 19 Aug 2025 15:43:37 +0000",
-         "publishedParsed": "2025-08-19T15:43:37Z"
+         "published": "Sat, 23 Aug 2025 15:21:51 +0000",
+         "publishedParsed": "2025-08-23T15:21:51Z"
      },
      {
          "title": "Lightning declines over shipping lanes following regulation of sulfur emissions",
@@ -110,6 +120,16 @@
          "publishedParsed": "2025-08-19T07:35:49Z"
      },
      {
+         "title": "You can't grow cool-climate plants in hot climates",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44961853\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.crimepaysbutbotanydoesnt.com/blog/why-you-cant-grow-cool-climate-plants-in-hot-climates",
+         "links": [
+             "https://www.crimepaysbutbotanydoesnt.com/blog/why-you-cant-grow-cool-climate-plants-in-hot-climates"
+         ],
+         "published": "Wed, 20 Aug 2025 13:38:00 +0000",
+         "publishedParsed": "2025-08-20T13:38:00Z"
+     },
+     {
          "title": "Shader Academy: Learn computer graphics by solving challenges",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44960750\"\u003eComments\u003c/a\u003e",
          "link": "https://shaderacademy.com/",
@@ -118,6 +138,16 @@
          ],
          "published": "Wed, 20 Aug 2025 11:08:15 +0000",
          "publishedParsed": "2025-08-20T11:08:15Z"
+     },
+     {
+         "title": "Converting an online game to work without any JavaScript",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44952836\"\u003eComments\u003c/a\u003e",
+         "link": "https://bejofo.com/blog/no-js-game-case-study",
+         "links": [
+             "https://bejofo.com/blog/no-js-game-case-study"
+         ],
+         "published": "Tue, 19 Aug 2025 15:39:15 +0000",
+         "publishedParsed": "2025-08-19T15:39:15Z"
      },
      {
          "title": "World Wide Lightning Location Network",
@@ -130,16 +160,6 @@
          "publishedParsed": "2025-08-23T07:40:44Z"
      },
      {
-         "title": "Show HN: JavaScript-free (X)HTML Includes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44988271\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Evidlo/xsl-website",
-         "links": [
-             "https://github.com/Evidlo/xsl-website"
-         ],
-         "published": "Fri, 22 Aug 2025 18:47:30 +0000",
-         "publishedParsed": "2025-08-22T18:47:30Z"
-     },
-     {
          "title": "David Klein's TWA Posters (2018)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44952696\"\u003eComments\u003c/a\u003e",
          "link": "https://flashbak.com/david-kleins-magnificent-twa-posters-404428/",
@@ -148,26 +168,6 @@
          ],
          "published": "Tue, 19 Aug 2025 15:27:33 +0000",
          "publishedParsed": "2025-08-19T15:27:33Z"
-     },
-     {
-         "title": "Websites and web developers mostly don't care about client-side problems",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44993353\"\u003eComments\u003c/a\u003e",
-         "link": "https://utcc.utoronto.ca/~cks/space/blog/web/WebsitesDontCareAboutClients",
-         "links": [
-             "https://utcc.utoronto.ca/~cks/space/blog/web/WebsitesDontCareAboutClients"
-         ],
-         "published": "Sat, 23 Aug 2025 05:09:11 +0000",
-         "publishedParsed": "2025-08-23T05:09:11Z"
-     },
-     {
-         "title": "The Fancy Rug Dilemma",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44958492\"\u003eComments\u003c/a\u003e",
-         "link": "https://epan.land/essays/2025-8_FancyRugDilemma",
-         "links": [
-             "https://epan.land/essays/2025-8_FancyRugDilemma"
-         ],
-         "published": "Wed, 20 Aug 2025 03:52:39 +0000",
-         "publishedParsed": "2025-08-20T03:52:39Z"
      },
      {
          "title": "From M1 MacBook to Arch Linux: A month-long experiment that became permanenent",
@@ -180,6 +180,16 @@
          "publishedParsed": "2025-08-19T20:25:06Z"
      },
      {
+         "title": "My tips for using LLM agents to create software",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44991884\"\u003eComments\u003c/a\u003e",
+         "link": "https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html",
+         "links": [
+             "https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html"
+         ],
+         "published": "Sat, 23 Aug 2025 00:59:02 +0000",
+         "publishedParsed": "2025-08-23T00:59:02Z"
+     },
+     {
          "title": "The first Media over QUIC CDN: Cloudflare",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44987924\"\u003eComments\u003c/a\u003e",
          "link": "https://moq.dev/blog/first-cdn/",
@@ -188,6 +198,16 @@
          ],
          "published": "Fri, 22 Aug 2025 18:24:16 +0000",
          "publishedParsed": "2025-08-22T18:24:16Z"
+     },
+     {
+         "title": "I Hacked McDonald's (Security Contact Was Harder to Find Than Secret Recipe)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44954913\"\u003eComments\u003c/a\u003e",
+         "link": "https://bobdahacker.com/blog/mcdonalds-security-vulnerabilities",
+         "links": [
+             "https://bobdahacker.com/blog/mcdonalds-security-vulnerabilities"
+         ],
+         "published": "Tue, 19 Aug 2025 18:51:42 +0000",
+         "publishedParsed": "2025-08-19T18:51:42Z"
      },
      {
          "title": "I run a full Linux desktop in Docker just because I can",
@@ -200,14 +220,14 @@
          "publishedParsed": "2025-08-19T11:39:47Z"
      },
      {
-         "title": "Nitro: A tiny but flexible init system and process supervisor",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44988530\"\u003eComments\u003c/a\u003e",
-         "link": "https://git.vuxu.org/nitro/about/",
+         "title": "Show HN: JavaScript-free (X)HTML Includes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44988271\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/Evidlo/xsl-website",
          "links": [
-             "https://git.vuxu.org/nitro/about/"
+             "https://github.com/Evidlo/xsl-website"
          ],
-         "published": "Fri, 22 Aug 2025 19:06:29 +0000",
-         "publishedParsed": "2025-08-22T19:06:29Z"
+         "published": "Fri, 22 Aug 2025 18:47:30 +0000",
+         "publishedParsed": "2025-08-22T18:47:30Z"
      },
      {
          "title": "ArduinoOS (2017)",
@@ -220,14 +240,34 @@
          "publishedParsed": "2025-08-19T19:12:50Z"
      },
      {
-         "title": "My tips for using LLM agents to create software",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44991884\"\u003eComments\u003c/a\u003e",
-         "link": "https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html",
+         "title": "Robots can now learn to use tools just by watching us",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44996571\"\u003eComments\u003c/a\u003e",
+         "link": "https://techxplore.com/news/2025-08-robots-tools.html",
          "links": [
-             "https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html"
+             "https://techxplore.com/news/2025-08-robots-tools.html"
          ],
-         "published": "Sat, 23 Aug 2025 00:59:02 +0000",
-         "publishedParsed": "2025-08-23T00:59:02Z"
+         "published": "Sat, 23 Aug 2025 15:14:39 +0000",
+         "publishedParsed": "2025-08-23T15:14:39Z"
+     },
+     {
+         "title": "The Fancy Rug Dilemma",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44958492\"\u003eComments\u003c/a\u003e",
+         "link": "https://epan.land/essays/2025-8_FancyRugDilemma",
+         "links": [
+             "https://epan.land/essays/2025-8_FancyRugDilemma"
+         ],
+         "published": "Wed, 20 Aug 2025 03:52:39 +0000",
+         "publishedParsed": "2025-08-20T03:52:39Z"
+     },
+     {
+         "title": "Nitro: A tiny but flexible init system and process supervisor",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44988530\"\u003eComments\u003c/a\u003e",
+         "link": "https://git.vuxu.org/nitro/about/",
+         "links": [
+             "https://git.vuxu.org/nitro/about/"
+         ],
+         "published": "Fri, 22 Aug 2025 19:06:29 +0000",
+         "publishedParsed": "2025-08-22T19:06:29Z"
      },
      {
          "title": "The theory and practice of selling the Aga cooker (1935) [pdf]",
@@ -248,45 +288,5 @@
          ],
          "published": "Fri, 22 Aug 2025 15:22:42 +0000",
          "publishedParsed": "2025-08-22T15:22:42Z"
-     },
-     {
-         "title": "I'm too dumb for Zig's new IO interface",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44993797\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/",
-         "links": [
-             "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/"
-         ],
-         "published": "Sat, 23 Aug 2025 06:39:38 +0000",
-         "publishedParsed": "2025-08-23T06:39:38Z"
-     },
-     {
-         "title": "The ROI of Exercise",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44993692\"\u003eComments\u003c/a\u003e",
-         "link": "https://herman.bearblog.dev/exercise/",
-         "links": [
-             "https://herman.bearblog.dev/exercise/"
-         ],
-         "published": "Sat, 23 Aug 2025 06:19:15 +0000",
-         "publishedParsed": "2025-08-23T06:19:15Z"
-     },
-     {
-         "title": "Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44990680\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/mbuhot/glyn",
-         "links": [
-             "https://github.com/mbuhot/glyn"
-         ],
-         "published": "Fri, 22 Aug 2025 22:29:28 +0000",
-         "publishedParsed": "2025-08-22T22:29:28Z"
-     },
-     {
-         "title": "Echidna Enters a New Era of Symbolic Execution",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44959292\"\u003eComments\u003c/a\u003e",
-         "link": "https://gustavo-grieco.github.io/blog/echidna-symexec/",
-         "links": [
-             "https://gustavo-grieco.github.io/blog/echidna-symexec/"
-         ],
-         "published": "Wed, 20 Aug 2025 06:43:43 +0000",
-         "publishedParsed": "2025-08-20T06:43:43Z"
      }
  ]
