@@ -1,15 +1,5 @@
 [
      {
-         "title": "Nitro: A tiny but flexible init system and process supervisor",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44988530\"\u003eComments\u003c/a\u003e",
-         "link": "https://git.vuxu.org/nitro/about/",
-         "links": [
-             "https://git.vuxu.org/nitro/about/"
-         ],
-         "published": "Fri, 22 Aug 2025 19:06:29 +0000",
-         "publishedParsed": "2025-08-22T19:06:29Z"
-     },
-     {
          "title": "Show HN: JavaScript-free (X)HTML Includes",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44988271\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/Evidlo/xsl-website",
@@ -20,7 +10,17 @@
          "publishedParsed": "2025-08-22T18:47:30Z"
      },
      {
-         "title": "The First Media over QUIC CDN: Cloudflare",
+         "title": "Nitro: A tiny but flexible init system and process supervisor",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44988530\"\u003eComments\u003c/a\u003e",
+         "link": "https://git.vuxu.org/nitro/about/",
+         "links": [
+             "https://git.vuxu.org/nitro/about/"
+         ],
+         "published": "Fri, 22 Aug 2025 19:06:29 +0000",
+         "publishedParsed": "2025-08-22T19:06:29Z"
+     },
+     {
+         "title": "The first Media over QUIC CDN: Cloudflare",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44987924\"\u003eComments\u003c/a\u003e",
          "link": "https://moq.dev/blog/first-cdn/",
          "links": [
@@ -40,6 +40,16 @@
          "publishedParsed": "2025-08-22T04:48:29Z"
      },
      {
+         "title": "Shader Academy: Learn computer graphics by solving challenges",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44960750\"\u003eComments\u003c/a\u003e",
+         "link": "https://shaderacademy.com/",
+         "links": [
+             "https://shaderacademy.com/"
+         ],
+         "published": "Wed, 20 Aug 2025 11:08:15 +0000",
+         "publishedParsed": "2025-08-20T11:08:15Z"
+     },
+     {
          "title": "Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44990680\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/mbuhot/glyn",
@@ -48,6 +58,16 @@
          ],
          "published": "Fri, 22 Aug 2025 22:29:28 +0000",
          "publishedParsed": "2025-08-22T22:29:28Z"
+     },
+     {
+         "title": "Popular Japanese smartphone games have introduced external payment systems",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44991384\"\u003eComments\u003c/a\u003e",
+         "link": "https://english.kyodonews.net/articles/-/59689",
+         "links": [
+             "https://english.kyodonews.net/articles/-/59689"
+         ],
+         "published": "Fri, 22 Aug 2025 23:50:13 +0000",
+         "publishedParsed": "2025-08-22T23:50:13Z"
      },
      {
          "title": "FFmpeg 8.0",
@@ -60,6 +80,16 @@
          "publishedParsed": "2025-08-22T15:22:42Z"
      },
      {
+         "title": "I Run a Full Linux Desktop in Docker Just Because I Can",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44950482\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/",
+         "links": [
+             "https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/"
+         ],
+         "published": "Tue, 19 Aug 2025 11:39:47 +0000",
+         "publishedParsed": "2025-08-19T11:39:47Z"
+     },
+     {
          "title": "Transcribe music in abc with syntax highlighting",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44990798\"\u003eComments\u003c/a\u003e",
          "link": "https://fugue-state.io/app?project=24024aab-22f1-43cc-abef-c1647cc59597",
@@ -68,16 +98,6 @@
          ],
          "published": "Fri, 22 Aug 2025 22:41:20 +0000",
          "publishedParsed": "2025-08-22T22:41:20Z"
-     },
-     {
-         "title": "70% of Japan smartphone games bypass in-app payment to avoid US tech giants",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44991384\"\u003eComments\u003c/a\u003e",
-         "link": "https://english.kyodonews.net/articles/-/59689",
-         "links": [
-             "https://english.kyodonews.net/articles/-/59689"
-         ],
-         "published": "Fri, 22 Aug 2025 23:50:13 +0000",
-         "publishedParsed": "2025-08-22T23:50:13Z"
      },
      {
          "title": "Launch HN: BlankBio (YC S25) - Making RNA Programmable",
@@ -110,14 +130,14 @@
          "publishedParsed": "2025-08-22T09:11:26Z"
      },
      {
-         "title": "Writing Micro Compiler in OCaml (2014)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44947484\"\u003eComments\u003c/a\u003e",
-         "link": "http://troydm.github.io/blog/2014/03/29/writing-micro-compiler-in-ocaml/",
+         "title": "The issue of anti-cheat on Linux (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44980064\"\u003eComments\u003c/a\u003e",
+         "link": "https://tulach.cc/the-issue-of-anti-cheat-on-linux/",
          "links": [
-             "http://troydm.github.io/blog/2014/03/29/writing-micro-compiler-in-ocaml/"
+             "https://tulach.cc/the-issue-of-anti-cheat-on-linux/"
          ],
-         "published": "Tue, 19 Aug 2025 02:00:32 +0000",
-         "publishedParsed": "2025-08-19T02:00:32Z"
+         "published": "Fri, 22 Aug 2025 01:09:33 +0000",
+         "publishedParsed": "2025-08-22T01:09:33Z"
      },
      {
          "title": "What Happened to Egghead Software",
@@ -130,34 +150,14 @@
          "publishedParsed": "2025-08-19T15:18:18Z"
      },
      {
-         "title": "Show HN: Clyp – Clipboard Manager for Linux",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44986205\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/murat-cileli/clyp",
+         "title": "Should the web platform adopt XSLT 3.0?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44987552\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/whatwg/html/issues/11578",
          "links": [
-             "https://github.com/murat-cileli/clyp"
+             "https://github.com/whatwg/html/issues/11578"
          ],
-         "published": "Fri, 22 Aug 2025 16:03:26 +0000",
-         "publishedParsed": "2025-08-22T16:03:26Z"
-     },
-     {
-         "title": "Why the Internet Is Turning to Shit",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44991117\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.currentaffairs.org/news/why-the-internet-is-turning-to-shit",
-         "links": [
-             "https://www.currentaffairs.org/news/why-the-internet-is-turning-to-shit"
-         ],
-         "published": "Fri, 22 Aug 2025 23:16:10 +0000",
-         "publishedParsed": "2025-08-22T23:16:10Z"
-     },
-     {
-         "title": "The issue of anti-cheat on Linux (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44980064\"\u003eComments\u003c/a\u003e",
-         "link": "https://tulach.cc/the-issue-of-anti-cheat-on-linux/",
-         "links": [
-             "https://tulach.cc/the-issue-of-anti-cheat-on-linux/"
-         ],
-         "published": "Fri, 22 Aug 2025 01:09:33 +0000",
-         "publishedParsed": "2025-08-22T01:09:33Z"
+         "published": "Fri, 22 Aug 2025 17:56:12 +0000",
+         "publishedParsed": "2025-08-22T17:56:12Z"
      },
      {
          "title": "Closing the Nix gap: From environments to packaged applications for rust",
@@ -170,16 +170,6 @@
          "publishedParsed": "2025-08-22T16:06:15Z"
      },
      {
-         "title": "Should the web platform adopt XSLT 3.0?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44987552\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/whatwg/html/issues/11578",
-         "links": [
-             "https://github.com/whatwg/html/issues/11578"
-         ],
-         "published": "Fri, 22 Aug 2025 17:56:12 +0000",
-         "publishedParsed": "2025-08-22T17:56:12Z"
-     },
-     {
          "title": "Waymo granted permit to begin testing in New York City",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44986949\"\u003eComments\u003c/a\u003e",
          "link": "https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html",
@@ -188,6 +178,16 @@
          ],
          "published": "Fri, 22 Aug 2025 17:02:48 +0000",
          "publishedParsed": "2025-08-22T17:02:48Z"
+     },
+     {
+         "title": "Everything is correlated (2014–23)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44980339\"\u003eComments\u003c/a\u003e",
+         "link": "https://gwern.net/everything",
+         "links": [
+             "https://gwern.net/everything"
+         ],
+         "published": "Fri, 22 Aug 2025 02:05:53 +0000",
+         "publishedParsed": "2025-08-22T02:05:53Z"
      },
      {
          "title": "Launch HN: Inconvo (YC S23) – AI agents for customer-facing analytics",
@@ -210,14 +210,34 @@
          "publishedParsed": "2025-08-22T11:49:08Z"
      },
      {
-         "title": "Everything is correlated (2014–23)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44980339\"\u003eComments\u003c/a\u003e",
-         "link": "https://gwern.net/everything",
+         "title": "VHS-C: When a lazy idea stumbles towards perfection [video]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44941056\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.youtube.com/watch?v=HFYWHeBhYbM",
          "links": [
-             "https://gwern.net/everything"
+             "https://www.youtube.com/watch?v=HFYWHeBhYbM"
          ],
-         "published": "Fri, 22 Aug 2025 02:05:53 +0000",
-         "publishedParsed": "2025-08-22T02:05:53Z"
+         "published": "Mon, 18 Aug 2025 14:30:28 +0000",
+         "publishedParsed": "2025-08-18T14:30:28Z"
+     },
+     {
+         "title": "South Korea deploys hologram police officer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44991643\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3322654/south-korea-deploys-hologram-police-officer-fight-crime-and-its-working",
+         "links": [
+             "https://www.scmp.com/week-asia/lifestyle-culture/article/3322654/south-korea-deploys-hologram-police-officer-fight-crime-and-its-working"
+         ],
+         "published": "Sat, 23 Aug 2025 00:19:08 +0000",
+         "publishedParsed": "2025-08-23T00:19:08Z"
+     },
+     {
+         "title": "Writing Micro Compiler in OCaml (2014)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44947484\"\u003eComments\u003c/a\u003e",
+         "link": "http://troydm.github.io/blog/2014/03/29/writing-micro-compiler-in-ocaml/",
+         "links": [
+             "http://troydm.github.io/blog/2014/03/29/writing-micro-compiler-in-ocaml/"
+         ],
+         "published": "Tue, 19 Aug 2025 02:00:32 +0000",
+         "publishedParsed": "2025-08-19T02:00:32Z"
      },
      {
          "title": "It’s not wrong that \"\\u{1F926}\\u{1F3FC}\\u200D\\u2642\\uFE0F\".length == 7 (2019)",
@@ -228,25 +248,5 @@
          ],
          "published": "Fri, 22 Aug 2025 06:18:56 +0000",
          "publishedParsed": "2025-08-22T06:18:56Z"
-     },
-     {
-         "title": "Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44985278\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2508.12631",
-         "links": [
-             "https://arxiv.org/abs/2508.12631"
-         ],
-         "published": "Fri, 22 Aug 2025 14:43:31 +0000",
-         "publishedParsed": "2025-08-22T14:43:31Z"
-     },
-     {
-         "title": "Build Log: Macintosh Classic",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44984958\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.jeffgeerling.com/blog/2025/build-log-macintosh-classic",
-         "links": [
-             "https://www.jeffgeerling.com/blog/2025/build-log-macintosh-classic"
-         ],
-         "published": "Fri, 22 Aug 2025 14:14:26 +0000",
-         "publishedParsed": "2025-08-22T14:14:26Z"
      }
  ]
