@@ -1,5 +1,15 @@
 [
      {
+         "title": "Nx compromised: malware uses Claude code CLI to explore the filesystem",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45038653\"\u003eComments\u003c/a\u003e",
+         "link": "https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/",
+         "links": [
+             "https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/"
+         ],
+         "published": "Wed, 27 Aug 2025 12:18:47 +0000",
+         "publishedParsed": "2025-08-27T12:18:47Z"
+     },
+     {
          "title": "Monodraw",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45037904\"\u003eComments\u003c/a\u003e",
          "link": "https://monodraw.helftone.com/",
@@ -10,14 +20,24 @@
          "publishedParsed": "2025-08-27T10:54:41Z"
      },
      {
-         "title": "Nx compromised: malware uses Claude code CLI to explore the filesystem",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45038653\"\u003eComments\u003c/a\u003e",
-         "link": "https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/",
+         "title": "Object-oriented design patterns in C and kernel development",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45023857\"\u003eComments\u003c/a\u003e",
+         "link": "https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev",
          "links": [
-             "https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/"
+             "https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev"
          ],
-         "published": "Wed, 27 Aug 2025 12:18:47 +0000",
-         "publishedParsed": "2025-08-27T12:18:47Z"
+         "published": "Tue, 26 Aug 2025 08:34:15 +0000",
+         "publishedParsed": "2025-08-26T08:34:15Z"
+     },
+     {
+         "title": "Implementing Forth in Go and C",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45039301\"\u003eComments\u003c/a\u003e",
+         "link": "https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/",
+         "links": [
+             "https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/"
+         ],
+         "published": "Wed, 27 Aug 2025 13:19:11 +0000",
+         "publishedParsed": "2025-08-27T13:19:11Z"
      },
      {
          "title": "The Therac-25 Incident (2021)",
@@ -30,7 +50,17 @@
          "publishedParsed": "2025-08-27T06:57:56Z"
      },
      {
-         "title": "How to Slow Down a Program? and Why It Can Be Useful",
+         "title": "SpaceX's giant Starship Mars rocket nails critical 10th test flight",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45039075\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.space.com/space-exploration/private-spaceflight/spacex-launches-starship-flight-10-critical-test-flight-video",
+         "links": [
+             "https://www.space.com/space-exploration/private-spaceflight/spacex-launches-starship-flight-10-critical-test-flight-video"
+         ],
+         "published": "Wed, 27 Aug 2025 13:01:57 +0000",
+         "publishedParsed": "2025-08-27T13:01:57Z"
+     },
+     {
+         "title": "Slowing down programs is surprisingly useful",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45038260\"\u003eComments\u003c/a\u003e",
          "link": "https://stefan-marr.de/2025/08/how-to-slow-down-a-program/",
          "links": [
@@ -40,14 +70,14 @@
          "publishedParsed": "2025-08-27T11:38:35Z"
      },
      {
-         "title": "Delphi in the Age of AI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44996432\"\u003eComments\u003c/a\u003e",
-         "link": "https://learndelphi.org/delphi-ai-ultimate-guide/",
+         "title": "ASCIIFlow",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45038565\"\u003eComments\u003c/a\u003e",
+         "link": "https://asciiflow.com/",
          "links": [
-             "https://learndelphi.org/delphi-ai-ultimate-guide/"
+             "https://asciiflow.com/"
          ],
-         "published": "Sat, 23 Aug 2025 14:54:03 +0000",
-         "publishedParsed": "2025-08-23T14:54:03Z"
+         "published": "Wed, 27 Aug 2025 12:10:21 +0000",
+         "publishedParsed": "2025-08-27T12:10:21Z"
      },
      {
          "title": "WebLibre: The Privacy-Focused Browser",
@@ -60,34 +90,14 @@
          "publishedParsed": "2025-08-27T08:38:58Z"
      },
      {
-         "title": "QEMU 10.1.0",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45037947\"\u003eComments\u003c/a\u003e",
-         "link": "https://wiki.qemu.org/ChangeLog/10.1",
+         "title": "Delphi in the Age of AI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44996432\"\u003eComments\u003c/a\u003e",
+         "link": "https://learndelphi.org/delphi-ai-ultimate-guide/",
          "links": [
-             "https://wiki.qemu.org/ChangeLog/10.1"
+             "https://learndelphi.org/delphi-ai-ultimate-guide/"
          ],
-         "published": "Wed, 27 Aug 2025 11:02:33 +0000",
-         "publishedParsed": "2025-08-27T11:02:33Z"
-     },
-     {
-         "title": "Ember (YC F24) Is Hiring Full Stack Engineer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45038463\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026",
-         "links": [
-             "https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026"
-         ],
-         "published": "Wed, 27 Aug 2025 12:00:18 +0000",
-         "publishedParsed": "2025-08-27T12:00:18Z"
-     },
-     {
-         "title": "Claude for Chrome",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45030760\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.anthropic.com/news/claude-for-chrome",
-         "links": [
-             "https://www.anthropic.com/news/claude-for-chrome"
-         ],
-         "published": "Tue, 26 Aug 2025 19:01:56 +0000",
-         "publishedParsed": "2025-08-26T19:01:56Z"
+         "published": "Sat, 23 Aug 2025 14:54:03 +0000",
+         "publishedParsed": "2025-08-23T14:54:03Z"
      },
      {
          "title": "The GitHub website is slow on Safari",
@@ -100,14 +110,54 @@
          "publishedParsed": "2025-08-27T09:43:43Z"
      },
      {
-         "title": "I Spent over $31,900 on Whiteout Survival – Here's Why I Regret It",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45038783\"\u003eComments\u003c/a\u003e",
-         "link": "https://old.reddit.com/r/whiteoutsurvival/comments/1hki2e9/i_spent_over_31900_on_whiteout_survivalheres_why/",
+         "title": "Ember (YC F24) Is Hiring Full Stack Engineer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45038463\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026",
          "links": [
-             "https://old.reddit.com/r/whiteoutsurvival/comments/1hki2e9/i_spent_over_31900_on_whiteout_survivalheres_why/"
+             "https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026"
          ],
-         "published": "Wed, 27 Aug 2025 12:34:20 +0000",
-         "publishedParsed": "2025-08-27T12:34:20Z"
+         "published": "Wed, 27 Aug 2025 12:00:18 +0000",
+         "publishedParsed": "2025-08-27T12:00:18Z"
+     },
+     {
+         "title": "What We Find in the Sewers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45039661\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.asimov.press/p/sewers",
+         "links": [
+             "https://www.asimov.press/p/sewers"
+         ],
+         "published": "Wed, 27 Aug 2025 13:50:59 +0000",
+         "publishedParsed": "2025-08-27T13:50:59Z"
+     },
+     {
+         "title": "Claude for Chrome",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45030760\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.anthropic.com/news/claude-for-chrome",
+         "links": [
+             "https://www.anthropic.com/news/claude-for-chrome"
+         ],
+         "published": "Tue, 26 Aug 2025 19:01:56 +0000",
+         "publishedParsed": "2025-08-26T19:01:56Z"
+     },
+     {
+         "title": "QEMU 10.1.0",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45037947\"\u003eComments\u003c/a\u003e",
+         "link": "https://wiki.qemu.org/ChangeLog/10.1",
+         "links": [
+             "https://wiki.qemu.org/ChangeLog/10.1"
+         ],
+         "published": "Wed, 27 Aug 2025 11:02:33 +0000",
+         "publishedParsed": "2025-08-27T11:02:33Z"
+     },
+     {
+         "title": "Using information theory to solve Mastermind",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45000904\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.goranssongaspar.com/mastermind",
+         "links": [
+             "https://www.goranssongaspar.com/mastermind"
+         ],
+         "published": "Sun, 24 Aug 2025 02:54:11 +0000",
+         "publishedParsed": "2025-08-24T02:54:11Z"
      },
      {
          "title": "Gemini 2.5 Flash Image",
@@ -120,6 +170,46 @@
          "publishedParsed": "2025-08-26T14:01:46Z"
      },
      {
+         "title": "F-35 pilot held 50-minute airborne conference call with engineers before crash",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45038261\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cnn.com/2025/08/27/us/alaska-f-35-crash-accident-report-hnk-ml",
+         "links": [
+             "https://www.cnn.com/2025/08/27/us/alaska-f-35-crash-accident-report-hnk-ml"
+         ],
+         "published": "Wed, 27 Aug 2025 11:38:42 +0000",
+         "publishedParsed": "2025-08-27T11:38:42Z"
+     },
+     {
+         "title": "Malleable Software",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45036754\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.mdubakov.me/malleable-software-will-eat-the-saas-world/",
+         "links": [
+             "https://www.mdubakov.me/malleable-software-will-eat-the-saas-world/"
+         ],
+         "published": "Wed, 27 Aug 2025 08:04:02 +0000",
+         "publishedParsed": "2025-08-27T08:04:02Z"
+     },
+     {
+         "title": "Why Aren't People Going to Local and Regional In-Person Events Anymore?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45040076\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.brentozar.com/archive/2025/08/why-arent-people-going-to-local-and-regional-in-person-events-anymore/",
+         "links": [
+             "https://www.brentozar.com/archive/2025/08/why-arent-people-going-to-local-and-regional-in-person-events-anymore/"
+         ],
+         "published": "Wed, 27 Aug 2025 14:17:22 +0000",
+         "publishedParsed": "2025-08-27T14:17:22Z"
+     },
+     {
+         "title": "Word documents will be saved to the cloud automatically on Windows going forward",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45037621\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ghacks.net/2025/08/27/your-word-documents-will-be-saved-to-the-cloud-automatically-on-windows-going-forward/",
+         "links": [
+             "https://www.ghacks.net/2025/08/27/your-word-documents-will-be-saved-to-the-cloud-automatically-on-windows-going-forward/"
+         ],
+         "published": "Wed, 27 Aug 2025 10:19:14 +0000",
+         "publishedParsed": "2025-08-27T10:19:14Z"
+     },
+     {
          "title": "Dissecting the Apple M1 GPU, the end",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45034537\"\u003eComments\u003c/a\u003e",
          "link": "https://rosenzweig.io/blog/asahi-gpu-part-n.html",
@@ -128,16 +218,6 @@
          ],
          "published": "Wed, 27 Aug 2025 01:44:16 +0000",
          "publishedParsed": "2025-08-27T01:44:16Z"
-     },
-     {
-         "title": "Molluscs of the Multiverse: molluscan diversity in Magic: The Gathering",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45005209\"\u003eComments\u003c/a\u003e",
-         "link": "https://jgeekstudies.org/2025/08/24/molluscs-of-the-multiverse-molluscan-diversity-in-magic-the-gathering/",
-         "links": [
-             "https://jgeekstudies.org/2025/08/24/molluscs-of-the-multiverse-molluscan-diversity-in-magic-the-gathering/"
-         ],
-         "published": "Sun, 24 Aug 2025 15:53:58 +0000",
-         "publishedParsed": "2025-08-24T15:53:58Z"
      },
      {
          "title": "Show HN: FilterQL – A tiny query language for filtering structured data",
@@ -158,6 +238,26 @@
          ],
          "published": "Sat, 23 Aug 2025 13:32:36 +0000",
          "publishedParsed": "2025-08-23T13:32:36Z"
+     },
+     {
+         "title": "Molluscs of the Multiverse: molluscan diversity in Magic: The Gathering",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45005209\"\u003eComments\u003c/a\u003e",
+         "link": "https://jgeekstudies.org/2025/08/24/molluscs-of-the-multiverse-molluscan-diversity-in-magic-the-gathering/",
+         "links": [
+             "https://jgeekstudies.org/2025/08/24/molluscs-of-the-multiverse-molluscan-diversity-in-magic-the-gathering/"
+         ],
+         "published": "Sun, 24 Aug 2025 15:53:58 +0000",
+         "publishedParsed": "2025-08-24T15:53:58Z"
+     },
+     {
+         "title": "The “Wow!” signal was likely from extraterrestrial source, and more powerful",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45033114\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.iflscience.com/the-wow-signal-was-likely-from-an-extraterrestrial-source-and-more-powerful-than-we-thought-80561",
+         "links": [
+             "https://www.iflscience.com/the-wow-signal-was-likely-from-an-extraterrestrial-source-and-more-powerful-than-we-thought-80561"
+         ],
+         "published": "Tue, 26 Aug 2025 22:25:06 +0000",
+         "publishedParsed": "2025-08-26T22:25:06Z"
      },
      {
          "title": "GNU Artanis – A fast web application framework for Scheme",
@@ -188,85 +288,5 @@
          ],
          "published": "Sun, 24 Aug 2025 17:54:47 +0000",
          "publishedParsed": "2025-08-24T17:54:47Z"
-     },
-     {
-         "title": "The man with a Home Computer (1967) [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45035685\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=w6Ka42eyudA",
-         "links": [
-             "https://www.youtube.com/watch?v=w6Ka42eyudA"
-         ],
-         "published": "Wed, 27 Aug 2025 05:11:18 +0000",
-         "publishedParsed": "2025-08-27T05:11:18Z"
-     },
-     {
-         "title": "Reverse Engineered Raspberry Pi Compute Module 5",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45007525\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/schlae/cm5-reveng",
-         "links": [
-             "https://github.com/schlae/cm5-reveng"
-         ],
-         "published": "Sun, 24 Aug 2025 20:34:49 +0000",
-         "publishedParsed": "2025-08-24T20:34:49Z"
-     },
-     {
-         "title": "Neuralink 'Participant 1' says his life has changed",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45002688\"\u003eComments\u003c/a\u003e",
-         "link": "https://fortune.com/2025/08/23/neuralink-participant-1-noland-arbaugh-18-months-post-surgery-life-changed-elon-musk/",
-         "links": [
-             "https://fortune.com/2025/08/23/neuralink-participant-1-noland-arbaugh-18-months-post-surgery-life-changed-elon-musk/"
-         ],
-         "published": "Sun, 24 Aug 2025 09:12:14 +0000",
-         "publishedParsed": "2025-08-24T09:12:14Z"
-     },
-     {
-         "title": "One universal antiviral to rule them all?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45026792\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all",
-         "links": [
-             "https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all"
-         ],
-         "published": "Tue, 26 Aug 2025 14:07:42 +0000",
-         "publishedParsed": "2025-08-26T14:07:42Z"
-     },
-     {
-         "title": "Word documents will be saved to the cloud automatically on Windows going forward",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45037621\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ghacks.net/2025/08/27/your-word-documents-will-be-saved-to-the-cloud-automatically-on-windows-going-forward/",
-         "links": [
-             "https://www.ghacks.net/2025/08/27/your-word-documents-will-be-saved-to-the-cloud-automatically-on-windows-going-forward/"
-         ],
-         "published": "Wed, 27 Aug 2025 10:19:14 +0000",
-         "publishedParsed": "2025-08-27T10:19:14Z"
-     },
-     {
-         "title": "Japan has opened its first osmotic power plant",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45009760\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka",
-         "links": [
-             "https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka"
-         ],
-         "published": "Mon, 25 Aug 2025 02:53:35 +0000",
-         "publishedParsed": "2025-08-25T02:53:35Z"
-     },
-     {
-         "title": "Bypass PostgreSQL catalog overhead with direct partition hash calculations",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44998276\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.shayon.dev/post/2025/221/bypass-postgresql-catalog-overhead-with-direct-partition-hash-calculations/",
-         "links": [
-             "https://www.shayon.dev/post/2025/221/bypass-postgresql-catalog-overhead-with-direct-partition-hash-calculations/"
-         ],
-         "published": "Sat, 23 Aug 2025 19:05:31 +0000",
-         "publishedParsed": "2025-08-23T19:05:31Z"
-     },
-     {
-         "title": "SpaCy: Industrial-Strength Natural Language Processing (NLP) in Python",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=44994535\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/explosion/spaCy",
-         "links": [
-             "https://github.com/explosion/spaCy"
-         ],
-         "published": "Sat, 23 Aug 2025 09:07:38 +0000",
-         "publishedParsed": "2025-08-23T09:07:38Z"
      }
  ]
