@@ -20,6 +20,16 @@
          "publishedParsed": "2025-08-29T04:22:48Z"
      },
      {
+         "title": "Make any site multiplayer in a few lines. Serverless WebRTC matchmaking",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45012080\"\u003eComments\u003c/a\u003e",
+         "link": "https://oxism.com/trystero/",
+         "links": [
+             "https://oxism.com/trystero/"
+         ],
+         "published": "Mon, 25 Aug 2025 09:48:53 +0000",
+         "publishedParsed": "2025-08-25T09:48:53Z"
+     },
+     {
          "title": "A deep dive into Debian 13 /tmp: What's new, and what to do if you don't like it",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45059470\"\u003eComments\u003c/a\u003e",
          "link": "https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/",
@@ -50,16 +60,6 @@
          "publishedParsed": "2025-08-28T21:04:36Z"
      },
      {
-         "title": "The Space Shuttle Columbia disaster and the over-reliance on PowerPoint (2019)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45057404\"\u003eComments\u003c/a\u003e",
-         "link": "https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx",
-         "links": [
-             "https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx"
-         ],
-         "published": "Thu, 28 Aug 2025 21:44:47 +0000",
-         "publishedParsed": "2025-08-28T21:44:47Z"
-     },
-     {
          "title": "My startup banking story (2023)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45056177\"\u003eComments\u003c/a\u003e",
          "link": "https://mitchellh.com/writing/my-startup-banking-story",
@@ -68,26 +68,6 @@
          ],
          "published": "Thu, 28 Aug 2025 19:38:20 +0000",
          "publishedParsed": "2025-08-28T19:38:20Z"
-     },
-     {
-         "title": "Lucky 13: a look at Debian trixie",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45059160\"\u003eComments\u003c/a\u003e",
-         "link": "https://lwn.net/Articles/1033474/",
-         "links": [
-             "https://lwn.net/Articles/1033474/"
-         ],
-         "published": "Fri, 29 Aug 2025 01:55:14 +0000",
-         "publishedParsed": "2025-08-29T01:55:14Z"
-     },
-     {
-         "title": "Uncertain\u003cT\u003e",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45054703\"\u003eComments\u003c/a\u003e",
-         "link": "https://nshipster.com/uncertainty/",
-         "links": [
-             "https://nshipster.com/uncertainty/"
-         ],
-         "published": "Thu, 28 Aug 2025 17:22:54 +0000",
-         "publishedParsed": "2025-08-28T17:22:54Z"
      },
      {
          "title": "AI adoption linked to 13% decline in jobs for young U.S. workers: study",
@@ -100,24 +80,44 @@
          "publishedParsed": "2025-08-28T14:13:44Z"
      },
      {
-         "title": "Python: The Documentary [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45058171\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=GfH4QL4VqJ0",
+         "title": "The Space Shuttle Columbia disaster and the over-reliance on PowerPoint (2019)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45057404\"\u003eComments\u003c/a\u003e",
+         "link": "https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx",
          "links": [
-             "https://www.youtube.com/watch?v=GfH4QL4VqJ0"
+             "https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx"
          ],
-         "published": "Thu, 28 Aug 2025 23:27:27 +0000",
-         "publishedParsed": "2025-08-28T23:27:27Z"
+         "published": "Thu, 28 Aug 2025 21:44:47 +0000",
+         "publishedParsed": "2025-08-28T21:44:47Z"
      },
      {
-         "title": "Thrashing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45036704\"\u003eComments\u003c/a\u003e",
-         "link": "https://exple.tive.org/blarg/2025/08/26/thrashing/",
+         "title": "Uncertain\u003cT\u003e",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45054703\"\u003eComments\u003c/a\u003e",
+         "link": "https://nshipster.com/uncertainty/",
          "links": [
-             "https://exple.tive.org/blarg/2025/08/26/thrashing/"
+             "https://nshipster.com/uncertainty/"
          ],
-         "published": "Wed, 27 Aug 2025 07:55:43 +0000",
-         "publishedParsed": "2025-08-27T07:55:43Z"
+         "published": "Thu, 28 Aug 2025 17:22:54 +0000",
+         "publishedParsed": "2025-08-28T17:22:54Z"
+     },
+     {
+         "title": "PSA: Libxslt is unmaintained and has 5 unpatched security bugs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45060004\"\u003eComments\u003c/a\u003e",
+         "link": "https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html",
+         "links": [
+             "https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html"
+         ],
+         "published": "Fri, 29 Aug 2025 03:57:46 +0000",
+         "publishedParsed": "2025-08-29T03:57:46Z"
+     },
+     {
+         "title": "An eyecare foundation model for clinical assistance",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45057513\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nature.com/articles/s41591-025-03900-7",
+         "links": [
+             "https://www.nature.com/articles/s41591-025-03900-7"
+         ],
+         "published": "Thu, 28 Aug 2025 21:57:40 +0000",
+         "publishedParsed": "2025-08-28T21:57:40Z"
      },
      {
          "title": "Launch HN: Dedalus Labs (YC S25) – Vercel for Agents",
@@ -130,6 +130,16 @@
          "publishedParsed": "2025-08-28T16:22:02Z"
      },
      {
+         "title": "Python: The Documentary [video]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45058171\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.youtube.com/watch?v=GfH4QL4VqJ0",
+         "links": [
+             "https://www.youtube.com/watch?v=GfH4QL4VqJ0"
+         ],
+         "published": "Thu, 28 Aug 2025 23:27:27 +0000",
+         "publishedParsed": "2025-08-28T23:27:27Z"
+     },
+     {
          "title": "Expert: LSP for Elixir",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45057322\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/elixir-lang/expert",
@@ -140,14 +150,14 @@
          "publishedParsed": "2025-08-28T21:36:36Z"
      },
      {
-         "title": "Are OpenAI and Anthropic losing money on inference?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45050415\"\u003eComments\u003c/a\u003e",
-         "link": "https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/",
+         "title": "How life-size cows made of butter became an iconic symbol of the Midwest",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45019329\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.smithsonianmag.com/smithsonian-institution/how-life-size-cows-made-of-butter-became-an-iconic-symbol-of-the-midwest-180987208/",
          "links": [
-             "https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/"
+             "https://www.smithsonianmag.com/smithsonian-institution/how-life-size-cows-made-of-butter-became-an-iconic-symbol-of-the-midwest-180987208/"
          ],
-         "published": "Thu, 28 Aug 2025 10:15:22 +0000",
-         "publishedParsed": "2025-08-28T10:15:22Z"
+         "published": "Mon, 25 Aug 2025 21:35:45 +0000",
+         "publishedParsed": "2025-08-25T21:35:45Z"
      },
      {
          "title": "Sometimes CPU cores are odd",
@@ -158,6 +168,26 @@
          ],
          "published": "Thu, 28 Aug 2025 21:39:18 +0000",
          "publishedParsed": "2025-08-28T21:39:18Z"
+     },
+     {
+         "title": "AI coding made me faster, but I can't code to music anymore",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45035684\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.praf.me/ai-coding",
+         "links": [
+             "https://www.praf.me/ai-coding"
+         ],
+         "published": "Wed, 27 Aug 2025 05:10:53 +0000",
+         "publishedParsed": "2025-08-27T05:10:53Z"
+     },
+     {
+         "title": "Thrashing",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45036704\"\u003eComments\u003c/a\u003e",
+         "link": "https://exple.tive.org/blarg/2025/08/26/thrashing/",
+         "links": [
+             "https://exple.tive.org/blarg/2025/08/26/thrashing/"
+         ],
+         "published": "Wed, 27 Aug 2025 07:55:43 +0000",
+         "publishedParsed": "2025-08-27T07:55:43Z"
      },
      {
          "title": "Rupert's Property",
@@ -180,6 +210,16 @@
          "publishedParsed": "2025-08-28T18:34:29Z"
      },
      {
+         "title": "Web Bot Auth",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45055452\"\u003eComments\u003c/a\u003e",
+         "link": "https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/",
+         "links": [
+             "https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/"
+         ],
+         "published": "Thu, 28 Aug 2025 18:35:46 +0000",
+         "publishedParsed": "2025-08-28T18:35:46Z"
+     },
+     {
          "title": "In Search of AI Psychosis",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45027072\"\u003eComments\u003c/a\u003e",
          "link": "https://www.astralcodexten.com/p/in-search-of-ai-psychosis",
@@ -190,24 +230,14 @@
          "publishedParsed": "2025-08-26T14:30:50Z"
      },
      {
-         "title": "AI coding made me faster, but I can't code to music anymore",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45035684\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.praf.me/ai-coding",
+         "title": "RSS is awesome",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45058024\"\u003eComments\u003c/a\u003e",
+         "link": "https://evanverma.com/rss-is-awesome",
          "links": [
-             "https://www.praf.me/ai-coding"
+             "https://evanverma.com/rss-is-awesome"
          ],
-         "published": "Wed, 27 Aug 2025 05:10:53 +0000",
-         "publishedParsed": "2025-08-27T05:10:53Z"
-     },
-     {
-         "title": "Web Bot Auth",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45055452\"\u003eComments\u003c/a\u003e",
-         "link": "https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/",
-         "links": [
-             "https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/"
-         ],
-         "published": "Thu, 28 Aug 2025 18:35:46 +0000",
-         "publishedParsed": "2025-08-28T18:35:46Z"
+         "published": "Thu, 28 Aug 2025 23:04:01 +0000",
+         "publishedParsed": "2025-08-28T23:04:01Z"
      },
      {
          "title": "TuneD is a system tuning service for Linux",
@@ -220,24 +250,14 @@
          "publishedParsed": "2025-08-25T15:03:57Z"
      },
      {
-         "title": "Dependent Types: Universes, or types of types",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45036094\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.jonmsterling.com/01ET/index.xml",
+         "title": "You no longer need JavaScript: an overview of what makes modern CSS so awesome",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45056878\"\u003eComments\u003c/a\u003e",
+         "link": "https://lyra.horse/blog/2025/08/you-dont-need-js/",
          "links": [
-             "https://www.jonmsterling.com/01ET/index.xml"
+             "https://lyra.horse/blog/2025/08/you-dont-need-js/"
          ],
-         "published": "Wed, 27 Aug 2025 06:30:36 +0000",
-         "publishedParsed": "2025-08-27T06:30:36Z"
-     },
-     {
-         "title": "RSS is awesome",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45058024\"\u003eComments\u003c/a\u003e",
-         "link": "https://evanverma.com/rss-is-awesome",
-         "links": [
-             "https://evanverma.com/rss-is-awesome"
-         ],
-         "published": "Thu, 28 Aug 2025 23:04:01 +0000",
-         "publishedParsed": "2025-08-28T23:04:01Z"
+         "published": "Thu, 28 Aug 2025 20:49:34 +0000",
+         "publishedParsed": "2025-08-28T20:49:34Z"
      },
      {
          "title": "Ask HN: What to learn for math for modeling?",
@@ -258,35 +278,5 @@
          ],
          "published": "Wed, 27 Aug 2025 16:34:31 +0000",
          "publishedParsed": "2025-08-27T16:34:31Z"
-     },
-     {
-         "title": "You no longer need JavaScript: an overview of what makes modern CSS so awesome",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45056878\"\u003eComments\u003c/a\u003e",
-         "link": "https://lyra.horse/blog/2025/08/you-dont-need-js/",
-         "links": [
-             "https://lyra.horse/blog/2025/08/you-dont-need-js/"
-         ],
-         "published": "Thu, 28 Aug 2025 20:49:34 +0000",
-         "publishedParsed": "2025-08-28T20:49:34Z"
-     },
-     {
-         "title": "There Goes the American Muscle Car",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45057002\"\u003eComments\u003c/a\u003e",
-         "link": "https://thedispatch.com/article/dodge-challenger-muscle-cars/",
-         "links": [
-             "https://thedispatch.com/article/dodge-challenger-muscle-cars/"
-         ],
-         "published": "Thu, 28 Aug 2025 21:02:28 +0000",
-         "publishedParsed": "2025-08-28T21:02:28Z"
-     },
-     {
-         "title": "Will AI Replace Human Thinking? The Case for Writing and Coding Manually",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45052784\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ssp.sh/brain/will-ai-replace-humans/",
-         "links": [
-             "https://www.ssp.sh/brain/will-ai-replace-humans/"
-         ],
-         "published": "Thu, 28 Aug 2025 14:40:58 +0000",
-         "publishedParsed": "2025-08-28T14:40:58Z"
      }
  ]
