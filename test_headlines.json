@@ -1,15 +1,5 @@
 [
      {
-         "title": "Microsoft Releases Historic 6502 Basic",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45118392\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/microsoft/BASIC-M6502",
-         "links": [
-             "https://github.com/microsoft/BASIC-M6502"
-         ],
-         "published": "Wed, 03 Sep 2025 17:28:32 +0000",
-         "publishedParsed": "2025-09-03T17:28:32Z"
-     },
-     {
          "title": "Claude Code: Now in Beta in Zed",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45116688\"\u003eComments\u003c/a\u003e",
          "link": "https://zed.dev/blog/claude-code-via-acp",
@@ -40,14 +30,24 @@
          "publishedParsed": "2025-09-03T17:03:35Z"
      },
      {
-         "title": "Poor man's bitemporal data system in SQLite and Clojure",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45118585\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html",
+         "title": "We're Joining OpenAI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45119076\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.alexcodes.app/blog/alex-team-joins-openai",
          "links": [
-             "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html"
+             "https://www.alexcodes.app/blog/alex-team-joins-openai"
          ],
-         "published": "Wed, 03 Sep 2025 17:47:50 +0000",
-         "publishedParsed": "2025-09-03T17:47:50Z"
+         "published": "Wed, 03 Sep 2025 18:38:48 +0000",
+         "publishedParsed": "2025-09-03T18:38:48Z"
+     },
+     {
+         "title": "Microsoft BASIC for 6502 Microprocessor – Version 1.1",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45118392\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/microsoft/BASIC-M6502",
+         "links": [
+             "https://github.com/microsoft/BASIC-M6502"
+         ],
+         "published": "Wed, 03 Sep 2025 17:28:32 +0000",
+         "publishedParsed": "2025-09-03T17:28:32Z"
      },
      {
          "title": "Writing a C compiler in 500 lines of Python (2023)",
@@ -60,6 +60,26 @@
          "publishedParsed": "2025-09-03T16:28:23Z"
      },
      {
+         "title": "Understanding Transformers Using a Minimal Example",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45116957\"\u003eComments\u003c/a\u003e",
+         "link": "https://rti.github.io/gptvis/",
+         "links": [
+             "https://rti.github.io/gptvis/"
+         ],
+         "published": "Wed, 03 Sep 2025 15:30:06 +0000",
+         "publishedParsed": "2025-09-03T15:30:06Z"
+     },
+     {
+         "title": "Poor man's bitemporal data system in SQLite and Clojure",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45118585\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html",
+         "links": [
+             "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html"
+         ],
+         "published": "Wed, 03 Sep 2025 17:47:50 +0000",
+         "publishedParsed": "2025-09-03T17:47:50Z"
+     },
+     {
          "title": "VibeVoice: A Frontier Open-Source Text-to-Speech Model",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45114245\"\u003eComments\u003c/a\u003e",
          "link": "https://microsoft.github.io/VibeVoice/",
@@ -70,16 +90,6 @@
          "publishedParsed": "2025-09-03T10:44:01Z"
      },
      {
-         "title": "Who Owns, Operates, and Develops Your VPN Matters",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45117974\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.opentech.fund/news/who-owns-operates-and-develops-your-vpn-matters-an-analysis-of-transparency-vs-anonymity-in-the-vpn-ecosystem-and-implications-for-users/",
-         "links": [
-             "https://www.opentech.fund/news/who-owns-operates-and-develops-your-vpn-matters-an-analysis-of-transparency-vs-anonymity-in-the-vpn-ecosystem-and-implications-for-users/"
-         ],
-         "published": "Wed, 03 Sep 2025 16:51:05 +0000",
-         "publishedParsed": "2025-09-03T16:51:05Z"
-     },
-     {
          "title": "What Is It Like to Be a Bat?",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45118592\"\u003eComments\u003c/a\u003e",
          "link": "https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F",
@@ -88,6 +98,36 @@
          ],
          "published": "Wed, 03 Sep 2025 17:48:27 +0000",
          "publishedParsed": "2025-09-03T17:48:27Z"
+     },
+     {
+         "title": "The wall confronting large language models",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45114579\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2507.19703",
+         "links": [
+             "https://arxiv.org/abs/2507.19703"
+         ],
+         "published": "Wed, 03 Sep 2025 11:40:41 +0000",
+         "publishedParsed": "2025-09-03T11:40:41Z"
+     },
+     {
+         "title": "OSMAnd vs. Organic Maps",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45090654\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.firedrake.org/archive/2025/09/OSMAnd_vs_Organic_Maps.html",
+         "links": [
+             "https://blog.firedrake.org/archive/2025/09/OSMAnd_vs_Organic_Maps.html"
+         ],
+         "published": "Mon, 01 Sep 2025 08:14:53 +0000",
+         "publishedParsed": "2025-09-01T08:14:53Z"
+     },
+     {
+         "title": "Tufte CSS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45119103\"\u003eComments\u003c/a\u003e",
+         "link": "https://edwardtufte.github.io/tufte-css/",
+         "links": [
+             "https://edwardtufte.github.io/tufte-css/"
+         ],
+         "published": "Wed, 03 Sep 2025 18:41:57 +0000",
+         "publishedParsed": "2025-09-03T18:41:57Z"
      },
      {
          "title": "Svix (webhooks as a service) is hiring for a founding marketing lead",
@@ -110,6 +150,26 @@
          "publishedParsed": "2025-09-03T11:07:16Z"
      },
      {
+         "title": "6NF File Format",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45118598\"\u003eComments\u003c/a\u003e",
+         "link": "https://habr.com/en/articles/942516/",
+         "links": [
+             "https://habr.com/en/articles/942516/"
+         ],
+         "published": "Wed, 03 Sep 2025 17:49:08 +0000",
+         "publishedParsed": "2025-09-03T17:49:08Z"
+     },
+     {
+         "title": "The Theoretical Limitations of Embedding-Based Retrieval",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45119397\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.alphaxiv.org/abs/2508.21038v1",
+         "links": [
+             "https://www.alphaxiv.org/abs/2508.21038v1"
+         ],
+         "published": "Wed, 03 Sep 2025 19:09:29 +0000",
+         "publishedParsed": "2025-09-03T19:09:29Z"
+     },
+     {
          "title": "A Random Walk in 10 Dimensions (2021)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45116849\"\u003eComments\u003c/a\u003e",
          "link": "https://galileo-unbound.blog/2021/06/28/a-random-walk-in-10-dimensions/",
@@ -118,16 +178,6 @@
          ],
          "published": "Wed, 03 Sep 2025 15:20:34 +0000",
          "publishedParsed": "2025-09-03T15:20:34Z"
-     },
-     {
-         "title": "Understanding Transformers Using a Minimal Example",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45116957\"\u003eComments\u003c/a\u003e",
-         "link": "https://rti.github.io/gptvis/",
-         "links": [
-             "https://rti.github.io/gptvis/"
-         ],
-         "published": "Wed, 03 Sep 2025 15:30:06 +0000",
-         "publishedParsed": "2025-09-03T15:30:06Z"
      },
      {
          "title": "Building the most accurate DIY CNC lathe in the world [video]",
@@ -140,26 +190,6 @@
          "publishedParsed": "2025-09-03T13:47:14Z"
      },
      {
-         "title": "Vector search on our codebase transformed our SDLC automation",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45103205\"\u003eComments\u003c/a\u003e",
-         "link": "https://medium.com/@antonybrahin/grounding-ai-in-reality-how-vector-search-on-our-codebase-transformed-our-sdlc-automation-7d068b1244a8",
-         "links": [
-             "https://medium.com/@antonybrahin/grounding-ai-in-reality-how-vector-search-on-our-codebase-transformed-our-sdlc-automation-7d068b1244a8"
-         ],
-         "published": "Tue, 02 Sep 2025 13:58:27 +0000",
-         "publishedParsed": "2025-09-02T13:58:27Z"
-     },
-     {
-         "title": "The wall confronting large language models",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45114579\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2507.19703",
-         "links": [
-             "https://arxiv.org/abs/2507.19703"
-         ],
-         "published": "Wed, 03 Sep 2025 11:40:41 +0000",
-         "publishedParsed": "2025-09-03T11:40:41Z"
-     },
-     {
          "title": "Launch HN: Risely (YC S25) – AI Agents for Universities",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45116859\"\u003eComments\u003c/a\u003e",
          "link": "https://news.ycombinator.com/item?id=45116859",
@@ -170,24 +200,14 @@
          "publishedParsed": "2025-09-03T15:21:35Z"
      },
      {
-         "title": "John Coltrane's Tone Circle",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45115004\"\u003eComments\u003c/a\u003e",
-         "link": "https://roelsworld.eu/blog-saxophone/coltrane-tone-circle/",
+         "title": "The Sudden Surges That Forge Evolutionary Trees",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45101794\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.quantamagazine.org/the-sudden-surges-that-forge-evolutionary-trees-20250828/",
          "links": [
-             "https://roelsworld.eu/blog-saxophone/coltrane-tone-circle/"
+             "https://www.quantamagazine.org/the-sudden-surges-that-forge-evolutionary-trees-20250828/"
          ],
-         "published": "Wed, 03 Sep 2025 12:38:47 +0000",
-         "publishedParsed": "2025-09-03T12:38:47Z"
-     },
-     {
-         "title": "Ask HN: Looking for Headless CMS Recommendation",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45081752\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=45081752",
-         "links": [
-             "https://news.ycombinator.com/item?id=45081752"
-         ],
-         "published": "Sun, 31 Aug 2025 09:19:52 +0000",
-         "publishedParsed": "2025-08-31T09:19:52Z"
+         "published": "Tue, 02 Sep 2025 11:45:37 +0000",
+         "publishedParsed": "2025-09-02T11:45:37Z"
      },
      {
          "title": "The 16-year odyssey it took to emulate the Pioneer LaserActive",
@@ -200,84 +220,24 @@
          "publishedParsed": "2025-09-03T10:02:11Z"
      },
      {
-         "title": "6NF File Format",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45118598\"\u003eComments\u003c/a\u003e",
-         "link": "https://habr.com/en/articles/942516/",
+         "title": "John Coltrane's Tone Circle",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45115004\"\u003eComments\u003c/a\u003e",
+         "link": "https://roelsworld.eu/blog-saxophone/coltrane-tone-circle/",
          "links": [
-             "https://habr.com/en/articles/942516/"
+             "https://roelsworld.eu/blog-saxophone/coltrane-tone-circle/"
          ],
-         "published": "Wed, 03 Sep 2025 17:49:08 +0000",
-         "publishedParsed": "2025-09-03T17:49:08Z"
+         "published": "Wed, 03 Sep 2025 12:38:47 +0000",
+         "publishedParsed": "2025-09-03T12:38:47Z"
      },
      {
-         "title": "UK Electricity Generation Map",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45114277\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.energydashboard.co.uk/map",
+         "title": "Gleam Gathering 2026",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45119552\"\u003eComments\u003c/a\u003e",
+         "link": "https://gleamgathering.com/",
          "links": [
-             "https://www.energydashboard.co.uk/map"
+             "https://gleamgathering.com/"
          ],
-         "published": "Wed, 03 Sep 2025 10:49:48 +0000",
-         "publishedParsed": "2025-09-03T10:49:48Z"
-     },
-     {
-         "title": "How to Give a Good Talk",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45076992\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/",
-         "links": [
-             "https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/"
-         ],
-         "published": "Sat, 30 Aug 2025 18:42:08 +0000",
-         "publishedParsed": "2025-08-30T18:42:08Z"
-     },
-     {
-         "title": "Abstract Machine Models (2022)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45079767\"\u003eComments\u003c/a\u003e",
-         "link": "https://dr-knz.net/abstract-machine-models.html",
-         "links": [
-             "https://dr-knz.net/abstract-machine-models.html"
-         ],
-         "published": "Sun, 31 Aug 2025 02:20:10 +0000",
-         "publishedParsed": "2025-08-31T02:20:10Z"
-     },
-     {
-         "title": "PFP: A Probabilistic Functional Programming Library for Haskell (2006)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45079418\"\u003eComments\u003c/a\u003e",
-         "link": "https://web.engr.oregonstate.edu/~erwig/pfp/",
-         "links": [
-             "https://web.engr.oregonstate.edu/~erwig/pfp/"
-         ],
-         "published": "Sun, 31 Aug 2025 01:02:47 +0000",
-         "publishedParsed": "2025-08-31T01:02:47Z"
-     },
-     {
-         "title": "Glow-in-the-dark houseplants shine in rainbow of colours",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45083053\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nature.com/articles/d41586-025-02740-2",
-         "links": [
-             "https://www.nature.com/articles/d41586-025-02740-2"
-         ],
-         "published": "Sun, 31 Aug 2025 13:34:36 +0000",
-         "publishedParsed": "2025-08-31T13:34:36Z"
-     },
-     {
-         "title": "Magic Lantern Is Back",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45078315\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.magiclantern.fm/forum/index.php?topic=27315.0",
-         "links": [
-             "https://www.magiclantern.fm/forum/index.php?topic=27315.0"
-         ],
-         "published": "Sat, 30 Aug 2025 21:52:58 +0000",
-         "publishedParsed": "2025-08-30T21:52:58Z"
-     },
-     {
-         "title": "Airbus B612 Cockpit Font",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45115942\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/polarsys/b612",
-         "links": [
-             "https://github.com/polarsys/b612"
-         ],
-         "published": "Wed, 03 Sep 2025 14:02:28 +0000",
-         "publishedParsed": "2025-09-03T14:02:28Z"
+         "published": "Wed, 03 Sep 2025 19:26:45 +0000",
+         "publishedParsed": "2025-09-03T19:26:45Z"
      },
      {
          "title": "This Page Is a Quine (2021)",
@@ -290,13 +250,53 @@
          "publishedParsed": "2025-08-31T09:52:26Z"
      },
      {
-         "title": "Show HN: Entropy-Guided Loop – How to make small models reason",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45118302\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/monostate/weave-logprobs-reasoning-loop",
+         "title": "PFP: A Probabilistic Functional Programming Library for Haskell (2006)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45079418\"\u003eComments\u003c/a\u003e",
+         "link": "https://web.engr.oregonstate.edu/~erwig/pfp/",
          "links": [
-             "https://github.com/monostate/weave-logprobs-reasoning-loop"
+             "https://web.engr.oregonstate.edu/~erwig/pfp/"
          ],
-         "published": "Wed, 03 Sep 2025 17:19:10 +0000",
-         "publishedParsed": "2025-09-03T17:19:10Z"
+         "published": "Sun, 31 Aug 2025 01:02:47 +0000",
+         "publishedParsed": "2025-08-31T01:02:47Z"
+     },
+     {
+         "title": "How to Give a Good Talk",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45076992\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/",
+         "links": [
+             "https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/"
+         ],
+         "published": "Sat, 30 Aug 2025 18:42:08 +0000",
+         "publishedParsed": "2025-08-30T18:42:08Z"
+     },
+     {
+         "title": "UK Electricity Generation Map",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45114277\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.energydashboard.co.uk/map",
+         "links": [
+             "https://www.energydashboard.co.uk/map"
+         ],
+         "published": "Wed, 03 Sep 2025 10:49:48 +0000",
+         "publishedParsed": "2025-09-03T10:49:48Z"
+     },
+     {
+         "title": "Who Owns, Operates, and Develops Your VPN Matters",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45117974\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.opentech.fund/news/who-owns-operates-and-develops-your-vpn-matters-an-analysis-of-transparency-vs-anonymity-in-the-vpn-ecosystem-and-implications-for-users/",
+         "links": [
+             "https://www.opentech.fund/news/who-owns-operates-and-develops-your-vpn-matters-an-analysis-of-transparency-vs-anonymity-in-the-vpn-ecosystem-and-implications-for-users/"
+         ],
+         "published": "Wed, 03 Sep 2025 16:51:05 +0000",
+         "publishedParsed": "2025-09-03T16:51:05Z"
+     },
+     {
+         "title": "Ask HN: Gandi is holding my domain hostage. What can I do?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45118689\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=45118689",
+         "links": [
+             "https://news.ycombinator.com/item?id=45118689"
+         ],
+         "published": "Wed, 03 Sep 2025 17:58:25 +0000",
+         "publishedParsed": "2025-09-03T17:58:25Z"
      }
  ]
