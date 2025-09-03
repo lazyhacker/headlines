@@ -30,6 +30,26 @@
          "publishedParsed": "2025-09-02T22:58:23Z"
      },
      {
+         "title": "10-20x Faster LLVM -O0 Back-End – Code Generation",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45072481\"\u003eComments\u003c/a\u003e",
+         "link": "https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664",
+         "links": [
+             "https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664"
+         ],
+         "published": "Sat, 30 Aug 2025 06:55:30 +0000",
+         "publishedParsed": "2025-08-30T06:55:30Z"
+     },
+     {
+         "title": "Lisp interpreter with GC in \u003c750 lines of Odin (and \u003c500 lines of C)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45078962\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/krig/LISP",
+         "links": [
+             "https://github.com/krig/LISP"
+         ],
+         "published": "Sat, 30 Aug 2025 23:35:32 +0000",
+         "publishedParsed": "2025-08-30T23:35:32Z"
+     },
+     {
          "title": "A staff engineer's journey with Claude Code",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45107962\"\u003eComments\u003c/a\u003e",
          "link": "https://www.sanity.io/blog/first-attempt-will-be-95-garbage",
@@ -60,26 +80,6 @@
          "publishedParsed": "2025-09-02T17:32:08Z"
      },
      {
-         "title": "The Little Book of Linear Algebra",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45103436\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/the-litte-book-of/linear-algebra",
-         "links": [
-             "https://github.com/the-litte-book-of/linear-algebra"
-         ],
-         "published": "Tue, 02 Sep 2025 14:17:07 +0000",
-         "publishedParsed": "2025-09-02T14:17:07Z"
-     },
-     {
-         "title": "\u003ctemplate\u003e: The Content Template element",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45106049\"\u003eComments\u003c/a\u003e",
-         "link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template",
-         "links": [
-             "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template"
-         ],
-         "published": "Tue, 02 Sep 2025 17:16:42 +0000",
-         "publishedParsed": "2025-09-02T17:16:42Z"
-     },
-     {
          "title": "Physically based rendering from first principles",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45106846\"\u003eComments\u003c/a\u003e",
          "link": "https://imadr.me/pbr/",
@@ -90,14 +90,14 @@
          "publishedParsed": "2025-09-02T18:07:22Z"
      },
      {
-         "title": "Indices, not Pointers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45110386\"\u003eComments\u003c/a\u003e",
-         "link": "https://joegm.github.io/blog/indices-not-pointers/",
+         "title": "The Little Book of Linear Algebra",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45103436\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/the-litte-book-of/linear-algebra",
          "links": [
-             "https://joegm.github.io/blog/indices-not-pointers/"
+             "https://github.com/the-litte-book-of/linear-algebra"
          ],
-         "published": "Tue, 02 Sep 2025 23:21:30 +0000",
-         "publishedParsed": "2025-09-02T23:21:30Z"
+         "published": "Tue, 02 Sep 2025 14:17:07 +0000",
+         "publishedParsed": "2025-09-02T14:17:07Z"
      },
      {
          "title": "The staff ate it later",
@@ -110,6 +110,16 @@
          "publishedParsed": "2025-09-02T15:24:48Z"
      },
      {
+         "title": "\u003ctemplate\u003e: The Content Template element",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45106049\"\u003eComments\u003c/a\u003e",
+         "link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template",
+         "links": [
+             "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template"
+         ],
+         "published": "Tue, 02 Sep 2025 17:16:42 +0000",
+         "publishedParsed": "2025-09-02T17:16:42Z"
+     },
+     {
          "title": "Static sites enable a good time travel experience",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45104303\"\u003eComments\u003c/a\u003e",
          "link": "https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/",
@@ -120,14 +130,14 @@
          "publishedParsed": "2025-09-02T15:25:44Z"
      },
      {
-         "title": "Vijaye Raji to become CTO of Applications with acquisition of Statsig",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45106981\"\u003eComments\u003c/a\u003e",
-         "link": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/",
+         "title": "Show HN: We built an open-source alternative to expensive pair programming apps",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45092967\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/gethopp/hopp",
          "links": [
-             "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/"
+             "https://github.com/gethopp/hopp"
          ],
-         "published": "Tue, 02 Sep 2025 18:18:10 +0000",
-         "publishedParsed": "2025-09-02T18:18:10Z"
+         "published": "Mon, 01 Sep 2025 14:36:11 +0000",
+         "publishedParsed": "2025-09-01T14:36:11Z"
      },
      {
          "title": "'World Models,' an old idea in AI, mount a comeback",
@@ -140,6 +150,16 @@
          "publishedParsed": "2025-09-02T16:53:29Z"
      },
      {
+         "title": "Vijaye Raji to become CTO of Applications with acquisition of Statsig",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45106981\"\u003eComments\u003c/a\u003e",
+         "link": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/",
+         "links": [
+             "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/"
+         ],
+         "published": "Tue, 02 Sep 2025 18:18:10 +0000",
+         "publishedParsed": "2025-09-02T18:18:10Z"
+     },
+     {
          "title": "Launch HN: Datafruit (YC S25) – AI for DevOps",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45104974\"\u003eComments\u003c/a\u003e",
          "link": "https://news.ycombinator.com/item?id=45104974",
@@ -150,84 +170,14 @@
          "publishedParsed": "2025-09-02T16:08:31Z"
      },
      {
-         "title": "Condor's Cuzco RISC-V Core at Hot Chips 2025",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45071814\"\u003eComments\u003c/a\u003e",
-         "link": "https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot",
+         "title": "Zig Software Foundation 2025 Financial Report and Fundraiser",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45111405\"\u003eComments\u003c/a\u003e",
+         "link": "https://ziglang.org/news/2025-financials/",
          "links": [
-             "https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot"
+             "https://ziglang.org/news/2025-financials/"
          ],
-         "published": "Sat, 30 Aug 2025 03:59:45 +0000",
-         "publishedParsed": "2025-08-30T03:59:45Z"
-     },
-     {
-         "title": "Untangling the myths and mysteries of Dvorak and QWERTY (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45064241\"\u003eComments\u003c/a\u003e",
-         "link": "https://aresluna.org/the-primitive-tortureboard/",
-         "links": [
-             "https://aresluna.org/the-primitive-tortureboard/"
-         ],
-         "published": "Fri, 29 Aug 2025 13:59:33 +0000",
-         "publishedParsed": "2025-08-29T13:59:33Z"
-     },
-     {
-         "title": "Still Asking: How Good Are Query Optimizers, Really? [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45080683\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.vldb.org/pvldb/vol18/p5531-viktor.pdf",
-         "links": [
-             "https://www.vldb.org/pvldb/vol18/p5531-viktor.pdf"
-         ],
-         "published": "Sun, 31 Aug 2025 05:53:19 +0000",
-         "publishedParsed": "2025-08-31T05:53:19Z"
-     },
-     {
-         "title": "Triangle Grids",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45073031\"\u003eComments\u003c/a\u003e",
-         "link": "https://kvachev.com/blog/posts/triangular-grid/",
-         "links": [
-             "https://kvachev.com/blog/posts/triangular-grid/"
-         ],
-         "published": "Sat, 30 Aug 2025 08:46:05 +0000",
-         "publishedParsed": "2025-08-30T08:46:05Z"
-     },
-     {
-         "title": "What Happens During Startup?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45071457\"\u003eComments\u003c/a\u003e",
-         "link": "https://eclecticlight.co/2025/08/29/what-happens-during-startup/",
-         "links": [
-             "https://eclecticlight.co/2025/08/29/what-happens-during-startup/"
-         ],
-         "published": "Sat, 30 Aug 2025 02:35:00 +0000",
-         "publishedParsed": "2025-08-30T02:35:00Z"
-     },
-     {
-         "title": "Take something you don’t like and try to like it",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45102512\"\u003eComments\u003c/a\u003e",
-         "link": "https://dynomight.net/liking/",
-         "links": [
-             "https://dynomight.net/liking/"
-         ],
-         "published": "Tue, 02 Sep 2025 12:56:37 +0000",
-         "publishedParsed": "2025-09-02T12:56:37Z"
-     },
-     {
-         "title": "Amazon must face US nationwide class action over third-party sales",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45107891\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/",
-         "links": [
-             "https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/"
-         ],
-         "published": "Tue, 02 Sep 2025 19:28:43 +0000",
-         "publishedParsed": "2025-09-02T19:28:43Z"
-     },
-     {
-         "title": "Anthropic raises $13B Series F",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45104907\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
-         "links": [
-             "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation"
-         ],
-         "published": "Tue, 02 Sep 2025 16:04:15 +0000",
-         "publishedParsed": "2025-09-02T16:04:15Z"
+         "published": "Wed, 03 Sep 2025 01:45:47 +0000",
+         "publishedParsed": "2025-09-03T01:45:47Z"
      },
      {
          "title": "Show HN: LightCycle, a FOSS game in Rust based on Tron",
@@ -240,14 +190,74 @@
          "publishedParsed": "2025-09-03T00:08:54Z"
      },
      {
-         "title": "Python has had async for 10 years – why isn't it more popular?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45106189\"\u003eComments\u003c/a\u003e",
-         "link": "https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html",
+         "title": "Untangling the myths and mysteries of Dvorak and QWERTY (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45064241\"\u003eComments\u003c/a\u003e",
+         "link": "https://aresluna.org/the-primitive-tortureboard/",
          "links": [
-             "https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html"
+             "https://aresluna.org/the-primitive-tortureboard/"
          ],
-         "published": "Tue, 02 Sep 2025 17:24:57 +0000",
-         "publishedParsed": "2025-09-02T17:24:57Z"
+         "published": "Fri, 29 Aug 2025 13:59:33 +0000",
+         "publishedParsed": "2025-08-29T13:59:33Z"
+     },
+     {
+         "title": "Take something you don’t like and try to like it",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45102512\"\u003eComments\u003c/a\u003e",
+         "link": "https://dynomight.net/liking/",
+         "links": [
+             "https://dynomight.net/liking/"
+         ],
+         "published": "Tue, 02 Sep 2025 12:56:37 +0000",
+         "publishedParsed": "2025-09-02T12:56:37Z"
+     },
+     {
+         "title": "What happens during startup?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45071457\"\u003eComments\u003c/a\u003e",
+         "link": "https://eclecticlight.co/2025/08/29/what-happens-during-startup/",
+         "links": [
+             "https://eclecticlight.co/2025/08/29/what-happens-during-startup/"
+         ],
+         "published": "Sat, 30 Aug 2025 02:35:00 +0000",
+         "publishedParsed": "2025-08-30T02:35:00Z"
+     },
+     {
+         "title": "Triangle Grids",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45073031\"\u003eComments\u003c/a\u003e",
+         "link": "https://kvachev.com/blog/posts/triangular-grid/",
+         "links": [
+             "https://kvachev.com/blog/posts/triangular-grid/"
+         ],
+         "published": "Sat, 30 Aug 2025 08:46:05 +0000",
+         "publishedParsed": "2025-08-30T08:46:05Z"
+     },
+     {
+         "title": "Comic Sans typeball designed to work with the IBM Selectric typewriters",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45111909\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit",
+         "links": [
+             "https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit"
+         ],
+         "published": "Wed, 03 Sep 2025 03:13:05 +0000",
+         "publishedParsed": "2025-09-03T03:13:05Z"
+     },
+     {
+         "title": "Still Asking: How Good Are Query Optimizers, Really? [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45080683\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.vldb.org/pvldb/vol18/p5531-viktor.pdf",
+         "links": [
+             "https://www.vldb.org/pvldb/vol18/p5531-viktor.pdf"
+         ],
+         "published": "Sun, 31 Aug 2025 05:53:19 +0000",
+         "publishedParsed": "2025-08-31T05:53:19Z"
+     },
+     {
+         "title": "Indices, not Pointers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45110386\"\u003eComments\u003c/a\u003e",
+         "link": "https://joegm.github.io/blog/indices-not-pointers/",
+         "links": [
+             "https://joegm.github.io/blog/indices-not-pointers/"
+         ],
+         "published": "Tue, 02 Sep 2025 23:21:30 +0000",
+         "publishedParsed": "2025-09-02T23:21:30Z"
      },
      {
          "title": "Toronto’s network of pedestrian tunnels",
@@ -260,33 +270,23 @@
          "publishedParsed": "2025-09-02T11:44:14Z"
      },
      {
-         "title": "Show HN: Amber – better Beeper, a modern all-in-one messenger",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45107364\"\u003eComments\u003c/a\u003e",
-         "link": "https://useamber.app/",
+         "title": "Anthropic raises $13B Series F",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45104907\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
          "links": [
-             "https://useamber.app/"
+             "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation"
          ],
-         "published": "Tue, 02 Sep 2025 18:48:26 +0000",
-         "publishedParsed": "2025-09-02T18:48:26Z"
+         "published": "Tue, 02 Sep 2025 16:04:15 +0000",
+         "publishedParsed": "2025-09-02T16:04:15Z"
      },
      {
-         "title": "Light Sleep: Waking VMs in 200ms with eBPF and snapshots",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45100421\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.koyeb.com/blog/scale-to-zero-wake-vms-in-200-ms-with-light-sleep-ebpf-and-snapshots",
+         "title": "Amazon must face US nationwide class action over third-party sales",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45107891\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/",
          "links": [
-             "https://www.koyeb.com/blog/scale-to-zero-wake-vms-in-200-ms-with-light-sleep-ebpf-and-snapshots"
+             "https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/"
          ],
-         "published": "Tue, 02 Sep 2025 08:25:47 +0000",
-         "publishedParsed": "2025-09-02T08:25:47Z"
-     },
-     {
-         "title": "Removing Guix from Debian",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45103857\"\u003eComments\u003c/a\u003e",
-         "link": "https://lwn.net/SubscriberLink/1035491/d8100135a8ae4246/",
-         "links": [
-             "https://lwn.net/SubscriberLink/1035491/d8100135a8ae4246/"
-         ],
-         "published": "Tue, 02 Sep 2025 14:49:40 +0000",
-         "publishedParsed": "2025-09-02T14:49:40Z"
+         "published": "Tue, 02 Sep 2025 19:28:43 +0000",
+         "publishedParsed": "2025-09-02T19:28:43Z"
      }
  ]
