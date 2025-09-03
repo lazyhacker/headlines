@@ -10,16 +10,6 @@
          "publishedParsed": "2025-09-03T06:58:51Z"
      },
      {
-         "title": "Lit: a library for building fast, lightweight web components",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45112720\"\u003eComments\u003c/a\u003e",
-         "link": "https://lit.dev",
-         "links": [
-             "https://lit.dev"
-         ],
-         "published": "Wed, 03 Sep 2025 06:14:22 +0000",
-         "publishedParsed": "2025-09-03T06:14:22Z"
-     },
-     {
          "title": "Magic Lantern Is Back",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45078315\"\u003eComments\u003c/a\u003e",
          "link": "https://www.magiclantern.fm/forum/index.php?topic=27315.0",
@@ -30,14 +20,44 @@
          "publishedParsed": "2025-08-30T21:52:58Z"
      },
      {
-         "title": "Amazonq.nvim: Official AWS AI Assistant Plugin for Neovim",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45113251\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/awslabs/amazonq.nvim",
+         "title": "Lit: a library for building fast, lightweight web components",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45112720\"\u003eComments\u003c/a\u003e",
+         "link": "https://lit.dev",
          "links": [
-             "https://github.com/awslabs/amazonq.nvim"
+             "https://lit.dev"
          ],
-         "published": "Wed, 03 Sep 2025 07:47:10 +0000",
-         "publishedParsed": "2025-09-03T07:47:10Z"
+         "published": "Wed, 03 Sep 2025 06:14:22 +0000",
+         "publishedParsed": "2025-09-03T06:14:22Z"
+     },
+     {
+         "title": "Finding thousands of exposed Ollama instances using Shodan",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45113418\"\u003eComments\u003c/a\u003e",
+         "link": "https://blogs.cisco.com/security/detecting-exposed-llm-servers-shodan-case-study-on-ollama",
+         "links": [
+             "https://blogs.cisco.com/security/detecting-exposed-llm-servers-shodan-case-study-on-ollama"
+         ],
+         "published": "Wed, 03 Sep 2025 08:18:07 +0000",
+         "publishedParsed": "2025-09-03T08:18:07Z"
+     },
+     {
+         "title": "AI is going great for the blind (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45113043\"\u003eComments\u003c/a\u003e",
+         "link": "https://robertkingett.com/posts/6230/",
+         "links": [
+             "https://robertkingett.com/posts/6230/"
+         ],
+         "published": "Wed, 03 Sep 2025 07:07:03 +0000",
+         "publishedParsed": "2025-09-03T07:07:03Z"
+     },
+     {
+         "title": "The 16-year odyssey it took to emulate the Pioneer LaserActive",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45114003\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/",
+         "links": [
+             "https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/"
+         ],
+         "published": "Wed, 03 Sep 2025 10:02:11 +0000",
+         "publishedParsed": "2025-09-03T10:02:11Z"
      },
      {
          "title": "%CPU utilization is a lie",
@@ -50,7 +70,7 @@
          "publishedParsed": "2025-09-03T00:01:02Z"
      },
      {
-         "title": "10-20x Faster LLVM -O0 Back-End – Code Generation",
+         "title": "TPDE-LLVM: Faster LLVM -O0 Back-End",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45072481\"\u003eComments\u003c/a\u003e",
          "link": "https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664",
          "links": [
@@ -58,16 +78,6 @@
          ],
          "published": "Sat, 30 Aug 2025 06:55:30 +0000",
          "publishedParsed": "2025-08-30T06:55:30Z"
-     },
-     {
-         "title": "Comic Sans typeball designed to work with the IBM Selectric typewriters",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45111909\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit",
-         "links": [
-             "https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit"
-         ],
-         "published": "Wed, 03 Sep 2025 03:13:05 +0000",
-         "publishedParsed": "2025-09-03T03:13:05Z"
      },
      {
          "title": "This blog is running on a recycled Google Pixel 5 (2024)",
@@ -80,14 +90,34 @@
          "publishedParsed": "2025-09-02T22:58:23Z"
      },
      {
-         "title": "Finnish City Inaugurates 1 MW/100 MWh Sand Battery",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45112653\"\u003eComments\u003c/a\u003e",
-         "link": "https://cleantechnica.com/2025/08/30/finnish-city-inaugurates-1-mw-100-mwh-sand-battery/",
+         "title": "Amazonq.nvim: Official AWS AI Assistant Plugin for Neovim",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45113251\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/awslabs/amazonq.nvim",
          "links": [
-             "https://cleantechnica.com/2025/08/30/finnish-city-inaugurates-1-mw-100-mwh-sand-battery/"
+             "https://github.com/awslabs/amazonq.nvim"
          ],
-         "published": "Wed, 03 Sep 2025 06:00:47 +0000",
-         "publishedParsed": "2025-09-03T06:00:47Z"
+         "published": "Wed, 03 Sep 2025 07:47:10 +0000",
+         "publishedParsed": "2025-09-03T07:47:10Z"
+     },
+     {
+         "title": "A staff engineer's journey with Claude Code",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45107962\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.sanity.io/blog/first-attempt-will-be-95-garbage",
+         "links": [
+             "https://www.sanity.io/blog/first-attempt-will-be-95-garbage"
+         ],
+         "published": "Tue, 02 Sep 2025 19:34:24 +0000",
+         "publishedParsed": "2025-09-02T19:34:24Z"
+     },
+     {
+         "title": "Comic Sans typeball designed to work with the IBM Selectric typewriters",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45111909\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit",
+         "links": [
+             "https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit"
+         ],
+         "published": "Wed, 03 Sep 2025 03:13:05 +0000",
+         "publishedParsed": "2025-09-03T03:13:05Z"
      },
      {
          "title": "Lisp interpreter with GC in \u003c750 lines of Odin (and \u003c500 lines of C)",
@@ -100,14 +130,24 @@
          "publishedParsed": "2025-08-30T23:35:32Z"
      },
      {
-         "title": "The Middle Earth",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45074827\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.historytoday.com/archive/out-margins/real-middle-earth",
+         "title": "How to Give a Good Talk",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45076992\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/",
          "links": [
-             "https://www.historytoday.com/archive/out-margins/real-middle-earth"
+             "https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/"
          ],
-         "published": "Sat, 30 Aug 2025 14:09:29 +0000",
-         "publishedParsed": "2025-08-30T14:09:29Z"
+         "published": "Sat, 30 Aug 2025 18:42:08 +0000",
+         "publishedParsed": "2025-08-30T18:42:08Z"
+     },
+     {
+         "title": "Finnish City Inaugurates 1 MW/100 MWh Sand Battery",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45112653\"\u003eComments\u003c/a\u003e",
+         "link": "https://cleantechnica.com/2025/08/30/finnish-city-inaugurates-1-mw-100-mwh-sand-battery/",
+         "links": [
+             "https://cleantechnica.com/2025/08/30/finnish-city-inaugurates-1-mw-100-mwh-sand-battery/"
+         ],
+         "published": "Wed, 03 Sep 2025 06:00:47 +0000",
+         "publishedParsed": "2025-09-03T06:00:47Z"
      },
      {
          "title": "Making a Linux home server sleep on idle and wake on demand (2023)",
@@ -130,14 +170,34 @@
          "publishedParsed": "2025-09-02T15:24:48Z"
      },
      {
-         "title": "A staff engineer's journey with Claude Code",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45107962\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.sanity.io/blog/first-attempt-will-be-95-garbage",
+         "title": "The Middle Earth",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45074827\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.historytoday.com/archive/out-margins/real-middle-earth",
          "links": [
-             "https://www.sanity.io/blog/first-attempt-will-be-95-garbage"
+             "https://www.historytoday.com/archive/out-margins/real-middle-earth"
          ],
-         "published": "Tue, 02 Sep 2025 19:34:24 +0000",
-         "publishedParsed": "2025-09-02T19:34:24Z"
+         "published": "Sat, 30 Aug 2025 14:09:29 +0000",
+         "publishedParsed": "2025-08-30T14:09:29Z"
+     },
+     {
+         "title": "Acorn and the future of (AI?) theorem proving",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45075751\"\u003eComments\u003c/a\u003e",
+         "link": "https://lmao.bearblog.dev/acorn-ai-proving/",
+         "links": [
+             "https://lmao.bearblog.dev/acorn-ai-proving/"
+         ],
+         "published": "Sat, 30 Aug 2025 16:06:37 +0000",
+         "publishedParsed": "2025-08-30T16:06:37Z"
+     },
+     {
+         "title": "Computing simplified coverage polygons",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45073469\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.volkerkrause.eu/2025/08/30/simplified-coverage-polygons.html",
+         "links": [
+             "https://www.volkerkrause.eu/2025/08/30/simplified-coverage-polygons.html"
+         ],
+         "published": "Sat, 30 Aug 2025 10:21:10 +0000",
+         "publishedParsed": "2025-08-30T10:21:10Z"
      },
      {
          "title": "The Little Book of Linear Algebra",
@@ -160,16 +220,6 @@
          "publishedParsed": "2025-09-02T18:07:22Z"
      },
      {
-         "title": "Introduction to Ada: a project-based exploration with rosettas",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45106314\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas",
-         "links": [
-             "https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas"
-         ],
-         "published": "Tue, 02 Sep 2025 17:32:08 +0000",
-         "publishedParsed": "2025-09-02T17:32:08Z"
-     },
-     {
          "title": "\u003ctemplate\u003e: The Content Template element",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45106049\"\u003eComments\u003c/a\u003e",
          "link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template",
@@ -178,6 +228,16 @@
          ],
          "published": "Tue, 02 Sep 2025 17:16:42 +0000",
          "publishedParsed": "2025-09-02T17:16:42Z"
+     },
+     {
+         "title": "Introduction to Ada: a project-based exploration with rosettas",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45106314\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas",
+         "links": [
+             "https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas"
+         ],
+         "published": "Tue, 02 Sep 2025 17:32:08 +0000",
+         "publishedParsed": "2025-09-02T17:32:08Z"
      },
      {
          "title": "Static sites enable a good time travel experience",
@@ -190,46 +250,6 @@
          "publishedParsed": "2025-09-02T15:25:44Z"
      },
      {
-         "title": "AI is going great for the blind",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45113043\"\u003eComments\u003c/a\u003e",
-         "link": "https://robertkingett.com/posts/6230/",
-         "links": [
-             "https://robertkingett.com/posts/6230/"
-         ],
-         "published": "Wed, 03 Sep 2025 07:07:03 +0000",
-         "publishedParsed": "2025-09-03T07:07:03Z"
-     },
-     {
-         "title": "Acorn and the future of (AI?) theorem proving",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45075751\"\u003eComments\u003c/a\u003e",
-         "link": "https://lmao.bearblog.dev/acorn-ai-proving/",
-         "links": [
-             "https://lmao.bearblog.dev/acorn-ai-proving/"
-         ],
-         "published": "Sat, 30 Aug 2025 16:06:37 +0000",
-         "publishedParsed": "2025-08-30T16:06:37Z"
-     },
-     {
-         "title": "'World Models,' an old idea in AI, mount a comeback",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45105710\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/",
-         "links": [
-             "https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/"
-         ],
-         "published": "Tue, 02 Sep 2025 16:53:29 +0000",
-         "publishedParsed": "2025-09-02T16:53:29Z"
-     },
-     {
-         "title": "Zig Software Foundation 2025 Financial Report and Fundraiser",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45111405\"\u003eComments\u003c/a\u003e",
-         "link": "https://ziglang.org/news/2025-financials/",
-         "links": [
-             "https://ziglang.org/news/2025-financials/"
-         ],
-         "published": "Wed, 03 Sep 2025 01:45:47 +0000",
-         "publishedParsed": "2025-09-03T01:45:47Z"
-     },
-     {
          "title": "Take something you don’t like and try to like it",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45102512\"\u003eComments\u003c/a\u003e",
          "link": "https://dynomight.net/liking/",
@@ -240,53 +260,13 @@
          "publishedParsed": "2025-09-02T12:56:37Z"
      },
      {
-         "title": "Launch HN: Datafruit (YC S25) – AI for DevOps",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45104974\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=45104974",
+         "title": "'World Models,' an old idea in AI, mount a comeback",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45105710\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/",
          "links": [
-             "https://news.ycombinator.com/item?id=45104974"
+             "https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/"
          ],
-         "published": "Tue, 02 Sep 2025 16:08:31 +0000",
-         "publishedParsed": "2025-09-02T16:08:31Z"
-     },
-     {
-         "title": "Untangling the myths and mysteries of Dvorak and QWERTY (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45064241\"\u003eComments\u003c/a\u003e",
-         "link": "https://aresluna.org/the-primitive-tortureboard/",
-         "links": [
-             "https://aresluna.org/the-primitive-tortureboard/"
-         ],
-         "published": "Fri, 29 Aug 2025 13:59:33 +0000",
-         "publishedParsed": "2025-08-29T13:59:33Z"
-     },
-     {
-         "title": "Triangle Grids (2022)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45073031\"\u003eComments\u003c/a\u003e",
-         "link": "https://kvachev.com/blog/posts/triangular-grid/",
-         "links": [
-             "https://kvachev.com/blog/posts/triangular-grid/"
-         ],
-         "published": "Sat, 30 Aug 2025 08:46:05 +0000",
-         "publishedParsed": "2025-08-30T08:46:05Z"
-     },
-     {
-         "title": "Show HN: LightCycle, a FOSS game in Rust based on Tron",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45110748\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Tortured-Metaphor/LightCycle",
-         "links": [
-             "https://github.com/Tortured-Metaphor/LightCycle"
-         ],
-         "published": "Wed, 03 Sep 2025 00:08:54 +0000",
-         "publishedParsed": "2025-09-03T00:08:54Z"
-     },
-     {
-         "title": "Still Asking: How Good Are Query Optimizers, Really? [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45080683\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.vldb.org/pvldb/vol18/p5531-viktor.pdf",
-         "links": [
-             "https://www.vldb.org/pvldb/vol18/p5531-viktor.pdf"
-         ],
-         "published": "Sun, 31 Aug 2025 05:53:19 +0000",
-         "publishedParsed": "2025-08-31T05:53:19Z"
+         "published": "Tue, 02 Sep 2025 16:53:29 +0000",
+         "publishedParsed": "2025-09-02T16:53:29Z"
      }
  ]
