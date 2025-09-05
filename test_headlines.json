@@ -30,16 +30,6 @@
          "publishedParsed": "2025-09-04T16:32:24Z"
      },
      {
-         "title": "LLM Visualization",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45130260\"\u003eComments\u003c/a\u003e",
-         "link": "https://bbycroft.net/llm",
-         "links": [
-             "https://bbycroft.net/llm"
-         ],
-         "published": "Thu, 04 Sep 2025 18:06:05 +0000",
-         "publishedParsed": "2025-09-04T18:06:05Z"
-     },
-     {
          "title": "Evolving the OCaml Programming Language (2025) [pdf]",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45133652\"\u003eComments\u003c/a\u003e",
          "link": "https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf",
@@ -50,17 +40,17 @@
          "publishedParsed": "2025-09-05T00:05:50Z"
      },
      {
-         "title": "Forking Chrome to render in a terminal (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45133935\"\u003eComments\u003c/a\u003e",
-         "link": "https://fathy.fr/carbonyl",
+         "title": "LLM Visualization",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45130260\"\u003eComments\u003c/a\u003e",
+         "link": "https://bbycroft.net/llm",
          "links": [
-             "https://fathy.fr/carbonyl"
+             "https://bbycroft.net/llm"
          ],
-         "published": "Fri, 05 Sep 2025 00:54:55 +0000",
-         "publishedParsed": "2025-09-05T00:54:55Z"
+         "published": "Thu, 04 Sep 2025 18:06:05 +0000",
+         "publishedParsed": "2025-09-04T18:06:05Z"
      },
      {
-         "title": "Memory is slow, Disk is fast – Part 2",
+         "title": "io_uring is faster than mmap",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45132710\"\u003eComments\u003c/a\u003e",
          "link": "https://www.bitflux.ai/blog/memory-is-slow-part2/",
          "links": [
@@ -68,6 +58,16 @@
          ],
          "published": "Thu, 04 Sep 2025 22:01:11 +0000",
          "publishedParsed": "2025-09-04T22:01:11Z"
+     },
+     {
+         "title": "Rasterizer: A GPU-accelerated 2D vector graphics engine in ~4k LOC",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45090553\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/mindbrix/Rasterizer",
+         "links": [
+             "https://github.com/mindbrix/Rasterizer"
+         ],
+         "published": "Mon, 01 Sep 2025 07:56:30 +0000",
+         "publishedParsed": "2025-09-01T07:56:30Z"
      },
      {
          "title": "Classic 8×8-pixel B\u0026W Mac patterns",
@@ -80,14 +80,14 @@
          "publishedParsed": "2025-09-04T19:53:42Z"
      },
      {
-         "title": "What If OpenDocument Used SQLite?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45132498\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.sqlite.org/affcase1.html",
+         "title": "Show HN: First Half of \"Swimming in Tech Debt\" (book about tech debt)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45092621\"\u003eComments\u003c/a\u003e",
+         "link": "https://helpthisbook.com/lou-franco/swimming-in-tech-debt",
          "links": [
-             "https://www.sqlite.org/affcase1.html"
+             "https://helpthisbook.com/lou-franco/swimming-in-tech-debt"
          ],
-         "published": "Thu, 04 Sep 2025 21:36:50 +0000",
-         "publishedParsed": "2025-09-04T21:36:50Z"
+         "published": "Mon, 01 Sep 2025 13:38:49 +0000",
+         "publishedParsed": "2025-09-01T13:38:49Z"
      },
      {
          "title": "WiFi signals can measure heart rate",
@@ -100,6 +100,16 @@
          "publishedParsed": "2025-09-04T14:53:50Z"
      },
      {
+         "title": "What If OpenDocument Used SQLite?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45132498\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.sqlite.org/affcase1.html",
+         "links": [
+             "https://www.sqlite.org/affcase1.html"
+         ],
+         "published": "Thu, 04 Sep 2025 21:36:50 +0000",
+         "publishedParsed": "2025-09-04T21:36:50Z"
+     },
+     {
          "title": "Atlassian is acquiring The Browser Company",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45126358\"\u003eComments\u003c/a\u003e",
          "link": "https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html",
@@ -108,6 +118,16 @@
          ],
          "published": "Thu, 04 Sep 2025 12:12:31 +0000",
          "publishedParsed": "2025-09-04T12:12:31Z"
+     },
+     {
+         "title": "Forking Chrome to render in a terminal (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45133935\"\u003eComments\u003c/a\u003e",
+         "link": "https://fathy.fr/carbonyl",
+         "links": [
+             "https://fathy.fr/carbonyl"
+         ],
+         "published": "Fri, 05 Sep 2025 00:54:55 +0000",
+         "publishedParsed": "2025-09-05T00:54:55Z"
      },
      {
          "title": "Wikipedia survives while the rest of the internet breaks",
@@ -120,14 +140,14 @@
          "publishedParsed": "2025-09-04T15:30:20Z"
      },
      {
-         "title": "ICPC 2025 World Finals Results",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45131921\"\u003eComments\u003c/a\u003e",
-         "link": "https://worldfinals.icpc.global/scoreboard/2025/index.html",
+         "title": "Age Simulation Suit",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45129190\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.age-simulation-suit.com/",
          "links": [
-             "https://worldfinals.icpc.global/scoreboard/2025/index.html"
+             "https://www.age-simulation-suit.com/"
          ],
-         "published": "Thu, 04 Sep 2025 20:33:53 +0000",
-         "publishedParsed": "2025-09-04T20:33:53Z"
+         "published": "Thu, 04 Sep 2025 16:41:24 +0000",
+         "publishedParsed": "2025-09-04T16:41:24Z"
      },
      {
          "title": "Type-safe and user-friendly error handling in Swift 6",
@@ -140,66 +160,6 @@
          "publishedParsed": "2025-09-01T02:54:19Z"
      },
      {
-         "title": "Age Simulation Suit",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45129190\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.age-simulation-suit.com/",
-         "links": [
-             "https://www.age-simulation-suit.com/"
-         ],
-         "published": "Thu, 04 Sep 2025 16:41:24 +0000",
-         "publishedParsed": "2025-09-04T16:41:24Z"
-     },
-     {
-         "title": "I ditched Spotify and set up my own music stack",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45133109\"\u003eComments\u003c/a\u003e",
-         "link": "https://leshicodes.github.io/blog/spotify-migration/",
-         "links": [
-             "https://leshicodes.github.io/blog/spotify-migration/"
-         ],
-         "published": "Thu, 04 Sep 2025 22:47:45 +0000",
-         "publishedParsed": "2025-09-04T22:47:45Z"
-     },
-     {
-         "title": "Simple design changes can make bat boxes safer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45094772\"\u003eComments\u003c/a\u003e",
-         "link": "https://phys.org/news/2025-08-simple-safer.html",
-         "links": [
-             "https://phys.org/news/2025-08-simple-safer.html"
-         ],
-         "published": "Mon, 01 Sep 2025 17:32:34 +0000",
-         "publishedParsed": "2025-09-01T17:32:34Z"
-     },
-     {
-         "title": "3D QR Codes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45091004\"\u003eComments\u003c/a\u003e",
-         "link": "https://erikdemaine.org/prints/QR/",
-         "links": [
-             "https://erikdemaine.org/prints/QR/"
-         ],
-         "published": "Mon, 01 Sep 2025 09:20:33 +0000",
-         "publishedParsed": "2025-09-01T09:20:33Z"
-     },
-     {
-         "title": "Unix Conspiracy (1991)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45133289\"\u003eComments\u003c/a\u003e",
-         "link": "http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html",
-         "links": [
-             "http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html"
-         ],
-         "published": "Thu, 04 Sep 2025 23:12:00 +0000",
-         "publishedParsed": "2025-09-04T23:12:00Z"
-     },
-     {
-         "title": "Action was the best 8-bit programming language",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45131243\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.goto10retro.com/p/action-was-the-best-8-bit-programming",
-         "links": [
-             "https://www.goto10retro.com/p/action-was-the-best-8-bit-programming"
-         ],
-         "published": "Thu, 04 Sep 2025 19:25:54 +0000",
-         "publishedParsed": "2025-09-04T19:25:54Z"
-     },
-     {
          "title": "A PM's Guide to AI Agent Architecture",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45129237\"\u003eComments\u003c/a\u003e",
          "link": "https://www.productcurious.com/p/a-pms-guide-to-ai-agent-architecture",
@@ -210,24 +170,14 @@
          "publishedParsed": "2025-09-04T16:45:39Z"
      },
      {
-         "title": "Rocketships and Slingshots",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45132183\"\u003eComments\u003c/a\u003e",
-         "link": "https://postround.substack.com/p/rocketships-and-slingshots",
+         "title": "ICPC 2025 World Finals Results",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45131921\"\u003eComments\u003c/a\u003e",
+         "link": "https://worldfinals.icpc.global/scoreboard/2025/index.html",
          "links": [
-             "https://postround.substack.com/p/rocketships-and-slingshots"
+             "https://worldfinals.icpc.global/scoreboard/2025/index.html"
          ],
-         "published": "Thu, 04 Sep 2025 21:06:10 +0000",
-         "publishedParsed": "2025-09-04T21:06:10Z"
-     },
-     {
-         "title": "What happens when 10k AI agents are left to self-govern in a virtual world?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45090093\"\u003eComments\u003c/a\u003e",
-         "link": "https://aivilization.ai/",
-         "links": [
-             "https://aivilization.ai/"
-         ],
-         "published": "Mon, 01 Sep 2025 06:39:37 +0000",
-         "publishedParsed": "2025-09-01T06:39:37Z"
+         "published": "Thu, 04 Sep 2025 20:33:53 +0000",
+         "publishedParsed": "2025-09-04T20:33:53Z"
      },
      {
          "title": "Almost anything you give sustained attention to will begin to loop on itself",
@@ -240,6 +190,16 @@
          "publishedParsed": "2025-09-04T12:29:49Z"
      },
      {
+         "title": "Action was the best 8-bit programming language",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45131243\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.goto10retro.com/p/action-was-the-best-8-bit-programming",
+         "links": [
+             "https://www.goto10retro.com/p/action-was-the-best-8-bit-programming"
+         ],
+         "published": "Thu, 04 Sep 2025 19:25:54 +0000",
+         "publishedParsed": "2025-09-04T19:25:54Z"
+     },
+     {
          "title": "Updating restrictions of sales to unsupported regions",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45133344\"\u003eComments\u003c/a\u003e",
          "link": "https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions",
@@ -250,14 +210,24 @@
          "publishedParsed": "2025-09-04T23:20:43Z"
      },
      {
-         "title": "Artie (YC S23) Is Hiring Engineers, AES, and Senior PMM",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45129442\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/artie/jobs",
+         "title": "I ditched Spotify and set up my own music stack",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45133109\"\u003eComments\u003c/a\u003e",
+         "link": "https://leshicodes.github.io/blog/spotify-migration/",
          "links": [
-             "https://www.ycombinator.com/companies/artie/jobs"
+             "https://leshicodes.github.io/blog/spotify-migration/"
          ],
-         "published": "Thu, 04 Sep 2025 17:01:21 +0000",
-         "publishedParsed": "2025-09-04T17:01:21Z"
+         "published": "Thu, 04 Sep 2025 22:47:45 +0000",
+         "publishedParsed": "2025-09-04T22:47:45Z"
+     },
+     {
+         "title": "A high schooler writes about AI tools in the classroom",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45122885\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theatlantic.com/technology/archive/2025/09/high-school-student-ai-education/684088/",
+         "links": [
+             "https://www.theatlantic.com/technology/archive/2025/09/high-school-student-ai-education/684088/"
+         ],
+         "published": "Thu, 04 Sep 2025 02:37:42 +0000",
+         "publishedParsed": "2025-09-04T02:37:42Z"
      },
      {
          "title": "Launch HN: Slashy (YC S25) – AI that connects to apps and does tasks",
@@ -270,14 +240,14 @@
          "publishedParsed": "2025-09-04T16:27:41Z"
      },
      {
-         "title": "Wal3: A Write-Ahead Log for Chroma, Built on Object Storage",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45129369\"\u003eComments\u003c/a\u003e",
-         "link": "https://trychroma.com/engineering/wal3",
+         "title": "Rocketships and Slingshots",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45132183\"\u003eComments\u003c/a\u003e",
+         "link": "https://postround.substack.com/p/rocketships-and-slingshots",
          "links": [
-             "https://trychroma.com/engineering/wal3"
+             "https://postround.substack.com/p/rocketships-and-slingshots"
          ],
-         "published": "Thu, 04 Sep 2025 16:55:06 +0000",
-         "publishedParsed": "2025-09-04T16:55:06Z"
+         "published": "Thu, 04 Sep 2025 21:06:10 +0000",
+         "publishedParsed": "2025-09-04T21:06:10Z"
      },
      {
          "title": "The Color of the Future: A history of blue",
@@ -290,13 +260,43 @@
          "publishedParsed": "2025-09-04T09:27:53Z"
      },
      {
-         "title": "A high schooler writes about AI tools in the classroom",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45122885\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theatlantic.com/technology/archive/2025/09/high-school-student-ai-education/684088/",
+         "title": "Simple design changes can make bat boxes safer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45094772\"\u003eComments\u003c/a\u003e",
+         "link": "https://phys.org/news/2025-08-simple-safer.html",
          "links": [
-             "https://www.theatlantic.com/technology/archive/2025/09/high-school-student-ai-education/684088/"
+             "https://phys.org/news/2025-08-simple-safer.html"
          ],
-         "published": "Thu, 04 Sep 2025 02:37:42 +0000",
-         "publishedParsed": "2025-09-04T02:37:42Z"
+         "published": "Mon, 01 Sep 2025 17:32:34 +0000",
+         "publishedParsed": "2025-09-01T17:32:34Z"
+     },
+     {
+         "title": "Artie (YC S23) Is Hiring Engineers, AES, and Senior PMM",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45129442\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/artie/jobs",
+         "links": [
+             "https://www.ycombinator.com/companies/artie/jobs"
+         ],
+         "published": "Thu, 04 Sep 2025 17:01:21 +0000",
+         "publishedParsed": "2025-09-04T17:01:21Z"
+     },
+     {
+         "title": "Unix Conspiracy (1991)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45133289\"\u003eComments\u003c/a\u003e",
+         "link": "http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html",
+         "links": [
+             "http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html"
+         ],
+         "published": "Thu, 04 Sep 2025 23:12:00 +0000",
+         "publishedParsed": "2025-09-04T23:12:00Z"
+     },
+     {
+         "title": "30 minutes with a stranger",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45124003\"\u003eComments\u003c/a\u003e",
+         "link": "https://pudding.cool/2025/06/hello-stranger/",
+         "links": [
+             "https://pudding.cool/2025/06/hello-stranger/"
+         ],
+         "published": "Thu, 04 Sep 2025 05:56:29 +0000",
+         "publishedParsed": "2025-09-04T05:56:29Z"
      }
  ]
