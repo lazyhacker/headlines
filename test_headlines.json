@@ -1,5 +1,15 @@
 [
      {
+         "title": "Spiral",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45212960\"\u003eComments\u003c/a\u003e",
+         "link": "https://spiraldb.com/post/announcing-spiral",
+         "links": [
+             "https://spiraldb.com/post/announcing-spiral"
+         ],
+         "published": "Thu, 11 Sep 2025 15:45:38 +0000",
+         "publishedParsed": "2025-09-11T15:45:38Z"
+     },
+     {
          "title": "GrapheneOS and Forensic Extraction of Data (2024)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45210910\"\u003eComments\u003c/a\u003e",
          "link": "https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data",
@@ -30,6 +40,46 @@
          "publishedParsed": "2025-09-11T12:39:29Z"
      },
      {
+         "title": "Windows KASLR Bypass – CVE-2025-53136",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45213299\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/",
+         "links": [
+             "https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/"
+         ],
+         "published": "Thu, 11 Sep 2025 16:13:09 +0000",
+         "publishedParsed": "2025-09-11T16:13:09Z"
+     },
+     {
+         "title": "Every Keystroke You Make: A Tech-Law Measurement and Analysis of Event Listeners",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45213612\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2508.19825",
+         "links": [
+             "https://arxiv.org/abs/2508.19825"
+         ],
+         "published": "Thu, 11 Sep 2025 16:46:09 +0000",
+         "publishedParsed": "2025-09-11T16:46:09Z"
+     },
+     {
+         "title": "Conway's Game of Life, but Musical",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45211868\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.hudsong.dev/digital-darwin",
+         "links": [
+             "https://www.hudsong.dev/digital-darwin"
+         ],
+         "published": "Thu, 11 Sep 2025 14:05:31 +0000",
+         "publishedParsed": "2025-09-11T14:05:31Z"
+     },
+     {
+         "title": "Reality Is Ruining the Humanoid Robot Hype",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45213549\"\u003eComments\u003c/a\u003e",
+         "link": "https://spectrum.ieee.org/humanoid-robot-scaling",
+         "links": [
+             "https://spectrum.ieee.org/humanoid-robot-scaling"
+         ],
+         "published": "Thu, 11 Sep 2025 16:38:58 +0000",
+         "publishedParsed": "2025-09-11T16:38:58Z"
+     },
+     {
          "title": "Reshaped is now open source",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45209558\"\u003eComments\u003c/a\u003e",
          "link": "https://reshaped.so/blog/reshaped-oss",
@@ -50,26 +100,6 @@
          "publishedParsed": "2025-09-11T13:04:49Z"
      },
      {
-         "title": "I Solved PyTorch's Cross-Platform Nightmare",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45164762\"\u003eComments\u003c/a\u003e",
-         "link": "https://svana.name/2025/09/how-i-solved-pytorchs-cross-platform-nightmare/",
-         "links": [
-             "https://svana.name/2025/09/how-i-solved-pytorchs-cross-platform-nightmare/"
-         ],
-         "published": "Mon, 08 Sep 2025 04:59:35 +0000",
-         "publishedParsed": "2025-09-08T04:59:35Z"
-     },
-     {
-         "title": "Conway's Game of Life, but Musical",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45211868\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.hudsong.dev/digital-darwin",
-         "links": [
-             "https://www.hudsong.dev/digital-darwin"
-         ],
-         "published": "Thu, 11 Sep 2025 14:05:31 +0000",
-         "publishedParsed": "2025-09-11T14:05:31Z"
-     },
-     {
          "title": "The Rise of Async Programming",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45210693\"\u003eComments\u003c/a\u003e",
          "link": "https://www.braintrust.dev/blog/async-programming",
@@ -78,6 +108,26 @@
          ],
          "published": "Thu, 11 Sep 2025 12:20:19 +0000",
          "publishedParsed": "2025-09-11T12:20:19Z"
+     },
+     {
+         "title": "Beyond package management: How Nix refactored my digital life",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45167049\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.jimmyff.co.uk/blog/beyond-package-management-how-nix-refactored-my-digital-life/",
+         "links": [
+             "https://www.jimmyff.co.uk/blog/beyond-package-management-how-nix-refactored-my-digital-life/"
+         ],
+         "published": "Mon, 08 Sep 2025 11:36:25 +0000",
+         "publishedParsed": "2025-09-08T11:36:25Z"
+     },
+     {
+         "title": "I Solved PyTorch's Cross-Platform Nightmare",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45164762\"\u003eComments\u003c/a\u003e",
+         "link": "https://svana.name/2025/09/how-i-solved-pytorchs-cross-platform-nightmare/",
+         "links": [
+             "https://svana.name/2025/09/how-i-solved-pytorchs-cross-platform-nightmare/"
+         ],
+         "published": "Mon, 08 Sep 2025 04:59:35 +0000",
+         "publishedParsed": "2025-09-08T04:59:35Z"
      },
      {
          "title": "Mapping to the PICO-8 palette, perceptually",
@@ -90,26 +140,6 @@
          "publishedParsed": "2025-09-07T20:58:20Z"
      },
      {
-         "title": "DeepCodeBench: Real-World Codebase Understanding by Q\u0026A Benchmarking",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45209532\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.qodo.ai/blog/deepcodebench-real-world-codebase-understanding-by-qa-benchmarking/",
-         "links": [
-             "https://www.qodo.ai/blog/deepcodebench-real-world-codebase-understanding-by-qa-benchmarking/"
-         ],
-         "published": "Thu, 11 Sep 2025 09:29:52 +0000",
-         "publishedParsed": "2025-09-11T09:29:52Z"
-     },
-     {
-         "title": "C++20 Modules: Practical Insights, Status and TODOs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45167303\"\u003eComments\u003c/a\u003e",
-         "link": "https://chuanqixu9.github.io/c++/2025/08/14/C++20-Modules.en.html",
-         "links": [
-             "https://chuanqixu9.github.io/c++/2025/08/14/C++20-Modules.en.html"
-         ],
-         "published": "Mon, 08 Sep 2025 12:08:10 +0000",
-         "publishedParsed": "2025-09-08T12:08:10Z"
-     },
-     {
          "title": "Piramidal (YC W24) Is Hiring Back End Engineer",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45210539\"\u003eComments\u003c/a\u003e",
          "link": "https://www.ycombinator.com/companies/piramidal/jobs/1HvdaXs-full-stack-engineer-platform",
@@ -118,26 +148,6 @@
          ],
          "published": "Thu, 11 Sep 2025 12:00:14 +0000",
          "publishedParsed": "2025-09-11T12:00:14Z"
-     },
-     {
-         "title": "KDE launches its own distribution",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45204393\"\u003eComments\u003c/a\u003e",
-         "link": "https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/",
-         "links": [
-             "https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/"
-         ],
-         "published": "Wed, 10 Sep 2025 21:49:36 +0000",
-         "publishedParsed": "2025-09-10T21:49:36Z"
-     },
-     {
-         "title": "The Rise and Demise of RSS",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45167601\"\u003eComments\u003c/a\u003e",
-         "link": "https://twobithistory.org/2018/12/18/rss.html",
-         "links": [
-             "https://twobithistory.org/2018/12/18/rss.html"
-         ],
-         "published": "Mon, 08 Sep 2025 12:46:36 +0000",
-         "publishedParsed": "2025-09-08T12:46:36Z"
      },
      {
          "title": "GrapheneOS accessed Android security patches but not allowed to publish sources",
@@ -150,24 +160,14 @@
          "publishedParsed": "2025-09-11T07:43:12Z"
      },
      {
-         "title": "Show HN: I built a minimal Forth-like stack interpreter library in C",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45210654\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=45210654",
+         "title": "DeepCodeBench: Real-World Codebase Understanding by Q\u0026A Benchmarking",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45209532\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.qodo.ai/blog/deepcodebench-real-world-codebase-understanding-by-qa-benchmarking/",
          "links": [
-             "https://news.ycombinator.com/item?id=45210654"
+             "https://www.qodo.ai/blog/deepcodebench-real-world-codebase-understanding-by-qa-benchmarking/"
          ],
-         "published": "Thu, 11 Sep 2025 12:15:22 +0000",
-         "publishedParsed": "2025-09-11T12:15:22Z"
-     },
-     {
-         "title": "Show HN: Term.everything – Run any GUI app in the terminal",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45181535\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/mmulet/term.everything",
-         "links": [
-             "https://github.com/mmulet/term.everything"
-         ],
-         "published": "Tue, 09 Sep 2025 13:16:30 +0000",
-         "publishedParsed": "2025-09-09T13:16:30Z"
+         "published": "Thu, 11 Sep 2025 09:29:52 +0000",
+         "publishedParsed": "2025-09-11T09:29:52Z"
      },
      {
          "title": "PgEdge Goes Open Source",
@@ -180,14 +180,34 @@
          "publishedParsed": "2025-09-11T08:01:57Z"
      },
      {
-         "title": "DOOMscrolling: The Game",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45205232\"\u003eComments\u003c/a\u003e",
-         "link": "https://ironicsans.ghost.io/doomscrolling-the-game/",
+         "title": "KDE launches its own distribution",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45204393\"\u003eComments\u003c/a\u003e",
+         "link": "https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/",
          "links": [
-             "https://ironicsans.ghost.io/doomscrolling-the-game/"
+             "https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/"
          ],
-         "published": "Wed, 10 Sep 2025 22:56:55 +0000",
-         "publishedParsed": "2025-09-10T22:56:55Z"
+         "published": "Wed, 10 Sep 2025 21:49:36 +0000",
+         "publishedParsed": "2025-09-10T21:49:36Z"
+     },
+     {
+         "title": "Show HN: Term.everything – Run any GUI app in the terminal",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45181535\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/mmulet/term.everything",
+         "links": [
+             "https://github.com/mmulet/term.everything"
+         ],
+         "published": "Tue, 09 Sep 2025 13:16:30 +0000",
+         "publishedParsed": "2025-09-09T13:16:30Z"
+     },
+     {
+         "title": "C++20 Modules: Practical Insights, Status and TODOs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45167303\"\u003eComments\u003c/a\u003e",
+         "link": "https://chuanqixu9.github.io/c++/2025/08/14/C++20-Modules.en.html",
+         "links": [
+             "https://chuanqixu9.github.io/c++/2025/08/14/C++20-Modules.en.html"
+         ],
+         "published": "Mon, 08 Sep 2025 12:08:10 +0000",
+         "publishedParsed": "2025-09-08T12:08:10Z"
      },
      {
          "title": "Hashed sorting is typically faster than hash tables",
@@ -200,6 +220,16 @@
          "publishedParsed": "2025-09-08T08:03:21Z"
      },
      {
+         "title": "DOOMscrolling: The Game",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45205232\"\u003eComments\u003c/a\u003e",
+         "link": "https://ironicsans.ghost.io/doomscrolling-the-game/",
+         "links": [
+             "https://ironicsans.ghost.io/doomscrolling-the-game/"
+         ],
+         "published": "Wed, 10 Sep 2025 22:56:55 +0000",
+         "publishedParsed": "2025-09-10T22:56:55Z"
+     },
+     {
          "title": "ChatGPT Developer Mode: Full MCP client access",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45199713\"\u003eComments\u003c/a\u003e",
          "link": "https://platform.openai.com/docs/guides/developer-mode",
@@ -208,6 +238,36 @@
          ],
          "published": "Wed, 10 Sep 2025 16:04:49 +0000",
          "publishedParsed": "2025-09-10T16:04:49Z"
+     },
+     {
+         "title": "Show HN: I built a minimal Forth-like stack interpreter library in C",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45210654\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=45210654",
+         "links": [
+             "https://news.ycombinator.com/item?id=45210654"
+         ],
+         "published": "Thu, 11 Sep 2025 12:15:22 +0000",
+         "publishedParsed": "2025-09-11T12:15:22Z"
+     },
+     {
+         "title": "Strong Eventual Consistency – The Big Idea Behind CRDTs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45166698\"\u003eComments\u003c/a\u003e",
+         "link": "https://lewiscampbell.tech/blog/250908.html",
+         "links": [
+             "https://lewiscampbell.tech/blog/250908.html"
+         ],
+         "published": "Mon, 08 Sep 2025 10:42:14 +0000",
+         "publishedParsed": "2025-09-08T10:42:14Z"
+     },
+     {
+         "title": "CRISPR Offers New Hope for Treating Diabetes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45211596\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/",
+         "links": [
+             "https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/"
+         ],
+         "published": "Thu, 11 Sep 2025 13:45:28 +0000",
+         "publishedParsed": "2025-09-11T13:45:28Z"
      },
      {
          "title": "How the tz database works (2020)",
@@ -228,45 +288,5 @@
          ],
          "published": "Thu, 11 Sep 2025 00:52:32 +0000",
          "publishedParsed": "2025-09-11T00:52:32Z"
-     },
-     {
-         "title": "CRISPR Offers New Hope for Treating Diabetes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45211596\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/",
-         "links": [
-             "https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/"
-         ],
-         "published": "Thu, 11 Sep 2025 13:45:28 +0000",
-         "publishedParsed": "2025-09-11T13:45:28Z"
-     },
-     {
-         "title": "A desktop environment without graphics (tmux-like)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45167295\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Julien-cpsn/desktop-tui",
-         "links": [
-             "https://github.com/Julien-cpsn/desktop-tui"
-         ],
-         "published": "Mon, 08 Sep 2025 12:07:14 +0000",
-         "publishedParsed": "2025-09-08T12:07:14Z"
-     },
-     {
-         "title": "Jiratui – A Textual UI for interacting with Atlassian Jira from your shell",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45198481\"\u003eComments\u003c/a\u003e",
-         "link": "https://jiratui.sh/",
-         "links": [
-             "https://jiratui.sh/"
-         ],
-         "published": "Wed, 10 Sep 2025 14:42:15 +0000",
-         "publishedParsed": "2025-09-10T14:42:15Z"
-     },
-     {
-         "title": "The HackberryPi CM5 handheld computer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45172058\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/ZitaoTech/HackberryPiCM5",
-         "links": [
-             "https://github.com/ZitaoTech/HackberryPiCM5"
-         ],
-         "published": "Mon, 08 Sep 2025 18:36:46 +0000",
-         "publishedParsed": "2025-09-08T18:36:46Z"
      }
  ]
