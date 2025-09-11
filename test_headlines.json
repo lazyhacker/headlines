@@ -1,15 +1,5 @@
 [
      {
-         "title": "Native ACME support comes to Nginx",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45214023\"\u003eComments\u003c/a\u003e",
-         "link": "https://letsencrypt.org/2025/09/11/native-acme-for-nginx",
-         "links": [
-             "https://letsencrypt.org/2025/09/11/native-acme-for-nginx"
-         ],
-         "published": "Thu, 11 Sep 2025 17:28:13 +0000",
-         "publishedParsed": "2025-09-11T17:28:13Z"
-     },
-     {
          "title": "Top model scores may be skewed by Git history leaks in SWE-bench",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45214670\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/SWE-bench/SWE-bench/issues/465",
@@ -18,6 +8,46 @@
          ],
          "published": "Thu, 11 Sep 2025 18:32:23 +0000",
          "publishedParsed": "2025-09-11T18:32:23Z"
+     },
+     {
+         "title": "Claude's memory architecture is the opposite of ChatGPT's",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45214908\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.shloked.com/writing/claude-memory",
+         "links": [
+             "https://www.shloked.com/writing/claude-memory"
+         ],
+         "published": "Thu, 11 Sep 2025 18:55:50 +0000",
+         "publishedParsed": "2025-09-11T18:55:50Z"
+     },
+     {
+         "title": "Rails on SQLite: new ways to cause outages",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45214933\"\u003eComments\u003c/a\u003e",
+         "link": "https://andre.arko.net/2025/09/11/rails-on-sqlite-exciting-new-ways-to-cause-outages/",
+         "links": [
+             "https://andre.arko.net/2025/09/11/rails-on-sqlite-exciting-new-ways-to-cause-outages/"
+         ],
+         "published": "Thu, 11 Sep 2025 18:58:22 +0000",
+         "publishedParsed": "2025-09-11T18:58:22Z"
+     },
+     {
+         "title": "Randomly selecting points inside a triangle",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45215266\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.johndcook.com/blog/2025/09/11/random-inside-triangle/",
+         "links": [
+             "https://www.johndcook.com/blog/2025/09/11/random-inside-triangle/"
+         ],
+         "published": "Thu, 11 Sep 2025 19:29:33 +0000",
+         "publishedParsed": "2025-09-11T19:29:33Z"
+     },
+     {
+         "title": "Launch HN: Ghostship (YC S25) – AI agents that find bugs in your web app",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45215032\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=45215032",
+         "links": [
+             "https://news.ycombinator.com/item?id=45215032"
+         ],
+         "published": "Thu, 11 Sep 2025 19:06:32 +0000",
+         "publishedParsed": "2025-09-11T19:06:32Z"
      },
      {
          "title": "NT OS Kernel Information Disclosure Vulnerability",
@@ -30,24 +60,34 @@
          "publishedParsed": "2025-09-11T16:13:09Z"
      },
      {
-         "title": "'Robber bees' invade apiarist's shop in attempted honey heist",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45213732\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cbc.ca/news/canada/british-columbia/robber-bees-terrace-bc-apiary-1.7627532",
+         "title": "Behind the scenes of Bun Install",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45210850\"\u003eComments\u003c/a\u003e",
+         "link": "https://bun.com/blog/behind-the-scenes-of-bun-install",
          "links": [
-             "https://www.cbc.ca/news/canada/british-columbia/robber-bees-terrace-bc-apiary-1.7627532"
+             "https://bun.com/blog/behind-the-scenes-of-bun-install"
          ],
-         "published": "Thu, 11 Sep 2025 16:58:08 +0000",
-         "publishedParsed": "2025-09-11T16:58:08Z"
+         "published": "Thu, 11 Sep 2025 12:39:29 +0000",
+         "publishedParsed": "2025-09-11T12:39:29Z"
      },
      {
-         "title": "GrapheneOS and Forensic Extraction of Data (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45210910\"\u003eComments\u003c/a\u003e",
-         "link": "https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data",
+         "title": "Making io_uring pervasive in QEMU [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45214672\"\u003eComments\u003c/a\u003e",
+         "link": "https://vmsplice.net/~stefan/stefanha-kvm-forum-2025.pdf",
          "links": [
-             "https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data"
+             "https://vmsplice.net/~stefan/stefanha-kvm-forum-2025.pdf"
          ],
-         "published": "Thu, 11 Sep 2025 12:46:27 +0000",
-         "publishedParsed": "2025-09-11T12:46:27Z"
+         "published": "Thu, 11 Sep 2025 18:32:43 +0000",
+         "publishedParsed": "2025-09-11T18:32:43Z"
+     },
+     {
+         "title": "The Helix Text Editor (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45166238\"\u003eComments\u003c/a\u003e",
+         "link": "https://jonathan-frere.com/posts/helix/",
+         "links": [
+             "https://jonathan-frere.com/posts/helix/"
+         ],
+         "published": "Mon, 08 Sep 2025 09:27:40 +0000",
+         "publishedParsed": "2025-09-08T09:27:40Z"
      },
      {
          "title": "Adam (YC W25) Is Hiring to Build the Future of CAD",
@@ -60,6 +100,16 @@
          "publishedParsed": "2025-09-11T18:16:09Z"
      },
      {
+         "title": "Show HN: Making a cross-platform game in Go using WebRTC Datachannels",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45202489\"\u003eComments\u003c/a\u003e",
+         "link": "https://pion.ly/blog/making-a-game-with-pion/",
+         "links": [
+             "https://pion.ly/blog/making-a-game-with-pion/"
+         ],
+         "published": "Wed, 10 Sep 2025 19:30:37 +0000",
+         "publishedParsed": "2025-09-10T19:30:37Z"
+     },
+     {
          "title": "A tech-law measurement and analysis of event listeners for wiretapping",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45213612\"\u003eComments\u003c/a\u003e",
          "link": "https://arxiv.org/abs/2508.19825",
@@ -68,26 +118,6 @@
          ],
          "published": "Thu, 11 Sep 2025 16:46:09 +0000",
          "publishedParsed": "2025-09-11T16:46:09Z"
-     },
-     {
-         "title": "Behind the scenes of Bun Install",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45210850\"\u003eComments\u003c/a\u003e",
-         "link": "https://bun.com/blog/behind-the-scenes-of-bun-install",
-         "links": [
-             "https://bun.com/blog/behind-the-scenes-of-bun-install"
-         ],
-         "published": "Thu, 11 Sep 2025 12:39:29 +0000",
-         "publishedParsed": "2025-09-11T12:39:29Z"
-     },
-     {
-         "title": "Conway's Game of Life, but musical",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45211868\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.hudsong.dev/digital-darwin",
-         "links": [
-             "https://www.hudsong.dev/digital-darwin"
-         ],
-         "published": "Thu, 11 Sep 2025 14:05:31 +0000",
-         "publishedParsed": "2025-09-11T14:05:31Z"
      },
      {
          "title": "CRISPR offers new hope for treating diabetes",
@@ -100,64 +130,74 @@
          "publishedParsed": "2025-09-11T13:45:28Z"
      },
      {
-         "title": "The Helix Text Editor",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45166238\"\u003eComments\u003c/a\u003e",
-         "link": "https://jonathan-frere.com/posts/helix/",
+         "title": "'Robber bees' invade apiarist's shop in attempted honey heist",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45213732\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cbc.ca/news/canada/british-columbia/robber-bees-terrace-bc-apiary-1.7627532",
          "links": [
-             "https://jonathan-frere.com/posts/helix/"
+             "https://www.cbc.ca/news/canada/british-columbia/robber-bees-terrace-bc-apiary-1.7627532"
          ],
-         "published": "Mon, 08 Sep 2025 09:27:40 +0000",
-         "publishedParsed": "2025-09-08T09:27:40Z"
+         "published": "Thu, 11 Sep 2025 16:58:08 +0000",
+         "publishedParsed": "2025-09-11T16:58:08Z"
      },
      {
-         "title": "Spiral",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45212960\"\u003eComments\u003c/a\u003e",
-         "link": "https://spiraldb.com/post/announcing-spiral",
+         "title": "AirPods live translation blocked for EU users with EU Apple accounts",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45210428\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.macrumors.com/2025/09/11/airpods-live-translation-eu-restricted/",
          "links": [
-             "https://spiraldb.com/post/announcing-spiral"
+             "https://www.macrumors.com/2025/09/11/airpods-live-translation-eu-restricted/"
          ],
-         "published": "Thu, 11 Sep 2025 15:45:38 +0000",
-         "publishedParsed": "2025-09-11T15:45:38Z"
+         "published": "Thu, 11 Sep 2025 11:46:13 +0000",
+         "publishedParsed": "2025-09-11T11:46:13Z"
      },
      {
-         "title": "Public Suffix List",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45167688\"\u003eComments\u003c/a\u003e",
-         "link": "https://publicsuffix.org/",
+         "title": "Conway's Game of Life, but musical",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45211868\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.hudsong.dev/digital-darwin",
          "links": [
-             "https://publicsuffix.org/"
+             "https://www.hudsong.dev/digital-darwin"
          ],
-         "published": "Mon, 08 Sep 2025 12:56:55 +0000",
-         "publishedParsed": "2025-09-08T12:56:55Z"
+         "published": "Thu, 11 Sep 2025 14:05:31 +0000",
+         "publishedParsed": "2025-09-11T14:05:31Z"
      },
      {
-         "title": "Beyond package management: How Nix refactored my digital life",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45167049\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.jimmyff.co.uk/blog/beyond-package-management-how-nix-refactored-my-digital-life/",
+         "title": "GrapheneOS and Forensic Extraction of Data (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45210910\"\u003eComments\u003c/a\u003e",
+         "link": "https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data",
          "links": [
-             "https://www.jimmyff.co.uk/blog/beyond-package-management-how-nix-refactored-my-digital-life/"
+             "https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data"
          ],
-         "published": "Mon, 08 Sep 2025 11:36:25 +0000",
-         "publishedParsed": "2025-09-08T11:36:25Z"
+         "published": "Thu, 11 Sep 2025 12:46:27 +0000",
+         "publishedParsed": "2025-09-11T12:46:27Z"
      },
      {
-         "title": "An engineering history of the Manhattan Project",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45211127\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.construction-physics.com/p/an-engineering-history-of-the-manhattan",
+         "title": "Adjacency Matrix and std:mdspan, C++23",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45167346\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cppstories.com/2025/cpp23_mdspan_adj/",
          "links": [
-             "https://www.construction-physics.com/p/an-engineering-history-of-the-manhattan"
+             "https://www.cppstories.com/2025/cpp23_mdspan_adj/"
          ],
-         "published": "Thu, 11 Sep 2025 13:04:49 +0000",
-         "publishedParsed": "2025-09-11T13:04:49Z"
+         "published": "Mon, 08 Sep 2025 12:14:20 +0000",
+         "publishedParsed": "2025-09-08T12:14:20Z"
      },
      {
-         "title": "Reshaped is now open source",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45209558\"\u003eComments\u003c/a\u003e",
-         "link": "https://reshaped.so/blog/reshaped-oss",
+         "title": "Unusual Capabilities of Nano Banana (Examples)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45215869\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md",
          "links": [
-             "https://reshaped.so/blog/reshaped-oss"
+             "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md"
          ],
-         "published": "Thu, 11 Sep 2025 09:32:49 +0000",
-         "publishedParsed": "2025-09-11T09:32:49Z"
+         "published": "Thu, 11 Sep 2025 20:35:11 +0000",
+         "publishedParsed": "2025-09-11T20:35:11Z"
+     },
+     {
+         "title": "ApeRAG: Production-ready GraphRAG with multi-modal indexing and K8s deployment",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45165751\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/apecloud/ApeRAG",
+         "links": [
+             "https://github.com/apecloud/ApeRAG"
+         ],
+         "published": "Mon, 08 Sep 2025 08:06:43 +0000",
+         "publishedParsed": "2025-09-08T08:06:43Z"
      },
      {
          "title": "From burner phones to decks of cards: NYC teens adjusting to the smartphone ban",
@@ -170,44 +210,24 @@
          "publishedParsed": "2025-09-11T13:39:43Z"
      },
      {
-         "title": "Pulling an Inverse Conway Maneuver at Netflix (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45170274\"\u003eComments\u003c/a\u003e",
-         "link": "https://jivimberg.io/blog/2023/09/04/the-inverse-conway-maneuver/",
+         "title": "An engineering history of the Manhattan Project",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45211127\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.construction-physics.com/p/an-engineering-history-of-the-manhattan",
          "links": [
-             "https://jivimberg.io/blog/2023/09/04/the-inverse-conway-maneuver/"
+             "https://www.construction-physics.com/p/an-engineering-history-of-the-manhattan"
          ],
-         "published": "Mon, 08 Sep 2025 16:26:32 +0000",
-         "publishedParsed": "2025-09-08T16:26:32Z"
+         "published": "Thu, 11 Sep 2025 13:04:49 +0000",
+         "publishedParsed": "2025-09-11T13:04:49Z"
      },
      {
-         "title": "Show HN: Making a cross-platform game in Go using WebRTC Datachannels",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45202489\"\u003eComments\u003c/a\u003e",
-         "link": "https://pion.ly/blog/making-a-game-with-pion/",
+         "title": "Spiral",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45212960\"\u003eComments\u003c/a\u003e",
+         "link": "https://spiraldb.com/post/announcing-spiral",
          "links": [
-             "https://pion.ly/blog/making-a-game-with-pion/"
+             "https://spiraldb.com/post/announcing-spiral"
          ],
-         "published": "Wed, 10 Sep 2025 19:30:37 +0000",
-         "publishedParsed": "2025-09-10T19:30:37Z"
-     },
-     {
-         "title": "Gregg Kellogg has died",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45210564\"\u003eComments\u003c/a\u003e",
-         "link": "https://lists.w3.org/Archives/Public/public-json-ld-wg/2025Sep/0012.html",
-         "links": [
-             "https://lists.w3.org/Archives/Public/public-json-ld-wg/2025Sep/0012.html"
-         ],
-         "published": "Thu, 11 Sep 2025 12:03:32 +0000",
-         "publishedParsed": "2025-09-11T12:03:32Z"
-     },
-     {
-         "title": "Tumult and Sympathy – The Letters of Oliver Sacks",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45167694\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.commonwealmagazine.org/tumult-and-sympathy",
-         "links": [
-             "https://www.commonwealmagazine.org/tumult-and-sympathy"
-         ],
-         "published": "Mon, 08 Sep 2025 12:58:09 +0000",
-         "publishedParsed": "2025-09-08T12:58:09Z"
+         "published": "Thu, 11 Sep 2025 15:45:38 +0000",
+         "publishedParsed": "2025-09-11T15:45:38Z"
      },
      {
          "title": "Samsung taking market share from Apple in U.S. as foldable phones gain momentum",
@@ -220,24 +240,14 @@
          "publishedParsed": "2025-09-11T09:02:50Z"
      },
      {
-         "title": "Removing yellow stains from fabric with blue light",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45163423\"\u003eComments\u003c/a\u003e",
-         "link": "https://phys.org/news/2025-09-yellow-fabric-blue.html",
+         "title": "Reshaped is now open source",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45209558\"\u003eComments\u003c/a\u003e",
+         "link": "https://reshaped.so/blog/reshaped-oss",
          "links": [
-             "https://phys.org/news/2025-09-yellow-fabric-blue.html"
+             "https://reshaped.so/blog/reshaped-oss"
          ],
-         "published": "Mon, 08 Sep 2025 00:01:54 +0000",
-         "publishedParsed": "2025-09-08T00:01:54Z"
-     },
-     {
-         "title": "GrapheneOS accessed Android security patches but not allowed to publish sources",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45208925\"\u003eComments\u003c/a\u003e",
-         "link": "https://grapheneos.social/@GrapheneOS/115164133992525834",
-         "links": [
-             "https://grapheneos.social/@GrapheneOS/115164133992525834"
-         ],
-         "published": "Thu, 11 Sep 2025 07:43:12 +0000",
-         "publishedParsed": "2025-09-11T07:43:12Z"
+         "published": "Thu, 11 Sep 2025 09:32:49 +0000",
+         "publishedParsed": "2025-09-11T09:32:49Z"
      },
      {
          "title": "Center for the Alignment of AI Alignment Centers",
@@ -250,43 +260,33 @@
          "publishedParsed": "2025-09-11T11:42:23Z"
      },
      {
-         "title": "Show HN: I built a minimal Forth-like stack interpreter library in C",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45210654\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=45210654",
+         "title": "Public Suffix List",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45167688\"\u003eComments\u003c/a\u003e",
+         "link": "https://publicsuffix.org/",
          "links": [
-             "https://news.ycombinator.com/item?id=45210654"
+             "https://publicsuffix.org/"
          ],
-         "published": "Thu, 11 Sep 2025 12:15:22 +0000",
-         "publishedParsed": "2025-09-11T12:15:22Z"
+         "published": "Mon, 08 Sep 2025 12:56:55 +0000",
+         "publishedParsed": "2025-09-08T12:56:55Z"
      },
      {
-         "title": "The rise of async AI programming",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45210693\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.braintrust.dev/blog/async-programming",
+         "title": "GrapheneOS accessed Android security patches but not allowed to publish sources",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45208925\"\u003eComments\u003c/a\u003e",
+         "link": "https://grapheneos.social/@GrapheneOS/115164133992525834",
          "links": [
-             "https://www.braintrust.dev/blog/async-programming"
+             "https://grapheneos.social/@GrapheneOS/115164133992525834"
          ],
-         "published": "Thu, 11 Sep 2025 12:20:19 +0000",
-         "publishedParsed": "2025-09-11T12:20:19Z"
+         "published": "Thu, 11 Sep 2025 07:43:12 +0000",
+         "publishedParsed": "2025-09-11T07:43:12Z"
      },
      {
-         "title": "How I solved PyTorch's cross-platform nightmare",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45164762\"\u003eComments\u003c/a\u003e",
-         "link": "https://svana.name/2025/09/how-i-solved-pytorchs-cross-platform-nightmare/",
+         "title": "Removing yellow stains from fabric with blue light",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45163423\"\u003eComments\u003c/a\u003e",
+         "link": "https://phys.org/news/2025-09-yellow-fabric-blue.html",
          "links": [
-             "https://svana.name/2025/09/how-i-solved-pytorchs-cross-platform-nightmare/"
+             "https://phys.org/news/2025-09-yellow-fabric-blue.html"
          ],
-         "published": "Mon, 08 Sep 2025 04:59:35 +0000",
-         "publishedParsed": "2025-09-08T04:59:35Z"
-     },
-     {
-         "title": "Learning lessons from the loss of the Norwegian frigate Helge Ingstad",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45169194\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.navylookout.com/learning-the-lessons-the-loss-the-norwegian-frigate-helge-ingstad/",
-         "links": [
-             "https://www.navylookout.com/learning-the-lessons-the-loss-the-norwegian-frigate-helge-ingstad/"
-         ],
-         "published": "Mon, 08 Sep 2025 15:02:15 +0000",
-         "publishedParsed": "2025-09-08T15:02:15Z"
+         "published": "Mon, 08 Sep 2025 00:01:54 +0000",
+         "publishedParsed": "2025-09-08T00:01:54Z"
      }
  ]
