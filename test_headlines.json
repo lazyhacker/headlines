@@ -1,5 +1,15 @@
 [
      {
+         "title": "Waymo has received our pilot permit allowing for commercial operations at SFO",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45264562\"\u003eComments\u003c/a\u003e",
+         "link": "https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit",
+         "links": [
+             "https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit"
+         ],
+         "published": "Tue, 16 Sep 2025 16:38:08 +0000",
+         "publishedParsed": "2025-09-16T16:38:08Z"
+     },
+     {
          "title": "Things you can do with a Software Defined Radio (2024)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45262835\"\u003eComments\u003c/a\u003e",
          "link": "https://blinry.org/50-things-with-sdr/",
@@ -10,14 +20,24 @@
          "publishedParsed": "2025-09-16T14:35:19Z"
      },
      {
-         "title": "All Systems Go at SFO",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45264562\"\u003eComments\u003c/a\u003e",
-         "link": "https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit",
+         "title": "Adios Chicos, 25 Years of KDE",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45265881\"\u003eComments\u003c/a\u003e",
+         "link": "https://jriddell.org/2025/09/14/adios-chicos-25-years-of-kde/",
          "links": [
-             "https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit"
+             "https://jriddell.org/2025/09/14/adios-chicos-25-years-of-kde/"
          ],
-         "published": "Tue, 16 Sep 2025 16:38:08 +0000",
-         "publishedParsed": "2025-09-16T16:38:08Z"
+         "published": "Tue, 16 Sep 2025 18:22:22 +0000",
+         "publishedParsed": "2025-09-16T18:22:22Z"
+     },
+     {
+         "title": "Live Updates: Shai-Hulud, the Most Dangerous NPM Breach in History",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45265937\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.koi.security/blog/shai-hulud-npm-supply-chain-attack-crowdstrike-tinycolor",
+         "links": [
+             "https://www.koi.security/blog/shai-hulud-npm-supply-chain-attack-crowdstrike-tinycolor"
+         ],
+         "published": "Tue, 16 Sep 2025 18:26:32 +0000",
+         "publishedParsed": "2025-09-16T18:26:32Z"
      },
      {
          "title": "Plugin System",
@@ -30,17 +50,27 @@
          "publishedParsed": "2025-09-16T16:10:44Z"
      },
      {
-         "title": "Self Propagating NPM Malware Compromises over 40 Packages",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45260741\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+         "title": "I built my own phone because innovation is sad rn [video]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45245050\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.youtube.com/watch?v=qy_9w_c2ub0",
          "links": [
-             "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised"
+             "https://www.youtube.com/watch?v=qy_9w_c2ub0"
          ],
-         "published": "Tue, 16 Sep 2025 11:22:03 +0000",
-         "publishedParsed": "2025-09-16T11:22:03Z"
+         "published": "Mon, 15 Sep 2025 01:12:11 +0000",
+         "publishedParsed": "2025-09-15T01:12:11Z"
      },
      {
-         "title": "UTF-8 as told by Rob Pike",
+         "title": "Launch HN: Rowboat (YC S24) – Open-source IDE for multi-agent systems",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45264867\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/rowboatlabs/rowboat",
+         "links": [
+             "https://github.com/rowboatlabs/rowboat"
+         ],
+         "published": "Tue, 16 Sep 2025 17:01:16 +0000",
+         "publishedParsed": "2025-09-16T17:01:16Z"
+     },
+     {
+         "title": "UTF-8 history (2003)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45230515\"\u003eComments\u003c/a\u003e",
          "link": "https://doc.cat-v.org/bell_labs/utf-8_history",
          "links": [
@@ -50,7 +80,67 @@
          "publishedParsed": "2025-09-13T08:56:00Z"
      },
      {
-         "title": "Implicit Ode Solvers Are Not Universally More Robust Than Explicit Ode Solvers",
+         "title": "A new experimental Google app for Windows",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45263317\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.google/products/search/google-app-windows-labs/",
+         "links": [
+             "https://blog.google/products/search/google-app-windows-labs/"
+         ],
+         "published": "Tue, 16 Sep 2025 15:05:46 +0000",
+         "publishedParsed": "2025-09-16T15:05:46Z"
+     },
+     {
+         "title": "How Container Filesystem Works: Building a Docker-Like Container from Scratch",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45232426\"\u003eComments\u003c/a\u003e",
+         "link": "https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch",
+         "links": [
+             "https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch"
+         ],
+         "published": "Sat, 13 Sep 2025 14:37:52 +0000",
+         "publishedParsed": "2025-09-13T14:37:52Z"
+     },
+     {
+         "title": "Show HN: AI Code Detector – detect AI-generated code with 95% accuracy",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45265831\"\u003eComments\u003c/a\u003e",
+         "link": "https://code-detector.ai/",
+         "links": [
+             "https://code-detector.ai/"
+         ],
+         "published": "Tue, 16 Sep 2025 18:18:56 +0000",
+         "publishedParsed": "2025-09-16T18:18:56Z"
+     },
+     {
+         "title": "Self Propagating NPM Malware",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45260741\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+         "links": [
+             "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised"
+         ],
+         "published": "Tue, 16 Sep 2025 11:22:03 +0000",
+         "publishedParsed": "2025-09-16T11:22:03Z"
+     },
+     {
+         "title": "The Linux Process Journey [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45265610\"\u003eComments\u003c/a\u003e",
+         "link": "https://thelearningjourneyebooks.com/wp-content/uploads/2023/09/TheLinuxProcessJourney_v6_Sep2023.pdf",
+         "links": [
+             "https://thelearningjourneyebooks.com/wp-content/uploads/2023/09/TheLinuxProcessJourney_v6_Sep2023.pdf"
+         ],
+         "published": "Tue, 16 Sep 2025 18:01:42 +0000",
+         "publishedParsed": "2025-09-16T18:01:42Z"
+     },
+     {
+         "title": "Development of the MOS Technology 6502: A Historical Perspective (2022)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45263221\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.EmbeddedRelated.com/showarticle/1453.php",
+         "links": [
+             "https://www.EmbeddedRelated.com/showarticle/1453.php"
+         ],
+         "published": "Tue, 16 Sep 2025 14:59:47 +0000",
+         "publishedParsed": "2025-09-16T14:59:47Z"
+     },
+     {
+         "title": "Implicit ODE Solvers Are Not Universally More Robust Than Explicit ODE Solvers",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45262151\"\u003eComments\u003c/a\u003e",
          "link": "https://www.stochasticlifestyle.com/implicit-ode-solvers-are-not-universally-more-robust-than-explicit-ode-solvers-or-why-no-ode-solver-is-best/",
          "links": [
@@ -58,6 +148,26 @@
          ],
          "published": "Tue, 16 Sep 2025 13:41:51 +0000",
          "publishedParsed": "2025-09-16T13:41:51Z"
+     },
+     {
+         "title": "Scammed out of $130K via fake Google call, spoofed Google email and auth sync",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45264726\"\u003eComments\u003c/a\u003e",
+         "link": "https://bewildered.substack.com/p/i-was-scammed-out-of-130000-and-google",
+         "links": [
+             "https://bewildered.substack.com/p/i-was-scammed-out-of-130000-and-google"
+         ],
+         "published": "Tue, 16 Sep 2025 16:50:42 +0000",
+         "publishedParsed": "2025-09-16T16:50:42Z"
+     },
+     {
+         "title": "Paper Folding Assembly Line [video]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45161219\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.youtube.com/watch?v=XhUuhl9iWpQ",
+         "links": [
+             "https://www.youtube.com/watch?v=XhUuhl9iWpQ"
+         ],
+         "published": "Sun, 07 Sep 2025 19:08:48 +0000",
+         "publishedParsed": "2025-09-07T19:08:48Z"
      },
      {
          "title": "Generative AI as Seniority-Biased Technological Change",
@@ -70,24 +180,14 @@
          "publishedParsed": "2025-09-16T13:24:35Z"
      },
      {
-         "title": "1975 Sep 16 MOS Technology samples 6502 at WESCON, here's how they designed it",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45263221\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.EmbeddedRelated.com/showarticle/1453.php",
+         "title": "Writing an operating system kernel from scratch – RISC-V/OpenSBI/Zig",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45236479\"\u003eComments\u003c/a\u003e",
+         "link": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/",
          "links": [
-             "https://www.EmbeddedRelated.com/showarticle/1453.php"
+             "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/"
          ],
-         "published": "Tue, 16 Sep 2025 14:59:47 +0000",
-         "publishedParsed": "2025-09-16T14:59:47Z"
-     },
-     {
-         "title": "Microsoft Favors Anthropic over OpenAI for Visual Studio Code",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45263063\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4",
-         "links": [
-             "https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4"
-         ],
-         "published": "Tue, 16 Sep 2025 14:48:37 +0000",
-         "publishedParsed": "2025-09-16T14:48:37Z"
+         "published": "Sun, 14 Sep 2025 00:36:23 +0000",
+         "publishedParsed": "2025-09-14T00:36:23Z"
      },
      {
          "title": "60 years after Gemini, newly processed images reveal details",
@@ -100,24 +200,34 @@
          "publishedParsed": "2025-09-13T12:43:54Z"
      },
      {
-         "title": "Will I Run Boston 2026?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45264094\"\u003eComments\u003c/a\u003e",
-         "link": "https://getfast.ai/blogs/boston-2026",
+         "title": "Microsoft Favors Anthropic over OpenAI for Visual Studio Code",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45263063\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4",
          "links": [
-             "https://getfast.ai/blogs/boston-2026"
+             "https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4"
          ],
-         "published": "Tue, 16 Sep 2025 16:04:18 +0000",
-         "publishedParsed": "2025-09-16T16:04:18Z"
+         "published": "Tue, 16 Sep 2025 14:48:37 +0000",
+         "publishedParsed": "2025-09-16T14:48:37Z"
      },
      {
-         "title": "Robert Redford has died",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45261159\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nytimes.com/2025/09/16/movies/robert-redford-dead.html",
+         "title": "Java 25 officially released",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45261946\"\u003eComments\u003c/a\u003e",
+         "link": "https://mail.openjdk.org/pipermail/announce/2025-September/000360.html",
          "links": [
-             "https://www.nytimes.com/2025/09/16/movies/robert-redford-dead.html"
+             "https://mail.openjdk.org/pipermail/announce/2025-September/000360.html"
          ],
-         "published": "Tue, 16 Sep 2025 12:10:31 +0000",
-         "publishedParsed": "2025-09-16T12:10:31Z"
+         "published": "Tue, 16 Sep 2025 13:25:42 +0000",
+         "publishedParsed": "2025-09-16T13:25:42Z"
+     },
+     {
+         "title": "Migrating to React Native's new architecture",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45225217\"\u003eComments\u003c/a\u003e",
+         "link": "https://shopify.engineering/react-native-new-architecture",
+         "links": [
+             "https://shopify.engineering/react-native-new-architecture"
+         ],
+         "published": "Fri, 12 Sep 2025 18:41:36 +0000",
+         "publishedParsed": "2025-09-12T18:41:36Z"
      },
      {
          "title": "Scientists uncover extreme life inside the Arctic ice",
@@ -130,14 +240,14 @@
          "publishedParsed": "2025-09-13T00:30:47Z"
      },
      {
-         "title": "Java 25 Officially Released",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45261946\"\u003eComments\u003c/a\u003e",
-         "link": "https://mail.openjdk.org/pipermail/announce/2025-September/000360.html",
+         "title": "Robert Redford has died",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45261159\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nytimes.com/2025/09/16/movies/robert-redford-dead.html",
          "links": [
-             "https://mail.openjdk.org/pipermail/announce/2025-September/000360.html"
+             "https://www.nytimes.com/2025/09/16/movies/robert-redford-dead.html"
          ],
-         "published": "Tue, 16 Sep 2025 13:25:42 +0000",
-         "publishedParsed": "2025-09-16T13:25:42Z"
+         "published": "Tue, 16 Sep 2025 12:10:31 +0000",
+         "publishedParsed": "2025-09-16T12:10:31Z"
      },
      {
          "title": "\"Your\" vs. \"My\" in user interfaces",
@@ -148,135 +258,5 @@
          ],
          "published": "Tue, 16 Sep 2025 03:05:53 +0000",
          "publishedParsed": "2025-09-16T03:05:53Z"
-     },
-     {
-         "title": "React is winning by default and slowing innovation",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45252715\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.lorenstew.art/blog/react-won-by-default/",
-         "links": [
-             "https://www.lorenstew.art/blog/react-won-by-default/"
-         ],
-         "published": "Mon, 15 Sep 2025 17:46:01 +0000",
-         "publishedParsed": "2025-09-15T17:46:01Z"
-     },
-     {
-         "title": "Learn x86-64 assembly by writing a GUI from scratch (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45221567\"\u003eComments\u003c/a\u003e",
-         "link": "https://gaultier.github.io/blog/x11_x64.html",
-         "links": [
-             "https://gaultier.github.io/blog/x11_x64.html"
-         ],
-         "published": "Fri, 12 Sep 2025 12:51:46 +0000",
-         "publishedParsed": "2025-09-12T12:51:46Z"
-     },
-     {
-         "title": "Tesla Faces US Auto Safety Investigation over Door Handles",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45263785\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bloomberg.com/news/articles/2025-09-16/tesla-tsla-faces-probe-by-us-auto-safety-agency-over-door-handles",
-         "links": [
-             "https://www.bloomberg.com/news/articles/2025-09-16/tesla-tsla-faces-probe-by-us-auto-safety-agency-over-door-handles"
-         ],
-         "published": "Tue, 16 Sep 2025 15:42:14 +0000",
-         "publishedParsed": "2025-09-16T15:42:14Z"
-     },
-     {
-         "title": "macOS Tahoe",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45252378\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.apple.com/os/macos/",
-         "links": [
-             "https://www.apple.com/os/macos/"
-         ],
-         "published": "Mon, 15 Sep 2025 17:16:42 +0000",
-         "publishedParsed": "2025-09-15T17:16:42Z"
-     },
-     {
-         "title": "WordNumbers: Counting letters of number names, alphabetized and concatenated",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45233675\"\u003eComments\u003c/a\u003e",
-         "link": "http://conway.rutgers.edu/~ccshan/wiki/blog/posts/WordNumbers1/",
-         "links": [
-             "http://conway.rutgers.edu/~ccshan/wiki/blog/posts/WordNumbers1/"
-         ],
-         "published": "Sat, 13 Sep 2025 17:16:03 +0000",
-         "publishedParsed": "2025-09-13T17:16:03Z"
-     },
-     {
-         "title": "Migrating to React Native's New Architecture",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45225217\"\u003eComments\u003c/a\u003e",
-         "link": "https://shopify.engineering/react-native-new-architecture",
-         "links": [
-             "https://shopify.engineering/react-native-new-architecture"
-         ],
-         "published": "Fri, 12 Sep 2025 18:41:36 +0000",
-         "publishedParsed": "2025-09-12T18:41:36Z"
-     },
-     {
-         "title": "William Gibson Reads Neuromancer (2004)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45255137\"\u003eComments\u003c/a\u003e",
-         "link": "http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html",
-         "links": [
-             "http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html"
-         ],
-         "published": "Mon, 15 Sep 2025 21:28:01 +0000",
-         "publishedParsed": "2025-09-15T21:28:01Z"
-     },
-     {
-         "title": "Adding FRM parser utility to MariaDB",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45229633\"\u003eComments\u003c/a\u003e",
-         "link": "https://hp77-creator.github.io/blogs/gsoc25",
-         "links": [
-             "https://hp77-creator.github.io/blogs/gsoc25"
-         ],
-         "published": "Sat, 13 Sep 2025 05:42:54 +0000",
-         "publishedParsed": "2025-09-13T05:42:54Z"
-     },
-     {
-         "title": "Trucker built a scale model of NYC over 21 years",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45261877\"\u003eComments\u003c/a\u003e",
-         "link": "https://gothamist.com/arts-entertainment/this-trucker-built-a-scale-model-of-nyc-over-21-years-its-drawing-museums-attention",
-         "links": [
-             "https://gothamist.com/arts-entertainment/this-trucker-built-a-scale-model-of-nyc-over-21-years-its-drawing-museums-attention"
-         ],
-         "published": "Tue, 16 Sep 2025 13:20:11 +0000",
-         "publishedParsed": "2025-09-16T13:20:11Z"
-     },
-     {
-         "title": "Hosting a website on a disposable vape",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45252817\"\u003eComments\u003c/a\u003e",
-         "link": "https://bogdanthegeek.github.io/blog/projects/vapeserver/",
-         "links": [
-             "https://bogdanthegeek.github.io/blog/projects/vapeserver/"
-         ],
-         "published": "Mon, 15 Sep 2025 17:53:19 +0000",
-         "publishedParsed": "2025-09-15T17:53:19Z"
-     },
-     {
-         "title": "Wanted to spy on my dog, ended up spying on TP-Link",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45251690\"\u003eComments\u003c/a\u003e",
-         "link": "https://kennedn.com/blog/posts/tapo/",
-         "links": [
-             "https://kennedn.com/blog/posts/tapo/"
-         ],
-         "published": "Mon, 15 Sep 2025 16:28:54 +0000",
-         "publishedParsed": "2025-09-15T16:28:54Z"
-     },
-     {
-         "title": "Mother of All Demos (1968)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45262582\"\u003eComments\u003c/a\u003e",
-         "link": "https://wordspike.com/s/5ip0xneiTsc",
-         "links": [
-             "https://wordspike.com/s/5ip0xneiTsc"
-         ],
-         "published": "Tue, 16 Sep 2025 14:18:19 +0000",
-         "publishedParsed": "2025-09-16T14:18:19Z"
-     },
-     {
-         "title": "Klotski",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45222117\"\u003eComments\u003c/a\u003e",
-         "link": "https://2swap.github.io/Klotski-Webpage/",
-         "links": [
-             "https://2swap.github.io/Klotski-Webpage/"
-         ],
-         "published": "Fri, 12 Sep 2025 13:47:22 +0000",
-         "publishedParsed": "2025-09-12T13:47:22Z"
      }
  ]
