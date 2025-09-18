@@ -1,5 +1,15 @@
 [
      {
+         "title": "Slack has raised our charges by $195k per year",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45283887\"\u003eComments\u003c/a\u003e",
+         "link": "https://skyfall.dev/posts/slack",
+         "links": [
+             "https://skyfall.dev/posts/slack"
+         ],
+         "published": "Thu, 18 Sep 2025 01:37:11 +0000",
+         "publishedParsed": "2025-09-18T01:37:11Z"
+     },
+     {
          "title": "Meta Ray-Ban Display",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45283306\"\u003eComments\u003c/a\u003e",
          "link": "https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/",
@@ -30,6 +40,16 @@
          "publishedParsed": "2025-09-18T02:18:45Z"
      },
      {
+         "title": "Orange Pi RV2 $40 RISC-V SBC: Friendly Gateway to IoT and AI Projects",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45251111\"\u003eComments\u003c/a\u003e",
+         "link": "https://riscv.org/ecosystem-news/2025/09/orange-pi-rv2-40-risc-v-sbc-friendly-gateway-to-iot-and-ai-projects/",
+         "links": [
+             "https://riscv.org/ecosystem-news/2025/09/orange-pi-rv2-40-risc-v-sbc-friendly-gateway-to-iot-and-ai-projects/"
+         ],
+         "published": "Mon, 15 Sep 2025 15:46:02 +0000",
+         "publishedParsed": "2025-09-15T15:46:02Z"
+     },
+     {
          "title": "Apple Photos app corrupts images",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45274277\"\u003eComments\u003c/a\u003e",
          "link": "https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/",
@@ -38,16 +58,6 @@
          ],
          "published": "Wed, 17 Sep 2025 11:07:44 +0000",
          "publishedParsed": "2025-09-17T11:07:44Z"
-     },
-     {
-         "title": "Slack has raised our charges by $195k per year",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45283887\"\u003eComments\u003c/a\u003e",
-         "link": "https://skyfall.dev/posts/slack",
-         "links": [
-             "https://skyfall.dev/posts/slack"
-         ],
-         "published": "Thu, 18 Sep 2025 01:37:11 +0000",
-         "publishedParsed": "2025-09-18T01:37:11Z"
      },
      {
          "title": "A postmortem of three recent issues",
@@ -70,16 +80,6 @@
          "publishedParsed": "2025-09-17T23:03:21Z"
      },
      {
-         "title": "Towards a Physics Foundation Model",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45284766\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2509.13805",
-         "links": [
-             "https://arxiv.org/abs/2509.13805"
-         ],
-         "published": "Thu, 18 Sep 2025 03:06:08 +0000",
-         "publishedParsed": "2025-09-18T03:06:08Z"
-     },
-     {
          "title": "Boring is good",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45254763\"\u003eComments\u003c/a\u003e",
          "link": "https://jenson.org/boring/",
@@ -88,36 +88,6 @@
          ],
          "published": "Mon, 15 Sep 2025 20:51:27 +0000",
          "publishedParsed": "2025-09-15T20:51:27Z"
-     },
-     {
-         "title": "Stepping Down as Libxml2 Maintainer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45283196\"\u003eComments\u003c/a\u003e",
-         "link": "https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398",
-         "links": [
-             "https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398"
-         ],
-         "published": "Thu, 18 Sep 2025 00:17:20 +0000",
-         "publishedParsed": "2025-09-18T00:17:20Z"
-     },
-     {
-         "title": "What's New in C# 14: Null-Conditional Assignments",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45253012\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.ivankahl.com/csharp-14-null-conditional-assignments/",
-         "links": [
-             "https://blog.ivankahl.com/csharp-14-null-conditional-assignments/"
-         ],
-         "published": "Mon, 15 Sep 2025 18:08:45 +0000",
-         "publishedParsed": "2025-09-15T18:08:45Z"
-     },
-     {
-         "title": "YouTube addresses lower view counts which seem to be caused by ad blockers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45276262\"\u003eComments\u003c/a\u003e",
-         "link": "https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/",
-         "links": [
-             "https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/"
-         ],
-         "published": "Wed, 17 Sep 2025 14:29:10 +0000",
-         "publishedParsed": "2025-09-17T14:29:10Z"
      },
      {
          "title": "Hypervisor 101 in Rust",
@@ -130,14 +100,54 @@
          "publishedParsed": "2025-09-18T01:18:58Z"
      },
      {
-         "title": "Optimizing ClickHouse for Intel's 280 core processors",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45279792\"\u003eComments\u003c/a\u003e",
-         "link": "https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu",
+         "title": "Towards a Physics Foundation Model",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45284766\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2509.13805",
          "links": [
-             "https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu"
+             "https://arxiv.org/abs/2509.13805"
          ],
-         "published": "Wed, 17 Sep 2025 18:46:03 +0000",
-         "publishedParsed": "2025-09-17T18:46:03Z"
+         "published": "Thu, 18 Sep 2025 03:06:08 +0000",
+         "publishedParsed": "2025-09-18T03:06:08Z"
+     },
+     {
+         "title": "YouTube addresses lower view counts which seem to be caused by ad blockers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45276262\"\u003eComments\u003c/a\u003e",
+         "link": "https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/",
+         "links": [
+             "https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/"
+         ],
+         "published": "Wed, 17 Sep 2025 14:29:10 +0000",
+         "publishedParsed": "2025-09-17T14:29:10Z"
+     },
+     {
+         "title": "Stepping Down as Libxml2 Maintainer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45283196\"\u003eComments\u003c/a\u003e",
+         "link": "https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398",
+         "links": [
+             "https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398"
+         ],
+         "published": "Thu, 18 Sep 2025 00:17:20 +0000",
+         "publishedParsed": "2025-09-18T00:17:20Z"
+     },
+     {
+         "title": "Rendezvous Hashing Explained (2020)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45253987\"\u003eComments\u003c/a\u003e",
+         "link": "https://randorithms.com/2020/12/26/rendezvous-hashing.html",
+         "links": [
+             "https://randorithms.com/2020/12/26/rendezvous-hashing.html"
+         ],
+         "published": "Mon, 15 Sep 2025 19:36:10 +0000",
+         "publishedParsed": "2025-09-15T19:36:10Z"
+     },
+     {
+         "title": "European ant is the first known animal to clone members of another species",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45285780\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.livescience.com/animals/ants/almost-like-science-fiction-european-ant-is-the-first-known-animal-to-clone-members-of-another-species",
+         "links": [
+             "https://www.livescience.com/animals/ants/almost-like-science-fiction-european-ant-is-the-first-known-animal-to-clone-members-of-another-species"
+         ],
+         "published": "Thu, 18 Sep 2025 05:27:01 +0000",
+         "publishedParsed": "2025-09-18T05:27:01Z"
      },
      {
          "title": "Ton Roosendaal to step down as Blender chairman and CEO",
@@ -160,14 +170,24 @@
          "publishedParsed": "2025-09-18T02:25:59Z"
      },
      {
-         "title": "DeepMind and OpenAI win gold at ICPC",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45279357\"\u003eComments\u003c/a\u003e",
-         "link": "https://codeforces.com/blog/entry/146536",
+         "title": "Condor Technology to Fly \"Cuzco\" RISC-V CPU into the Datacenter",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45251940\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nextplatform.com/2025/09/15/condor-technology-to-fly-cuzco-risc-v-cpu-into-the-datacenter/",
          "links": [
-             "https://codeforces.com/blog/entry/146536"
+             "https://www.nextplatform.com/2025/09/15/condor-technology-to-fly-cuzco-risc-v-cpu-into-the-datacenter/"
          ],
-         "published": "Wed, 17 Sep 2025 18:15:16 +0000",
-         "publishedParsed": "2025-09-17T18:15:16Z"
+         "published": "Mon, 15 Sep 2025 16:48:01 +0000",
+         "publishedParsed": "2025-09-15T16:48:01Z"
+     },
+     {
+         "title": "Optimizing ClickHouse for Intel's 280 core processors",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45279792\"\u003eComments\u003c/a\u003e",
+         "link": "https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu",
+         "links": [
+             "https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu"
+         ],
+         "published": "Wed, 17 Sep 2025 18:46:03 +0000",
+         "publishedParsed": "2025-09-17T18:46:03Z"
      },
      {
          "title": "Tinycolor supply chain attack post-mortem",
@@ -180,16 +200,6 @@
          "publishedParsed": "2025-09-17T17:18:38Z"
      },
      {
-         "title": "Can Your GrimDark Beat the Germans (2022)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45238175\"\u003eComments\u003c/a\u003e",
-         "link": "https://medium.com/luminasticity/can-your-grimdark-beat-the-germans-429f3e6fc4df",
-         "links": [
-             "https://medium.com/luminasticity/can-your-grimdark-beat-the-germans-429f3e6fc4df"
-         ],
-         "published": "Sun, 14 Sep 2025 07:30:09 +0000",
-         "publishedParsed": "2025-09-14T07:30:09Z"
-     },
-     {
          "title": "Drought in Iraq reveals tombs created 2,300 years ago",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45278581\"\u003eComments\u003c/a\u003e",
          "link": "https://www.smithsonianmag.com/smart-news/severe-droughts-in-iraq-reveals-dozens-of-ancient-tombs-created-2300-years-ago-180987347/",
@@ -200,14 +210,24 @@
          "publishedParsed": "2025-09-17T17:12:15Z"
      },
      {
-         "title": "Gluon: a GPU programming language based on the same compiler stack as Triton",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45280592\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py",
+         "title": "DeepMind and OpenAI win gold at ICPC",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45279357\"\u003eComments\u003c/a\u003e",
+         "link": "https://codeforces.com/blog/entry/146536",
          "links": [
-             "https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py"
+             "https://codeforces.com/blog/entry/146536"
          ],
-         "published": "Wed, 17 Sep 2025 19:50:11 +0000",
-         "publishedParsed": "2025-09-17T19:50:11Z"
+         "published": "Wed, 17 Sep 2025 18:15:16 +0000",
+         "publishedParsed": "2025-09-17T18:15:16Z"
+     },
+     {
+         "title": "What's New in C# 14: Null-Conditional Assignments",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45253012\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.ivankahl.com/csharp-14-null-conditional-assignments/",
+         "links": [
+             "https://blog.ivankahl.com/csharp-14-null-conditional-assignments/"
+         ],
+         "published": "Mon, 15 Sep 2025 18:08:45 +0000",
+         "publishedParsed": "2025-09-15T18:08:45Z"
      },
      {
          "title": "Ask HN: What's a good 3D Printer for sub $1000?",
@@ -220,16 +240,6 @@
          "publishedParsed": "2025-09-15T16:24:38Z"
      },
      {
-         "title": "Alibaba's new AI chip: Key specifications comparable to H20",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45273747\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.futunn.com/en/post/62202518/alibaba-s-new-ai-chip-unveiled-key-specifications-comparable-to",
-         "links": [
-             "https://news.futunn.com/en/post/62202518/alibaba-s-new-ai-chip-unveiled-key-specifications-comparable-to"
-         ],
-         "published": "Wed, 17 Sep 2025 09:45:44 +0000",
-         "publishedParsed": "2025-09-17T09:45:44Z"
-     },
-     {
          "title": "Understanding Deflate",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45242434\"\u003eComments\u003c/a\u003e",
          "link": "https://jjrscott.com/to-deflate-or-not/",
@@ -240,14 +250,14 @@
          "publishedParsed": "2025-09-14T19:12:40Z"
      },
      {
-         "title": "Condor Technology to Fly \"Cuzco\" RISC-V CPU into the Datacenter",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45251940\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nextplatform.com/2025/09/15/condor-technology-to-fly-cuzco-risc-v-cpu-into-the-datacenter/",
+         "title": "Gluon: a GPU programming language based on the same compiler stack as Triton",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45280592\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py",
          "links": [
-             "https://www.nextplatform.com/2025/09/15/condor-technology-to-fly-cuzco-risc-v-cpu-into-the-datacenter/"
+             "https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py"
          ],
-         "published": "Mon, 15 Sep 2025 16:48:01 +0000",
-         "publishedParsed": "2025-09-15T16:48:01Z"
+         "published": "Wed, 17 Sep 2025 19:50:11 +0000",
+         "publishedParsed": "2025-09-17T19:50:11Z"
      },
      {
          "title": "Launch HN: RunRL (YC X25) – Reinforcement learning as a service",
@@ -260,26 +270,6 @@
          "publishedParsed": "2025-09-17T16:13:00Z"
      },
      {
-         "title": "Grade 2 Braille",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45242287\"\u003eComments\u003c/a\u003e",
-         "link": "https://en.wikipedia.org/wiki/English_Braille",
-         "links": [
-             "https://en.wikipedia.org/wiki/English_Braille"
-         ],
-         "published": "Sun, 14 Sep 2025 18:49:34 +0000",
-         "publishedParsed": "2025-09-14T18:49:34Z"
-     },
-     {
-         "title": "Event Horizon Labs (YC W24) Is Hiring",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45278424\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/event-horizon-labs/jobs/U6oyyKZ-founding-engineer-at-event-horizon-labs",
-         "links": [
-             "https://www.ycombinator.com/companies/event-horizon-labs/jobs/U6oyyKZ-founding-engineer-at-event-horizon-labs"
-         ],
-         "published": "Wed, 17 Sep 2025 17:00:05 +0000",
-         "publishedParsed": "2025-09-17T17:00:05Z"
-     },
-     {
          "title": "Tau² benchmark: How a prompt rewrite boosted GPT-5-mini by 22%",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45275354\"\u003eComments\u003c/a\u003e",
          "link": "https://quesma.com/blog/tau2-benchmark-improving-results-smaller-models/",
@@ -288,5 +278,15 @@
          ],
          "published": "Wed, 17 Sep 2025 13:03:24 +0000",
          "publishedParsed": "2025-09-17T13:03:24Z"
+     },
+     {
+         "title": "Determination of the fifth Busy Beaver value",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45273999\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2509.12337",
+         "links": [
+             "https://arxiv.org/abs/2509.12337"
+         ],
+         "published": "Wed, 17 Sep 2025 10:26:18 +0000",
+         "publishedParsed": "2025-09-17T10:26:18Z"
      }
  ]
