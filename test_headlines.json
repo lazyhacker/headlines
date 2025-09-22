@@ -10,6 +10,26 @@
          "publishedParsed": "2025-09-21T16:43:45Z"
      },
      {
+         "title": "Lightweight, highly accurate line and paragraph detection",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45326740\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2203.09638",
+         "links": [
+             "https://arxiv.org/abs/2203.09638"
+         ],
+         "published": "Sun, 21 Sep 2025 21:18:14 +0000",
+         "publishedParsed": "2025-09-21T21:18:14Z"
+     },
+     {
+         "title": "Be Careful with Go Struct Embedding",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45327531\"\u003eComments\u003c/a\u003e",
+         "link": "https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html",
+         "links": [
+             "https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html"
+         ],
+         "published": "Sun, 21 Sep 2025 23:16:08 +0000",
+         "publishedParsed": "2025-09-21T23:16:08Z"
+     },
+     {
          "title": "Show HN: I wrote an OS in 1000 lines of Zig",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45290590\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/botirk38/OS-1000-lines-zig",
@@ -30,16 +50,6 @@
          "publishedParsed": "2025-09-18T18:43:34Z"
      },
      {
-         "title": "DXGI debugging: Microsoft put me on a list",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45323207\"\u003eComments\u003c/a\u003e",
-         "link": "https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/",
-         "links": [
-             "https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/"
-         ],
-         "published": "Sun, 21 Sep 2025 14:45:50 +0000",
-         "publishedParsed": "2025-09-21T14:45:50Z"
-     },
-     {
          "title": "40k-Year-Old Symbols in Caves Worldwide May Be the Earliest Written Language",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45286622\"\u003eComments\u003c/a\u003e",
          "link": "https://www.openculture.com/2025/09/40000-year-old-symbols-found-in-caves-worldwide-may-be-the-earliest-written-language.html",
@@ -50,14 +60,14 @@
          "publishedParsed": "2025-09-18T07:27:22Z"
      },
      {
-         "title": "Timesketch: Collaborative forensic timeline analysis",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45324343\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/google/timesketch",
+         "title": "DXGI debugging: Microsoft put me on a list",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45323207\"\u003eComments\u003c/a\u003e",
+         "link": "https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/",
          "links": [
-             "https://github.com/google/timesketch"
+             "https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/"
          ],
-         "published": "Sun, 21 Sep 2025 16:43:19 +0000",
-         "publishedParsed": "2025-09-21T16:43:19Z"
+         "published": "Sun, 21 Sep 2025 14:45:50 +0000",
+         "publishedParsed": "2025-09-21T14:45:50Z"
      },
      {
          "title": "Procedural Island Generation (VI)",
@@ -68,6 +78,26 @@
          ],
          "published": "Sun, 21 Sep 2025 21:11:57 +0000",
          "publishedParsed": "2025-09-21T21:11:57Z"
+     },
+     {
+         "title": "My new Git utility `what-changed-twice` needs a new name",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45327059\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.plover.com/2025/09/21/#what-changed-twice",
+         "links": [
+             "https://blog.plover.com/2025/09/21/#what-changed-twice"
+         ],
+         "published": "Sun, 21 Sep 2025 21:59:12 +0000",
+         "publishedParsed": "2025-09-21T21:59:12Z"
+     },
+     {
+         "title": "Timesketch: Collaborative forensic timeline analysis",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45324343\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/google/timesketch",
+         "links": [
+             "https://github.com/google/timesketch"
+         ],
+         "published": "Sun, 21 Sep 2025 16:43:19 +0000",
+         "publishedParsed": "2025-09-21T16:43:19Z"
      },
      {
          "title": "I forced myself to spend a week in Instagram instead of Xcode",
@@ -90,34 +120,14 @@
          "publishedParsed": "2025-09-21T12:31:57Z"
      },
      {
-         "title": "Unified Line and Paragraph Detection by Graph Convolutional Networks (2022)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45323027\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2503.05136",
+         "title": "Zig got a new ELF linker and it's fast",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45327318\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/ziglang/zig/pull/25299",
          "links": [
-             "https://arxiv.org/abs/2503.05136"
+             "https://github.com/ziglang/zig/pull/25299"
          ],
-         "published": "Sun, 21 Sep 2025 14:26:10 +0000",
-         "publishedParsed": "2025-09-21T14:26:10Z"
-     },
-     {
-         "title": "Lightweight, highly accurate line and paragraph detection",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45326740\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2203.09638",
-         "links": [
-             "https://arxiv.org/abs/2203.09638"
-         ],
-         "published": "Sun, 21 Sep 2025 21:18:14 +0000",
-         "publishedParsed": "2025-09-21T21:18:14Z"
-     },
-     {
-         "title": "Apple Silicon GPU Support in Mojo",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45326388\"\u003eComments\u003c/a\u003e",
-         "link": "https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295",
-         "links": [
-             "https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295"
-         ],
-         "published": "Sun, 21 Sep 2025 20:35:14 +0000",
-         "publishedParsed": "2025-09-21T20:35:14Z"
+         "published": "Sun, 21 Sep 2025 22:40:28 +0000",
+         "publishedParsed": "2025-09-21T22:40:28Z"
      },
      {
          "title": "INapGPU: Text-mode graphics card, using only TTL gates",
@@ -130,16 +140,6 @@
          "publishedParsed": "2025-09-18T04:53:03Z"
      },
      {
-         "title": "How Isaac Newton discovered the binomial power series (2022)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45292084\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/",
-         "links": [
-             "https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/"
-         ],
-         "published": "Thu, 18 Sep 2025 16:59:50 +0000",
-         "publishedParsed": "2025-09-18T16:59:50Z"
-     },
-     {
          "title": "Node 20 will be deprecated on GitHub Actions runners",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45312323\"\u003eComments\u003c/a\u003e",
          "link": "https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/",
@@ -150,27 +150,67 @@
          "publishedParsed": "2025-09-20T11:19:37Z"
      },
      {
-         "title": "LaLiga's Anti-Piracy Crackdown Triggers Widespread Internet Disruptions in Spain",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45323856\"\u003eComments\u003c/a\u003e",
-         "link": "https://reclaimthenet.org/laligas-anti-piracy-crackdown-triggers-widespread-internet-disruptions",
+         "title": "Model Flop Utilization Beyond 6ND",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45289862\"\u003eComments\u003c/a\u003e",
+         "link": "https://jott.live/markdown/mfu",
          "links": [
-             "https://reclaimthenet.org/laligas-anti-piracy-crackdown-triggers-widespread-internet-disruptions"
+             "https://jott.live/markdown/mfu"
          ],
-         "published": "Sun, 21 Sep 2025 15:57:49 +0000",
-         "publishedParsed": "2025-09-21T15:57:49Z"
+         "published": "Thu, 18 Sep 2025 14:05:17 +0000",
+         "publishedParsed": "2025-09-18T14:05:17Z"
      },
      {
-         "title": "AI was supposed to help juniors shine. Why does it mostly make seniors stronger?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45319062\"\u003eComments\u003c/a\u003e",
-         "link": "https://elma.dev/notes/ai-makes-seniors-stronger/",
+         "title": "Unified Line and Paragraph Detection by Graph Convolutional Networks (2022)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45323027\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2503.05136",
          "links": [
-             "https://elma.dev/notes/ai-makes-seniors-stronger/"
+             "https://arxiv.org/abs/2503.05136"
          ],
-         "published": "Sun, 21 Sep 2025 00:56:59 +0000",
-         "publishedParsed": "2025-09-21T00:56:59Z"
+         "published": "Sun, 21 Sep 2025 14:26:10 +0000",
+         "publishedParsed": "2025-09-21T14:26:10Z"
      },
      {
-         "title": "The University of Oxford has fallen out of the top three universities in the UK",
+         "title": "Apple Silicon GPU Support in Mojo",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45326388\"\u003eComments\u003c/a\u003e",
+         "link": "https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295",
+         "links": [
+             "https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295"
+         ],
+         "published": "Sun, 21 Sep 2025 20:35:14 +0000",
+         "publishedParsed": "2025-09-21T20:35:14Z"
+     },
+     {
+         "title": "How Isaac Newton discovered the binomial power series (2022)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45292084\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/",
+         "links": [
+             "https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/"
+         ],
+         "published": "Thu, 18 Sep 2025 16:59:50 +0000",
+         "publishedParsed": "2025-09-18T16:59:50Z"
+     },
+     {
+         "title": "Discovering new solutions to century-old problems in fluid dynamics",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45290636\"\u003eComments\u003c/a\u003e",
+         "link": "https://deepmind.google/discover/blog/discovering-new-solutions-to-century-old-problems-in-fluid-dynamics/",
+         "links": [
+             "https://deepmind.google/discover/blog/discovering-new-solutions-to-century-old-problems-in-fluid-dynamics/"
+         ],
+         "published": "Thu, 18 Sep 2025 15:09:50 +0000",
+         "publishedParsed": "2025-09-18T15:09:50Z"
+     },
+     {
+         "title": "Show HN: Tips to stay safe from NPM supply chain attacks",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45326754\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/bodadotsh/npm-security-best-practices",
+         "links": [
+             "https://github.com/bodadotsh/npm-security-best-practices"
+         ],
+         "published": "Sun, 21 Sep 2025 21:19:47 +0000",
+         "publishedParsed": "2025-09-21T21:19:47Z"
+     },
+     {
+         "title": "Oxford loses top 3 university ranking in the UK",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45323793\"\u003eComments\u003c/a\u003e",
          "link": "https://hotminute.co.uk/2025/09/19/oxford-loses-top-3-university-ranking-for-the-first-time/",
          "links": [
@@ -180,14 +220,14 @@
          "publishedParsed": "2025-09-21T15:51:03Z"
      },
      {
-         "title": "Spectral Labs releases SGS-1: the first generative model for structured CAD",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45319876\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.spectrallabs.ai/research/SGS-1",
+         "title": "Why is Venus hell and Earth an Eden?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45327417\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/",
          "links": [
-             "https://www.spectrallabs.ai/research/SGS-1"
+             "https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/"
          ],
-         "published": "Sun, 21 Sep 2025 03:46:07 +0000",
-         "publishedParsed": "2025-09-21T03:46:07Z"
+         "published": "Sun, 21 Sep 2025 22:56:31 +0000",
+         "publishedParsed": "2025-09-21T22:56:31Z"
      },
      {
          "title": "A coin flip by any other name (2023)",
@@ -200,14 +240,14 @@
          "publishedParsed": "2025-09-18T21:59:54Z"
      },
      {
-         "title": "I created a bouncing DVD screensaver for your terminal",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45326294\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/integrii/dvd",
+         "title": "How can I influence others without manipulating them?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45327199\"\u003eComments\u003c/a\u003e",
+         "link": "https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating",
          "links": [
-             "https://github.com/integrii/dvd"
+             "https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating"
          ],
-         "published": "Sun, 21 Sep 2025 20:20:04 +0000",
-         "publishedParsed": "2025-09-21T20:20:04Z"
+         "published": "Sun, 21 Sep 2025 22:20:16 +0000",
+         "publishedParsed": "2025-09-21T22:20:16Z"
      },
      {
          "title": "The Counterclockwise Experiment",
@@ -220,36 +260,6 @@
          "publishedParsed": "2025-09-20T07:52:48Z"
      },
      {
-         "title": "Show HN: Freeing GPUs stuck by runaway jobs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45323875\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/kagehq/gpu-kill",
-         "links": [
-             "https://github.com/kagehq/gpu-kill"
-         ],
-         "published": "Sun, 21 Sep 2025 16:00:06 +0000",
-         "publishedParsed": "2025-09-21T16:00:06Z"
-     },
-     {
-         "title": "iFixit iPhone Air teardown",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45319690\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ifixit.com/News/113171/iphone-air-teardown",
-         "links": [
-             "https://www.ifixit.com/News/113171/iphone-air-teardown"
-         ],
-         "published": "Sun, 21 Sep 2025 03:09:47 +0000",
-         "publishedParsed": "2025-09-21T03:09:47Z"
-     },
-     {
-         "title": "$2 WeAct Display FS adds a 0.96-inch USB information display to your computer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45317527\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/",
-         "links": [
-             "https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/"
-         ],
-         "published": "Sat, 20 Sep 2025 21:04:47 +0000",
-         "publishedParsed": "2025-09-20T21:04:47Z"
-     },
-     {
          "title": "Bringing Observability to Claude Code: OpenTelemetry in Action",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45325410\"\u003eComments\u003c/a\u003e",
          "link": "https://signoz.io/blog/claude-code-monitoring-with-opentelemetry/",
@@ -260,43 +270,13 @@
          "publishedParsed": "2025-09-21T18:37:04Z"
      },
      {
-         "title": "Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 3",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45312202\"\u003eComments\u003c/a\u003e",
-         "link": "https://gautiersblog.blogspot.com/2025/09/writing-competitive-bzip2-encoder-in.html",
+         "title": "Tiny reactors could one day power towns, campuses; community input will be key",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45327108\"\u003eComments\u003c/a\u003e",
+         "link": "https://theconversation.com/nuclear-in-your-backyard-tiny-reactors-could-one-day-power-towns-and-campuses-but-community-input-will-be-key-261225",
          "links": [
-             "https://gautiersblog.blogspot.com/2025/09/writing-competitive-bzip2-encoder-in.html"
+             "https://theconversation.com/nuclear-in-your-backyard-tiny-reactors-could-one-day-power-towns-and-campuses-but-community-input-will-be-key-261225"
          ],
-         "published": "Sat, 20 Sep 2025 10:55:53 +0000",
-         "publishedParsed": "2025-09-20T10:55:53Z"
-     },
-     {
-         "title": "Extrachromosomal DNA–Driven Oncogene Evolution in Glioblastoma",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45322992\"\u003eComments\u003c/a\u003e",
-         "link": "https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-24-1555/764257/Extrachromosomal-DNA-Driven-Oncogene-Spatial",
-         "links": [
-             "https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-24-1555/764257/Extrachromosomal-DNA-Driven-Oncogene-Spatial"
-         ],
-         "published": "Sun, 21 Sep 2025 14:22:10 +0000",
-         "publishedParsed": "2025-09-21T14:22:10Z"
-     },
-     {
-         "title": "The link between trauma, drug use, and our search to feel better",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45324365\"\u003eComments\u003c/a\u003e",
-         "link": "https://lithub.com/the-link-between-trauma-drug-use-and-our-search-to-feel-better/",
-         "links": [
-             "https://lithub.com/the-link-between-trauma-drug-use-and-our-search-to-feel-better/"
-         ],
-         "published": "Sun, 21 Sep 2025 16:45:06 +0000",
-         "publishedParsed": "2025-09-21T16:45:06Z"
-     },
-     {
-         "title": "Why, as a responsible adult, SimCity 2000 hits differently",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45285387\"\u003eComments\u003c/a\u003e",
-         "link": "https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/",
-         "links": [
-             "https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/"
-         ],
-         "published": "Thu, 18 Sep 2025 04:26:41 +0000",
-         "publishedParsed": "2025-09-18T04:26:41Z"
+         "published": "Sun, 21 Sep 2025 22:05:23 +0000",
+         "publishedParsed": "2025-09-21T22:05:23Z"
      }
  ]
