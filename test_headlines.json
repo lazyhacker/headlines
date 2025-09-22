@@ -1,16 +1,46 @@
 [
      {
-         "title": "Dear GitHub: no YAML anchors, please",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45334032\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors",
+         "title": "PlanetScale for Postgres is now GA",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45334545\"\u003eComments\u003c/a\u003e",
+         "link": "https://planetscale.com/blog/planetscale-for-postgres-is-generally-available",
          "links": [
-             "https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors"
+             "https://planetscale.com/blog/planetscale-for-postgres-is-generally-available"
          ],
-         "published": "Mon, 22 Sep 2025 14:34:11 +0000",
-         "publishedParsed": "2025-09-22T14:34:11Z"
+         "published": "Mon, 22 Sep 2025 15:10:48 +0000",
+         "publishedParsed": "2025-09-22T15:10:48Z"
      },
      {
-         "title": "Easy Forth",
+         "title": "OpenAI and Nvidia Announce Partnership to Deploy 10GW of Nvidia Systems",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45335474\"\u003eComments\u003c/a\u003e",
+         "link": "https://openai.com/index/openai-nvidia-systems-partnership/",
+         "links": [
+             "https://openai.com/index/openai-nvidia-systems-partnership/"
+         ],
+         "published": "Mon, 22 Sep 2025 16:10:15 +0000",
+         "publishedParsed": "2025-09-22T16:10:15Z"
+     },
+     {
+         "title": "A simple way to measure knots has come unraveled",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45334250\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/",
+         "links": [
+             "https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/"
+         ],
+         "published": "Mon, 22 Sep 2025 14:49:16 +0000",
+         "publishedParsed": "2025-09-22T14:49:16Z"
+     },
+     {
+         "title": "Cloudflare is sponsoring Ladybird and Omarchy",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45332860\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/",
+         "links": [
+             "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/"
+         ],
+         "published": "Mon, 22 Sep 2025 13:03:33 +0000",
+         "publishedParsed": "2025-09-22T13:03:33Z"
+     },
+     {
+         "title": "Easy Forth (2015)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45332130\"\u003eComments\u003c/a\u003e",
          "link": "https://skilldrick.github.io/easyforth/",
          "links": [
@@ -18,6 +48,36 @@
          ],
          "published": "Mon, 22 Sep 2025 11:52:41 +0000",
          "publishedParsed": "2025-09-22T11:52:41Z"
+     },
+     {
+         "title": "SWE-Bench Pro",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45335452\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/scaleapi/SWE-bench_Pro-os",
+         "links": [
+             "https://github.com/scaleapi/SWE-bench_Pro-os"
+         ],
+         "published": "Mon, 22 Sep 2025 16:08:57 +0000",
+         "publishedParsed": "2025-09-22T16:08:57Z"
+     },
+     {
+         "title": "Cap'n Web: a new RPC system for browsers and web servers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45332883\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.cloudflare.com/capnweb-javascript-rpc-library/",
+         "links": [
+             "https://blog.cloudflare.com/capnweb-javascript-rpc-library/"
+         ],
+         "published": "Mon, 22 Sep 2025 13:05:32 +0000",
+         "publishedParsed": "2025-09-22T13:05:32Z"
+     },
+     {
+         "title": "A New Internet Business Model?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45334599\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.cloudflare.com/cloudflare-2025-annual-founders-letter/",
+         "links": [
+             "https://blog.cloudflare.com/cloudflare-2025-annual-founders-letter/"
+         ],
+         "published": "Mon, 22 Sep 2025 15:14:27 +0000",
+         "publishedParsed": "2025-09-22T15:14:27Z"
      },
      {
          "title": "CompileBench: Can AI Compile 22-year-old Code?",
@@ -40,34 +100,14 @@
          "publishedParsed": "2025-09-22T14:30:10Z"
      },
      {
-         "title": "Kmart's use of facial recognition to tackle refund fraud unlawful",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45331370\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.oaic.gov.au/news/media-centre/18-kmarts-use-of-facial-recognition-to-tackle-refund-fraud-unlawful,-privacy-commissioner-finds",
+         "title": "What if we treated Postgres like SQLite?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45333190\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.maragu.dev/blog/what-if-we-treated-postgres-like-sqlite",
          "links": [
-             "https://www.oaic.gov.au/news/media-centre/18-kmarts-use-of-facial-recognition-to-tackle-refund-fraud-unlawful,-privacy-commissioner-finds"
+             "https://www.maragu.dev/blog/what-if-we-treated-postgres-like-sqlite"
          ],
-         "published": "Mon, 22 Sep 2025 10:20:43 +0000",
-         "publishedParsed": "2025-09-22T10:20:43Z"
-     },
-     {
-         "title": "SGI demos from long ago in the browser via WASM",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45330407\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/sgi-demos",
-         "links": [
-             "https://github.com/sgi-demos"
-         ],
-         "published": "Mon, 22 Sep 2025 08:03:59 +0000",
-         "publishedParsed": "2025-09-22T08:03:59Z"
-     },
-     {
-         "title": "Cloudflare is sponsoring Ladybird and Omarchy",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45332860\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/",
-         "links": [
-             "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/"
-         ],
-         "published": "Mon, 22 Sep 2025 13:03:33 +0000",
-         "publishedParsed": "2025-09-22T13:03:33Z"
+         "published": "Mon, 22 Sep 2025 13:29:33 +0000",
+         "publishedParsed": "2025-09-22T13:29:33Z"
      },
      {
          "title": "How I, a beginner developer, read the tutorial you, a developer, wrote for me",
@@ -80,14 +120,64 @@
          "publishedParsed": "2025-09-22T01:27:34Z"
      },
      {
-         "title": "A Beautiful Maths Game",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45311705\"\u003eComments\u003c/a\u003e",
-         "link": "https://sinerider.com/",
+         "title": "SGI demos from long ago in the browser via WASM",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45330407\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/sgi-demos",
          "links": [
-             "https://sinerider.com/"
+             "https://github.com/sgi-demos"
          ],
-         "published": "Sat, 20 Sep 2025 09:12:08 +0000",
-         "publishedParsed": "2025-09-20T09:12:08Z"
+         "published": "Mon, 22 Sep 2025 08:03:59 +0000",
+         "publishedParsed": "2025-09-22T08:03:59Z"
+     },
+     {
+         "title": "Dear GitHub: no YAML anchors, please",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45334032\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors",
+         "links": [
+             "https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors"
+         ],
+         "published": "Mon, 22 Sep 2025 14:34:11 +0000",
+         "publishedParsed": "2025-09-22T14:34:11Z"
+     },
+     {
+         "title": "Human-Oriented Markup Language",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45335129\"\u003eComments\u003c/a\u003e",
+         "link": "https://huml.io/",
+         "links": [
+             "https://huml.io/"
+         ],
+         "published": "Mon, 22 Sep 2025 15:48:36 +0000",
+         "publishedParsed": "2025-09-22T15:48:36Z"
+     },
+     {
+         "title": "Anti-*: The Things We Do but Not All the Way",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45334467\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.jim-nielsen.com/2025/my-antis/",
+         "links": [
+             "https://blog.jim-nielsen.com/2025/my-antis/"
+         ],
+         "published": "Mon, 22 Sep 2025 15:03:58 +0000",
+         "publishedParsed": "2025-09-22T15:03:58Z"
+     },
+     {
+         "title": "The Strange Tale of the Hotchkiss",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45321570\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.edrdg.org/~jwb/mondir/hotchkiss.html",
+         "links": [
+             "https://www.edrdg.org/~jwb/mondir/hotchkiss.html"
+         ],
+         "published": "Sun, 21 Sep 2025 10:37:35 +0000",
+         "publishedParsed": "2025-09-21T10:37:35Z"
+     },
+     {
+         "title": "A board member's perspective of the RubyGems controversy",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45335695\"\u003eComments\u003c/a\u003e",
+         "link": "https://apiguy.substack.com/p/a-board-members-perspective-of-the",
+         "links": [
+             "https://apiguy.substack.com/p/a-board-members-perspective-of-the"
+         ],
+         "published": "Mon, 22 Sep 2025 16:25:35 +0000",
+         "publishedParsed": "2025-09-22T16:25:35Z"
      },
      {
          "title": "Beyond the Front Page: A Personal Guide to Hacker News",
@@ -100,6 +190,26 @@
          "publishedParsed": "2025-09-22T09:37:12Z"
      },
      {
+         "title": "Kmart's use of facial recognition to tackle refund fraud unlawful",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45331370\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.oaic.gov.au/news/media-centre/18-kmarts-use-of-facial-recognition-to-tackle-refund-fraud-unlawful,-privacy-commissioner-finds",
+         "links": [
+             "https://www.oaic.gov.au/news/media-centre/18-kmarts-use-of-facial-recognition-to-tackle-refund-fraud-unlawful,-privacy-commissioner-finds"
+         ],
+         "published": "Mon, 22 Sep 2025 10:20:43 +0000",
+         "publishedParsed": "2025-09-22T10:20:43Z"
+     },
+     {
+         "title": "A Beautiful Maths Game",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45311705\"\u003eComments\u003c/a\u003e",
+         "link": "https://sinerider.com/",
+         "links": [
+             "https://sinerider.com/"
+         ],
+         "published": "Sat, 20 Sep 2025 09:12:08 +0000",
+         "publishedParsed": "2025-09-20T09:12:08Z"
+     },
+     {
          "title": "You did this with an AI and you do not understand what you're doing here",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45330378\"\u003eComments\u003c/a\u003e",
          "link": "https://hackerone.com/reports/3340109",
@@ -110,34 +220,24 @@
          "publishedParsed": "2025-09-22T07:59:37Z"
      },
      {
-         "title": "Why Local-First Apps Haven't Become Popular?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45333021\"\u003eComments\u003c/a\u003e",
-         "link": "https://marcobambini.substack.com/p/why-local-first-apps-havent-become",
+         "title": "Emerald Source Code Commentary",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45294095\"\u003eComments\u003c/a\u003e",
+         "link": "https://0xabad1dea.github.io/emeraldscc/",
          "links": [
-             "https://marcobambini.substack.com/p/why-local-first-apps-havent-become"
+             "https://0xabad1dea.github.io/emeraldscc/"
          ],
-         "published": "Mon, 22 Sep 2025 13:17:59 +0000",
-         "publishedParsed": "2025-09-22T13:17:59Z"
+         "published": "Thu, 18 Sep 2025 19:44:42 +0000",
+         "publishedParsed": "2025-09-18T19:44:42Z"
      },
      {
-         "title": "What happens when coding agents stop feeling like dialup?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45322030\"\u003eComments\u003c/a\u003e",
-         "link": "https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/",
+         "title": "Privacy and Security Risks in the eSIM Ecosystem [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45329127\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf",
          "links": [
-             "https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/"
+             "https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf"
          ],
-         "published": "Sun, 21 Sep 2025 12:11:18 +0000",
-         "publishedParsed": "2025-09-21T12:11:18Z"
-     },
-     {
-         "title": "M4.6 Earthquake – 2 km ESE of Berkeley, CA",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45331213\"\u003eComments\u003c/a\u003e",
-         "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ew1758534970/executive",
-         "links": [
-             "https://earthquake.usgs.gov/earthquakes/eventpage/ew1758534970/executive"
-         ],
-         "published": "Mon, 22 Sep 2025 10:00:57 +0000",
-         "publishedParsed": "2025-09-22T10:00:57Z"
+         "published": "Mon, 22 Sep 2025 04:35:27 +0000",
+         "publishedParsed": "2025-09-22T04:35:27Z"
      },
      {
          "title": "Biconnected components",
@@ -160,56 +260,6 @@
          "publishedParsed": "2025-09-22T07:35:43Z"
      },
      {
-         "title": "DeepSeek-v3.1-Terminus",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45332400\"\u003eComments\u003c/a\u003e",
-         "link": "https://api-docs.deepseek.com/news/news250922",
-         "links": [
-             "https://api-docs.deepseek.com/news/news250922"
-         ],
-         "published": "Mon, 22 Sep 2025 12:20:32 +0000",
-         "publishedParsed": "2025-09-22T12:20:32Z"
-     },
-     {
-         "title": "Privacy and Security Risks in the eSIM Ecosystem [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45329127\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf",
-         "links": [
-             "https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf"
-         ],
-         "published": "Mon, 22 Sep 2025 04:35:27 +0000",
-         "publishedParsed": "2025-09-22T04:35:27Z"
-     },
-     {
-         "title": "The Counterclockwise Experiment",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45311360\"\u003eComments\u003c/a\u003e",
-         "link": "https://domofutu.substack.com/p/the-counterclockwise-experiment",
-         "links": [
-             "https://domofutu.substack.com/p/the-counterclockwise-experiment"
-         ],
-         "published": "Sat, 20 Sep 2025 07:52:48 +0000",
-         "publishedParsed": "2025-09-20T07:52:48Z"
-     },
-     {
-         "title": "Sj.h: A tiny little JSON parsing library in ~150 lines of C99",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45324349\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/rxi/sj.h",
-         "links": [
-             "https://github.com/rxi/sj.h"
-         ],
-         "published": "Sun, 21 Sep 2025 16:43:45 +0000",
-         "publishedParsed": "2025-09-21T16:43:45Z"
-     },
-     {
-         "title": "Metamaterials, AI, and the Road to Invisibility Cloaks",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45330818\"\u003eComments\u003c/a\u003e",
-         "link": "https://open.substack.com/pub/thepotentialsurface/p/metamaterials-ai-and-the-road-to",
-         "links": [
-             "https://open.substack.com/pub/thepotentialsurface/p/metamaterials-ai-and-the-road-to"
-         ],
-         "published": "Mon, 22 Sep 2025 09:02:57 +0000",
-         "publishedParsed": "2025-09-22T09:02:57Z"
-     },
-     {
          "title": "The death rays that guard life",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45289370\"\u003eComments\u003c/a\u003e",
          "link": "https://worksinprogress.co/issue/the-death-rays-that-guard-life/",
@@ -218,75 +268,5 @@
          ],
          "published": "Thu, 18 Sep 2025 13:21:35 +0000",
          "publishedParsed": "2025-09-18T13:21:35Z"
-     },
-     {
-         "title": "Why is Venus hell and Earth an Eden?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45327417\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/",
-         "links": [
-             "https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/"
-         ],
-         "published": "Sun, 21 Sep 2025 22:56:31 +0000",
-         "publishedParsed": "2025-09-21T22:56:31Z"
-     },
-     {
-         "title": "Optimized Materials in a Flash",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45296221\"\u003eComments\u003c/a\u003e",
-         "link": "https://newscenter.lbl.gov/2025/09/18/optimized-materials-in-a-flash/",
-         "links": [
-             "https://newscenter.lbl.gov/2025/09/18/optimized-materials-in-a-flash/"
-         ],
-         "published": "Thu, 18 Sep 2025 23:22:57 +0000",
-         "publishedParsed": "2025-09-18T23:22:57Z"
-     },
-     {
-         "title": "A Generalized Algebraic Theory of Directed Equality",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45292387\"\u003eComments\u003c/a\u003e",
-         "link": "https://jacobneu.phd/",
-         "links": [
-             "https://jacobneu.phd/"
-         ],
-         "published": "Thu, 18 Sep 2025 17:22:43 +0000",
-         "publishedParsed": "2025-09-18T17:22:43Z"
-     },
-     {
-         "title": "How can I influence others without manipulating them?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45327199\"\u003eComments\u003c/a\u003e",
-         "link": "https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating",
-         "links": [
-             "https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating"
-         ],
-         "published": "Sun, 21 Sep 2025 22:20:16 +0000",
-         "publishedParsed": "2025-09-21T22:20:16Z"
-     },
-     {
-         "title": "What if AMD FX had \"real\" cores? [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45294711\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=Lb4FDtAwnqU",
-         "links": [
-             "https://www.youtube.com/watch?v=Lb4FDtAwnqU"
-         ],
-         "published": "Thu, 18 Sep 2025 20:37:30 +0000",
-         "publishedParsed": "2025-09-18T20:37:30Z"
-     },
-     {
-         "title": "Simulating a Machine from the 80s",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45294297\"\u003eComments\u003c/a\u003e",
-         "link": "https://rmazur.io/blog/fahivets.html",
-         "links": [
-             "https://rmazur.io/blog/fahivets.html"
-         ],
-         "published": "Thu, 18 Sep 2025 20:03:58 +0000",
-         "publishedParsed": "2025-09-18T20:03:58Z"
-     },
-     {
-         "title": "Download responsibly",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45329414\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.geofabrik.de/index.php/2025/09/10/download-responsibly/",
-         "links": [
-             "https://blog.geofabrik.de/index.php/2025/09/10/download-responsibly/"
-         ],
-         "published": "Mon, 22 Sep 2025 05:33:54 +0000",
-         "publishedParsed": "2025-09-22T05:33:54Z"
      }
  ]
