@@ -10,6 +10,26 @@
          "publishedParsed": "2025-09-23T18:06:07Z"
      },
      {
+         "title": "Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45352672\"\u003eComments\u003c/a\u003e",
+         "link": "https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef\u0026from=research.latest-advancements-list",
+         "links": [
+             "https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef\u0026from=research.latest-advancements-list"
+         ],
+         "published": "Tue, 23 Sep 2025 20:59:17 +0000",
+         "publishedParsed": "2025-09-23T20:59:17Z"
+     },
+     {
+         "title": "From Rust to reality: The hidden journey of fetch_max",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45352944\"\u003eComments\u003c/a\u003e",
+         "link": "https://questdb.com/blog/rust-fetch-max-compiler-journey/",
+         "links": [
+             "https://questdb.com/blog/rust-fetch-max-compiler-journey/"
+         ],
+         "published": "Tue, 23 Sep 2025 21:24:45 +0000",
+         "publishedParsed": "2025-09-23T21:24:45Z"
+     },
+     {
          "title": "Markov chains are the original language models",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45304980\"\u003eComments\u003c/a\u003e",
          "link": "https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models",
@@ -20,34 +40,24 @@
          "publishedParsed": "2025-09-19T18:42:21Z"
      },
      {
-         "title": "consumed.today",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45351446\"\u003eComments\u003c/a\u003e",
-         "link": "https://consumed.today/",
+         "title": "Is life a form of computation?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45352533\"\u003eComments\u003c/a\u003e",
+         "link": "https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/",
          "links": [
-             "https://consumed.today/"
+             "https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/"
          ],
-         "published": "Tue, 23 Sep 2025 19:12:54 +0000",
-         "publishedParsed": "2025-09-23T19:12:54Z"
+         "published": "Tue, 23 Sep 2025 20:46:24 +0000",
+         "publishedParsed": "2025-09-23T20:46:24Z"
      },
      {
-         "title": "Privacy Commissioners find TikTok collected sensitive data from children",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45351737\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2025/nr-c_250923/",
+         "title": "Getting AI to work in complex codebases",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45347532\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md",
          "links": [
-             "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2025/nr-c_250923/"
+             "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md"
          ],
-         "published": "Tue, 23 Sep 2025 19:37:45 +0000",
-         "publishedParsed": "2025-09-23T19:37:45Z"
-     },
-     {
-         "title": "How to draw construction equipment for kids",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45351410\"\u003eComments\u003c/a\u003e",
-         "link": "https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment",
-         "links": [
-             "https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment"
-         ],
-         "published": "Tue, 23 Sep 2025 19:09:50 +0000",
-         "publishedParsed": "2025-09-23T19:09:50Z"
+         "published": "Tue, 23 Sep 2025 14:27:36 +0000",
+         "publishedParsed": "2025-09-23T14:27:36Z"
      },
      {
          "title": "Go has added Valgrind support",
@@ -60,6 +70,16 @@
          "publishedParsed": "2025-09-23T09:26:57Z"
      },
      {
+         "title": "How to draw construction equipment for kids",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45351410\"\u003eComments\u003c/a\u003e",
+         "link": "https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment",
+         "links": [
+             "https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment"
+         ],
+         "published": "Tue, 23 Sep 2025 19:09:50 +0000",
+         "publishedParsed": "2025-09-23T19:09:50Z"
+     },
+     {
          "title": "Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45347914\"\u003eComments\u003c/a\u003e",
          "link": "https://news.ycombinator.com/item?id=45347914",
@@ -68,26 +88,6 @@
          ],
          "published": "Tue, 23 Sep 2025 14:52:07 +0000",
          "publishedParsed": "2025-09-23T14:52:07Z"
-     },
-     {
-         "title": "From MCP to shell: MCP auth flaws enable RCE in Claude Code, Gemini CLI and more",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45348183\"\u003eComments\u003c/a\u003e",
-         "link": "https://verialabs.com/blog/from-mcp-to-shell/",
-         "links": [
-             "https://verialabs.com/blog/from-mcp-to-shell/"
-         ],
-         "published": "Tue, 23 Sep 2025 15:09:50 +0000",
-         "publishedParsed": "2025-09-23T15:09:50Z"
-     },
-     {
-         "title": "Always Invite Anna",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45348495\"\u003eComments\u003c/a\u003e",
-         "link": "https://sharif.io/anna-alexei",
-         "links": [
-             "https://sharif.io/anna-alexei"
-         ],
-         "published": "Tue, 23 Sep 2025 15:33:23 +0000",
-         "publishedParsed": "2025-09-23T15:33:23Z"
      },
      {
          "title": "Is Fortran better than Python for teaching basics of numerical linear algebra?",
@@ -100,6 +100,56 @@
          "publishedParsed": "2025-09-23T19:29:26Z"
      },
      {
+         "title": "Context Engineering for AI Agents: Lessons",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45352901\"\u003eComments\u003c/a\u003e",
+         "link": "https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus",
+         "links": [
+             "https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus"
+         ],
+         "published": "Tue, 23 Sep 2025 21:20:15 +0000",
+         "publishedParsed": "2025-09-23T21:20:15Z"
+     },
+     {
+         "title": "From MCP to shell: MCP auth flaws enable RCE in Claude Code, Gemini CLI and more",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45348183\"\u003eComments\u003c/a\u003e",
+         "link": "https://verialabs.com/blog/from-mcp-to-shell/",
+         "links": [
+             "https://verialabs.com/blog/from-mcp-to-shell/"
+         ],
+         "published": "Tue, 23 Sep 2025 15:09:50 +0000",
+         "publishedParsed": "2025-09-23T15:09:50Z"
+     },
+     {
+         "title": "Podman Desktop celebrates 3M downloads",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45352460\"\u003eComments\u003c/a\u003e",
+         "link": "https://podman-desktop.io/blog/3-million",
+         "links": [
+             "https://podman-desktop.io/blog/3-million"
+         ],
+         "published": "Tue, 23 Sep 2025 20:40:21 +0000",
+         "publishedParsed": "2025-09-23T20:40:21Z"
+     },
+     {
+         "title": "Always Invite Anna",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45348495\"\u003eComments\u003c/a\u003e",
+         "link": "https://sharif.io/anna-alexei",
+         "links": [
+             "https://sharif.io/anna-alexei"
+         ],
+         "published": "Tue, 23 Sep 2025 15:33:23 +0000",
+         "publishedParsed": "2025-09-23T15:33:23Z"
+     },
+     {
+         "title": "Show HN: Ggc – A Git CLI tool written in Go with interactive UI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45312285\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/bmf-san/ggc/releases/tag/v6.0.0",
+         "links": [
+             "https://github.com/bmf-san/ggc/releases/tag/v6.0.0"
+         ],
+         "published": "Sat, 20 Sep 2025 11:10:40 +0000",
+         "publishedParsed": "2025-09-20T11:10:40Z"
+     },
+     {
          "title": "Apple A19 SoC die shot",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45351437\"\u003eComments\u003c/a\u003e",
          "link": "https://chipwise.tech/our-portfolio/apple-a19-dieshot/",
@@ -110,14 +160,24 @@
          "publishedParsed": "2025-09-23T19:12:08Z"
      },
      {
-         "title": "Android users can now use conversational editing in Google Photos",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45349848\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.google/products/photos/android-conversational-editing-google-photos/",
+         "title": "Kitty – GPU based terminal emulator",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45313417\"\u003eComments\u003c/a\u003e",
+         "link": "https://sw.kovidgoyal.net/kitty/",
          "links": [
-             "https://blog.google/products/photos/android-conversational-editing-google-photos/"
+             "https://sw.kovidgoyal.net/kitty/"
          ],
-         "published": "Tue, 23 Sep 2025 17:04:56 +0000",
-         "publishedParsed": "2025-09-23T17:04:56Z"
+         "published": "Sat, 20 Sep 2025 13:51:05 +0000",
+         "publishedParsed": "2025-09-20T13:51:05Z"
+     },
+     {
+         "title": "consumed.today",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45351446\"\u003eComments\u003c/a\u003e",
+         "link": "https://consumed.today/",
+         "links": [
+             "https://consumed.today/"
+         ],
+         "published": "Tue, 23 Sep 2025 19:12:54 +0000",
+         "publishedParsed": "2025-09-23T19:12:54Z"
      },
      {
          "title": "Mesh: I tried Htmx, then ditched it",
@@ -130,26 +190,6 @@
          "publishedParsed": "2025-09-23T12:18:01Z"
      },
      {
-         "title": "x402 — An open protocol for internet-native payments",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45347335\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.x402.org/",
-         "links": [
-             "https://www.x402.org/"
-         ],
-         "published": "Tue, 23 Sep 2025 14:14:46 +0000",
-         "publishedParsed": "2025-09-23T14:14:46Z"
-     },
-     {
-         "title": "Thundering herd problem: Preventing the stampede",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45341038\"\u003eComments\u003c/a\u003e",
-         "link": "https://distributed-computing-musings.com/2025/08/thundering-herd-problem-preventing-the-stampede/",
-         "links": [
-             "https://distributed-computing-musings.com/2025/08/thundering-herd-problem-preventing-the-stampede/"
-         ],
-         "published": "Mon, 22 Sep 2025 23:43:55 +0000",
-         "publishedParsed": "2025-09-22T23:43:55Z"
-     },
-     {
          "title": "Triple Buffering in Rendering APIs",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45313180\"\u003eComments\u003c/a\u003e",
          "link": "https://www.4rknova.com//blog/2025/09/12/triple-buffering",
@@ -160,24 +200,34 @@
          "publishedParsed": "2025-09-20T13:26:26Z"
      },
      {
-         "title": "Structured Outputs in LLMs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45345207\"\u003eComments\u003c/a\u003e",
-         "link": "https://parthsareen.com/blog.html#sampling.md",
+         "title": "Zip Code Map of the United States",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45347880\"\u003eComments\u003c/a\u003e",
+         "link": "https://engaging-data.com/us-zip-code-map/",
          "links": [
-             "https://parthsareen.com/blog.html#sampling.md"
+             "https://engaging-data.com/us-zip-code-map/"
          ],
-         "published": "Tue, 23 Sep 2025 10:40:41 +0000",
-         "publishedParsed": "2025-09-23T10:40:41Z"
+         "published": "Tue, 23 Sep 2025 14:50:06 +0000",
+         "publishedParsed": "2025-09-23T14:50:06Z"
      },
      {
-         "title": "Getting More Strategic",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45346219\"\u003eComments\u003c/a\u003e",
-         "link": "https://cate.blog/2025/09/23/getting-more-strategic/",
+         "title": "Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45348390\"\u003eComments\u003c/a\u003e",
+         "link": "https://joel.drapper.me/p/rubygems-takeover/",
          "links": [
-             "https://cate.blog/2025/09/23/getting-more-strategic/"
+             "https://joel.drapper.me/p/rubygems-takeover/"
          ],
-         "published": "Tue, 23 Sep 2025 12:41:36 +0000",
-         "publishedParsed": "2025-09-23T12:41:36Z"
+         "published": "Tue, 23 Sep 2025 15:25:29 +0000",
+         "publishedParsed": "2025-09-23T15:25:29Z"
+     },
+     {
+         "title": "Android users can now use conversational editing in Google Photos",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45349848\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.google/products/photos/android-conversational-editing-google-photos/",
+         "links": [
+             "https://blog.google/products/photos/android-conversational-editing-google-photos/"
+         ],
+         "published": "Tue, 23 Sep 2025 17:04:56 +0000",
+         "publishedParsed": "2025-09-23T17:04:56Z"
      },
      {
          "title": "Zinc (YC W14) Is Hiring a Senior Back End Engineer (NYC)",
@@ -190,73 +240,33 @@
          "publishedParsed": "2025-09-23T12:00:00Z"
      },
      {
-         "title": "OpenDataLoader-PDF: An open source tool for structured PDF parsing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45347147\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/opendataloader-project/opendataloader-pdf",
+         "title": "Show HN: The Blots Programming Language",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45305826\"\u003eComments\u003c/a\u003e",
+         "link": "https://blots-lang.org/",
          "links": [
-             "https://github.com/opendataloader-project/opendataloader-pdf"
+             "https://blots-lang.org/"
          ],
-         "published": "Tue, 23 Sep 2025 13:58:48 +0000",
-         "publishedParsed": "2025-09-23T13:58:48Z"
+         "published": "Fri, 19 Sep 2025 19:57:36 +0000",
+         "publishedParsed": "2025-09-19T19:57:36Z"
      },
      {
-         "title": "Musings on Generative AI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45351925\"\u003eComments\u003c/a\u003e",
-         "link": "https://leejo.github.io/2025/09/23/gaps/",
+         "title": "Privacy Commissioners find TikTok collected sensitive data from children",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45351737\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2025/nr-c_250923/",
          "links": [
-             "https://leejo.github.io/2025/09/23/gaps/"
+             "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2025/nr-c_250923/"
          ],
-         "published": "Tue, 23 Sep 2025 19:52:38 +0000",
-         "publishedParsed": "2025-09-23T19:52:38Z"
+         "published": "Tue, 23 Sep 2025 19:37:45 +0000",
+         "publishedParsed": "2025-09-23T19:37:45Z"
      },
      {
-         "title": "Zoxide: A Better CD Command",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45342943\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/ajeetdsouza/zoxide",
+         "title": "Getting More Strategic",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45346219\"\u003eComments\u003c/a\u003e",
+         "link": "https://cate.blog/2025/09/23/getting-more-strategic/",
          "links": [
-             "https://github.com/ajeetdsouza/zoxide"
+             "https://cate.blog/2025/09/23/getting-more-strategic/"
          ],
-         "published": "Tue, 23 Sep 2025 04:48:28 +0000",
-         "publishedParsed": "2025-09-23T04:48:28Z"
-     },
-     {
-         "title": "YAML document from hell (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45344554\"\u003eComments\u003c/a\u003e",
-         "link": "https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell",
-         "links": [
-             "https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell"
-         ],
-         "published": "Tue, 23 Sep 2025 09:04:43 +0000",
-         "publishedParsed": "2025-09-23T09:04:43Z"
-     },
-     {
-         "title": "The Great American Travel Book: The book that helped revive a genre",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45318680\"\u003eComments\u003c/a\u003e",
-         "link": "https://theamericanscholar.org/the-great-american-travel-book/",
-         "links": [
-             "https://theamericanscholar.org/the-great-american-travel-book/"
-         ],
-         "published": "Sat, 20 Sep 2025 23:49:01 +0000",
-         "publishedParsed": "2025-09-20T23:49:01Z"
-     },
-     {
-         "title": "Agents turn simple keyword search into compelling search experiences",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45347363\"\u003eComments\u003c/a\u003e",
-         "link": "https://softwaredoug.com/blog/2025/09/22/reasoning-agents-need-bad-search",
-         "links": [
-             "https://softwaredoug.com/blog/2025/09/22/reasoning-agents-need-bad-search"
-         ],
-         "published": "Tue, 23 Sep 2025 14:17:23 +0000",
-         "publishedParsed": "2025-09-23T14:17:23Z"
-     },
-     {
-         "title": "Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45348390\"\u003eComments\u003c/a\u003e",
-         "link": "https://joel.drapper.me/p/rubygems-takeover/",
-         "links": [
-             "https://joel.drapper.me/p/rubygems-takeover/"
-         ],
-         "published": "Tue, 23 Sep 2025 15:25:29 +0000",
-         "publishedParsed": "2025-09-23T15:25:29Z"
+         "published": "Tue, 23 Sep 2025 12:41:36 +0000",
+         "publishedParsed": "2025-09-23T12:41:36Z"
      }
  ]
