@@ -10,16 +10,6 @@
          "publishedParsed": "2025-09-23T03:03:06Z"
      },
      {
-         "title": "Altoids by the Fistful",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45343449\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.scottsmitelli.com/articles/altoids-by-the-fistful/",
-         "links": [
-             "https://www.scottsmitelli.com/articles/altoids-by-the-fistful/"
-         ],
-         "published": "Tue, 23 Sep 2025 06:24:50 +0000",
-         "publishedParsed": "2025-09-23T06:24:50Z"
-     },
-     {
          "title": "Zoxide: A Better CD Command",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45342943\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/ajeetdsouza/zoxide",
@@ -30,6 +20,26 @@
          "publishedParsed": "2025-09-23T04:48:28Z"
      },
      {
+         "title": "Altoids by the Fistful",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45343449\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.scottsmitelli.com/articles/altoids-by-the-fistful/",
+         "links": [
+             "https://www.scottsmitelli.com/articles/altoids-by-the-fistful/"
+         ],
+         "published": "Tue, 23 Sep 2025 06:24:50 +0000",
+         "publishedParsed": "2025-09-23T06:24:50Z"
+     },
+     {
+         "title": "Go has added Valgrind support",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45344708\"\u003eComments\u003c/a\u003e",
+         "link": "https://go-review.googlesource.com/c/go/+/674077",
+         "links": [
+             "https://go-review.googlesource.com/c/go/+/674077"
+         ],
+         "published": "Tue, 23 Sep 2025 09:26:57 +0000",
+         "publishedParsed": "2025-09-23T09:26:57Z"
+     },
+     {
          "title": "Qwen3-Omni: Native Omni AI model for text, image and video",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45336989\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/QwenLM/Qwen3-Omni",
@@ -38,16 +48,6 @@
          ],
          "published": "Mon, 22 Sep 2025 17:50:21 +0000",
          "publishedParsed": "2025-09-22T17:50:21Z"
-     },
-     {
-         "title": "Fall Foliage Map 2025",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45341324\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.explorefall.com/fall-foliage-map",
-         "links": [
-             "https://www.explorefall.com/fall-foliage-map"
-         ],
-         "published": "Tue, 23 Sep 2025 00:14:37 +0000",
-         "publishedParsed": "2025-09-23T00:14:37Z"
      },
      {
          "title": "Delete FROM users WHERE location = 'Iran';",
@@ -70,6 +70,16 @@
          "publishedParsed": "2025-09-19T20:44:02Z"
      },
      {
+         "title": "Fall Foliage Map 2025",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45341324\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.explorefall.com/fall-foliage-map",
+         "links": [
+             "https://www.explorefall.com/fall-foliage-map"
+         ],
+         "published": "Tue, 23 Sep 2025 00:14:37 +0000",
+         "publishedParsed": "2025-09-23T00:14:37Z"
+     },
+     {
          "title": "I built a dual RTX 3090 rig for local AI in 2025 (and lessons learned)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45300668\"\u003eComments\u003c/a\u003e",
          "link": "https://www.llamabuilds.ai/build/portable-25l-nvlinked-dual-3090-llm-rig",
@@ -90,6 +100,16 @@
          "publishedParsed": "2025-09-23T04:10:15Z"
      },
      {
+         "title": "The YAML Document from Hell",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45344554\"\u003eComments\u003c/a\u003e",
+         "link": "https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell",
+         "links": [
+             "https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell"
+         ],
+         "published": "Tue, 23 Sep 2025 09:04:43 +0000",
+         "publishedParsed": "2025-09-23T09:04:43Z"
+     },
+     {
          "title": "Telli (YC F24) is hiring ambitious engineers [Berlin, on-site]",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45343689\"\u003eComments\u003c/a\u003e",
          "link": "https://hi.telli.com/join-us",
@@ -100,14 +120,24 @@
          "publishedParsed": "2025-09-23T07:01:44Z"
      },
      {
-         "title": "Based C++",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45307570\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/SheafificationOfG/based-cpp",
+         "title": "Processing Strings 109x Faster Than Nvidia on H100",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45304807\"\u003eComments\u003c/a\u003e",
+         "link": "https://ashvardanian.com/posts/stringwars-on-gpus/",
          "links": [
-             "https://github.com/SheafificationOfG/based-cpp"
+             "https://ashvardanian.com/posts/stringwars-on-gpus/"
          ],
-         "published": "Fri, 19 Sep 2025 22:36:05 +0000",
-         "publishedParsed": "2025-09-19T22:36:05Z"
+         "published": "Fri, 19 Sep 2025 18:24:46 +0000",
+         "publishedParsed": "2025-09-19T18:24:46Z"
+     },
+     {
+         "title": "Compiling a Functional Language to LLVM (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45313790\"\u003eComments\u003c/a\u003e",
+         "link": "https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html",
+         "links": [
+             "https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html"
+         ],
+         "published": "Sat, 20 Sep 2025 14:37:30 +0000",
+         "publishedParsed": "2025-09-20T14:37:30Z"
      },
      {
          "title": "Cap'n Web: a new RPC system for browsers and web servers",
@@ -120,6 +150,16 @@
          "publishedParsed": "2025-09-22T13:05:32Z"
      },
      {
+         "title": "I'm spoiled by Apple Silicon but still love Framework",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45332859\"\u003eComments\u003c/a\u003e",
+         "link": "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/",
+         "links": [
+             "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/"
+         ],
+         "published": "Mon, 22 Sep 2025 13:03:10 +0000",
+         "publishedParsed": "2025-09-22T13:03:10Z"
+     },
+     {
          "title": "Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45340133\"\u003eComments\u003c/a\u003e",
          "link": "https://arxiv.org/abs/2509.06917",
@@ -130,14 +170,14 @@
          "publishedParsed": "2025-09-22T22:02:01Z"
      },
      {
-         "title": "I'm spoiled by Apple Silicon but still love Framework",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45332859\"\u003eComments\u003c/a\u003e",
-         "link": "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/",
+         "title": "Based C++",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45307570\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/SheafificationOfG/based-cpp",
          "links": [
-             "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/"
+             "https://github.com/SheafificationOfG/based-cpp"
          ],
-         "published": "Mon, 22 Sep 2025 13:03:10 +0000",
-         "publishedParsed": "2025-09-22T13:03:10Z"
+         "published": "Fri, 19 Sep 2025 22:36:05 +0000",
+         "publishedParsed": "2025-09-19T22:36:05Z"
      },
      {
          "title": "Why haven't local-first apps become popular?",
@@ -160,14 +200,24 @@
          "publishedParsed": "2025-09-21T14:26:10Z"
      },
      {
-         "title": "X server implementation for SIXEL-featured terminals (2010-2014)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45341683\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/saitoha/xserver-SIXEL",
+         "title": "The Common Pile v0.1: An 8TB Dataset of Public Domain and Openly Licensed Text",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45299987\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2506.05209",
          "links": [
-             "https://github.com/saitoha/xserver-SIXEL"
+             "https://arxiv.org/abs/2506.05209"
          ],
-         "published": "Tue, 23 Sep 2025 01:07:57 +0000",
-         "publishedParsed": "2025-09-23T01:07:57Z"
+         "published": "Fri, 19 Sep 2025 10:22:54 +0000",
+         "publishedParsed": "2025-09-19T10:22:54Z"
+     },
+     {
+         "title": "Kevo app shutdown",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45340192\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.kwikset.com/support/answers/what-does-the-kevo-app-shutdown-mean-to-my-kevo-door-lock",
+         "links": [
+             "https://www.kwikset.com/support/answers/what-does-the-kevo-app-shutdown-mean-to-my-kevo-door-lock"
+         ],
+         "published": "Mon, 22 Sep 2025 22:07:07 +0000",
+         "publishedParsed": "2025-09-22T22:07:07Z"
      },
      {
          "title": "Is a movie prop the ultimate laptop bag?",
@@ -180,64 +230,24 @@
          "publishedParsed": "2025-09-22T11:59:01Z"
      },
      {
-         "title": "Notion 3.0",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45304816\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.notion.com/blog/introducing-notion-3-0",
+         "title": "X server implementation for SIXEL-featured terminals (2010-2014)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45341683\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/saitoha/xserver-SIXEL",
          "links": [
-             "https://www.notion.com/blog/introducing-notion-3-0"
+             "https://github.com/saitoha/xserver-SIXEL"
          ],
-         "published": "Fri, 19 Sep 2025 18:26:07 +0000",
-         "publishedParsed": "2025-09-19T18:26:07Z"
+         "published": "Tue, 23 Sep 2025 01:07:57 +0000",
+         "publishedParsed": "2025-09-23T01:07:57Z"
      },
      {
-         "title": "Rungis: The Market and the City – A day at Europe's largest fresh food market",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45303045\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.vittlesmagazine.com/p/rungis-the-market-and-the-city",
+         "title": "The latest Hunger Games novel may have been co-authored by AI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45344402\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.reddit.com/r/slatestarcodex/s/V0bvh4w1PY",
          "links": [
-             "https://www.vittlesmagazine.com/p/rungis-the-market-and-the-city"
+             "https://www.reddit.com/r/slatestarcodex/s/V0bvh4w1PY"
          ],
-         "published": "Fri, 19 Sep 2025 15:53:09 +0000",
-         "publishedParsed": "2025-09-19T15:53:09Z"
-     },
-     {
-         "title": "Testing is better than data structures and algorithms",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45335635\"\u003eComments\u003c/a\u003e",
-         "link": "https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html",
-         "links": [
-             "https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html"
-         ],
-         "published": "Mon, 22 Sep 2025 16:21:35 +0000",
-         "publishedParsed": "2025-09-22T16:21:35Z"
-     },
-     {
-         "title": "Japan's most sacred Shinto shrine rebuilt every 20yrs for more than a millennium",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45344198\"\u003eComments\u003c/a\u003e",
-         "link": "https://apnews.com/article/japan-ise-sacred-shrine-rebuilt-destroyed-shinto-religion-5828f94e07da91f2ca9a12ea777b7b96",
-         "links": [
-             "https://apnews.com/article/japan-ise-sacred-shrine-rebuilt-destroyed-shinto-religion-5828f94e07da91f2ca9a12ea777b7b96"
-         ],
-         "published": "Tue, 23 Sep 2025 08:11:01 +0000",
-         "publishedParsed": "2025-09-23T08:11:01Z"
-     },
-     {
-         "title": "The Common Pile v0.1: An 8TB Dataset of Public Domain and Openly Licensed Text",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45299987\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2506.05209",
-         "links": [
-             "https://arxiv.org/abs/2506.05209"
-         ],
-         "published": "Fri, 19 Sep 2025 10:22:54 +0000",
-         "publishedParsed": "2025-09-19T10:22:54Z"
-     },
-     {
-         "title": "What happens when coding agents stop feeling like dialup?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45322030\"\u003eComments\u003c/a\u003e",
-         "link": "https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/",
-         "links": [
-             "https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/"
-         ],
-         "published": "Sun, 21 Sep 2025 12:11:18 +0000",
-         "publishedParsed": "2025-09-21T12:11:18Z"
+         "published": "Tue, 23 Sep 2025 08:41:08 +0000",
+         "publishedParsed": "2025-09-23T08:41:08Z"
      },
      {
          "title": "Germicidal UV could make airborne diseases as rare as those carried by water",
@@ -250,6 +260,36 @@
          "publishedParsed": "2025-09-22T21:44:54Z"
      },
      {
+         "title": "Rungis: The Market and the City – A day at Europe's largest fresh food market",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45303045\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.vittlesmagazine.com/p/rungis-the-market-and-the-city",
+         "links": [
+             "https://www.vittlesmagazine.com/p/rungis-the-market-and-the-city"
+         ],
+         "published": "Fri, 19 Sep 2025 15:53:09 +0000",
+         "publishedParsed": "2025-09-19T15:53:09Z"
+     },
+     {
+         "title": "Walking Michigan City (Indiana)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45345237\"\u003eComments\u003c/a\u003e",
+         "link": "https://walkingtheworld.substack.com/p/walking-michigan-city-indiana",
+         "links": [
+             "https://walkingtheworld.substack.com/p/walking-michigan-city-indiana"
+         ],
+         "published": "Tue, 23 Sep 2025 10:44:57 +0000",
+         "publishedParsed": "2025-09-23T10:44:57Z"
+     },
+     {
+         "title": "What happens when coding agents stop feeling like dialup?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45322030\"\u003eComments\u003c/a\u003e",
+         "link": "https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/",
+         "links": [
+             "https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/"
+         ],
+         "published": "Sun, 21 Sep 2025 12:11:18 +0000",
+         "publishedParsed": "2025-09-21T12:11:18Z"
+     },
+     {
          "title": "Fine-grained HTTP filtering for Claude Code",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45338561\"\u003eComments\u003c/a\u003e",
          "link": "https://ammar.io/blog/httpjail",
@@ -258,45 +298,5 @@
          ],
          "published": "Mon, 22 Sep 2025 19:49:02 +0000",
          "publishedParsed": "2025-09-22T19:49:02Z"
-     },
-     {
-         "title": "OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45335474\"\u003eComments\u003c/a\u003e",
-         "link": "https://openai.com/index/openai-nvidia-systems-partnership/",
-         "links": [
-             "https://openai.com/index/openai-nvidia-systems-partnership/"
-         ],
-         "published": "Mon, 22 Sep 2025 16:10:15 +0000",
-         "publishedParsed": "2025-09-22T16:10:15Z"
-     },
-     {
-         "title": "After 50 years, The Magic Circle finally inducts Penn and Teller",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45307119\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nytimes.com/2025/09/19/arts/penn-teller-magic-circle.html",
-         "links": [
-             "https://www.nytimes.com/2025/09/19/arts/penn-teller-magic-circle.html"
-         ],
-         "published": "Fri, 19 Sep 2025 21:51:32 +0000",
-         "publishedParsed": "2025-09-19T21:51:32Z"
-     },
-     {
-         "title": "Show HN: Python Audio Transcription: Convert Speech to Text Locally",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45337400\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.pavlinbg.com/posts/python-speech-to-text-guide",
-         "links": [
-             "https://www.pavlinbg.com/posts/python-speech-to-text-guide"
-         ],
-         "published": "Mon, 22 Sep 2025 18:18:56 +0000",
-         "publishedParsed": "2025-09-22T18:18:56Z"
-     },
-     {
-         "title": "PlanetScale for Postgres is now GA",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45334545\"\u003eComments\u003c/a\u003e",
-         "link": "https://planetscale.com/blog/planetscale-for-postgres-is-generally-available",
-         "links": [
-             "https://planetscale.com/blog/planetscale-for-postgres-is-generally-available"
-         ],
-         "published": "Mon, 22 Sep 2025 15:10:48 +0000",
-         "publishedParsed": "2025-09-22T15:10:48Z"
      }
  ]
