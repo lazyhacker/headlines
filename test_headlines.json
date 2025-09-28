@@ -1,13 +1,23 @@
 [
      {
-         "title": "Beyond OpenMP in C++ and Rust: Taskflow, Rayon, Fork Union",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45402820\"\u003eComments\u003c/a\u003e",
-         "link": "https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/",
+         "title": "Failing to Understand the Exponential, Again",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45403803\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/",
          "links": [
-             "https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/"
+             "https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/"
          ],
-         "published": "Sun, 28 Sep 2025 08:53:36 +0000",
-         "publishedParsed": "2025-09-28T08:53:36Z"
+         "published": "Sun, 28 Sep 2025 12:19:16 +0000",
+         "publishedParsed": "2025-09-28T12:19:16Z"
+     },
+     {
+         "title": "Privacy Badger is a free browser extension made by EFF to stop spying",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45404021\"\u003eComments\u003c/a\u003e",
+         "link": "https://privacybadger.org/",
+         "links": [
+             "https://privacybadger.org/"
+         ],
+         "published": "Sun, 28 Sep 2025 12:59:54 +0000",
+         "publishedParsed": "2025-09-28T12:59:54Z"
      },
      {
          "title": "A WebGL game where you deliver messages on a tiny planet",
@@ -20,6 +30,16 @@
          "publishedParsed": "2025-09-27T15:17:30Z"
      },
      {
+         "title": "Beyond OpenMP in C++ and Rust: Taskflow, Rayon, Fork Union",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45402820\"\u003eComments\u003c/a\u003e",
+         "link": "https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/",
+         "links": [
+             "https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/"
+         ],
+         "published": "Sun, 28 Sep 2025 08:53:36 +0000",
+         "publishedParsed": "2025-09-28T08:53:36Z"
+     },
+     {
          "title": "Man still alive six months after pig kidney transplant",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45370798\"\u003eComments\u003c/a\u003e",
          "link": "https://www.nature.com/articles/d41586-025-02851-w",
@@ -28,6 +48,16 @@
          ],
          "published": "Thu, 25 Sep 2025 09:20:39 +0000",
          "publishedParsed": "2025-09-25T09:20:39Z"
+     },
+     {
+         "title": "The Demon-Haunted World",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45404373\"\u003eComments\u003c/a\u003e",
+         "link": "https://en.wikipedia.org/wiki/The_Demon-Haunted_World",
+         "links": [
+             "https://en.wikipedia.org/wiki/The_Demon-Haunted_World"
+         ],
+         "published": "Sun, 28 Sep 2025 14:00:12 +0000",
+         "publishedParsed": "2025-09-28T14:00:12Z"
      },
      {
          "title": "Learn to play Go",
@@ -40,6 +70,16 @@
          "publishedParsed": "2025-09-27T23:50:42Z"
      },
      {
+         "title": "The stripper who ushered in the subscription-based internet",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45403775\"\u003eComments\u003c/a\u003e",
+         "link": "https://thehustle.co/originals/the-stripper-who-ushered-in-the-modern-subscription-based-internet",
+         "links": [
+             "https://thehustle.co/originals/the-stripper-who-ushered-in-the-modern-subscription-based-internet"
+         ],
+         "published": "Sun, 28 Sep 2025 12:15:05 +0000",
+         "publishedParsed": "2025-09-28T12:15:05Z"
+     },
+     {
          "title": "IBM Intellistation 185 AIX workstation (2016)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45401907\"\u003eComments\u003c/a\u003e",
          "link": "http://www.ibmfiles.com/pages/intellipower185.htm",
@@ -48,16 +88,6 @@
          ],
          "published": "Sun, 28 Sep 2025 05:04:39 +0000",
          "publishedParsed": "2025-09-28T05:04:39Z"
-     },
-     {
-         "title": "Questions to ask when you think need to finish something",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45361124\"\u003eComments\u003c/a\u003e",
-         "link": "https://cassidoo.co/post/questions-when-i-need-to-finish-something/",
-         "links": [
-             "https://cassidoo.co/post/questions-when-i-need-to-finish-something/"
-         ],
-         "published": "Wed, 24 Sep 2025 14:41:22 +0000",
-         "publishedParsed": "2025-09-24T14:41:22Z"
      },
      {
          "title": "Python developers are embracing type hints",
@@ -70,24 +100,34 @@
          "publishedParsed": "2025-09-24T11:23:54Z"
      },
      {
-         "title": "Fred Dibnah shows how to erect a chimney scaffold at 200 feet (1982) [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45403373\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=w3ma9iYx4rg",
+         "title": "Haydex: From Zero to 178.6B rows a second in 30 days",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45376559\"\u003eComments\u003c/a\u003e",
+         "link": "https://axiom.co/blog/building-haydex",
          "links": [
-             "https://www.youtube.com/watch?v=w3ma9iYx4rg"
+             "https://axiom.co/blog/building-haydex"
          ],
-         "published": "Sun, 28 Sep 2025 10:52:10 +0000",
-         "publishedParsed": "2025-09-28T10:52:10Z"
+         "published": "Thu, 25 Sep 2025 18:07:49 +0000",
+         "publishedParsed": "2025-09-25T18:07:49Z"
      },
      {
-         "title": "Why I gave the world wide web away for free",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45403501\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free",
+         "title": "Time travel? Or, just clever technology",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45375462\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.syncdna.com/blog/time-travel-or-just-clever-tech",
          "links": [
-             "https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free"
+             "https://www.syncdna.com/blog/time-travel-or-just-clever-tech"
          ],
-         "published": "Sun, 28 Sep 2025 11:17:55 +0000",
-         "publishedParsed": "2025-09-28T11:17:55Z"
+         "published": "Thu, 25 Sep 2025 16:59:22 +0000",
+         "publishedParsed": "2025-09-25T16:59:22Z"
+     },
+     {
+         "title": "Textile Encoding via Elastically Graded Embroidered Tessellations",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45365927\"\u003eComments\u003c/a\u003e",
+         "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500959",
+         "links": [
+             "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500959"
+         ],
+         "published": "Wed, 24 Sep 2025 21:03:45 +0000",
+         "publishedParsed": "2025-09-24T21:03:45Z"
      },
      {
          "title": "Solar panels + cold = A potential problem",
@@ -110,26 +150,6 @@
          "publishedParsed": "2025-09-27T14:27:10Z"
      },
      {
-         "title": "Time travel? Or, just clever technology",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45375462\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.syncdna.com/blog/time-travel-or-just-clever-tech",
-         "links": [
-             "https://www.syncdna.com/blog/time-travel-or-just-clever-tech"
-         ],
-         "published": "Thu, 25 Sep 2025 16:59:22 +0000",
-         "publishedParsed": "2025-09-25T16:59:22Z"
-     },
-     {
-         "title": "Electromechanical Calculating Machines from the 1960's",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45364370\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.mortati.com/glusker/elecmech/index.htm",
-         "links": [
-             "https://www.mortati.com/glusker/elecmech/index.htm"
-         ],
-         "published": "Wed, 24 Sep 2025 18:41:04 +0000",
-         "publishedParsed": "2025-09-24T18:41:04Z"
-     },
-     {
          "title": "I built and launched the first AirPods-Controlled Game",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45362365\"\u003eComments\u003c/a\u003e",
          "link": "https://apps.apple.com/us/app/ridepods-race-with-head/id6752268828",
@@ -138,6 +158,26 @@
          ],
          "published": "Wed, 24 Sep 2025 16:09:59 +0000",
          "publishedParsed": "2025-09-24T16:09:59Z"
+     },
+     {
+         "title": "Questions to ask when you think need to finish something",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45361124\"\u003eComments\u003c/a\u003e",
+         "link": "https://cassidoo.co/post/questions-when-i-need-to-finish-something/",
+         "links": [
+             "https://cassidoo.co/post/questions-when-i-need-to-finish-something/"
+         ],
+         "published": "Wed, 24 Sep 2025 14:41:22 +0000",
+         "publishedParsed": "2025-09-24T14:41:22Z"
+     },
+     {
+         "title": "Fred Dibnah shows how to erect a chimney scaffold at 200 feet (1982) [video]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45403373\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.youtube.com/watch?v=w3ma9iYx4rg",
+         "links": [
+             "https://www.youtube.com/watch?v=w3ma9iYx4rg"
+         ],
+         "published": "Sun, 28 Sep 2025 10:52:10 +0000",
+         "publishedParsed": "2025-09-28T10:52:10Z"
      },
      {
          "title": "I made a public living room and the internet keeps putting weirder stuff in it",
@@ -150,14 +190,44 @@
          "publishedParsed": "2025-09-27T17:59:47Z"
      },
      {
-         "title": "Why do wind turbines have three blades?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45365302\"\u003eComments\u003c/a\u003e",
-         "link": "https://thekidshouldseethis.com/post/why-do-wind-turbines-have-three-blades",
+         "title": "Electromechanical Calculating Machines from the 1960's",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45364370\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.mortati.com/glusker/elecmech/index.htm",
          "links": [
-             "https://thekidshouldseethis.com/post/why-do-wind-turbines-have-three-blades"
+             "https://www.mortati.com/glusker/elecmech/index.htm"
          ],
-         "published": "Wed, 24 Sep 2025 20:02:10 +0000",
-         "publishedParsed": "2025-09-24T20:02:10Z"
+         "published": "Wed, 24 Sep 2025 18:41:04 +0000",
+         "publishedParsed": "2025-09-24T18:41:04Z"
+     },
+     {
+         "title": "Show HN: Curated gamedev specific search engine",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45403288\"\u003eComments\u003c/a\u003e",
+         "link": "https://gamedevtorch.com/",
+         "links": [
+             "https://gamedevtorch.com/"
+         ],
+         "published": "Sun, 28 Sep 2025 10:36:23 +0000",
+         "publishedParsed": "2025-09-28T10:36:23Z"
+     },
+     {
+         "title": "Why I gave the world wide web away for free",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45403501\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free",
+         "links": [
+             "https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free"
+         ],
+         "published": "Sun, 28 Sep 2025 11:17:55 +0000",
+         "publishedParsed": "2025-09-28T11:17:55Z"
+     },
+     {
+         "title": "A Postmark backdoor that’s downloading emails",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45395957\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft",
+         "links": [
+             "https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft"
+         ],
+         "published": "Sat, 27 Sep 2025 14:23:12 +0000",
+         "publishedParsed": "2025-09-27T14:23:12Z"
      },
      {
          "title": "Handy – Free open-source speech-to-text app written in Rust",
@@ -170,14 +240,14 @@
          "publishedParsed": "2025-09-27T20:33:31Z"
      },
      {
-         "title": "A Postmark backdoor that’s downloading emails",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45395957\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft",
+         "title": "Run 14 vintage OSes (Windows 1.01→XP, ReactOS, Haiku) in the browser",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45402197\"\u003eComments\u003c/a\u003e",
+         "link": "https://oses.ioblako.com/",
          "links": [
-             "https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft"
+             "https://oses.ioblako.com/"
          ],
-         "published": "Sat, 27 Sep 2025 14:23:12 +0000",
-         "publishedParsed": "2025-09-27T14:23:12Z"
+         "published": "Sun, 28 Sep 2025 06:31:16 +0000",
+         "publishedParsed": "2025-09-28T06:31:16Z"
      },
      {
          "title": "The Hacker Folk Art of Esoteric Coding",
@@ -200,16 +270,6 @@
          "publishedParsed": "2025-09-25T16:11:55Z"
      },
      {
-         "title": "Dismissed as a joke, UK's first rice crop ripe for picking after hot summer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45402496\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bbc.co.uk/news/articles/c1wgeq702dyo",
-         "links": [
-             "https://www.bbc.co.uk/news/articles/c1wgeq702dyo"
-         ],
-         "published": "Sun, 28 Sep 2025 07:44:07 +0000",
-         "publishedParsed": "2025-09-28T07:44:07Z"
-     },
-     {
          "title": "The 3,000-year-old story hidden in the @ sign",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45361568\"\u003eComments\u003c/a\u003e",
          "link": "https://www.bbc.com/future/article/20250923-the-3000-year-old-story-hidden-in-your-keyboard",
@@ -228,45 +288,5 @@
          ],
          "published": "Sat, 27 Sep 2025 15:35:59 +0000",
          "publishedParsed": "2025-09-27T15:35:59Z"
-     },
-     {
-         "title": "High-power microwave defeats drone swarm",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45399863\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration",
-         "links": [
-             "https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration"
-         ],
-         "published": "Sat, 27 Sep 2025 22:25:24 +0000",
-         "publishedParsed": "2025-09-27T22:25:24Z"
-     },
-     {
-         "title": "We reverse-engineered Flash Attention 4",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45399637\"\u003eComments\u003c/a\u003e",
-         "link": "https://modal.com/blog/reverse-engineer-flash-attention-4",
-         "links": [
-             "https://modal.com/blog/reverse-engineer-flash-attention-4"
-         ],
-         "published": "Sat, 27 Sep 2025 21:50:30 +0000",
-         "publishedParsed": "2025-09-27T21:50:30Z"
-     },
-     {
-         "title": "LLM Observability in the Wild – Why OpenTelemetry Should Be the Standard",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45398467\"\u003eComments\u003c/a\u003e",
-         "link": "https://signoz.io/blog/llm-observability-opentelemetry/",
-         "links": [
-             "https://signoz.io/blog/llm-observability-opentelemetry/"
-         ],
-         "published": "Sat, 27 Sep 2025 18:56:18 +0000",
-         "publishedParsed": "2025-09-27T18:56:18Z"
-     },
-     {
-         "title": "Thoughts on Cloudflare",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45396234\"\u003eComments\u003c/a\u003e",
-         "link": "https://xn--gckvb8fzb.com/thoughts-on-cloudflare/",
-         "links": [
-             "https://xn--gckvb8fzb.com/thoughts-on-cloudflare/"
-         ],
-         "published": "Sat, 27 Sep 2025 14:55:29 +0000",
-         "publishedParsed": "2025-09-27T14:55:29Z"
      }
  ]
