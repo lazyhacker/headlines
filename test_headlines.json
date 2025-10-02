@@ -1,6 +1,6 @@
 [
      {
-         "title": "Signal's New PQ Ratchet",
+         "title": "Signal Protocol and Post-Quantum Ratchets",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45451527\"\u003eComments\u003c/a\u003e",
          "link": "https://signal.org/blog/spqr/",
          "links": [
@@ -10,34 +10,44 @@
          "publishedParsed": "2025-10-02T16:06:10Z"
      },
      {
-         "title": "Linux Desktop on Apple Silicon in Practice",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45452149\"\u003eComments\u003c/a\u003e",
-         "link": "https://gist.github.com/akihikodaki/87df4149e7ca87f18dc56807ec5a1bc5",
+         "title": "Email immutability matters more in a world with AI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45453135\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.fastmail.com/blog/not-written-with-ai/",
          "links": [
-             "https://gist.github.com/akihikodaki/87df4149e7ca87f18dc56807ec5a1bc5"
+             "https://www.fastmail.com/blog/not-written-with-ai/"
          ],
-         "published": "Thu, 02 Oct 2025 16:48:59 +0000",
-         "publishedParsed": "2025-10-02T16:48:59Z"
+         "published": "Thu, 02 Oct 2025 18:00:27 +0000",
+         "publishedParsed": "2025-10-02T18:00:27Z"
      },
      {
-         "title": "Y'all are over-complicating these AI-risk arguments",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45451971\"\u003eComments\u003c/a\u003e",
-         "link": "https://dynomight.net/ai-risk/",
+         "title": "I Keep Blogging with Emacs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45453222\"\u003eComments\u003c/a\u003e",
+         "link": "https://entropicthoughts.com/why-stick-to-emacs-blog",
          "links": [
-             "https://dynomight.net/ai-risk/"
+             "https://entropicthoughts.com/why-stick-to-emacs-blog"
          ],
-         "published": "Thu, 02 Oct 2025 16:37:20 +0000",
-         "publishedParsed": "2025-10-02T16:37:20Z"
+         "published": "Thu, 02 Oct 2025 18:06:41 +0000",
+         "publishedParsed": "2025-10-02T18:06:41Z"
      },
      {
-         "title": "The most common surgery",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45414718\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.asimov.press/p/cataracts",
+         "title": "Watch MLB games from the comfort of your own terminal",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45451577\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/paaatrick/playball",
          "links": [
-             "https://www.asimov.press/p/cataracts"
+             "https://github.com/paaatrick/playball"
          ],
-         "published": "Mon, 29 Sep 2025 15:04:07 +0000",
-         "publishedParsed": "2025-09-29T15:04:07Z"
+         "published": "Thu, 02 Oct 2025 16:09:15 +0000",
+         "publishedParsed": "2025-10-02T16:09:15Z"
+     },
+     {
+         "title": "Why I chose Lua for this blog",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45452261\"\u003eComments\u003c/a\u003e",
+         "link": "https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html",
+         "links": [
+             "https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html"
+         ],
+         "published": "Thu, 02 Oct 2025 16:58:55 +0000",
+         "publishedParsed": "2025-10-02T16:58:55Z"
      },
      {
          "title": "We bought the whole GPU, so we're damn well going to use the whole GPU",
@@ -60,14 +70,54 @@
          "publishedParsed": "2025-10-02T14:26:23Z"
      },
      {
-         "title": "Work Is Not School: Surviving Institutional Stupidity",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45450525\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.leadingsapiens.com/surviving-institutional-stupidity/",
+         "title": "Gemini 3.0 Pro – early tests",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45453448\"\u003eComments\u003c/a\u003e",
+         "link": "https://twitter.com/chetaslua/status/1973694615518880236",
          "links": [
-             "https://www.leadingsapiens.com/surviving-institutional-stupidity/"
+             "https://twitter.com/chetaslua/status/1973694615518880236"
          ],
-         "published": "Thu, 02 Oct 2025 14:58:04 +0000",
-         "publishedParsed": "2025-10-02T14:58:04Z"
+         "published": "Thu, 02 Oct 2025 18:26:57 +0000",
+         "publishedParsed": "2025-10-02T18:26:57Z"
+     },
+     {
+         "title": "The history of cataract surgery",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45414718\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.asimov.press/p/cataracts",
+         "links": [
+             "https://www.asimov.press/p/cataracts"
+         ],
+         "published": "Mon, 29 Sep 2025 15:04:07 +0000",
+         "publishedParsed": "2025-09-29T15:04:07Z"
+     },
+     {
+         "title": "Liva AI (YC S25) Is Hiring",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45452299\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/liva-ai/jobs/6xM8JYU-founding-operations-lead",
+         "links": [
+             "https://www.ycombinator.com/companies/liva-ai/jobs/6xM8JYU-founding-operations-lead"
+         ],
+         "published": "Thu, 02 Oct 2025 17:01:16 +0000",
+         "publishedParsed": "2025-10-02T17:01:16Z"
+     },
+     {
+         "title": "OpenAI's H1 2025: $4.3B in income, $13.5B in loss",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45453586\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025",
+         "links": [
+             "https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025"
+         ],
+         "published": "Thu, 02 Oct 2025 18:37:28 +0000",
+         "publishedParsed": "2025-10-02T18:37:28Z"
+     },
+     {
+         "title": "The Atlantic Quantum team is joining Google",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45451961\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.google/technology/research/scaling-quantum-computing-even-faster-with-atlantic-quantum/",
+         "links": [
+             "https://blog.google/technology/research/scaling-quantum-computing-even-faster-with-atlantic-quantum/"
+         ],
+         "published": "Thu, 02 Oct 2025 16:36:53 +0000",
+         "publishedParsed": "2025-10-02T16:36:53Z"
      },
      {
          "title": "Launch HN: Simplex (YC S24) – Browser automation platform for developers",
@@ -80,6 +130,36 @@
          "publishedParsed": "2025-10-02T16:07:23Z"
      },
      {
+         "title": "Two Amazon delivery drones crash into crane in commercial area of Tolleson, AZ",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45450449\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.abc15.com/news/region-west-valley/tolleson/two-amazon-delivery-drones-crash-into-crane-in-commercial-area-of-tolleson",
+         "links": [
+             "https://www.abc15.com/news/region-west-valley/tolleson/two-amazon-delivery-drones-crash-into-crane-in-commercial-area-of-tolleson"
+         ],
+         "published": "Thu, 02 Oct 2025 14:52:49 +0000",
+         "publishedParsed": "2025-10-02T14:52:49Z"
+     },
+     {
+         "title": "The Answer (1954)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45453299\"\u003eComments\u003c/a\u003e",
+         "link": "https://sfshortstories.com/?p=5983",
+         "links": [
+             "https://sfshortstories.com/?p=5983"
+         ],
+         "published": "Thu, 02 Oct 2025 18:13:24 +0000",
+         "publishedParsed": "2025-10-02T18:13:24Z"
+     },
+     {
+         "title": "Show HN: Traceroute Visualizer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45411514\"\u003eComments\u003c/a\u003e",
+         "link": "https://kriztalz.sh/traceroute-visualizer/",
+         "links": [
+             "https://kriztalz.sh/traceroute-visualizer/"
+         ],
+         "published": "Mon, 29 Sep 2025 08:31:36 +0000",
+         "publishedParsed": "2025-09-29T08:31:36Z"
+     },
+     {
          "title": "NL Judge: Meta must respect user's choice of recommendation system",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45448326\"\u003eComments\u003c/a\u003e",
          "link": "https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/",
@@ -88,16 +168,6 @@
          ],
          "published": "Thu, 02 Oct 2025 11:32:19 +0000",
          "publishedParsed": "2025-10-02T11:32:19Z"
-     },
-     {
-         "title": "Autism should not be seen as single condition with one cause, say scientists",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45451103\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theguardian.com/society/2025/oct/01/autism-should-not-be-seen-as-single-condition-with-one-cause-say-scientists",
-         "links": [
-             "https://www.theguardian.com/society/2025/oct/01/autism-should-not-be-seen-as-single-condition-with-one-cause-say-scientists"
-         ],
-         "published": "Thu, 02 Oct 2025 15:35:14 +0000",
-         "publishedParsed": "2025-10-02T15:35:14Z"
      },
      {
          "title": "Daniel Stenberg on 22 curl bugs found by AI and fixed",
@@ -120,14 +190,24 @@
          "publishedParsed": "2025-09-29T03:22:27Z"
      },
      {
-         "title": "Red Hat confirms security incident after hackers claim GitHub breach",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45448772\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/",
+         "title": "Work is not school: Surviving institutional stupidity",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45450525\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.leadingsapiens.com/surviving-institutional-stupidity/",
          "links": [
-             "https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/"
+             "https://www.leadingsapiens.com/surviving-institutional-stupidity/"
          ],
-         "published": "Thu, 02 Oct 2025 12:28:27 +0000",
-         "publishedParsed": "2025-10-02T12:28:27Z"
+         "published": "Thu, 02 Oct 2025 14:58:04 +0000",
+         "publishedParsed": "2025-10-02T14:58:04Z"
+     },
+     {
+         "title": "Pharma is a small component of US health care spending",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45450694\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.economist.com/business/2025/10/02/does-big-pharma-gouge-americans",
+         "links": [
+             "https://www.economist.com/business/2025/10/02/does-big-pharma-gouge-americans"
+         ],
+         "published": "Thu, 02 Oct 2025 15:07:48 +0000",
+         "publishedParsed": "2025-10-02T15:07:48Z"
      },
      {
          "title": "F3: Open-source data file format for the future [pdf]",
@@ -140,44 +220,14 @@
          "publishedParsed": "2025-10-01T13:52:41Z"
      },
      {
-         "title": "Activeloop (YC S18) Is Hiring AI Search Engineer and MTS(Back End)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45448539\"\u003eComments\u003c/a\u003e",
-         "link": "https://careers.activeloop.ai/",
+         "title": "Red Hat confirms security incident after hackers breach GitLab instance",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45448772\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/",
          "links": [
-             "https://careers.activeloop.ai/"
+             "https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/"
          ],
-         "published": "Thu, 02 Oct 2025 12:00:33 +0000",
-         "publishedParsed": "2025-10-02T12:00:33Z"
-     },
-     {
-         "title": "Pong Wars: A battle between day and night, good and bad",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45413717\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/vnglst/pong-wars",
-         "links": [
-             "https://github.com/vnglst/pong-wars"
-         ],
-         "published": "Mon, 29 Sep 2025 13:44:02 +0000",
-         "publishedParsed": "2025-09-29T13:44:02Z"
-     },
-     {
-         "title": "Gmail will no longer support checking emails from third-party accounts via POP",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45439670\"\u003eComments\u003c/a\u003e",
-         "link": "https://support.google.com/mail/answer/16604719?hl=en",
-         "links": [
-             "https://support.google.com/mail/answer/16604719?hl=en"
-         ],
-         "published": "Wed, 01 Oct 2025 16:25:58 +0000",
-         "publishedParsed": "2025-10-01T16:25:58Z"
-     },
-     {
-         "title": "Adding a new instruction to RISC-V back end in LLVM",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45416552\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.gustavoleite.me/llvm-riscv-instruction",
-         "links": [
-             "https://blog.gustavoleite.me/llvm-riscv-instruction"
-         ],
-         "published": "Mon, 29 Sep 2025 17:39:02 +0000",
-         "publishedParsed": "2025-09-29T17:39:02Z"
+         "published": "Thu, 02 Oct 2025 12:28:27 +0000",
+         "publishedParsed": "2025-10-02T12:28:27Z"
      },
      {
          "title": "Cormac McCarthy's personal library",
@@ -190,6 +240,16 @@
          "publishedParsed": "2025-10-01T23:06:55Z"
      },
      {
+         "title": "Pong Wars: A battle between day and night, good and bad",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45413717\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/vnglst/pong-wars",
+         "links": [
+             "https://github.com/vnglst/pong-wars"
+         ],
+         "published": "Mon, 29 Sep 2025 13:44:02 +0000",
+         "publishedParsed": "2025-09-29T13:44:02Z"
+     },
+     {
          "title": "Throne of the Third Heaven of the Nations' Millennium General Assembly (2021)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45406804\"\u003eComments\u003c/a\u003e",
          "link": "https://americanart.si.edu/blog/throne-james-hampton",
@@ -200,73 +260,13 @@
          "publishedParsed": "2025-09-28T18:46:22Z"
      },
      {
-         "title": "A 3K-year-old copper smelting site could be key to understanding origins of iron",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45406090\"\u003eComments\u003c/a\u003e",
-         "link": "https://phys.org/news/2025-09-year-copper-smelting-site-key.html",
+         "title": "Adding a new instruction to RISC-V back end in LLVM",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45416552\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.gustavoleite.me/llvm-riscv-instruction",
          "links": [
-             "https://phys.org/news/2025-09-year-copper-smelting-site-key.html"
+             "https://blog.gustavoleite.me/llvm-riscv-instruction"
          ],
-         "published": "Sun, 28 Sep 2025 17:21:24 +0000",
-         "publishedParsed": "2025-09-28T17:21:24Z"
-     },
-     {
-         "title": "Ask HN: Went to prison for 18 months, lost access to my GitHub. What can I do?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45451567\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=45451567",
-         "links": [
-             "https://news.ycombinator.com/item?id=45451567"
-         ],
-         "published": "Thu, 02 Oct 2025 16:08:40 +0000",
-         "publishedParsed": "2025-10-02T16:08:40Z"
-     },
-     {
-         "title": "Two Amazon delivery drones crash into crane in commercial area of Tolleson, AZ",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45450449\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.abc15.com/news/region-west-valley/tolleson/two-amazon-delivery-drones-crash-into-crane-in-commercial-area-of-tolleson",
-         "links": [
-             "https://www.abc15.com/news/region-west-valley/tolleson/two-amazon-delivery-drones-crash-into-crane-in-commercial-area-of-tolleson"
-         ],
-         "published": "Thu, 02 Oct 2025 14:52:49 +0000",
-         "publishedParsed": "2025-10-02T14:52:49Z"
-     },
-     {
-         "title": "Show HN: Autism Simulator",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45438346\"\u003eComments\u003c/a\u003e",
-         "link": "https://autism-simulator.vercel.app/",
-         "links": [
-             "https://autism-simulator.vercel.app/"
-         ],
-         "published": "Wed, 01 Oct 2025 14:48:31 +0000",
-         "publishedParsed": "2025-10-01T14:48:31Z"
-     },
-     {
-         "title": "Immich v2.0.0 – First stable release",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45446834\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/immich-app/immich/discussions/22546",
-         "links": [
-             "https://github.com/immich-app/immich/discussions/22546"
-         ],
-         "published": "Thu, 02 Oct 2025 06:25:43 +0000",
-         "publishedParsed": "2025-10-02T06:25:43Z"
-     },
-     {
-         "title": "Meta will listen into AI conversations to personalize ads",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45448839\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theregister.com/2025/10/01/meta_ai_use_informs_ads/",
-         "links": [
-             "https://www.theregister.com/2025/10/01/meta_ai_use_informs_ads/"
-         ],
-         "published": "Thu, 02 Oct 2025 12:36:39 +0000",
-         "publishedParsed": "2025-10-02T12:36:39Z"
-     },
-     {
-         "title": "Piracy Operator Goes from Jail to Getting Hired by a Tech Unicorn in a Month",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45448802\"\u003eComments\u003c/a\u003e",
-         "link": "https://torrentfreak.com/sports-piracy-operator-goes-from-jail-to-getting-hired-by-a-tech-unicorn-in-a-month/",
-         "links": [
-             "https://torrentfreak.com/sports-piracy-operator-goes-from-jail-to-getting-hired-by-a-tech-unicorn-in-a-month/"
-         ],
-         "published": "Thu, 02 Oct 2025 12:31:53 +0000",
-         "publishedParsed": "2025-10-02T12:31:53Z"
+         "published": "Mon, 29 Sep 2025 17:39:02 +0000",
+         "publishedParsed": "2025-09-29T17:39:02Z"
      }
  ]
