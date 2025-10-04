@@ -30,7 +30,17 @@
          "publishedParsed": "2025-10-04T19:08:46Z"
      },
      {
-         "title": "Knowledge Infusion Scaling Law for Pre-Training Large Language Models",
+         "title": "Newton: physics simulation engine built upon NVIDIA Warp",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45440071\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/newton-physics/newton",
+         "links": [
+             "https://github.com/newton-physics/newton"
+         ],
+         "published": "Wed, 01 Oct 2025 16:57:11 +0000",
+         "publishedParsed": "2025-10-01T16:57:11Z"
+     },
+     {
+         "title": "How to inject knowledge efficiently? Knowledge infusion scaling law for LLMs",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45474900\"\u003eComments\u003c/a\u003e",
          "link": "https://arxiv.org/abs/2509.19371",
          "links": [
@@ -50,16 +60,6 @@
          "publishedParsed": "2025-10-04T18:34:13Z"
      },
      {
-         "title": "Five years as a startup CTO: How, why, and was it worth it? (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45437044\"\u003eComments\u003c/a\u003e",
-         "link": "https://distinctplace.com/2024/09/11/five-years-as-startup-cto-was-it-all-worth-it/",
-         "links": [
-             "https://distinctplace.com/2024/09/11/five-years-as-startup-cto-was-it-all-worth-it/"
-         ],
-         "published": "Wed, 01 Oct 2025 12:45:52 +0000",
-         "publishedParsed": "2025-10-01T12:45:52Z"
-     },
-     {
          "title": "Self-hosting email like it's 1984",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45473730\"\u003eComments\u003c/a\u003e",
          "link": "https://maxadamski.com/blog/2025/10/email.html",
@@ -68,66 +68,6 @@
          ],
          "published": "Sat, 04 Oct 2025 14:53:32 +0000",
          "publishedParsed": "2025-10-04T14:53:32Z"
-     },
-     {
-         "title": "The Buchstabenmuseum Berlin is closing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45472678\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.buchstabenmuseum.de/en/",
-         "links": [
-             "https://www.buchstabenmuseum.de/en/"
-         ],
-         "published": "Sat, 04 Oct 2025 11:58:58 +0000",
-         "publishedParsed": "2025-10-04T11:58:58Z"
-     },
-     {
-         "title": "Man buys used Tesla only to discover it's banned from Supercharger network",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45476490\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cbsnews.com/chicago/news/used-tesla-banned-supercharger-network-daniel-boycott/",
-         "links": [
-             "https://www.cbsnews.com/chicago/news/used-tesla-banned-supercharger-network-daniel-boycott/"
-         ],
-         "published": "Sat, 04 Oct 2025 20:37:58 +0000",
-         "publishedParsed": "2025-10-04T20:37:58Z"
-     },
-     {
-         "title": "Earth was born dry until a cosmic collision made it a blue planet",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45427972\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.sciencedaily.com/releases/2025/09/250928095654.htm",
-         "links": [
-             "https://www.sciencedaily.com/releases/2025/09/250928095654.htm"
-         ],
-         "published": "Tue, 30 Sep 2025 16:54:43 +0000",
-         "publishedParsed": "2025-09-30T16:54:43Z"
-     },
-     {
-         "title": "Paged Out Issue #7 [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45472319\"\u003eComments\u003c/a\u003e",
-         "link": "https://pagedout.institute/download/PagedOut_007.pdf",
-         "links": [
-             "https://pagedout.institute/download/PagedOut_007.pdf"
-         ],
-         "published": "Sat, 04 Oct 2025 10:38:06 +0000",
-         "publishedParsed": "2025-10-04T10:38:06Z"
-     },
-     {
-         "title": "Alibaba cloud FPGA: the $200 Kintex UltraScale+",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45471136\"\u003eComments\u003c/a\u003e",
-         "link": "https://essenceia.github.io/projects/alibaba_cloud_fpga/",
-         "links": [
-             "https://essenceia.github.io/projects/alibaba_cloud_fpga/"
-         ],
-         "published": "Sat, 04 Oct 2025 06:49:58 +0000",
-         "publishedParsed": "2025-10-04T06:49:58Z"
-     },
-     {
-         "title": "Thunderscan: A clever device transforms a printer into a scanner (2004)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45472765\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.folklore.org/Thunderscan.html",
-         "links": [
-             "https://www.folklore.org/Thunderscan.html"
-         ],
-         "published": "Sat, 04 Oct 2025 12:16:37 +0000",
-         "publishedParsed": "2025-10-04T12:16:37Z"
      },
      {
          "title": "Clavier: An FPGA-based mechanical keyboard with USB hub and comms interfaces",
@@ -140,6 +80,56 @@
          "publishedParsed": "2025-10-01T17:05:38Z"
      },
      {
+         "title": "Provable Scaling Laws of Feature Emergence from Learning Dynamics of Grokking",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45475471\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2509.21519",
+         "links": [
+             "https://arxiv.org/abs/2509.21519"
+         ],
+         "published": "Sat, 04 Oct 2025 18:26:29 +0000",
+         "publishedParsed": "2025-10-04T18:26:29Z"
+     },
+     {
+         "title": "Earth was born dry until a cosmic collision made it a blue planet",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45427972\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.sciencedaily.com/releases/2025/09/250928095654.htm",
+         "links": [
+             "https://www.sciencedaily.com/releases/2025/09/250928095654.htm"
+         ],
+         "published": "Tue, 30 Sep 2025 16:54:43 +0000",
+         "publishedParsed": "2025-09-30T16:54:43Z"
+     },
+     {
+         "title": "Alibaba cloud FPGA: the $200 Kintex UltraScale+",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45471136\"\u003eComments\u003c/a\u003e",
+         "link": "https://essenceia.github.io/projects/alibaba_cloud_fpga/",
+         "links": [
+             "https://essenceia.github.io/projects/alibaba_cloud_fpga/"
+         ],
+         "published": "Sat, 04 Oct 2025 06:49:58 +0000",
+         "publishedParsed": "2025-10-04T06:49:58Z"
+     },
+     {
+         "title": "Paged Out Issue #7 [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45472319\"\u003eComments\u003c/a\u003e",
+         "link": "https://pagedout.institute/download/PagedOut_007.pdf",
+         "links": [
+             "https://pagedout.institute/download/PagedOut_007.pdf"
+         ],
+         "published": "Sat, 04 Oct 2025 10:38:06 +0000",
+         "publishedParsed": "2025-10-04T10:38:06Z"
+     },
+     {
+         "title": "The Buchstabenmuseum Berlin is closing",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45472678\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.buchstabenmuseum.de/en/",
+         "links": [
+             "https://www.buchstabenmuseum.de/en/"
+         ],
+         "published": "Sat, 04 Oct 2025 11:58:58 +0000",
+         "publishedParsed": "2025-10-04T11:58:58Z"
+     },
+     {
          "title": "Zig builds are getting faster",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45468698\"\u003eComments\u003c/a\u003e",
          "link": "https://mitchellh.com/writing/zig-builds-getting-faster",
@@ -150,24 +140,14 @@
          "publishedParsed": "2025-10-03T22:45:28Z"
      },
      {
-         "title": "Systems Programming with Zig",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45436289\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.manning.com/books/systems-programming-with-zig",
+         "title": "Thunderscan: A clever device transforms a printer into a scanner (2004)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45472765\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.folklore.org/Thunderscan.html",
          "links": [
-             "https://www.manning.com/books/systems-programming-with-zig"
+             "https://www.folklore.org/Thunderscan.html"
          ],
-         "published": "Wed, 01 Oct 2025 10:51:37 +0000",
-         "publishedParsed": "2025-10-01T10:51:37Z"
-     },
-     {
-         "title": "The mini smartphones from Japan you've never heard about [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45433743\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=_e27TfHibTg",
-         "links": [
-             "https://www.youtube.com/watch?v=_e27TfHibTg"
-         ],
-         "published": "Wed, 01 Oct 2025 02:35:04 +0000",
-         "publishedParsed": "2025-10-01T02:35:04Z"
+         "published": "Sat, 04 Oct 2025 12:16:37 +0000",
+         "publishedParsed": "2025-10-04T12:16:37Z"
      },
      {
          "title": "Show HN: Cobalt – a pixel-art painting studio for the Nintendo DS",
@@ -180,6 +160,16 @@
          "publishedParsed": "2025-09-30T20:54:45Z"
      },
      {
+         "title": "Systems Programming with Zig",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45436289\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.manning.com/books/systems-programming-with-zig",
+         "links": [
+             "https://www.manning.com/books/systems-programming-with-zig"
+         ],
+         "published": "Wed, 01 Oct 2025 10:51:37 +0000",
+         "publishedParsed": "2025-10-01T10:51:37Z"
+     },
+     {
          "title": "Fluid Glass",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45422147\"\u003eComments\u003c/a\u003e",
          "link": "https://chiuhans111.github.io/fluidglass/",
@@ -190,24 +180,34 @@
          "publishedParsed": "2025-09-30T05:15:40Z"
      },
      {
-         "title": "Flock's gunshot detection microphones will start listening for human voices",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45473698\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-will-start-listening-human-voices",
+         "title": "Study confirms that pianists can shape piano timbre through touch",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45443662\"\u003eComments\u003c/a\u003e",
+         "link": "https://neurosciencenews.com/piano-touch-timbre-neuroscience-29755/",
          "links": [
-             "https://www.eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-will-start-listening-human-voices"
+             "https://neurosciencenews.com/piano-touch-timbre-neuroscience-29755/"
          ],
-         "published": "Sat, 04 Oct 2025 14:49:30 +0000",
-         "publishedParsed": "2025-10-04T14:49:30Z"
+         "published": "Wed, 01 Oct 2025 21:15:44 +0000",
+         "publishedParsed": "2025-10-01T21:15:44Z"
      },
      {
-         "title": "Solaris 2.1 for x86 (2017)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45475329\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.os2museum.com/wp/pc-unix-history/solaris-2-1-for-x86/",
+         "title": "Five years as a startup CTO: How, why, and was it worth it? (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45437044\"\u003eComments\u003c/a\u003e",
+         "link": "https://distinctplace.com/2024/09/11/five-years-as-startup-cto-was-it-all-worth-it/",
          "links": [
-             "https://www.os2museum.com/wp/pc-unix-history/solaris-2-1-for-x86/"
+             "https://distinctplace.com/2024/09/11/five-years-as-startup-cto-was-it-all-worth-it/"
          ],
-         "published": "Sat, 04 Oct 2025 18:07:23 +0000",
-         "publishedParsed": "2025-10-04T18:07:23Z"
+         "published": "Wed, 01 Oct 2025 12:45:52 +0000",
+         "publishedParsed": "2025-10-01T12:45:52Z"
+     },
+     {
+         "title": "Baseball durations after the pitch clock",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45433936\"\u003eComments\u003c/a\u003e",
+         "link": "https://leancrew.com/all-this/2025/09/baseball-durations-after-the-pitch-clock/",
+         "links": [
+             "https://leancrew.com/all-this/2025/09/baseball-durations-after-the-pitch-clock/"
+         ],
+         "published": "Wed, 01 Oct 2025 03:15:23 +0000",
+         "publishedParsed": "2025-10-01T03:15:23Z"
      },
      {
          "title": "Where it's at://",
@@ -230,24 +230,24 @@
          "publishedParsed": "2025-10-04T01:09:37Z"
      },
      {
+         "title": "Scientists are discovering a powerful new way to prevent cancer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45472614\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer",
+         "links": [
+             "https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer"
+         ],
+         "published": "Sat, 04 Oct 2025 11:44:15 +0000",
+         "publishedParsed": "2025-10-04T11:44:15Z"
+     },
+     {
          "title": "PEP 810 – Explicit lazy imports",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45466086\"\u003eComments\u003c/a\u003e",
-         "link": "https://pep-previews--4622.org.readthedocs.build/pep-0810/",
+         "link": "https://peps.python.org/pep-0810/",
          "links": [
-             "https://pep-previews--4622.org.readthedocs.build/pep-0810/"
+             "https://peps.python.org/pep-0810/"
          ],
          "published": "Fri, 03 Oct 2025 18:24:58 +0000",
          "publishedParsed": "2025-10-03T18:24:58Z"
-     },
-     {
-         "title": "How functional programming shaped and twisted front end development",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45473019\"\u003eComments\u003c/a\u003e",
-         "link": "https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html",
-         "links": [
-             "https://alfy.blog/2025/10/04/how-functional-programming-shaped-modern-frontend.html"
-         ],
-         "published": "Sat, 04 Oct 2025 13:04:15 +0000",
-         "publishedParsed": "2025-10-04T13:04:15Z"
      },
      {
          "title": "Jeff Bezos says AI is in a bubble but society will get 'gigantic' benefits",
@@ -258,15 +258,5 @@
          ],
          "published": "Fri, 03 Oct 2025 16:00:00 +0000",
          "publishedParsed": "2025-10-03T16:00:00Z"
-     },
-     {
-         "title": "Old Stockholm Telephone Tower",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45447057\"\u003eComments\u003c/a\u003e",
-         "link": "https://en.wikipedia.org/wiki/Old_Stockholm_telephone_tower",
-         "links": [
-             "https://en.wikipedia.org/wiki/Old_Stockholm_telephone_tower"
-         ],
-         "published": "Thu, 02 Oct 2025 07:12:18 +0000",
-         "publishedParsed": "2025-10-02T07:12:18Z"
      }
  ]
