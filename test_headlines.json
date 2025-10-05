@@ -1,13 +1,13 @@
 [
      {
-         "title": "You can't parse XML with regex. Let's do it anyways",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45478300\"\u003eComments\u003c/a\u003e",
-         "link": "https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/",
+         "title": "What .NET 10 GC Changes Mean for Developers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45435606\"\u003eComments\u003c/a\u003e",
+         "link": "https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/",
          "links": [
-             "https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/"
+             "https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/"
          ],
-         "published": "Sun, 05 Oct 2025 01:58:31 +0000",
-         "publishedParsed": "2025-10-05T01:58:31Z"
+         "published": "Wed, 01 Oct 2025 08:40:35 +0000",
+         "publishedParsed": "2025-10-01T08:40:35Z"
      },
      {
          "title": "ProofOfThought: LLM-based reasoning using Z3 theorem proving",
@@ -20,6 +20,26 @@
          "publishedParsed": "2025-10-04T18:34:23Z"
      },
      {
+         "title": "Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45478033\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/daniellionel01/parrot",
+         "links": [
+             "https://github.com/daniellionel01/parrot"
+         ],
+         "published": "Sun, 05 Oct 2025 00:51:44 +0000",
+         "publishedParsed": "2025-10-05T00:51:44Z"
+     },
+     {
+         "title": "Microsoft Surface Pen Compatibility / Interoperability FAQ (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45442752\"\u003eComments\u003c/a\u003e",
+         "link": "https://dancharblog.wordpress.com/2017/05/29/surface-pen-compatibility-interoperability-faq/",
+         "links": [
+             "https://dancharblog.wordpress.com/2017/05/29/surface-pen-compatibility-interoperability-faq/"
+         ],
+         "published": "Wed, 01 Oct 2025 20:08:27 +0000",
+         "publishedParsed": "2025-10-01T20:08:27Z"
+     },
+     {
          "title": "A comparison of Ada and Rust, using solutions to the Advent of Code",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45473861\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
@@ -28,6 +48,16 @@
          ],
          "published": "Sat, 04 Oct 2025 15:10:49 +0000",
          "publishedParsed": "2025-10-04T15:10:49Z"
+     },
+     {
+         "title": "Way past its prime: how did Amazon get so rubbish?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45479103\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish",
+         "links": [
+             "https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish"
+         ],
+         "published": "Sun, 05 Oct 2025 05:47:55 +0000",
+         "publishedParsed": "2025-10-05T05:47:55Z"
      },
      {
          "title": "Newton: physics simulation engine built upon NVIDIA Warp",
@@ -40,26 +70,6 @@
          "publishedParsed": "2025-10-01T16:57:11Z"
      },
      {
-         "title": "Blog Feeds",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45475808\"\u003eComments\u003c/a\u003e",
-         "link": "https://blogfeeds.net",
-         "links": [
-             "https://blogfeeds.net"
-         ],
-         "published": "Sat, 04 Oct 2025 19:08:46 +0000",
-         "publishedParsed": "2025-10-04T19:08:46Z"
-     },
-     {
-         "title": "Mod. 5140 - IBM's First Laptop Computer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45477971\"\u003eComments\u003c/a\u003e",
-         "link": "https://richardsapperdesign.com/products/mod-5140/",
-         "links": [
-             "https://richardsapperdesign.com/products/mod-5140/"
-         ],
-         "published": "Sun, 05 Oct 2025 00:35:10 +0000",
-         "publishedParsed": "2025-10-05T00:35:10Z"
-     },
-     {
          "title": "Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45477742\"\u003eComments\u003c/a\u003e",
          "link": "https://arxiv.org/abs/2509.12351",
@@ -70,24 +80,14 @@
          "publishedParsed": "2025-10-04T23:42:55Z"
      },
      {
-         "title": "Matrix Core Programming on AMD GPUs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45476821\"\u003eComments\u003c/a\u003e",
-         "link": "https://salykova.github.io/matrix-cores-cdna",
+         "title": "Blog Feeds",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45475808\"\u003eComments\u003c/a\u003e",
+         "link": "https://blogfeeds.net",
          "links": [
-             "https://salykova.github.io/matrix-cores-cdna"
+             "https://blogfeeds.net"
          ],
-         "published": "Sat, 04 Oct 2025 21:22:11 +0000",
-         "publishedParsed": "2025-10-04T21:22:11Z"
-     },
-     {
-         "title": "Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45478033\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/daniellionel01/parrot",
-         "links": [
-             "https://github.com/daniellionel01/parrot"
-         ],
-         "published": "Sun, 05 Oct 2025 00:51:44 +0000",
-         "publishedParsed": "2025-10-05T00:51:44Z"
+         "published": "Sat, 04 Oct 2025 19:08:46 +0000",
+         "publishedParsed": "2025-10-04T19:08:46Z"
      },
      {
          "title": "Machine Learnability as a Measure of Order in Aperiodic Sequences",
@@ -100,14 +100,24 @@
          "publishedParsed": "2025-10-01T22:01:20Z"
      },
      {
-         "title": "AI-powered open-source code laundering",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45477661\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md",
+         "title": "Mod. 5140 - IBM's First Laptop Computer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45477971\"\u003eComments\u003c/a\u003e",
+         "link": "https://richardsapperdesign.com/products/mod-5140/",
          "links": [
-             "https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md"
+             "https://richardsapperdesign.com/products/mod-5140/"
          ],
-         "published": "Sat, 04 Oct 2025 23:26:02 +0000",
-         "publishedParsed": "2025-10-04T23:26:02Z"
+         "published": "Sun, 05 Oct 2025 00:35:10 +0000",
+         "publishedParsed": "2025-10-05T00:35:10Z"
+     },
+     {
+         "title": "Matrix Core Programming on AMD GPUs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45476821\"\u003eComments\u003c/a\u003e",
+         "link": "https://salykova.github.io/matrix-cores-cdna",
+         "links": [
+             "https://salykova.github.io/matrix-cores-cdna"
+         ],
+         "published": "Sat, 04 Oct 2025 21:22:11 +0000",
+         "publishedParsed": "2025-10-04T21:22:11Z"
      },
      {
          "title": "XiangShan Vector Floating-Point Unit Design",
@@ -120,16 +130,6 @@
          "publishedParsed": "2025-10-04T22:02:28Z"
      },
      {
-         "title": "Mathematical Models/Algorithms for Optimization of Lego Construction Problems [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45438713\"\u003eComments\u003c/a\u003e",
-         "link": "https://backend.orbit.dtu.dk/ws/portalfiles/portal/236623063/PhD_Thesis_Torkil_Kollsker.pdf",
-         "links": [
-             "https://backend.orbit.dtu.dk/ws/portalfiles/portal/236623063/PhD_Thesis_Torkil_Kollsker.pdf"
-         ],
-         "published": "Wed, 01 Oct 2025 15:16:44 +0000",
-         "publishedParsed": "2025-10-01T15:16:44Z"
-     },
-     {
          "title": "How to inject knowledge efficiently? Knowledge infusion scaling law for LLMs",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45474900\"\u003eComments\u003c/a\u003e",
          "link": "https://arxiv.org/abs/2509.19371",
@@ -140,6 +140,16 @@
          "publishedParsed": "2025-10-04T17:18:07Z"
      },
      {
+         "title": "Mathematical Models/Algorithms for Optimization of Lego Construction Problems [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45438713\"\u003eComments\u003c/a\u003e",
+         "link": "https://backend.orbit.dtu.dk/ws/portalfiles/portal/236623063/PhD_Thesis_Torkil_Kollsker.pdf",
+         "links": [
+             "https://backend.orbit.dtu.dk/ws/portalfiles/portal/236623063/PhD_Thesis_Torkil_Kollsker.pdf"
+         ],
+         "published": "Wed, 01 Oct 2025 15:16:44 +0000",
+         "publishedParsed": "2025-10-01T15:16:44Z"
+     },
+     {
          "title": "Show HN: Run – a CLI universal code runner I built while learning Rust",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45475528\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/Esubaalew/run",
@@ -148,16 +158,6 @@
          ],
          "published": "Sat, 04 Oct 2025 18:34:13 +0000",
          "publishedParsed": "2025-10-04T18:34:13Z"
-     },
-     {
-         "title": "Self-hosting email like it's 1984",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45473730\"\u003eComments\u003c/a\u003e",
-         "link": "https://maxadamski.com/blog/2025/10/email.html",
-         "links": [
-             "https://maxadamski.com/blog/2025/10/email.html"
-         ],
-         "published": "Sat, 04 Oct 2025 14:53:32 +0000",
-         "publishedParsed": "2025-10-04T14:53:32Z"
      },
      {
          "title": "Earth was born dry until a cosmic collision made it a blue planet",
@@ -180,16 +180,6 @@
          "publishedParsed": "2025-10-01T17:05:38Z"
      },
      {
-         "title": "Show HN: The Little Book of C",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45448525\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/little-book-of/c",
-         "links": [
-             "https://github.com/little-book-of/c"
-         ],
-         "published": "Thu, 02 Oct 2025 11:58:27 +0000",
-         "publishedParsed": "2025-10-02T11:58:27Z"
-     },
-     {
          "title": "Paged Out Issue #7 [pdf]",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45472319\"\u003eComments\u003c/a\u003e",
          "link": "https://pagedout.institute/download/PagedOut_007.pdf",
@@ -210,14 +200,14 @@
          "publishedParsed": "2025-10-04T12:16:37Z"
      },
      {
-         "title": "The Buchstabenmuseum Berlin is closing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45472678\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.buchstabenmuseum.de/en/",
+         "title": "Self-hosting email like it's 1984",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45473730\"\u003eComments\u003c/a\u003e",
+         "link": "https://maxadamski.com/blog/2025/10/email.html",
          "links": [
-             "https://www.buchstabenmuseum.de/en/"
+             "https://maxadamski.com/blog/2025/10/email.html"
          ],
-         "published": "Sat, 04 Oct 2025 11:58:58 +0000",
-         "publishedParsed": "2025-10-04T11:58:58Z"
+         "published": "Sat, 04 Oct 2025 14:53:32 +0000",
+         "publishedParsed": "2025-10-04T14:53:32Z"
      },
      {
          "title": "Show HN: Cobalt – a pixel-art painting studio for the Nintendo DS",
@@ -230,6 +220,16 @@
          "publishedParsed": "2025-09-30T20:54:45Z"
      },
      {
+         "title": "The Buchstabenmuseum Berlin is closing",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45472678\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.buchstabenmuseum.de/en/",
+         "links": [
+             "https://www.buchstabenmuseum.de/en/"
+         ],
+         "published": "Sat, 04 Oct 2025 11:58:58 +0000",
+         "publishedParsed": "2025-10-04T11:58:58Z"
+     },
+     {
          "title": "Borehole Oscillators",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45477516\"\u003eComments\u003c/a\u003e",
          "link": "https://www.gregegan.net/SCIENCE/Borehole/Borehole.html",
@@ -240,16 +240,6 @@
          "publishedParsed": "2025-10-04T23:02:32Z"
      },
      {
-         "title": "Microsoft 365 Copilot's commercial failure",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45476045\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.perspectives.plus/p/microsoft-365-copilot-commercial-failure",
-         "links": [
-             "https://www.perspectives.plus/p/microsoft-365-copilot-commercial-failure"
-         ],
-         "published": "Sat, 04 Oct 2025 19:39:00 +0000",
-         "publishedParsed": "2025-10-04T19:39:00Z"
-     },
-     {
          "title": "Baseball durations after the pitch clock",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45433936\"\u003eComments\u003c/a\u003e",
          "link": "https://leancrew.com/all-this/2025/09/baseball-durations-after-the-pitch-clock/",
@@ -258,5 +248,15 @@
          ],
          "published": "Wed, 01 Oct 2025 03:15:23 +0000",
          "publishedParsed": "2025-10-01T03:15:23Z"
+     },
+     {
+         "title": "Microsoft 365 Copilot's commercial failure",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45476045\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.perspectives.plus/p/microsoft-365-copilot-commercial-failure",
+         "links": [
+             "https://www.perspectives.plus/p/microsoft-365-copilot-commercial-failure"
+         ],
+         "published": "Sat, 04 Oct 2025 19:39:00 +0000",
+         "publishedParsed": "2025-10-04T19:39:00Z"
      }
  ]
