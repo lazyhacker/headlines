@@ -20,16 +20,6 @@
          "publishedParsed": "2025-10-04T15:10:49Z"
      },
      {
-         "title": "Blog Feeds",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45475808\"\u003eComments\u003c/a\u003e",
-         "link": "https://blogfeeds.net",
-         "links": [
-             "https://blogfeeds.net"
-         ],
-         "published": "Sat, 04 Oct 2025 19:08:46 +0000",
-         "publishedParsed": "2025-10-04T19:08:46Z"
-     },
-     {
          "title": "Newton: physics simulation engine built upon NVIDIA Warp",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45440071\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/newton-physics/newton",
@@ -40,14 +30,24 @@
          "publishedParsed": "2025-10-01T16:57:11Z"
      },
      {
-         "title": "How to inject knowledge efficiently? Knowledge infusion scaling law for LLMs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45474900\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2509.19371",
+         "title": "XiangShan Vector Floating-Point Unit Design",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45477118\"\u003eComments\u003c/a\u003e",
+         "link": "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/",
          "links": [
-             "https://arxiv.org/abs/2509.19371"
+             "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/"
          ],
-         "published": "Sat, 04 Oct 2025 17:18:07 +0000",
-         "publishedParsed": "2025-10-04T17:18:07Z"
+         "published": "Sat, 04 Oct 2025 22:02:28 +0000",
+         "publishedParsed": "2025-10-04T22:02:28Z"
+     },
+     {
+         "title": "Blog Feeds",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45475808\"\u003eComments\u003c/a\u003e",
+         "link": "https://blogfeeds.net",
+         "links": [
+             "https://blogfeeds.net"
+         ],
+         "published": "Sat, 04 Oct 2025 19:08:46 +0000",
+         "publishedParsed": "2025-10-04T19:08:46Z"
      },
      {
          "title": "Show HN: Run – a CLI universal code runner I built while learning Rust",
@@ -60,6 +60,26 @@
          "publishedParsed": "2025-10-04T18:34:13Z"
      },
      {
+         "title": "How to inject knowledge efficiently? Knowledge infusion scaling law for LLMs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45474900\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2509.19371",
+         "links": [
+             "https://arxiv.org/abs/2509.19371"
+         ],
+         "published": "Sat, 04 Oct 2025 17:18:07 +0000",
+         "publishedParsed": "2025-10-04T17:18:07Z"
+     },
+     {
+         "title": "Matrix Core Programming on AMD GPUs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45476821\"\u003eComments\u003c/a\u003e",
+         "link": "https://salykova.github.io/matrix-cores-cdna",
+         "links": [
+             "https://salykova.github.io/matrix-cores-cdna"
+         ],
+         "published": "Sat, 04 Oct 2025 21:22:11 +0000",
+         "publishedParsed": "2025-10-04T21:22:11Z"
+     },
+     {
          "title": "Self-hosting email like it's 1984",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45473730\"\u003eComments\u003c/a\u003e",
          "link": "https://maxadamski.com/blog/2025/10/email.html",
@@ -68,26 +88,6 @@
          ],
          "published": "Sat, 04 Oct 2025 14:53:32 +0000",
          "publishedParsed": "2025-10-04T14:53:32Z"
-     },
-     {
-         "title": "Clavier: An FPGA-based mechanical keyboard with USB hub and comms interfaces",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45440180\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/lsartory/Clavier",
-         "links": [
-             "https://github.com/lsartory/Clavier"
-         ],
-         "published": "Wed, 01 Oct 2025 17:05:38 +0000",
-         "publishedParsed": "2025-10-01T17:05:38Z"
-     },
-     {
-         "title": "Provable Scaling Laws of Feature Emergence from Learning Dynamics of Grokking",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45475471\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2509.21519",
-         "links": [
-             "https://arxiv.org/abs/2509.21519"
-         ],
-         "published": "Sat, 04 Oct 2025 18:26:29 +0000",
-         "publishedParsed": "2025-10-04T18:26:29Z"
      },
      {
          "title": "Earth was born dry until a cosmic collision made it a blue planet",
@@ -100,14 +100,14 @@
          "publishedParsed": "2025-09-30T16:54:43Z"
      },
      {
-         "title": "Alibaba cloud FPGA: the $200 Kintex UltraScale+",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45471136\"\u003eComments\u003c/a\u003e",
-         "link": "https://essenceia.github.io/projects/alibaba_cloud_fpga/",
+         "title": "Clavier: An FPGA-based mechanical keyboard with USB hub and comms interfaces",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45440180\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/lsartory/Clavier",
          "links": [
-             "https://essenceia.github.io/projects/alibaba_cloud_fpga/"
+             "https://github.com/lsartory/Clavier"
          ],
-         "published": "Sat, 04 Oct 2025 06:49:58 +0000",
-         "publishedParsed": "2025-10-04T06:49:58Z"
+         "published": "Wed, 01 Oct 2025 17:05:38 +0000",
+         "publishedParsed": "2025-10-01T17:05:38Z"
      },
      {
          "title": "Paged Out Issue #7 [pdf]",
@@ -120,14 +120,14 @@
          "publishedParsed": "2025-10-04T10:38:06Z"
      },
      {
-         "title": "The Buchstabenmuseum Berlin is closing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45472678\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.buchstabenmuseum.de/en/",
+         "title": "Alibaba cloud FPGA: the $200 Kintex UltraScale+",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45471136\"\u003eComments\u003c/a\u003e",
+         "link": "https://essenceia.github.io/projects/alibaba_cloud_fpga/",
          "links": [
-             "https://www.buchstabenmuseum.de/en/"
+             "https://essenceia.github.io/projects/alibaba_cloud_fpga/"
          ],
-         "published": "Sat, 04 Oct 2025 11:58:58 +0000",
-         "publishedParsed": "2025-10-04T11:58:58Z"
+         "published": "Sat, 04 Oct 2025 06:49:58 +0000",
+         "publishedParsed": "2025-10-04T06:49:58Z"
      },
      {
          "title": "Zig builds are getting faster",
@@ -150,24 +150,14 @@
          "publishedParsed": "2025-10-04T12:16:37Z"
      },
      {
-         "title": "Show HN: Cobalt – a pixel-art painting studio for the Nintendo DS",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45431115\"\u003eComments\u003c/a\u003e",
-         "link": "https://benbridle.com/projects/cobalt.html",
+         "title": "The Art of Color... Science?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45435819\"\u003eComments\u003c/a\u003e",
+         "link": "https://nikonrumors.com/2025/09/30/the-art-of-color-science.aspx/",
          "links": [
-             "https://benbridle.com/projects/cobalt.html"
+             "https://nikonrumors.com/2025/09/30/the-art-of-color-science.aspx/"
          ],
-         "published": "Tue, 30 Sep 2025 20:54:45 +0000",
-         "publishedParsed": "2025-09-30T20:54:45Z"
-     },
-     {
-         "title": "Systems Programming with Zig",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45436289\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.manning.com/books/systems-programming-with-zig",
-         "links": [
-             "https://www.manning.com/books/systems-programming-with-zig"
-         ],
-         "published": "Wed, 01 Oct 2025 10:51:37 +0000",
-         "publishedParsed": "2025-10-01T10:51:37Z"
+         "published": "Wed, 01 Oct 2025 09:20:43 +0000",
+         "publishedParsed": "2025-10-01T09:20:43Z"
      },
      {
          "title": "Fluid Glass",
@@ -180,14 +170,24 @@
          "publishedParsed": "2025-09-30T05:15:40Z"
      },
      {
-         "title": "Study confirms that pianists can shape piano timbre through touch",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45443662\"\u003eComments\u003c/a\u003e",
-         "link": "https://neurosciencenews.com/piano-touch-timbre-neuroscience-29755/",
+         "title": "The Buchstabenmuseum Berlin is closing",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45472678\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.buchstabenmuseum.de/en/",
          "links": [
-             "https://neurosciencenews.com/piano-touch-timbre-neuroscience-29755/"
+             "https://www.buchstabenmuseum.de/en/"
          ],
-         "published": "Wed, 01 Oct 2025 21:15:44 +0000",
-         "publishedParsed": "2025-10-01T21:15:44Z"
+         "published": "Sat, 04 Oct 2025 11:58:58 +0000",
+         "publishedParsed": "2025-10-04T11:58:58Z"
+     },
+     {
+         "title": "Show HN: Cobalt – a pixel-art painting studio for the Nintendo DS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45431115\"\u003eComments\u003c/a\u003e",
+         "link": "https://benbridle.com/projects/cobalt.html",
+         "links": [
+             "https://benbridle.com/projects/cobalt.html"
+         ],
+         "published": "Tue, 30 Sep 2025 20:54:45 +0000",
+         "publishedParsed": "2025-09-30T20:54:45Z"
      },
      {
          "title": "Five years as a startup CTO: How, why, and was it worth it? (2024)",
@@ -200,14 +200,14 @@
          "publishedParsed": "2025-10-01T12:45:52Z"
      },
      {
-         "title": "Baseball durations after the pitch clock",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45433936\"\u003eComments\u003c/a\u003e",
-         "link": "https://leancrew.com/all-this/2025/09/baseball-durations-after-the-pitch-clock/",
+         "title": "A Network Crumb Back Story: A Baker's Dozen Retrospective",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45441539\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.kentik.com/blog/crumb-back-story-a-bakers-dozen-retrospective/",
          "links": [
-             "https://leancrew.com/all-this/2025/09/baseball-durations-after-the-pitch-clock/"
+             "https://www.kentik.com/blog/crumb-back-story-a-bakers-dozen-retrospective/"
          ],
-         "published": "Wed, 01 Oct 2025 03:15:23 +0000",
-         "publishedParsed": "2025-10-01T03:15:23Z"
+         "published": "Wed, 01 Oct 2025 18:42:15 +0000",
+         "publishedParsed": "2025-10-01T18:42:15Z"
      },
      {
          "title": "Where it's at://",
@@ -220,6 +220,16 @@
          "publishedParsed": "2025-10-02T20:31:43Z"
      },
      {
+         "title": "Systems Programming with Zig",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45436289\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.manning.com/books/systems-programming-with-zig",
+         "links": [
+             "https://www.manning.com/books/systems-programming-with-zig"
+         ],
+         "published": "Wed, 01 Oct 2025 10:51:37 +0000",
+         "publishedParsed": "2025-10-01T10:51:37Z"
+     },
+     {
          "title": "New antibiotic targets IBD and AI predicted how it would work",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45469579\"\u003eComments\u003c/a\u003e",
          "link": "https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/",
@@ -230,33 +240,13 @@
          "publishedParsed": "2025-10-04T01:09:37Z"
      },
      {
-         "title": "Scientists are discovering a powerful new way to prevent cancer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45472614\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer",
+         "title": "Baseball durations after the pitch clock",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45433936\"\u003eComments\u003c/a\u003e",
+         "link": "https://leancrew.com/all-this/2025/09/baseball-durations-after-the-pitch-clock/",
          "links": [
-             "https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer"
+             "https://leancrew.com/all-this/2025/09/baseball-durations-after-the-pitch-clock/"
          ],
-         "published": "Sat, 04 Oct 2025 11:44:15 +0000",
-         "publishedParsed": "2025-10-04T11:44:15Z"
-     },
-     {
-         "title": "PEP 810 – Explicit lazy imports",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45466086\"\u003eComments\u003c/a\u003e",
-         "link": "https://peps.python.org/pep-0810/",
-         "links": [
-             "https://peps.python.org/pep-0810/"
-         ],
-         "published": "Fri, 03 Oct 2025 18:24:58 +0000",
-         "publishedParsed": "2025-10-03T18:24:58Z"
-     },
-     {
-         "title": "Jeff Bezos says AI is in a bubble but society will get 'gigantic' benefits",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45464429\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html",
-         "links": [
-             "https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html"
-         ],
-         "published": "Fri, 03 Oct 2025 16:00:00 +0000",
-         "publishedParsed": "2025-10-03T16:00:00Z"
+         "published": "Wed, 01 Oct 2025 03:15:23 +0000",
+         "publishedParsed": "2025-10-01T03:15:23Z"
      }
  ]
