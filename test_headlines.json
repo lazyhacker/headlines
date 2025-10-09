@@ -1,5 +1,15 @@
 [
      {
+         "title": "Designing a Low Latency 10G Ethernet Core",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45522406\"\u003eComments\u003c/a\u003e",
+         "link": "https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html",
+         "links": [
+             "https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html"
+         ],
+         "published": "Thu, 09 Oct 2025 01:17:20 +0000",
+         "publishedParsed": "2025-10-09T01:17:20Z"
+     },
+     {
          "title": "We found a bug in Go's ARM64 compiler",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45516000\"\u003eComments\u003c/a\u003e",
          "link": "https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/",
@@ -10,14 +20,64 @@
          "publishedParsed": "2025-10-08T13:33:15Z"
      },
      {
-         "title": "PWA Browser Scorecards",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45521704\"\u003eComments\u003c/a\u003e",
-         "link": "https://pwascore.com/",
+         "title": "WinBoat: Windows apps on Linux with seamless integration",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45518813\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.winboat.app/",
          "links": [
-             "https://pwascore.com/"
+             "https://www.winboat.app/"
          ],
-         "published": "Wed, 08 Oct 2025 23:14:32 +0000",
-         "publishedParsed": "2025-10-08T23:14:32Z"
+         "published": "Wed, 08 Oct 2025 17:56:32 +0000",
+         "publishedParsed": "2025-10-08T17:56:32Z"
+     },
+     {
+         "title": "Discord says 70k users may have had their government IDs leaked in breach",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45521738\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach",
+         "links": [
+             "https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach"
+         ],
+         "published": "Wed, 08 Oct 2025 23:20:13 +0000",
+         "publishedParsed": "2025-10-08T23:20:13Z"
+     },
+     {
+         "title": "Radio Garten",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45521833\"\u003eComments\u003c/a\u003e",
+         "link": "https://radio.garden/",
+         "links": [
+             "https://radio.garden/"
+         ],
+         "published": "Wed, 08 Oct 2025 23:34:42 +0000",
+         "publishedParsed": "2025-10-08T23:34:42Z"
+     },
+     {
+         "title": "A Global Mining Dataset",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45489925\"\u003eComments\u003c/a\u003e",
+         "link": "https://tech.marksblogg.com/icmm-mining-data.html",
+         "links": [
+             "https://tech.marksblogg.com/icmm-mining-data.html"
+         ],
+         "published": "Mon, 06 Oct 2025 10:48:33 +0000",
+         "publishedParsed": "2025-10-06T10:48:33Z"
+     },
+     {
+         "title": "Show HN: HyprMCP – Analytics, logs and auth for MCP servers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45521788\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/hyprmcp/jetski",
+         "links": [
+             "https://github.com/hyprmcp/jetski"
+         ],
+         "published": "Wed, 08 Oct 2025 23:27:23 +0000",
+         "publishedParsed": "2025-10-08T23:27:23Z"
+     },
+     {
+         "title": "Kurt Got Got",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45520615\"\u003eComments\u003c/a\u003e",
+         "link": "https://fly.io/blog/kurt-got-got/",
+         "links": [
+             "https://fly.io/blog/kurt-got-got/"
+         ],
+         "published": "Wed, 08 Oct 2025 21:02:34 +0000",
+         "publishedParsed": "2025-10-08T21:02:34Z"
      },
      {
          "title": "I played 1k hands of online poker and built a web app with Cursor AI",
@@ -40,27 +100,7 @@
          "publishedParsed": "2025-10-08T19:16:10Z"
      },
      {
-         "title": "Kurt Got Got",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45520615\"\u003eComments\u003c/a\u003e",
-         "link": "https://fly.io/blog/kurt-got-got/",
-         "links": [
-             "https://fly.io/blog/kurt-got-got/"
-         ],
-         "published": "Wed, 08 Oct 2025 21:02:34 +0000",
-         "publishedParsed": "2025-10-08T21:02:34Z"
-     },
-     {
-         "title": "WinBoat: Windows apps on Linux with seamless integration",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45518813\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.winboat.app/",
-         "links": [
-             "https://www.winboat.app/"
-         ],
-         "published": "Wed, 08 Oct 2025 17:56:32 +0000",
-         "publishedParsed": "2025-10-08T17:56:32Z"
-     },
-     {
-         "title": "A Competitor Crippled a $23.5M Bootcamp by Becoming a Reddit Moderator",
+         "title": "A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45521920\"\u003eComments\u003c/a\u003e",
          "link": "https://larslofgren.com/codesmith-reddit-reputation-attack/",
          "links": [
@@ -68,26 +108,6 @@
          ],
          "published": "Wed, 08 Oct 2025 23:48:28 +0000",
          "publishedParsed": "2025-10-08T23:48:28Z"
-     },
-     {
-         "title": "Aerocart cargo gliders",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45484123\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.aerolane.com/",
-         "links": [
-             "https://www.aerolane.com/"
-         ],
-         "published": "Sun, 05 Oct 2025 18:49:31 +0000",
-         "publishedParsed": "2025-10-05T18:49:31Z"
-     },
-     {
-         "title": "Meta launches Hyperscape, technology to turn real-world spaces into VR",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45481417\"\u003eComments\u003c/a\u003e",
-         "link": "https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/",
-         "links": [
-             "https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/"
-         ],
-         "published": "Sun, 05 Oct 2025 13:42:03 +0000",
-         "publishedParsed": "2025-10-05T13:42:03Z"
      },
      {
          "title": "The RSS feed reader landscape",
@@ -100,34 +120,24 @@
          "publishedParsed": "2025-10-08T15:17:36Z"
      },
      {
-         "title": "Nobel Prize in Chemistry 2025",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45514164\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nobelprize.org/prizes/chemistry/2025/popular-information/",
+         "title": "Meta launches Hyperscape, technology to turn real-world spaces into VR",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45481417\"\u003eComments\u003c/a\u003e",
+         "link": "https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/",
          "links": [
-             "https://www.nobelprize.org/prizes/chemistry/2025/popular-information/"
+             "https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/"
          ],
-         "published": "Wed, 08 Oct 2025 09:49:36 +0000",
-         "publishedParsed": "2025-10-08T09:49:36Z"
+         "published": "Sun, 05 Oct 2025 13:42:03 +0000",
+         "publishedParsed": "2025-10-05T13:42:03Z"
      },
      {
-         "title": "Why Circular AI Deals Among OpenAI, Nvidia, AMD Are Raising Eyebrows",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45521484\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bloomberg.com/news/articles/2025-10-08/the-circular-openai-nvidia-and-amd-deals-raising-fears-of-a-new-tech-bubble",
+         "title": "Aerocart cargo gliders",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45484123\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.aerolane.com/",
          "links": [
-             "https://www.bloomberg.com/news/articles/2025-10-08/the-circular-openai-nvidia-and-amd-deals-raising-fears-of-a-new-tech-bubble"
+             "https://www.aerolane.com/"
          ],
-         "published": "Wed, 08 Oct 2025 22:47:57 +0000",
-         "publishedParsed": "2025-10-08T22:47:57Z"
-     },
-     {
-         "title": "Why we need SIMD",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45487310\"\u003eComments\u003c/a\u003e",
-         "link": "https://parallelprogrammer.substack.com/p/why-we-need-simd-the-real-reason",
-         "links": [
-             "https://parallelprogrammer.substack.com/p/why-we-need-simd-the-real-reason"
-         ],
-         "published": "Mon, 06 Oct 2025 03:10:13 +0000",
-         "publishedParsed": "2025-10-06T03:10:13Z"
+         "published": "Sun, 05 Oct 2025 18:49:31 +0000",
+         "publishedParsed": "2025-10-05T18:49:31Z"
      },
      {
          "title": "Sora, AI Bicycles, and Meta Disruption",
@@ -140,6 +150,36 @@
          "publishedParsed": "2025-10-06T16:17:15Z"
      },
      {
+         "title": "PWA Browser Scorecards",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45521704\"\u003eComments\u003c/a\u003e",
+         "link": "https://pwascore.com/",
+         "links": [
+             "https://pwascore.com/"
+         ],
+         "published": "Wed, 08 Oct 2025 23:14:32 +0000",
+         "publishedParsed": "2025-10-08T23:14:32Z"
+     },
+     {
+         "title": "Why we need SIMD",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45487310\"\u003eComments\u003c/a\u003e",
+         "link": "https://parallelprogrammer.substack.com/p/why-we-need-simd-the-real-reason",
+         "links": [
+             "https://parallelprogrammer.substack.com/p/why-we-need-simd-the-real-reason"
+         ],
+         "published": "Mon, 06 Oct 2025 03:10:13 +0000",
+         "publishedParsed": "2025-10-06T03:10:13Z"
+     },
+     {
+         "title": "OpenAI, Nvidia fuel $1T AI market with web of circular deals",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45521629\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals",
+         "links": [
+             "https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals"
+         ],
+         "published": "Wed, 08 Oct 2025 23:04:32 +0000",
+         "publishedParsed": "2025-10-08T23:04:32Z"
+     },
+     {
          "title": "Show HN: Recall: Give Claude memory with Redis-backed persistent context",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45516584\"\u003eComments\u003c/a\u003e",
          "link": "https://www.npmjs.com/package/@joseairosa/recall",
@@ -148,36 +188,6 @@
          ],
          "published": "Wed, 08 Oct 2025 14:28:06 +0000",
          "publishedParsed": "2025-10-08T14:28:06Z"
-     },
-     {
-         "title": "After 2 decades of tinkering, MAME cracks the Hyper Neo Geo 64",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45516968\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/",
-         "links": [
-             "https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/"
-         ],
-         "published": "Wed, 08 Oct 2025 15:01:38 +0000",
-         "publishedParsed": "2025-10-08T15:01:38Z"
-     },
-     {
-         "title": "The Fourth Quadrant of Knowledge",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45490538\"\u003eComments\u003c/a\u003e",
-         "link": "https://lyonhe.art/the-fourth-quadrant-of-knowledge/",
-         "links": [
-             "https://lyonhe.art/the-fourth-quadrant-of-knowledge/"
-         ],
-         "published": "Mon, 06 Oct 2025 12:16:13 +0000",
-         "publishedParsed": "2025-10-06T12:16:13Z"
-     },
-     {
-         "title": "Now open for building: Introducing Gemini CLI extensions",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45516426\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.google/technology/developers/gemini-cli-extensions/",
-         "links": [
-             "https://blog.google/technology/developers/gemini-cli-extensions/"
-         ],
-         "published": "Wed, 08 Oct 2025 14:13:30 +0000",
-         "publishedParsed": "2025-10-08T14:13:30Z"
      },
      {
          "title": "A macOS terminal command that tells you if your USB-C cable is bad",
@@ -190,6 +200,16 @@
          "publishedParsed": "2025-10-06T09:06:28Z"
      },
      {
+         "title": "Tonight's Restaurant Dinner Fell Off the Sysco Truck",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45522868\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.thenation.com/article/society/restaurant-consolidation-loss-local-identity/",
+         "links": [
+             "https://www.thenation.com/article/society/restaurant-consolidation-loss-local-identity/"
+         ],
+         "published": "Thu, 09 Oct 2025 02:29:08 +0000",
+         "publishedParsed": "2025-10-09T02:29:08Z"
+     },
+     {
          "title": "Show HN: FleetCode – Open-source UI for running multiple coding agents",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45518861\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/built-by-as/FleetCode",
@@ -200,34 +220,34 @@
          "publishedParsed": "2025-10-08T18:00:34Z"
      },
      {
-         "title": "Winter 2025/2026 weather outlook",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45521836\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.severe-weather.eu/long-range-2/winter-2025-2026-outlook-colder-season-forecast-for-united-states-canada-europe-fa/",
+         "title": "After 2 decades of tinkering, MAME cracks the Hyper Neo Geo 64",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45516968\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/",
          "links": [
-             "https://www.severe-weather.eu/long-range-2/winter-2025-2026-outlook-colder-season-forecast-for-united-states-canada-europe-fa/"
+             "https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/"
          ],
-         "published": "Wed, 08 Oct 2025 23:35:15 +0000",
-         "publishedParsed": "2025-10-08T23:35:15Z"
+         "published": "Wed, 08 Oct 2025 15:01:38 +0000",
+         "publishedParsed": "2025-10-08T15:01:38Z"
      },
      {
-         "title": "Vectrex Mini",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45516690\"\u003eComments\u003c/a\u003e",
-         "link": "https://vectrex.com/vectrex-mini-details/",
+         "title": "Now open for building: Introducing Gemini CLI extensions",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45516426\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.google/technology/developers/gemini-cli-extensions/",
          "links": [
-             "https://vectrex.com/vectrex-mini-details/"
+             "https://blog.google/technology/developers/gemini-cli-extensions/"
          ],
-         "published": "Wed, 08 Oct 2025 14:38:23 +0000",
-         "publishedParsed": "2025-10-08T14:38:23Z"
+         "published": "Wed, 08 Oct 2025 14:13:30 +0000",
+         "publishedParsed": "2025-10-08T14:13:30Z"
      },
      {
-         "title": "Show HN: HyprMCP – Open-Source Analytics, Logs and Auth Platform for MCP Servers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45521788\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/hyprmcp/jetski",
+         "title": "The agony and ecstasy of restoring a Fra Angelico masterpiece",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45485705\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ft.com/content/87d4dcfe-f66a-4aad-bba9-394e9fc77c1d",
          "links": [
-             "https://github.com/hyprmcp/jetski"
+             "https://www.ft.com/content/87d4dcfe-f66a-4aad-bba9-394e9fc77c1d"
          ],
-         "published": "Wed, 08 Oct 2025 23:27:23 +0000",
-         "publishedParsed": "2025-10-08T23:27:23Z"
+         "published": "Sun, 05 Oct 2025 22:06:33 +0000",
+         "publishedParsed": "2025-10-05T22:06:33Z"
      },
      {
          "title": "Memory access is O(N^[1/3])",
@@ -240,43 +260,13 @@
          "publishedParsed": "2025-10-05T20:34:28Z"
      },
      {
-         "title": "Discord says 70k users may have had their government IDs leaked in breach",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45521738\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach",
+         "title": "Vectrex Mini",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45516690\"\u003eComments\u003c/a\u003e",
+         "link": "https://vectrex.com/vectrex-mini-details/",
          "links": [
-             "https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach"
+             "https://vectrex.com/vectrex-mini-details/"
          ],
-         "published": "Wed, 08 Oct 2025 23:20:13 +0000",
-         "publishedParsed": "2025-10-08T23:20:13Z"
-     },
-     {
-         "title": "Ortega hypothesis",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45517674\"\u003eComments\u003c/a\u003e",
-         "link": "https://en.wikipedia.org/wiki/Ortega_hypothesis",
-         "links": [
-             "https://en.wikipedia.org/wiki/Ortega_hypothesis"
-         ],
-         "published": "Wed, 08 Oct 2025 16:06:21 +0000",
-         "publishedParsed": "2025-10-08T16:06:21Z"
-     },
-     {
-         "title": "X-ray scans reveal the hidden risks of cheap batteries",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45475556\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theverge.com/news/784966/lumafield-x-ray-ct-scan-lithium-ion-battery-risks-manufacturing-defect",
-         "links": [
-             "https://www.theverge.com/news/784966/lumafield-x-ray-ct-scan-lithium-ion-battery-risks-manufacturing-defect"
-         ],
-         "published": "Sat, 04 Oct 2025 18:37:31 +0000",
-         "publishedParsed": "2025-10-04T18:37:31Z"
-     },
-     {
-         "title": "Svelte’s characteristics that likely contribute most to improved performance",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45519915\"\u003eComments\u003c/a\u003e",
-         "link": "https://chuniversiteit.nl/papers/svelte-is-fast",
-         "links": [
-             "https://chuniversiteit.nl/papers/svelte-is-fast"
-         ],
-         "published": "Wed, 08 Oct 2025 19:54:02 +0000",
-         "publishedParsed": "2025-10-08T19:54:02Z"
+         "published": "Wed, 08 Oct 2025 14:38:23 +0000",
+         "publishedParsed": "2025-10-08T14:38:23Z"
      }
  ]
