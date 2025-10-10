@@ -1,5 +1,15 @@
 [
      {
+         "title": "Reasoning LLMs are wandering solution explorers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45535425\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2505.20296",
+         "links": [
+             "https://arxiv.org/abs/2505.20296"
+         ],
+         "published": "Fri, 10 Oct 2025 04:40:26 +0000",
+         "publishedParsed": "2025-10-10T04:40:26Z"
+     },
+     {
          "title": "A small number of samples can poison LLMs of any size",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45529587\"\u003eComments\u003c/a\u003e",
          "link": "https://www.anthropic.com/research/small-samples-poison",
@@ -8,6 +18,16 @@
          ],
          "published": "Thu, 09 Oct 2025 16:04:04 +0000",
          "publishedParsed": "2025-10-09T16:04:04Z"
+     },
+     {
+         "title": "My approach to building large technical projects (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45535202\"\u003eComments\u003c/a\u003e",
+         "link": "https://mitchellh.com/writing/building-large-technical-projects",
+         "links": [
+             "https://mitchellh.com/writing/building-large-technical-projects"
+         ],
+         "published": "Fri, 10 Oct 2025 03:45:29 +0000",
+         "publishedParsed": "2025-10-10T03:45:29Z"
      },
      {
          "title": "Python 3.14 is here. How fast is it?",
@@ -20,6 +40,26 @@
          "publishedParsed": "2025-10-09T07:40:42Z"
      },
      {
+         "title": "The RubyGems \"Security Incident\"",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45535149\"\u003eComments\u003c/a\u003e",
+         "link": "https://andre.arko.net/2025/10/09/the-rubygems-security-incident/",
+         "links": [
+             "https://andre.arko.net/2025/10/09/the-rubygems-security-incident/"
+         ],
+         "published": "Fri, 10 Oct 2025 03:30:24 +0000",
+         "publishedParsed": "2025-10-10T03:30:24Z"
+     },
+     {
+         "title": "Love C, Hate C: Web Framework Memory Problems",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45535183\"\u003eComments\u003c/a\u003e",
+         "link": "https://alew.is/lava.html",
+         "links": [
+             "https://alew.is/lava.html"
+         ],
+         "published": "Fri, 10 Oct 2025 03:39:57 +0000",
+         "publishedParsed": "2025-10-10T03:39:57Z"
+     },
+     {
          "title": "A beginner's guide to deploying LLMs with AMD on Windows using PyTorch",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45491057\"\u003eComments\u003c/a\u003e",
          "link": "https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/",
@@ -28,36 +68,6 @@
          ],
          "published": "Mon, 06 Oct 2025 13:15:00 +0000",
          "publishedParsed": "2025-10-06T13:15:00Z"
-     },
-     {
-         "title": "Hashimoto's approach to building large technical projects",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45535202\"\u003eComments\u003c/a\u003e",
-         "link": "https://mitchellh.com/writing/building-large-technical-projects",
-         "links": [
-             "https://mitchellh.com/writing/building-large-technical-projects"
-         ],
-         "published": "Fri, 10 Oct 2025 03:45:29 +0000",
-         "publishedParsed": "2025-10-10T03:45:29Z"
-     },
-     {
-         "title": "A built-in 'off switch' to stop persistent pain",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45532685\"\u003eComments\u003c/a\u003e",
-         "link": "https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain",
-         "links": [
-             "https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain"
-         ],
-         "published": "Thu, 09 Oct 2025 20:27:39 +0000",
-         "publishedParsed": "2025-10-09T20:27:39Z"
-     },
-     {
-         "title": "Show HN: Open source, logical multi-master PostgreSQL replication",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45533870\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/pgEdge/spock",
-         "links": [
-             "https://github.com/pgEdge/spock"
-         ],
-         "published": "Thu, 09 Oct 2025 22:53:39 +0000",
-         "publishedParsed": "2025-10-09T22:53:39Z"
      },
      {
          "title": "My first contribution to Linux",
@@ -70,14 +80,24 @@
          "publishedParsed": "2025-10-06T12:31:32Z"
      },
      {
-         "title": "How to write in Cuneiform",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45533902\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html",
+         "title": "ScribeOCR – Web interface for recognizing text, OCR, \u0026 creating digitized docs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45489881\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/scribeocr/scribeocr",
          "links": [
-             "https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html"
+             "https://github.com/scribeocr/scribeocr"
          ],
-         "published": "Thu, 09 Oct 2025 22:58:31 +0000",
-         "publishedParsed": "2025-10-09T22:58:31Z"
+         "published": "Mon, 06 Oct 2025 10:39:50 +0000",
+         "publishedParsed": "2025-10-06T10:39:50Z"
+     },
+     {
+         "title": "A built-in 'off switch' to stop persistent pain",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45532685\"\u003eComments\u003c/a\u003e",
+         "link": "https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain",
+         "links": [
+             "https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain"
+         ],
+         "published": "Thu, 09 Oct 2025 20:27:39 +0000",
+         "publishedParsed": "2025-10-09T20:27:39Z"
      },
      {
          "title": "Show HN: I've built a tiny hand-held keyboard",
@@ -100,16 +120,6 @@
          "publishedParsed": "2025-10-09T17:16:28Z"
      },
      {
-         "title": "Subway Builder: A realistic subway simulation game",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45530744\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.subwaybuilder.com/",
-         "links": [
-             "https://www.subwaybuilder.com/"
-         ],
-         "published": "Thu, 09 Oct 2025 17:38:29 +0000",
-         "publishedParsed": "2025-10-09T17:38:29Z"
-     },
-     {
          "title": "Figure 03, our 3rd generation humanoid robot",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45527402\"\u003eComments\u003c/a\u003e",
          "link": "https://www.figure.ai/news/introducing-figure-03",
@@ -120,34 +130,44 @@
          "publishedParsed": "2025-10-09T13:27:14Z"
      },
      {
-         "title": "ScribeOCR – Web interface for recognizing text, OCR, \u0026 creating digitized docs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45489881\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/scribeocr/scribeocr",
+         "title": "Subway Builder: A realistic subway simulation game",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45530744\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.subwaybuilder.com/",
          "links": [
-             "https://github.com/scribeocr/scribeocr"
+             "https://www.subwaybuilder.com/"
          ],
-         "published": "Mon, 06 Oct 2025 10:39:50 +0000",
-         "publishedParsed": "2025-10-06T10:39:50Z"
+         "published": "Thu, 09 Oct 2025 17:38:29 +0000",
+         "publishedParsed": "2025-10-09T17:38:29Z"
      },
      {
-         "title": "Intent Weaving for AI Coding Agents",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45534880\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.autohand.ai/updates/intent-weaving",
+         "title": "How to write in Cuneiform",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45533902\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html",
          "links": [
-             "https://www.autohand.ai/updates/intent-weaving"
+             "https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html"
          ],
-         "published": "Fri, 10 Oct 2025 02:21:11 +0000",
-         "publishedParsed": "2025-10-10T02:21:11Z"
+         "published": "Thu, 09 Oct 2025 22:58:31 +0000",
+         "publishedParsed": "2025-10-09T22:58:31Z"
      },
      {
-         "title": "The Burrows-Wheeler Transform",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45532352\"\u003eComments\u003c/a\u003e",
-         "link": "https://sandbox.bio/concepts/bwt",
+         "title": "Show HN: Open source, logical multi-master PostgreSQL replication",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45533870\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/pgEdge/spock",
          "links": [
-             "https://sandbox.bio/concepts/bwt"
+             "https://github.com/pgEdge/spock"
          ],
-         "published": "Thu, 09 Oct 2025 20:00:31 +0000",
-         "publishedParsed": "2025-10-09T20:00:31Z"
+         "published": "Thu, 09 Oct 2025 22:53:39 +0000",
+         "publishedParsed": "2025-10-09T22:53:39Z"
+     },
+     {
+         "title": "The product of the railways is the timetable",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45492809\"\u003eComments\u003c/a\u003e",
+         "link": "https://springbett.substack.com/p/the-product-of-the-railways-is-the",
+         "links": [
+             "https://springbett.substack.com/p/the-product-of-the-railways-is-the"
+         ],
+         "published": "Mon, 06 Oct 2025 16:02:44 +0000",
+         "publishedParsed": "2025-10-06T16:02:44Z"
      },
      {
          "title": "Examples Are the Best Documentation",
@@ -160,6 +180,16 @@
          "publishedParsed": "2025-10-09T19:34:36Z"
      },
      {
+         "title": "Embracing the parallel coding agent lifestyle",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45489884\"\u003eComments\u003c/a\u003e",
+         "link": "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/",
+         "links": [
+             "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/"
+         ],
+         "published": "Mon, 06 Oct 2025 10:40:28 +0000",
+         "publishedParsed": "2025-10-06T10:40:28Z"
+     },
+     {
          "title": "Hacker News Live Feed",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45531367\"\u003eComments\u003c/a\u003e",
          "link": "https://jerbear2008.github.io/hn-live/",
@@ -170,14 +200,14 @@
          "publishedParsed": "2025-10-09T18:33:17Z"
      },
      {
-         "title": "Embracing the parallel coding agent lifestyle",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45489884\"\u003eComments\u003c/a\u003e",
-         "link": "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/",
+         "title": "The Burrows-Wheeler Transform",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45532352\"\u003eComments\u003c/a\u003e",
+         "link": "https://sandbox.bio/concepts/bwt",
          "links": [
-             "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/"
+             "https://sandbox.bio/concepts/bwt"
          ],
-         "published": "Mon, 06 Oct 2025 10:40:28 +0000",
-         "publishedParsed": "2025-10-06T10:40:28Z"
+         "published": "Thu, 09 Oct 2025 20:00:31 +0000",
+         "publishedParsed": "2025-10-09T20:00:31Z"
      },
      {
          "title": "Show HN: I built a web framework in C",
@@ -190,24 +220,34 @@
          "publishedParsed": "2025-10-09T12:45:28Z"
      },
      {
-         "title": "The Real Reason Endurance Sank",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45489813\"\u003eComments\u003c/a\u003e",
-         "link": "https://arstechnica.com/science/2025/10/heres-the-real-reason-endurance-sank/",
+         "title": "Managing Encrypted Filesystems with dirlock",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45535082\"\u003eComments\u003c/a\u003e",
+         "link": "https://lwn.net/Articles/1038859/",
          "links": [
-             "https://arstechnica.com/science/2025/10/heres-the-real-reason-endurance-sank/"
+             "https://lwn.net/Articles/1038859/"
          ],
-         "published": "Mon, 06 Oct 2025 10:28:30 +0000",
-         "publishedParsed": "2025-10-06T10:28:30Z"
+         "published": "Fri, 10 Oct 2025 03:12:44 +0000",
+         "publishedParsed": "2025-10-10T03:12:44Z"
      },
      {
-         "title": "Finding a VS Code Memory Leak",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45532680\"\u003eComments\u003c/a\u003e",
-         "link": "https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/",
+         "title": "The fight between doctors and insurance companies over 'downcoding'",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45526754\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nbcnews.com/health/health-care/guilty-proven-innocent-fight-doctors-insurance-companies-downcoding-rcna230714",
          "links": [
-             "https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/"
+             "https://www.nbcnews.com/health/health-care/guilty-proven-innocent-fight-doctors-insurance-companies-downcoding-rcna230714"
          ],
-         "published": "Thu, 09 Oct 2025 20:27:28 +0000",
-         "publishedParsed": "2025-10-09T20:27:28Z"
+         "published": "Thu, 09 Oct 2025 12:36:05 +0000",
+         "publishedParsed": "2025-10-09T12:36:05Z"
+     },
+     {
+         "title": "Open-Source Agentic AI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45534922\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/AFK-surf/open-agent",
+         "links": [
+             "https://github.com/AFK-surf/open-agent"
+         ],
+         "published": "Fri, 10 Oct 2025 02:30:58 +0000",
+         "publishedParsed": "2025-10-10T02:30:58Z"
      },
      {
          "title": "ESP32 and Termux",
@@ -220,6 +260,16 @@
          "publishedParsed": "2025-10-09T16:56:52Z"
      },
      {
+         "title": "Vexing Exceptions",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45535014\"\u003eComments\u003c/a\u003e",
+         "link": "https://ericlippert.com/2008/09/10/vexing-exceptions/",
+         "links": [
+             "https://ericlippert.com/2008/09/10/vexing-exceptions/"
+         ],
+         "published": "Fri, 10 Oct 2025 02:54:31 +0000",
+         "publishedParsed": "2025-10-10T02:54:31Z"
+     },
+     {
          "title": "Neutts-air – Open-source, on device TTS",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45489311\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/neuphonic/neutts-air",
@@ -230,14 +280,14 @@
          "publishedParsed": "2025-10-06T09:06:12Z"
      },
      {
-         "title": "Show HN: I wrote a full text search engine in Go",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45530388\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/wizenheimer/blaze",
+         "title": "Finding a VS Code Memory Leak",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45532680\"\u003eComments\u003c/a\u003e",
+         "link": "https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/",
          "links": [
-             "https://github.com/wizenheimer/blaze"
+             "https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/"
          ],
-         "published": "Thu, 09 Oct 2025 17:09:22 +0000",
-         "publishedParsed": "2025-10-09T17:09:22Z"
+         "published": "Thu, 09 Oct 2025 20:27:28 +0000",
+         "publishedParsed": "2025-10-09T20:27:28Z"
      },
      {
          "title": "Using a laptop as an HDMI monitor for an SBC",
@@ -248,25 +298,5 @@
          ],
          "published": "Thu, 09 Oct 2025 13:36:01 +0000",
          "publishedParsed": "2025-10-09T13:36:01Z"
-     },
-     {
-         "title": "Rubygems.org AWS Root Access Event – September 2025",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45530832\"\u003eComments\u003c/a\u003e",
-         "link": "https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/",
-         "links": [
-             "https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/"
-         ],
-         "published": "Thu, 09 Oct 2025 17:48:23 +0000",
-         "publishedParsed": "2025-10-09T17:48:23Z"
-     },
-     {
-         "title": "Show HN: Turn your OpenAPI spec into negative tests",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45490591\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/dochia-dev/dochia-cli",
-         "links": [
-             "https://github.com/dochia-dev/dochia-cli"
-         ],
-         "published": "Mon, 06 Oct 2025 12:25:11 +0000",
-         "publishedParsed": "2025-10-06T12:25:11Z"
      }
  ]
