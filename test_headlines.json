@@ -10,6 +10,26 @@
          "publishedParsed": "2025-10-13T12:46:52Z"
      },
      {
+         "title": "Environment variables are a legacy mess: Let's dive deep into them",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45570537\"\u003eComments\u003c/a\u003e",
+         "link": "https://allvpv.org/haotic-journey-through-envvars/",
+         "links": [
+             "https://allvpv.org/haotic-journey-through-envvars/"
+         ],
+         "published": "Mon, 13 Oct 2025 16:49:15 +0000",
+         "publishedParsed": "2025-10-13T16:49:15Z"
+     },
+     {
+         "title": "JSON River – Parse JSON incrementally as it streams in",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45518033\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/rictic/jsonriver",
+         "links": [
+             "https://github.com/rictic/jsonriver"
+         ],
+         "published": "Wed, 08 Oct 2025 16:38:43 +0000",
+         "publishedParsed": "2025-10-08T16:38:43Z"
+     },
+     {
          "title": "Spotlight on pdfly, the Swiss Army knife for PDF files",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45566139\"\u003eComments\u003c/a\u003e",
          "link": "https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html",
@@ -18,6 +38,16 @@
          ],
          "published": "Mon, 13 Oct 2025 08:36:33 +0000",
          "publishedParsed": "2025-10-13T08:36:33Z"
+     },
+     {
+         "title": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2025",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45567153\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nobelprize.org/prizes/economic-sciences/2025/summary/",
+         "links": [
+             "https://www.nobelprize.org/prizes/economic-sciences/2025/summary/"
+         ],
+         "published": "Mon, 13 Oct 2025 11:23:20 +0000",
+         "publishedParsed": "2025-10-13T11:23:20Z"
      },
      {
          "title": "More random home lab things I've recently learned",
@@ -30,14 +60,24 @@
          "publishedParsed": "2025-10-06T13:02:38Z"
      },
      {
-         "title": "Ancient Patagonian hunter-gatherers took care of their injured and disabled",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45502322\"\u003eComments\u003c/a\u003e",
-         "link": "https://phys.org/news/2025-10-ancient-patagonian-hunter-disabled.html",
+         "title": "Software update bricks some Jeep 4xe hybrids over the weekend",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45568700\"\u003eComments\u003c/a\u003e",
+         "link": "https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/",
          "links": [
-             "https://phys.org/news/2025-10-ancient-patagonian-hunter-disabled.html"
+             "https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/"
          ],
-         "published": "Tue, 07 Oct 2025 12:34:47 +0000",
-         "publishedParsed": "2025-10-07T12:34:47Z"
+         "published": "Mon, 13 Oct 2025 14:28:25 +0000",
+         "publishedParsed": "2025-10-13T14:28:25Z"
+     },
+     {
+         "title": "American solar farms",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45566638\"\u003eComments\u003c/a\u003e",
+         "link": "https://tech.marksblogg.com/american-solar-farms.html",
+         "links": [
+             "https://tech.marksblogg.com/american-solar-farms.html"
+         ],
+         "published": "Mon, 13 Oct 2025 10:02:40 +0000",
+         "publishedParsed": "2025-10-13T10:02:40Z"
      },
      {
          "title": "Matrices can be your Friends",
@@ -60,56 +100,6 @@
          "publishedParsed": "2025-10-07T15:44:54Z"
      },
      {
-         "title": "Software update bricks some Jeep 4xe hybrids over the weekend",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45568700\"\u003eComments\u003c/a\u003e",
-         "link": "https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/",
-         "links": [
-             "https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/"
-         ],
-         "published": "Mon, 13 Oct 2025 14:28:25 +0000",
-         "publishedParsed": "2025-10-13T14:28:25Z"
-     },
-     {
-         "title": "Wireguard FPGA",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45559857\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/chili-chips-ba/wireguard-fpga",
-         "links": [
-             "https://github.com/chili-chips-ba/wireguard-fpga"
-         ],
-         "published": "Sun, 12 Oct 2025 17:12:00 +0000",
-         "publishedParsed": "2025-10-12T17:12:00Z"
-     },
-     {
-         "title": "Some graphene firms have reaped its potential but others are struggling",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45566253\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true",
-         "links": [
-             "https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true"
-         ],
-         "published": "Mon, 13 Oct 2025 08:53:17 +0000",
-         "publishedParsed": "2025-10-13T08:53:17Z"
-     },
-     {
-         "title": "LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45566123\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2510.03761",
-         "links": [
-             "https://arxiv.org/abs/2510.03761"
-         ],
-         "published": "Mon, 13 Oct 2025 08:33:34 +0000",
-         "publishedParsed": "2025-10-13T08:33:34Z"
-     },
-     {
-         "title": "Clockss: Digital preservation services run by academic publishers and libraries",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45513313\"\u003eComments\u003c/a\u003e",
-         "link": "https://clockss.org/",
-         "links": [
-             "https://clockss.org/"
-         ],
-         "published": "Wed, 08 Oct 2025 07:53:29 +0000",
-         "publishedParsed": "2025-10-08T07:53:29Z"
-     },
-     {
          "title": "MPTCP for Linux",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45566441\"\u003eComments\u003c/a\u003e",
          "link": "https://www.mptcp.dev/",
@@ -120,94 +110,44 @@
          "publishedParsed": "2025-10-13T09:25:45Z"
      },
      {
-         "title": "Putting a dumb weather station on the internet",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45507444\"\u003eComments\u003c/a\u003e",
-         "link": "https://colincogle.name/blog/byo-weather-station/",
+         "title": "NanoChat – The best ChatGPT that $100 can buy",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45569350\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/karpathy/nanochat",
          "links": [
-             "https://colincogle.name/blog/byo-weather-station/"
+             "https://github.com/karpathy/nanochat"
          ],
-         "published": "Tue, 07 Oct 2025 19:11:04 +0000",
-         "publishedParsed": "2025-10-07T19:11:04Z"
+         "published": "Mon, 13 Oct 2025 15:22:47 +0000",
+         "publishedParsed": "2025-10-13T15:22:47Z"
      },
      {
-         "title": "Modern Linux tools",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45566548\"\u003eComments\u003c/a\u003e",
-         "link": "https://ikrima.dev/dev-notes/linux/linux-modern-tools/",
+         "title": "A16Z-backed data firms Fivetran, dbt Labs to merge in all-stock deal",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45568842\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.reuters.com/business/a16z-backed-data-firms-fivetran-dbt-labs-merge-all-stock-deal-2025-10-13/",
          "links": [
-             "https://ikrima.dev/dev-notes/linux/linux-modern-tools/"
+             "https://www.reuters.com/business/a16z-backed-data-firms-fivetran-dbt-labs-merge-all-stock-deal-2025-10-13/"
          ],
-         "published": "Mon, 13 Oct 2025 09:44:28 +0000",
-         "publishedParsed": "2025-10-13T09:44:28Z"
+         "published": "Mon, 13 Oct 2025 14:42:19 +0000",
+         "publishedParsed": "2025-10-13T14:42:19Z"
      },
      {
-         "title": "MicroPythonOS – An Android-like OS for microcontrollers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45525804\"\u003eComments\u003c/a\u003e",
-         "link": "https://micropythonos.com",
+         "title": "Smartphones and being present",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45568613\"\u003eComments\u003c/a\u003e",
+         "link": "https://herman.bearblog.dev/being-present/",
          "links": [
-             "https://micropythonos.com"
+             "https://herman.bearblog.dev/being-present/"
          ],
-         "published": "Thu, 09 Oct 2025 10:35:40 +0000",
-         "publishedParsed": "2025-10-09T10:35:40Z"
+         "published": "Mon, 13 Oct 2025 14:20:33 +0000",
+         "publishedParsed": "2025-10-13T14:20:33Z"
      },
      {
-         "title": "Tauri binding for Python through Pyo3",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45512962\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/pytauri/pytauri",
+         "title": "Android's sideloading limits are its most anti-consumer move yet",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45569371\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/",
          "links": [
-             "https://github.com/pytauri/pytauri"
+             "https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/"
          ],
-         "published": "Wed, 08 Oct 2025 06:58:00 +0000",
-         "publishedParsed": "2025-10-08T06:58:00Z"
-     },
-     {
-         "title": "The Peach meme: On CRTs, pixels and signal quality (again)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45568555\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.datagubbe.se/crt2/",
-         "links": [
-             "https://www.datagubbe.se/crt2/"
-         ],
-         "published": "Mon, 13 Oct 2025 14:13:46 +0000",
-         "publishedParsed": "2025-10-13T14:13:46Z"
-     },
-     {
-         "title": "No Science, No Startups: The Innovation Engine We're Switching Off",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45567877\"\u003eComments\u003c/a\u003e",
-         "link": "https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/",
-         "links": [
-             "https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/"
-         ],
-         "published": "Mon, 13 Oct 2025 13:02:20 +0000",
-         "publishedParsed": "2025-10-13T13:02:20Z"
-     },
-     {
-         "title": "Ask HN: What are you working on? (October 2025)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45561428\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=45561428",
-         "links": [
-             "https://news.ycombinator.com/item?id=45561428"
-         ],
-         "published": "Sun, 12 Oct 2025 20:09:14 +0000",
-         "publishedParsed": "2025-10-12T20:09:14Z"
-     },
-     {
-         "title": "gsay: Fetch pronunciation of English vocabulary from Google",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45566532\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/pvonmoradi/gsay",
-         "links": [
-             "https://github.com/pvonmoradi/gsay"
-         ],
-         "published": "Mon, 13 Oct 2025 09:39:47 +0000",
-         "publishedParsed": "2025-10-13T09:39:47Z"
-     },
-     {
-         "title": "Show HN: Baby's first international landline",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45515978\"\u003eComments\u003c/a\u003e",
-         "link": "https://wip.tf/posts/telefonefix-building-babys-first-international-landline/",
-         "links": [
-             "https://wip.tf/posts/telefonefix-building-babys-first-international-landline/"
-         ],
-         "published": "Wed, 08 Oct 2025 13:31:35 +0000",
-         "publishedParsed": "2025-10-08T13:31:35Z"
+         "published": "Mon, 13 Oct 2025 15:24:08 +0000",
+         "publishedParsed": "2025-10-13T15:24:08Z"
      },
      {
          "title": "Two Paths to Memory Safety: CHERI and OMA",
@@ -220,73 +160,113 @@
          "publishedParsed": "2025-10-13T10:05:50Z"
      },
      {
-         "title": "Jeffrey Hudson the Court Dwarf of the English Queen Henrietta Maria of France",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45506397\"\u003eComments\u003c/a\u003e",
-         "link": "https://en.wikipedia.org/wiki/Jeffrey_Hudson",
+         "title": "LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45566123\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2510.03761",
          "links": [
-             "https://en.wikipedia.org/wiki/Jeffrey_Hudson"
+             "https://arxiv.org/abs/2510.03761"
          ],
-         "published": "Tue, 07 Oct 2025 17:51:46 +0000",
-         "publishedParsed": "2025-10-07T17:51:46Z"
+         "published": "Mon, 13 Oct 2025 08:33:34 +0000",
+         "publishedParsed": "2025-10-13T08:33:34Z"
      },
      {
-         "title": "Emacs agent-shell (powered by ACP)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45561672\"\u003eComments\u003c/a\u003e",
-         "link": "https://xenodium.com/introducing-agent-shell",
+         "title": "Putting a dumb weather station on the internet",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45507444\"\u003eComments\u003c/a\u003e",
+         "link": "https://colincogle.name/blog/byo-weather-station/",
          "links": [
-             "https://xenodium.com/introducing-agent-shell"
+             "https://colincogle.name/blog/byo-weather-station/"
          ],
-         "published": "Sun, 12 Oct 2025 20:37:16 +0000",
-         "publishedParsed": "2025-10-12T20:37:16Z"
+         "published": "Tue, 07 Oct 2025 19:11:04 +0000",
+         "publishedParsed": "2025-10-07T19:11:04Z"
      },
      {
-         "title": "HTTP3 Explained",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45565646\"\u003eComments\u003c/a\u003e",
-         "link": "https://http3-explained.haxx.se",
+         "title": "Some graphene firms have reaped its potential but others are struggling",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45566253\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true",
          "links": [
-             "https://http3-explained.haxx.se"
+             "https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true"
          ],
-         "published": "Mon, 13 Oct 2025 07:15:28 +0000",
-         "publishedParsed": "2025-10-13T07:15:28Z"
+         "published": "Mon, 13 Oct 2025 08:53:17 +0000",
+         "publishedParsed": "2025-10-13T08:53:17Z"
      },
      {
-         "title": "Bird photographer of the year gives a lesson in planning and patience",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45487232\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.thisiscolossal.com/2025/09/2025-bird-photographer-of-the-year-contest/",
+         "title": "Clockss: Digital preservation services run by academic publishers and libraries",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45513313\"\u003eComments\u003c/a\u003e",
+         "link": "https://clockss.org/",
          "links": [
-             "https://www.thisiscolossal.com/2025/09/2025-bird-photographer-of-the-year-contest/"
+             "https://clockss.org/"
          ],
-         "published": "Mon, 06 Oct 2025 02:53:17 +0000",
-         "publishedParsed": "2025-10-06T02:53:17Z"
+         "published": "Wed, 08 Oct 2025 07:53:29 +0000",
+         "publishedParsed": "2025-10-08T07:53:29Z"
      },
      {
-         "title": "Three ways formally verified code can go wrong in practice",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45555727\"\u003eComments\u003c/a\u003e",
-         "link": "https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/",
+         "title": "Making regular GPS ultra-precise",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45502503\"\u003eComments\u003c/a\u003e",
+         "link": "https://norwegianscitechnews.com/2025/10/making-regular-gps-ultra-precise/",
          "links": [
-             "https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/"
+             "https://norwegianscitechnews.com/2025/10/making-regular-gps-ultra-precise/"
          ],
-         "published": "Sun, 12 Oct 2025 06:17:52 +0000",
-         "publishedParsed": "2025-10-12T06:17:52Z"
+         "published": "Tue, 07 Oct 2025 12:54:27 +0000",
+         "publishedParsed": "2025-10-07T12:54:27Z"
      },
      {
-         "title": "A years-long Turkish alphabet bug in the Kotlin compiler",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45559767\"\u003eComments\u003c/a\u003e",
-         "link": "https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237",
+         "title": "MicroPythonOS – An Android-like OS for microcontrollers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45525804\"\u003eComments\u003c/a\u003e",
+         "link": "https://micropythonos.com",
          "links": [
-             "https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237"
+             "https://micropythonos.com"
          ],
-         "published": "Sun, 12 Oct 2025 17:02:09 +0000",
-         "publishedParsed": "2025-10-12T17:02:09Z"
+         "published": "Thu, 09 Oct 2025 10:35:40 +0000",
+         "publishedParsed": "2025-10-09T10:35:40Z"
      },
      {
-         "title": "Show HN: Aidlab – Health Data for Devs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45549392\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=45549392",
+         "title": "Ancient Patagonian hunter-gatherers took care of their injured and disabled",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45502322\"\u003eComments\u003c/a\u003e",
+         "link": "https://phys.org/news/2025-10-ancient-patagonian-hunter-disabled.html",
          "links": [
-             "https://news.ycombinator.com/item?id=45549392"
+             "https://phys.org/news/2025-10-ancient-patagonian-hunter-disabled.html"
          ],
-         "published": "Sat, 11 Oct 2025 14:24:35 +0000",
-         "publishedParsed": "2025-10-11T14:24:35Z"
+         "published": "Tue, 07 Oct 2025 12:34:47 +0000",
+         "publishedParsed": "2025-10-07T12:34:47Z"
+     },
+     {
+         "title": "Tauri binding for Python through Pyo3",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45512962\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/pytauri/pytauri",
+         "links": [
+             "https://github.com/pytauri/pytauri"
+         ],
+         "published": "Wed, 08 Oct 2025 06:58:00 +0000",
+         "publishedParsed": "2025-10-08T06:58:00Z"
+     },
+     {
+         "title": "Ask HN: What are you working on? (October 2025)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45561428\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=45561428",
+         "links": [
+             "https://news.ycombinator.com/item?id=45561428"
+         ],
+         "published": "Sun, 12 Oct 2025 20:09:14 +0000",
+         "publishedParsed": "2025-10-12T20:09:14Z"
+     },
+     {
+         "title": "Vodafone admits 'major outage' as more than 130,000 report problems",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45569108\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bbc.co.uk/news/articles/c5yldldx659o",
+         "links": [
+             "https://www.bbc.co.uk/news/articles/c5yldldx659o"
+         ],
+         "published": "Mon, 13 Oct 2025 15:03:53 +0000",
+         "publishedParsed": "2025-10-13T15:03:53Z"
+     },
+     {
+         "title": "$19B Wiped Out in Crypto's Biggest Liquidation",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45570299\"\u003eComments\u003c/a\u003e",
+         "link": "https://decrypt.co/344038/morning-minute-19b-wiped-out-in-cryptos-biggest-liquidation-ever",
+         "links": [
+             "https://decrypt.co/344038/morning-minute-19b-wiped-out-in-cryptos-biggest-liquidation-ever"
+         ],
+         "published": "Mon, 13 Oct 2025 16:31:41 +0000",
+         "publishedParsed": "2025-10-13T16:31:41Z"
      }
  ]
