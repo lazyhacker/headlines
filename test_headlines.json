@@ -20,14 +20,14 @@
          "publishedParsed": "2025-10-15T06:05:51Z"
      },
      {
-         "title": "A modern approach to preventing CSRF in Go",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45581288\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.alexedwards.net/blog/preventing-csrf-in-go",
+         "title": "Show HN: Firm, a text-based work management system",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45588959\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/42futures/firm",
          "links": [
-             "https://www.alexedwards.net/blog/preventing-csrf-in-go"
+             "https://github.com/42futures/firm"
          ],
-         "published": "Tue, 14 Oct 2025 15:34:51 +0000",
-         "publishedParsed": "2025-10-14T15:34:51Z"
+         "published": "Wed, 15 Oct 2025 07:01:53 +0000",
+         "publishedParsed": "2025-10-15T07:01:53Z"
      },
      {
          "title": "Beliefs that are true for regular software but false when applied to AI",
@@ -40,16 +40,6 @@
          "publishedParsed": "2025-10-14T18:26:00Z"
      },
      {
-         "title": "I am a programmer, not a rubber-stamp that approves Copilot generated code",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45588283\"\u003eComments\u003c/a\u003e",
-         "link": "https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html",
-         "links": [
-             "https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html"
-         ],
-         "published": "Wed, 15 Oct 2025 05:09:44 +0000",
-         "publishedParsed": "2025-10-15T05:09:44Z"
-     },
-     {
          "title": "Nvidia DGX Spark: great hardware, early days for the ecosystem",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45586776\"\u003eComments\u003c/a\u003e",
          "link": "https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/",
@@ -58,6 +48,16 @@
          ],
          "published": "Wed, 15 Oct 2025 00:49:25 +0000",
          "publishedParsed": "2025-10-15T00:49:25Z"
+     },
+     {
+         "title": "A modern approach to preventing CSRF in Go",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45581288\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.alexedwards.net/blog/preventing-csrf-in-go",
+         "links": [
+             "https://www.alexedwards.net/blog/preventing-csrf-in-go"
+         ],
+         "published": "Tue, 14 Oct 2025 15:34:51 +0000",
+         "publishedParsed": "2025-10-14T15:34:51Z"
      },
      {
          "title": "Interviewing Intel's Chief Architect of x86 Cores",
@@ -90,16 +90,6 @@
          "publishedParsed": "2025-10-14T20:17:44Z"
      },
      {
-         "title": "Can we know whether a profiler is accurate?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45587289\"\u003eComments\u003c/a\u003e",
-         "link": "https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/",
-         "links": [
-             "https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/"
-         ],
-         "published": "Wed, 15 Oct 2025 02:04:26 +0000",
-         "publishedParsed": "2025-10-15T02:04:26Z"
-     },
-     {
          "title": "How AI hears accents: An audible visualization of accent clusters",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45581735\"\u003eComments\u003c/a\u003e",
          "link": "https://accent-explorer.boldvoice.com/",
@@ -120,34 +110,14 @@
          "publishedParsed": "2025-10-08T13:24:53Z"
      },
      {
-         "title": "SmolBSD – build your own minimal BSD system",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45582758\"\u003eComments\u003c/a\u003e",
-         "link": "https://smolbsd.org",
+         "title": "Updating Desktop Rust",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45555749\"\u003eComments\u003c/a\u003e",
+         "link": "https://tritium.legal/blog/update",
          "links": [
-             "https://smolbsd.org"
+             "https://tritium.legal/blog/update"
          ],
-         "published": "Tue, 14 Oct 2025 17:43:33 +0000",
-         "publishedParsed": "2025-10-14T17:43:33Z"
-     },
-     {
-         "title": "Printing Petscii Faster",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45544500\"\u003eComments\u003c/a\u003e",
-         "link": "https://retrogamecoders.com/printing-petscii-faster/",
-         "links": [
-             "https://retrogamecoders.com/printing-petscii-faster/"
-         ],
-         "published": "Fri, 10 Oct 2025 22:20:57 +0000",
-         "publishedParsed": "2025-10-10T22:20:57Z"
-     },
-     {
-         "title": "Python's splitlines does more than just newlines",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45520462\"\u003eComments\u003c/a\u003e",
-         "link": "https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/",
-         "links": [
-             "https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/"
-         ],
-         "published": "Wed, 08 Oct 2025 20:47:20 +0000",
-         "publishedParsed": "2025-10-08T20:47:20Z"
+         "published": "Sun, 12 Oct 2025 06:19:54 +0000",
+         "publishedParsed": "2025-10-12T06:19:54Z"
      },
      {
          "title": "A 12,000-year-old obelisk with a human face was found in Karahan Tepe",
@@ -160,16 +130,6 @@
          "publishedParsed": "2025-10-07T02:43:03Z"
      },
      {
-         "title": "Astronomers 'image' a mysterious dark object in the distant Universe",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45580699\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x",
-         "links": [
-             "https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x"
-         ],
-         "published": "Tue, 14 Oct 2025 14:45:02 +0000",
-         "publishedParsed": "2025-10-14T14:45:02Z"
-     },
-     {
          "title": "How to turn liquid glass into a solid interface",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45583787\"\u003eComments\u003c/a\u003e",
          "link": "https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/",
@@ -180,24 +140,54 @@
          "publishedParsed": "2025-10-14T19:27:41Z"
      },
      {
-         "title": "Show HN: Greenonion.ai – AI-Powered Design Assistant",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45500560\"\u003eComments\u003c/a\u003e",
-         "link": "https://exuberant-premise-723012.framer.app/",
+         "title": "Can we know whether a profiler is accurate?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45587289\"\u003eComments\u003c/a\u003e",
+         "link": "https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/",
          "links": [
-             "https://exuberant-premise-723012.framer.app/"
+             "https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/"
          ],
-         "published": "Tue, 07 Oct 2025 08:04:49 +0000",
-         "publishedParsed": "2025-10-07T08:04:49Z"
+         "published": "Wed, 15 Oct 2025 02:04:26 +0000",
+         "publishedParsed": "2025-10-15T02:04:26Z"
      },
      {
-         "title": "CSS for Styling a Markdown Post",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45504902\"\u003eComments\u003c/a\u003e",
-         "link": "https://webdev.bryanhogan.com/miscellaneous/styling-markdown/",
+         "title": "Astronomers 'image' a mysterious dark object in the distant Universe",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45580699\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x",
          "links": [
-             "https://webdev.bryanhogan.com/miscellaneous/styling-markdown/"
+             "https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x"
          ],
-         "published": "Tue, 07 Oct 2025 16:05:01 +0000",
-         "publishedParsed": "2025-10-07T16:05:01Z"
+         "published": "Tue, 14 Oct 2025 14:45:02 +0000",
+         "publishedParsed": "2025-10-14T14:45:02Z"
+     },
+     {
+         "title": "SmolBSD – build your own minimal BSD system",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45582758\"\u003eComments\u003c/a\u003e",
+         "link": "https://smolbsd.org",
+         "links": [
+             "https://smolbsd.org"
+         ],
+         "published": "Tue, 14 Oct 2025 17:43:33 +0000",
+         "publishedParsed": "2025-10-14T17:43:33Z"
+     },
+     {
+         "title": "Intel Announces Inference-Optimized Xe3P Graphics Card with 160GB VRAM",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45583243\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.phoronix.com/review/intel-crescent-island",
+         "links": [
+             "https://www.phoronix.com/review/intel-crescent-island"
+         ],
+         "published": "Tue, 14 Oct 2025 18:30:57 +0000",
+         "publishedParsed": "2025-10-14T18:30:57Z"
+     },
+     {
+         "title": "Python's splitlines does more than just newlines",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45520462\"\u003eComments\u003c/a\u003e",
+         "link": "https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/",
+         "links": [
+             "https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/"
+         ],
+         "published": "Wed, 08 Oct 2025 20:47:20 +0000",
+         "publishedParsed": "2025-10-08T20:47:20Z"
      },
      {
          "title": "A Early History of Algebraic Data Types",
@@ -210,34 +200,34 @@
          "publishedParsed": "2025-10-09T12:42:06Z"
      },
      {
-         "title": "Surveillance data challenges what we thought we knew about location tracking",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45584498\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.lighthousereports.com/investigation/surveillance-secrets/",
+         "title": "CSS for Styling a Markdown Post",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45504902\"\u003eComments\u003c/a\u003e",
+         "link": "https://webdev.bryanhogan.com/miscellaneous/styling-markdown/",
          "links": [
-             "https://www.lighthousereports.com/investigation/surveillance-secrets/"
+             "https://webdev.bryanhogan.com/miscellaneous/styling-markdown/"
          ],
-         "published": "Tue, 14 Oct 2025 20:36:01 +0000",
-         "publishedParsed": "2025-10-14T20:36:01Z"
+         "published": "Tue, 07 Oct 2025 16:05:01 +0000",
+         "publishedParsed": "2025-10-07T16:05:01Z"
      },
      {
-         "title": "GrapheneOS is ready to break free from Pixels",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45585869\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/",
+         "title": "You Can't Mock Reality: Testing a 3D Rendering Pipeline in Blender",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45528104\"\u003eComments\u003c/a\u003e",
+         "link": "https://medium.com/@egorich42/you-cant-mock-reality-testing-a-3d-rendering-pipeline-in-blender-9c5b93e0076e",
          "links": [
-             "https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/"
+             "https://medium.com/@egorich42/you-cant-mock-reality-testing-a-3d-rendering-pipeline-in-blender-9c5b93e0076e"
          ],
-         "published": "Tue, 14 Oct 2025 22:36:40 +0000",
-         "publishedParsed": "2025-10-14T22:36:40Z"
+         "published": "Thu, 09 Oct 2025 14:21:47 +0000",
+         "publishedParsed": "2025-10-09T14:21:47Z"
      },
      {
-         "title": "Disk Prices",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45587280\"\u003eComments\u003c/a\u003e",
-         "link": "https://diskprices.com/?locale=us",
+         "title": "Printing Petscii Faster",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45544500\"\u003eComments\u003c/a\u003e",
+         "link": "https://retrogamecoders.com/printing-petscii-faster/",
          "links": [
-             "https://diskprices.com/?locale=us"
+             "https://retrogamecoders.com/printing-petscii-faster/"
          ],
-         "published": "Wed, 15 Oct 2025 02:02:32 +0000",
-         "publishedParsed": "2025-10-15T02:02:32Z"
+         "published": "Fri, 10 Oct 2025 22:20:57 +0000",
+         "publishedParsed": "2025-10-10T22:20:57Z"
      },
      {
          "title": "Why Is SQLite Coded In C",
@@ -250,23 +240,23 @@
          "publishedParsed": "2025-10-14T20:32:32Z"
      },
      {
-         "title": "ADS-B Exposed",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45578383\"\u003eComments\u003c/a\u003e",
-         "link": "https://adsb.exposed/",
+         "title": "Just Talk to It – The No-Bs Way of Agentic Engineering",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45588689\"\u003eComments\u003c/a\u003e",
+         "link": "https://steipete.me/posts/just-talk-to-it",
          "links": [
-             "https://adsb.exposed/"
+             "https://steipete.me/posts/just-talk-to-it"
          ],
-         "published": "Tue, 14 Oct 2025 10:38:48 +0000",
-         "publishedParsed": "2025-10-14T10:38:48Z"
+         "published": "Wed, 15 Oct 2025 06:21:04 +0000",
+         "publishedParsed": "2025-10-15T06:21:04Z"
      },
      {
-         "title": "Beating the L1 cache with value speculation (2021)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45544235\"\u003eComments\u003c/a\u003e",
-         "link": "https://mazzo.li/posts/value-speculation.html",
+         "title": "GrapheneOS is ready to break free from Pixels",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45585869\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/",
          "links": [
-             "https://mazzo.li/posts/value-speculation.html"
+             "https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/"
          ],
-         "published": "Fri, 10 Oct 2025 21:54:43 +0000",
-         "publishedParsed": "2025-10-10T21:54:43Z"
+         "published": "Tue, 14 Oct 2025 22:36:40 +0000",
+         "publishedParsed": "2025-10-14T22:36:40Z"
      }
  ]
