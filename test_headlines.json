@@ -1,5 +1,15 @@
 [
      {
+         "title": "I Hate Acrobat",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45598776\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.vincentuden.xyz/blog/pdf-reader",
+         "links": [
+             "https://www.vincentuden.xyz/blog/pdf-reader"
+         ],
+         "published": "Wed, 15 Oct 2025 21:54:14 +0000",
+         "publishedParsed": "2025-10-15T21:54:14Z"
+     },
+     {
          "title": "Apple M5 chip",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45591799\"\u003eComments\u003c/a\u003e",
          "link": "https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/",
@@ -20,6 +30,16 @@
          "publishedParsed": "2025-10-15T16:55:06Z"
      },
      {
+         "title": "Next Steps for the Caddy Project Maintainership",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45598590\"\u003eComments\u003c/a\u003e",
+         "link": "https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076",
+         "links": [
+             "https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076"
+         ],
+         "published": "Wed, 15 Oct 2025 21:32:19 +0000",
+         "publishedParsed": "2025-10-15T21:32:19Z"
+     },
+     {
          "title": "I almost got hacked by a 'job interview'",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45591707\"\u003eComments\u003c/a\u003e",
          "link": "https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview",
@@ -28,6 +48,26 @@
          ],
          "published": "Wed, 15 Oct 2025 12:56:12 +0000",
          "publishedParsed": "2025-10-15T12:56:12Z"
+     },
+     {
+         "title": "Bringing NumPy's type-completeness score to nearly 90% – Pyrefly",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45501088\"\u003eComments\u003c/a\u003e",
+         "link": "https://pyrefly.org/blog/numpy-type-completeness/",
+         "links": [
+             "https://pyrefly.org/blog/numpy-type-completeness/"
+         ],
+         "published": "Tue, 07 Oct 2025 09:32:12 +0000",
+         "publishedParsed": "2025-10-07T09:32:12Z"
+     },
+     {
+         "title": "Are hard drives getting better?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45595724\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/",
+         "links": [
+             "https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/"
+         ],
+         "published": "Wed, 15 Oct 2025 17:18:13 +0000",
+         "publishedParsed": "2025-10-15T17:18:13Z"
      },
      {
          "title": "Pwning the Nix ecosystem",
@@ -50,16 +90,6 @@
          "publishedParsed": "2025-10-15T11:45:47Z"
      },
      {
-         "title": "F5 says hackers stole undisclosed BIG-IP flaws, source code",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45592271\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bleepingcomputer.com/news/security/f5-says-hackers-stole-undisclosed-big-ip-flaws-source-code/",
-         "links": [
-             "https://www.bleepingcomputer.com/news/security/f5-says-hackers-stole-undisclosed-big-ip-flaws-source-code/"
-         ],
-         "published": "Wed, 15 Oct 2025 13:33:27 +0000",
-         "publishedParsed": "2025-10-15T13:33:27Z"
-     },
-     {
          "title": "Monads are too powerful: The expressiveness spectrum",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45555426\"\u003eComments\u003c/a\u003e",
          "link": "https://chrispenner.ca/posts/expressiveness-spectrum",
@@ -68,16 +98,6 @@
          ],
          "published": "Sun, 12 Oct 2025 05:11:11 +0000",
          "publishedParsed": "2025-10-12T05:11:11Z"
-     },
-     {
-         "title": "C++26: range support for std:optional",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45536373\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.sandordargo.com/blog/2025/10/08/cpp26-range-support-for-std-optional",
-         "links": [
-             "https://www.sandordargo.com/blog/2025/10/08/cpp26-range-support-for-std-optional"
-         ],
-         "published": "Fri, 10 Oct 2025 07:58:31 +0000",
-         "publishedParsed": "2025-10-10T07:58:31Z"
      },
      {
          "title": "Recursive Language Models (RLMs)",
@@ -90,34 +110,24 @@
          "publishedParsed": "2025-10-15T17:43:27Z"
      },
      {
-         "title": "A kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45592585\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html",
+         "title": "How First Wap Tracks Phones Around the World",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45599075\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.lighthousereports.com/methodology/surveillance-secrets-explainer/",
          "links": [
-             "https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html"
+             "https://www.lighthousereports.com/methodology/surveillance-secrets-explainer/"
          ],
-         "published": "Wed, 15 Oct 2025 13:52:15 +0000",
-         "publishedParsed": "2025-10-15T13:52:15Z"
+         "published": "Wed, 15 Oct 2025 22:28:11 +0000",
+         "publishedParsed": "2025-10-15T22:28:11Z"
      },
      {
-         "title": "Recreating the Canon Cat document interface",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45593390\"\u003eComments\u003c/a\u003e",
-         "link": "https://lab.alexanderobenauer.com/updates/the-jasper-report",
+         "title": "F5 says hackers stole undisclosed BIG-IP flaws, source code",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45592271\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bleepingcomputer.com/news/security/f5-says-hackers-stole-undisclosed-big-ip-flaws-source-code/",
          "links": [
-             "https://lab.alexanderobenauer.com/updates/the-jasper-report"
+             "https://www.bleepingcomputer.com/news/security/f5-says-hackers-stole-undisclosed-big-ip-flaws-source-code/"
          ],
-         "published": "Wed, 15 Oct 2025 14:42:14 +0000",
-         "publishedParsed": "2025-10-15T14:42:14Z"
-     },
-     {
-         "title": "Things I've learned in my 7 years implementing AI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45596602\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent",
-         "links": [
-             "https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent"
-         ],
-         "published": "Wed, 15 Oct 2025 18:27:35 +0000",
-         "publishedParsed": "2025-10-15T18:27:35Z"
+         "published": "Wed, 15 Oct 2025 13:33:27 +0000",
+         "publishedParsed": "2025-10-15T13:33:27Z"
      },
      {
          "title": "Leaving serverless led to performance improvement and a simplified architecture",
@@ -130,14 +140,54 @@
          "publishedParsed": "2025-10-15T11:20:35Z"
      },
      {
-         "title": "Are hard drives getting better?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45595724\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/",
+         "title": "Princeton Engineering Anomalies Research",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45509713\"\u003eComments\u003c/a\u003e",
+         "link": "https://pearlab.icrl.org/",
          "links": [
-             "https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/"
+             "https://pearlab.icrl.org/"
          ],
-         "published": "Wed, 15 Oct 2025 17:18:13 +0000",
-         "publishedParsed": "2025-10-15T17:18:13Z"
+         "published": "Tue, 07 Oct 2025 22:25:58 +0000",
+         "publishedParsed": "2025-10-07T22:25:58Z"
+     },
+     {
+         "title": "A kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45592585\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html",
+         "links": [
+             "https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html"
+         ],
+         "published": "Wed, 15 Oct 2025 13:52:15 +0000",
+         "publishedParsed": "2025-10-15T13:52:15Z"
+     },
+     {
+         "title": "Zed is now available on Windows",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45594920\"\u003eComments\u003c/a\u003e",
+         "link": "https://zed.dev/blog/zed-for-windows-is-here",
+         "links": [
+             "https://zed.dev/blog/zed-for-windows-is-here"
+         ],
+         "published": "Wed, 15 Oct 2025 16:24:29 +0000",
+         "publishedParsed": "2025-10-15T16:24:29Z"
+     },
+     {
+         "title": "Recreating the Canon Cat document interface",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45593390\"\u003eComments\u003c/a\u003e",
+         "link": "https://lab.alexanderobenauer.com/updates/the-jasper-report",
+         "links": [
+             "https://lab.alexanderobenauer.com/updates/the-jasper-report"
+         ],
+         "published": "Wed, 15 Oct 2025 14:42:14 +0000",
+         "publishedParsed": "2025-10-15T14:42:14Z"
+     },
+     {
+         "title": "Gerald Sussman - An Electrical Engineering View of a Mechanical Watch (2003)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45489911\"\u003eComments\u003c/a\u003e",
+         "link": "https://techtv.mit.edu/videos/15895-an-electrical-engineering-view-of-a-mechanical-watch",
+         "links": [
+             "https://techtv.mit.edu/videos/15895-an-electrical-engineering-view-of-a-mechanical-watch"
+         ],
+         "published": "Mon, 06 Oct 2025 10:46:12 +0000",
+         "publishedParsed": "2025-10-06T10:46:12Z"
      },
      {
          "title": "Reverse engineering a 27MHz RC toy communication using RTL SDR",
@@ -160,14 +210,14 @@
          "publishedParsed": "2025-10-15T12:08:04Z"
      },
      {
-         "title": "M5 MacBook Pro",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45591902\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.apple.com/macbook-pro/",
+         "title": "Things I've learned in my 7 years implementing AI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45596602\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent",
          "links": [
-             "https://www.apple.com/macbook-pro/"
+             "https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent"
          ],
-         "published": "Wed, 15 Oct 2025 13:10:08 +0000",
-         "publishedParsed": "2025-10-15T13:10:08Z"
+         "published": "Wed, 15 Oct 2025 18:27:35 +0000",
+         "publishedParsed": "2025-10-15T18:27:35Z"
      },
      {
          "title": "Americans' love of billiards paved the way for synthetic plastics",
@@ -180,54 +230,24 @@
          "publishedParsed": "2025-10-08T23:25:51Z"
      },
      {
-         "title": "Reverse engineering iWork",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45590935\"\u003eComments\u003c/a\u003e",
-         "link": "https://andrews.substack.com/p/reverse-engineering-iwork",
+         "title": "C++26: range support for std:optional",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45536373\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.sandordargo.com/blog/2025/10/08/cpp26-range-support-for-std-optional",
          "links": [
-             "https://andrews.substack.com/p/reverse-engineering-iwork"
+             "https://www.sandordargo.com/blog/2025/10/08/cpp26-range-support-for-std-optional"
          ],
-         "published": "Wed, 15 Oct 2025 11:44:31 +0000",
-         "publishedParsed": "2025-10-15T11:44:31Z"
+         "published": "Fri, 10 Oct 2025 07:58:31 +0000",
+         "publishedParsed": "2025-10-10T07:58:31Z"
      },
      {
-         "title": "Princeton Engineering Anomalies Research",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45509713\"\u003eComments\u003c/a\u003e",
-         "link": "https://pearlab.icrl.org/",
+         "title": "M5 MacBook Pro",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45591902\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.apple.com/macbook-pro/",
          "links": [
-             "https://pearlab.icrl.org/"
+             "https://www.apple.com/macbook-pro/"
          ],
-         "published": "Tue, 07 Oct 2025 22:25:58 +0000",
-         "publishedParsed": "2025-10-07T22:25:58Z"
-     },
-     {
-         "title": "Show HN: Scriber Pro – Offline AI transcription for macOS",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45591222\"\u003eComments\u003c/a\u003e",
-         "link": "https://scriberpro.cc/hn/",
-         "links": [
-             "https://scriberpro.cc/hn/"
-         ],
-         "published": "Wed, 15 Oct 2025 12:16:16 +0000",
-         "publishedParsed": "2025-10-15T12:16:16Z"
-     },
-     {
-         "title": "Bots are getting good at mimicking engagement",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45590681\"\u003eComments\u003c/a\u003e",
-         "link": "https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake",
-         "links": [
-             "https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake"
-         ],
-         "published": "Wed, 15 Oct 2025 11:11:41 +0000",
-         "publishedParsed": "2025-10-15T11:11:41Z"
-     },
-     {
-         "title": "Pixnapping Attack",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45588594\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.pixnapping.com/",
-         "links": [
-             "https://www.pixnapping.com/"
-         ],
-         "published": "Wed, 15 Oct 2025 06:05:51 +0000",
-         "publishedParsed": "2025-10-15T06:05:51Z"
+         "published": "Wed, 15 Oct 2025 13:10:08 +0000",
+         "publishedParsed": "2025-10-15T13:10:08Z"
      },
      {
          "title": "Helpcare AI (YC F24) Is Hiring",
@@ -240,14 +260,24 @@
          "publishedParsed": "2025-10-15T12:00:35Z"
      },
      {
-         "title": "Show HN: Specific (YC F25) – Build backends with specifications instead of code",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45595760\"\u003eComments\u003c/a\u003e",
-         "link": "https://specific.dev/",
+         "title": "Pixnapping Attack",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45588594\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.pixnapping.com/",
          "links": [
-             "https://specific.dev/"
+             "https://www.pixnapping.com/"
          ],
-         "published": "Wed, 15 Oct 2025 17:21:32 +0000",
-         "publishedParsed": "2025-10-15T17:21:32Z"
+         "published": "Wed, 15 Oct 2025 06:05:51 +0000",
+         "publishedParsed": "2025-10-15T06:05:51Z"
+     },
+     {
+         "title": "Reverse engineering iWork",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45590935\"\u003eComments\u003c/a\u003e",
+         "link": "https://andrews.substack.com/p/reverse-engineering-iwork",
+         "links": [
+             "https://andrews.substack.com/p/reverse-engineering-iwork"
+         ],
+         "published": "Wed, 15 Oct 2025 11:44:31 +0000",
+         "publishedParsed": "2025-10-15T11:44:31Z"
      },
      {
          "title": "The brain navigates new spaces by 'darting' between reality and mental maps",
@@ -268,35 +298,5 @@
          ],
          "published": "Tue, 14 Oct 2025 23:47:08 +0000",
          "publishedParsed": "2025-10-14T23:47:08Z"
-     },
-     {
-         "title": "Breaking \"provably correct\" Leftpad",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45492274\"\u003eComments\u003c/a\u003e",
-         "link": "https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/",
-         "links": [
-             "https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/"
-         ],
-         "published": "Mon, 06 Oct 2025 15:11:38 +0000",
-         "publishedParsed": "2025-10-06T15:11:38Z"
-     },
-     {
-         "title": "ChatGPT – Truth over comfort instruction set",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45557504\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.organizingcreativity.com/2025/06/chatgpt-truth-over-comfort-instruction-set/",
-         "links": [
-             "https://www.organizingcreativity.com/2025/06/chatgpt-truth-over-comfort-instruction-set/"
-         ],
-         "published": "Sun, 12 Oct 2025 11:50:53 +0000",
-         "publishedParsed": "2025-10-12T11:50:53Z"
-     },
-     {
-         "title": "Just talk to it – A way of agentic engineering",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45588689\"\u003eComments\u003c/a\u003e",
-         "link": "https://steipete.me/posts/just-talk-to-it",
-         "links": [
-             "https://steipete.me/posts/just-talk-to-it"
-         ],
-         "published": "Wed, 15 Oct 2025 06:21:04 +0000",
-         "publishedParsed": "2025-10-15T06:21:04Z"
      }
  ]
