@@ -1,5 +1,15 @@
 [
      {
+         "title": "How I bypassed Amazon's Kindle web DRM",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45610226\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.pixelmelt.dev/kindle-web-drm/",
+         "links": [
+             "https://blog.pixelmelt.dev/kindle-web-drm/"
+         ],
+         "published": "Thu, 16 Oct 2025 20:22:48 +0000",
+         "publishedParsed": "2025-10-16T20:22:48Z"
+     },
+     {
          "title": "Claude Skills",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45607117\"\u003eComments\u003c/a\u003e",
          "link": "https://www.anthropic.com/news/skills",
@@ -8,6 +18,16 @@
          ],
          "published": "Thu, 16 Oct 2025 16:05:47 +0000",
          "publishedParsed": "2025-10-16T16:05:47Z"
+     },
+     {
+         "title": "Cloudflare Sandbox SDK",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45610523\"\u003eComments\u003c/a\u003e",
+         "link": "https://sandbox.cloudflare.com/",
+         "links": [
+             "https://sandbox.cloudflare.com/"
+         ],
+         "published": "Thu, 16 Oct 2025 20:51:27 +0000",
+         "publishedParsed": "2025-10-16T20:51:27Z"
      },
      {
          "title": "Gemini 3.0 spotted in the wild through A/B testing",
@@ -28,26 +48,6 @@
          ],
          "published": "Thu, 16 Oct 2025 19:51:47 +0000",
          "publishedParsed": "2025-10-16T19:51:47Z"
-     },
-     {
-         "title": "A conspiracy to kill IE6 (2019)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45608887\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6",
-         "links": [
-             "https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6"
-         ],
-         "published": "Thu, 16 Oct 2025 18:22:08 +0000",
-         "publishedParsed": "2025-10-16T18:22:08Z"
-     },
-     {
-         "title": "State of AI Report 2025",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45564042\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.stateof.ai/",
-         "links": [
-             "https://www.stateof.ai/"
-         ],
-         "published": "Mon, 13 Oct 2025 02:08:39 +0000",
-         "publishedParsed": "2025-10-13T02:08:39Z"
      },
      {
          "title": "Your data model is your destiny",
@@ -100,14 +100,24 @@
          "publishedParsed": "2025-10-16T12:46:28Z"
      },
      {
-         "title": "Eon – An Effects-Based OCaml Nameserver",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45547891\"\u003eComments\u003c/a\u003e",
-         "link": "https://ryan.freumh.org/eon.html",
+         "title": "A conspiracy to kill IE6 (2019)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45608887\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6",
          "links": [
-             "https://ryan.freumh.org/eon.html"
+             "https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6"
          ],
-         "published": "Sat, 11 Oct 2025 10:02:03 +0000",
-         "publishedParsed": "2025-10-11T10:02:03Z"
+         "published": "Thu, 16 Oct 2025 18:22:08 +0000",
+         "publishedParsed": "2025-10-16T18:22:08Z"
+     },
+     {
+         "title": "Microwave technique allows energy-efficient chemical reactions",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45543546\"\u003eComments\u003c/a\u003e",
+         "link": "https://phys.org/news/2025-10-microwave-technique-energy-efficient-chemical.html",
+         "links": [
+             "https://phys.org/news/2025-10-microwave-technique-energy-efficient-chemical.html"
+         ],
+         "published": "Fri, 10 Oct 2025 20:41:36 +0000",
+         "publishedParsed": "2025-10-10T20:41:36Z"
      },
      {
          "title": "Post office in France rolls out croissant-scented stamp",
@@ -120,37 +130,27 @@
          "publishedParsed": "2025-10-09T15:40:19Z"
      },
      {
-         "title": "SWE-Grep and SWE-Grep-Mini: RL for Fast Multi-Turn Context Retrieval",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45607822\"\u003eComments\u003c/a\u003e",
-         "link": "https://cognition.ai/blog/swe-grep",
+         "title": "State of AI Report 2025",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45564042\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.stateof.ai/",
          "links": [
-             "https://cognition.ai/blog/swe-grep"
+             "https://www.stateof.ai/"
          ],
-         "published": "Thu, 16 Oct 2025 16:59:30 +0000",
-         "publishedParsed": "2025-10-16T16:59:30Z"
+         "published": "Mon, 13 Oct 2025 02:08:39 +0000",
+         "publishedParsed": "2025-10-13T02:08:39Z"
      },
      {
-         "title": "Show HN: Inkeep (YC W23) – Agent Builder to create agents in code or visually",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45604700\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/inkeep/agents",
+         "title": "Hacker News – The Good Parts",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45610620\"\u003eComments\u003c/a\u003e",
+         "link": "https://smartmic.bearblog.dev/why-hacker-news/",
          "links": [
-             "https://github.com/inkeep/agents"
+             "https://smartmic.bearblog.dev/why-hacker-news/"
          ],
-         "published": "Thu, 16 Oct 2025 12:50:08 +0000",
-         "publishedParsed": "2025-10-16T12:50:08Z"
+         "published": "Thu, 16 Oct 2025 21:02:11 +0000",
+         "publishedParsed": "2025-10-16T21:02:11Z"
      },
      {
-         "title": "How to tame a user interface using a spreadsheet",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45545220\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.gingerbeardman.com/2025/10/11/how-to-tame-a-user-interface-using-a-spreadsheet/",
-         "links": [
-             "https://blog.gingerbeardman.com/2025/10/11/how-to-tame-a-user-interface-using-a-spreadsheet/"
-         ],
-         "published": "Sat, 11 Oct 2025 00:11:59 +0000",
-         "publishedParsed": "2025-10-11T00:11:59Z"
-     },
-     {
-         "title": "Syntax highlighting is a waste of an information channel",
+         "title": "Syntax highlighting is a waste of an information channel (2020)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45563576\"\u003eComments\u003c/a\u003e",
          "link": "https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/",
          "links": [
@@ -170,24 +170,14 @@
          "publishedParsed": "2025-10-16T12:59:08Z"
      },
      {
-         "title": "Mysterious Intrigue Around an x86 \"Corporate Entity Other Than Intel/AMD\"",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45608285\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.phoronix.com/news/x86-Opcodes-Not-AMD-Or-Intel",
+         "title": "Upcoming Rust language features for kernel development",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45601982\"\u003eComments\u003c/a\u003e",
+         "link": "https://lwn.net/Articles/1039073/",
          "links": [
-             "https://www.phoronix.com/news/x86-Opcodes-Not-AMD-Or-Intel"
+             "https://lwn.net/Articles/1039073/"
          ],
-         "published": "Thu, 16 Oct 2025 17:36:18 +0000",
-         "publishedParsed": "2025-10-16T17:36:18Z"
-     },
-     {
-         "title": "A stateful browser agent using self-healing DOM maps",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45604451\"\u003eComments\u003c/a\u003e",
-         "link": "https://100x.bot/a/a-stateful-browser-agent-using-self-healing-dom-maps",
-         "links": [
-             "https://100x.bot/a/a-stateful-browser-agent-using-self-healing-dom-maps"
-         ],
-         "published": "Thu, 16 Oct 2025 12:21:36 +0000",
-         "publishedParsed": "2025-10-16T12:21:36Z"
+         "published": "Thu, 16 Oct 2025 06:12:51 +0000",
+         "publishedParsed": "2025-10-16T06:12:51Z"
      },
      {
          "title": "Lace: A New Kind of Cellular Automata Where Links Matter",
@@ -200,14 +190,14 @@
          "publishedParsed": "2025-10-16T13:33:45Z"
      },
      {
-         "title": "Upcoming Rust language features for kernel development",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45601982\"\u003eComments\u003c/a\u003e",
-         "link": "https://lwn.net/Articles/1039073/",
+         "title": "Show HN: Inkeep (YC W23) – Agent Builder to create agents in code or visually",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45604700\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/inkeep/agents",
          "links": [
-             "https://lwn.net/Articles/1039073/"
+             "https://github.com/inkeep/agents"
          ],
-         "published": "Thu, 16 Oct 2025 06:12:51 +0000",
-         "publishedParsed": "2025-10-16T06:12:51Z"
+         "published": "Thu, 16 Oct 2025 12:50:08 +0000",
+         "publishedParsed": "2025-10-16T12:50:08Z"
      },
      {
          "title": "Elixir 1.19",
@@ -220,34 +210,54 @@
          "publishedParsed": "2025-10-16T07:31:25Z"
      },
      {
-         "title": "VOC injection into a house reveals large surface reservoir sizes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45554004\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.pnas.org/doi/10.1073/pnas.2503399122",
+         "title": "Eon – An Effects-Based OCaml Nameserver",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45547891\"\u003eComments\u003c/a\u003e",
+         "link": "https://ryan.freumh.org/eon.html",
          "links": [
-             "https://www.pnas.org/doi/10.1073/pnas.2503399122"
+             "https://ryan.freumh.org/eon.html"
          ],
-         "published": "Sun, 12 Oct 2025 00:23:35 +0000",
-         "publishedParsed": "2025-10-12T00:23:35Z"
+         "published": "Sat, 11 Oct 2025 10:02:03 +0000",
+         "publishedParsed": "2025-10-11T10:02:03Z"
      },
      {
-         "title": "Jiga (YC W21) Is Hiring Full Stacks",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45604308\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.workatastartup.com/jobs/44310",
+         "title": "How to tame a user interface using a spreadsheet",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45545220\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.gingerbeardman.com/2025/10/11/how-to-tame-a-user-interface-using-a-spreadsheet/",
          "links": [
-             "https://www.workatastartup.com/jobs/44310"
+             "https://blog.gingerbeardman.com/2025/10/11/how-to-tame-a-user-interface-using-a-spreadsheet/"
          ],
-         "published": "Thu, 16 Oct 2025 12:00:45 +0000",
-         "publishedParsed": "2025-10-16T12:00:45Z"
+         "published": "Sat, 11 Oct 2025 00:11:59 +0000",
+         "publishedParsed": "2025-10-11T00:11:59Z"
      },
      {
-         "title": "Why I Chose Elixir Phoenix over Rails, Laravel, and Next.js",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45605291\"\u003eComments\u003c/a\u003e",
-         "link": "https://akarshc.com/post/phoenix-for-my-project.html",
+         "title": "Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45610996\"\u003eComments\u003c/a\u003e",
+         "link": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html",
          "links": [
-             "https://akarshc.com/post/phoenix-for-my-project.html"
+             "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html"
          ],
-         "published": "Thu, 16 Oct 2025 13:48:33 +0000",
-         "publishedParsed": "2025-10-16T13:48:33Z"
+         "published": "Thu, 16 Oct 2025 21:36:43 +0000",
+         "publishedParsed": "2025-10-16T21:36:43Z"
+     },
+     {
+         "title": "SWE-Grep and SWE-Grep-Mini: RL for Fast Multi-Turn Context Retrieval",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45607822\"\u003eComments\u003c/a\u003e",
+         "link": "https://cognition.ai/blog/swe-grep",
+         "links": [
+             "https://cognition.ai/blog/swe-grep"
+         ],
+         "published": "Thu, 16 Oct 2025 16:59:30 +0000",
+         "publishedParsed": "2025-10-16T16:59:30Z"
+     },
+     {
+         "title": "A stateful browser agent using self-healing DOM maps",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45604451\"\u003eComments\u003c/a\u003e",
+         "link": "https://100x.bot/a/a-stateful-browser-agent-using-self-healing-dom-maps",
+         "links": [
+             "https://100x.bot/a/a-stateful-browser-agent-using-self-healing-dom-maps"
+         ],
+         "published": "Thu, 16 Oct 2025 12:21:36 +0000",
+         "publishedParsed": "2025-10-16T12:21:36Z"
      },
      {
          "title": "Generalized Orders of Magnitude",
@@ -260,43 +270,33 @@
          "publishedParsed": "2025-10-09T13:08:26Z"
      },
      {
-         "title": "test-ipv6.com will stay online",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45608795\"\u003eComments\u003c/a\u003e",
-         "link": "https://status.test-ipv6.com",
+         "title": "Jiga (YC W21) Is Hiring Full Stacks",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45604308\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.workatastartup.com/jobs/44310",
          "links": [
-             "https://status.test-ipv6.com"
+             "https://www.workatastartup.com/jobs/44310"
          ],
-         "published": "Thu, 16 Oct 2025 18:13:21 +0000",
-         "publishedParsed": "2025-10-16T18:13:21Z"
+         "published": "Thu, 16 Oct 2025 12:00:45 +0000",
+         "publishedParsed": "2025-10-16T12:00:45Z"
      },
      {
-         "title": "Peeking Inside Gigantic Zips with Only Kilobytes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45556904\"\u003eComments\u003c/a\u003e",
-         "link": "https://ritiksahni.com/blog/peeking-inside-gigantic-zips-with-only-kilobytes/",
+         "title": "VOC injection into a house reveals large surface reservoir sizes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45554004\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.pnas.org/doi/10.1073/pnas.2503399122",
          "links": [
-             "https://ritiksahni.com/blog/peeking-inside-gigantic-zips-with-only-kilobytes/"
+             "https://www.pnas.org/doi/10.1073/pnas.2503399122"
          ],
-         "published": "Sun, 12 Oct 2025 09:57:34 +0000",
-         "publishedParsed": "2025-10-12T09:57:34Z"
+         "published": "Sun, 12 Oct 2025 00:23:35 +0000",
+         "publishedParsed": "2025-10-12T00:23:35Z"
      },
      {
-         "title": "Improving the Trustworthiness of JavaScript on the Web",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45606070\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/",
+         "title": "Mysterious Intrigue Around an x86 \"Corporate Entity Other Than Intel/AMD\"",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45608285\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.phoronix.com/news/x86-Opcodes-Not-AMD-Or-Intel",
          "links": [
-             "https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/"
+             "https://www.phoronix.com/news/x86-Opcodes-Not-AMD-Or-Intel"
          ],
-         "published": "Thu, 16 Oct 2025 14:50:04 +0000",
-         "publishedParsed": "2025-10-16T14:50:04Z"
-     },
-     {
-         "title": "GifCities – The Geocities Animated GIF Search from Internet Archive",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45608919\"\u003eComments\u003c/a\u003e",
-         "link": "https://gifcities.org/",
-         "links": [
-             "https://gifcities.org/"
-         ],
-         "published": "Thu, 16 Oct 2025 18:25:54 +0000",
-         "publishedParsed": "2025-10-16T18:25:54Z"
+         "published": "Thu, 16 Oct 2025 17:36:18 +0000",
+         "publishedParsed": "2025-10-16T17:36:18Z"
      }
  ]
