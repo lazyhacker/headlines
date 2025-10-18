@@ -1,5 +1,25 @@
 [
      {
+         "title": "Andrej Karpathy – It will take a decade to work through the issues with agents",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45619329\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.dwarkesh.com/p/andrej-karpathy",
+         "links": [
+             "https://www.dwarkesh.com/p/andrej-karpathy"
+         ],
+         "published": "Fri, 17 Oct 2025 17:24:18 +0000",
+         "publishedParsed": "2025-10-17T17:24:18Z"
+     },
+     {
+         "title": "The Unix Executable as a Smalltalk Method (and Unix-Smalltalk Unification) [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45623917\"\u003eComments\u003c/a\u003e",
+         "link": "https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf",
+         "links": [
+             "https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf"
+         ],
+         "published": "Sat, 18 Oct 2025 01:03:22 +0000",
+         "publishedParsed": "2025-10-18T01:03:22Z"
+     },
+     {
          "title": "Exploring PostgreSQL 18's new UUIDv7 support",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45593358\"\u003eComments\u003c/a\u003e",
          "link": "https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support",
@@ -8,26 +28,6 @@
          ],
          "published": "Wed, 15 Oct 2025 14:40:42 +0000",
          "publishedParsed": "2025-10-15T14:40:42Z"
-     },
-     {
-         "title": "PlayStation 3 Architecture (2021)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45576536\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.copetti.org/writings/consoles/playstation-3",
-         "links": [
-             "https://www.copetti.org/writings/consoles/playstation-3"
-         ],
-         "published": "Tue, 14 Oct 2025 05:21:48 +0000",
-         "publishedParsed": "2025-10-14T05:21:48Z"
-     },
-     {
-         "title": "Every vibe-coded website is the same page with different words. So I made that",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45622944\"\u003eComments\u003c/a\u003e",
-         "link": "https://vibe-coded.lol/",
-         "links": [
-             "https://vibe-coded.lol/"
-         ],
-         "published": "Fri, 17 Oct 2025 22:36:48 +0000",
-         "publishedParsed": "2025-10-17T22:36:48Z"
      },
      {
          "title": "The pivot",
@@ -40,14 +40,24 @@
          "publishedParsed": "2025-10-17T19:37:16Z"
      },
      {
-         "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45619537\"\u003eComments\u003c/a\u003e",
-         "link": "https://simonwillison.net/2025/Oct/16/claude-skills/",
+         "title": "New Work by Gary Larson",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45622365\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.thefarside.com/new-stuff",
          "links": [
-             "https://simonwillison.net/2025/Oct/16/claude-skills/"
+             "https://www.thefarside.com/new-stuff"
          ],
-         "published": "Fri, 17 Oct 2025 17:40:21 +0000",
-         "publishedParsed": "2025-10-17T17:40:21Z"
+         "published": "Fri, 17 Oct 2025 21:34:37 +0000",
+         "publishedParsed": "2025-10-17T21:34:37Z"
+     },
+     {
+         "title": "PlayStation 3 Architecture (2021)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45576536\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.copetti.org/writings/consoles/playstation-3",
+         "links": [
+             "https://www.copetti.org/writings/consoles/playstation-3"
+         ],
+         "published": "Tue, 14 Oct 2025 05:21:48 +0000",
+         "publishedParsed": "2025-10-14T05:21:48Z"
      },
      {
          "title": "Live Stream from the Namib Desert",
@@ -58,6 +68,16 @@
          ],
          "published": "Fri, 17 Oct 2025 12:23:01 +0000",
          "publishedParsed": "2025-10-17T12:23:01Z"
+     },
+     {
+         "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45619537\"\u003eComments\u003c/a\u003e",
+         "link": "https://simonwillison.net/2025/Oct/16/claude-skills/",
+         "links": [
+             "https://simonwillison.net/2025/Oct/16/claude-skills/"
+         ],
+         "published": "Fri, 17 Oct 2025 17:40:21 +0000",
+         "publishedParsed": "2025-10-17T17:40:21Z"
      },
      {
          "title": "WebMCP",
@@ -80,34 +100,24 @@
          "publishedParsed": "2025-10-16T20:26:35Z"
      },
      {
-         "title": "Career Asymtotes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45566098\"\u003eComments\u003c/a\u003e",
-         "link": "https://molochinations.substack.com/p/career-asymptotes",
+         "title": "Show HN: ServiceRadar – open-source Network Observability Platform",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45624186\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/carverauto/serviceradar",
          "links": [
-             "https://molochinations.substack.com/p/career-asymptotes"
+             "https://github.com/carverauto/serviceradar"
          ],
-         "published": "Mon, 13 Oct 2025 08:29:04 +0000",
-         "publishedParsed": "2025-10-13T08:29:04Z"
+         "published": "Sat, 18 Oct 2025 01:49:06 +0000",
+         "publishedParsed": "2025-10-18T01:49:06Z"
      },
      {
-         "title": "When if is just a function",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45580347\"\u003eComments\u003c/a\u003e",
-         "link": "https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/",
+         "title": "I wrote a parser for Redis protocol so you don't have to",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45566577\"\u003eComments\u003c/a\u003e",
+         "link": "https://neversleeps.moscow/publications/resp.html",
          "links": [
-             "https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/"
+             "https://neversleeps.moscow/publications/resp.html"
          ],
-         "published": "Tue, 14 Oct 2025 14:20:13 +0000",
-         "publishedParsed": "2025-10-14T14:20:13Z"
-     },
-     {
-         "title": "Asking AI to build scrapers should be easy right?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45620653\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/",
-         "links": [
-             "https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/"
-         ],
-         "published": "Fri, 17 Oct 2025 19:03:21 +0000",
-         "publishedParsed": "2025-10-17T19:03:21Z"
+         "published": "Mon, 13 Oct 2025 09:50:40 +0000",
+         "publishedParsed": "2025-10-13T09:50:40Z"
      },
      {
          "title": "The Wi-Fi Revolution (2003)",
@@ -120,16 +130,6 @@
          "publishedParsed": "2025-10-12T07:35:18Z"
      },
      {
-         "title": "The Rapper 50 Cent, Adjusted for Inflation",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45618790\"\u003eComments\u003c/a\u003e",
-         "link": "https://50centadjustedforinflation.com/",
-         "links": [
-             "https://50centadjustedforinflation.com/"
-         ],
-         "published": "Fri, 17 Oct 2025 16:40:02 +0000",
-         "publishedParsed": "2025-10-17T16:40:02Z"
-     },
-     {
          "title": "EVs are depreciating faster than gas-powered cars",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45615237\"\u003eComments\u003c/a\u003e",
          "link": "https://restofworld.org/2025/ev-depreciation-blusmart-collapse/",
@@ -138,6 +138,16 @@
          ],
          "published": "Fri, 17 Oct 2025 10:56:40 +0000",
          "publishedParsed": "2025-10-17T10:56:40Z"
+     },
+     {
+         "title": "The Rapper 50 Cent, Adjusted for Inflation",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45618790\"\u003eComments\u003c/a\u003e",
+         "link": "https://50centadjustedforinflation.com/",
+         "links": [
+             "https://50centadjustedforinflation.com/"
+         ],
+         "published": "Fri, 17 Oct 2025 16:40:02 +0000",
+         "publishedParsed": "2025-10-17T16:40:02Z"
      },
      {
          "title": "Researchers Discover the Optimal Way to Optimize",
@@ -160,64 +170,14 @@
          "publishedParsed": "2025-10-17T03:27:24Z"
      },
      {
-         "title": "Intercellular communication in the brain through a dendritic nanotubular network",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45617819\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.science.org/doi/10.1126/science.adr7403",
+         "title": "Career Asymtotes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45566098\"\u003eComments\u003c/a\u003e",
+         "link": "https://molochinations.substack.com/p/career-asymptotes",
          "links": [
-             "https://www.science.org/doi/10.1126/science.adr7403"
+             "https://molochinations.substack.com/p/career-asymptotes"
          ],
-         "published": "Fri, 17 Oct 2025 15:22:29 +0000",
-         "publishedParsed": "2025-10-17T15:22:29Z"
-     },
-     {
-         "title": "Promoted on Sunday, Fired on Monday: Inside a NASA Office's Sudden Closure",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45622923\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.planetary.org/articles/promoted-on-sunday-fired-on-monday-inside-a-nasa-offices-sudden-closure",
-         "links": [
-             "https://www.planetary.org/articles/promoted-on-sunday-fired-on-monday-inside-a-nasa-offices-sudden-closure"
-         ],
-         "published": "Fri, 17 Oct 2025 22:34:26 +0000",
-         "publishedParsed": "2025-10-17T22:34:26Z"
-     },
-     {
-         "title": "GOG Has Had to Hire Private Investigators to Track Down IP Rights Holders",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45620394\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.thegamer.com/gog-private-investigators-off-the-grid-ip-rights-holders/",
-         "links": [
-             "https://www.thegamer.com/gog-private-investigators-off-the-grid-ip-rights-holders/"
-         ],
-         "published": "Fri, 17 Oct 2025 18:44:13 +0000",
-         "publishedParsed": "2025-10-17T18:44:13Z"
-     },
-     {
-         "title": "MIT physicists improve the precision of atomic clocks",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45552358\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.mit.edu/2025/mit-physicists-improve-atomic-clocks-precision-1008",
-         "links": [
-             "https://news.mit.edu/2025/mit-physicists-improve-atomic-clocks-precision-1008"
-         ],
-         "published": "Sat, 11 Oct 2025 20:21:11 +0000",
-         "publishedParsed": "2025-10-11T20:21:11Z"
-     },
-     {
-         "title": "Smithsonian Open Access Images",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45581988\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.si.edu/openaccess",
-         "links": [
-             "https://www.si.edu/openaccess"
-         ],
-         "published": "Tue, 14 Oct 2025 16:29:42 +0000",
-         "publishedParsed": "2025-10-14T16:29:42Z"
-     },
-     {
-         "title": "Ruby core team takes ownership of RubyGems and Bundler",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45615863\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/",
-         "links": [
-             "https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/"
-         ],
-         "published": "Fri, 17 Oct 2025 12:15:53 +0000",
-         "publishedParsed": "2025-10-17T12:15:53Z"
+         "published": "Mon, 13 Oct 2025 08:29:04 +0000",
+         "publishedParsed": "2025-10-13T08:29:04Z"
      },
      {
          "title": "NeXT Computer Offices",
@@ -230,53 +190,103 @@
          "publishedParsed": "2025-10-18T00:15:17Z"
      },
      {
-         "title": "Andrej Karpathy – AGI is still a decade away",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45619329\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.dwarkesh.com/p/andrej-karpathy",
+         "title": "When if is just a function",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45580347\"\u003eComments\u003c/a\u003e",
+         "link": "https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/",
          "links": [
-             "https://www.dwarkesh.com/p/andrej-karpathy"
+             "https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/"
          ],
-         "published": "Fri, 17 Oct 2025 17:24:18 +0000",
-         "publishedParsed": "2025-10-17T17:24:18Z"
+         "published": "Tue, 14 Oct 2025 14:20:13 +0000",
+         "publishedParsed": "2025-10-14T14:20:13Z"
      },
      {
-         "title": "How I bypassed Amazon's Kindle web DRM",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45610226\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.pixelmelt.dev/kindle-web-drm/",
+         "title": "Every vibe-coded website is the same page with different words. So I made that",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45622944\"\u003eComments\u003c/a\u003e",
+         "link": "https://vibe-coded.lol/",
          "links": [
-             "https://blog.pixelmelt.dev/kindle-web-drm/"
+             "https://vibe-coded.lol/"
          ],
-         "published": "Thu, 16 Oct 2025 20:22:48 +0000",
-         "publishedParsed": "2025-10-16T20:22:48Z"
+         "published": "Fri, 17 Oct 2025 22:36:48 +0000",
+         "publishedParsed": "2025-10-17T22:36:48Z"
      },
      {
-         "title": "Migrating from AWS to Hetzner",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45614922\"\u003eComments\u003c/a\u003e",
-         "link": "https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/",
+         "title": "Asking AI to build scrapers should be easy right?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45620653\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/",
          "links": [
-             "https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/"
+             "https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/"
          ],
-         "published": "Fri, 17 Oct 2025 10:00:21 +0000",
-         "publishedParsed": "2025-10-17T10:00:21Z"
+         "published": "Fri, 17 Oct 2025 19:03:21 +0000",
+         "publishedParsed": "2025-10-17T19:03:21Z"
      },
      {
-         "title": "Resizeable Bar Support on the Raspberry Pi",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45528813\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.jeffgeerling.com/blog/2025/resizeable-bar-support-on-raspberry-pi",
+         "title": "Tahoe's Elephant",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45556536\"\u003eComments\u003c/a\u003e",
+         "link": "https://eclecticlight.co/2025/10/12/last-week-on-my-mac-tahoes-elephant/",
          "links": [
-             "https://www.jeffgeerling.com/blog/2025/resizeable-bar-support-on-raspberry-pi"
+             "https://eclecticlight.co/2025/10/12/last-week-on-my-mac-tahoes-elephant/"
          ],
-         "published": "Thu, 09 Oct 2025 15:12:26 +0000",
-         "publishedParsed": "2025-10-09T15:12:26Z"
+         "published": "Sun, 12 Oct 2025 08:46:57 +0000",
+         "publishedParsed": "2025-10-12T08:46:57Z"
      },
      {
-         "title": "Cartridge Chaos: The Official Nintendo Region Converter and More",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45559145\"\u003eComments\u003c/a\u003e",
-         "link": "https://nicole.express/2025/not-just-for-robert.html",
+         "title": "Intercellular communication in the brain through a dendritic nanotubular network",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45617819\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.science.org/doi/10.1126/science.adr7403",
          "links": [
-             "https://nicole.express/2025/not-just-for-robert.html"
+             "https://www.science.org/doi/10.1126/science.adr7403"
          ],
-         "published": "Sun, 12 Oct 2025 15:55:50 +0000",
-         "publishedParsed": "2025-10-12T15:55:50Z"
+         "published": "Fri, 17 Oct 2025 15:22:29 +0000",
+         "publishedParsed": "2025-10-17T15:22:29Z"
+     },
+     {
+         "title": "Wikipedia Volunteers Avert Tragedy by Taking Down Gunman at Conference",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45623883\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nytimes.com/2025/10/17/nyregion/wikipedia-conference-gunman.html",
+         "links": [
+             "https://www.nytimes.com/2025/10/17/nyregion/wikipedia-conference-gunman.html"
+         ],
+         "published": "Sat, 18 Oct 2025 00:58:01 +0000",
+         "publishedParsed": "2025-10-18T00:58:01Z"
+     },
+     {
+         "title": "Amazon’s Ring to partner with Flock",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45614713\"\u003eComments\u003c/a\u003e",
+         "link": "https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/",
+         "links": [
+             "https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/"
+         ],
+         "published": "Fri, 17 Oct 2025 09:15:25 +0000",
+         "publishedParsed": "2025-10-17T09:15:25Z"
+     },
+     {
+         "title": "Jeep Wrangler Owners Waiting for Answers Week After an Update Bricked Their Cars",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45623526\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.thedrive.com/news/jeep-wrangler-4xe-owners-still-waiting-for-answers-a-week-after-an-update-bricked-their-cars",
+         "links": [
+             "https://www.thedrive.com/news/jeep-wrangler-4xe-owners-still-waiting-for-answers-a-week-after-an-update-bricked-their-cars"
+         ],
+         "published": "Fri, 17 Oct 2025 23:58:06 +0000",
+         "publishedParsed": "2025-10-17T23:58:06Z"
+     },
+     {
+         "title": "MIT physicists improve the precision of atomic clocks",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45552358\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.mit.edu/2025/mit-physicists-improve-atomic-clocks-precision-1008",
+         "links": [
+             "https://news.mit.edu/2025/mit-physicists-improve-atomic-clocks-precision-1008"
+         ],
+         "published": "Sat, 11 Oct 2025 20:21:11 +0000",
+         "publishedParsed": "2025-10-11T20:21:11Z"
+     },
+     {
+         "title": "Ruby core team takes ownership of RubyGems and Bundler",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45615863\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/",
+         "links": [
+             "https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/"
+         ],
+         "published": "Fri, 17 Oct 2025 12:15:53 +0000",
+         "publishedParsed": "2025-10-17T12:15:53Z"
      }
  ]
