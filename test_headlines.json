@@ -10,7 +10,17 @@
          "publishedParsed": "2025-10-17T17:24:18Z"
      },
      {
-         "title": "The Unix Executable as a Smalltalk Method (and Unix-Smalltalk Unification) [pdf]",
+         "title": "New Work by Gary Larson",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45622365\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.thefarside.com/new-stuff",
+         "links": [
+             "https://www.thefarside.com/new-stuff"
+         ],
+         "published": "Fri, 17 Oct 2025 21:34:37 +0000",
+         "publishedParsed": "2025-10-17T21:34:37Z"
+     },
+     {
+         "title": "The Unix Executable as a Smalltalk Method [pdf]",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45623917\"\u003eComments\u003c/a\u003e",
          "link": "https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf",
          "links": [
@@ -18,16 +28,6 @@
          ],
          "published": "Sat, 18 Oct 2025 01:03:22 +0000",
          "publishedParsed": "2025-10-18T01:03:22Z"
-     },
-     {
-         "title": "Exploring PostgreSQL 18's new UUIDv7 support",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45593358\"\u003eComments\u003c/a\u003e",
-         "link": "https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support",
-         "links": [
-             "https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support"
-         ],
-         "published": "Wed, 15 Oct 2025 14:40:42 +0000",
-         "publishedParsed": "2025-10-15T14:40:42Z"
      },
      {
          "title": "The pivot",
@@ -40,14 +40,14 @@
          "publishedParsed": "2025-10-17T19:37:16Z"
      },
      {
-         "title": "New Work by Gary Larson",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45622365\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.thefarside.com/new-stuff",
+         "title": "Exploring PostgreSQL 18's new UUIDv7 support",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45593358\"\u003eComments\u003c/a\u003e",
+         "link": "https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support",
          "links": [
-             "https://www.thefarside.com/new-stuff"
+             "https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support"
          ],
-         "published": "Fri, 17 Oct 2025 21:34:37 +0000",
-         "publishedParsed": "2025-10-17T21:34:37Z"
+         "published": "Wed, 15 Oct 2025 14:40:42 +0000",
+         "publishedParsed": "2025-10-15T14:40:42Z"
      },
      {
          "title": "PlayStation 3 Architecture (2021)",
@@ -70,6 +70,16 @@
          "publishedParsed": "2025-10-17T12:23:01Z"
      },
      {
+         "title": "Spray Cooling – Recreating Supercomputer Cooling on a Desktop CPU [video]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45559003\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.youtube.com/watch?v=yEBSuk20gvc",
+         "links": [
+             "https://www.youtube.com/watch?v=yEBSuk20gvc"
+         ],
+         "published": "Sun, 12 Oct 2025 15:39:18 +0000",
+         "publishedParsed": "2025-10-12T15:39:18Z"
+     },
+     {
          "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45619537\"\u003eComments\u003c/a\u003e",
          "link": "https://simonwillison.net/2025/Oct/16/claude-skills/",
@@ -90,16 +100,6 @@
          "publishedParsed": "2025-10-17T21:57:44Z"
      },
      {
-         "title": "Claude Code vs. Codex: I built a sentiment dashboard from Reddit comments",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45610266\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.aiengineering.report/p/claude-code-vs-codex-sentiment-analysis-reddit",
-         "links": [
-             "https://www.aiengineering.report/p/claude-code-vs-codex-sentiment-analysis-reddit"
-         ],
-         "published": "Thu, 16 Oct 2025 20:26:35 +0000",
-         "publishedParsed": "2025-10-16T20:26:35Z"
-     },
-     {
          "title": "Show HN: ServiceRadar – open-source Network Observability Platform",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45624186\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/carverauto/serviceradar",
@@ -110,24 +110,34 @@
          "publishedParsed": "2025-10-18T01:49:06Z"
      },
      {
-         "title": "I wrote a parser for Redis protocol so you don't have to",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45566577\"\u003eComments\u003c/a\u003e",
-         "link": "https://neversleeps.moscow/publications/resp.html",
+         "title": "If the Gumshoe Fits: The Thomas Pynchon Experience",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45535622\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bookforum.com/print/3202/if-the-gumshoe-fits-62416",
          "links": [
-             "https://neversleeps.moscow/publications/resp.html"
+             "https://www.bookforum.com/print/3202/if-the-gumshoe-fits-62416"
          ],
-         "published": "Mon, 13 Oct 2025 09:50:40 +0000",
-         "publishedParsed": "2025-10-13T09:50:40Z"
+         "published": "Fri, 10 Oct 2025 05:36:01 +0000",
+         "publishedParsed": "2025-10-10T05:36:01Z"
      },
      {
-         "title": "The Wi-Fi Revolution (2003)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45556104\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.wired.com/2003/05/wifirevolution/",
+         "title": "Claude Code vs. Codex: I built a sentiment dashboard from Reddit comments",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45610266\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.aiengineering.report/p/claude-code-vs-codex-sentiment-analysis-reddit",
          "links": [
-             "https://www.wired.com/2003/05/wifirevolution/"
+             "https://www.aiengineering.report/p/claude-code-vs-codex-sentiment-analysis-reddit"
          ],
-         "published": "Sun, 12 Oct 2025 07:35:18 +0000",
-         "publishedParsed": "2025-10-12T07:35:18Z"
+         "published": "Thu, 16 Oct 2025 20:26:35 +0000",
+         "publishedParsed": "2025-10-16T20:26:35Z"
+     },
+     {
+         "title": "Tahoe's Elephant",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45556536\"\u003eComments\u003c/a\u003e",
+         "link": "https://eclecticlight.co/2025/10/12/last-week-on-my-mac-tahoes-elephant/",
+         "links": [
+             "https://eclecticlight.co/2025/10/12/last-week-on-my-mac-tahoes-elephant/"
+         ],
+         "published": "Sun, 12 Oct 2025 08:46:57 +0000",
+         "publishedParsed": "2025-10-12T08:46:57Z"
      },
      {
          "title": "EVs are depreciating faster than gas-powered cars",
@@ -150,26 +160,6 @@
          "publishedParsed": "2025-10-17T16:40:02Z"
      },
      {
-         "title": "Researchers Discover the Optimal Way to Optimize",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45574106\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.quantamagazine.org/researchers-discover-the-optimal-way-to-optimize-20251013/",
-         "links": [
-             "https://www.quantamagazine.org/researchers-discover-the-optimal-way-to-optimize-20251013/"
-         ],
-         "published": "Mon, 13 Oct 2025 22:41:22 +0000",
-         "publishedParsed": "2025-10-13T22:41:22Z"
-     },
-     {
-         "title": "Meow.camera",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45613047\"\u003eComments\u003c/a\u003e",
-         "link": "https://meow.camera/",
-         "links": [
-             "https://meow.camera/"
-         ],
-         "published": "Fri, 17 Oct 2025 03:27:24 +0000",
-         "publishedParsed": "2025-10-17T03:27:24Z"
-     },
-     {
          "title": "Career Asymtotes",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45566098\"\u003eComments\u003c/a\u003e",
          "link": "https://molochinations.substack.com/p/career-asymptotes",
@@ -180,34 +170,14 @@
          "publishedParsed": "2025-10-13T08:29:04Z"
      },
      {
-         "title": "NeXT Computer Offices",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45623630\"\u003eComments\u003c/a\u003e",
-         "link": "https://archive.org/details/NeXTComputerOffices",
+         "title": "The Wi-Fi Revolution (2003)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45556104\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.wired.com/2003/05/wifirevolution/",
          "links": [
-             "https://archive.org/details/NeXTComputerOffices"
+             "https://www.wired.com/2003/05/wifirevolution/"
          ],
-         "published": "Sat, 18 Oct 2025 00:15:17 +0000",
-         "publishedParsed": "2025-10-18T00:15:17Z"
-     },
-     {
-         "title": "When if is just a function",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45580347\"\u003eComments\u003c/a\u003e",
-         "link": "https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/",
-         "links": [
-             "https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/"
-         ],
-         "published": "Tue, 14 Oct 2025 14:20:13 +0000",
-         "publishedParsed": "2025-10-14T14:20:13Z"
-     },
-     {
-         "title": "Every vibe-coded website is the same page with different words. So I made that",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45622944\"\u003eComments\u003c/a\u003e",
-         "link": "https://vibe-coded.lol/",
-         "links": [
-             "https://vibe-coded.lol/"
-         ],
-         "published": "Fri, 17 Oct 2025 22:36:48 +0000",
-         "publishedParsed": "2025-10-17T22:36:48Z"
+         "published": "Sun, 12 Oct 2025 07:35:18 +0000",
+         "publishedParsed": "2025-10-12T07:35:18Z"
      },
      {
          "title": "Asking AI to build scrapers should be easy right?",
@@ -220,14 +190,34 @@
          "publishedParsed": "2025-10-17T19:03:21Z"
      },
      {
-         "title": "Tahoe's Elephant",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45556536\"\u003eComments\u003c/a\u003e",
-         "link": "https://eclecticlight.co/2025/10/12/last-week-on-my-mac-tahoes-elephant/",
+         "title": "Researchers Discover the Optimal Way to Optimize",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45574106\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.quantamagazine.org/researchers-discover-the-optimal-way-to-optimize-20251013/",
          "links": [
-             "https://eclecticlight.co/2025/10/12/last-week-on-my-mac-tahoes-elephant/"
+             "https://www.quantamagazine.org/researchers-discover-the-optimal-way-to-optimize-20251013/"
          ],
-         "published": "Sun, 12 Oct 2025 08:46:57 +0000",
-         "publishedParsed": "2025-10-12T08:46:57Z"
+         "published": "Mon, 13 Oct 2025 22:41:22 +0000",
+         "publishedParsed": "2025-10-13T22:41:22Z"
+     },
+     {
+         "title": "NeXT Computer Offices",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45623630\"\u003eComments\u003c/a\u003e",
+         "link": "https://archive.org/details/NeXTComputerOffices",
+         "links": [
+             "https://archive.org/details/NeXTComputerOffices"
+         ],
+         "published": "Sat, 18 Oct 2025 00:15:17 +0000",
+         "publishedParsed": "2025-10-18T00:15:17Z"
+     },
+     {
+         "title": "Every vibe-coded website is the same page with different words. So I made that",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45622944\"\u003eComments\u003c/a\u003e",
+         "link": "https://vibe-coded.lol/",
+         "links": [
+             "https://vibe-coded.lol/"
+         ],
+         "published": "Fri, 17 Oct 2025 22:36:48 +0000",
+         "publishedParsed": "2025-10-17T22:36:48Z"
      },
      {
          "title": "Intercellular communication in the brain through a dendritic nanotubular network",
@@ -240,16 +230,6 @@
          "publishedParsed": "2025-10-17T15:22:29Z"
      },
      {
-         "title": "Wikipedia Volunteers Avert Tragedy by Taking Down Gunman at Conference",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45623883\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nytimes.com/2025/10/17/nyregion/wikipedia-conference-gunman.html",
-         "links": [
-             "https://www.nytimes.com/2025/10/17/nyregion/wikipedia-conference-gunman.html"
-         ],
-         "published": "Sat, 18 Oct 2025 00:58:01 +0000",
-         "publishedParsed": "2025-10-18T00:58:01Z"
-     },
-     {
          "title": "Amazon’s Ring to partner with Flock",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45614713\"\u003eComments\u003c/a\u003e",
          "link": "https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/",
@@ -258,16 +238,6 @@
          ],
          "published": "Fri, 17 Oct 2025 09:15:25 +0000",
          "publishedParsed": "2025-10-17T09:15:25Z"
-     },
-     {
-         "title": "Jeep Wrangler Owners Waiting for Answers Week After an Update Bricked Their Cars",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45623526\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.thedrive.com/news/jeep-wrangler-4xe-owners-still-waiting-for-answers-a-week-after-an-update-bricked-their-cars",
-         "links": [
-             "https://www.thedrive.com/news/jeep-wrangler-4xe-owners-still-waiting-for-answers-a-week-after-an-update-bricked-their-cars"
-         ],
-         "published": "Fri, 17 Oct 2025 23:58:06 +0000",
-         "publishedParsed": "2025-10-17T23:58:06Z"
      },
      {
          "title": "MIT physicists improve the precision of atomic clocks",
@@ -280,6 +250,16 @@
          "publishedParsed": "2025-10-11T20:21:11Z"
      },
      {
+         "title": "Jeep wrangler owners waiting for answers week after an update bricked their cars",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45623526\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.thedrive.com/news/jeep-wrangler-4xe-owners-still-waiting-for-answers-a-week-after-an-update-bricked-their-cars",
+         "links": [
+             "https://www.thedrive.com/news/jeep-wrangler-4xe-owners-still-waiting-for-answers-a-week-after-an-update-bricked-their-cars"
+         ],
+         "published": "Fri, 17 Oct 2025 23:58:06 +0000",
+         "publishedParsed": "2025-10-17T23:58:06Z"
+     },
+     {
          "title": "Ruby core team takes ownership of RubyGems and Bundler",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45615863\"\u003eComments\u003c/a\u003e",
          "link": "https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/",
@@ -288,5 +268,15 @@
          ],
          "published": "Fri, 17 Oct 2025 12:15:53 +0000",
          "publishedParsed": "2025-10-17T12:15:53Z"
+     },
+     {
+         "title": "Smithsonian Open Access",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45581988\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.si.edu/openaccess",
+         "links": [
+             "https://www.si.edu/openaccess"
+         ],
+         "published": "Tue, 14 Oct 2025 16:29:42 +0000",
+         "publishedParsed": "2025-10-14T16:29:42Z"
      }
  ]
