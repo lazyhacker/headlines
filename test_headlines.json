@@ -1,5 +1,25 @@
 [
      {
+         "title": "Claude Code on the web",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45647166\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.anthropic.com/news/claude-code-on-the-web",
+         "links": [
+             "https://www.anthropic.com/news/claude-code-on-the-web"
+         ],
+         "published": "Mon, 20 Oct 2025 18:12:23 +0000",
+         "publishedParsed": "2025-10-20T18:12:23Z"
+     },
+     {
+         "title": "AWS Multiple Services Down in us-east-1",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45640838\"\u003eComments\u003c/a\u003e",
+         "link": "https://health.aws.amazon.com/health/status?ts=20251020",
+         "links": [
+             "https://health.aws.amazon.com/health/status?ts=20251020"
+         ],
+         "published": "Mon, 20 Oct 2025 07:22:28 +0000",
+         "publishedParsed": "2025-10-20T07:22:28Z"
+     },
+     {
          "title": "BERT is just a single text diffusion step",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45644328\"\u003eComments\u003c/a\u003e",
          "link": "https://nathan.rs/posts/roberta-diffusion/",
@@ -20,24 +40,14 @@
          "publishedParsed": "2025-10-20T15:55:36Z"
      },
      {
-         "title": "AWS Multiple Services Down in us-east-1",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45640838\"\u003eComments\u003c/a\u003e",
-         "link": "https://health.aws.amazon.com/health/status?ts=20251020",
+         "title": "Intel and AMD standardise ChkTag to bring Memory Safety to x86",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45582958\"\u003eComments\u003c/a\u003e",
+         "link": "https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490",
          "links": [
-             "https://health.aws.amazon.com/health/status?ts=20251020"
+             "https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490"
          ],
-         "published": "Mon, 20 Oct 2025 07:22:28 +0000",
-         "publishedParsed": "2025-10-20T07:22:28Z"
-     },
-     {
-         "title": "Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45643163\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent",
-         "links": [
-             "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent"
-         ],
-         "published": "Mon, 20 Oct 2025 12:31:22 +0000",
-         "publishedParsed": "2025-10-20T12:31:22Z"
+         "published": "Tue, 14 Oct 2025 18:04:01 +0000",
+         "publishedParsed": "2025-10-14T18:04:01Z"
      },
      {
          "title": "Space Elevator",
@@ -50,6 +60,16 @@
          "publishedParsed": "2025-10-20T04:42:08Z"
      },
      {
+         "title": "Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45643163\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent",
+         "links": [
+             "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent"
+         ],
+         "published": "Mon, 20 Oct 2025 12:31:22 +0000",
+         "publishedParsed": "2025-10-20T12:31:22Z"
+     },
+     {
          "title": "DeepSeek OCR",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45640594\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/deepseek-ai/DeepSeek-OCR",
@@ -60,14 +80,14 @@
          "publishedParsed": "2025-10-20T06:26:33Z"
      },
      {
-         "title": "Claude Code on the Web",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45647166\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.anthropic.com/news/claude-code-on-the-web",
+         "title": "x86-64 Playground – An online assembly editor and GDB-like debugger",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45646958\"\u003eComments\u003c/a\u003e",
+         "link": "https://x64.halb.it/",
          "links": [
-             "https://www.anthropic.com/news/claude-code-on-the-web"
+             "https://x64.halb.it/"
          ],
-         "published": "Mon, 20 Oct 2025 18:12:23 +0000",
-         "publishedParsed": "2025-10-20T18:12:23Z"
+         "published": "Mon, 20 Oct 2025 17:55:18 +0000",
+         "publishedParsed": "2025-10-20T17:55:18Z"
      },
      {
          "title": "TernFS – an exabyte scale, multi-region distributed filesystem",
@@ -78,16 +98,6 @@
          ],
          "published": "Mon, 20 Oct 2025 17:36:16 +0000",
          "publishedParsed": "2025-10-20T17:36:16Z"
-     },
-     {
-         "title": "AWS outage shows internet users 'at mercy' of too few providers, experts say",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45646649\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps",
-         "links": [
-             "https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps"
-         ],
-         "published": "Mon, 20 Oct 2025 17:32:46 +0000",
-         "publishedParsed": "2025-10-20T17:32:46Z"
      },
      {
          "title": "How to stop Linux threads cleanly",
@@ -110,6 +120,36 @@
          "publishedParsed": "2025-10-14T07:09:12Z"
      },
      {
+         "title": "Show HN: I created a cross-platform GUI for the JJ VCS (Git compatible)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45645120\"\u003eComments\u003c/a\u003e",
+         "link": "https://judojj.com",
+         "links": [
+             "https://judojj.com"
+         ],
+         "published": "Mon, 20 Oct 2025 15:35:19 +0000",
+         "publishedParsed": "2025-10-20T15:35:19Z"
+     },
+     {
+         "title": "J.P. Morgan's OpenAI loan is strange",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45648258\"\u003eComments\u003c/a\u003e",
+         "link": "https://marketunpack.com/j-p-morgans-openai-loan-is-strange/",
+         "links": [
+             "https://marketunpack.com/j-p-morgans-openai-loan-is-strange/"
+         ],
+         "published": "Mon, 20 Oct 2025 19:38:52 +0000",
+         "publishedParsed": "2025-10-20T19:38:52Z"
+     },
+     {
+         "title": "iOS 26.1 lets users control Liquid Glass transparency",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45648266\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/",
+         "links": [
+             "https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/"
+         ],
+         "published": "Mon, 20 Oct 2025 19:39:46 +0000",
+         "publishedParsed": "2025-10-20T19:39:46Z"
+     },
+     {
          "title": "Servo v0.0.1",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45643357\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/servo/servo",
@@ -120,24 +160,74 @@
          "publishedParsed": "2025-10-20T12:55:30Z"
      },
      {
-         "title": "Chess grandmaster Daniel Naroditsky has passed away",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45646561\"\u003eComments\u003c/a\u003e",
-         "link": "https://old.reddit.com/r/chess/comments/1obnbmu/grandmaster_daniel_naroditsky_has_passed_away/",
+         "title": "Show HN: EloqDoc: MongoDB-compatible doc DB with object storage as first citizen",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45634638\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/eloqdata/eloqdoc",
          "links": [
-             "https://old.reddit.com/r/chess/comments/1obnbmu/grandmaster_daniel_naroditsky_has_passed_away/"
+             "https://github.com/eloqdata/eloqdoc"
          ],
-         "published": "Mon, 20 Oct 2025 17:24:58 +0000",
-         "publishedParsed": "2025-10-20T17:24:58Z"
+         "published": "Sun, 19 Oct 2025 14:57:59 +0000",
+         "publishedParsed": "2025-10-19T14:57:59Z"
      },
      {
-         "title": "x86-64 Playground – An online assembly editor and GDB-like debugger",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45646958\"\u003eComments\u003c/a\u003e",
-         "link": "https://x64.halb.it/",
+         "title": "The longest baseball game took 33 innings to win",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45590743\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.mlb.com/news/the-longest-professional-baseball-game-ever-played",
          "links": [
-             "https://x64.halb.it/"
+             "https://www.mlb.com/news/the-longest-professional-baseball-game-ever-played"
          ],
-         "published": "Mon, 20 Oct 2025 17:55:18 +0000",
-         "publishedParsed": "2025-10-20T17:55:18Z"
+         "published": "Wed, 15 Oct 2025 11:18:55 +0000",
+         "publishedParsed": "2025-10-15T11:18:55Z"
+     },
+     {
+         "title": "First Self-Propagating Worm Using Invisible Code Hits OpenVSX and VS Code",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45647853\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace",
+         "links": [
+             "https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace"
+         ],
+         "published": "Mon, 20 Oct 2025 19:05:42 +0000",
+         "publishedParsed": "2025-10-20T19:05:42Z"
+     },
+     {
+         "title": "When a stadium adds AI to everything, it's worse experience for everyone",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45648249\"\u003eComments\u003c/a\u003e",
+         "link": "https://a.wholelottanothing.org/bmo-stadium-in-la-added-ai-to-everything-and-what-they-got-was-a-worse-experience-for-everyone/",
+         "links": [
+             "https://a.wholelottanothing.org/bmo-stadium-in-la-added-ai-to-everything-and-what-they-got-was-a-worse-experience-for-everyone/"
+         ],
+         "published": "Mon, 20 Oct 2025 19:38:02 +0000",
+         "publishedParsed": "2025-10-20T19:38:02Z"
+     },
+     {
+         "title": "A laser pointer at 2B FPS [video]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45632429\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.youtube.com/watch?v=o4TdHrMi6do",
+         "links": [
+             "https://www.youtube.com/watch?v=o4TdHrMi6do"
+         ],
+         "published": "Sun, 19 Oct 2025 06:42:19 +0000",
+         "publishedParsed": "2025-10-19T06:42:19Z"
+     },
+     {
+         "title": "Code from MIT's 1986 SICP video lectures",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45621557\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/felipap/sicp-code",
+         "links": [
+             "https://github.com/felipap/sicp-code"
+         ],
+         "published": "Fri, 17 Oct 2025 20:18:54 +0000",
+         "publishedParsed": "2025-10-17T20:18:54Z"
+     },
+     {
+         "title": "Should MS Replace Satya Nadella with an AI CEO?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45648864\"\u003eComments\u003c/a\u003e",
+         "link": "https://old.reddit.com/r/microsoftsucks/comments/1obsew3/should_ms_replace_satya_nadella_with_an_ai_ceo/",
+         "links": [
+             "https://old.reddit.com/r/microsoftsucks/comments/1obsew3/should_ms_replace_satya_nadella_with_an_ai_ceo/"
+         ],
+         "published": "Mon, 20 Oct 2025 20:27:12 +0000",
+         "publishedParsed": "2025-10-20T20:27:12Z"
      },
      {
          "title": "Docker Systems Status: Full Service Disruption",
@@ -148,16 +238,6 @@
          ],
          "published": "Mon, 20 Oct 2025 07:31:23 +0000",
          "publishedParsed": "2025-10-20T07:31:23Z"
-     },
-     {
-         "title": "Entire Linux Network stack diagram (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45639995\"\u003eComments\u003c/a\u003e",
-         "link": "https://zenodo.org/records/14179366",
-         "links": [
-             "https://zenodo.org/records/14179366"
-         ],
-         "published": "Mon, 20 Oct 2025 03:33:11 +0000",
-         "publishedParsed": "2025-10-20T03:33:11Z"
      },
      {
          "title": "Automate all the things with Swift Subprocess",
@@ -180,36 +260,6 @@
          "publishedParsed": "2025-10-20T11:58:35Z"
      },
      {
-         "title": "The Great Horse Manure Crisis of 1894: predictions of 9 feet of manure in cities",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45577626\"\u003eComments\u003c/a\u003e",
-         "link": "https://en.wikipedia.org/wiki/Great_horse_manure_crisis_of_1894",
-         "links": [
-             "https://en.wikipedia.org/wiki/Great_horse_manure_crisis_of_1894"
-         ],
-         "published": "Tue, 14 Oct 2025 08:35:48 +0000",
-         "publishedParsed": "2025-10-14T08:35:48Z"
-     },
-     {
-         "title": "Qt Group Buys IAR Systems Group",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45642979\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.qt.io/stock/qt-completes-the-recommended-public-cash-offer-to-the-shareholders-of-iar-systems-group-1760351460000-3668995",
-         "links": [
-             "https://www.qt.io/stock/qt-completes-the-recommended-public-cash-offer-to-the-shareholders-of-iar-systems-group-1760351460000-3668995"
-         ],
-         "published": "Mon, 20 Oct 2025 12:09:53 +0000",
-         "publishedParsed": "2025-10-20T12:09:53Z"
-     },
-     {
-         "title": "Modeling Others' Minds as Code",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45643976\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2510.01272",
-         "links": [
-             "https://arxiv.org/abs/2510.01272"
-         ],
-         "published": "Mon, 20 Oct 2025 13:54:38 +0000",
-         "publishedParsed": "2025-10-20T13:54:38Z"
-     },
-     {
          "title": "Pointer Pointer (2012)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45526845\"\u003eComments\u003c/a\u003e",
          "link": "https://pointerpointer.com",
@@ -220,73 +270,13 @@
          "publishedParsed": "2025-10-09T12:42:01Z"
      },
      {
-         "title": "Matrix Conference 2025 Highlights",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45642923\"\u003eComments\u003c/a\u003e",
-         "link": "https://element.io/blog/the-matrix-conference-a-seminal-moment-for-matrix/",
+         "title": "Chess grandmaster Daniel Naroditsky has died",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45646561\"\u003eComments\u003c/a\u003e",
+         "link": "https://old.reddit.com/r/chess/comments/1obnbmu/grandmaster_daniel_naroditsky_has_passed_away/",
          "links": [
-             "https://element.io/blog/the-matrix-conference-a-seminal-moment-for-matrix/"
+             "https://old.reddit.com/r/chess/comments/1obnbmu/grandmaster_daniel_naroditsky_has_passed_away/"
          ],
-         "published": "Mon, 20 Oct 2025 12:00:28 +0000",
-         "publishedParsed": "2025-10-20T12:00:28Z"
-     },
-     {
-         "title": "The Peach meme: On CRTs, pixels and signal quality (again)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45564696\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.datagubbe.se/crt2/",
-         "links": [
-             "https://www.datagubbe.se/crt2/"
-         ],
-         "published": "Mon, 13 Oct 2025 04:33:11 +0000",
-         "publishedParsed": "2025-10-13T04:33:11Z"
-     },
-     {
-         "title": "Fractal Imaginary Cubes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45560864\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.i.h.kyoto-u.ac.jp/users/tsuiki/icube/fractal/index-e.html",
-         "links": [
-             "https://www.i.h.kyoto-u.ac.jp/users/tsuiki/icube/fractal/index-e.html"
-         ],
-         "published": "Sun, 12 Oct 2025 19:08:43 +0000",
-         "publishedParsed": "2025-10-12T19:08:43Z"
-     },
-     {
-         "title": "Introduction to reverse-engineering vintage synth firmware",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45639860\"\u003eComments\u003c/a\u003e",
-         "link": "https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html",
-         "links": [
-             "https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html"
-         ],
-         "published": "Mon, 20 Oct 2025 02:56:20 +0000",
-         "publishedParsed": "2025-10-20T02:56:20Z"
-     },
-     {
-         "title": "Optimizing writes to OLAP using buffers (ClickHouse, Redpanda, MooseStack)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45583116\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.fiveonefour.com/blog/optimizing-writes-to-olap-using-buffers",
-         "links": [
-             "https://www.fiveonefour.com/blog/optimizing-writes-to-olap-using-buffers"
-         ],
-         "published": "Tue, 14 Oct 2025 18:21:19 +0000",
-         "publishedParsed": "2025-10-14T18:21:19Z"
-     },
-     {
-         "title": "Gleam OTP – Fault Tolerant Multicore Programs with Actors",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45638588\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/gleam-lang/otp",
-         "links": [
-             "https://github.com/gleam-lang/otp"
-         ],
-         "published": "Sun, 19 Oct 2025 22:25:46 +0000",
-         "publishedParsed": "2025-10-19T22:25:46Z"
-     },
-     {
-         "title": "Peanut Allergies Have Plummeted in Children",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45647133\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nytimes.com/2025/10/20/well/peanut-allergy-drop.html",
-         "links": [
-             "https://www.nytimes.com/2025/10/20/well/peanut-allergy-drop.html"
-         ],
-         "published": "Mon, 20 Oct 2025 18:09:49 +0000",
-         "publishedParsed": "2025-10-20T18:09:49Z"
+         "published": "Mon, 20 Oct 2025 17:24:58 +0000",
+         "publishedParsed": "2025-10-20T17:24:58Z"
      }
  ]
