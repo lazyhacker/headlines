@@ -30,16 +30,6 @@
          "publishedParsed": "2025-10-20T07:31:23Z"
      },
      {
-         "title": "Major AWS Outage Happening",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45640772\"\u003eComments\u003c/a\u003e",
-         "link": "https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/",
-         "links": [
-             "https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/"
-         ],
-         "published": "Mon, 20 Oct 2025 07:11:06 +0000",
-         "publishedParsed": "2025-10-20T07:11:06Z"
-     },
-     {
          "title": "Entire Linux Network stack diagram (2024)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45639995\"\u003eComments\u003c/a\u003e",
          "link": "https://zenodo.org/records/14179366",
@@ -60,6 +50,16 @@
          "publishedParsed": "2025-10-09T12:42:01Z"
      },
      {
+         "title": "Major AWS Outage Happening",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45640772\"\u003eComments\u003c/a\u003e",
+         "link": "https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/",
+         "links": [
+             "https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/"
+         ],
+         "published": "Mon, 20 Oct 2025 07:11:06 +0000",
+         "publishedParsed": "2025-10-20T07:11:06Z"
+     },
+     {
          "title": "AWS Multiple Services Down in us-east-1",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45640838\"\u003eComments\u003c/a\u003e",
          "link": "https://health.aws.amazon.com/health/status?ts=20251020",
@@ -68,26 +68,6 @@
          ],
          "published": "Mon, 20 Oct 2025 07:22:28 +0000",
          "publishedParsed": "2025-10-20T07:22:28Z"
-     },
-     {
-         "title": "Introduction to reverse-engineering vintage synth firmware",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45639860\"\u003eComments\u003c/a\u003e",
-         "link": "https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html",
-         "links": [
-             "https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html"
-         ],
-         "published": "Mon, 20 Oct 2025 02:56:20 +0000",
-         "publishedParsed": "2025-10-20T02:56:20Z"
-     },
-     {
-         "title": "Novo Nordisk's Canadian Mistake",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45637744\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake",
-         "links": [
-             "https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake"
-         ],
-         "published": "Sun, 19 Oct 2025 20:39:13 +0000",
-         "publishedParsed": "2025-10-19T20:39:13Z"
      },
      {
          "title": "Forth: The programming language that writes itself",
@@ -100,6 +80,36 @@
          "publishedParsed": "2025-10-20T00:40:03Z"
      },
      {
+         "title": "Novo Nordisk's Canadian Mistake",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45637744\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake",
+         "links": [
+             "https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake"
+         ],
+         "published": "Sun, 19 Oct 2025 20:39:13 +0000",
+         "publishedParsed": "2025-10-19T20:39:13Z"
+     },
+     {
+         "title": "Introduction to reverse-engineering vintage synth firmware",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45639860\"\u003eComments\u003c/a\u003e",
+         "link": "https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html",
+         "links": [
+             "https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html"
+         ],
+         "published": "Mon, 20 Oct 2025 02:56:20 +0000",
+         "publishedParsed": "2025-10-20T02:56:20Z"
+     },
+     {
+         "title": "Oma: An attempt at reworking APT's interface",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45562849\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/AOSC-Dev/oma",
+         "links": [
+             "https://github.com/AOSC-Dev/oma"
+         ],
+         "published": "Sun, 12 Oct 2025 23:01:55 +0000",
+         "publishedParsed": "2025-10-12T23:01:55Z"
+     },
+     {
          "title": "Doing well in your courses: Andrej's advice for success (2013)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45635533\"\u003eComments\u003c/a\u003e",
          "link": "https://cs.stanford.edu/people/karpathy/advice.html",
@@ -110,14 +120,34 @@
          "publishedParsed": "2025-10-19T16:31:57Z"
      },
      {
-         "title": "Bat v0.26.0 Released",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45640678\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/sharkdp/bat/releases/tag/v0.26.0",
+         "title": "Give Your Metrics an Expiry Date",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45591288\"\u003eComments\u003c/a\u003e",
+         "link": "https://adrianhoward.com/posts/give-your-metrics-an-expiry-date/",
          "links": [
-             "https://github.com/sharkdp/bat/releases/tag/v0.26.0"
+             "https://adrianhoward.com/posts/give-your-metrics-an-expiry-date/"
          ],
-         "published": "Mon, 20 Oct 2025 06:49:29 +0000",
-         "publishedParsed": "2025-10-20T06:49:29Z"
+         "published": "Wed, 15 Oct 2025 12:21:55 +0000",
+         "publishedParsed": "2025-10-15T12:21:55Z"
+     },
+     {
+         "title": "Adding Breadcrumbs to a Rails Application",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45566849\"\u003eComments\u003c/a\u003e",
+         "link": "https://avohq.io/blog/breadcrumbs-rails",
+         "links": [
+             "https://avohq.io/blog/breadcrumbs-rails"
+         ],
+         "published": "Mon, 13 Oct 2025 10:34:17 +0000",
+         "publishedParsed": "2025-10-13T10:34:17Z"
+     },
+     {
+         "title": "Major AWS outage takes down Fortnite, Alexa, Snapchat, and more",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45641143\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline",
+         "links": [
+             "https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline"
+         ],
+         "published": "Mon, 20 Oct 2025 08:12:09 +0000",
+         "publishedParsed": "2025-10-20T08:12:09Z"
      },
      {
          "title": "Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%",
@@ -140,14 +170,14 @@
          "publishedParsed": "2025-10-13T12:44:31Z"
      },
      {
-         "title": "Oma: An attempt at reworking APT's interface",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45562849\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/AOSC-Dev/oma",
+         "title": "Bat v0.26.0 Released",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45640678\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/sharkdp/bat/releases/tag/v0.26.0",
          "links": [
-             "https://github.com/AOSC-Dev/oma"
+             "https://github.com/sharkdp/bat/releases/tag/v0.26.0"
          ],
-         "published": "Sun, 12 Oct 2025 23:01:55 +0000",
-         "publishedParsed": "2025-10-12T23:01:55Z"
+         "published": "Mon, 20 Oct 2025 06:49:29 +0000",
+         "publishedParsed": "2025-10-20T06:49:29Z"
      },
      {
          "title": "Gleam OTP – Fault Tolerant Multicore Programs with Actors",
@@ -170,16 +200,6 @@
          "publishedParsed": "2025-10-19T17:54:21Z"
      },
      {
-         "title": "QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45638966\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/wiesmann/QuickDrawViewer",
-         "links": [
-             "https://github.com/wiesmann/QuickDrawViewer"
-         ],
-         "published": "Sun, 19 Oct 2025 23:35:25 +0000",
-         "publishedParsed": "2025-10-19T23:35:25Z"
-     },
-     {
          "title": "Dosbian: Boot to DOSBox on Raspberry Pi",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45637133\"\u003eComments\u003c/a\u003e",
          "link": "https://cmaiolino.wordpress.com/dosbian/",
@@ -188,16 +208,6 @@
          ],
          "published": "Sun, 19 Oct 2025 19:26:54 +0000",
          "publishedParsed": "2025-10-19T19:26:54Z"
-     },
-     {
-         "title": "Subway station study reveals fungal communities",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45545753\"\u003eComments\u003c/a\u003e",
-         "link": "https://phys.org/news/2025-09-subway-station-reveals-fungal-communities.html",
-         "links": [
-             "https://phys.org/news/2025-09-subway-station-reveals-fungal-communities.html"
-         ],
-         "published": "Sat, 11 Oct 2025 01:33:34 +0000",
-         "publishedParsed": "2025-10-11T01:33:34Z"
      },
      {
          "title": "Oskar Speck's 1932 Kayak Journey from Germany to Australia",
@@ -210,14 +220,14 @@
          "publishedParsed": "2025-10-11T03:08:31Z"
      },
      {
-         "title": "From Hollywood to horticulture: Cate Blanchett on a mission to save seeds",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45639157\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bbc.com/news/articles/cwy7ekl4yl8o",
+         "title": "Subway station study reveals fungal communities",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45545753\"\u003eComments\u003c/a\u003e",
+         "link": "https://phys.org/news/2025-09-subway-station-reveals-fungal-communities.html",
          "links": [
-             "https://www.bbc.com/news/articles/cwy7ekl4yl8o"
+             "https://phys.org/news/2025-09-subway-station-reveals-fungal-communities.html"
          ],
-         "published": "Mon, 20 Oct 2025 00:19:54 +0000",
-         "publishedParsed": "2025-10-20T00:19:54Z"
+         "published": "Sat, 11 Oct 2025 01:33:34 +0000",
+         "publishedParsed": "2025-10-11T01:33:34Z"
      },
      {
          "title": "Compare Single Board Computers",
@@ -230,14 +240,14 @@
          "publishedParsed": "2025-10-19T18:02:00Z"
      },
      {
-         "title": "A Tiny Typo May Explain Centuries-Old Mystery Bout Chaucer's 'Canterbury Tales'",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45582370\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.smithsonianmag.com/smart-news/a-tiny-typo-may-explain-a-centuries-old-mystery-about-chaucers-canterbury-tales-and-troilus-and-criseyde-180986991/",
+         "title": "From Hollywood to horticulture: Cate Blanchett on a mission to save seeds",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45639157\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bbc.com/news/articles/cwy7ekl4yl8o",
          "links": [
-             "https://www.smithsonianmag.com/smart-news/a-tiny-typo-may-explain-a-centuries-old-mystery-about-chaucers-canterbury-tales-and-troilus-and-criseyde-180986991/"
+             "https://www.bbc.com/news/articles/cwy7ekl4yl8o"
          ],
-         "published": "Tue, 14 Oct 2025 17:02:35 +0000",
-         "publishedParsed": "2025-10-14T17:02:35Z"
+         "published": "Mon, 20 Oct 2025 00:19:54 +0000",
+         "publishedParsed": "2025-10-20T00:19:54Z"
      },
      {
          "title": "What's Behind the Mysterious Ancient Wall in the Gobi Desert?",
@@ -250,6 +260,16 @@
          "publishedParsed": "2025-10-12T16:42:44Z"
      },
      {
+         "title": "A Tiny Typo May Explain Centuries-Old Mystery Bout Chaucer's 'Canterbury Tales'",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45582370\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.smithsonianmag.com/smart-news/a-tiny-typo-may-explain-a-centuries-old-mystery-about-chaucers-canterbury-tales-and-troilus-and-criseyde-180986991/",
+         "links": [
+             "https://www.smithsonianmag.com/smart-news/a-tiny-typo-may-explain-a-centuries-old-mystery-about-chaucers-canterbury-tales-and-troilus-and-criseyde-180986991/"
+         ],
+         "published": "Tue, 14 Oct 2025 17:02:35 +0000",
+         "publishedParsed": "2025-10-14T17:02:35Z"
+     },
+     {
          "title": "GNU Octave Meets JupyterLite: Compute Anywhere, Anytime",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45635069\"\u003eComments\u003c/a\u003e",
          "link": "https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc",
@@ -258,26 +278,6 @@
          ],
          "published": "Sun, 19 Oct 2025 15:48:52 +0000",
          "publishedParsed": "2025-10-19T15:48:52Z"
-     },
-     {
-         "title": "LoC Is a Dumb Metric for Functions",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45638986\"\u003eComments\u003c/a\u003e",
-         "link": "https://theaxolot.wordpress.com/2025/10/18/loc-is-a-dumb-metric-for-functions/",
-         "links": [
-             "https://theaxolot.wordpress.com/2025/10/18/loc-is-a-dumb-metric-for-functions/"
-         ],
-         "published": "Sun, 19 Oct 2025 23:39:57 +0000",
-         "publishedParsed": "2025-10-19T23:39:57Z"
-     },
-     {
-         "title": "The Spilhaus Projection: A world map according to fish",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45556911\"\u003eComments\u003c/a\u003e",
-         "link": "https://southernwoodenboatsailing.com/news/the-spilhaus-projection-a-world-map-according-to-fish",
-         "links": [
-             "https://southernwoodenboatsailing.com/news/the-spilhaus-projection-a-world-map-according-to-fish"
-         ],
-         "published": "Sun, 12 Oct 2025 09:59:13 +0000",
-         "publishedParsed": "2025-10-12T09:59:13Z"
      },
      {
          "title": "Comparing the power consumption of a 30 year old refrigerator to a new one",
@@ -290,13 +290,13 @@
          "publishedParsed": "2025-10-14T07:28:15Z"
      },
      {
-         "title": "Look at how unhinged GPU box art was in the 2000s (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45639498\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/",
+         "title": "The Spilhaus Projection: A world map according to fish",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45556911\"\u003eComments\u003c/a\u003e",
+         "link": "https://southernwoodenboatsailing.com/news/the-spilhaus-projection-a-world-map-according-to-fish",
          "links": [
-             "https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/"
+             "https://southernwoodenboatsailing.com/news/the-spilhaus-projection-a-world-map-according-to-fish"
          ],
-         "published": "Mon, 20 Oct 2025 01:32:43 +0000",
-         "publishedParsed": "2025-10-20T01:32:43Z"
+         "published": "Sun, 12 Oct 2025 09:59:13 +0000",
+         "publishedParsed": "2025-10-12T09:59:13Z"
      }
  ]
