@@ -1,5 +1,25 @@
 [
      {
+         "title": "Entire Linux Network stack diagram (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45639995\"\u003eComments\u003c/a\u003e",
+         "link": "https://zenodo.org/records/14179366",
+         "links": [
+             "https://zenodo.org/records/14179366"
+         ],
+         "published": "Mon, 20 Oct 2025 03:33:11 +0000",
+         "publishedParsed": "2025-10-20T03:33:11Z"
+     },
+     {
+         "title": "Introduction to reverse-engineering vintage synth firmware",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45639860\"\u003eComments\u003c/a\u003e",
+         "link": "https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html",
+         "links": [
+             "https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html"
+         ],
+         "published": "Mon, 20 Oct 2025 02:56:20 +0000",
+         "publishedParsed": "2025-10-20T02:56:20Z"
+     },
+     {
          "title": "Novo Nordisk's Canadian Mistake",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45637744\"\u003eComments\u003c/a\u003e",
          "link": "https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake",
@@ -8,16 +28,6 @@
          ],
          "published": "Sun, 19 Oct 2025 20:39:13 +0000",
          "publishedParsed": "2025-10-19T20:39:13Z"
-     },
-     {
-         "title": "Doing well in your courses: Andrej's advice for success (2013)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45635533\"\u003eComments\u003c/a\u003e",
-         "link": "https://cs.stanford.edu/people/karpathy/advice.html",
-         "links": [
-             "https://cs.stanford.edu/people/karpathy/advice.html"
-         ],
-         "published": "Sun, 19 Oct 2025 16:31:57 +0000",
-         "publishedParsed": "2025-10-19T16:31:57Z"
      },
      {
          "title": "Forth: The programming language that writes itself",
@@ -30,14 +40,14 @@
          "publishedParsed": "2025-10-20T00:40:03Z"
      },
      {
-         "title": "QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45638966\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/wiesmann/QuickDrawViewer",
+         "title": "Doing well in your courses: Andrej's advice for success (2013)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45635533\"\u003eComments\u003c/a\u003e",
+         "link": "https://cs.stanford.edu/people/karpathy/advice.html",
          "links": [
-             "https://github.com/wiesmann/QuickDrawViewer"
+             "https://cs.stanford.edu/people/karpathy/advice.html"
          ],
-         "published": "Sun, 19 Oct 2025 23:35:25 +0000",
-         "publishedParsed": "2025-10-19T23:35:25Z"
+         "published": "Sun, 19 Oct 2025 16:31:57 +0000",
+         "publishedParsed": "2025-10-19T16:31:57Z"
      },
      {
          "title": "Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%",
@@ -50,14 +60,14 @@
          "publishedParsed": "2025-10-19T20:54:31Z"
      },
      {
-         "title": "Airliner hit by possible space debris",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45636285\"\u003eComments\u003c/a\u003e",
-         "link": "https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/",
+         "title": "QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45638966\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/wiesmann/QuickDrawViewer",
          "links": [
-             "https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/"
+             "https://github.com/wiesmann/QuickDrawViewer"
          ],
-         "published": "Sun, 19 Oct 2025 17:54:21 +0000",
-         "publishedParsed": "2025-10-19T17:54:21Z"
+         "published": "Sun, 19 Oct 2025 23:35:25 +0000",
+         "publishedParsed": "2025-10-19T23:35:25Z"
      },
      {
          "title": "Gleam OTP – Fault Tolerant Multicore Programs with Actors",
@@ -70,6 +80,26 @@
          "publishedParsed": "2025-10-19T22:25:46Z"
      },
      {
+         "title": "Airliner hit by possible space debris",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45636285\"\u003eComments\u003c/a\u003e",
+         "link": "https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/",
+         "links": [
+             "https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/"
+         ],
+         "published": "Sun, 19 Oct 2025 17:54:21 +0000",
+         "publishedParsed": "2025-10-19T17:54:21Z"
+     },
+     {
+         "title": "Don't Force Your LLM to Write Terse [Q/Kdb] Code: An Information Theory Argument",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45567746\"\u003eComments\u003c/a\u003e",
+         "link": "https://medium.com/@gabiteodoru/dont-force-your-llm-to-write-terse-code-an-argument-from-information-theory-for-q-kdb-developers-04077c5b7038",
+         "links": [
+             "https://medium.com/@gabiteodoru/dont-force-your-llm-to-write-terse-code-an-argument-from-information-theory-for-q-kdb-developers-04077c5b7038"
+         ],
+         "published": "Mon, 13 Oct 2025 12:44:31 +0000",
+         "publishedParsed": "2025-10-13T12:44:31Z"
+     },
+     {
          "title": "Dosbian: Boot to DOSBox on Raspberry Pi",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45637133\"\u003eComments\u003c/a\u003e",
          "link": "https://cmaiolino.wordpress.com/dosbian/",
@@ -78,26 +108,6 @@
          ],
          "published": "Sun, 19 Oct 2025 19:26:54 +0000",
          "publishedParsed": "2025-10-19T19:26:54Z"
-     },
-     {
-         "title": "What's Behind the Mysterious Ancient Wall in the Gobi Desert?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45559573\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.artnet.com/art-world/the-hunt-gobi-wall-mongolia-2674588",
-         "links": [
-             "https://news.artnet.com/art-world/the-hunt-gobi-wall-mongolia-2674588"
-         ],
-         "published": "Sun, 12 Oct 2025 16:42:44 +0000",
-         "publishedParsed": "2025-10-12T16:42:44Z"
-     },
-     {
-         "title": "Oskar Speck's 1932 Kayak Journey from Germany to Australia",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45546250\"\u003eComments\u003c/a\u003e",
-         "link": "https://nswskc.wordpress.com/2002/10/24/incredible-journey-50/",
-         "links": [
-             "https://nswskc.wordpress.com/2002/10/24/incredible-journey-50/"
-         ],
-         "published": "Sat, 11 Oct 2025 03:08:31 +0000",
-         "publishedParsed": "2025-10-11T03:08:31Z"
      },
      {
          "title": "From Hollywood to horticulture: Cate Blanchett on a mission to save seeds",
@@ -120,6 +130,26 @@
          "publishedParsed": "2025-10-19T18:02:00Z"
      },
      {
+         "title": "What's Behind the Mysterious Ancient Wall in the Gobi Desert?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45559573\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.artnet.com/art-world/the-hunt-gobi-wall-mongolia-2674588",
+         "links": [
+             "https://news.artnet.com/art-world/the-hunt-gobi-wall-mongolia-2674588"
+         ],
+         "published": "Sun, 12 Oct 2025 16:42:44 +0000",
+         "publishedParsed": "2025-10-12T16:42:44Z"
+     },
+     {
+         "title": "Oskar Speck's 1932 Kayak Journey from Germany to Australia",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45546250\"\u003eComments\u003c/a\u003e",
+         "link": "https://nswskc.wordpress.com/2002/10/24/incredible-journey-50/",
+         "links": [
+             "https://nswskc.wordpress.com/2002/10/24/incredible-journey-50/"
+         ],
+         "published": "Sat, 11 Oct 2025 03:08:31 +0000",
+         "publishedParsed": "2025-10-11T03:08:31Z"
+     },
+     {
          "title": "Look at how unhinged GPU box art was in the 2000s",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45639498\"\u003eComments\u003c/a\u003e",
          "link": "https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/",
@@ -128,96 +158,6 @@
          ],
          "published": "Mon, 20 Oct 2025 01:32:43 +0000",
          "publishedParsed": "2025-10-20T01:32:43Z"
-     },
-     {
-         "title": "GNU Octave Meets JupyterLite: Compute Anywhere, Anytime",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45635069\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc",
-         "links": [
-             "https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc"
-         ],
-         "published": "Sun, 19 Oct 2025 15:48:52 +0000",
-         "publishedParsed": "2025-10-19T15:48:52Z"
-     },
-     {
-         "title": "Deterministic multithreading is hard (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45632976\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.factorio.com/blog/post/fff-415",
-         "links": [
-             "https://www.factorio.com/blog/post/fff-415"
-         ],
-         "published": "Sun, 19 Oct 2025 09:20:05 +0000",
-         "publishedParsed": "2025-10-19T09:20:05Z"
-     },
-     {
-         "title": "The Spilhaus Projection: A world map according to fish",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45556911\"\u003eComments\u003c/a\u003e",
-         "link": "https://southernwoodenboatsailing.com/news/the-spilhaus-projection-a-world-map-according-to-fish",
-         "links": [
-             "https://southernwoodenboatsailing.com/news/the-spilhaus-projection-a-world-map-according-to-fish"
-         ],
-         "published": "Sun, 12 Oct 2025 09:59:13 +0000",
-         "publishedParsed": "2025-10-12T09:59:13Z"
-     },
-     {
-         "title": "Comparing the power consumption of a 30 year old refrigerator to a new one",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45577181\"\u003eComments\u003c/a\u003e",
-         "link": "https://ounapuu.ee/posts/2025/10/14/fridge-power-consumption/",
-         "links": [
-             "https://ounapuu.ee/posts/2025/10/14/fridge-power-consumption/"
-         ],
-         "published": "Tue, 14 Oct 2025 07:28:15 +0000",
-         "publishedParsed": "2025-10-14T07:28:15Z"
-     },
-     {
-         "title": "LoC Is a Dumb Metric for Functions",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45638986\"\u003eComments\u003c/a\u003e",
-         "link": "https://theaxolot.wordpress.com/2025/10/18/loc-is-a-dumb-metric-for-functions/",
-         "links": [
-             "https://theaxolot.wordpress.com/2025/10/18/loc-is-a-dumb-metric-for-functions/"
-         ],
-         "published": "Sun, 19 Oct 2025 23:39:57 +0000",
-         "publishedParsed": "2025-10-19T23:39:57Z"
-     },
-     {
-         "title": "The working-class hero of Bletchley Park you didn't see in the movies",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45557596\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theguardian.com/world/2025/oct/12/move-over-alan-turing-meet-the-working-class-hero-of-bletchley-park-you-didnt-see-in-the-movies",
-         "links": [
-             "https://www.theguardian.com/world/2025/oct/12/move-over-alan-turing-meet-the-working-class-hero-of-bletchley-park-you-didnt-see-in-the-movies"
-         ],
-         "published": "Sun, 12 Oct 2025 12:04:50 +0000",
-         "publishedParsed": "2025-10-12T12:04:50Z"
-     },
-     {
-         "title": "The Cancer Imaging Archive (TCIA)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45570758\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cancerimagingarchive.net/",
-         "links": [
-             "https://www.cancerimagingarchive.net/"
-         ],
-         "published": "Mon, 13 Oct 2025 17:06:44 +0000",
-         "publishedParsed": "2025-10-13T17:06:44Z"
-     },
-     {
-         "title": "Replua.nvim – an Emacs-style scratch buffer for executing Lua",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45638739\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/mghaight/replua.nvim",
-         "links": [
-             "https://github.com/mghaight/replua.nvim"
-         ],
-         "published": "Sun, 19 Oct 2025 22:49:34 +0000",
-         "publishedParsed": "2025-10-19T22:49:34Z"
-     },
-     {
-         "title": "Could the XZ backdoor been detected with better Git/Deb packaging practices?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45636116\"\u003eComments\u003c/a\u003e",
-         "link": "https://optimizedbyotto.com/post/xz-backdoor-debian-git-detection/",
-         "links": [
-             "https://optimizedbyotto.com/post/xz-backdoor-debian-git-detection/"
-         ],
-         "published": "Sun, 19 Oct 2025 17:38:11 +0000",
-         "publishedParsed": "2025-10-19T17:38:11Z"
      },
      {
          "title": "Nvidia has produced the first Blackwell wafer on US soil",
@@ -230,14 +170,54 @@
          "publishedParsed": "2025-10-20T02:12:24Z"
      },
      {
-         "title": "Infisical (YC W23) Is Hiring Full Stack Engineers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45635757\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global",
+         "title": "GNU Octave Meets JupyterLite: Compute Anywhere, Anytime",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45635069\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc",
          "links": [
-             "https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global"
+             "https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc"
          ],
-         "published": "Sun, 19 Oct 2025 17:00:42 +0000",
-         "publishedParsed": "2025-10-19T17:00:42Z"
+         "published": "Sun, 19 Oct 2025 15:48:52 +0000",
+         "publishedParsed": "2025-10-19T15:48:52Z"
+     },
+     {
+         "title": "The Spilhaus Projection: A world map according to fish",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45556911\"\u003eComments\u003c/a\u003e",
+         "link": "https://southernwoodenboatsailing.com/news/the-spilhaus-projection-a-world-map-according-to-fish",
+         "links": [
+             "https://southernwoodenboatsailing.com/news/the-spilhaus-projection-a-world-map-according-to-fish"
+         ],
+         "published": "Sun, 12 Oct 2025 09:59:13 +0000",
+         "publishedParsed": "2025-10-12T09:59:13Z"
+     },
+     {
+         "title": "LoC Is a Dumb Metric for Functions",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45638986\"\u003eComments\u003c/a\u003e",
+         "link": "https://theaxolot.wordpress.com/2025/10/18/loc-is-a-dumb-metric-for-functions/",
+         "links": [
+             "https://theaxolot.wordpress.com/2025/10/18/loc-is-a-dumb-metric-for-functions/"
+         ],
+         "published": "Sun, 19 Oct 2025 23:39:57 +0000",
+         "publishedParsed": "2025-10-19T23:39:57Z"
+     },
+     {
+         "title": "Comparing the power consumption of a 30 year old refrigerator to a new one",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45577181\"\u003eComments\u003c/a\u003e",
+         "link": "https://ounapuu.ee/posts/2025/10/14/fridge-power-consumption/",
+         "links": [
+             "https://ounapuu.ee/posts/2025/10/14/fridge-power-consumption/"
+         ],
+         "published": "Tue, 14 Oct 2025 07:28:15 +0000",
+         "publishedParsed": "2025-10-14T07:28:15Z"
+     },
+     {
+         "title": "Deterministic multithreading is hard (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45632976\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.factorio.com/blog/post/fff-415",
+         "links": [
+             "https://www.factorio.com/blog/post/fff-415"
+         ],
+         "published": "Sun, 19 Oct 2025 09:20:05 +0000",
+         "publishedParsed": "2025-10-19T09:20:05Z"
      },
      {
          "title": "Pawn is a simple, typeless, 32-bit extension language with a C-like syntax",
@@ -250,14 +230,54 @@
          "publishedParsed": "2025-10-12T11:09:22Z"
      },
      {
-         "title": "Original C64 Lode Runner Source Code",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45638514\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Piddewitt/Loderunner",
+         "title": "Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45527306\"\u003eComments\u003c/a\u003e",
+         "link": "https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html",
          "links": [
-             "https://github.com/Piddewitt/Loderunner"
+             "https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html"
          ],
-         "published": "Sun, 19 Oct 2025 22:13:21 +0000",
-         "publishedParsed": "2025-10-19T22:13:21Z"
+         "published": "Thu, 09 Oct 2025 13:18:49 +0000",
+         "publishedParsed": "2025-10-09T13:18:49Z"
+     },
+     {
+         "title": "The Cancer Imaging Archive (TCIA)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45570758\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cancerimagingarchive.net/",
+         "links": [
+             "https://www.cancerimagingarchive.net/"
+         ],
+         "published": "Mon, 13 Oct 2025 17:06:44 +0000",
+         "publishedParsed": "2025-10-13T17:06:44Z"
+     },
+     {
+         "title": "The working-class hero of Bletchley Park you didn't see in the movies",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45557596\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theguardian.com/world/2025/oct/12/move-over-alan-turing-meet-the-working-class-hero-of-bletchley-park-you-didnt-see-in-the-movies",
+         "links": [
+             "https://www.theguardian.com/world/2025/oct/12/move-over-alan-turing-meet-the-working-class-hero-of-bletchley-park-you-didnt-see-in-the-movies"
+         ],
+         "published": "Sun, 12 Oct 2025 12:04:50 +0000",
+         "publishedParsed": "2025-10-12T12:04:50Z"
+     },
+     {
+         "title": "Could the XZ backdoor been detected with better Git/Deb packaging practices?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45636116\"\u003eComments\u003c/a\u003e",
+         "link": "https://optimizedbyotto.com/post/xz-backdoor-debian-git-detection/",
+         "links": [
+             "https://optimizedbyotto.com/post/xz-backdoor-debian-git-detection/"
+         ],
+         "published": "Sun, 19 Oct 2025 17:38:11 +0000",
+         "publishedParsed": "2025-10-19T17:38:11Z"
+     },
+     {
+         "title": "Replua.nvim – an Emacs-style scratch buffer for executing Lua",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45638739\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/mghaight/replua.nvim",
+         "links": [
+             "https://github.com/mghaight/replua.nvim"
+         ],
+         "published": "Sun, 19 Oct 2025 22:49:34 +0000",
+         "publishedParsed": "2025-10-19T22:49:34Z"
      },
      {
          "title": "The macOS LC_COLLATE hunt: Or why does sort order differently on macOS and Linux (2020)",
@@ -270,33 +290,13 @@
          "publishedParsed": "2025-10-19T13:01:34Z"
      },
      {
-         "title": "Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45633453\"\u003eComments\u003c/a\u003e",
-         "link": "https://demo.duckui.com",
+         "title": "Infisical (YC W23) Is Hiring Full Stack Engineers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45635757\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global",
          "links": [
-             "https://demo.duckui.com"
+             "https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global"
          ],
-         "published": "Sun, 19 Oct 2025 11:19:38 +0000",
-         "publishedParsed": "2025-10-19T11:19:38Z"
-     },
-     {
-         "title": "The case for the return of fine-tuning",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45633081\"\u003eComments\u003c/a\u003e",
-         "link": "https://welovesota.com/article/the-case-for-the-return-of-fine-tuning",
-         "links": [
-             "https://welovesota.com/article/the-case-for-the-return-of-fine-tuning"
-         ],
-         "published": "Sun, 19 Oct 2025 09:41:25 +0000",
-         "publishedParsed": "2025-10-19T09:41:25Z"
-     },
-     {
-         "title": "Show HN: Pyversity – Fast Result Diversification for Retrieval and RAG",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45634310\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Pringled/pyversity",
-         "links": [
-             "https://github.com/Pringled/pyversity"
-         ],
-         "published": "Sun, 19 Oct 2025 14:16:12 +0000",
-         "publishedParsed": "2025-10-19T14:16:12Z"
+         "published": "Sun, 19 Oct 2025 17:00:42 +0000",
+         "publishedParsed": "2025-10-19T17:00:42Z"
      }
  ]
