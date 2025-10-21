@@ -1,23 +1,13 @@
 [
      {
-         "title": "Neural audio codecs: how to get audio into LLMs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45655161\"\u003eComments\u003c/a\u003e",
-         "link": "https://kyutai.org/next/codec-explainer",
+         "title": "Replacing a $3000/mo Heroku bill with a $55/mo server",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45661253\"\u003eComments\u003c/a\u003e",
+         "link": "https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/",
          "links": [
-             "https://kyutai.org/next/codec-explainer"
+             "https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/"
          ],
-         "published": "Tue, 21 Oct 2025 12:55:59 +0000",
-         "publishedParsed": "2025-10-21T12:55:59Z"
-     },
-     {
-         "title": "LLMs can get \"brain rot\"",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45656223\"\u003eComments\u003c/a\u003e",
-         "link": "https://llm-brain-rot.github.io/",
-         "links": [
-             "https://llm-brain-rot.github.io/"
-         ],
-         "published": "Tue, 21 Oct 2025 14:24:26 +0000",
-         "publishedParsed": "2025-10-21T14:24:26Z"
+         "published": "Tue, 21 Oct 2025 20:28:15 +0000",
+         "publishedParsed": "2025-10-21T20:28:15Z"
      },
      {
          "title": "Build Your Own Database",
@@ -30,7 +20,57 @@
          "publishedParsed": "2025-10-21T16:31:51Z"
      },
      {
-         "title": "Katakate: Dozens of VMs per node for safe code exec: K8s+Kata+Firecracker",
+         "title": "Doomsday Scoreboard",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45661084\"\u003eComments\u003c/a\u003e",
+         "link": "https://doomsday.march1studios.com/",
+         "links": [
+             "https://doomsday.march1studios.com/"
+         ],
+         "published": "Tue, 21 Oct 2025 20:14:22 +0000",
+         "publishedParsed": "2025-10-21T20:14:22Z"
+     },
+     {
+         "title": "LLMs can get \"brain rot\"",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45656223\"\u003eComments\u003c/a\u003e",
+         "link": "https://llm-brain-rot.github.io/",
+         "links": [
+             "https://llm-brain-rot.github.io/"
+         ],
+         "published": "Tue, 21 Oct 2025 14:24:26 +0000",
+         "publishedParsed": "2025-10-21T14:24:26Z"
+     },
+     {
+         "title": "Neural audio codecs: how to get audio into LLMs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45655161\"\u003eComments\u003c/a\u003e",
+         "link": "https://kyutai.org/next/codec-explainer",
+         "links": [
+             "https://kyutai.org/next/codec-explainer"
+         ],
+         "published": "Tue, 21 Oct 2025 12:55:59 +0000",
+         "publishedParsed": "2025-10-21T12:55:59Z"
+     },
+     {
+         "title": "Mathematicians have found a hidden 'reset button' for undoing rotation",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45606853\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.newscientist.com/article/2499647-mathematicians-have-found-a-hidden-reset-button-for-undoing-rotation/",
+         "links": [
+             "https://www.newscientist.com/article/2499647-mathematicians-have-found-a-hidden-reset-button-for-undoing-rotation/"
+         ],
+         "published": "Thu, 16 Oct 2025 15:47:17 +0000",
+         "publishedParsed": "2025-10-16T15:47:17Z"
+     },
+     {
+         "title": "Minds, brains, and programs (1980) [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45564821\"\u003eComments\u003c/a\u003e",
+         "link": "https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf",
+         "links": [
+             "https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf"
+         ],
+         "published": "Mon, 13 Oct 2025 05:01:11 +0000",
+         "publishedParsed": "2025-10-13T05:01:11Z"
+     },
+     {
+         "title": "Show HN: Katakate – Dozens of VMs per node for safe code exec",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45656952\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/Katakate/k7",
          "links": [
@@ -38,6 +78,16 @@
          ],
          "published": "Tue, 21 Oct 2025 15:22:25 +0000",
          "publishedParsed": "2025-10-21T15:22:25Z"
+     },
+     {
+         "title": "Getting DeepSeek-OCR working on an Nvidia Spark via brute force with Claude Code",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45646559\"\u003eComments\u003c/a\u003e",
+         "link": "https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/",
+         "links": [
+             "https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/"
+         ],
+         "published": "Mon, 20 Oct 2025 17:24:49 +0000",
+         "publishedParsed": "2025-10-20T17:24:49Z"
      },
      {
          "title": "Our modular, high-performance Merkle Tree library for Rust",
@@ -50,36 +100,6 @@
          "publishedParsed": "2025-10-21T12:58:57Z"
      },
      {
-         "title": "ChatGPT Atlas",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45658479\"\u003eComments\u003c/a\u003e",
-         "link": "https://chatgpt.com/atlas",
-         "links": [
-             "https://chatgpt.com/atlas"
-         ],
-         "published": "Tue, 21 Oct 2025 17:18:13 +0000",
-         "publishedParsed": "2025-10-21T17:18:13Z"
-     },
-     {
-         "title": "The Greatness of Text Adventures",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45657922\"\u003eComments\u003c/a\u003e",
-         "link": "https://entropicthoughts.com/the-greatness-of-text-adventures",
-         "links": [
-             "https://entropicthoughts.com/the-greatness-of-text-adventures"
-         ],
-         "published": "Tue, 21 Oct 2025 16:39:44 +0000",
-         "publishedParsed": "2025-10-21T16:39:44Z"
-     },
-     {
-         "title": "Do not accept terms and conditions- the game",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45621020\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.termsandconditions.game/",
-         "links": [
-             "https://www.termsandconditions.game/"
-         ],
-         "published": "Fri, 17 Oct 2025 19:32:46 +0000",
-         "publishedParsed": "2025-10-17T19:32:46Z"
-     },
-     {
          "title": "Flexport Is Hiring SDRs in Chicago",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45658221\"\u003eComments\u003c/a\u003e",
          "link": "https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976",
@@ -90,16 +110,6 @@
          "publishedParsed": "2025-10-21T17:01:02Z"
      },
      {
-         "title": "Magit Is Amazing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45659812\"\u003eComments\u003c/a\u003e",
-         "link": "https://heiwiper.com/posts/magit-is-awesome/",
-         "links": [
-             "https://heiwiper.com/posts/magit-is-awesome/"
-         ],
-         "published": "Tue, 21 Oct 2025 18:39:18 +0000",
-         "publishedParsed": "2025-10-21T18:39:18Z"
-     },
-     {
          "title": "Ilo – a Forth system running on UEFI",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45655263\"\u003eComments\u003c/a\u003e",
          "link": "https://asciinema.org/a/Lbxa2w9R5IbaJqW3INqVrbX8E",
@@ -108,6 +118,46 @@
          ],
          "published": "Tue, 21 Oct 2025 13:05:21 +0000",
          "publishedParsed": "2025-10-21T13:05:21Z"
+     },
+     {
+         "title": "ChatGPT Atlas",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45658479\"\u003eComments\u003c/a\u003e",
+         "link": "https://chatgpt.com/atlas",
+         "links": [
+             "https://chatgpt.com/atlas"
+         ],
+         "published": "Tue, 21 Oct 2025 17:18:13 +0000",
+         "publishedParsed": "2025-10-21T17:18:13Z"
+     },
+     {
+         "title": "Diamond Thermal Conductivity: A New Era in Chip Cooling",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45654512\"\u003eComments\u003c/a\u003e",
+         "link": "https://spectrum.ieee.org/diamond-thermal-conductivity",
+         "links": [
+             "https://spectrum.ieee.org/diamond-thermal-conductivity"
+         ],
+         "published": "Tue, 21 Oct 2025 11:16:34 +0000",
+         "publishedParsed": "2025-10-21T11:16:34Z"
+     },
+     {
+         "title": "Binary Retrieval-Augmented Reward Mitigates Hallucinations",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45657595\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2510.17733",
+         "links": [
+             "https://arxiv.org/abs/2510.17733"
+         ],
+         "published": "Tue, 21 Oct 2025 16:14:28 +0000",
+         "publishedParsed": "2025-10-21T16:14:28Z"
+     },
+     {
+         "title": "AWS multiple services outage in us-east-1",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45640838\"\u003eComments\u003c/a\u003e",
+         "link": "https://health.aws.amazon.com/health/status?ts=20251020",
+         "links": [
+             "https://health.aws.amazon.com/health/status?ts=20251020"
+         ],
+         "published": "Mon, 20 Oct 2025 07:22:28 +0000",
+         "publishedParsed": "2025-10-20T07:22:28Z"
      },
      {
          "title": "The Programmer Identity Crisis",
@@ -130,94 +180,54 @@
          "publishedParsed": "2025-10-21T11:42:14Z"
      },
      {
-         "title": "Wikipedia says traffic is falling due to AI search summaries and social video",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45651485\"\u003eComments\u003c/a\u003e",
-         "link": "https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/",
+         "title": "What do we do if SETI is successful?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45646414\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.universetoday.com/articles/what-do-we-do-if-seti-is-successful",
          "links": [
-             "https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/"
+             "https://www.universetoday.com/articles/what-do-we-do-if-seti-is-successful"
          ],
-         "published": "Tue, 21 Oct 2025 01:29:03 +0000",
-         "publishedParsed": "2025-10-21T01:29:03Z"
+         "published": "Mon, 20 Oct 2025 17:13:44 +0000",
+         "publishedParsed": "2025-10-20T17:13:44Z"
      },
      {
-         "title": "Diamond Thermal Conductivity: A New Era in Chip Cooling",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45654512\"\u003eComments\u003c/a\u003e",
-         "link": "https://spectrum.ieee.org/diamond-thermal-conductivity",
+         "title": "Magit Is Amazing",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45659812\"\u003eComments\u003c/a\u003e",
+         "link": "https://heiwiper.com/posts/magit-is-awesome/",
          "links": [
-             "https://spectrum.ieee.org/diamond-thermal-conductivity"
+             "https://heiwiper.com/posts/magit-is-awesome/"
          ],
-         "published": "Tue, 21 Oct 2025 11:16:34 +0000",
-         "publishedParsed": "2025-10-21T11:16:34Z"
+         "published": "Tue, 21 Oct 2025 18:39:18 +0000",
+         "publishedParsed": "2025-10-21T18:39:18Z"
      },
      {
-         "title": "AWS multiple services outage in us-east-1",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45640838\"\u003eComments\u003c/a\u003e",
-         "link": "https://health.aws.amazon.com/health/status?ts=20251020",
+         "title": "The death of thread per core",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45649510\"\u003eComments\u003c/a\u003e",
+         "link": "https://buttondown.com/jaffray/archive/the-death-of-thread-per-core/",
          "links": [
-             "https://health.aws.amazon.com/health/status?ts=20251020"
+             "https://buttondown.com/jaffray/archive/the-death-of-thread-per-core/"
          ],
-         "published": "Mon, 20 Oct 2025 07:22:28 +0000",
-         "publishedParsed": "2025-10-20T07:22:28Z"
+         "published": "Mon, 20 Oct 2025 21:19:19 +0000",
+         "publishedParsed": "2025-10-20T21:19:19Z"
      },
      {
-         "title": "Mathematicians have found a hidden 'reset button' for undoing rotation",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45606853\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.newscientist.com/article/2499647-mathematicians-have-found-a-hidden-reset-button-for-undoing-rotation/",
+         "title": "Show HN: ASCII Automata",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45621571\"\u003eComments\u003c/a\u003e",
+         "link": "https://hlnet.neocities.org/ascii-automata/",
          "links": [
-             "https://www.newscientist.com/article/2499647-mathematicians-have-found-a-hidden-reset-button-for-undoing-rotation/"
+             "https://hlnet.neocities.org/ascii-automata/"
          ],
-         "published": "Thu, 16 Oct 2025 15:47:17 +0000",
-         "publishedParsed": "2025-10-16T15:47:17Z"
+         "published": "Fri, 17 Oct 2025 20:19:56 +0000",
+         "publishedParsed": "2025-10-17T20:19:56Z"
      },
      {
-         "title": "RF Shielding History: When the FCC Cracked Down on Computers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45656247\"\u003eComments\u003c/a\u003e",
-         "link": "https://tedium.co/2025/10/20/computers-fcc-rf-interference-history/",
+         "title": "Renato Casaro, 'Michelangelo of Movie Posters,' Dies at 89",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45556413\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nytimes.com/2025/10/10/movies/renato-casaro-dead.html",
          "links": [
-             "https://tedium.co/2025/10/20/computers-fcc-rf-interference-history/"
+             "https://www.nytimes.com/2025/10/10/movies/renato-casaro-dead.html"
          ],
-         "published": "Tue, 21 Oct 2025 14:26:20 +0000",
-         "publishedParsed": "2025-10-21T14:26:20Z"
-     },
-     {
-         "title": "Bare Metal (The Emacs Essay)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45584680\"\u003eComments\u003c/a\u003e",
-         "link": "https://waxbanks.wordpress.com/2025/08/01/bare-metal-the-emacs-essay/",
-         "links": [
-             "https://waxbanks.wordpress.com/2025/08/01/bare-metal-the-emacs-essay/"
-         ],
-         "published": "Tue, 14 Oct 2025 20:50:50 +0000",
-         "publishedParsed": "2025-10-14T20:50:50Z"
-     },
-     {
-         "title": "Is Sora the beginning of the end for OpenAI?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45657428\"\u003eComments\u003c/a\u003e",
-         "link": "https://calnewport.com/is-sora-the-beginning-of-the-end-for-openai/",
-         "links": [
-             "https://calnewport.com/is-sora-the-beginning-of-the-end-for-openai/"
-         ],
-         "published": "Tue, 21 Oct 2025 16:01:17 +0000",
-         "publishedParsed": "2025-10-21T16:01:17Z"
-     },
-     {
-         "title": "UA 1093",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45656044\"\u003eComments\u003c/a\u003e",
-         "link": "https://windbornesystems.com/blog/ua-1093",
-         "links": [
-             "https://windbornesystems.com/blog/ua-1093"
-         ],
-         "published": "Tue, 21 Oct 2025 14:11:01 +0000",
-         "publishedParsed": "2025-10-21T14:11:01Z"
-     },
-     {
-         "title": "Language Support for Marginalia Search",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45653143\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.marginalia.nu/log/a_126_multilingual/",
-         "links": [
-             "https://www.marginalia.nu/log/a_126_multilingual/"
-         ],
-         "published": "Tue, 21 Oct 2025 06:48:53 +0000",
-         "publishedParsed": "2025-10-21T06:48:53Z"
+         "published": "Sun, 12 Oct 2025 08:24:49 +0000",
+         "publishedParsed": "2025-10-12T08:24:49Z"
      },
      {
          "title": "60k kids have avoided peanut allergies due to 2015 advice, study finds",
@@ -230,33 +240,13 @@
          "publishedParsed": "2025-10-21T03:53:20Z"
      },
      {
-         "title": "The Emulator's Gambit: Executing Code from Non-Executable Memory",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45611444\"\u003eComments\u003c/a\u003e",
-         "link": "https://redops.at/en/blog/the-emulators-gambit-executing-code-from-non-executable-memory",
+         "title": "Bare Metal (The Emacs Essay)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45584680\"\u003eComments\u003c/a\u003e",
+         "link": "https://waxbanks.wordpress.com/2025/08/01/bare-metal-the-emacs-essay/",
          "links": [
-             "https://redops.at/en/blog/the-emulators-gambit-executing-code-from-non-executable-memory"
+             "https://waxbanks.wordpress.com/2025/08/01/bare-metal-the-emacs-essay/"
          ],
-         "published": "Thu, 16 Oct 2025 22:27:00 +0000",
-         "publishedParsed": "2025-10-16T22:27:00Z"
-     },
-     {
-         "title": "Binary Retrieval-Augmented Reward Mitigates Hallucinations",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45657595\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2510.17733",
-         "links": [
-             "https://arxiv.org/abs/2510.17733"
-         ],
-         "published": "Tue, 21 Oct 2025 16:14:28 +0000",
-         "publishedParsed": "2025-10-21T16:14:28Z"
-     },
-     {
-         "title": "KDE Connect: Enabling communication between all your devices",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45557599\"\u003eComments\u003c/a\u003e",
-         "link": "https://community.kde.org/KDEConnect",
-         "links": [
-             "https://community.kde.org/KDEConnect"
-         ],
-         "published": "Sun, 12 Oct 2025 12:04:51 +0000",
-         "publishedParsed": "2025-10-12T12:04:51Z"
+         "published": "Tue, 14 Oct 2025 20:50:50 +0000",
+         "publishedParsed": "2025-10-14T20:50:50Z"
      }
  ]
