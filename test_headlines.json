@@ -10,6 +10,16 @@
          "publishedParsed": "2025-10-14T18:04:01Z"
      },
      {
+         "title": "AWS multiple services outage in us-east-1",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45640838\"\u003eComments\u003c/a\u003e",
+         "link": "https://health.aws.amazon.com/health/status?ts=20251020",
+         "links": [
+             "https://health.aws.amazon.com/health/status?ts=20251020"
+         ],
+         "published": "Mon, 20 Oct 2025 07:22:28 +0000",
+         "publishedParsed": "2025-10-20T07:22:28Z"
+     },
+     {
          "title": "Building a message queue with only two UNIX signals",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45650178\"\u003eComments\u003c/a\u003e",
          "link": "https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals",
@@ -18,6 +28,16 @@
          ],
          "published": "Mon, 20 Oct 2025 22:22:45 +0000",
          "publishedParsed": "2025-10-20T22:22:45Z"
+     },
+     {
+         "title": "A laser pointer at 2B FPS [video]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45632429\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.youtube.com/watch?v=o4TdHrMi6do",
+         "links": [
+             "https://www.youtube.com/watch?v=o4TdHrMi6do"
+         ],
+         "published": "Sun, 19 Oct 2025 06:42:19 +0000",
+         "publishedParsed": "2025-10-19T06:42:19Z"
      },
      {
          "title": "Claude Code on the web",
@@ -30,14 +50,14 @@
          "publishedParsed": "2025-10-20T18:12:23Z"
      },
      {
-         "title": "My trick for getting consistent classification from LLMs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45571423\"\u003eComments\u003c/a\u003e",
-         "link": "https://verdik.substack.com/p/how-to-get-consistent-classification",
+         "title": "Why UUIDs won't protect your secrets",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45650617\"\u003eComments\u003c/a\u003e",
+         "link": "https://alexsci.com/blog/uuids-and-idor/",
          "links": [
-             "https://verdik.substack.com/p/how-to-get-consistent-classification"
+             "https://alexsci.com/blog/uuids-and-idor/"
          ],
-         "published": "Mon, 13 Oct 2025 18:01:07 +0000",
-         "publishedParsed": "2025-10-13T18:01:07Z"
+         "published": "Mon, 20 Oct 2025 23:16:41 +0000",
+         "publishedParsed": "2025-10-20T23:16:41Z"
      },
      {
          "title": "Production RAG: what I learned from processing 5M+ documents",
@@ -60,16 +80,6 @@
          "publishedParsed": "2025-10-20T14:31:16Z"
      },
      {
-         "title": "A laser pointer at 2B FPS [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45632429\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=o4TdHrMi6do",
-         "links": [
-             "https://www.youtube.com/watch?v=o4TdHrMi6do"
-         ],
-         "published": "Sun, 19 Oct 2025 06:42:19 +0000",
-         "publishedParsed": "2025-10-19T06:42:19Z"
-     },
-     {
          "title": "Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45643163\"\u003eComments\u003c/a\u003e",
          "link": "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent",
@@ -78,6 +88,26 @@
          ],
          "published": "Mon, 20 Oct 2025 12:31:22 +0000",
          "publishedParsed": "2025-10-20T12:31:22Z"
+     },
+     {
+         "title": "Postman which I thought worked locally on my computer, is down",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45645172\"\u003eComments\u003c/a\u003e",
+         "link": "https://status.postman.com",
+         "links": [
+             "https://status.postman.com"
+         ],
+         "published": "Mon, 20 Oct 2025 15:40:40 +0000",
+         "publishedParsed": "2025-10-20T15:40:40Z"
+     },
+     {
+         "title": "My trick for getting consistent classification from LLMs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45571423\"\u003eComments\u003c/a\u003e",
+         "link": "https://verdik.substack.com/p/how-to-get-consistent-classification",
+         "links": [
+             "https://verdik.substack.com/p/how-to-get-consistent-classification"
+         ],
+         "published": "Mon, 13 Oct 2025 18:01:07 +0000",
+         "publishedParsed": "2025-10-13T18:01:07Z"
      },
      {
          "title": "Show HN: I created a cross-platform GUI for the JJ VCS (Git compatible)",
@@ -90,14 +120,24 @@
          "publishedParsed": "2025-10-20T15:35:19Z"
      },
      {
-         "title": "Postman which I thought worked locally on my computer, is down",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45645172\"\u003eComments\u003c/a\u003e",
-         "link": "https://status.postman.com",
+         "title": "Today is when the Amazon brain drain sent AWS down the spout",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45649178\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/",
          "links": [
-             "https://status.postman.com"
+             "https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/"
          ],
-         "published": "Mon, 20 Oct 2025 15:40:40 +0000",
-         "publishedParsed": "2025-10-20T15:40:40Z"
+         "published": "Mon, 20 Oct 2025 20:50:03 +0000",
+         "publishedParsed": "2025-10-20T20:50:03Z"
+     },
+     {
+         "title": "I made a small LED panel",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45529120\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.stavros.io/posts/really-small-led-panel/",
+         "links": [
+             "https://www.stavros.io/posts/really-small-led-panel/"
+         ],
+         "published": "Thu, 09 Oct 2025 15:31:38 +0000",
+         "publishedParsed": "2025-10-09T15:31:38Z"
      },
      {
          "title": "x86-64 Playground – An online assembly editor and GDB-like debugger",
@@ -120,46 +160,6 @@
          "publishedParsed": "2025-10-17T20:18:54Z"
      },
      {
-         "title": "AWS Multiple Services Down in us-east-1",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45640838\"\u003eComments\u003c/a\u003e",
-         "link": "https://health.aws.amazon.com/health/status?ts=20251020",
-         "links": [
-             "https://health.aws.amazon.com/health/status?ts=20251020"
-         ],
-         "published": "Mon, 20 Oct 2025 07:22:28 +0000",
-         "publishedParsed": "2025-10-20T07:22:28Z"
-     },
-     {
-         "title": "The scariest \"user support\" email I've ever received",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45589715\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.devas.life/the-scariest-user-support-email-ive-ever-received/",
-         "links": [
-             "https://www.devas.life/the-scariest-user-support-email-ive-ever-received/"
-         ],
-         "published": "Wed, 15 Oct 2025 08:47:32 +0000",
-         "publishedParsed": "2025-10-15T08:47:32Z"
-     },
-     {
-         "title": "Art Must Act",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45612223\"\u003eComments\u003c/a\u003e",
-         "link": "https://aeon.co/essays/harold-rosenberg-exhorted-artists-to-take-action-and-resist-cliche",
-         "links": [
-             "https://aeon.co/essays/harold-rosenberg-exhorted-artists-to-take-action-and-resist-cliche"
-         ],
-         "published": "Fri, 17 Oct 2025 00:28:01 +0000",
-         "publishedParsed": "2025-10-17T00:28:01Z"
-     },
-     {
-         "title": "TernFS – an exabyte scale, multi-region distributed filesystem",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45646691\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped",
-         "links": [
-             "https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped"
-         ],
-         "published": "Mon, 20 Oct 2025 17:36:16 +0000",
-         "publishedParsed": "2025-10-20T17:36:16Z"
-     },
-     {
          "title": "How to stop Linux threads cleanly",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45589156\"\u003eComments\u003c/a\u003e",
          "link": "https://mazzo.li/posts/stopping-linux-threads.html",
@@ -170,14 +170,14 @@
          "publishedParsed": "2025-10-15T07:28:45Z"
      },
      {
-         "title": "Atomic-Scale Protein Filters",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45594403\"\u003eComments\u003c/a\u003e",
-         "link": "https://press.asimov.com/articles/filters",
+         "title": "TernFS – an exabyte scale, multi-region distributed filesystem",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45646691\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped",
          "links": [
-             "https://press.asimov.com/articles/filters"
+             "https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped"
          ],
-         "published": "Wed, 15 Oct 2025 15:49:13 +0000",
-         "publishedParsed": "2025-10-15T15:49:13Z"
+         "published": "Mon, 20 Oct 2025 17:36:16 +0000",
+         "publishedParsed": "2025-10-20T17:36:16Z"
      },
      {
          "title": "Optical diffraction patterns made with a MOPA laser engraving machine [video]",
@@ -200,24 +200,44 @@
          "publishedParsed": "2025-10-20T04:42:08Z"
      },
      {
-         "title": "The longest baseball game took 33 innings to win",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45590743\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.mlb.com/news/the-longest-professional-baseball-game-ever-played",
+         "title": "Wikipedia says traffic is falling due to AI search summaries and social video",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45651485\"\u003eComments\u003c/a\u003e",
+         "link": "https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/",
          "links": [
-             "https://www.mlb.com/news/the-longest-professional-baseball-game-ever-played"
+             "https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/"
          ],
-         "published": "Wed, 15 Oct 2025 11:18:55 +0000",
-         "publishedParsed": "2025-10-15T11:18:55Z"
+         "published": "Tue, 21 Oct 2025 01:29:03 +0000",
+         "publishedParsed": "2025-10-21T01:29:03Z"
      },
      {
-         "title": "Old Is Gold: Optimizing Single-Threaded Applications with Exgen-Malloc",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45588116\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2510.10219",
+         "title": "Art Must Act",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45612223\"\u003eComments\u003c/a\u003e",
+         "link": "https://aeon.co/essays/harold-rosenberg-exhorted-artists-to-take-action-and-resist-cliche",
          "links": [
-             "https://arxiv.org/abs/2510.10219"
+             "https://aeon.co/essays/harold-rosenberg-exhorted-artists-to-take-action-and-resist-cliche"
          ],
-         "published": "Wed, 15 Oct 2025 04:33:36 +0000",
-         "publishedParsed": "2025-10-15T04:33:36Z"
+         "published": "Fri, 17 Oct 2025 00:28:01 +0000",
+         "publishedParsed": "2025-10-17T00:28:01Z"
+     },
+     {
+         "title": "The scariest \"user support\" email I've received",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45589715\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.devas.life/the-scariest-user-support-email-ive-ever-received/",
+         "links": [
+             "https://www.devas.life/the-scariest-user-support-email-ive-ever-received/"
+         ],
+         "published": "Wed, 15 Oct 2025 08:47:32 +0000",
+         "publishedParsed": "2025-10-15T08:47:32Z"
+     },
+     {
+         "title": "Results from blood test for 50 cancers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45623509\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bbc.com/news/articles/c205g21n1zzo",
+         "links": [
+             "https://www.bbc.com/news/articles/c205g21n1zzo"
+         ],
+         "published": "Fri, 17 Oct 2025 23:54:40 +0000",
+         "publishedParsed": "2025-10-17T23:54:40Z"
      },
      {
          "title": "Docker Systems Status: Full Service Disruption",
@@ -230,24 +250,24 @@
          "publishedParsed": "2025-10-20T07:31:23Z"
      },
      {
-         "title": "J.P. Morgan's OpenAI loan is strange",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45648258\"\u003eComments\u003c/a\u003e",
-         "link": "https://marketunpack.com/j-p-morgans-openai-loan-is-strange/",
+         "title": "Old Computer Challenge – Modern Web for the ZX Spectrum",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45650792\"\u003eComments\u003c/a\u003e",
+         "link": "https://0x00.cl/blog/2025/occ-2025/",
          "links": [
-             "https://marketunpack.com/j-p-morgans-openai-loan-is-strange/"
+             "https://0x00.cl/blog/2025/occ-2025/"
          ],
-         "published": "Mon, 20 Oct 2025 19:38:52 +0000",
-         "publishedParsed": "2025-10-20T19:38:52Z"
+         "published": "Mon, 20 Oct 2025 23:40:25 +0000",
+         "publishedParsed": "2025-10-20T23:40:25Z"
      },
      {
-         "title": "Servo v0.0.1",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45643357\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/servo/servo",
+         "title": "The longest baseball game took 33 innings to win",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45590743\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.mlb.com/news/the-longest-professional-baseball-game-ever-played",
          "links": [
-             "https://github.com/servo/servo"
+             "https://www.mlb.com/news/the-longest-professional-baseball-game-ever-played"
          ],
-         "published": "Mon, 20 Oct 2025 12:55:30 +0000",
-         "publishedParsed": "2025-10-20T12:55:30Z"
+         "published": "Wed, 15 Oct 2025 11:18:55 +0000",
+         "publishedParsed": "2025-10-15T11:18:55Z"
      },
      {
          "title": "DeepSeek OCR",
@@ -260,23 +280,13 @@
          "publishedParsed": "2025-10-20T06:26:33Z"
      },
      {
-         "title": "Why UUIDs won't protect your secrets",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45650617\"\u003eComments\u003c/a\u003e",
-         "link": "https://alexsci.com/blog/uuids-and-idor/",
+         "title": "Servo v0.0.1",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45643357\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/servo/servo",
          "links": [
-             "https://alexsci.com/blog/uuids-and-idor/"
+             "https://github.com/servo/servo"
          ],
-         "published": "Mon, 20 Oct 2025 23:16:41 +0000",
-         "publishedParsed": "2025-10-20T23:16:41Z"
-     },
-     {
-         "title": "iOS 26.1 lets users control Liquid Glass transparency",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45648266\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/",
-         "links": [
-             "https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/"
-         ],
-         "published": "Mon, 20 Oct 2025 19:39:46 +0000",
-         "publishedParsed": "2025-10-20T19:39:46Z"
+         "published": "Mon, 20 Oct 2025 12:55:30 +0000",
+         "publishedParsed": "2025-10-20T12:55:30Z"
      }
  ]
