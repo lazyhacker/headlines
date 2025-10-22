@@ -1,13 +1,13 @@
 [
      {
-         "title": "PoE basics and beyond: What every engineer should know",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45605556\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/",
+         "title": "Evaluating the Infinity Cache in AMD Strix Halo",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45664848\"\u003eComments\u003c/a\u003e",
+         "link": "https://chipsandcheese.com/p/evaluating-the-infinity-cache-in",
          "links": [
-             "https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/"
+             "https://chipsandcheese.com/p/evaluating-the-infinity-cache-in"
          ],
-         "published": "Thu, 16 Oct 2025 14:09:21 +0000",
-         "publishedParsed": "2025-10-16T14:09:21Z"
+         "published": "Wed, 22 Oct 2025 04:20:09 +0000",
+         "publishedParsed": "2025-10-22T04:20:09Z"
      },
      {
          "title": "rlsw – Raylib software OpenGL renderer in less than 5k LOC",
@@ -20,14 +20,14 @@
          "publishedParsed": "2025-10-21T21:00:10Z"
      },
      {
-         "title": "Replacing a $3000/mo Heroku bill with a $55/mo server",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45661253\"\u003eComments\u003c/a\u003e",
-         "link": "https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/",
+         "title": "Power over Ethernet (PoE) basics and beyond",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45605556\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/",
          "links": [
-             "https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/"
+             "https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/"
          ],
-         "published": "Tue, 21 Oct 2025 20:28:15 +0000",
-         "publishedParsed": "2025-10-21T20:28:15Z"
+         "published": "Thu, 16 Oct 2025 14:09:21 +0000",
+         "publishedParsed": "2025-10-16T14:09:21Z"
      },
      {
          "title": "OpenBSD 7.8 Released",
@@ -40,16 +40,6 @@
          "publishedParsed": "2025-10-22T02:02:58Z"
      },
      {
-         "title": "The Hidden Engineering of Niagara Falls",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45662668\"\u003eComments\u003c/a\u003e",
-         "link": "https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls",
-         "links": [
-             "https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls"
-         ],
-         "published": "Tue, 21 Oct 2025 22:43:07 +0000",
-         "publishedParsed": "2025-10-21T22:43:07Z"
-     },
-     {
          "title": "LLMs can get \"brain rot\"",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45656223\"\u003eComments\u003c/a\u003e",
          "link": "https://llm-brain-rot.github.io/",
@@ -60,14 +50,14 @@
          "publishedParsed": "2025-10-21T14:24:26Z"
      },
      {
-         "title": "Neural audio codecs: how to get audio into LLMs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45655161\"\u003eComments\u003c/a\u003e",
-         "link": "https://kyutai.org/next/codec-explainer",
+         "title": "Replacing a $3000/mo Heroku bill with a $55/mo server",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45661253\"\u003eComments\u003c/a\u003e",
+         "link": "https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/",
          "links": [
-             "https://kyutai.org/next/codec-explainer"
+             "https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/"
          ],
-         "published": "Tue, 21 Oct 2025 12:55:59 +0000",
-         "publishedParsed": "2025-10-21T12:55:59Z"
+         "published": "Tue, 21 Oct 2025 20:28:15 +0000",
+         "publishedParsed": "2025-10-21T20:28:15Z"
      },
      {
          "title": "Ask HN: Our AWS account got compromised after their outage",
@@ -80,14 +70,54 @@
          "publishedParsed": "2025-10-21T15:55:41Z"
      },
      {
-         "title": "ChatGPT Atlas",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45658479\"\u003eComments\u003c/a\u003e",
-         "link": "https://chatgpt.com/atlas",
+         "title": "Neural audio codecs: how to get audio into LLMs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45655161\"\u003eComments\u003c/a\u003e",
+         "link": "https://kyutai.org/next/codec-explainer",
          "links": [
-             "https://chatgpt.com/atlas"
+             "https://kyutai.org/next/codec-explainer"
          ],
-         "published": "Tue, 21 Oct 2025 17:18:13 +0000",
-         "publishedParsed": "2025-10-21T17:18:13Z"
+         "published": "Tue, 21 Oct 2025 12:55:59 +0000",
+         "publishedParsed": "2025-10-21T12:55:59Z"
+     },
+     {
+         "title": "Wikipedia says traffic is falling due to AI search summaries and social video",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45651485\"\u003eComments\u003c/a\u003e",
+         "link": "https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/",
+         "links": [
+             "https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/"
+         ],
+         "published": "Tue, 21 Oct 2025 01:29:03 +0000",
+         "publishedParsed": "2025-10-21T01:29:03Z"
+     },
+     {
+         "title": "The Hidden Engineering of Niagara Falls",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45662668\"\u003eComments\u003c/a\u003e",
+         "link": "https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls",
+         "links": [
+             "https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls"
+         ],
+         "published": "Tue, 21 Oct 2025 22:43:07 +0000",
+         "publishedParsed": "2025-10-21T22:43:07Z"
+     },
+     {
+         "title": "Show HN: Modshim – a new alternative to monkey-patching in Python",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45604013\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/joouha/modshim",
+         "links": [
+             "https://github.com/joouha/modshim"
+         ],
+         "published": "Thu, 16 Oct 2025 11:17:56 +0000",
+         "publishedParsed": "2025-10-16T11:17:56Z"
+     },
+     {
+         "title": "Show HN: AutoLearn Skills for self-improving agents",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45664431\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.autolearn.dev",
+         "links": [
+             "https://www.autolearn.dev"
+         ],
+         "published": "Wed, 22 Oct 2025 02:54:38 +0000",
+         "publishedParsed": "2025-10-22T02:54:38Z"
      },
      {
          "title": "Mathematicians have found a hidden 'reset button' for undoing rotation",
@@ -100,6 +130,16 @@
          "publishedParsed": "2025-10-16T15:47:17Z"
      },
      {
+         "title": "ChatGPT Atlas",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45658479\"\u003eComments\u003c/a\u003e",
+         "link": "https://chatgpt.com/atlas",
+         "links": [
+             "https://chatgpt.com/atlas"
+         ],
+         "published": "Tue, 21 Oct 2025 17:18:13 +0000",
+         "publishedParsed": "2025-10-21T17:18:13Z"
+     },
+     {
          "title": "Rectal oxygen delivery might soon be a real medical treatment",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45662831\"\u003eComments\u003c/a\u003e",
          "link": "https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/",
@@ -108,26 +148,6 @@
          ],
          "published": "Tue, 21 Oct 2025 23:00:40 +0000",
          "publishedParsed": "2025-10-21T23:00:40Z"
-     },
-     {
-         "title": "Cdb: Add support for cdb64",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45663435\"\u003eComments\u003c/a\u003e",
-         "link": "https://cdb.cr.yp.to/download.html",
-         "links": [
-             "https://cdb.cr.yp.to/download.html"
-         ],
-         "published": "Wed, 22 Oct 2025 00:11:09 +0000",
-         "publishedParsed": "2025-10-22T00:11:09Z"
-     },
-     {
-         "title": "Doomsday scoreboard",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45661084\"\u003eComments\u003c/a\u003e",
-         "link": "https://doomsday.march1studios.com/",
-         "links": [
-             "https://doomsday.march1studios.com/"
-         ],
-         "published": "Tue, 21 Oct 2025 20:14:22 +0000",
-         "publishedParsed": "2025-10-21T20:14:22Z"
      },
      {
          "title": "Getting DeepSeek-OCR working on an Nvidia Spark via brute force with Claude Code",
@@ -150,14 +170,14 @@
          "publishedParsed": "2025-10-21T16:31:51Z"
      },
      {
-         "title": "Minds, brains, and programs (1980) [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45564821\"\u003eComments\u003c/a\u003e",
-         "link": "https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf",
+         "title": "Drawing Text Isn't Simple: Benchmarking Console vs. Graphical Rendering",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45580559\"\u003eComments\u003c/a\u003e",
+         "link": "https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html",
          "links": [
-             "https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf"
+             "https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html"
          ],
-         "published": "Mon, 13 Oct 2025 05:01:11 +0000",
-         "publishedParsed": "2025-10-13T05:01:11Z"
+         "published": "Tue, 14 Oct 2025 14:34:47 +0000",
+         "publishedParsed": "2025-10-14T14:34:47Z"
      },
      {
          "title": "60k kids have avoided peanut allergies due to 2015 advice, study finds",
@@ -170,6 +190,26 @@
          "publishedParsed": "2025-10-21T03:53:20Z"
      },
      {
+         "title": "Minds, brains, and programs (1980) [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45564821\"\u003eComments\u003c/a\u003e",
+         "link": "https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf",
+         "links": [
+             "https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf"
+         ],
+         "published": "Mon, 13 Oct 2025 05:01:11 +0000",
+         "publishedParsed": "2025-10-13T05:01:11Z"
+     },
+     {
+         "title": "Understanding conflict resolution and avoidance in PostgreSQL: a complete guide",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45548125\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.pgedge.com/blog/living-on-the-edge",
+         "links": [
+             "https://www.pgedge.com/blog/living-on-the-edge"
+         ],
+         "published": "Sat, 11 Oct 2025 10:57:28 +0000",
+         "publishedParsed": "2025-10-11T10:57:28Z"
+     },
+     {
          "title": "What do we do if SETI is successful?",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45646414\"\u003eComments\u003c/a\u003e",
          "link": "https://www.universetoday.com/articles/what-do-we-do-if-seti-is-successful",
@@ -178,6 +218,46 @@
          ],
          "published": "Mon, 20 Oct 2025 17:13:44 +0000",
          "publishedParsed": "2025-10-20T17:13:44Z"
+     },
+     {
+         "title": "Doomsday scoreboard",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45661084\"\u003eComments\u003c/a\u003e",
+         "link": "https://doomsday.march1studios.com/",
+         "links": [
+             "https://doomsday.march1studios.com/"
+         ],
+         "published": "Tue, 21 Oct 2025 20:14:22 +0000",
+         "publishedParsed": "2025-10-21T20:14:22Z"
+     },
+     {
+         "title": "Erowid - Documenting the Complex Relationship Between Humans and Psychoactives",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45661306\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.erowid.org",
+         "links": [
+             "https://www.erowid.org"
+         ],
+         "published": "Tue, 21 Oct 2025 20:31:47 +0000",
+         "publishedParsed": "2025-10-21T20:31:47Z"
+     },
+     {
+         "title": "Flexport Is Hiring SDRs in Chicago",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45658221\"\u003eComments\u003c/a\u003e",
+         "link": "https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976",
+         "links": [
+             "https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976"
+         ],
+         "published": "Tue, 21 Oct 2025 17:01:02 +0000",
+         "publishedParsed": "2025-10-21T17:01:02Z"
+     },
+     {
+         "title": "Foreign hackers breached a US nuclear weapons plant via SharePoint flaws",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45657287\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html",
+         "links": [
+             "https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html"
+         ],
+         "published": "Tue, 21 Oct 2025 15:51:33 +0000",
+         "publishedParsed": "2025-10-21T15:51:33Z"
      },
      {
          "title": "The death of thread per core",
@@ -198,65 +278,5 @@
          ],
          "published": "Tue, 21 Oct 2025 15:22:25 +0000",
          "publishedParsed": "2025-10-21T15:22:25Z"
-     },
-     {
-         "title": "Understanding conflict resolution and avoidance in PostgreSQL: a complete guide",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45548125\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.pgedge.com/blog/living-on-the-edge",
-         "links": [
-             "https://www.pgedge.com/blog/living-on-the-edge"
-         ],
-         "published": "Sat, 11 Oct 2025 10:57:28 +0000",
-         "publishedParsed": "2025-10-11T10:57:28Z"
-     },
-     {
-         "title": "Flexport Is Hiring SDRs in Chicago",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45658221\"\u003eComments\u003c/a\u003e",
-         "link": "https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976",
-         "links": [
-             "https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976"
-         ],
-         "published": "Tue, 21 Oct 2025 17:01:02 +0000",
-         "publishedParsed": "2025-10-21T17:01:02Z"
-     },
-     {
-         "title": "Diamond Thermal Conductivity: A New Era in Chip Cooling",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45654512\"\u003eComments\u003c/a\u003e",
-         "link": "https://spectrum.ieee.org/diamond-thermal-conductivity",
-         "links": [
-             "https://spectrum.ieee.org/diamond-thermal-conductivity"
-         ],
-         "published": "Tue, 21 Oct 2025 11:16:34 +0000",
-         "publishedParsed": "2025-10-21T11:16:34Z"
-     },
-     {
-         "title": "I Bought $250k Worth of Physical Nickels",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45664358\"\u003eComments\u003c/a\u003e",
-         "link": "https://twitter.com/opinioncasino/status/1980038177785000114",
-         "links": [
-             "https://twitter.com/opinioncasino/status/1980038177785000114"
-         ],
-         "published": "Wed, 22 Oct 2025 02:42:38 +0000",
-         "publishedParsed": "2025-10-22T02:42:38Z"
-     },
-     {
-         "title": "Do not accept terms and conditions",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45621020\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.termsandconditions.game/",
-         "links": [
-             "https://www.termsandconditions.game/"
-         ],
-         "published": "Fri, 17 Oct 2025 19:32:46 +0000",
-         "publishedParsed": "2025-10-17T19:32:46Z"
-     },
-     {
-         "title": "Ilo – a Forth system running on UEFI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45655263\"\u003eComments\u003c/a\u003e",
-         "link": "https://asciinema.org/a/Lbxa2w9R5IbaJqW3INqVrbX8E",
-         "links": [
-             "https://asciinema.org/a/Lbxa2w9R5IbaJqW3INqVrbX8E"
-         ],
-         "published": "Tue, 21 Oct 2025 13:05:21 +0000",
-         "publishedParsed": "2025-10-21T13:05:21Z"
      }
  ]
