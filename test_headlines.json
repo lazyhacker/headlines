@@ -1,5 +1,15 @@
 [
      {
+         "title": "Google demonstrates 'verifiable quantum advantage' with their Willow processor",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45670443\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/",
+         "links": [
+             "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/"
+         ],
+         "published": "Wed, 22 Oct 2025 15:16:19 +0000",
+         "publishedParsed": "2025-10-22T15:16:19Z"
+     },
+     {
          "title": "Cryptographic Issues in Cloudflare's Circl FourQ Implementation (CVE-2025-8556)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45669593\"\u003eComments\u003c/a\u003e",
          "link": "https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation",
@@ -30,6 +40,16 @@
          "publishedParsed": "2025-10-22T06:17:18Z"
      },
      {
+         "title": "Designing software for things that rot",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45662368\"\u003eComments\u003c/a\u003e",
+         "link": "https://drobinin.com/posts/designing-software-for-things-that-rot/",
+         "links": [
+             "https://drobinin.com/posts/designing-software-for-things-that-rot/"
+         ],
+         "published": "Tue, 21 Oct 2025 22:10:18 +0000",
+         "publishedParsed": "2025-10-21T22:10:18Z"
+     },
+     {
          "title": "AI assistants misrepresent news content 45% of the time",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45668990\"\u003eComments\u003c/a\u003e",
          "link": "https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content",
@@ -38,6 +58,16 @@
          ],
          "published": "Wed, 22 Oct 2025 13:39:26 +0000",
          "publishedParsed": "2025-10-22T13:39:26Z"
+     },
+     {
+         "title": "SourceFS: A 2h+ Android build becomes a 15m task with a virtual filesystem",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45668160\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.source.dev/journal/sourcefs",
+         "links": [
+             "https://www.source.dev/journal/sourcefs"
+         ],
+         "published": "Wed, 22 Oct 2025 12:39:37 +0000",
+         "publishedParsed": "2025-10-22T12:39:37Z"
      },
      {
          "title": "Die shots of as many CPUs and other interesting chips as possible",
@@ -50,24 +80,14 @@
          "publishedParsed": "2025-10-17T18:39:22Z"
      },
      {
-         "title": "Designing software for things that rot",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45662368\"\u003eComments\u003c/a\u003e",
-         "link": "https://drobinin.com/posts/designing-software-for-things-that-rot/",
+         "title": "The Logarithmic Time Perception Hypothesis",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45670516\"\u003eComments\u003c/a\u003e",
+         "link": "http://www.kafalas.com/Logtime.html",
          "links": [
-             "https://drobinin.com/posts/designing-software-for-things-that-rot/"
+             "http://www.kafalas.com/Logtime.html"
          ],
-         "published": "Tue, 21 Oct 2025 22:10:18 +0000",
-         "publishedParsed": "2025-10-21T22:10:18Z"
-     },
-     {
-         "title": "The Dragon Hatchling: The missing link between the transformer and brain models",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45668408\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2509.26507",
-         "links": [
-             "https://arxiv.org/abs/2509.26507"
-         ],
-         "published": "Wed, 22 Oct 2025 13:00:08 +0000",
-         "publishedParsed": "2025-10-22T13:00:08Z"
+         "published": "Wed, 22 Oct 2025 15:20:59 +0000",
+         "publishedParsed": "2025-10-22T15:20:59Z"
      },
      {
          "title": "Internet's biggest annoyance: Cookie laws should target browsers, not websites",
@@ -90,14 +110,24 @@
          "publishedParsed": "2025-10-22T12:48:01Z"
      },
      {
-         "title": "Tesla Recalls Almost 13,000 EVs over Risk of Battery Power Loss",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45668022\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bloomberg.com/news/articles/2025-10-22/tesla-recalls-almost-13-000-evs-over-risk-of-battery-power-loss",
+         "title": "Patina: a Rust implementation of UEFI firmware",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45543746\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/OpenDevicePartnership/patina",
          "links": [
-             "https://www.bloomberg.com/news/articles/2025-10-22/tesla-recalls-almost-13-000-evs-over-risk-of-battery-power-loss"
+             "https://github.com/OpenDevicePartnership/patina"
          ],
-         "published": "Wed, 22 Oct 2025 12:28:13 +0000",
-         "publishedParsed": "2025-10-22T12:28:13Z"
+         "published": "Fri, 10 Oct 2025 21:02:00 +0000",
+         "publishedParsed": "2025-10-10T21:02:00Z"
+     },
+     {
+         "title": "Go subtleties",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45565793\"\u003eComments\u003c/a\u003e",
+         "link": "https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/",
+         "links": [
+             "https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/"
+         ],
+         "published": "Mon, 13 Oct 2025 07:42:43 +0000",
+         "publishedParsed": "2025-10-13T07:42:43Z"
      },
      {
          "title": "Infracost (YC W21) Hiring First Dev Advocate to Shift FinOps Left",
@@ -110,14 +140,14 @@
          "publishedParsed": "2025-10-22T12:02:02Z"
      },
      {
-         "title": "Go subtleties",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45565793\"\u003eComments\u003c/a\u003e",
-         "link": "https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/",
+         "title": "Farming Hard Drives (2012)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45601855\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.backblaze.com/blog/backblaze_drive_farming/",
          "links": [
-             "https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/"
+             "https://www.backblaze.com/blog/backblaze_drive_farming/"
          ],
-         "published": "Mon, 13 Oct 2025 07:42:43 +0000",
-         "publishedParsed": "2025-10-13T07:42:43Z"
+         "published": "Thu, 16 Oct 2025 05:50:39 +0000",
+         "publishedParsed": "2025-10-16T05:50:39Z"
      },
      {
          "title": "Evaluating the Infinity Cache in AMD Strix Halo",
@@ -140,14 +170,34 @@
          "publishedParsed": "2025-10-13T10:18:29Z"
      },
      {
-         "title": "Tiny sugar spoons are popping up on NYC fast-food menus",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45669195\"\u003eComments\u003c/a\u003e",
-         "link": "https://gothamist.com/news/tiny-sugar-spoons-are-popping-up-on-nyc-fast-food-menus-youre-being-warned",
+         "title": "Knocker, a knock based access control system for your homelab",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45666327\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/FarisZR/knocker",
          "links": [
-             "https://gothamist.com/news/tiny-sugar-spoons-are-popping-up-on-nyc-fast-food-menus-youre-being-warned"
+             "https://github.com/FarisZR/knocker"
          ],
-         "published": "Wed, 22 Oct 2025 13:53:17 +0000",
-         "publishedParsed": "2025-10-22T13:53:17Z"
+         "published": "Wed, 22 Oct 2025 08:37:31 +0000",
+         "publishedParsed": "2025-10-22T08:37:31Z"
+     },
+     {
+         "title": "Tesla Recalls Almost 13,000 EVs over Risk of Battery Power Loss",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45668022\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bloomberg.com/news/articles/2025-10-22/tesla-recalls-almost-13-000-evs-over-risk-of-battery-power-loss",
+         "links": [
+             "https://www.bloomberg.com/news/articles/2025-10-22/tesla-recalls-almost-13-000-evs-over-risk-of-battery-power-loss"
+         ],
+         "published": "Wed, 22 Oct 2025 12:28:13 +0000",
+         "publishedParsed": "2025-10-22T12:28:13Z"
+     },
+     {
+         "title": "The Dragon Hatchling: The missing link between the transformer and brain models",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45668408\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2509.26507",
+         "links": [
+             "https://arxiv.org/abs/2509.26507"
+         ],
+         "published": "Wed, 22 Oct 2025 13:00:08 +0000",
+         "publishedParsed": "2025-10-22T13:00:08Z"
      },
      {
          "title": "Greg Newby, CEO of Project Gutenberg Literary Archive Foundation, has died",
@@ -160,36 +210,6 @@
          "publishedParsed": "2025-10-22T09:05:21Z"
      },
      {
-         "title": "Comparison: H.264 vs. H.265/HEVC vs. VP9",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45668909\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.red5.net/blog/h264-vs-h265-vp9/",
-         "links": [
-             "https://www.red5.net/blog/h264-vs-h265-vp9/"
-         ],
-         "published": "Wed, 22 Oct 2025 13:33:34 +0000",
-         "publishedParsed": "2025-10-22T13:33:34Z"
-     },
-     {
-         "title": "Knocker, a knock based access control system for your homelab",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45666327\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/FarisZR/knocker",
-         "links": [
-             "https://github.com/FarisZR/knocker"
-         ],
-         "published": "Wed, 22 Oct 2025 08:37:31 +0000",
-         "publishedParsed": "2025-10-22T08:37:31Z"
-     },
-     {
-         "title": "Starcloud",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45667458\"\u003eComments\u003c/a\u003e",
-         "link": "https://blogs.nvidia.com/blog/starcloud/",
-         "links": [
-             "https://blogs.nvidia.com/blog/starcloud/"
-         ],
-         "published": "Wed, 22 Oct 2025 11:23:33 +0000",
-         "publishedParsed": "2025-10-22T11:23:33Z"
-     },
-     {
          "title": "LLMs can get \"brain rot\"",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45656223\"\u003eComments\u003c/a\u003e",
          "link": "https://llm-brain-rot.github.io/",
@@ -200,14 +220,14 @@
          "publishedParsed": "2025-10-21T14:24:26Z"
      },
      {
-         "title": "Distributed Ray-Tracing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45610939\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.4rknova.com//blog/2019/02/24/distributed-raytracing",
+         "title": "Cigarette-smuggling balloons force closure of Lithuanian airport",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45668805\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theguardian.com/world/2025/oct/22/cigarette-smuggling-balloons-force-closure-vilnius-airport-lithuania",
          "links": [
-             "https://www.4rknova.com//blog/2019/02/24/distributed-raytracing"
+             "https://www.theguardian.com/world/2025/oct/22/cigarette-smuggling-balloons-force-closure-vilnius-airport-lithuania"
          ],
-         "published": "Thu, 16 Oct 2025 21:32:27 +0000",
-         "publishedParsed": "2025-10-16T21:32:27Z"
+         "published": "Wed, 22 Oct 2025 13:25:51 +0000",
+         "publishedParsed": "2025-10-22T13:25:51Z"
      },
      {
          "title": "Ghostly swamp will-O'-the-wisps may be explained by science",
@@ -220,24 +240,14 @@
          "publishedParsed": "2025-10-09T12:36:48Z"
      },
      {
-         "title": "Patina: a Rust implementation of UEFI firmware",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45543746\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/OpenDevicePartnership/patina",
+         "title": "Starcloud",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45667458\"\u003eComments\u003c/a\u003e",
+         "link": "https://blogs.nvidia.com/blog/starcloud/",
          "links": [
-             "https://github.com/OpenDevicePartnership/patina"
+             "https://blogs.nvidia.com/blog/starcloud/"
          ],
-         "published": "Fri, 10 Oct 2025 21:02:00 +0000",
-         "publishedParsed": "2025-10-10T21:02:00Z"
-     },
-     {
-         "title": "rlsw – Raylib software OpenGL renderer in less than 5k LOC",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45661638\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h",
-         "links": [
-             "https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h"
-         ],
-         "published": "Tue, 21 Oct 2025 21:00:10 +0000",
-         "publishedParsed": "2025-10-21T21:00:10Z"
+         "published": "Wed, 22 Oct 2025 11:23:33 +0000",
+         "publishedParsed": "2025-10-22T11:23:33Z"
      },
      {
          "title": "Power over Ethernet (PoE) basics and beyond",
@@ -258,5 +268,25 @@
          ],
          "published": "Tue, 21 Oct 2025 15:55:41 +0000",
          "publishedParsed": "2025-10-21T15:55:41Z"
+     },
+     {
+         "title": "NASA chief suggests SpaceX may be booted from moon mission",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45655188\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy",
+         "links": [
+             "https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy"
+         ],
+         "published": "Tue, 21 Oct 2025 12:58:43 +0000",
+         "publishedParsed": "2025-10-21T12:58:43Z"
+     },
+     {
+         "title": "rlsw – Raylib software OpenGL renderer in less than 5k LOC",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45661638\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h",
+         "links": [
+             "https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h"
+         ],
+         "published": "Tue, 21 Oct 2025 21:00:10 +0000",
+         "publishedParsed": "2025-10-21T21:00:10Z"
      }
  ]
