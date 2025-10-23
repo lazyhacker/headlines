@@ -1,5 +1,15 @@
 [
      {
+         "title": "I spent a year of my life making an ASN.1 compiler in D",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45681200\"\u003eComments\u003c/a\u003e",
+         "link": "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/",
+         "links": [
+             "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/"
+         ],
+         "published": "Thu, 23 Oct 2025 12:47:41 +0000",
+         "publishedParsed": "2025-10-23T12:47:41Z"
+     },
+     {
          "title": "PyTorch Monarch",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680237\"\u003eComments\u003c/a\u003e",
          "link": "https://pytorch.org/blog/introducing-pytorch-monarch/",
@@ -8,16 +18,6 @@
          ],
          "published": "Thu, 23 Oct 2025 10:15:12 +0000",
          "publishedParsed": "2025-10-23T10:15:12Z"
-     },
-     {
-         "title": "VST3 audio plugin format is now MIT",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45678549\"\u003eComments\u003c/a\u003e",
-         "link": "https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988",
-         "links": [
-             "https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988"
-         ],
-         "published": "Thu, 23 Oct 2025 05:48:02 +0000",
-         "publishedParsed": "2025-10-23T05:48:02Z"
      },
      {
          "title": "The Game Theory of How Algorithms Can Drive Up Prices",
@@ -30,14 +30,14 @@
          "publishedParsed": "2025-10-23T11:38:49Z"
      },
      {
-         "title": "I spent a year of my life making an ASN.1 compiler in D",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45681200\"\u003eComments\u003c/a\u003e",
-         "link": "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/",
+         "title": "VST3 audio plugin format is now MIT",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45678549\"\u003eComments\u003c/a\u003e",
+         "link": "https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988",
          "links": [
-             "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/"
+             "https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988"
          ],
-         "published": "Thu, 23 Oct 2025 12:47:41 +0000",
-         "publishedParsed": "2025-10-23T12:47:41Z"
+         "published": "Thu, 23 Oct 2025 05:48:02 +0000",
+         "publishedParsed": "2025-10-23T05:48:02Z"
      },
      {
          "title": "Google flags Immich sites as dangerous",
@@ -48,6 +48,16 @@
          ],
          "published": "Wed, 22 Oct 2025 20:53:49 +0000",
          "publishedParsed": "2025-10-22T20:53:49Z"
+     },
+     {
+         "title": "Programming with Less Than Nothing",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45678511\"\u003eComments\u003c/a\u003e",
+         "link": "https://joshmoody.org/blog/programming-with-less-than-nothing/",
+         "links": [
+             "https://joshmoody.org/blog/programming-with-less-than-nothing/"
+         ],
+         "published": "Thu, 23 Oct 2025 05:42:31 +0000",
+         "publishedParsed": "2025-10-23T05:42:31Z"
      },
      {
          "title": "Ask HN: Does anyone have scans of these missing PC Plus issues (1991–1993)?",
@@ -70,44 +80,14 @@
          "publishedParsed": "2025-10-23T08:41:21Z"
      },
      {
-         "title": "Nango (YC W23) is hiring Staff Back end Engs (remote)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680847\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nango.dev/careers",
+         "title": "Show HN: Deta Surf – An open source and local-first AI notebook",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680937\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/deta/surf",
          "links": [
-             "https://www.nango.dev/careers"
+             "https://github.com/deta/surf"
          ],
-         "published": "Thu, 23 Oct 2025 12:00:11 +0000",
-         "publishedParsed": "2025-10-23T12:00:11Z"
-     },
-     {
-         "title": "Programming with Less Than Nothing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45678511\"\u003eComments\u003c/a\u003e",
-         "link": "https://joshmoody.org/blog/programming-with-less-than-nothing/",
-         "links": [
-             "https://joshmoody.org/blog/programming-with-less-than-nothing/"
-         ],
-         "published": "Thu, 23 Oct 2025 05:42:31 +0000",
-         "publishedParsed": "2025-10-23T05:42:31Z"
-     },
-     {
-         "title": "SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680547\"\u003eComments\u003c/a\u003e",
-         "link": "https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/",
-         "links": [
-             "https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/"
-         ],
-         "published": "Thu, 23 Oct 2025 11:15:44 +0000",
-         "publishedParsed": "2025-10-23T11:15:44Z"
-     },
-     {
-         "title": "Radios, how do they work? (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45678603\"\u003eComments\u003c/a\u003e",
-         "link": "https://lcamtuf.substack.com/p/radios-how-do-they-work",
-         "links": [
-             "https://lcamtuf.substack.com/p/radios-how-do-they-work"
-         ],
-         "published": "Thu, 23 Oct 2025 05:56:23 +0000",
-         "publishedParsed": "2025-10-23T05:56:23Z"
+         "published": "Thu, 23 Oct 2025 12:11:27 +0000",
+         "publishedParsed": "2025-10-23T12:11:27Z"
      },
      {
          "title": "Scripts I wrote that I use all the time",
@@ -120,6 +100,56 @@
          "publishedParsed": "2025-10-22T14:53:54Z"
      },
      {
+         "title": "Nango (YC W23) is hiring Staff Back end Engs (remote)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680847\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nango.dev/careers",
+         "links": [
+             "https://www.nango.dev/careers"
+         ],
+         "published": "Thu, 23 Oct 2025 12:00:11 +0000",
+         "publishedParsed": "2025-10-23T12:00:11Z"
+     },
+     {
+         "title": "Radios, how do they work? (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45678603\"\u003eComments\u003c/a\u003e",
+         "link": "https://lcamtuf.substack.com/p/radios-how-do-they-work",
+         "links": [
+             "https://lcamtuf.substack.com/p/radios-how-do-they-work"
+         ],
+         "published": "Thu, 23 Oct 2025 05:56:23 +0000",
+         "publishedParsed": "2025-10-23T05:56:23Z"
+     },
+     {
+         "title": "Conflict-Free Replicated Data Types (CRDTs): Convergence Without Coordination",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45606224\"\u003eComments\u003c/a\u003e",
+         "link": "https://read.thecoder.cafe/p/crdt",
+         "links": [
+             "https://read.thecoder.cafe/p/crdt"
+         ],
+         "published": "Thu, 16 Oct 2025 15:00:06 +0000",
+         "publishedParsed": "2025-10-16T15:00:06Z"
+     },
+     {
+         "title": "SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680547\"\u003eComments\u003c/a\u003e",
+         "link": "https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/",
+         "links": [
+             "https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/"
+         ],
+         "published": "Thu, 23 Oct 2025 11:15:44 +0000",
+         "publishedParsed": "2025-10-23T11:15:44Z"
+     },
+     {
+         "title": "Which Collatz numbers do Busy Beavers simulate (if any)?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45626129\"\u003eComments\u003c/a\u003e",
+         "link": "https://gbragafibra.github.io/2025/10/16/collatz_ant11.html",
+         "links": [
+             "https://gbragafibra.github.io/2025/10/16/collatz_ant11.html"
+         ],
+         "published": "Sat, 18 Oct 2025 09:54:56 +0000",
+         "publishedParsed": "2025-10-18T09:54:56Z"
+     },
+     {
          "title": "Run interactive commands in Gemini CLI",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45605823\"\u003eComments\u003c/a\u003e",
          "link": "https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/",
@@ -128,16 +158,6 @@
          ],
          "published": "Thu, 16 Oct 2025 14:31:13 +0000",
          "publishedParsed": "2025-10-16T14:31:13Z"
-     },
-     {
-         "title": "Show HN: Deta Surf – An open source and local-first AI notebook",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680937\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/deta/surf",
-         "links": [
-             "https://github.com/deta/surf"
-         ],
-         "published": "Thu, 23 Oct 2025 12:11:27 +0000",
-         "publishedParsed": "2025-10-23T12:11:27Z"
      },
      {
          "title": "Willow quantum chip demonstrates verifiable quantum advantage on hardware",
@@ -158,16 +178,6 @@
          ],
          "published": "Wed, 22 Oct 2025 18:21:54 +0000",
          "publishedParsed": "2025-10-22T18:21:54Z"
-     },
-     {
-         "title": "Power-over-Skin: Full-Body Wearables Powered by Intra-Body RF Energy (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45639338\"\u003eComments\u003c/a\u003e",
-         "link": "https://dl.acm.org/doi/10.1145/3654777.3676394",
-         "links": [
-             "https://dl.acm.org/doi/10.1145/3654777.3676394"
-         ],
-         "published": "Mon, 20 Oct 2025 00:56:54 +0000",
-         "publishedParsed": "2025-10-20T00:56:54Z"
      },
      {
          "title": "Karpathy on DeepSeek-OCR paper: Are pixels better inputs to LLMs than text?",
@@ -200,14 +210,14 @@
          "publishedParsed": "2025-10-22T19:42:36Z"
      },
      {
-         "title": "When You Get to Be Smart Writing a Macro",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45601856\"\u003eComments\u003c/a\u003e",
-         "link": "https://tonsky.me/blog/hashp/",
+         "title": "Microsoft puts Office Online Server on the chopping block",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45682067\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theregister.com/2025/10/22/microsoft_office_online_server/",
          "links": [
-             "https://tonsky.me/blog/hashp/"
+             "https://www.theregister.com/2025/10/22/microsoft_office_online_server/"
          ],
-         "published": "Thu, 16 Oct 2025 05:51:02 +0000",
-         "publishedParsed": "2025-10-16T05:51:02Z"
+         "published": "Thu, 23 Oct 2025 14:15:22 +0000",
+         "publishedParsed": "2025-10-23T14:15:22Z"
      },
      {
          "title": "Why SSA Compilers?",
@@ -218,16 +228,6 @@
          ],
          "published": "Wed, 22 Oct 2025 20:13:31 +0000",
          "publishedParsed": "2025-10-22T20:13:31Z"
-     },
-     {
-         "title": "Show HN: Silly Morse code chat app using WebSockets",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45627586\"\u003eComments\u003c/a\u003e",
-         "link": "https://noamtamir.github.io/morwse/",
-         "links": [
-             "https://noamtamir.github.io/morwse/"
-         ],
-         "published": "Sat, 18 Oct 2025 14:18:03 +0000",
-         "publishedParsed": "2025-10-18T14:18:03Z"
      },
      {
          "title": "Element: setHTML() method",
@@ -250,14 +250,24 @@
          "publishedParsed": "2025-10-16T19:12:47Z"
      },
      {
-         "title": "A Distributed Emulation Environment for In-Memory Computing Systems",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45566088\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.arxiv.org/pdf/2510.08257",
+         "title": "When You Get to Be Smart Writing a Macro",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45601856\"\u003eComments\u003c/a\u003e",
+         "link": "https://tonsky.me/blog/hashp/",
          "links": [
-             "https://www.arxiv.org/pdf/2510.08257"
+             "https://tonsky.me/blog/hashp/"
          ],
-         "published": "Mon, 13 Oct 2025 08:27:15 +0000",
-         "publishedParsed": "2025-10-13T08:27:15Z"
+         "published": "Thu, 16 Oct 2025 05:51:02 +0000",
+         "publishedParsed": "2025-10-16T05:51:02Z"
+     },
+     {
+         "title": "Show HN: Silly Morse code chat app using WebSockets",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45627586\"\u003eComments\u003c/a\u003e",
+         "link": "https://noamtamir.github.io/morwse/",
+         "links": [
+             "https://noamtamir.github.io/morwse/"
+         ],
+         "published": "Sat, 18 Oct 2025 14:18:03 +0000",
+         "publishedParsed": "2025-10-18T14:18:03Z"
      },
      {
          "title": "The first interstellar software update: The hack that saved Voyager 1 [video]",
@@ -270,23 +280,13 @@
          "publishedParsed": "2025-10-12T20:31:57Z"
      },
      {
-         "title": "Rivian's TM-B electric bike",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45672844\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad",
+         "title": "A Distributed Emulation Environment for In-Memory Computing Systems",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45566088\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.arxiv.org/pdf/2510.08257",
          "links": [
-             "https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad"
+             "https://www.arxiv.org/pdf/2510.08257"
          ],
-         "published": "Wed, 22 Oct 2025 18:00:20 +0000",
-         "publishedParsed": "2025-10-22T18:00:20Z"
-     },
-     {
-         "title": "Derek Sivers's database and web apps",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45605778\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/sivers/sivers",
-         "links": [
-             "https://github.com/sivers/sivers"
-         ],
-         "published": "Thu, 16 Oct 2025 14:27:52 +0000",
-         "publishedParsed": "2025-10-16T14:27:52Z"
+         "published": "Mon, 13 Oct 2025 08:27:15 +0000",
+         "publishedParsed": "2025-10-13T08:27:15Z"
      }
  ]
