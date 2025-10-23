@@ -1,5 +1,15 @@
 [
      {
+         "title": "We only have one life. Let's stop wasting it on YouTube shorts",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45687227\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/CaptainYouz/FocusTube",
+         "links": [
+             "https://github.com/CaptainYouz/FocusTube"
+         ],
+         "published": "Thu, 23 Oct 2025 21:11:14 +0000",
+         "publishedParsed": "2025-10-23T21:11:14Z"
+     },
+     {
          "title": "Claude Memory",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684134\"\u003eComments\u003c/a\u003e",
          "link": "https://www.anthropic.com/news/memory",
@@ -8,6 +18,26 @@
          ],
          "published": "Thu, 23 Oct 2025 16:56:07 +0000",
          "publishedParsed": "2025-10-23T16:56:07Z"
+     },
+     {
+         "title": "Memory Maps (MMAP) Deliver 25x Faster File Access in Go",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45687796\"\u003eComments\u003c/a\u003e",
+         "link": "https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go",
+         "links": [
+             "https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go"
+         ],
+         "published": "Thu, 23 Oct 2025 21:56:07 +0000",
+         "publishedParsed": "2025-10-23T21:56:07Z"
+     },
+     {
+         "title": "Why /Dev/Null Is an Acid Compliant Database",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45687458\"\u003eComments\u003c/a\u003e",
+         "link": "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/",
+         "links": [
+             "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/"
+         ],
+         "published": "Thu, 23 Oct 2025 21:28:02 +0000",
+         "publishedParsed": "2025-10-23T21:28:02Z"
      },
      {
          "title": "Can \"second life\" EV batteries work as grid-scale energy storage?",
@@ -20,14 +50,34 @@
          "publishedParsed": "2025-10-23T18:15:45Z"
      },
      {
-         "title": "What happened to Apple's legendary attention to detail?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45685551\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html",
+         "title": "Zram Performance Analysis",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45686280\"\u003eComments\u003c/a\u003e",
+         "link": "https://notes.xeome.dev/notes/Zram",
          "links": [
-             "https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html"
+             "https://notes.xeome.dev/notes/Zram"
          ],
-         "published": "Thu, 23 Oct 2025 19:05:24 +0000",
-         "publishedParsed": "2025-10-23T19:05:24Z"
+         "published": "Thu, 23 Oct 2025 19:58:12 +0000",
+         "publishedParsed": "2025-10-23T19:58:12Z"
+     },
+     {
+         "title": "Date bug in Rust-based coreutils affects Ubuntu 25.10 automatic updates",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45686919\"\u003eComments\u003c/a\u003e",
+         "link": "https://lwn.net/Articles/1043103/",
+         "links": [
+             "https://lwn.net/Articles/1043103/"
+         ],
+         "published": "Thu, 23 Oct 2025 20:49:08 +0000",
+         "publishedParsed": "2025-10-23T20:49:08Z"
+     },
+     {
+         "title": "When is it better to think without words?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45687441\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.henrikkarlsson.xyz/p/wordless-thought",
+         "links": [
+             "https://www.henrikkarlsson.xyz/p/wordless-thought"
+         ],
+         "published": "Thu, 23 Oct 2025 21:26:57 +0000",
+         "publishedParsed": "2025-10-23T21:26:57Z"
      },
      {
          "title": "New updates and more access to Google Earth AI",
@@ -40,64 +90,24 @@
          "publishedParsed": "2025-10-23T16:58:04Z"
      },
      {
-         "title": "Make Any TypeScript Function Durable",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684217\"\u003eComments\u003c/a\u003e",
-         "link": "https://useworkflow.dev/",
+         "title": "RFC 9861: KangarooTwelve and TurboSHAKE",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45600897\"\u003eComments\u003c/a\u003e",
+         "link": "https://datatracker.ietf.org/doc/rfc9861/",
          "links": [
-             "https://useworkflow.dev/"
+             "https://datatracker.ietf.org/doc/rfc9861/"
          ],
-         "published": "Thu, 23 Oct 2025 17:03:13 +0000",
-         "publishedParsed": "2025-10-23T17:03:13Z"
+         "published": "Thu, 16 Oct 2025 02:44:09 +0000",
+         "publishedParsed": "2025-10-16T02:44:09Z"
      },
      {
-         "title": "Kaitai Struct: declarative binary format parsing language",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45580795\"\u003eComments\u003c/a\u003e",
-         "link": "https://kaitai.io/",
+         "title": "I Managed to Grow Countable Yeast Colonies",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45584500\"\u003eComments\u003c/a\u003e",
+         "link": "https://chillphysicsenjoyer.substack.com/p/i-managed-to-grow-countable-yeast",
          "links": [
-             "https://kaitai.io/"
+             "https://chillphysicsenjoyer.substack.com/p/i-managed-to-grow-countable-yeast"
          ],
-         "published": "Tue, 14 Oct 2025 14:51:29 +0000",
-         "publishedParsed": "2025-10-14T14:51:29Z"
-     },
-     {
-         "title": "I spent a year making an ASN.1 compiler in D",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45681200\"\u003eComments\u003c/a\u003e",
-         "link": "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/",
-         "links": [
-             "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/"
-         ],
-         "published": "Thu, 23 Oct 2025 12:47:41 +0000",
-         "publishedParsed": "2025-10-23T12:47:41Z"
-     },
-     {
-         "title": "Show HN: Tommy – Turn ESP32 devices into through-wall motion sensors",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684230\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.tommysense.com",
-         "links": [
-             "https://www.tommysense.com"
-         ],
-         "published": "Thu, 23 Oct 2025 17:04:07 +0000",
-         "publishedParsed": "2025-10-23T17:04:07Z"
-     },
-     {
-         "title": "Show HN: OpenSnowcat – A fork of Snowplow to keep open analytics alive",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45685793\"\u003eComments\u003c/a\u003e",
-         "link": "https://opensnowcat.io/",
-         "links": [
-             "https://opensnowcat.io/"
-         ],
-         "published": "Thu, 23 Oct 2025 19:24:04 +0000",
-         "publishedParsed": "2025-10-23T19:24:04Z"
-     },
-     {
-         "title": "PyTorch Monarch",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680237\"\u003eComments\u003c/a\u003e",
-         "link": "https://pytorch.org/blog/introducing-pytorch-monarch/",
-         "links": [
-             "https://pytorch.org/blog/introducing-pytorch-monarch/"
-         ],
-         "published": "Thu, 23 Oct 2025 10:15:12 +0000",
-         "publishedParsed": "2025-10-23T10:15:12Z"
+         "published": "Tue, 14 Oct 2025 20:36:09 +0000",
+         "publishedParsed": "2025-10-14T20:36:09Z"
      },
      {
          "title": "Pyscripter – open-source Python IDE written in Delphi",
@@ -110,24 +120,54 @@
          "publishedParsed": "2025-10-20T02:03:40Z"
      },
      {
-         "title": "VST3 audio plugin format is now MIT",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45678549\"\u003eComments\u003c/a\u003e",
-         "link": "https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988",
+         "title": "Kaitai Struct: declarative binary format parsing language",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45580795\"\u003eComments\u003c/a\u003e",
+         "link": "https://kaitai.io/",
          "links": [
-             "https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988"
+             "https://kaitai.io/"
          ],
-         "published": "Thu, 23 Oct 2025 05:48:02 +0000",
-         "publishedParsed": "2025-10-23T05:48:02Z"
+         "published": "Tue, 14 Oct 2025 14:51:29 +0000",
+         "publishedParsed": "2025-10-14T14:51:29Z"
      },
      {
-         "title": "How count-min sketches work – frequencies, but without the actual data",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45671569\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.instantdb.com/essays/count_min_sketch",
+         "title": "PyTorch Monarch",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680237\"\u003eComments\u003c/a\u003e",
+         "link": "https://pytorch.org/blog/introducing-pytorch-monarch/",
          "links": [
-             "https://www.instantdb.com/essays/count_min_sketch"
+             "https://pytorch.org/blog/introducing-pytorch-monarch/"
          ],
-         "published": "Wed, 22 Oct 2025 16:27:26 +0000",
-         "publishedParsed": "2025-10-22T16:27:26Z"
+         "published": "Thu, 23 Oct 2025 10:15:12 +0000",
+         "publishedParsed": "2025-10-23T10:15:12Z"
+     },
+     {
+         "title": "Armed police swarm student after AI mistakes bag of Doritos for a weapon",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684934\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/",
+         "links": [
+             "https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/"
+         ],
+         "published": "Thu, 23 Oct 2025 18:09:37 +0000",
+         "publishedParsed": "2025-10-23T18:09:37Z"
+     },
+     {
+         "title": "I spent a year making an ASN.1 compiler in D",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45681200\"\u003eComments\u003c/a\u003e",
+         "link": "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/",
+         "links": [
+             "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/"
+         ],
+         "published": "Thu, 23 Oct 2025 12:47:41 +0000",
+         "publishedParsed": "2025-10-23T12:47:41Z"
+     },
+     {
+         "title": "Show HN: OpenSnowcat – A fork of Snowplow to keep open analytics alive",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45685793\"\u003eComments\u003c/a\u003e",
+         "link": "https://opensnowcat.io/",
+         "links": [
+             "https://opensnowcat.io/"
+         ],
+         "published": "Thu, 23 Oct 2025 19:24:04 +0000",
+         "publishedParsed": "2025-10-23T19:24:04Z"
      },
      {
          "title": "Show HN: Git for LLMs – a context management interface",
@@ -140,16 +180,6 @@
          "publishedParsed": "2025-10-23T15:12:57Z"
      },
      {
-         "title": "Summary of the Amazon DynamoDB Service Disruption in US-East-1 Region",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45677139\"\u003eComments\u003c/a\u003e",
-         "link": "https://aws.amazon.com/message/101925/",
-         "links": [
-             "https://aws.amazon.com/message/101925/"
-         ],
-         "published": "Thu, 23 Oct 2025 01:19:58 +0000",
-         "publishedParsed": "2025-10-23T01:19:58Z"
-     },
-     {
          "title": "The OS/2 Display Driver Zoo",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45583291\"\u003eComments\u003c/a\u003e",
          "link": "https://www.os2museum.com/wp/the-os-2-display-driver-zoo/",
@@ -158,6 +188,16 @@
          ],
          "published": "Tue, 14 Oct 2025 18:35:59 +0000",
          "publishedParsed": "2025-10-14T18:35:59Z"
+     },
+     {
+         "title": "Summary of the Amazon DynamoDB Service Disruption in US-East-1 Region",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45677139\"\u003eComments\u003c/a\u003e",
+         "link": "https://aws.amazon.com/message/101925/",
+         "links": [
+             "https://aws.amazon.com/message/101925/"
+         ],
+         "published": "Thu, 23 Oct 2025 01:19:58 +0000",
+         "publishedParsed": "2025-10-23T01:19:58Z"
      },
      {
          "title": "OpenAI acquires Sky.app",
@@ -170,34 +210,24 @@
          "publishedParsed": "2025-10-23T17:04:17Z"
      },
      {
-         "title": "OpenMaxIO: Forked UI for MinIO Object Storage",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684736\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/OpenMaxIO/openmaxio-object-browser",
+         "title": "What happened to Apple's legendary attention to detail?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45685551\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html",
          "links": [
-             "https://github.com/OpenMaxIO/openmaxio-object-browser"
+             "https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html"
          ],
-         "published": "Thu, 23 Oct 2025 17:52:18 +0000",
-         "publishedParsed": "2025-10-23T17:52:18Z"
+         "published": "Thu, 23 Oct 2025 19:05:24 +0000",
+         "publishedParsed": "2025-10-23T19:05:24Z"
      },
      {
-         "title": "Antislop: A framework for eliminating repetitive patterns in language models",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45683897\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2510.15061",
+         "title": "Make Any TypeScript Function Durable",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684217\"\u003eComments\u003c/a\u003e",
+         "link": "https://useworkflow.dev/",
          "links": [
-             "https://arxiv.org/abs/2510.15061"
+             "https://useworkflow.dev/"
          ],
-         "published": "Thu, 23 Oct 2025 16:36:05 +0000",
-         "publishedParsed": "2025-10-23T16:36:05Z"
-     },
-     {
-         "title": "Show HN: I built a tech news aggregator that works the way my brain does",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684689\"\u003eComments\u003c/a\u003e",
-         "link": "https://deadstack.net/recent",
-         "links": [
-             "https://deadstack.net/recent"
-         ],
-         "published": "Thu, 23 Oct 2025 17:48:13 +0000",
-         "publishedParsed": "2025-10-23T17:48:13Z"
+         "published": "Thu, 23 Oct 2025 17:03:13 +0000",
+         "publishedParsed": "2025-10-23T17:03:13Z"
      },
      {
          "title": "Nango (YC W23) is hiring staff back-end engineers (remote)",
@@ -210,63 +240,33 @@
          "publishedParsed": "2025-10-23T12:00:11Z"
      },
      {
-         "title": "The Muscular Compassion of \"Paper Girl\"",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45686083\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.newyorker.com/books/page-turner/the-muscular-compassion-of-paper-girl",
+         "title": "How count-min sketches work – frequencies, but without the actual data",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45671569\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.instantdb.com/essays/count_min_sketch",
          "links": [
-             "https://www.newyorker.com/books/page-turner/the-muscular-compassion-of-paper-girl"
+             "https://www.instantdb.com/essays/count_min_sketch"
          ],
-         "published": "Thu, 23 Oct 2025 19:43:44 +0000",
-         "publishedParsed": "2025-10-23T19:43:44Z"
+         "published": "Wed, 22 Oct 2025 16:27:26 +0000",
+         "publishedParsed": "2025-10-22T16:27:26Z"
      },
      {
-         "title": "Unconventional Ways to Cast in TypeScript",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45681547\"\u003eComments\u003c/a\u003e",
-         "link": "https://wolfgirl.dev/blog/2025-10-22-4-unconventional-ways-to-cast-in-typescript/",
+         "title": "Glasses-free 3D using webcam head tracking",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45626685\"\u003eComments\u003c/a\u003e",
+         "link": "https://assetstore.unity.com/packages/tools/camera/vr-without-glasses-for-webgl-332314",
          "links": [
-             "https://wolfgirl.dev/blog/2025-10-22-4-unconventional-ways-to-cast-in-typescript/"
+             "https://assetstore.unity.com/packages/tools/camera/vr-without-glasses-for-webgl-332314"
          ],
-         "published": "Thu, 23 Oct 2025 13:25:02 +0000",
-         "publishedParsed": "2025-10-23T13:25:02Z"
+         "published": "Sat, 18 Oct 2025 12:07:40 +0000",
+         "publishedParsed": "2025-10-18T12:07:40Z"
      },
      {
-         "title": "Programming with Less Than Nothing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45678511\"\u003eComments\u003c/a\u003e",
-         "link": "https://joshmoody.org/blog/programming-with-less-than-nothing/",
+         "title": "Show HN: I built a tech news aggregator that works the way my brain does",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684689\"\u003eComments\u003c/a\u003e",
+         "link": "https://deadstack.net/recent",
          "links": [
-             "https://joshmoody.org/blog/programming-with-less-than-nothing/"
+             "https://deadstack.net/recent"
          ],
-         "published": "Thu, 23 Oct 2025 05:42:31 +0000",
-         "publishedParsed": "2025-10-23T05:42:31Z"
-     },
-     {
-         "title": "VectorWare – from creators of `rust-GPU` and `rust-CUDA`",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45683153\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.vectorware.com/blog/announcing-vectorware/",
-         "links": [
-             "https://www.vectorware.com/blog/announcing-vectorware/"
-         ],
-         "published": "Thu, 23 Oct 2025 15:41:54 +0000",
-         "publishedParsed": "2025-10-23T15:41:54Z"
-     },
-     {
-         "title": "CRDTs: Convergence without coordination",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45606224\"\u003eComments\u003c/a\u003e",
-         "link": "https://read.thecoder.cafe/p/crdt",
-         "links": [
-             "https://read.thecoder.cafe/p/crdt"
-         ],
-         "published": "Thu, 16 Oct 2025 15:00:06 +0000",
-         "publishedParsed": "2025-10-16T15:00:06Z"
-     },
-     {
-         "title": "Upgrading Our Way Through OpenGL 1.x",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45587291\"\u003eComments\u003c/a\u003e",
-         "link": "https://bumbershootsoft.wordpress.com/2025/09/27/upgrading-our-way-through-opengl-1-x/",
-         "links": [
-             "https://bumbershootsoft.wordpress.com/2025/09/27/upgrading-our-way-through-opengl-1-x/"
-         ],
-         "published": "Wed, 15 Oct 2025 02:04:46 +0000",
-         "publishedParsed": "2025-10-15T02:04:46Z"
+         "published": "Thu, 23 Oct 2025 17:48:13 +0000",
+         "publishedParsed": "2025-10-23T17:48:13Z"
      }
  ]
