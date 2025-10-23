@@ -1,6 +1,56 @@
 [
      {
-         "title": "I spent a year of my life making an ASN.1 compiler in D",
+         "title": "OpenMaxIO is a community-maintained fork of MinIO",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684736\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/OpenMaxIO/openmaxio-object-browser",
+         "links": [
+             "https://github.com/OpenMaxIO/openmaxio-object-browser"
+         ],
+         "published": "Thu, 23 Oct 2025 17:52:18 +0000",
+         "publishedParsed": "2025-10-23T17:52:18Z"
+     },
+     {
+         "title": "Claude Memory",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684134\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.anthropic.com/news/memory",
+         "links": [
+             "https://www.anthropic.com/news/memory"
+         ],
+         "published": "Thu, 23 Oct 2025 16:56:07 +0000",
+         "publishedParsed": "2025-10-23T16:56:07Z"
+     },
+     {
+         "title": "MinIO declines to release Docker builds resolving CVE-2025-62506",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684035\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/minio/minio/issues/21647",
+         "links": [
+             "https://github.com/minio/minio/issues/21647"
+         ],
+         "published": "Thu, 23 Oct 2025 16:46:57 +0000",
+         "publishedParsed": "2025-10-23T16:46:57Z"
+     },
+     {
+         "title": "Google Earth AI expanding access around the globe",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684155\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/",
+         "links": [
+             "https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/"
+         ],
+         "published": "Thu, 23 Oct 2025 16:58:04 +0000",
+         "publishedParsed": "2025-10-23T16:58:04Z"
+     },
+     {
+         "title": "Show HN: I built a tech news aggregator that works the way my brain does",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684689\"\u003eComments\u003c/a\u003e",
+         "link": "https://deadstack.net/recent",
+         "links": [
+             "https://deadstack.net/recent"
+         ],
+         "published": "Thu, 23 Oct 2025 17:48:13 +0000",
+         "publishedParsed": "2025-10-23T17:48:13Z"
+     },
+     {
+         "title": "I spent a year making an ASN.1 compiler in D",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45681200\"\u003eComments\u003c/a\u003e",
          "link": "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/",
          "links": [
@@ -8,6 +58,26 @@
          ],
          "published": "Thu, 23 Oct 2025 12:47:41 +0000",
          "publishedParsed": "2025-10-23T12:47:41Z"
+     },
+     {
+         "title": "Make Any TypeScript Function Durable",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684217\"\u003eComments\u003c/a\u003e",
+         "link": "https://useworkflow.dev/",
+         "links": [
+             "https://useworkflow.dev/"
+         ],
+         "published": "Thu, 23 Oct 2025 17:03:13 +0000",
+         "publishedParsed": "2025-10-23T17:03:13Z"
+     },
+     {
+         "title": "Armed police swarm student after AI mistakes bag of Doritos for a weapon",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684934\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/",
+         "links": [
+             "https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/"
+         ],
+         "published": "Thu, 23 Oct 2025 18:09:37 +0000",
+         "publishedParsed": "2025-10-23T18:09:37Z"
      },
      {
          "title": "PyTorch Monarch",
@@ -20,16 +90,6 @@
          "publishedParsed": "2025-10-23T10:15:12Z"
      },
      {
-         "title": "The Game Theory of How Algorithms Can Drive Up Prices",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680695\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/",
-         "links": [
-             "https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/"
-         ],
-         "published": "Thu, 23 Oct 2025 11:38:49 +0000",
-         "publishedParsed": "2025-10-23T11:38:49Z"
-     },
-     {
          "title": "VST3 audio plugin format is now MIT",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45678549\"\u003eComments\u003c/a\u003e",
          "link": "https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988",
@@ -40,7 +100,27 @@
          "publishedParsed": "2025-10-23T05:48:02Z"
      },
      {
-         "title": "Antislop: A Framework for Eliminating Repetitive Patterns in Language Models",
+         "title": "The OS/2 Display Driver Zoo",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45583291\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.os2museum.com/wp/the-os-2-display-driver-zoo/",
+         "links": [
+             "https://www.os2museum.com/wp/the-os-2-display-driver-zoo/"
+         ],
+         "published": "Tue, 14 Oct 2025 18:35:59 +0000",
+         "publishedParsed": "2025-10-14T18:35:59Z"
+     },
+     {
+         "title": "VectorWare – from creators of `rust-GPU` and `rust-CUDA`",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45683153\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.vectorware.com/blog/announcing-vectorware/",
+         "links": [
+             "https://www.vectorware.com/blog/announcing-vectorware/"
+         ],
+         "published": "Thu, 23 Oct 2025 15:41:54 +0000",
+         "publishedParsed": "2025-10-23T15:41:54Z"
+     },
+     {
+         "title": "Antislop: A framework for eliminating repetitive patterns in language models",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45683897\"\u003eComments\u003c/a\u003e",
          "link": "https://arxiv.org/abs/2510.15061",
          "links": [
@@ -60,7 +140,37 @@
          "publishedParsed": "2025-10-22T20:53:49Z"
      },
      {
-         "title": "Conflict-Free Replicated Data Types (CRDTs): Convergence Without Coordination",
+         "title": "Unconventional Ways to Cast in TypeScript",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45681547\"\u003eComments\u003c/a\u003e",
+         "link": "https://wolfgirl.dev/blog/2025-10-22-4-unconventional-ways-to-cast-in-typescript/",
+         "links": [
+             "https://wolfgirl.dev/blog/2025-10-22-4-unconventional-ways-to-cast-in-typescript/"
+         ],
+         "published": "Thu, 23 Oct 2025 13:25:02 +0000",
+         "publishedParsed": "2025-10-23T13:25:02Z"
+     },
+     {
+         "title": "The game theory of how algorithms can drive up prices",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680695\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/",
+         "links": [
+             "https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/"
+         ],
+         "published": "Thu, 23 Oct 2025 11:38:49 +0000",
+         "publishedParsed": "2025-10-23T11:38:49Z"
+     },
+     {
+         "title": "Summary of the Amazon DynamoDB Service Disruption in US-East-1 Region",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45677139\"\u003eComments\u003c/a\u003e",
+         "link": "https://aws.amazon.com/message/101925/",
+         "links": [
+             "https://aws.amazon.com/message/101925/"
+         ],
+         "published": "Thu, 23 Oct 2025 01:19:58 +0000",
+         "publishedParsed": "2025-10-23T01:19:58Z"
+     },
+     {
+         "title": "CRDTs: Convergence without coordination",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45606224\"\u003eComments\u003c/a\u003e",
          "link": "https://read.thecoder.cafe/p/crdt",
          "links": [
@@ -80,57 +190,7 @@
          "publishedParsed": "2025-10-23T05:42:31Z"
      },
      {
-         "title": "Show HN: Deta Surf – An open source and local-first AI notebook",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680937\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/deta/surf",
-         "links": [
-             "https://github.com/deta/surf"
-         ],
-         "published": "Thu, 23 Oct 2025 12:11:27 +0000",
-         "publishedParsed": "2025-10-23T12:11:27Z"
-     },
-     {
-         "title": "Ask HN: Does anyone have scans of these missing PC Plus issues (1991–1993)?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45595807\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=45595807",
-         "links": [
-             "https://news.ycombinator.com/item?id=45595807"
-         ],
-         "published": "Wed, 15 Oct 2025 17:25:17 +0000",
-         "publishedParsed": "2025-10-15T17:25:17Z"
-     },
-     {
-         "title": "C64 Blood Money",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45679638\"\u003eComments\u003c/a\u003e",
-         "link": "https://lemmings.info/c64-blood-money/",
-         "links": [
-             "https://lemmings.info/c64-blood-money/"
-         ],
-         "published": "Thu, 23 Oct 2025 08:41:21 +0000",
-         "publishedParsed": "2025-10-23T08:41:21Z"
-     },
-     {
-         "title": "Compiler for \"Easy\" language from \"Etudes for Programmers\" book (1978)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45579118\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/begoon/easy",
-         "links": [
-             "https://github.com/begoon/easy"
-         ],
-         "published": "Tue, 14 Oct 2025 12:14:24 +0000",
-         "publishedParsed": "2025-10-14T12:14:24Z"
-     },
-     {
-         "title": "Scripts I wrote that I use all the time",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45670052\"\u003eComments\u003c/a\u003e",
-         "link": "https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/",
-         "links": [
-             "https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/"
-         ],
-         "published": "Wed, 22 Oct 2025 14:53:54 +0000",
-         "publishedParsed": "2025-10-22T14:53:54Z"
-     },
-     {
-         "title": "Nango (YC W23) is hiring Staff Back end Engs (remote)",
+         "title": "Nango (YC W23) is hiring staff back-end engineers (remote)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680847\"\u003eComments\u003c/a\u003e",
          "link": "https://www.nango.dev/careers",
          "links": [
@@ -140,84 +200,24 @@
          "publishedParsed": "2025-10-23T12:00:11Z"
      },
      {
-         "title": "Radios, how do they work? (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45678603\"\u003eComments\u003c/a\u003e",
-         "link": "https://lcamtuf.substack.com/p/radios-how-do-they-work",
+         "title": "Can \"second life\" EV batteries work as grid-scale energy storage?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45685007\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.volts.wtf/p/can-second-life-ev-batteries-work",
          "links": [
-             "https://lcamtuf.substack.com/p/radios-how-do-they-work"
+             "https://www.volts.wtf/p/can-second-life-ev-batteries-work"
          ],
-         "published": "Thu, 23 Oct 2025 05:56:23 +0000",
-         "publishedParsed": "2025-10-23T05:56:23Z"
+         "published": "Thu, 23 Oct 2025 18:15:45 +0000",
+         "publishedParsed": "2025-10-23T18:15:45Z"
      },
      {
-         "title": "Which Collatz numbers do Busy Beavers simulate (if any)?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45626129\"\u003eComments\u003c/a\u003e",
-         "link": "https://gbragafibra.github.io/2025/10/16/collatz_ant11.html",
+         "title": "Show HN: Deta Surf – An open source and local-first AI notebook",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680937\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/deta/surf",
          "links": [
-             "https://gbragafibra.github.io/2025/10/16/collatz_ant11.html"
+             "https://github.com/deta/surf"
          ],
-         "published": "Sat, 18 Oct 2025 09:54:56 +0000",
-         "publishedParsed": "2025-10-18T09:54:56Z"
-     },
-     {
-         "title": "VectorWare – from creators of `rust-GPU` and `rust-CUDA`",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45683153\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.vectorware.com/blog/announcing-vectorware/",
-         "links": [
-             "https://www.vectorware.com/blog/announcing-vectorware/"
-         ],
-         "published": "Thu, 23 Oct 2025 15:41:54 +0000",
-         "publishedParsed": "2025-10-23T15:41:54Z"
-     },
-     {
-         "title": "Accessing Max Verstappen's passport and PII through FIA bugs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45673130\"\u003eComments\u003c/a\u003e",
-         "link": "https://ian.sh/fia",
-         "links": [
-             "https://ian.sh/fia"
-         ],
-         "published": "Wed, 22 Oct 2025 18:21:54 +0000",
-         "publishedParsed": "2025-10-22T18:21:54Z"
-     },
-     {
-         "title": "Willow quantum chip demonstrates verifiable quantum advantage on hardware",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45670443\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/",
-         "links": [
-             "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/"
-         ],
-         "published": "Wed, 22 Oct 2025 15:16:19 +0000",
-         "publishedParsed": "2025-10-22T15:16:19Z"
-     },
-     {
-         "title": "SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680547\"\u003eComments\u003c/a\u003e",
-         "link": "https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/",
-         "links": [
-             "https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/"
-         ],
-         "published": "Thu, 23 Oct 2025 11:15:44 +0000",
-         "publishedParsed": "2025-10-23T11:15:44Z"
-     },
-     {
-         "title": "Run interactive commands in Gemini CLI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45605823\"\u003eComments\u003c/a\u003e",
-         "link": "https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/",
-         "links": [
-             "https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/"
-         ],
-         "published": "Thu, 16 Oct 2025 14:31:13 +0000",
-         "publishedParsed": "2025-10-16T14:31:13Z"
-     },
-     {
-         "title": "Karpathy on DeepSeek-OCR paper: Are pixels better inputs to LLMs than text?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45658928\"\u003eComments\u003c/a\u003e",
-         "link": "https://twitter.com/karpathy/status/1980397031542989305",
-         "links": [
-             "https://twitter.com/karpathy/status/1980397031542989305"
-         ],
-         "published": "Tue, 21 Oct 2025 17:43:16 +0000",
-         "publishedParsed": "2025-10-21T17:43:16Z"
+         "published": "Thu, 23 Oct 2025 12:11:27 +0000",
+         "publishedParsed": "2025-10-23T12:11:27Z"
      },
      {
          "title": "Show HN: Nostr Web – decentralized website hosting on Nostr",
@@ -230,63 +230,63 @@
          "publishedParsed": "2025-10-23T14:20:40Z"
      },
      {
-         "title": "JMAP for Calendars, Contacts and Files Now in Stalwart",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45672336\"\u003eComments\u003c/a\u003e",
-         "link": "https://stalw.art/blog/jmap-collaboration/",
+         "title": "OpenAI Acquires Software Applications Incorporated, Maker of Sky",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684236\"\u003eComments\u003c/a\u003e",
+         "link": "https://openai.com/index/openai-acquires-software-applications-incorporated",
          "links": [
-             "https://stalw.art/blog/jmap-collaboration/"
+             "https://openai.com/index/openai-acquires-software-applications-incorporated"
          ],
-         "published": "Wed, 22 Oct 2025 17:26:06 +0000",
-         "publishedParsed": "2025-10-22T17:26:06Z"
+         "published": "Thu, 23 Oct 2025 17:04:17 +0000",
+         "publishedParsed": "2025-10-23T17:04:17Z"
      },
      {
-         "title": "We need to start doing web blocking for non-technical reasons",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45681850\"\u003eComments\u003c/a\u003e",
-         "link": "https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments",
+         "title": "Upgrading Our Way Through OpenGL 1.x",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45587291\"\u003eComments\u003c/a\u003e",
+         "link": "https://bumbershootsoft.wordpress.com/2025/09/27/upgrading-our-way-through-opengl-1-x/",
          "links": [
-             "https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments"
+             "https://bumbershootsoft.wordpress.com/2025/09/27/upgrading-our-way-through-opengl-1-x/"
          ],
-         "published": "Thu, 23 Oct 2025 13:54:36 +0000",
-         "publishedParsed": "2025-10-23T13:54:36Z"
+         "published": "Wed, 15 Oct 2025 02:04:46 +0000",
+         "publishedParsed": "2025-10-15T02:04:46Z"
      },
      {
-         "title": "Ovi: Twin backbone cross-modal fusion for audio-video generation",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45674166\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/character-ai/Ovi",
+         "title": "Living Dangerously with Claude",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45668118\"\u003eComments\u003c/a\u003e",
+         "link": "https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/",
          "links": [
-             "https://github.com/character-ai/Ovi"
+             "https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/"
          ],
-         "published": "Wed, 22 Oct 2025 19:42:36 +0000",
-         "publishedParsed": "2025-10-22T19:42:36Z"
+         "published": "Wed, 22 Oct 2025 12:36:19 +0000",
+         "publishedParsed": "2025-10-22T12:36:19Z"
      },
      {
-         "title": "Why SSA Compilers?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45674568\"\u003eComments\u003c/a\u003e",
-         "link": "https://mcyoung.xyz/2025/10/21/ssa-1/",
+         "title": "Radios, how do they work? (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45678603\"\u003eComments\u003c/a\u003e",
+         "link": "https://lcamtuf.substack.com/p/radios-how-do-they-work",
          "links": [
-             "https://mcyoung.xyz/2025/10/21/ssa-1/"
+             "https://lcamtuf.substack.com/p/radios-how-do-they-work"
          ],
-         "published": "Wed, 22 Oct 2025 20:13:31 +0000",
-         "publishedParsed": "2025-10-22T20:13:31Z"
+         "published": "Thu, 23 Oct 2025 05:56:23 +0000",
+         "publishedParsed": "2025-10-23T05:56:23Z"
      },
      {
-         "title": "Play abstract strategy board games online with friends or against bots",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45609478\"\u003eComments\u003c/a\u003e",
-         "link": "https://abstractboardgames.com/",
+         "title": "Compiler for \"Easy\" language from \"Etudes for Programmers\" book (1978)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45579118\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/begoon/easy",
          "links": [
-             "https://abstractboardgames.com/"
+             "https://github.com/begoon/easy"
          ],
-         "published": "Thu, 16 Oct 2025 19:12:47 +0000",
-         "publishedParsed": "2025-10-16T19:12:47Z"
+         "published": "Tue, 14 Oct 2025 12:14:24 +0000",
+         "publishedParsed": "2025-10-14T12:14:24Z"
      },
      {
-         "title": "Element: setHTML() method",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45666497\"\u003eComments\u003c/a\u003e",
-         "link": "https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML",
+         "title": "Accessing Max Verstappen's passport and PII through FIA bugs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45673130\"\u003eComments\u003c/a\u003e",
+         "link": "https://ian.sh/fia",
          "links": [
-             "https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML"
+             "https://ian.sh/fia"
          ],
-         "published": "Wed, 22 Oct 2025 09:03:40 +0000",
-         "publishedParsed": "2025-10-22T09:03:40Z"
+         "published": "Wed, 22 Oct 2025 18:21:54 +0000",
+         "publishedParsed": "2025-10-22T18:21:54Z"
      }
  ]
