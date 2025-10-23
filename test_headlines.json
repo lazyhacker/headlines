@@ -40,6 +40,16 @@
          "publishedParsed": "2025-10-23T05:48:02Z"
      },
      {
+         "title": "Antislop: A Framework for Eliminating Repetitive Patterns in Language Models",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45683897\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2510.15061",
+         "links": [
+             "https://arxiv.org/abs/2510.15061"
+         ],
+         "published": "Thu, 23 Oct 2025 16:36:05 +0000",
+         "publishedParsed": "2025-10-23T16:36:05Z"
+     },
+     {
          "title": "Google flags Immich sites as dangerous",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45675015\"\u003eComments\u003c/a\u003e",
          "link": "https://immich.app/blog/google-flags-immich-as-dangerous",
@@ -50,6 +60,16 @@
          "publishedParsed": "2025-10-22T20:53:49Z"
      },
      {
+         "title": "Conflict-Free Replicated Data Types (CRDTs): Convergence Without Coordination",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45606224\"\u003eComments\u003c/a\u003e",
+         "link": "https://read.thecoder.cafe/p/crdt",
+         "links": [
+             "https://read.thecoder.cafe/p/crdt"
+         ],
+         "published": "Thu, 16 Oct 2025 15:00:06 +0000",
+         "publishedParsed": "2025-10-16T15:00:06Z"
+     },
+     {
          "title": "Programming with Less Than Nothing",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45678511\"\u003eComments\u003c/a\u003e",
          "link": "https://joshmoody.org/blog/programming-with-less-than-nothing/",
@@ -58,6 +78,16 @@
          ],
          "published": "Thu, 23 Oct 2025 05:42:31 +0000",
          "publishedParsed": "2025-10-23T05:42:31Z"
+     },
+     {
+         "title": "Show HN: Deta Surf – An open source and local-first AI notebook",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680937\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/deta/surf",
+         "links": [
+             "https://github.com/deta/surf"
+         ],
+         "published": "Thu, 23 Oct 2025 12:11:27 +0000",
+         "publishedParsed": "2025-10-23T12:11:27Z"
      },
      {
          "title": "Ask HN: Does anyone have scans of these missing PC Plus issues (1991–1993)?",
@@ -80,14 +110,14 @@
          "publishedParsed": "2025-10-23T08:41:21Z"
      },
      {
-         "title": "Show HN: Deta Surf – An open source and local-first AI notebook",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680937\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/deta/surf",
+         "title": "Compiler for \"Easy\" language from \"Etudes for Programmers\" book (1978)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45579118\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/begoon/easy",
          "links": [
-             "https://github.com/deta/surf"
+             "https://github.com/begoon/easy"
          ],
-         "published": "Thu, 23 Oct 2025 12:11:27 +0000",
-         "publishedParsed": "2025-10-23T12:11:27Z"
+         "published": "Tue, 14 Oct 2025 12:14:24 +0000",
+         "publishedParsed": "2025-10-14T12:14:24Z"
      },
      {
          "title": "Scripts I wrote that I use all the time",
@@ -120,26 +150,6 @@
          "publishedParsed": "2025-10-23T05:56:23Z"
      },
      {
-         "title": "Conflict-Free Replicated Data Types (CRDTs): Convergence Without Coordination",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45606224\"\u003eComments\u003c/a\u003e",
-         "link": "https://read.thecoder.cafe/p/crdt",
-         "links": [
-             "https://read.thecoder.cafe/p/crdt"
-         ],
-         "published": "Thu, 16 Oct 2025 15:00:06 +0000",
-         "publishedParsed": "2025-10-16T15:00:06Z"
-     },
-     {
-         "title": "SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680547\"\u003eComments\u003c/a\u003e",
-         "link": "https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/",
-         "links": [
-             "https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/"
-         ],
-         "published": "Thu, 23 Oct 2025 11:15:44 +0000",
-         "publishedParsed": "2025-10-23T11:15:44Z"
-     },
-     {
          "title": "Which Collatz numbers do Busy Beavers simulate (if any)?",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45626129\"\u003eComments\u003c/a\u003e",
          "link": "https://gbragafibra.github.io/2025/10/16/collatz_ant11.html",
@@ -150,24 +160,14 @@
          "publishedParsed": "2025-10-18T09:54:56Z"
      },
      {
-         "title": "Run interactive commands in Gemini CLI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45605823\"\u003eComments\u003c/a\u003e",
-         "link": "https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/",
+         "title": "VectorWare – from creators of `rust-GPU` and `rust-CUDA`",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45683153\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.vectorware.com/blog/announcing-vectorware/",
          "links": [
-             "https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/"
+             "https://www.vectorware.com/blog/announcing-vectorware/"
          ],
-         "published": "Thu, 16 Oct 2025 14:31:13 +0000",
-         "publishedParsed": "2025-10-16T14:31:13Z"
-     },
-     {
-         "title": "Willow quantum chip demonstrates verifiable quantum advantage on hardware",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45670443\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/",
-         "links": [
-             "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/"
-         ],
-         "published": "Wed, 22 Oct 2025 15:16:19 +0000",
-         "publishedParsed": "2025-10-22T15:16:19Z"
+         "published": "Thu, 23 Oct 2025 15:41:54 +0000",
+         "publishedParsed": "2025-10-23T15:41:54Z"
      },
      {
          "title": "Accessing Max Verstappen's passport and PII through FIA bugs",
@@ -180,6 +180,36 @@
          "publishedParsed": "2025-10-22T18:21:54Z"
      },
      {
+         "title": "Willow quantum chip demonstrates verifiable quantum advantage on hardware",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45670443\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/",
+         "links": [
+             "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/"
+         ],
+         "published": "Wed, 22 Oct 2025 15:16:19 +0000",
+         "publishedParsed": "2025-10-22T15:16:19Z"
+     },
+     {
+         "title": "SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45680547\"\u003eComments\u003c/a\u003e",
+         "link": "https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/",
+         "links": [
+             "https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/"
+         ],
+         "published": "Thu, 23 Oct 2025 11:15:44 +0000",
+         "publishedParsed": "2025-10-23T11:15:44Z"
+     },
+     {
+         "title": "Run interactive commands in Gemini CLI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45605823\"\u003eComments\u003c/a\u003e",
+         "link": "https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/",
+         "links": [
+             "https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/"
+         ],
+         "published": "Thu, 16 Oct 2025 14:31:13 +0000",
+         "publishedParsed": "2025-10-16T14:31:13Z"
+     },
+     {
          "title": "Karpathy on DeepSeek-OCR paper: Are pixels better inputs to LLMs than text?",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45658928\"\u003eComments\u003c/a\u003e",
          "link": "https://twitter.com/karpathy/status/1980397031542989305",
@@ -188,6 +218,16 @@
          ],
          "published": "Tue, 21 Oct 2025 17:43:16 +0000",
          "publishedParsed": "2025-10-21T17:43:16Z"
+     },
+     {
+         "title": "Show HN: Nostr Web – decentralized website hosting on Nostr",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45682122\"\u003eComments\u003c/a\u003e",
+         "link": "https://nweb.shugur.com",
+         "links": [
+             "https://nweb.shugur.com"
+         ],
+         "published": "Thu, 23 Oct 2025 14:20:40 +0000",
+         "publishedParsed": "2025-10-23T14:20:40Z"
      },
      {
          "title": "JMAP for Calendars, Contacts and Files Now in Stalwart",
@@ -200,6 +240,16 @@
          "publishedParsed": "2025-10-22T17:26:06Z"
      },
      {
+         "title": "We need to start doing web blocking for non-technical reasons",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45681850\"\u003eComments\u003c/a\u003e",
+         "link": "https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments",
+         "links": [
+             "https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments"
+         ],
+         "published": "Thu, 23 Oct 2025 13:54:36 +0000",
+         "publishedParsed": "2025-10-23T13:54:36Z"
+     },
+     {
          "title": "Ovi: Twin backbone cross-modal fusion for audio-video generation",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45674166\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/character-ai/Ovi",
@@ -208,16 +258,6 @@
          ],
          "published": "Wed, 22 Oct 2025 19:42:36 +0000",
          "publishedParsed": "2025-10-22T19:42:36Z"
-     },
-     {
-         "title": "Microsoft puts Office Online Server on the chopping block",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45682067\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theregister.com/2025/10/22/microsoft_office_online_server/",
-         "links": [
-             "https://www.theregister.com/2025/10/22/microsoft_office_online_server/"
-         ],
-         "published": "Thu, 23 Oct 2025 14:15:22 +0000",
-         "publishedParsed": "2025-10-23T14:15:22Z"
      },
      {
          "title": "Why SSA Compilers?",
@@ -230,16 +270,6 @@
          "publishedParsed": "2025-10-22T20:13:31Z"
      },
      {
-         "title": "Element: setHTML() method",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45666497\"\u003eComments\u003c/a\u003e",
-         "link": "https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML",
-         "links": [
-             "https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML"
-         ],
-         "published": "Wed, 22 Oct 2025 09:03:40 +0000",
-         "publishedParsed": "2025-10-22T09:03:40Z"
-     },
-     {
          "title": "Play abstract strategy board games online with friends or against bots",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45609478\"\u003eComments\u003c/a\u003e",
          "link": "https://abstractboardgames.com/",
@@ -250,43 +280,13 @@
          "publishedParsed": "2025-10-16T19:12:47Z"
      },
      {
-         "title": "When You Get to Be Smart Writing a Macro",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45601856\"\u003eComments\u003c/a\u003e",
-         "link": "https://tonsky.me/blog/hashp/",
+         "title": "Element: setHTML() method",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45666497\"\u003eComments\u003c/a\u003e",
+         "link": "https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML",
          "links": [
-             "https://tonsky.me/blog/hashp/"
+             "https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML"
          ],
-         "published": "Thu, 16 Oct 2025 05:51:02 +0000",
-         "publishedParsed": "2025-10-16T05:51:02Z"
-     },
-     {
-         "title": "Show HN: Silly Morse code chat app using WebSockets",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45627586\"\u003eComments\u003c/a\u003e",
-         "link": "https://noamtamir.github.io/morwse/",
-         "links": [
-             "https://noamtamir.github.io/morwse/"
-         ],
-         "published": "Sat, 18 Oct 2025 14:18:03 +0000",
-         "publishedParsed": "2025-10-18T14:18:03Z"
-     },
-     {
-         "title": "The first interstellar software update: The hack that saved Voyager 1 [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45561640\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=p0K7u3B_8rY",
-         "links": [
-             "https://www.youtube.com/watch?v=p0K7u3B_8rY"
-         ],
-         "published": "Sun, 12 Oct 2025 20:31:57 +0000",
-         "publishedParsed": "2025-10-12T20:31:57Z"
-     },
-     {
-         "title": "A Distributed Emulation Environment for In-Memory Computing Systems",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45566088\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.arxiv.org/pdf/2510.08257",
-         "links": [
-             "https://www.arxiv.org/pdf/2510.08257"
-         ],
-         "published": "Mon, 13 Oct 2025 08:27:15 +0000",
-         "publishedParsed": "2025-10-13T08:27:15Z"
+         "published": "Wed, 22 Oct 2025 09:03:40 +0000",
+         "publishedParsed": "2025-10-22T09:03:40Z"
      }
  ]
