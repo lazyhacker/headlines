@@ -1,5 +1,15 @@
 [
      {
+         "title": "Roc Camera",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45690251\"\u003eComments\u003c/a\u003e",
+         "link": "https://roc.camera/",
+         "links": [
+             "https://roc.camera/"
+         ],
+         "published": "Fri, 24 Oct 2025 02:54:29 +0000",
+         "publishedParsed": "2025-10-24T02:54:29Z"
+     },
+     {
          "title": "Betty White's shoulder bag is a time capsule of World War II (2023)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45613327\"\u003eComments\u003c/a\u003e",
          "link": "https://americanhistory.si.edu/explore/stories/betty-white-world-war-ii",
@@ -20,6 +30,16 @@
          "publishedParsed": "2025-10-23T16:56:07Z"
      },
      {
+         "title": "Counter-Strike's player economy is in a multi-billion dollar freefall",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45689241\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/",
+         "links": [
+             "https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/"
+         ],
+         "published": "Fri, 24 Oct 2025 00:24:11 +0000",
+         "publishedParsed": "2025-10-24T00:24:11Z"
+     },
+     {
          "title": "/dev/null is an ACID compliant database",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45687458\"\u003eComments\u003c/a\u003e",
          "link": "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/",
@@ -30,34 +50,14 @@
          "publishedParsed": "2025-10-23T21:28:02Z"
      },
      {
-         "title": "Computer science courses that don't exist, but should (2015)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45690045\"\u003eComments\u003c/a\u003e",
-         "link": "https://prog21.dadgum.com/210.html",
+         "title": "Fast-DLLM: Training-Free Acceleration of Diffusion LLM",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45690219\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2505.22618",
          "links": [
-             "https://prog21.dadgum.com/210.html"
+             "https://arxiv.org/abs/2505.22618"
          ],
-         "published": "Fri, 24 Oct 2025 02:22:07 +0000",
-         "publishedParsed": "2025-10-24T02:22:07Z"
-     },
-     {
-         "title": "React Flow, open source libraries for node-based UIs with React or Svelte",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45688836\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/xyflow/xyflow",
-         "links": [
-             "https://github.com/xyflow/xyflow"
-         ],
-         "published": "Thu, 23 Oct 2025 23:33:28 +0000",
-         "publishedParsed": "2025-10-23T23:33:28Z"
-     },
-     {
-         "title": "How memory maps (mmap) deliver faster file access in Go",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45687796\"\u003eComments\u003c/a\u003e",
-         "link": "https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go",
-         "links": [
-             "https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go"
-         ],
-         "published": "Thu, 23 Oct 2025 21:56:07 +0000",
-         "publishedParsed": "2025-10-23T21:56:07Z"
+         "published": "Fri, 24 Oct 2025 02:50:50 +0000",
+         "publishedParsed": "2025-10-24T02:50:50Z"
      },
      {
          "title": "Cheap DIY solar fence design",
@@ -70,24 +70,34 @@
          "publishedParsed": "2025-10-15T19:23:39Z"
      },
      {
-         "title": "Can “second life” EV batteries work as grid-scale energy storage?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45685007\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.volts.wtf/p/can-second-life-ev-batteries-work",
+         "title": "How memory maps (mmap) deliver faster file access in Go",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45687796\"\u003eComments\u003c/a\u003e",
+         "link": "https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go",
          "links": [
-             "https://www.volts.wtf/p/can-second-life-ev-batteries-work"
+             "https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go"
          ],
-         "published": "Thu, 23 Oct 2025 18:15:45 +0000",
-         "publishedParsed": "2025-10-23T18:15:45Z"
+         "published": "Thu, 23 Oct 2025 21:56:07 +0000",
+         "publishedParsed": "2025-10-23T21:56:07Z"
      },
      {
-         "title": "Killing Charles Dickens (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45625220\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.newyorker.com/magazine/2023/07/10/on-killing-charles-dickens",
+         "title": "JupyterGIS breaks through to the next level",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45690679\"\u003eComments\u003c/a\u003e",
+         "link": "https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/",
          "links": [
-             "https://www.newyorker.com/magazine/2023/07/10/on-killing-charles-dickens"
+             "https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/"
          ],
-         "published": "Sat, 18 Oct 2025 05:45:33 +0000",
-         "publishedParsed": "2025-10-18T05:45:33Z"
+         "published": "Fri, 24 Oct 2025 04:13:01 +0000",
+         "publishedParsed": "2025-10-24T04:13:01Z"
+     },
+     {
+         "title": "Computer science courses that don't exist, but should (2015)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45690045\"\u003eComments\u003c/a\u003e",
+         "link": "https://prog21.dadgum.com/210.html",
+         "links": [
+             "https://prog21.dadgum.com/210.html"
+         ],
+         "published": "Fri, 24 Oct 2025 02:22:07 +0000",
+         "publishedParsed": "2025-10-24T02:22:07Z"
      },
      {
          "title": "Benchmarking Postgres 17 vs. 18",
@@ -100,6 +110,16 @@
          "publishedParsed": "2025-10-14T15:35:44Z"
      },
      {
+         "title": "Can “second life” EV batteries work as grid-scale energy storage?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45685007\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.volts.wtf/p/can-second-life-ev-batteries-work",
+         "links": [
+             "https://www.volts.wtf/p/can-second-life-ev-batteries-work"
+         ],
+         "published": "Thu, 23 Oct 2025 18:15:45 +0000",
+         "publishedParsed": "2025-10-23T18:15:45Z"
+     },
+     {
          "title": "When is it better to think without words?",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45687441\"\u003eComments\u003c/a\u003e",
          "link": "https://www.henrikkarlsson.xyz/p/wordless-thought",
@@ -110,24 +130,14 @@
          "publishedParsed": "2025-10-23T21:26:57Z"
      },
      {
-         "title": "Automating Algorithm Discovery: A Case Study in MoE Load Balancing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45688236\"\u003eComments\u003c/a\u003e",
-         "link": "https://adrs-ucb.notion.site/moe-load-balancing",
+         "title": "React Flow, open source libraries for node-based UIs with React or Svelte",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45688836\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/xyflow/xyflow",
          "links": [
-             "https://adrs-ucb.notion.site/moe-load-balancing"
+             "https://github.com/xyflow/xyflow"
          ],
-         "published": "Thu, 23 Oct 2025 22:35:22 +0000",
-         "publishedParsed": "2025-10-23T22:35:22Z"
-     },
-     {
-         "title": "Introduction to the concept of likelihood and its applications (2018)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45688443\"\u003eComments\u003c/a\u003e",
-         "link": "https://journals.sagepub.com/doi/10.1177/2515245917744314",
-         "links": [
-             "https://journals.sagepub.com/doi/10.1177/2515245917744314"
-         ],
-         "published": "Thu, 23 Oct 2025 22:52:15 +0000",
-         "publishedParsed": "2025-10-23T22:52:15Z"
+         "published": "Thu, 23 Oct 2025 23:33:28 +0000",
+         "publishedParsed": "2025-10-23T23:33:28Z"
      },
      {
          "title": "PyTorch Monarch",
@@ -150,6 +160,66 @@
          "publishedParsed": "2025-10-23T01:19:58Z"
      },
      {
+         "title": "Killing Charles Dickens (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45625220\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.newyorker.com/magazine/2023/07/10/on-killing-charles-dickens",
+         "links": [
+             "https://www.newyorker.com/magazine/2023/07/10/on-killing-charles-dickens"
+         ],
+         "published": "Sat, 18 Oct 2025 05:45:33 +0000",
+         "publishedParsed": "2025-10-18T05:45:33Z"
+     },
+     {
+         "title": "I spent a year making an ASN.1 compiler in D",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45681200\"\u003eComments\u003c/a\u003e",
+         "link": "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/",
+         "links": [
+             "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/"
+         ],
+         "published": "Thu, 23 Oct 2025 12:47:41 +0000",
+         "publishedParsed": "2025-10-23T12:47:41Z"
+     },
+     {
+         "title": "Binmoji: A 64-bit emoji encoding",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45586374\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/jb55/binmoji",
+         "links": [
+             "https://github.com/jb55/binmoji"
+         ],
+         "published": "Tue, 14 Oct 2025 23:51:02 +0000",
+         "publishedParsed": "2025-10-14T23:51:02Z"
+     },
+     {
+         "title": "Automating Algorithm Discovery: A Case Study in MoE Load Balancing",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45688236\"\u003eComments\u003c/a\u003e",
+         "link": "https://adrs-ucb.notion.site/moe-load-balancing",
+         "links": [
+             "https://adrs-ucb.notion.site/moe-load-balancing"
+         ],
+         "published": "Thu, 23 Oct 2025 22:35:22 +0000",
+         "publishedParsed": "2025-10-23T22:35:22Z"
+     },
+     {
+         "title": "Date bug in Rust-based coreutils affects Ubuntu 25.10 automatic updates",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45686919\"\u003eComments\u003c/a\u003e",
+         "link": "https://lwn.net/Articles/1043103/",
+         "links": [
+             "https://lwn.net/Articles/1043103/"
+         ],
+         "published": "Thu, 23 Oct 2025 20:49:08 +0000",
+         "publishedParsed": "2025-10-23T20:49:08Z"
+     },
+     {
+         "title": "Introduction to the concept of likelihood and its applications (2018)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45688443\"\u003eComments\u003c/a\u003e",
+         "link": "https://journals.sagepub.com/doi/10.1177/2515245917744314",
+         "links": [
+             "https://journals.sagepub.com/doi/10.1177/2515245917744314"
+         ],
+         "published": "Thu, 23 Oct 2025 22:52:15 +0000",
+         "publishedParsed": "2025-10-23T22:52:15Z"
+     },
+     {
          "title": "OpenAI acquires Sky.app",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684236\"\u003eComments\u003c/a\u003e",
          "link": "https://openai.com/index/openai-acquires-software-applications-incorporated",
@@ -160,34 +230,24 @@
          "publishedParsed": "2025-10-23T17:04:17Z"
      },
      {
-         "title": "Fast-DLLM: Training-Free Acceleration of Diffusion LLM",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45690219\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2505.22618",
+         "title": "Apple loses UK App Store monopoly case, penalty might near $2B",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45688006\"\u003eComments\u003c/a\u003e",
+         "link": "https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/",
          "links": [
-             "https://arxiv.org/abs/2505.22618"
+             "https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/"
          ],
-         "published": "Fri, 24 Oct 2025 02:50:50 +0000",
-         "publishedParsed": "2025-10-24T02:50:50Z"
+         "published": "Thu, 23 Oct 2025 22:11:23 +0000",
+         "publishedParsed": "2025-10-23T22:11:23Z"
      },
      {
-         "title": "Zram Performance Analysis",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45686280\"\u003eComments\u003c/a\u003e",
-         "link": "https://notes.xeome.dev/notes/Zram",
+         "title": "FocusTube: A Chrome extension that hides YouTube Shorts",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45687227\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/CaptainYouz/FocusTube",
          "links": [
-             "https://notes.xeome.dev/notes/Zram"
+             "https://github.com/CaptainYouz/FocusTube"
          ],
-         "published": "Thu, 23 Oct 2025 19:58:12 +0000",
-         "publishedParsed": "2025-10-23T19:58:12Z"
-     },
-     {
-         "title": "Dunkin’ Donuts started as a small Quincy coffee and doughnut shop",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45550588\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bostonglobe.com/2025/10/10/business/dunkin-donuts-scott-murphy-bain-capital-carlyle-inspire/",
-         "links": [
-             "https://www.bostonglobe.com/2025/10/10/business/dunkin-donuts-scott-murphy-bain-capital-carlyle-inspire/"
-         ],
-         "published": "Sat, 11 Oct 2025 16:47:31 +0000",
-         "publishedParsed": "2025-10-11T16:47:31Z"
+         "published": "Thu, 23 Oct 2025 21:11:14 +0000",
+         "publishedParsed": "2025-10-23T21:11:14Z"
      },
      {
          "title": "US probes Waymo robotaxis over school bus safety",
@@ -200,16 +260,6 @@
          "publishedParsed": "2025-10-23T12:40:57Z"
      },
      {
-         "title": "Armed police swarm student after AI mistakes bag of Doritos for a weapon",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684934\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/",
-         "links": [
-             "https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/"
-         ],
-         "published": "Thu, 23 Oct 2025 18:09:37 +0000",
-         "publishedParsed": "2025-10-23T18:09:37Z"
-     },
-     {
          "title": "Kaitai Struct: declarative binary format parsing language",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45580795\"\u003eComments\u003c/a\u003e",
          "link": "https://kaitai.io/",
@@ -220,53 +270,23 @@
          "publishedParsed": "2025-10-14T14:51:29Z"
      },
      {
-         "title": "Pyscripter – Open-source Python IDE written in Delphi",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45639618\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/pyscripter/pyscripter",
+         "title": "Antislop: A framework for eliminating repetitive patterns in language models",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45683897\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2510.15061",
          "links": [
-             "https://github.com/pyscripter/pyscripter"
+             "https://arxiv.org/abs/2510.15061"
          ],
-         "published": "Mon, 20 Oct 2025 02:03:40 +0000",
-         "publishedParsed": "2025-10-20T02:03:40Z"
+         "published": "Thu, 23 Oct 2025 16:36:05 +0000",
+         "publishedParsed": "2025-10-23T16:36:05Z"
      },
      {
-         "title": "Deepstaria Enigmatica",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45545860\"\u003eComments\u003c/a\u003e",
-         "link": "https://en.wikipedia.org/wiki/Deepstaria_enigmatica",
+         "title": "Zram Performance Analysis",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45686280\"\u003eComments\u003c/a\u003e",
+         "link": "https://notes.xeome.dev/notes/Zram",
          "links": [
-             "https://en.wikipedia.org/wiki/Deepstaria_enigmatica"
+             "https://notes.xeome.dev/notes/Zram"
          ],
-         "published": "Sat, 11 Oct 2025 01:49:07 +0000",
-         "publishedParsed": "2025-10-11T01:49:07Z"
-     },
-     {
-         "title": "New updates and more access to Google Earth AI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45684155\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/",
-         "links": [
-             "https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/"
-         ],
-         "published": "Thu, 23 Oct 2025 16:58:04 +0000",
-         "publishedParsed": "2025-10-23T16:58:04Z"
-     },
-     {
-         "title": "Show HN: Git for LLMs – A context management interface",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45682776\"\u003eComments\u003c/a\u003e",
-         "link": "https://twigg.ai",
-         "links": [
-             "https://twigg.ai"
-         ],
-         "published": "Thu, 23 Oct 2025 15:12:57 +0000",
-         "publishedParsed": "2025-10-23T15:12:57Z"
-     },
-     {
-         "title": "Roc Camera",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45690251\"\u003eComments\u003c/a\u003e",
-         "link": "https://roc.camera/",
-         "links": [
-             "https://roc.camera/"
-         ],
-         "published": "Fri, 24 Oct 2025 02:54:29 +0000",
-         "publishedParsed": "2025-10-24T02:54:29Z"
+         "published": "Thu, 23 Oct 2025 19:58:12 +0000",
+         "publishedParsed": "2025-10-23T19:58:12Z"
      }
  ]
