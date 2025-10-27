@@ -1,5 +1,15 @@
 [
      {
+         "title": "Easy RISC-V",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45726192\"\u003eComments\u003c/a\u003e",
+         "link": "https://dramforever.github.io/easyriscv/",
+         "links": [
+             "https://dramforever.github.io/easyriscv/"
+         ],
+         "published": "Mon, 27 Oct 2025 20:57:12 +0000",
+         "publishedParsed": "2025-10-27T20:57:12Z"
+     },
+     {
          "title": "Claude for Excel",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45722639\"\u003eComments\u003c/a\u003e",
          "link": "https://www.claude.com/claude-for-excel",
@@ -20,16 +30,6 @@
          "publishedParsed": "2025-10-27T16:44:17Z"
      },
      {
-         "title": "Pyrex catalog from from 1938 with hand-drawn lab glassware [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45721801\"\u003eComments\u003c/a\u003e",
-         "link": "https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf",
-         "links": [
-             "https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf"
-         ],
-         "published": "Mon, 27 Oct 2025 15:04:05 +0000",
-         "publishedParsed": "2025-10-27T15:04:05Z"
-     },
-     {
          "title": "10M people watched a YouTuber shim a lock; the lock company sued him – bad idea",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45720376\"\u003eComments\u003c/a\u003e",
          "link": "https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/",
@@ -38,36 +38,6 @@
          ],
          "published": "Mon, 27 Oct 2025 12:42:42 +0000",
          "publishedParsed": "2025-10-27T12:42:42Z"
-     },
-     {
-         "title": "Creating an all-weather driver",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45724913\"\u003eComments\u003c/a\u003e",
-         "link": "https://waymo.com/blog/2025/10/creating-an-all-weather-driver",
-         "links": [
-             "https://waymo.com/blog/2025/10/creating-an-all-weather-driver"
-         ],
-         "published": "Mon, 27 Oct 2025 18:57:57 +0000",
-         "publishedParsed": "2025-10-27T18:57:57Z"
-     },
-     {
-         "title": "Why Busy Beaver hunters fear the Antihydra",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45723359\"\u003eComments\u003c/a\u003e",
-         "link": "https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/",
-         "links": [
-             "https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/"
-         ],
-         "published": "Mon, 27 Oct 2025 16:56:04 +0000",
-         "publishedParsed": "2025-10-27T16:56:04Z"
-     },
-     {
-         "title": "MCP-Scanner – Scan MCP Servers for vulnerabilities",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45723699\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/cisco-ai-defense/mcp-scanner",
-         "links": [
-             "https://github.com/cisco-ai-defense/mcp-scanner"
-         ],
-         "published": "Mon, 27 Oct 2025 17:18:39 +0000",
-         "publishedParsed": "2025-10-27T17:18:39Z"
      },
      {
          "title": "Simplify Your Code: Functional Core, Imperative Shell",
@@ -80,14 +50,54 @@
          "publishedParsed": "2025-10-25T07:07:59Z"
      },
      {
-         "title": "Avoid 2:00 and 3:00 am cron jobs (2013)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45723554\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/",
+         "title": "Pyrex catalog from from 1938 with hand-drawn lab glassware [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45721801\"\u003eComments\u003c/a\u003e",
+         "link": "https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf",
          "links": [
-             "https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/"
+             "https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf"
          ],
-         "published": "Mon, 27 Oct 2025 17:08:33 +0000",
-         "publishedParsed": "2025-10-27T17:08:33Z"
+         "published": "Mon, 27 Oct 2025 15:04:05 +0000",
+         "publishedParsed": "2025-10-27T15:04:05Z"
+     },
+     {
+         "title": "Go beyond Goroutines: introducing the Reactive paradigm",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45644066\"\u003eComments\u003c/a\u003e",
+         "link": "https://samuelberthe.substack.com/p/go-beyond-goroutines-introducing",
+         "links": [
+             "https://samuelberthe.substack.com/p/go-beyond-goroutines-introducing"
+         ],
+         "published": "Mon, 20 Oct 2025 14:04:53 +0000",
+         "publishedParsed": "2025-10-20T14:04:53Z"
+     },
+     {
+         "title": "Why Busy Beaver hunters fear the Antihydra",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45723359\"\u003eComments\u003c/a\u003e",
+         "link": "https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/",
+         "links": [
+             "https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/"
+         ],
+         "published": "Mon, 27 Oct 2025 16:56:04 +0000",
+         "publishedParsed": "2025-10-27T16:56:04Z"
+     },
+     {
+         "title": "The new calculus of AI-based coding",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45723686\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html",
+         "links": [
+             "https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html"
+         ],
+         "published": "Mon, 27 Oct 2025 17:17:38 +0000",
+         "publishedParsed": "2025-10-27T17:17:38Z"
+     },
+     {
+         "title": "MCP-Scanner – Scan MCP Servers for vulnerabilities",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45723699\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/cisco-ai-defense/mcp-scanner",
+         "links": [
+             "https://github.com/cisco-ai-defense/mcp-scanner"
+         ],
+         "published": "Mon, 27 Oct 2025 17:18:39 +0000",
+         "publishedParsed": "2025-10-27T17:18:39Z"
      },
      {
          "title": "Rust cross-platform GPUI components",
@@ -120,14 +130,14 @@
          "publishedParsed": "2025-10-26T22:19:02Z"
      },
      {
-         "title": "Sieve (YC X25) is hiring engineers to build video datasets for frontier AI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45723426\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.sievedata.com/",
+         "title": "Avoid 2:00 and 3:00 am cron jobs (2013)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45723554\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/",
          "links": [
-             "https://www.sievedata.com/"
+             "https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/"
          ],
-         "published": "Mon, 27 Oct 2025 17:01:05 +0000",
-         "publishedParsed": "2025-10-27T17:01:05Z"
+         "published": "Mon, 27 Oct 2025 17:08:33 +0000",
+         "publishedParsed": "2025-10-27T17:08:33Z"
      },
      {
          "title": "Solving regex crosswords with Z3",
@@ -150,44 +160,14 @@
          "publishedParsed": "2025-10-27T14:19:30Z"
      },
      {
-         "title": "It's not always DNS",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45723809\"\u003eComments\u003c/a\u003e",
-         "link": "https://notes.pault.ag/its-not-always-dns/",
+         "title": "Sieve (YC X25) is hiring engineers to build video datasets for frontier AI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45723426\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.sievedata.com/",
          "links": [
-             "https://notes.pault.ag/its-not-always-dns/"
+             "https://www.sievedata.com/"
          ],
-         "published": "Mon, 27 Oct 2025 17:25:52 +0000",
-         "publishedParsed": "2025-10-27T17:25:52Z"
-     },
-     {
-         "title": "Eight Million Copies of Moby-Dick (2014)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45677253\"\u003eComments\u003c/a\u003e",
-         "link": "https://thevoltablog.wordpress.com/2014/01/27/nicolas-mugaveros-eight-million-copies-of-moby-dick-or-the-whale/",
-         "links": [
-             "https://thevoltablog.wordpress.com/2014/01/27/nicolas-mugaveros-eight-million-copies-of-moby-dick-or-the-whale/"
-         ],
-         "published": "Thu, 23 Oct 2025 01:38:48 +0000",
-         "publishedParsed": "2025-10-23T01:38:48Z"
-     },
-     {
-         "title": "Artificial Writing and Automated Detection [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45723558\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nber.org/system/files/working_papers/w34223/w34223.pdf",
-         "links": [
-             "https://www.nber.org/system/files/working_papers/w34223/w34223.pdf"
-         ],
-         "published": "Mon, 27 Oct 2025 17:09:05 +0000",
-         "publishedParsed": "2025-10-27T17:09:05Z"
-     },
-     {
-         "title": "Show HN: Erdos – open-source, AI data science IDE",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45722635\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.lotas.ai/erdos",
-         "links": [
-             "https://www.lotas.ai/erdos"
-         ],
-         "published": "Mon, 27 Oct 2025 16:08:58 +0000",
-         "publishedParsed": "2025-10-27T16:08:58Z"
+         "published": "Mon, 27 Oct 2025 17:01:05 +0000",
+         "publishedParsed": "2025-10-27T17:01:05Z"
      },
      {
          "title": "Image Dithering: Eleven Algorithms and Source Code (2012)",
@@ -200,24 +180,74 @@
          "publishedParsed": "2025-10-24T19:38:44Z"
      },
      {
-         "title": "A mild mannered Englishman who was the most prolific ghost hunter",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45652765\"\u003eComments\u003c/a\u003e",
-         "link": "https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/",
+         "title": "It's not always DNS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45723809\"\u003eComments\u003c/a\u003e",
+         "link": "https://notes.pault.ag/its-not-always-dns/",
          "links": [
-             "https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/"
+             "https://notes.pault.ag/its-not-always-dns/"
          ],
-         "published": "Tue, 21 Oct 2025 05:32:29 +0000",
-         "publishedParsed": "2025-10-21T05:32:29Z"
+         "published": "Mon, 27 Oct 2025 17:25:52 +0000",
+         "publishedParsed": "2025-10-27T17:25:52Z"
      },
      {
-         "title": "Show HN: Git Auto Commit (GAC) – LLM-powered Git commit command line tool",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45723533\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/cellwebb/gac",
+         "title": "Iroh-blobs 0.95 – New features – Iroh",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45654202\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.iroh.computer/blog/iroh-blobs-0-95-new-features",
          "links": [
-             "https://github.com/cellwebb/gac"
+             "https://www.iroh.computer/blog/iroh-blobs-0-95-new-features"
          ],
-         "published": "Mon, 27 Oct 2025 17:07:05 +0000",
-         "publishedParsed": "2025-10-27T17:07:05Z"
+         "published": "Tue, 21 Oct 2025 10:11:49 +0000",
+         "publishedParsed": "2025-10-21T10:11:49Z"
+     },
+     {
+         "title": "The last European train that travels by sea",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45718711\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea",
+         "links": [
+             "https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea"
+         ],
+         "published": "Mon, 27 Oct 2025 08:58:10 +0000",
+         "publishedParsed": "2025-10-27T08:58:10Z"
+     },
+     {
+         "title": "Show HN: Erdos – open-source, AI data science IDE",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45722635\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.lotas.ai/erdos",
+         "links": [
+             "https://www.lotas.ai/erdos"
+         ],
+         "published": "Mon, 27 Oct 2025 16:08:58 +0000",
+         "publishedParsed": "2025-10-27T16:08:58Z"
+     },
+     {
+         "title": "fnox, a secret manager that pairs well with mise",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45722931\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/jdx/mise/discussions/6779",
+         "links": [
+             "https://github.com/jdx/mise/discussions/6779"
+         ],
+         "published": "Mon, 27 Oct 2025 16:29:38 +0000",
+         "publishedParsed": "2025-10-27T16:29:38Z"
+     },
+     {
+         "title": "Should LLMs just treat text content as an image?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45652952\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.seangoedecke.com/text-tokens-as-image-tokens/",
+         "links": [
+             "https://www.seangoedecke.com/text-tokens-as-image-tokens/"
+         ],
+         "published": "Tue, 21 Oct 2025 06:10:57 +0000",
+         "publishedParsed": "2025-10-21T06:10:57Z"
+     },
+     {
+         "title": "Eight Million Copies of Moby-Dick (2014)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45677253\"\u003eComments\u003c/a\u003e",
+         "link": "https://thevoltablog.wordpress.com/2014/01/27/nicolas-mugaveros-eight-million-copies-of-moby-dick-or-the-whale/",
+         "links": [
+             "https://thevoltablog.wordpress.com/2014/01/27/nicolas-mugaveros-eight-million-copies-of-moby-dick-or-the-whale/"
+         ],
+         "published": "Thu, 23 Oct 2025 01:38:48 +0000",
+         "publishedParsed": "2025-10-23T01:38:48Z"
      },
      {
          "title": "Let the little guys in: A context sharing runtime for the personalised web",
@@ -230,53 +260,13 @@
          "publishedParsed": "2025-10-27T17:27:18Z"
      },
      {
-         "title": "The new calculus of AI-based coding",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45723686\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html",
+         "title": "Artificial Writing and Automated Detection [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45723558\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nber.org/system/files/working_papers/w34223/w34223.pdf",
          "links": [
-             "https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html"
+             "https://www.nber.org/system/files/working_papers/w34223/w34223.pdf"
          ],
-         "published": "Mon, 27 Oct 2025 17:17:38 +0000",
-         "publishedParsed": "2025-10-27T17:17:38Z"
-     },
-     {
-         "title": "Precise and scalable analogue matrix equation solving using RRAM chips [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45703086\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nature.com/articles/s41928-025-01477-0.pdf",
-         "links": [
-             "https://www.nature.com/articles/s41928-025-01477-0.pdf"
-         ],
-         "published": "Sat, 25 Oct 2025 11:44:39 +0000",
-         "publishedParsed": "2025-10-25T11:44:39Z"
-     },
-     {
-         "title": "Gitworkshop.dev – Collaborate on code over Nostr",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45702274\"\u003eComments\u003c/a\u003e",
-         "link": "https://gitworkshop.dev/",
-         "links": [
-             "https://gitworkshop.dev/"
-         ],
-         "published": "Sat, 25 Oct 2025 08:41:59 +0000",
-         "publishedParsed": "2025-10-25T08:41:59Z"
-     },
-     {
-         "title": "Show HN: JSON Query",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45722826\"\u003eComments\u003c/a\u003e",
-         "link": "https://jsonquerylang.org/",
-         "links": [
-             "https://jsonquerylang.org/"
-         ],
-         "published": "Mon, 27 Oct 2025 16:22:52 +0000",
-         "publishedParsed": "2025-10-27T16:22:52Z"
-     },
-     {
-         "title": "fnox, a secret manager that pairs well with mise",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45722931\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/jdx/mise/discussions/6779",
-         "links": [
-             "https://github.com/jdx/mise/discussions/6779"
-         ],
-         "published": "Mon, 27 Oct 2025 16:29:38 +0000",
-         "publishedParsed": "2025-10-27T16:29:38Z"
+         "published": "Mon, 27 Oct 2025 17:09:05 +0000",
+         "publishedParsed": "2025-10-27T17:09:05Z"
      }
  ]
