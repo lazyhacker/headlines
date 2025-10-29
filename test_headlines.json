@@ -1,5 +1,15 @@
 [
      {
+         "title": "Azure Outage",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45748799\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=45748799",
+         "links": [
+             "https://news.ycombinator.com/item?id=45748799"
+         ],
+         "published": "Wed, 29 Oct 2025 16:08:35 +0000",
+         "publishedParsed": "2025-10-29T16:08:35Z"
+     },
+     {
          "title": "Keep Android Open",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45742488\"\u003eComments\u003c/a\u003e",
          "link": "http://keepandroidopen.org/",
@@ -10,24 +20,24 @@
          "publishedParsed": "2025-10-29T04:03:41Z"
      },
      {
-         "title": "From VS Code to Helix",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45746478\"\u003eComments\u003c/a\u003e",
-         "link": "https://ergaster.org/posts/2025/10/29-vscode-to-helix/",
+         "title": "Cursor Composer: Building a fast frontier model with RL",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45748725\"\u003eComments\u003c/a\u003e",
+         "link": "https://cursor.com/blog/composer",
          "links": [
-             "https://ergaster.org/posts/2025/10/29-vscode-to-helix/"
+             "https://cursor.com/blog/composer"
          ],
-         "published": "Wed, 29 Oct 2025 13:19:30 +0000",
-         "publishedParsed": "2025-10-29T13:19:30Z"
+         "published": "Wed, 29 Oct 2025 16:04:33 +0000",
+         "publishedParsed": "2025-10-29T16:04:33Z"
      },
      {
-         "title": "Kafka is Fast – I'll use Postgres",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45747018\"\u003eComments\u003c/a\u003e",
-         "link": "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks",
+         "title": "Tailscale Peer Relays",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45749017\"\u003eComments\u003c/a\u003e",
+         "link": "https://tailscale.com/blog/peer-relays-beta",
          "links": [
-             "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks"
+             "https://tailscale.com/blog/peer-relays-beta"
          ],
-         "published": "Wed, 29 Oct 2025 14:06:01 +0000",
-         "publishedParsed": "2025-10-29T14:06:01Z"
+         "published": "Wed, 29 Oct 2025 16:21:36 +0000",
+         "publishedParsed": "2025-10-29T16:21:36Z"
      },
      {
          "title": "I made a 10¢ MCU Talk",
@@ -40,14 +50,34 @@
          "publishedParsed": "2025-10-29T14:12:50Z"
      },
      {
-         "title": "AWS to bare metal two years later: Answering your questions about leaving AWS",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45745281\"\u003eComments\u003c/a\u003e",
-         "link": "https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view",
+         "title": "Beyond RaspberryPi: What are all the other SoC vendors up to *summarised*",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45697234\"\u003eComments\u003c/a\u003e",
+         "link": "https://sbcwiki.com/news/articles/state-of-embedded-q4-25/",
          "links": [
-             "https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view"
+             "https://sbcwiki.com/news/articles/state-of-embedded-q4-25/"
          ],
-         "published": "Wed, 29 Oct 2025 11:14:38 +0000",
-         "publishedParsed": "2025-10-29T11:14:38Z"
+         "published": "Fri, 24 Oct 2025 17:52:20 +0000",
+         "publishedParsed": "2025-10-24T17:52:20Z"
+     },
+     {
+         "title": "Collins Aerospace: Sending text messages to the cockpit with test:test",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45747804\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ccc.de/en/disclosure/collins-aerospace-mit-test-test-textnachrichten-bis-ins-cockpit-senden",
+         "links": [
+             "https://www.ccc.de/en/disclosure/collins-aerospace-mit-test-test-textnachrichten-bis-ins-cockpit-senden"
+         ],
+         "published": "Wed, 29 Oct 2025 15:07:20 +0000",
+         "publishedParsed": "2025-10-29T15:07:20Z"
+     },
+     {
+         "title": "From VS Code to Helix",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45746478\"\u003eComments\u003c/a\u003e",
+         "link": "https://ergaster.org/posts/2025/10/29-vscode-to-helix/",
+         "links": [
+             "https://ergaster.org/posts/2025/10/29-vscode-to-helix/"
+         ],
+         "published": "Wed, 29 Oct 2025 13:19:30 +0000",
+         "publishedParsed": "2025-10-29T13:19:30Z"
      },
      {
          "title": "Eye prosthesis is the first to restore sight lost to macular degeneration",
@@ -60,24 +90,14 @@
          "publishedParsed": "2025-10-22T16:36:25Z"
      },
      {
-         "title": "Who needs Graphviz when you can build it yourself?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45742907\"\u003eComments\u003c/a\u003e",
-         "link": "https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html",
+         "title": "Azure major outage: Portal, Front Door and global regions down",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45748756\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=45748756",
          "links": [
-             "https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html"
+             "https://news.ycombinator.com/item?id=45748756"
          ],
-         "published": "Wed, 29 Oct 2025 05:17:49 +0000",
-         "publishedParsed": "2025-10-29T05:17:49Z"
-     },
-     {
-         "title": "What we talk about when we talk about sideloading",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45736479\"\u003eComments\u003c/a\u003e",
-         "link": "https://f-droid.org/2025/10/28/sideloading.html",
-         "links": [
-             "https://f-droid.org/2025/10/28/sideloading.html"
-         ],
-         "published": "Tue, 28 Oct 2025 18:02:36 +0000",
-         "publishedParsed": "2025-10-28T18:02:36Z"
+         "published": "Wed, 29 Oct 2025 16:05:52 +0000",
+         "publishedParsed": "2025-10-29T16:05:52Z"
      },
      {
          "title": "Recreating a Homebrew Game System from 1987",
@@ -90,6 +110,56 @@
          "publishedParsed": "2025-10-29T13:42:05Z"
      },
      {
+         "title": "Hosting SQLite Databases on GitHub Pages (2021)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45748186\"\u003eComments\u003c/a\u003e",
+         "link": "https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/",
+         "links": [
+             "https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/"
+         ],
+         "published": "Wed, 29 Oct 2025 15:32:11 +0000",
+         "publishedParsed": "2025-10-29T15:32:11Z"
+     },
+     {
+         "title": "Who needs Graphviz when you can build it yourself?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45742907\"\u003eComments\u003c/a\u003e",
+         "link": "https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html",
+         "links": [
+             "https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html"
+         ],
+         "published": "Wed, 29 Oct 2025 05:17:49 +0000",
+         "publishedParsed": "2025-10-29T05:17:49Z"
+     },
+     {
+         "title": "AWS to bare metal two years later: Answering your questions about leaving AWS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45745281\"\u003eComments\u003c/a\u003e",
+         "link": "https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view",
+         "links": [
+             "https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view"
+         ],
+         "published": "Wed, 29 Oct 2025 11:14:38 +0000",
+         "publishedParsed": "2025-10-29T11:14:38Z"
+     },
+     {
+         "title": "The end of the rip-off economy: consumers use LLMs against information asymmetry",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45748195\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.economist.com/finance-and-economics/2025/10/27/the-end-of-the-rip-off-economy",
+         "links": [
+             "https://www.economist.com/finance-and-economics/2025/10/27/the-end-of-the-rip-off-economy"
+         ],
+         "published": "Wed, 29 Oct 2025 15:32:46 +0000",
+         "publishedParsed": "2025-10-29T15:32:46Z"
+     },
+     {
+         "title": "Show HN: HUD-like live annotation and sketching app for macOS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45747402\"\u003eComments\u003c/a\u003e",
+         "link": "https://draw.wrobele.com/",
+         "links": [
+             "https://draw.wrobele.com/"
+         ],
+         "published": "Wed, 29 Oct 2025 14:36:36 +0000",
+         "publishedParsed": "2025-10-29T14:36:36Z"
+     },
+     {
          "title": "ChatGPT's Atlas: The Browser That's Anti-Web",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45702397\"\u003eComments\u003c/a\u003e",
          "link": "https://www.anildash.com//2025/10/22/atlas-anti-web-browser/",
@@ -98,6 +168,16 @@
          ],
          "published": "Sat, 25 Oct 2025 09:08:26 +0000",
          "publishedParsed": "2025-10-25T09:08:26Z"
+     },
+     {
+         "title": "Kafka is Fast – I'll use Postgres",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45747018\"\u003eComments\u003c/a\u003e",
+         "link": "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks",
+         "links": [
+             "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks"
+         ],
+         "published": "Wed, 29 Oct 2025 14:06:01 +0000",
+         "publishedParsed": "2025-10-29T14:06:01Z"
      },
      {
          "title": "Tips for stroke-surviving software engineers",
@@ -120,44 +200,14 @@
          "publishedParsed": "2025-10-29T03:57:06Z"
      },
      {
-         "title": "Mom says son asked Tesla's Grok AI bot about soccer; told him to send nudes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45747263\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cbc.ca/news/investigates/tesla-grok-mom-9.6956930",
+         "title": "AirTips – Alternative to Bento.me/Linktree",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45748608\"\u003eComments\u003c/a\u003e",
+         "link": "https://a.coffee/",
          "links": [
-             "https://www.cbc.ca/news/investigates/tesla-grok-mom-9.6956930"
+             "https://a.coffee/"
          ],
-         "published": "Wed, 29 Oct 2025 14:25:00 +0000",
-         "publishedParsed": "2025-10-29T14:25:00Z"
-     },
-     {
-         "title": "Aggressive bots ruined my weekend",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45745072\"\u003eComments\u003c/a\u003e",
-         "link": "https://herman.bearblog.dev/agressive-bots/",
-         "links": [
-             "https://herman.bearblog.dev/agressive-bots/"
-         ],
-         "published": "Wed, 29 Oct 2025 10:47:25 +0000",
-         "publishedParsed": "2025-10-29T10:47:25Z"
-     },
-     {
-         "title": "SpiderMonkey Garbage Collector",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45744395\"\u003eComments\u003c/a\u003e",
-         "link": "https://firefox-source-docs.mozilla.org/js/gc.html",
-         "links": [
-             "https://firefox-source-docs.mozilla.org/js/gc.html"
-         ],
-         "published": "Wed, 29 Oct 2025 09:06:36 +0000",
-         "publishedParsed": "2025-10-29T09:06:36Z"
-     },
-     {
-         "title": "Glyph: Scaling Context Windows via Visual-Text Compression",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45713566\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/thu-coai/Glyph",
-         "links": [
-             "https://github.com/thu-coai/Glyph"
-         ],
-         "published": "Sun, 26 Oct 2025 17:18:19 +0000",
-         "publishedParsed": "2025-10-26T17:18:19Z"
+         "published": "Wed, 29 Oct 2025 15:57:17 +0000",
+         "publishedParsed": "2025-10-29T15:57:17Z"
      },
      {
          "title": "Show HN: Learn German with Games",
@@ -170,14 +220,34 @@
          "publishedParsed": "2025-10-29T11:50:58Z"
      },
      {
-         "title": "EuroLLM: LLM made in Europe built to support all 24 official EU languages",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45733707\"\u003eComments\u003c/a\u003e",
-         "link": "https://eurollm.io/",
+         "title": "Tell HN: Twilio support replies with hallucinated features",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45748570\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=45748570",
          "links": [
-             "https://eurollm.io/"
+             "https://news.ycombinator.com/item?id=45748570"
          ],
-         "published": "Tue, 28 Oct 2025 14:58:04 +0000",
-         "publishedParsed": "2025-10-28T14:58:04Z"
+         "published": "Wed, 29 Oct 2025 15:54:36 +0000",
+         "publishedParsed": "2025-10-29T15:54:36Z"
+     },
+     {
+         "title": "Oracle has adopted BOOLEAN in 23ai and PostgreSQL had it forever",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45747605\"\u003eComments\u003c/a\u003e",
+         "link": "https://hexacluster.ai/blog/postgresql/oracles-adoption-of-native-boolean-data-type-vs-postgresql/",
+         "links": [
+             "https://hexacluster.ai/blog/postgresql/oracles-adoption-of-native-boolean-data-type-vs-postgresql/"
+         ],
+         "published": "Wed, 29 Oct 2025 14:51:40 +0000",
+         "publishedParsed": "2025-10-29T14:51:40Z"
+     },
+     {
+         "title": "SpiderMonkey Garbage Collector",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45744395\"\u003eComments\u003c/a\u003e",
+         "link": "https://firefox-source-docs.mozilla.org/js/gc.html",
+         "links": [
+             "https://firefox-source-docs.mozilla.org/js/gc.html"
+         ],
+         "published": "Wed, 29 Oct 2025 09:06:36 +0000",
+         "publishedParsed": "2025-10-29T09:06:36Z"
      },
      {
          "title": "Berkeley Out-of-Order RISC-V Processor (Boom) (2020)",
@@ -190,36 +260,6 @@
          "publishedParsed": "2025-10-29T12:33:01Z"
      },
      {
-         "title": "Continuous Nvidia CUDA Profiling in Production",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45669377\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.polarsignals.com/blog/posts/2025/10/22/gpu-profiling",
-         "links": [
-             "https://www.polarsignals.com/blog/posts/2025/10/22/gpu-profiling"
-         ],
-         "published": "Wed, 22 Oct 2025 14:05:54 +0000",
-         "publishedParsed": "2025-10-22T14:05:54Z"
-     },
-     {
-         "title": "New attacks are diluting secure enclave defenses from Nvidia, AMD, and Intel",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45746753\"\u003eComments\u003c/a\u003e",
-         "link": "https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/",
-         "links": [
-             "https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/"
-         ],
-         "published": "Wed, 29 Oct 2025 13:44:31 +0000",
-         "publishedParsed": "2025-10-29T13:44:31Z"
-     },
-     {
-         "title": "UIs Are Not Pure Functions of the Model – React.js and Cocoa Side by Side (2018)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45704216\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.metaobject.com/2018/12/uis-are-not-pure-functions-of-model.html",
-         "links": [
-             "https://blog.metaobject.com/2018/12/uis-are-not-pure-functions-of-model.html"
-         ],
-         "published": "Sat, 25 Oct 2025 14:33:19 +0000",
-         "publishedParsed": "2025-10-25T14:33:19Z"
-     },
-     {
          "title": "Tinkering is a way to acquire good taste",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45739499\"\u003eComments\u003c/a\u003e",
          "link": "https://seated.ro/blog/tinkering-a-lost-art",
@@ -230,73 +270,33 @@
          "publishedParsed": "2025-10-28T21:31:50Z"
      },
      {
-         "title": "Samsung's $2000 smart fridges are getting ads",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45746964\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ghacks.net/2025/10/29/samsungs-2000-smart-fridges-are-getting-ads/",
+         "title": "Glyph: Scaling Context Windows via Visual-Text Compression",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45713566\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/thu-coai/Glyph",
          "links": [
-             "https://www.ghacks.net/2025/10/29/samsungs-2000-smart-fridges-are-getting-ads/"
+             "https://github.com/thu-coai/Glyph"
          ],
-         "published": "Wed, 29 Oct 2025 14:02:06 +0000",
-         "publishedParsed": "2025-10-29T14:02:06Z"
+         "published": "Sun, 26 Oct 2025 17:18:19 +0000",
+         "publishedParsed": "2025-10-26T17:18:19Z"
      },
      {
-         "title": "Grammarly rebrands to 'Superhuman,' launches a new AI assistant",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45746401\"\u003eComments\u003c/a\u003e",
-         "link": "https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/",
+         "title": "Continuous Nvidia CUDA Profiling in Production",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45669377\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.polarsignals.com/blog/posts/2025/10/22/gpu-profiling",
          "links": [
-             "https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/"
+             "https://www.polarsignals.com/blog/posts/2025/10/22/gpu-profiling"
          ],
-         "published": "Wed, 29 Oct 2025 13:12:23 +0000",
-         "publishedParsed": "2025-10-29T13:12:23Z"
+         "published": "Wed, 22 Oct 2025 14:05:54 +0000",
+         "publishedParsed": "2025-10-22T14:05:54Z"
      },
      {
-         "title": "Wheeled Inverted Pendulum Model",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45701400\"\u003eComments\u003c/a\u003e",
-         "link": "https://scaron.info/robotics/wheeled-inverted-pendulum-model.html",
+         "title": "What we talk about when we talk about sideloading",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45736479\"\u003eComments\u003c/a\u003e",
+         "link": "https://f-droid.org/2025/10/28/sideloading.html",
          "links": [
-             "https://scaron.info/robotics/wheeled-inverted-pendulum-model.html"
+             "https://f-droid.org/2025/10/28/sideloading.html"
          ],
-         "published": "Sat, 25 Oct 2025 04:41:01 +0000",
-         "publishedParsed": "2025-10-25T04:41:01Z"
-     },
-     {
-         "title": "Boring is what we wanted",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45738247\"\u003eComments\u003c/a\u003e",
-         "link": "https://512pixels.net/2025/10/boring-is-what-we-wanted/",
-         "links": [
-             "https://512pixels.net/2025/10/boring-is-what-we-wanted/"
-         ],
-         "published": "Tue, 28 Oct 2025 19:57:16 +0000",
-         "publishedParsed": "2025-10-28T19:57:16Z"
-     },
-     {
-         "title": "Apple will phase out Rosetta 2 in macOS 28",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45692116\"\u003eComments\u003c/a\u003e",
-         "link": "https://developer.apple.com/documentation/apple-silicon/about-the-rosetta-translation-environment",
-         "links": [
-             "https://developer.apple.com/documentation/apple-silicon/about-the-rosetta-translation-environment"
-         ],
-         "published": "Fri, 24 Oct 2025 08:04:28 +0000",
-         "publishedParsed": "2025-10-24T08:04:28Z"
-     },
-     {
-         "title": "Generative AI Image Editing Showdown",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45739080\"\u003eComments\u003c/a\u003e",
-         "link": "https://genai-showdown.specr.net/image-editing",
-         "links": [
-             "https://genai-showdown.specr.net/image-editing"
-         ],
-         "published": "Tue, 28 Oct 2025 20:58:22 +0000",
-         "publishedParsed": "2025-10-28T20:58:22Z"
-     },
-     {
-         "title": "Wacl – A Tcl Distribution for WebAssembly",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45742616\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/ecky-l/wacl",
-         "links": [
-             "https://github.com/ecky-l/wacl"
-         ],
-         "published": "Wed, 29 Oct 2025 04:25:24 +0000",
-         "publishedParsed": "2025-10-29T04:25:24Z"
+         "published": "Tue, 28 Oct 2025 18:02:36 +0000",
+         "publishedParsed": "2025-10-28T18:02:36Z"
      }
  ]
