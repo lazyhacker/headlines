@@ -1,13 +1,43 @@
 [
      {
-         "title": "Ubuntu Introduces Architecture Variants",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45772579\"\u003eComments\u003c/a\u003e",
-         "link": "https://lwn.net/Articles/1044383/",
+         "title": "Introducing architecture variants",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45758392\"\u003eComments\u003c/a\u003e",
+         "link": "https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312",
          "links": [
-             "https://lwn.net/Articles/1044383/"
+             "https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312"
          ],
-         "published": "Fri, 31 Oct 2025 14:49:58 +0000",
-         "publishedParsed": "2025-10-31T14:49:58Z"
+         "published": "Thu, 30 Oct 2025 10:35:00 +0000",
+         "publishedParsed": "2025-10-30T10:35:00Z"
+     },
+     {
+         "title": "x86 architecture 1 byte opcodes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45774724\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.sandpile.org/x86/opc_1.htm",
+         "links": [
+             "https://www.sandpile.org/x86/opc_1.htm"
+         ],
+         "published": "Fri, 31 Oct 2025 17:49:16 +0000",
+         "publishedParsed": "2025-10-31T17:49:16Z"
+     },
+     {
+         "title": "AI scrapers request commented scripts",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45773347\"\u003eComments\u003c/a\u003e",
+         "link": "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/",
+         "links": [
+             "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/"
+         ],
+         "published": "Fri, 31 Oct 2025 15:44:19 +0000",
+         "publishedParsed": "2025-10-31T15:44:19Z"
+     },
+     {
+         "title": "My Impressions of the MacBook Pro M4",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45770304\"\u003eComments\u003c/a\u003e",
+         "link": "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/",
+         "links": [
+             "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/"
+         ],
+         "published": "Fri, 31 Oct 2025 10:13:40 +0000",
+         "publishedParsed": "2025-10-31T10:13:40Z"
      },
      {
          "title": "Nix Derivation Madness",
@@ -30,6 +60,26 @@
          "publishedParsed": "2025-10-31T13:14:23Z"
      },
      {
+         "title": "Perfetto: Swiss army knife for Linux client tracing",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45771019\"\u003eComments\u003c/a\u003e",
+         "link": "https://lalitm.com/perfetto-swiss-army-knife/",
+         "links": [
+             "https://lalitm.com/perfetto-swiss-army-knife/"
+         ],
+         "published": "Fri, 31 Oct 2025 11:54:00 +0000",
+         "publishedParsed": "2025-10-31T11:54:00Z"
+     },
+     {
+         "title": "Pangolin (YC S25) Is Hiring a Full Stack Software Engineer (Open-Source)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45774198\"\u003eComments\u003c/a\u003e",
+         "link": "https://docs.pangolin.net/careers/software-engineer-full-stack",
+         "links": [
+             "https://docs.pangolin.net/careers/software-engineer-full-stack"
+         ],
+         "published": "Fri, 31 Oct 2025 17:00:37 +0000",
+         "publishedParsed": "2025-10-31T17:00:37Z"
+     },
+     {
          "title": "Sustainable memristors from shiitake mycelium for high-frequency bioelectronics",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45771796\"\u003eComments\u003c/a\u003e",
          "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965",
@@ -40,7 +90,7 @@
          "publishedParsed": "2025-10-31T13:32:08Z"
      },
      {
-         "title": "It's the \"Hardware\", Stupid",
+         "title": "It's the \"hardware\", stupid",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45702091\"\u003eComments\u003c/a\u003e",
          "link": "https://haebom.dev/archive?post=4w67rj24q76nrm5yq8ep",
          "links": [
@@ -50,7 +100,7 @@
          "publishedParsed": "2025-10-25T07:54:33Z"
      },
      {
-         "title": "AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process",
+         "title": "AMD could enter ARM market with Sound Wave APU built on TSMC 3nm process",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45767916\"\u003eComments\u003c/a\u003e",
          "link": "https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/",
          "links": [
@@ -60,34 +110,14 @@
          "publishedParsed": "2025-10-31T03:07:48Z"
      },
      {
-         "title": "Rotating Workforce Scheduling in MiniZinc",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45772153\"\u003eComments\u003c/a\u003e",
-         "link": "https://zayenz.se/blog/post/rotating-workforce-scheduling/",
+         "title": "Just Use a Button",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45774182\"\u003eComments\u003c/a\u003e",
+         "link": "https://gomakethings.com/just-use-a-button/",
          "links": [
-             "https://zayenz.se/blog/post/rotating-workforce-scheduling/"
+             "https://gomakethings.com/just-use-a-button/"
          ],
-         "published": "Fri, 31 Oct 2025 14:09:04 +0000",
-         "publishedParsed": "2025-10-31T14:09:04Z"
-     },
-     {
-         "title": "Wheels for free-threaded Python now available for psutil",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45703860\"\u003eComments\u003c/a\u003e",
-         "link": "https://gmpy.dev/blog/2025/wheels-for-free-threaded-python-now-available-in-psutil",
-         "links": [
-             "https://gmpy.dev/blog/2025/wheels-for-free-threaded-python-now-available-in-psutil"
-         ],
-         "published": "Sat, 25 Oct 2025 13:46:35 +0000",
-         "publishedParsed": "2025-10-25T13:46:35Z"
-     },
-     {
-         "title": "Nim 2.2.6",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45772224\"\u003eComments\u003c/a\u003e",
-         "link": "https://nim-lang.org//blog/2025/10/31/nim-226.html",
-         "links": [
-             "https://nim-lang.org//blog/2025/10/31/nim-226.html"
-         ],
-         "published": "Fri, 31 Oct 2025 14:15:12 +0000",
-         "publishedParsed": "2025-10-31T14:15:12Z"
+         "published": "Fri, 31 Oct 2025 16:59:22 +0000",
+         "publishedParsed": "2025-10-31T16:59:22Z"
      },
      {
          "title": "John Carmack on mutable variables",
@@ -110,64 +140,24 @@
          "publishedParsed": "2025-10-28T12:49:15Z"
      },
      {
-         "title": "Affinity Studio now free",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45761445\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.affinity.studio/get-affinity",
+         "title": "Fire TV: Amazon to block piracy apps in the future",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45774284\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.heise.de/en/news/Fire-TV-Amazon-to-block-piracy-apps-in-the-future-10964878.html",
          "links": [
-             "https://www.affinity.studio/get-affinity"
+             "https://www.heise.de/en/news/Fire-TV-Amazon-to-block-piracy-apps-in-the-future-10964878.html"
          ],
-         "published": "Thu, 30 Oct 2025 15:54:38 +0000",
-         "publishedParsed": "2025-10-30T15:54:38Z"
+         "published": "Fri, 31 Oct 2025 17:08:39 +0000",
+         "publishedParsed": "2025-10-31T17:08:39Z"
      },
      {
-         "title": "Amazon says it didn't cut people because of money. But because of 'culture'",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45773985\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cnn.com/2025/10/30/tech/amazon-layoffs-andy-jassy-ai-culture",
+         "title": "The cryptography behind electronic passports",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45770875\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/",
          "links": [
-             "https://www.cnn.com/2025/10/30/tech/amazon-layoffs-andy-jassy-ai-culture"
+             "https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/"
          ],
-         "published": "Fri, 31 Oct 2025 16:40:14 +0000",
-         "publishedParsed": "2025-10-31T16:40:14Z"
-     },
-     {
-         "title": "Immutable releases are now generally available on GitHub",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45772064\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.blog/changelog/2025-10-28-immutable-releases-are-now-generally-available/",
-         "links": [
-             "https://github.blog/changelog/2025-10-28-immutable-releases-are-now-generally-available/"
-         ],
-         "published": "Fri, 31 Oct 2025 13:59:25 +0000",
-         "publishedParsed": "2025-10-31T13:59:25Z"
-     },
-     {
-         "title": "Git CLI tool for intelligently creating branch names",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45771843\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/ytreister/gibr",
-         "links": [
-             "https://github.com/ytreister/gibr"
-         ],
-         "published": "Fri, 31 Oct 2025 13:37:10 +0000",
-         "publishedParsed": "2025-10-31T13:37:10Z"
-     },
-     {
-         "title": "AI scrapers request commented scripts",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45773347\"\u003eComments\u003c/a\u003e",
-         "link": "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/",
-         "links": [
-             "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/"
-         ],
-         "published": "Fri, 31 Oct 2025 15:44:19 +0000",
-         "publishedParsed": "2025-10-31T15:44:19Z"
-     },
-     {
-         "title": "Bertie the Brain",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45691697\"\u003eComments\u003c/a\u003e",
-         "link": "https://en.wikipedia.org/wiki/Bertie_the_Brain",
-         "links": [
-             "https://en.wikipedia.org/wiki/Bertie_the_Brain"
-         ],
-         "published": "Fri, 24 Oct 2025 07:00:57 +0000",
-         "publishedParsed": "2025-10-24T07:00:57Z"
+         "published": "Fri, 31 Oct 2025 11:33:41 +0000",
+         "publishedParsed": "2025-10-31T11:33:41Z"
      },
      {
          "title": "Ask HN: Who uses open LLMs and coding assistants locally? Share setup and laptop",
@@ -180,74 +170,94 @@
          "publishedParsed": "2025-10-31T13:39:55Z"
      },
      {
-         "title": "Phone numbers for use in TV shows, films and creative works",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45765787\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works",
+         "title": "Claude outage",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45770317\"\u003eComments\u003c/a\u003e",
+         "link": "https://status.claude.com/incidents/s5f75jhwjs6g",
          "links": [
-             "https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works"
+             "https://status.claude.com/incidents/s5f75jhwjs6g"
          ],
-         "published": "Thu, 30 Oct 2025 21:49:11 +0000",
-         "publishedParsed": "2025-10-30T21:49:11Z"
+         "published": "Fri, 31 Oct 2025 10:15:24 +0000",
+         "publishedParsed": "2025-10-31T10:15:24Z"
      },
      {
-         "title": "OpenAI Uses Complex and Circular Deals to Fuel Its Multibillion-Dollar Rise",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45771538\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html",
+         "title": "Wheels for free-threaded Python now available for psutil",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45703860\"\u003eComments\u003c/a\u003e",
+         "link": "https://gmpy.dev/blog/2025/wheels-for-free-threaded-python-now-available-in-psutil",
          "links": [
-             "https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html"
+             "https://gmpy.dev/blog/2025/wheels-for-free-threaded-python-now-available-in-psutil"
          ],
-         "published": "Fri, 31 Oct 2025 13:03:46 +0000",
-         "publishedParsed": "2025-10-31T13:03:46Z"
+         "published": "Sat, 25 Oct 2025 13:46:35 +0000",
+         "publishedParsed": "2025-10-25T13:46:35Z"
      },
      {
-         "title": "How the cochlea computes (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45762259\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform",
+         "title": "Rotating Workforce Scheduling in MiniZinc",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45772153\"\u003eComments\u003c/a\u003e",
+         "link": "https://zayenz.se/blog/post/rotating-workforce-scheduling/",
          "links": [
-             "https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform"
+             "https://zayenz.se/blog/post/rotating-workforce-scheduling/"
          ],
-         "published": "Thu, 30 Oct 2025 17:01:20 +0000",
-         "publishedParsed": "2025-10-30T17:01:20Z"
+         "published": "Fri, 31 Oct 2025 14:09:04 +0000",
+         "publishedParsed": "2025-10-31T14:09:04Z"
      },
      {
-         "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45766937\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/MoonshotAI/Kimi-Linear",
+         "title": "In orbit you have to slow down to speed up",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45693698\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.wired.com/story/in-orbit-you-have-to-slow-down-to-speed-up/",
          "links": [
-             "https://github.com/MoonshotAI/Kimi-Linear"
+             "https://www.wired.com/story/in-orbit-you-have-to-slow-down-to-speed-up/"
          ],
-         "published": "Fri, 31 Oct 2025 00:07:36 +0000",
-         "publishedParsed": "2025-10-31T00:07:36Z"
+         "published": "Fri, 24 Oct 2025 11:55:59 +0000",
+         "publishedParsed": "2025-10-24T11:55:59Z"
      },
      {
-         "title": "Free software scares normal people",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45760878\"\u003eComments\u003c/a\u003e",
-         "link": "https://danieldelaney.net/normal/",
+         "title": "Use DuckDB-WASM to query TB of data in browser",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45774571\"\u003eComments\u003c/a\u003e",
+         "link": "https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/",
          "links": [
-             "https://danieldelaney.net/normal/"
+             "https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/"
          ],
-         "published": "Thu, 30 Oct 2025 15:07:15 +0000",
-         "publishedParsed": "2025-10-30T15:07:15Z"
+         "published": "Fri, 31 Oct 2025 17:37:15 +0000",
+         "publishedParsed": "2025-10-31T17:37:15Z"
      },
      {
-         "title": "A Closer Look at Piezoelectric Crystal",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45671336\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.samaterials.com/content/a-closer-look-at-stressed-piezo-crystals.html",
+         "title": "Nim 2.2.6",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45772224\"\u003eComments\u003c/a\u003e",
+         "link": "https://nim-lang.org//blog/2025/10/31/nim-226.html",
          "links": [
-             "https://www.samaterials.com/content/a-closer-look-at-stressed-piezo-crystals.html"
+             "https://nim-lang.org//blog/2025/10/31/nim-226.html"
          ],
-         "published": "Wed, 22 Oct 2025 16:12:16 +0000",
-         "publishedParsed": "2025-10-22T16:12:16Z"
+         "published": "Fri, 31 Oct 2025 14:15:12 +0000",
+         "publishedParsed": "2025-10-31T14:15:12Z"
      },
      {
-         "title": "Debug like a boss: 10 debugging hacks for developers, quality engineers, testers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45772519\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ministryoftesting.com/articles/debug-like-a-boss-10-debugging-hacks-for-developers-quality-engineers-and-testers",
+         "title": "Reasoning models reason well, until they don't",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45769971\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2510.22371",
          "links": [
-             "https://www.ministryoftesting.com/articles/debug-like-a-boss-10-debugging-hacks-for-developers-quality-engineers-and-testers"
+             "https://arxiv.org/abs/2510.22371"
          ],
-         "published": "Fri, 31 Oct 2025 14:44:59 +0000",
-         "publishedParsed": "2025-10-31T14:44:59Z"
+         "published": "Fri, 31 Oct 2025 09:23:41 +0000",
+         "publishedParsed": "2025-10-31T09:23:41Z"
+     },
+     {
+         "title": "Immutable releases are now generally available on GitHub",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45772064\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.blog/changelog/2025-10-28-immutable-releases-are-now-generally-available/",
+         "links": [
+             "https://github.blog/changelog/2025-10-28-immutable-releases-are-now-generally-available/"
+         ],
+         "published": "Fri, 31 Oct 2025 13:59:25 +0000",
+         "publishedParsed": "2025-10-31T13:59:25Z"
+     },
+     {
+         "title": "Bertie the Brain",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45691697\"\u003eComments\u003c/a\u003e",
+         "link": "https://en.wikipedia.org/wiki/Bertie_the_Brain",
+         "links": [
+             "https://en.wikipedia.org/wiki/Bertie_the_Brain"
+         ],
+         "published": "Fri, 24 Oct 2025 07:00:57 +0000",
+         "publishedParsed": "2025-10-24T07:00:57Z"
      },
      {
          "title": "Result is all I need",
@@ -258,35 +268,5 @@
          ],
          "published": "Sat, 25 Oct 2025 11:40:58 +0000",
          "publishedParsed": "2025-10-25T11:40:58Z"
-     },
-     {
-         "title": "Springs and bounces in native CSS",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45736461\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.joshwcomeau.com/animation/linear-timing-function/",
-         "links": [
-             "https://www.joshwcomeau.com/animation/linear-timing-function/"
-         ],
-         "published": "Tue, 28 Oct 2025 18:01:46 +0000",
-         "publishedParsed": "2025-10-28T18:01:46Z"
-     },
-     {
-         "title": "NPM flooded with malicious packages downloaded more than 86k times",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45755027\"\u003eComments\u003c/a\u003e",
-         "link": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
-         "links": [
-             "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/"
-         ],
-         "published": "Thu, 30 Oct 2025 00:37:33 +0000",
-         "publishedParsed": "2025-10-30T00:37:33Z"
-     },
-     {
-         "title": "Show HN: Quibbler – A critic for your coding agent that learns what you want",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45767162\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/fulcrumresearch/quibbler",
-         "links": [
-             "https://github.com/fulcrumresearch/quibbler"
-         ],
-         "published": "Fri, 31 Oct 2025 00:43:57 +0000",
-         "publishedParsed": "2025-10-31T00:43:57Z"
      }
  ]
