@@ -1,13 +1,33 @@
 [
      {
-         "title": "CLI to manage your SQL database schemas and migrations",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45788202\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/gh-PonyM/shed",
+         "title": "Backpropagation is a leaky abstraction (2016)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45787993\"\u003eComments\u003c/a\u003e",
+         "link": "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b",
          "links": [
-             "https://github.com/gh-PonyM/shed"
+             "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b"
          ],
-         "published": "Sun, 02 Nov 2025 06:23:24 +0000",
-         "publishedParsed": "2025-11-02T06:23:24Z"
+         "published": "Sun, 02 Nov 2025 05:20:12 +0000",
+         "publishedParsed": "2025-11-02T05:20:12Z"
+     },
+     {
+         "title": "Why do AI models use so many em-dashes?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45788327\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.seangoedecke.com/em-dashes/",
+         "links": [
+             "https://www.seangoedecke.com/em-dashes/"
+         ],
+         "published": "Sun, 02 Nov 2025 06:51:58 +0000",
+         "publishedParsed": "2025-11-02T06:51:58Z"
+     },
+     {
+         "title": "Notes by djb on using Fil-C (2025)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45788040\"\u003eComments\u003c/a\u003e",
+         "link": "https://cr.yp.to/2025/fil-c.html",
+         "links": [
+             "https://cr.yp.to/2025/fil-c.html"
+         ],
+         "published": "Sun, 02 Nov 2025 05:32:02 +0000",
+         "publishedParsed": "2025-11-02T05:32:02Z"
      },
      {
          "title": "Visopsys: OS maintained by a single developer since 1997",
@@ -20,26 +40,6 @@
          "publishedParsed": "2025-11-01T22:07:49Z"
      },
      {
-         "title": "Yes, you should understand backprop (2016)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45787993\"\u003eComments\u003c/a\u003e",
-         "link": "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b",
-         "links": [
-             "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b"
-         ],
-         "published": "Sun, 02 Nov 2025 05:20:12 +0000",
-         "publishedParsed": "2025-11-02T05:20:12Z"
-     },
-     {
-         "title": "You Don't Need Anubis",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45787775\"\u003eComments\u003c/a\u003e",
-         "link": "https://fxgn.dev/blog/anubis/",
-         "links": [
-             "https://fxgn.dev/blog/anubis/"
-         ],
-         "published": "Sun, 02 Nov 2025 04:03:53 +0000",
-         "publishedParsed": "2025-11-02T04:03:53Z"
-     },
-     {
          "title": "How I use every Claude Code feature",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45786738\"\u003eComments\u003c/a\u003e",
          "link": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
@@ -50,24 +50,14 @@
          "publishedParsed": "2025-11-02T00:13:27Z"
      },
      {
-         "title": "Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45787571\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/frostyplanet/crossfire-rs",
+         "title": "CLI to manage your SQL database schemas and migrations",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45788202\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/gh-PonyM/shed",
          "links": [
-             "https://github.com/frostyplanet/crossfire-rs"
+             "https://github.com/gh-PonyM/shed"
          ],
-         "published": "Sun, 02 Nov 2025 03:07:15 +0000",
-         "publishedParsed": "2025-11-02T03:07:15Z"
-     },
-     {
-         "title": "Pomelli",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45786324\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.google/technology/google-labs/pomelli/",
-         "links": [
-             "https://blog.google/technology/google-labs/pomelli/"
-         ],
-         "published": "Sat, 01 Nov 2025 23:09:25 +0000",
-         "publishedParsed": "2025-11-01T23:09:25Z"
+         "published": "Sun, 02 Nov 2025 06:23:24 +0000",
+         "publishedParsed": "2025-11-02T06:23:24Z"
      },
      {
          "title": "Claude Code can debug low-level cryptography",
@@ -80,6 +70,16 @@
          "publishedParsed": "2025-11-01T18:41:56Z"
      },
      {
+         "title": "Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45787571\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/frostyplanet/crossfire-rs",
+         "links": [
+             "https://github.com/frostyplanet/crossfire-rs"
+         ],
+         "published": "Sun, 02 Nov 2025 03:07:15 +0000",
+         "publishedParsed": "2025-11-02T03:07:15Z"
+     },
+     {
          "title": "Updated practice for review articles and position papers in ArXiv CS category",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45782136\"\u003eComments\u003c/a\u003e",
          "link": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
@@ -90,14 +90,34 @@
          "publishedParsed": "2025-11-01T14:58:05Z"
      },
      {
-         "title": "GHC now runs in the browser",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45782981\"\u003eComments\u003c/a\u003e",
-         "link": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
+         "title": "Pomelli",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45786324\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.google/technology/google-labs/pomelli/",
          "links": [
-             "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169"
+             "https://blog.google/technology/google-labs/pomelli/"
          ],
-         "published": "Sat, 01 Nov 2025 16:29:23 +0000",
-         "publishedParsed": "2025-11-01T16:29:23Z"
+         "published": "Sat, 01 Nov 2025 23:09:25 +0000",
+         "publishedParsed": "2025-11-01T23:09:25Z"
+     },
+     {
+         "title": "Hyperbolic Non-Euclidean World (2007)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45716371\"\u003eComments\u003c/a\u003e",
+         "link": "http://web1.kcn.jp/hp28ah77/",
+         "links": [
+             "http://web1.kcn.jp/hp28ah77/"
+         ],
+         "published": "Mon, 27 Oct 2025 00:59:47 +0000",
+         "publishedParsed": "2025-10-27T00:59:47Z"
+     },
+     {
+         "title": "LM8560, the eternal chip from the 1980 years",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45787842\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/",
+         "links": [
+             "https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/"
+         ],
+         "published": "Sun, 02 Nov 2025 04:27:31 +0000",
+         "publishedParsed": "2025-11-02T04:27:31Z"
      },
      {
          "title": "The Naked Man Problem and the Secret to Never Forgetting Numbers",
@@ -110,24 +130,24 @@
          "publishedParsed": "2025-10-28T16:56:57Z"
      },
      {
-         "title": "Anonymous credentials: rate-limit bots and agents without compromising privacy",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45786914\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.cloudflare.com/private-rate-limiting/",
+         "title": "FlightAware Map Design",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45719846\"\u003eComments\u003c/a\u003e",
+         "link": "https://andywoodruff.com/posts/2024/flightaware-maps/",
          "links": [
-             "https://blog.cloudflare.com/private-rate-limiting/"
+             "https://andywoodruff.com/posts/2024/flightaware-maps/"
          ],
-         "published": "Sun, 02 Nov 2025 00:45:13 +0000",
-         "publishedParsed": "2025-11-02T00:45:13Z"
+         "published": "Mon, 27 Oct 2025 11:42:36 +0000",
+         "publishedParsed": "2025-10-27T11:42:36Z"
      },
      {
-         "title": "LM8560, the eternal chip from the 1980 years",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45787842\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/",
+         "title": "GHC now runs in the browser",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45782981\"\u003eComments\u003c/a\u003e",
+         "link": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
          "links": [
-             "https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/"
+             "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169"
          ],
-         "published": "Sun, 02 Nov 2025 04:27:31 +0000",
-         "publishedParsed": "2025-11-02T04:27:31Z"
+         "published": "Sat, 01 Nov 2025 16:29:23 +0000",
+         "publishedParsed": "2025-11-01T16:29:23Z"
      },
      {
          "title": "Chip Hall of Fame: Intel 8088 Microprocessor",
@@ -150,6 +170,26 @@
          "publishedParsed": "2025-11-01T17:45:18Z"
      },
      {
+         "title": "Anonymous credentials: rate-limit bots and agents without compromising privacy",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45786914\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.cloudflare.com/private-rate-limiting/",
+         "links": [
+             "https://blog.cloudflare.com/private-rate-limiting/"
+         ],
+         "published": "Sun, 02 Nov 2025 00:45:13 +0000",
+         "publishedParsed": "2025-11-02T00:45:13Z"
+     },
+     {
+         "title": "SQLite concurrency and why you should care about it",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45781298\"\u003eComments\u003c/a\u003e",
+         "link": "https://jellyfin.org/posts/SQLite-locking/",
+         "links": [
+             "https://jellyfin.org/posts/SQLite-locking/"
+         ],
+         "published": "Sat, 01 Nov 2025 12:59:03 +0000",
+         "publishedParsed": "2025-11-01T12:59:03Z"
+     },
+     {
          "title": "Automatically Translating C to Rust",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45695483\"\u003eComments\u003c/a\u003e",
          "link": "https://cacm.acm.org/research/automatically-translating-c-to-rust/",
@@ -170,14 +210,14 @@
          "publishedParsed": "2025-10-27T23:44:35Z"
      },
      {
-         "title": "SQLite concurrency and why you should care about it",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45781298\"\u003eComments\u003c/a\u003e",
-         "link": "https://jellyfin.org/posts/SQLite-locking/",
+         "title": "When O3 is 2x slower than O2",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45740688\"\u003eComments\u003c/a\u003e",
+         "link": "https://cat-solstice.github.io/test-pqueue/",
          "links": [
-             "https://jellyfin.org/posts/SQLite-locking/"
+             "https://cat-solstice.github.io/test-pqueue/"
          ],
-         "published": "Sat, 01 Nov 2025 12:59:03 +0000",
-         "publishedParsed": "2025-11-01T12:59:03Z"
+         "published": "Tue, 28 Oct 2025 23:29:47 +0000",
+         "publishedParsed": "2025-10-28T23:29:47Z"
      },
      {
          "title": "Beginner-friendly, unofficial documentation for Helix text editor",
@@ -210,6 +250,26 @@
          "publishedParsed": "2025-10-30T16:52:46Z"
      },
      {
+         "title": "You Don't Need Anubis",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45787775\"\u003eComments\u003c/a\u003e",
+         "link": "https://fxgn.dev/blog/anubis/",
+         "links": [
+             "https://fxgn.dev/blog/anubis/"
+         ],
+         "published": "Sun, 02 Nov 2025 04:03:53 +0000",
+         "publishedParsed": "2025-11-02T04:03:53Z"
+     },
+     {
+         "title": "A Few Words About Async",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45787036\"\u003eComments\u003c/a\u003e",
+         "link": "https://yoric.github.io/post/quite-a-few-words-about-async/",
+         "links": [
+             "https://yoric.github.io/post/quite-a-few-words-about-async/"
+         ],
+         "published": "Sun, 02 Nov 2025 01:10:44 +0000",
+         "publishedParsed": "2025-11-02T01:10:44Z"
+     },
+     {
          "title": "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45785840\"\u003eComments\u003c/a\u003e",
          "link": "https://sailfishos.org/info/",
@@ -230,16 +290,6 @@
          "publishedParsed": "2025-10-25T13:16:14Z"
      },
      {
-         "title": "A Few Words About Async",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45787036\"\u003eComments\u003c/a\u003e",
-         "link": "https://yoric.github.io/post/quite-a-few-words-about-async/",
-         "links": [
-             "https://yoric.github.io/post/quite-a-few-words-about-async/"
-         ],
-         "published": "Sun, 02 Nov 2025 01:10:44 +0000",
-         "publishedParsed": "2025-11-02T01:10:44Z"
-     },
-     {
          "title": "Dating: A mysterious constellation of facts",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45761746\"\u003eComments\u003c/a\u003e",
          "link": "https://dynomight.net/dating/",
@@ -248,45 +298,5 @@
          ],
          "published": "Thu, 30 Oct 2025 16:20:35 +0000",
          "publishedParsed": "2025-10-30T16:20:35Z"
-     },
-     {
-         "title": "Sufficiently Smart Compiler",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45730694\"\u003eComments\u003c/a\u003e",
-         "link": "https://wiki.c2.com/?SufficientlySmartCompiler",
-         "links": [
-             "https://wiki.c2.com/?SufficientlySmartCompiler"
-         ],
-         "published": "Tue, 28 Oct 2025 09:17:00 +0000",
-         "publishedParsed": "2025-10-28T09:17:00Z"
-     },
-     {
-         "title": "Hard Rust requirements from May onward",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45779860\"\u003eComments\u003c/a\u003e",
-         "link": "https://lists.debian.org/debian-devel/2025/10/msg00285.html",
-         "links": [
-             "https://lists.debian.org/debian-devel/2025/10/msg00285.html"
-         ],
-         "published": "Sat, 01 Nov 2025 07:31:40 +0000",
-         "publishedParsed": "2025-11-01T07:31:40Z"
-     },
-     {
-         "title": "Linux and Windows: A tale of Kerberos, SSSD, DFS, and black magic",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45786962\"\u003eComments\u003c/a\u003e",
-         "link": "http://www.draeath.net/blog/it/2018/03/13/DFSwithKRB/",
-         "links": [
-             "http://www.draeath.net/blog/it/2018/03/13/DFSwithKRB/"
-         ],
-         "published": "Sun, 02 Nov 2025 00:54:13 +0000",
-         "publishedParsed": "2025-11-02T00:54:13Z"
-     },
-     {
-         "title": "The purported benefits of effect systems",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45786266\"\u003eComments\u003c/a\u003e",
-         "link": "https://typesanitizer.com/blog/effects-convo.html",
-         "links": [
-             "https://typesanitizer.com/blog/effects-convo.html"
-         ],
-         "published": "Sat, 01 Nov 2025 23:01:24 +0000",
-         "publishedParsed": "2025-11-01T23:01:24Z"
      }
  ]
