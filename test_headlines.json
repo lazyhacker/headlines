@@ -1,23 +1,13 @@
 [
      {
-         "title": "Lessons from interviews on deploying AI Agents in production",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45808308\"\u003eComments\u003c/a\u003e",
-         "link": "https://mmc.vc/research/state-of-agentic-ai-founders-edition/",
+         "title": "What Is a Manifold?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45809193\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.quantamagazine.org/what-is-a-manifold-20251103/",
          "links": [
-             "https://mmc.vc/research/state-of-agentic-ai-founders-edition/"
+             "https://www.quantamagazine.org/what-is-a-manifold-20251103/"
          ],
-         "published": "Tue, 04 Nov 2025 07:26:45 +0000",
-         "publishedParsed": "2025-11-04T07:26:45Z"
-     },
-     {
-         "title": "Some software bloat is OK",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45808690\"\u003eComments\u003c/a\u003e",
-         "link": "https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok",
-         "links": [
-             "https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok"
-         ],
-         "published": "Tue, 04 Nov 2025 08:27:23 +0000",
-         "publishedParsed": "2025-11-04T08:27:23Z"
+         "published": "Tue, 04 Nov 2025 09:58:14 +0000",
+         "publishedParsed": "2025-11-04T09:58:14Z"
      },
      {
          "title": "Things you can do with diodes",
@@ -30,16 +20,6 @@
          "publishedParsed": "2025-11-03T23:49:03Z"
      },
      {
-         "title": "AI's Dial-Up Era",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45804377\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.wreflection.com/p/ai-dial-up-era",
-         "links": [
-             "https://www.wreflection.com/p/ai-dial-up-era"
-         ],
-         "published": "Mon, 03 Nov 2025 21:01:09 +0000",
-         "publishedParsed": "2025-11-03T21:01:09Z"
-     },
-     {
          "title": "My Truck Desk",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45806903\"\u003eComments\u003c/a\u003e",
          "link": "https://www.theparisreview.org/blog/2025/10/29/truck-desk/",
@@ -50,6 +30,36 @@
          "publishedParsed": "2025-11-04T02:37:01Z"
      },
      {
+         "title": "AI's Dial-Up Era",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45804377\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.wreflection.com/p/ai-dial-up-era",
+         "links": [
+             "https://www.wreflection.com/p/ai-dial-up-era"
+         ],
+         "published": "Mon, 03 Nov 2025 21:01:09 +0000",
+         "publishedParsed": "2025-11-03T21:01:09Z"
+     },
+     {
+         "title": "Bloom filters are good for search that does not scale",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45808998\"\u003eComments\u003c/a\u003e",
+         "link": "https://notpeerreviewed.com/blog/bloom-filters/",
+         "links": [
+             "https://notpeerreviewed.com/blog/bloom-filters/"
+         ],
+         "published": "Tue, 04 Nov 2025 09:25:31 +0000",
+         "publishedParsed": "2025-11-04T09:25:31Z"
+     },
+     {
+         "title": "Reverse-engineered CUPS driver for Phomemo receipt/label printers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45729340\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/vivier/phomemo-tools",
+         "links": [
+             "https://github.com/vivier/phomemo-tools"
+         ],
+         "published": "Tue, 28 Oct 2025 05:01:38 +0000",
+         "publishedParsed": "2025-10-28T05:01:38Z"
+     },
+     {
          "title": "When stick figures fought",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45806348\"\u003eComments\u003c/a\u003e",
          "link": "https://animationobsessive.substack.com/p/when-stick-figures-fought",
@@ -58,16 +68,6 @@
          ],
          "published": "Tue, 04 Nov 2025 00:48:56 +0000",
          "publishedParsed": "2025-11-04T00:48:56Z"
-     },
-     {
-         "title": "Show HN: Yourshoesmells.com – Find the most smelly boulder gym",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45808918\"\u003eComments\u003c/a\u003e",
-         "link": "https://yourshoesmells.com",
-         "links": [
-             "https://yourshoesmells.com"
-         ],
-         "published": "Tue, 04 Nov 2025 09:11:27 +0000",
-         "publishedParsed": "2025-11-04T09:11:27Z"
      },
      {
          "title": "A friendly tour of process memory on Linux",
@@ -100,6 +100,26 @@
          "publishedParsed": "2025-11-03T16:00:00Z"
      },
      {
+         "title": "Is Your Data Valid? Why Bufstream Guarantees What Kafka Can't",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45728889\"\u003eComments\u003c/a\u003e",
+         "link": "https://vutr.substack.com/p/is-your-data-valid-why-bufstream",
+         "links": [
+             "https://vutr.substack.com/p/is-your-data-valid-why-bufstream"
+         ],
+         "published": "Tue, 28 Oct 2025 03:15:03 +0000",
+         "publishedParsed": "2025-10-28T03:15:03Z"
+     },
+     {
+         "title": "Lessons from interviews on deploying AI Agents in production",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45808308\"\u003eComments\u003c/a\u003e",
+         "link": "https://mmc.vc/research/state-of-agentic-ai-founders-edition/",
+         "links": [
+             "https://mmc.vc/research/state-of-agentic-ai-founders-edition/"
+         ],
+         "published": "Tue, 04 Nov 2025 07:26:45 +0000",
+         "publishedParsed": "2025-11-04T07:26:45Z"
+     },
+     {
          "title": "Learning to read Arthur Whitney's C to become smart (2024)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45800777\"\u003eComments\u003c/a\u003e",
          "link": "https://needleful.net/blog/2024/01/arthur_whitney.html",
@@ -108,6 +128,16 @@
          ],
          "published": "Mon, 03 Nov 2025 16:23:11 +0000",
          "publishedParsed": "2025-11-03T16:23:11Z"
+     },
+     {
+         "title": "Tenacity – a multi-track audio editor/recorder",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45718710\"\u003eComments\u003c/a\u003e",
+         "link": "https://tenacityaudio.org",
+         "links": [
+             "https://tenacityaudio.org"
+         ],
+         "published": "Mon, 27 Oct 2025 08:58:09 +0000",
+         "publishedParsed": "2025-10-27T08:58:09Z"
      },
      {
          "title": "The Mack Super Pumper was a locomotive engined fire fighter (2018)",
@@ -130,46 +160,6 @@
          "publishedParsed": "2025-11-03T22:54:20Z"
      },
      {
-         "title": "Tenacity – a multi-track audio editor/recorder",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45718710\"\u003eComments\u003c/a\u003e",
-         "link": "https://tenacityaudio.org",
-         "links": [
-             "https://tenacityaudio.org"
-         ],
-         "published": "Mon, 27 Oct 2025 08:58:09 +0000",
-         "publishedParsed": "2025-10-27T08:58:09Z"
-     },
-     {
-         "title": "Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45719250\"\u003eComments\u003c/a\u003e",
-         "link": "https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html",
-         "links": [
-             "https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html"
-         ],
-         "published": "Mon, 27 Oct 2025 10:17:24 +0000",
-         "publishedParsed": "2025-10-27T10:17:24Z"
-     },
-     {
-         "title": "Resolution limit of the eye – how many pixels can we see?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45731469\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nature.com/articles/s41467-025-64679-2",
-         "links": [
-             "https://www.nature.com/articles/s41467-025-64679-2"
-         ],
-         "published": "Tue, 28 Oct 2025 11:28:56 +0000",
-         "publishedParsed": "2025-10-28T11:28:56Z"
-     },
-     {
-         "title": "How to Draw a Tetrapod",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45699598\"\u003eComments\u003c/a\u003e",
-         "link": "https://dotat.at/@/2025-10-24-tetrapod.html",
-         "links": [
-             "https://dotat.at/@/2025-10-24-tetrapod.html"
-         ],
-         "published": "Fri, 24 Oct 2025 22:08:02 +0000",
-         "publishedParsed": "2025-10-24T22:08:02Z"
-     },
-     {
          "title": "The Case That A.I. Is Thinking",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45802029\"\u003eComments\u003c/a\u003e",
          "link": "https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking",
@@ -178,16 +168,6 @@
          ],
          "published": "Mon, 03 Nov 2025 17:55:10 +0000",
          "publishedParsed": "2025-11-03T17:55:10Z"
-     },
-     {
-         "title": "State of Terminal Emulators in 2025: The Errant Champions",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45799478\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.jeffquast.com/post/state-of-terminal-emulation-2025/",
-         "links": [
-             "https://www.jeffquast.com/post/state-of-terminal-emulation-2025/"
-         ],
-         "published": "Mon, 03 Nov 2025 14:40:51 +0000",
-         "publishedParsed": "2025-11-03T14:40:51Z"
      },
      {
          "title": "The Case Against PGVector",
@@ -200,14 +180,24 @@
          "publishedParsed": "2025-11-03T12:50:27Z"
      },
      {
-         "title": "Ask HN: Who wants to be hired? (November 2025)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45800464\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=45800464",
+         "title": "Resolution limit of the eye – how many pixels can we see?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45731469\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nature.com/articles/s41467-025-64679-2",
          "links": [
-             "https://news.ycombinator.com/item?id=45800464"
+             "https://www.nature.com/articles/s41467-025-64679-2"
          ],
-         "published": "Mon, 03 Nov 2025 16:00:00 +0000",
-         "publishedParsed": "2025-11-03T16:00:00Z"
+         "published": "Tue, 28 Oct 2025 11:28:56 +0000",
+         "publishedParsed": "2025-10-28T11:28:56Z"
+     },
+     {
+         "title": "State of Terminal Emulators in 2025: The Errant Champions",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45799478\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.jeffquast.com/post/state-of-terminal-emulation-2025/",
+         "links": [
+             "https://www.jeffquast.com/post/state-of-terminal-emulation-2025/"
+         ],
+         "published": "Mon, 03 Nov 2025 14:40:51 +0000",
+         "publishedParsed": "2025-11-03T14:40:51Z"
      },
      {
          "title": "Ask HN: How to deal with long vibe-coded PRs?",
@@ -220,14 +210,24 @@
          "publishedParsed": "2025-10-29T08:37:36Z"
      },
      {
-         "title": "A visualization of the RGB space covered by named colors",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45748816\"\u003eComments\u003c/a\u003e",
-         "link": "https://codepen.io/meodai/full/zdgXJj/",
+         "title": "Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45719250\"\u003eComments\u003c/a\u003e",
+         "link": "https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html",
          "links": [
-             "https://codepen.io/meodai/full/zdgXJj/"
+             "https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html"
          ],
-         "published": "Wed, 29 Oct 2025 16:09:39 +0000",
-         "publishedParsed": "2025-10-29T16:09:39Z"
+         "published": "Mon, 27 Oct 2025 10:17:24 +0000",
+         "publishedParsed": "2025-10-27T10:17:24Z"
+     },
+     {
+         "title": "Ask HN: Who wants to be hired? (November 2025)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45800464\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=45800464",
+         "links": [
+             "https://news.ycombinator.com/item?id=45800464"
+         ],
+         "published": "Mon, 03 Nov 2025 16:00:00 +0000",
+         "publishedParsed": "2025-11-03T16:00:00Z"
      },
      {
          "title": "First recording of a dying human brain shows waves similar to memory flashbacks (2022)",
@@ -238,6 +238,26 @@
          ],
          "published": "Mon, 03 Nov 2025 06:39:13 +0000",
          "publishedParsed": "2025-11-03T06:39:13Z"
+     },
+     {
+         "title": "A visualization of the RGB space covered by named colors",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45748816\"\u003eComments\u003c/a\u003e",
+         "link": "https://codepen.io/meodai/full/zdgXJj/",
+         "links": [
+             "https://codepen.io/meodai/full/zdgXJj/"
+         ],
+         "published": "Wed, 29 Oct 2025 16:09:39 +0000",
+         "publishedParsed": "2025-10-29T16:09:39Z"
+     },
+     {
+         "title": "Show HN: Yourshoesmells.com – Find the most smelly boulder gym",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45808918\"\u003eComments\u003c/a\u003e",
+         "link": "https://yourshoesmells.com",
+         "links": [
+             "https://yourshoesmells.com"
+         ],
+         "published": "Tue, 04 Nov 2025 09:11:27 +0000",
+         "publishedParsed": "2025-11-04T09:11:27Z"
      },
      {
          "title": "Gallery of wonderful drawings our little thermal printer received",
@@ -260,33 +280,13 @@
          "publishedParsed": "2025-11-01T16:39:05Z"
      },
      {
-         "title": "Why AC is cheap, but AC repair is a luxury",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45807542\"\u003eComments\u003c/a\u003e",
-         "link": "https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is",
+         "title": "How to Draw a Tetrapod",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45699598\"\u003eComments\u003c/a\u003e",
+         "link": "https://dotat.at/@/2025-10-24-tetrapod.html",
          "links": [
-             "https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is"
+             "https://dotat.at/@/2025-10-24-tetrapod.html"
          ],
-         "published": "Tue, 04 Nov 2025 04:53:46 +0000",
-         "publishedParsed": "2025-11-04T04:53:46Z"
-     },
-     {
-         "title": "The MP3.com Rescue Barge Barge",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45714937\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.somnolescent.net/2025/09/mp3-com-rescue-barge-barge/",
-         "links": [
-             "https://blog.somnolescent.net/2025/09/mp3-com-rescue-barge-barge/"
-         ],
-         "published": "Sun, 26 Oct 2025 20:23:58 +0000",
-         "publishedParsed": "2025-10-26T20:23:58Z"
-     },
-     {
-         "title": "Show HN: MyTimers.app offline-first PWA with no build step and zero dependencies",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45807502\"\u003eComments\u003c/a\u003e",
-         "link": "https://mytimers.app/",
-         "links": [
-             "https://mytimers.app/"
-         ],
-         "published": "Tue, 04 Nov 2025 04:46:47 +0000",
-         "publishedParsed": "2025-11-04T04:46:47Z"
+         "published": "Fri, 24 Oct 2025 22:08:02 +0000",
+         "publishedParsed": "2025-10-24T22:08:02Z"
      }
  ]
