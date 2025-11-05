@@ -1,5 +1,25 @@
 [
      {
+         "title": "The grim truth behind the Pied Piper",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45822071\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bbc.com/travel/article/20200902-the-grim-truth-behind-the-pied-piper",
+         "links": [
+             "https://www.bbc.com/travel/article/20200902-the-grim-truth-behind-the-pied-piper"
+         ],
+         "published": "Wed, 05 Nov 2025 12:21:39 +0000",
+         "publishedParsed": "2025-11-05T12:21:39Z"
+     },
+     {
+         "title": "An eBPF Loophole: Using XDP for Egress Traffic",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45812756\"\u003eComments\u003c/a\u003e",
+         "link": "https://loopholelabs.io/blog/xdp-for-egress-traffic",
+         "links": [
+             "https://loopholelabs.io/blog/xdp-for-egress-traffic"
+         ],
+         "published": "Tue, 04 Nov 2025 16:26:09 +0000",
+         "publishedParsed": "2025-11-04T16:26:09Z"
+     },
+     {
          "title": "SPy: An interpreter and compiler for a fast statically typed variant of Python",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45761594\"\u003eComments\u003c/a\u003e",
          "link": "https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/",
@@ -8,6 +28,26 @@
          ],
          "published": "Thu, 30 Oct 2025 16:08:25 +0000",
          "publishedParsed": "2025-10-30T16:08:25Z"
+     },
+     {
+         "title": "iOS 26.2 to allow third-party app stores in Japan ahead of regulatory deadline",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45822302\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/",
+         "links": [
+             "https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/"
+         ],
+         "published": "Wed, 05 Nov 2025 12:51:44 +0000",
+         "publishedParsed": "2025-11-05T12:51:44Z"
+     },
+     {
+         "title": "I’m worried that they put co-pilot in Excel",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45820872\"\u003eComments\u003c/a\u003e",
+         "link": "https://simonwillison.net/2025/Nov/5/brenda/",
+         "links": [
+             "https://simonwillison.net/2025/Nov/5/brenda/"
+         ],
+         "published": "Wed, 05 Nov 2025 08:54:11 +0000",
+         "publishedParsed": "2025-11-05T08:54:11Z"
      },
      {
          "title": "Hypothesis: Property-Based Testing for Python",
@@ -30,14 +70,24 @@
          "publishedParsed": "2025-10-30T13:30:37Z"
      },
      {
-         "title": "This week in 1988, Robert Morris unleashed his eponymous worm",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45812024\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours",
+         "title": "Intervaltree with Rust Back End",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45788385\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/Athe-kunal/intervaltree_rs",
          "links": [
-             "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours"
+             "https://github.com/Athe-kunal/intervaltree_rs"
          ],
-         "published": "Tue, 04 Nov 2025 15:23:14 +0000",
-         "publishedParsed": "2025-11-04T15:23:14Z"
+         "published": "Sun, 02 Nov 2025 07:04:59 +0000",
+         "publishedParsed": "2025-11-02T07:04:59Z"
+     },
+     {
+         "title": "Founder in Residence at Woz (San Francisco)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45821921\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=45821921",
+         "links": [
+             "https://news.ycombinator.com/item?id=45821921"
+         ],
+         "published": "Wed, 05 Nov 2025 12:00:17 +0000",
+         "publishedParsed": "2025-11-05T12:00:17Z"
      },
      {
          "title": "Asus Announces October Availability of ProArt Display 8K PA32KCX",
@@ -48,16 +98,6 @@
          ],
          "published": "Tue, 28 Oct 2025 14:17:04 +0000",
          "publishedParsed": "2025-10-28T14:17:04Z"
-     },
-     {
-         "title": "Intervaltree with Rust Back End",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45788385\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Athe-kunal/intervaltree_rs",
-         "links": [
-             "https://github.com/Athe-kunal/intervaltree_rs"
-         ],
-         "published": "Sun, 02 Nov 2025 07:04:59 +0000",
-         "publishedParsed": "2025-11-02T07:04:59Z"
      },
      {
          "title": "Bluetui – A TUI for managing Bluetooth on Linux",
@@ -80,6 +120,16 @@
          "publishedParsed": "2025-10-30T15:53:21Z"
      },
      {
+         "title": "UPS plane crashes near Louisville airport",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45816963\"\u003eComments\u003c/a\u003e",
+         "link": "https://avherald.com/h?article=52f5748f\u0026opt=0",
+         "links": [
+             "https://avherald.com/h?article=52f5748f\u0026opt=0"
+         ],
+         "published": "Tue, 04 Nov 2025 23:10:53 +0000",
+         "publishedParsed": "2025-11-04T23:10:53Z"
+     },
+     {
          "title": "The Microsoft SoftCard for the Apple II: Getting two processors to share memory",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45818471\"\u003eComments\u003c/a\u003e",
          "link": "https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758",
@@ -88,6 +138,16 @@
          ],
          "published": "Wed, 05 Nov 2025 02:58:25 +0000",
          "publishedParsed": "2025-11-05T02:58:25Z"
+     },
+     {
+         "title": "Parsing Chemistry",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45697414\"\u003eComments\u003c/a\u003e",
+         "link": "https://re.factorcode.org/2025/10/parsing-chemistry.html",
+         "links": [
+             "https://re.factorcode.org/2025/10/parsing-chemistry.html"
+         ],
+         "published": "Fri, 24 Oct 2025 18:07:53 +0000",
+         "publishedParsed": "2025-10-24T18:07:53Z"
      },
      {
          "title": "Grayskull: A tiny computer vision library in C for embedded systems, etc.",
@@ -110,17 +170,17 @@
          "publishedParsed": "2025-11-04T16:12:27Z"
      },
      {
-         "title": "Moving tables across PostgreSQL instances",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45788086\"\u003eComments\u003c/a\u003e",
-         "link": "https://ananthakumaran.in/2025/11/02/moving-tables-across-postgres-instances.html",
+         "title": "By the Power of Grayscale",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45771151\"\u003eComments\u003c/a\u003e",
+         "link": "https://zserge.com/posts/grayskull/",
          "links": [
-             "https://ananthakumaran.in/2025/11/02/moving-tables-across-postgres-instances.html"
+             "https://zserge.com/posts/grayskull/"
          ],
-         "published": "Sun, 02 Nov 2025 05:47:46 +0000",
-         "publishedParsed": "2025-11-02T05:47:46Z"
+         "published": "Fri, 31 Oct 2025 12:11:03 +0000",
+         "publishedParsed": "2025-10-31T12:11:03Z"
      },
      {
-         "title": "The Hackers Manifesto (The Conscience of a Hacker) (1986)",
+         "title": "The Hacker’s Manifesto (1986)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45820715\"\u003eComments\u003c/a\u003e",
          "link": "https://phrack.org/issues/7/3",
          "links": [
@@ -140,16 +200,6 @@
          "publishedParsed": "2025-11-04T22:59:22Z"
      },
      {
-         "title": "By the Power of Grayscale",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45771151\"\u003eComments\u003c/a\u003e",
-         "link": "https://zserge.com/posts/grayskull/",
-         "links": [
-             "https://zserge.com/posts/grayskull/"
-         ],
-         "published": "Fri, 31 Oct 2025 12:11:03 +0000",
-         "publishedParsed": "2025-10-31T12:11:03Z"
-     },
-     {
          "title": "Codemaps: Understand Code, Before You Vibe It",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45813767\"\u003eComments\u003c/a\u003e",
          "link": "https://cognition.ai/blog/codemaps",
@@ -158,6 +208,16 @@
          ],
          "published": "Tue, 04 Nov 2025 17:47:09 +0000",
          "publishedParsed": "2025-11-04T17:47:09Z"
+     },
+     {
+         "title": "Moving tables across PostgreSQL instances",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45788086\"\u003eComments\u003c/a\u003e",
+         "link": "https://ananthakumaran.in/2025/11/02/moving-tables-across-postgres-instances.html",
+         "links": [
+             "https://ananthakumaran.in/2025/11/02/moving-tables-across-postgres-instances.html"
+         ],
+         "published": "Sun, 02 Nov 2025 05:47:46 +0000",
+         "publishedParsed": "2025-11-02T05:47:46Z"
      },
      {
          "title": "I took all my projects off the cloud, saving thousands of dollars",
@@ -170,6 +230,16 @@
          "publishedParsed": "2025-11-04T21:22:15Z"
      },
      {
+         "title": "Developers are choosing older AI models",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45749833\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.augmentcode.com/blog/developers-are-choosing-older-ai-models-and-16b-tokens-of-data-explain-why",
+         "links": [
+             "https://www.augmentcode.com/blog/developers-are-choosing-older-ai-models-and-16b-tokens-of-data-explain-why"
+         ],
+         "published": "Wed, 29 Oct 2025 17:08:28 +0000",
+         "publishedParsed": "2025-10-29T17:08:28Z"
+     },
+     {
          "title": "Whole Earth Index",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45734259\"\u003eComments\u003c/a\u003e",
          "link": "https://wholeearth.info/",
@@ -180,24 +250,14 @@
          "publishedParsed": "2025-10-28T15:36:39Z"
      },
      {
-         "title": "Vectorizing for Fun and Performance",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45750005\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ibm.com/support/pages/vectorizing-fun-and-performance",
+         "title": "Optimism Associated with Exceptional Longevity",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45822513\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.pnas.org/doi/10.1073/pnas.1900712116",
          "links": [
-             "https://www.ibm.com/support/pages/vectorizing-fun-and-performance"
+             "https://www.pnas.org/doi/10.1073/pnas.1900712116"
          ],
-         "published": "Wed, 29 Oct 2025 17:19:40 +0000",
-         "publishedParsed": "2025-10-29T17:19:40Z"
-     },
-     {
-         "title": "FDD – Diskettes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45727194\"\u003eComments\u003c/a\u003e",
-         "link": "https://retrocmp.de/fdd/diskette/diskette.htm",
-         "links": [
-             "https://retrocmp.de/fdd/diskette/diskette.htm"
-         ],
-         "published": "Mon, 27 Oct 2025 22:42:28 +0000",
-         "publishedParsed": "2025-10-27T22:42:28Z"
+         "published": "Wed, 05 Nov 2025 13:16:58 +0000",
+         "publishedParsed": "2025-11-05T13:16:58Z"
      },
      {
          "title": "Preventing Kubernetes from Pulling the Pause Image from the Internet",
@@ -208,55 +268,5 @@
          ],
          "published": "Wed, 05 Nov 2025 03:04:58 +0000",
          "publishedParsed": "2025-11-05T03:04:58Z"
-     },
-     {
-         "title": "Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45726597\"\u003eComments\u003c/a\u003e",
-         "link": "https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html",
-         "links": [
-             "https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html"
-         ],
-         "published": "Mon, 27 Oct 2025 21:35:46 +0000",
-         "publishedParsed": "2025-10-27T21:35:46Z"
-     },
-     {
-         "title": "Frozen String Literals: Past, Present, Future?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45733836\"\u003eComments\u003c/a\u003e",
-         "link": "https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html",
-         "links": [
-             "https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html"
-         ],
-         "published": "Tue, 28 Oct 2025 15:08:31 +0000",
-         "publishedParsed": "2025-10-28T15:08:31Z"
-     },
-     {
-         "title": "Google Removed 749M Anna's Archive URLs from Its Search Results",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45816968\"\u003eComments\u003c/a\u003e",
-         "link": "https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-its-search-results/",
-         "links": [
-             "https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-its-search-results/"
-         ],
-         "published": "Tue, 04 Nov 2025 23:11:20 +0000",
-         "publishedParsed": "2025-11-04T23:11:20Z"
-     },
-     {
-         "title": "Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45813310\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.plexe.ai/",
-         "links": [
-             "https://www.plexe.ai/"
-         ],
-         "published": "Tue, 04 Nov 2025 17:07:47 +0000",
-         "publishedParsed": "2025-11-04T17:07:47Z"
-     },
-     {
-         "title": "Singing bus horns in West Sumatra",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45692042\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.auralarchipelago.com/auralarchipelago/kalason",
-         "links": [
-             "https://www.auralarchipelago.com/auralarchipelago/kalason"
-         ],
-         "published": "Fri, 24 Oct 2025 07:54:17 +0000",
-         "publishedParsed": "2025-10-24T07:54:17Z"
      }
  ]
