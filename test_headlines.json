@@ -1,5 +1,15 @@
 [
      {
+         "title": "Why is Zig so Cool?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45852328\"\u003eComments\u003c/a\u003e",
+         "link": "https://nilostolte.github.io/tech/articles/ZigCool.html",
+         "links": [
+             "https://nilostolte.github.io/tech/articles/ZigCool.html"
+         ],
+         "published": "Fri, 07 Nov 2025 23:04:39 +0000",
+         "publishedParsed": "2025-11-07T23:04:39Z"
+     },
+     {
          "title": "Myna: Monospace typeface designed for symbol-heavy programming languages",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45849342\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/sayyadirfanali/Myna",
@@ -8,16 +18,6 @@
          ],
          "published": "Fri, 07 Nov 2025 18:27:36 +0000",
          "publishedParsed": "2025-11-07T18:27:36Z"
-     },
-     {
-         "title": "Ruby Solved My Problem",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45849528\"\u003eComments\u003c/a\u003e",
-         "link": "https://newsletter.masilotti.com/p/ruby-already-solved-my-problem",
-         "links": [
-             "https://newsletter.masilotti.com/p/ruby-already-solved-my-problem"
-         ],
-         "published": "Fri, 07 Nov 2025 18:45:35 +0000",
-         "publishedParsed": "2025-11-07T18:45:35Z"
      },
      {
          "title": "How did I get here?",
@@ -30,14 +30,34 @@
          "publishedParsed": "2025-11-07T20:01:09Z"
      },
      {
-         "title": "Ribir: Non-intrusive GUI framework for Rust/WASM",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45850671\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/RibirX/Ribir",
+         "title": "Becoming a Compiler Engineer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45851495\"\u003eComments\u003c/a\u003e",
+         "link": "https://rona.substack.com/p/becoming-a-compiler-engineer",
          "links": [
-             "https://github.com/RibirX/Ribir"
+             "https://rona.substack.com/p/becoming-a-compiler-engineer"
          ],
-         "published": "Fri, 07 Nov 2025 20:26:26 +0000",
-         "publishedParsed": "2025-11-07T20:26:26Z"
+         "published": "Fri, 07 Nov 2025 21:45:03 +0000",
+         "publishedParsed": "2025-11-07T21:45:03Z"
+     },
+     {
+         "title": "Ruby Solved My Problem",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45849528\"\u003eComments\u003c/a\u003e",
+         "link": "https://newsletter.masilotti.com/p/ruby-already-solved-my-problem",
+         "links": [
+             "https://newsletter.masilotti.com/p/ruby-already-solved-my-problem"
+         ],
+         "published": "Fri, 07 Nov 2025 18:45:35 +0000",
+         "publishedParsed": "2025-11-07T18:45:35Z"
+     },
+     {
+         "title": "How a devboard works (and how to make your own)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45852029\"\u003eComments\u003c/a\u003e",
+         "link": "https://kaipereira.com/journal/build-a-devboard",
+         "links": [
+             "https://kaipereira.com/journal/build-a-devboard"
+         ],
+         "published": "Fri, 07 Nov 2025 22:35:28 +0000",
+         "publishedParsed": "2025-11-07T22:35:28Z"
      },
      {
          "title": "YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'",
@@ -50,6 +70,26 @@
          "publishedParsed": "2025-11-07T20:50:40Z"
      },
      {
+         "title": "Ribir: Non-intrusive GUI framework for Rust/WASM",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45850671\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/RibirX/Ribir",
+         "links": [
+             "https://github.com/RibirX/Ribir"
+         ],
+         "published": "Fri, 07 Nov 2025 20:26:26 +0000",
+         "publishedParsed": "2025-11-07T20:26:26Z"
+     },
+     {
+         "title": "FAA restricts commercial rocket launches indefinitely due to air traffic risks",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45852275\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown",
+         "links": [
+             "https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown"
+         ],
+         "published": "Fri, 07 Nov 2025 22:59:04 +0000",
+         "publishedParsed": "2025-11-07T22:59:04Z"
+     },
+     {
          "title": "Venn Diagram for 7 Sets",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45809007\"\u003eComments\u003c/a\u003e",
          "link": "https://moebio.com/research/sevensets/",
@@ -58,106 +98,6 @@
          ],
          "published": "Tue, 04 Nov 2025 09:27:57 +0000",
          "publishedParsed": "2025-11-04T09:27:57Z"
-     },
-     {
-         "title": "I Love OCaml",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45846517\"\u003eComments\u003c/a\u003e",
-         "link": "https://mccd.space/posts/ocaml-the-worlds-best/",
-         "links": [
-             "https://mccd.space/posts/ocaml-the-worlds-best/"
-         ],
-         "published": "Fri, 07 Nov 2025 14:05:49 +0000",
-         "publishedParsed": "2025-11-07T14:05:49Z"
-     },
-     {
-         "title": "James Watson has died",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45850069\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nytimes.com/2025/11/07/science/james-watson-dead.html",
-         "links": [
-             "https://www.nytimes.com/2025/11/07/science/james-watson-dead.html"
-         ],
-         "published": "Fri, 07 Nov 2025 19:30:18 +0000",
-         "publishedParsed": "2025-11-07T19:30:18Z"
-     },
-     {
-         "title": "Leaving Meta and PyTorch",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45843948\"\u003eComments\u003c/a\u003e",
-         "link": "https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html",
-         "links": [
-             "https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html"
-         ],
-         "published": "Fri, 07 Nov 2025 06:14:50 +0000",
-         "publishedParsed": "2025-11-07T06:14:50Z"
-     },
-     {
-         "title": "VLC's Jean-Baptiste Kempf Receives the European SFS Award 2025",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45850751\"\u003eComments\u003c/a\u003e",
-         "link": "https://fsfe.org/news/2025/news-20251107-01.en.html",
-         "links": [
-             "https://fsfe.org/news/2025/news-20251107-01.en.html"
-         ],
-         "published": "Fri, 07 Nov 2025 20:31:36 +0000",
-         "publishedParsed": "2025-11-07T20:31:36Z"
-     },
-     {
-         "title": "Angel Investors, a Field Guide",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45848468\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.jeanyang.com/posts/angel-investors-a-field-guide/",
-         "links": [
-             "https://www.jeanyang.com/posts/angel-investors-a-field-guide/"
-         ],
-         "published": "Fri, 07 Nov 2025 17:03:30 +0000",
-         "publishedParsed": "2025-11-07T17:03:30Z"
-     },
-     {
-         "title": "I'm making a small RPG and I need feeback regarding performance",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45846360\"\u003eComments\u003c/a\u003e",
-         "link": "https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need",
-         "links": [
-             "https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need"
-         ],
-         "published": "Fri, 07 Nov 2025 13:52:39 +0000",
-         "publishedParsed": "2025-11-07T13:52:39Z"
-     },
-     {
-         "title": "Apple is crossing a Steve Jobs red line",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45850430\"\u003eComments\u003c/a\u003e",
-         "link": "https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/",
-         "links": [
-             "https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/"
-         ],
-         "published": "Fri, 07 Nov 2025 20:05:32 +0000",
-         "publishedParsed": "2025-11-07T20:05:32Z"
-     },
-     {
-         "title": "Show HN: Three Emojis, a daily word puzzle for language learners",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45850125\"\u003eComments\u003c/a\u003e",
-         "link": "https://threeemojis.com/en-US/play/hex/en-US/2025-11-07",
-         "links": [
-             "https://threeemojis.com/en-US/play/hex/en-US/2025-11-07"
-         ],
-         "published": "Fri, 07 Nov 2025 19:36:11 +0000",
-         "publishedParsed": "2025-11-07T19:36:11Z"
-     },
-     {
-         "title": "Should facial analysis help determine whom companies hire?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45850171\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.economist.com/business/2025/11/06/should-facial-analysis-help-determine-whom-companies-hire",
-         "links": [
-             "https://www.economist.com/business/2025/11/06/should-facial-analysis-help-determine-whom-companies-hire"
-         ],
-         "published": "Fri, 07 Nov 2025 19:40:32 +0000",
-         "publishedParsed": "2025-11-07T19:40:32Z"
-     },
-     {
-         "title": "Skeena Indigenous Typeface",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45793783\"\u003eComments\u003c/a\u003e",
-         "link": "https://microsoft.github.io/Skeena-Indigenous-Typeface/",
-         "links": [
-             "https://microsoft.github.io/Skeena-Indigenous-Typeface/"
-         ],
-         "published": "Sun, 02 Nov 2025 21:57:16 +0000",
-         "publishedParsed": "2025-11-02T21:57:16Z"
      },
      {
          "title": "Transducer: Composition, Abstraction, Performance",
@@ -170,14 +110,64 @@
          "publishedParsed": "2025-11-04T10:32:26Z"
      },
      {
-         "title": "My Experience of building Bytebeat player in Zig",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45809649\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.karanjanthe.me/posts/zig-beat/",
+         "title": "VLC's Jean-Baptiste Kempf Receives the European SFS Award 2025",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45850751\"\u003eComments\u003c/a\u003e",
+         "link": "https://fsfe.org/news/2025/news-20251107-01.en.html",
          "links": [
-             "https://blog.karanjanthe.me/posts/zig-beat/"
+             "https://fsfe.org/news/2025/news-20251107-01.en.html"
          ],
-         "published": "Tue, 04 Nov 2025 11:10:04 +0000",
-         "publishedParsed": "2025-11-04T11:10:04Z"
+         "published": "Fri, 07 Nov 2025 20:31:36 +0000",
+         "publishedParsed": "2025-11-07T20:31:36Z"
+     },
+     {
+         "title": "I Love OCaml",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45846517\"\u003eComments\u003c/a\u003e",
+         "link": "https://mccd.space/posts/ocaml-the-worlds-best/",
+         "links": [
+             "https://mccd.space/posts/ocaml-the-worlds-best/"
+         ],
+         "published": "Fri, 07 Nov 2025 14:05:49 +0000",
+         "publishedParsed": "2025-11-07T14:05:49Z"
+     },
+     {
+         "title": "Mind captioning: Evolving descriptive text of mental content of brain activity",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45852257\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.science.org/doi/10.1126/sciadv.adw1464",
+         "links": [
+             "https://www.science.org/doi/10.1126/sciadv.adw1464"
+         ],
+         "published": "Fri, 07 Nov 2025 22:57:18 +0000",
+         "publishedParsed": "2025-11-07T22:57:18Z"
+     },
+     {
+         "title": "James Watson has died",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45850069\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nytimes.com/2025/11/07/science/james-watson-dead.html",
+         "links": [
+             "https://www.nytimes.com/2025/11/07/science/james-watson-dead.html"
+         ],
+         "published": "Fri, 07 Nov 2025 19:30:18 +0000",
+         "publishedParsed": "2025-11-07T19:30:18Z"
+     },
+     {
+         "title": "Using the Web Monetization API for fun and profit",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45851786\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/",
+         "links": [
+             "https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/"
+         ],
+         "published": "Fri, 07 Nov 2025 22:13:37 +0000",
+         "publishedParsed": "2025-11-07T22:13:37Z"
+     },
+     {
+         "title": "Angel Investors, a Field Guide",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45848468\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.jeanyang.com/posts/angel-investors-a-field-guide/",
+         "links": [
+             "https://www.jeanyang.com/posts/angel-investors-a-field-guide/"
+         ],
+         "published": "Fri, 07 Nov 2025 17:03:30 +0000",
+         "publishedParsed": "2025-11-07T17:03:30Z"
      },
      {
          "title": "Understanding traffic",
@@ -190,6 +180,56 @@
          "publishedParsed": "2025-11-03T11:55:02Z"
      },
      {
+         "title": "Show HN: VoxConvo – \"X but it's only voice messages\"",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45851807\"\u003eComments\u003c/a\u003e",
+         "link": "https://voxconvo.com",
+         "links": [
+             "https://voxconvo.com"
+         ],
+         "published": "Fri, 07 Nov 2025 22:15:41 +0000",
+         "publishedParsed": "2025-11-07T22:15:41Z"
+     },
+     {
+         "title": "Objective-C for Windows, including UIKit (public archive). From Microsoft",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45791596\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/microsoft/WinObjC",
+         "links": [
+             "https://github.com/microsoft/WinObjC"
+         ],
+         "published": "Sun, 02 Nov 2025 16:47:55 +0000",
+         "publishedParsed": "2025-11-02T16:47:55Z"
+     },
+     {
+         "title": "I'm making a small RPG and I need feeback regarding performance",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45846360\"\u003eComments\u003c/a\u003e",
+         "link": "https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need",
+         "links": [
+             "https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need"
+         ],
+         "published": "Fri, 07 Nov 2025 13:52:39 +0000",
+         "publishedParsed": "2025-11-07T13:52:39Z"
+     },
+     {
+         "title": "Developers in C-Level Meetings",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45778729\"\u003eComments\u003c/a\u003e",
+         "link": "https://radekmie.dev/blog/on-developers-in-c-level-meetings/",
+         "links": [
+             "https://radekmie.dev/blog/on-developers-in-c-level-meetings/"
+         ],
+         "published": "Sat, 01 Nov 2025 02:14:18 +0000",
+         "publishedParsed": "2025-11-01T02:14:18Z"
+     },
+     {
+         "title": "He Jiankui PhD Thesis: Spontaneous Emergence of Hierarchy in Biological Systems",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45852011\"\u003eComments\u003c/a\u003e",
+         "link": "https://repository.rice.edu/server/api/core/bitstreams/85449216-b2ec-4519-87cf-83eafe4534e7/content",
+         "links": [
+             "https://repository.rice.edu/server/api/core/bitstreams/85449216-b2ec-4519-87cf-83eafe4534e7/content"
+         ],
+         "published": "Fri, 07 Nov 2025 22:34:15 +0000",
+         "publishedParsed": "2025-11-07T22:34:15Z"
+     },
+     {
          "title": "PyTorch Helion",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45788194\"\u003eComments\u003c/a\u003e",
          "link": "https://pytorch.org/blog/helion/",
@@ -200,14 +240,24 @@
          "publishedParsed": "2025-11-02T06:21:37Z"
      },
      {
-         "title": "Comparison Traits – Understanding Equality and Ordering in Rust",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45789143\"\u003eComments\u003c/a\u003e",
-         "link": "https://itsfoxstudio.substack.com/p/comparison-traits-understanding-equality",
+         "title": "My Experience of building Bytebeat player in Zig",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45809649\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.karanjanthe.me/posts/zig-beat/",
          "links": [
-             "https://itsfoxstudio.substack.com/p/comparison-traits-understanding-equality"
+             "https://blog.karanjanthe.me/posts/zig-beat/"
          ],
-         "published": "Sun, 02 Nov 2025 10:00:07 +0000",
-         "publishedParsed": "2025-11-02T10:00:07Z"
+         "published": "Tue, 04 Nov 2025 11:10:04 +0000",
+         "publishedParsed": "2025-11-04T11:10:04Z"
+     },
+     {
+         "title": "Apple is crossing a Steve Jobs red line",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45850430\"\u003eComments\u003c/a\u003e",
+         "link": "https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/",
+         "links": [
+             "https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/"
+         ],
+         "published": "Fri, 07 Nov 2025 20:05:32 +0000",
+         "publishedParsed": "2025-11-07T20:05:32Z"
      },
      {
          "title": "Sweep (YC S23) is hiring to build autocomplete for JetBrains",
@@ -220,16 +270,6 @@
          "publishedParsed": "2025-11-07T12:00:40Z"
      },
      {
-         "title": "Toxic Salton Sea dust triggers changes in lung microbiome after just one week",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45848341\"\u003eComments\u003c/a\u003e",
-         "link": "https://phys.org/news/2025-10-toxic-salton-sea-triggers-lung.html",
-         "links": [
-             "https://phys.org/news/2025-10-toxic-salton-sea-triggers-lung.html"
-         ],
-         "published": "Fri, 07 Nov 2025 16:52:05 +0000",
-         "publishedParsed": "2025-11-07T16:52:05Z"
-     },
-     {
          "title": "Meta projected 10% of 2024 revenue came from scams",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45845772\"\u003eComments\u003c/a\u003e",
          "link": "https://sherwood.news/tech/meta-projected-10-of-2024-revenue-came-from-scams-and-banned-goods-reuters/",
@@ -240,53 +280,13 @@
          "publishedParsed": "2025-11-07T12:39:54Z"
      },
      {
-         "title": "1973 implementation of Wordle was published by DEC (2022)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45778653\"\u003eComments\u003c/a\u003e",
-         "link": "https://troypress.com/1973-implementation-of-wordle-was-published-by-dec/",
+         "title": "AI is Dunning-Kruger as a service",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45851483\"\u003eComments\u003c/a\u003e",
+         "link": "https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/",
          "links": [
-             "https://troypress.com/1973-implementation-of-wordle-was-published-by-dec/"
+             "https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/"
          ],
-         "published": "Sat, 01 Nov 2025 01:56:57 +0000",
-         "publishedParsed": "2025-11-01T01:56:57Z"
-     },
-     {
-         "title": "Rockstar employee shares account of the company's union-busting efforts",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45849281\"\u003eComments\u003c/a\u003e",
-         "link": "https://gtaforums.com/topic/1004182-rockstar-games-alleged-union-busting/",
-         "links": [
-             "https://gtaforums.com/topic/1004182-rockstar-games-alleged-union-busting/"
-         ],
-         "published": "Fri, 07 Nov 2025 18:22:09 +0000",
-         "publishedParsed": "2025-11-07T18:22:09Z"
-     },
-     {
-         "title": "OpenMW 0.50.0 Released – open-source Morrowind reimplementation",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45846090\"\u003eComments\u003c/a\u003e",
-         "link": "https://openmw.org/2025/openmw-0-50-0-released/",
-         "links": [
-             "https://openmw.org/2025/openmw-0-50-0-released/"
-         ],
-         "published": "Fri, 07 Nov 2025 13:25:27 +0000",
-         "publishedParsed": "2025-11-07T13:25:27Z"
-     },
-     {
-         "title": "We chose OCaml to write Stategraph",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45845958\"\u003eComments\u003c/a\u003e",
-         "link": "https://stategraph.dev/blog/why-we-chose-ocaml",
-         "links": [
-             "https://stategraph.dev/blog/why-we-chose-ocaml"
-         ],
-         "published": "Fri, 07 Nov 2025 13:10:49 +0000",
-         "publishedParsed": "2025-11-07T13:10:49Z"
-     },
-     {
-         "title": "Text case changes the size of QR codes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45786490\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/",
-         "links": [
-             "https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/"
-         ],
-         "published": "Sat, 01 Nov 2025 23:34:51 +0000",
-         "publishedParsed": "2025-11-01T23:34:51Z"
+         "published": "Fri, 07 Nov 2025 21:44:04 +0000",
+         "publishedParsed": "2025-11-07T21:44:04Z"
      }
  ]
