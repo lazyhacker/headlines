@@ -10,6 +10,16 @@
          "publishedParsed": "2025-11-08T23:03:10Z"
      },
      {
+         "title": "I Am Mark Zuckerberg",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45863360\"\u003eComments\u003c/a\u003e",
+         "link": "https://iammarkzuckerberg.com/",
+         "links": [
+             "https://iammarkzuckerberg.com/"
+         ],
+         "published": "Sun, 09 Nov 2025 06:13:05 +0000",
+         "publishedParsed": "2025-11-09T06:13:05Z"
+     },
+     {
          "title": "Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45862802\"\u003eComments\u003c/a\u003e",
          "link": "https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/",
@@ -40,16 +50,6 @@
          "publishedParsed": "2025-11-08T18:43:55Z"
      },
      {
-         "title": "Tabloid: The Clickbait Headline Programming Language",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45862470\"\u003eComments\u003c/a\u003e",
-         "link": "https://tabloid.vercel.app/",
-         "links": [
-             "https://tabloid.vercel.app/"
-         ],
-         "published": "Sun, 09 Nov 2025 02:53:45 +0000",
-         "publishedParsed": "2025-11-09T02:53:45Z"
-     },
-     {
          "title": "Defeating Kaslr by Doing Nothing at All",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45809552\"\u003eComments\u003c/a\u003e",
          "link": "https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html",
@@ -60,34 +60,14 @@
          "publishedParsed": "2025-11-04T10:52:29Z"
      },
      {
-         "title": "Study identifies weaknesses in how AI systems are evaluated",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45856804\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/",
+         "title": "Runc breaks pods when CPU requests aren't multiples of 10",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45862967\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/opencontainers/runc/issues/4982",
          "links": [
-             "https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/"
+             "https://github.com/opencontainers/runc/issues/4982"
          ],
-         "published": "Sat, 08 Nov 2025 14:18:22 +0000",
-         "publishedParsed": "2025-11-08T14:18:22Z"
-     },
-     {
-         "title": "Show HN: Hephaestus – Autonomous Multi-Agent Orchestration Framework",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45796897\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Ido-Levi/Hephaestus",
-         "links": [
-             "https://github.com/Ido-Levi/Hephaestus"
-         ],
-         "published": "Mon, 03 Nov 2025 08:14:34 +0000",
-         "publishedParsed": "2025-11-03T08:14:34Z"
-     },
-     {
-         "title": "Open-source communications by bouncing signals off the Moon",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45790672\"\u003eComments\u003c/a\u003e",
-         "link": "https://open.space/",
-         "links": [
-             "https://open.space/"
-         ],
-         "published": "Sun, 02 Nov 2025 14:44:02 +0000",
-         "publishedParsed": "2025-11-02T14:44:02Z"
+         "published": "Sun, 09 Nov 2025 04:47:27 +0000",
+         "publishedParsed": "2025-11-09T04:47:27Z"
      },
      {
          "title": "Forth – is it still relevant?",
@@ -100,6 +80,46 @@
          "publishedParsed": "2025-11-09T04:59:19Z"
      },
      {
+         "title": "Tabloid: The Clickbait Headline Programming Language",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45862470\"\u003eComments\u003c/a\u003e",
+         "link": "https://tabloid.vercel.app/",
+         "links": [
+             "https://tabloid.vercel.app/"
+         ],
+         "published": "Sun, 09 Nov 2025 02:53:45 +0000",
+         "publishedParsed": "2025-11-09T02:53:45Z"
+     },
+     {
+         "title": "Show HN: I built a self-hosted error tracker in Rails",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45776512\"\u003eComments\u003c/a\u003e",
+         "link": "https://telebugs.com",
+         "links": [
+             "https://telebugs.com"
+         ],
+         "published": "Fri, 31 Oct 2025 20:46:51 +0000",
+         "publishedParsed": "2025-10-31T20:46:51Z"
+     },
+     {
+         "title": "Study identifies weaknesses in how AI systems are evaluated",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45856804\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/",
+         "links": [
+             "https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/"
+         ],
+         "published": "Sat, 08 Nov 2025 14:18:22 +0000",
+         "publishedParsed": "2025-11-08T14:18:22Z"
+     },
+     {
+         "title": "Open-source communications by bouncing signals off the Moon",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45790672\"\u003eComments\u003c/a\u003e",
+         "link": "https://open.space/",
+         "links": [
+             "https://open.space/"
+         ],
+         "published": "Sun, 02 Nov 2025 14:44:02 +0000",
+         "publishedParsed": "2025-11-02T14:44:02Z"
+     },
+     {
          "title": "How Airbus Took Off",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45861984\"\u003eComments\u003c/a\u003e",
          "link": "https://worksinprogress.co/issue/how-airbus-took-off/",
@@ -110,6 +130,16 @@
          "publishedParsed": "2025-11-09T01:19:00Z"
      },
      {
+         "title": "Show HN: Hephaestus – Autonomous Multi-Agent Orchestration Framework",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45796897\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/Ido-Levi/Hephaestus",
+         "links": [
+             "https://github.com/Ido-Levi/Hephaestus"
+         ],
+         "published": "Mon, 03 Nov 2025 08:14:34 +0000",
+         "publishedParsed": "2025-11-03T08:14:34Z"
+     },
+     {
          "title": "Control structures in programming languages: from goto to algebraic effects",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45798068\"\u003eComments\u003c/a\u003e",
          "link": "http://xavierleroy.org/control-structures/",
@@ -118,6 +148,16 @@
          ],
          "published": "Mon, 03 Nov 2025 11:47:19 +0000",
          "publishedParsed": "2025-11-03T11:47:19Z"
+     },
+     {
+         "title": "Avería: The Average Font (2011)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45859243\"\u003eComments\u003c/a\u003e",
+         "link": "http://iotic.com/averia/",
+         "links": [
+             "http://iotic.com/averia/"
+         ],
+         "published": "Sat, 08 Nov 2025 19:29:44 +0000",
+         "publishedParsed": "2025-11-08T19:29:44Z"
      },
      {
          "title": "Study finds memory decline surge in young people",
@@ -140,34 +180,14 @@
          "publishedParsed": "2025-11-08T22:30:58Z"
      },
      {
-         "title": "Avería: The Average Font (2011)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45859243\"\u003eComments\u003c/a\u003e",
-         "link": "http://iotic.com/averia/",
+         "title": "How to build your own VPN, or: the history of WARP",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45797083\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/",
          "links": [
-             "http://iotic.com/averia/"
+             "https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/"
          ],
-         "published": "Sat, 08 Nov 2025 19:29:44 +0000",
-         "publishedParsed": "2025-11-08T19:29:44Z"
-     },
-     {
-         "title": "Show HN: Geofenced chat communities anyone can create",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45862500\"\u003eComments\u003c/a\u003e",
-         "link": "https://vicinity.social/",
-         "links": [
-             "https://vicinity.social/"
-         ],
-         "published": "Sun, 09 Nov 2025 02:59:58 +0000",
-         "publishedParsed": "2025-11-09T02:59:58Z"
-     },
-     {
-         "title": "Runc breaks pods when CPU requests aren't multiples of 10",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45862967\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/opencontainers/runc/issues/4982",
-         "links": [
-             "https://github.com/opencontainers/runc/issues/4982"
-         ],
-         "published": "Sun, 09 Nov 2025 04:47:27 +0000",
-         "publishedParsed": "2025-11-09T04:47:27Z"
+         "published": "Mon, 03 Nov 2025 08:46:51 +0000",
+         "publishedParsed": "2025-11-03T08:46:51Z"
      },
      {
          "title": "Syntax and Semantics of Programming Languages (1995)",
@@ -180,24 +200,14 @@
          "publishedParsed": "2025-11-09T03:15:33Z"
      },
      {
-         "title": "How to build your own VPN, or: the history of WARP",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45797083\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/",
+         "title": "IRIX Introduction",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45862071\"\u003eComments\u003c/a\u003e",
+         "link": "http://www.sgistuff.net/software/irixintro/index.html",
          "links": [
-             "https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/"
+             "http://www.sgistuff.net/software/irixintro/index.html"
          ],
-         "published": "Mon, 03 Nov 2025 08:46:51 +0000",
-         "publishedParsed": "2025-11-03T08:46:51Z"
-     },
-     {
-         "title": "Grok 4 Fast now has 2M context window",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45862833\"\u003eComments\u003c/a\u003e",
-         "link": "https://docs.x.ai/docs/models",
-         "links": [
-             "https://docs.x.ai/docs/models"
-         ],
-         "published": "Sun, 09 Nov 2025 04:10:06 +0000",
-         "publishedParsed": "2025-11-09T04:10:06Z"
+         "published": "Sun, 09 Nov 2025 01:33:43 +0000",
+         "publishedParsed": "2025-11-09T01:33:43Z"
      },
      {
          "title": "Show HN: Sparktype – a CMS and SSG that runs entirely in the browser",
@@ -210,6 +220,26 @@
          "publishedParsed": "2025-11-04T12:24:40Z"
      },
      {
+         "title": "Grok 4 Fast now has 2M context window",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45862833\"\u003eComments\u003c/a\u003e",
+         "link": "https://docs.x.ai/docs/models",
+         "links": [
+             "https://docs.x.ai/docs/models"
+         ],
+         "published": "Sun, 09 Nov 2025 04:10:06 +0000",
+         "publishedParsed": "2025-11-09T04:10:06Z"
+     },
+     {
+         "title": "Show HN: Geofenced chat communities anyone can create",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45862500\"\u003eComments\u003c/a\u003e",
+         "link": "https://vicinity.social/",
+         "links": [
+             "https://vicinity.social/"
+         ],
+         "published": "Sun, 09 Nov 2025 02:59:58 +0000",
+         "publishedParsed": "2025-11-09T02:59:58Z"
+     },
+     {
          "title": "WriterdeckOS",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45858945\"\u003eComments\u003c/a\u003e",
          "link": "https://writerdeckos.com",
@@ -218,16 +248,6 @@
          ],
          "published": "Sat, 08 Nov 2025 18:49:47 +0000",
          "publishedParsed": "2025-11-08T18:49:47Z"
-     },
-     {
-         "title": "IRIX Introduction",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45862071\"\u003eComments\u003c/a\u003e",
-         "link": "http://www.sgistuff.net/software/irixintro/index.html",
-         "links": [
-             "http://www.sgistuff.net/software/irixintro/index.html"
-         ],
-         "published": "Sun, 09 Nov 2025 01:33:43 +0000",
-         "publishedParsed": "2025-11-09T01:33:43Z"
      },
      {
          "title": "Cloudflare scrubs Aisuru botnet from top domains list",
@@ -240,16 +260,6 @@
          "publishedParsed": "2025-11-08T16:25:41Z"
      },
      {
-         "title": "Show HN: PingStalker – A a macOS tool for network engineers",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45810842\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.pingstalker.com/?hn",
-         "links": [
-             "https://www.pingstalker.com/?hn"
-         ],
-         "published": "Tue, 04 Nov 2025 13:33:11 +0000",
-         "publishedParsed": "2025-11-04T13:33:11Z"
-     },
-     {
          "title": "Valdi – A cross-platform UI framework that delivers native performance",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45852854\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/Snapchat/Valdi",
@@ -260,23 +270,23 @@
          "publishedParsed": "2025-11-08T00:14:50Z"
      },
      {
-         "title": "What Hallucinogens Will Make You See (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45860229\"\u003eComments\u003c/a\u003e",
-         "link": "https://nautil.us/what-hallucinogens-will-make-you-see-308247/",
+         "title": "Show HN: PingStalker – A a macOS tool for network engineers",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45810842\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.pingstalker.com/?hn",
          "links": [
-             "https://nautil.us/what-hallucinogens-will-make-you-see-308247/"
+             "https://www.pingstalker.com/?hn"
          ],
-         "published": "Sat, 08 Nov 2025 21:32:30 +0000",
-         "publishedParsed": "2025-11-08T21:32:30Z"
+         "published": "Tue, 04 Nov 2025 13:33:11 +0000",
+         "publishedParsed": "2025-11-04T13:33:11Z"
      },
      {
-         "title": "My first fifteen compilers (2019)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45776368\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.sigplan.org/2019/07/09/my-first-fifteen-compilers/",
+         "title": "Why is Zig so cool?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45852328\"\u003eComments\u003c/a\u003e",
+         "link": "https://nilostolte.github.io/tech/articles/ZigCool.html",
          "links": [
-             "https://blog.sigplan.org/2019/07/09/my-first-fifteen-compilers/"
+             "https://nilostolte.github.io/tech/articles/ZigCool.html"
          ],
-         "published": "Fri, 31 Oct 2025 20:30:10 +0000",
-         "publishedParsed": "2025-10-31T20:30:10Z"
+         "published": "Fri, 07 Nov 2025 23:04:39 +0000",
+         "publishedParsed": "2025-11-07T23:04:39Z"
      }
  ]
