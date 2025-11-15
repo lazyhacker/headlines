@@ -20,7 +20,7 @@
          "publishedParsed": "2025-11-14T22:15:04Z"
      },
      {
-         "title": "Has Google solved two of AI's oldest problems?",
+         "title": "Has Google solved two of AI’s oldest problems?",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45887262\"\u003eComments\u003c/a\u003e",
          "link": "https://generativehistory.substack.com/p/has-google-quietly-solved-two-of",
          "links": [
@@ -28,26 +28,6 @@
          ],
          "published": "Tue, 11 Nov 2025 13:52:15 +0000",
          "publishedParsed": "2025-11-11T13:52:15Z"
-     },
-     {
-         "title": "HipKittens: Fast and furious AMD kernels",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45923188\"\u003eComments\u003c/a\u003e",
-         "link": "https://hazyresearch.stanford.edu/blog/2025-11-09-hk",
-         "links": [
-             "https://hazyresearch.stanford.edu/blog/2025-11-09-hk"
-         ],
-         "published": "Fri, 14 Nov 2025 02:27:20 +0000",
-         "publishedParsed": "2025-11-14T02:27:20Z"
-     },
-     {
-         "title": "A race condition in Aurora RDS",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45929921\"\u003eComments\u003c/a\u003e",
-         "link": "https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds",
-         "links": [
-             "https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds"
-         ],
-         "published": "Fri, 14 Nov 2025 18:20:08 +0000",
-         "publishedParsed": "2025-11-14T18:20:08Z"
      },
      {
          "title": "No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE",
@@ -60,7 +40,27 @@
          "publishedParsed": "2025-11-14T23:39:36Z"
      },
      {
-         "title": "Structured Outputs on the Claude Developer Platform (API)",
+         "title": "HipKittens: Fast and furious AMD kernels",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45923188\"\u003eComments\u003c/a\u003e",
+         "link": "https://hazyresearch.stanford.edu/blog/2025-11-09-hk",
+         "links": [
+             "https://hazyresearch.stanford.edu/blog/2025-11-09-hk"
+         ],
+         "published": "Fri, 14 Nov 2025 02:27:20 +0000",
+         "publishedParsed": "2025-11-14T02:27:20Z"
+     },
+     {
+         "title": "Over-reliance on English hinders cognitive science",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45934683\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00236-4",
+         "links": [
+             "https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00236-4"
+         ],
+         "published": "Sat, 15 Nov 2025 02:58:56 +0000",
+         "publishedParsed": "2025-11-15T02:58:56Z"
+     },
+     {
+         "title": "Structured outputs on the Claude Developer Platform",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45930598\"\u003eComments\u003c/a\u003e",
          "link": "https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform",
          "links": [
@@ -80,6 +80,26 @@
          "publishedParsed": "2025-11-14T16:31:26Z"
      },
      {
+         "title": "A race condition in Aurora RDS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45929921\"\u003eComments\u003c/a\u003e",
+         "link": "https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds",
+         "links": [
+             "https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds"
+         ],
+         "published": "Fri, 14 Nov 2025 18:20:08 +0000",
+         "publishedParsed": "2025-11-14T18:20:08Z"
+     },
+     {
+         "title": "Async Mutexes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45809972\"\u003eComments\u003c/a\u003e",
+         "link": "https://matklad.github.io/2025/11/04/on-async-mutexes.html",
+         "links": [
+             "https://matklad.github.io/2025/11/04/on-async-mutexes.html"
+         ],
+         "published": "Tue, 04 Nov 2025 12:02:24 +0000",
+         "publishedParsed": "2025-11-04T12:02:24Z"
+     },
+     {
          "title": "All praise to the lunch ladies",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45931403\"\u003eComments\u003c/a\u003e",
          "link": "https://bittersoutherner.com/issue-no-12/all-praise-to-the-lunch-ladies",
@@ -88,6 +108,16 @@
          ],
          "published": "Fri, 14 Nov 2025 19:54:58 +0000",
          "publishedParsed": "2025-11-14T19:54:58Z"
+     },
+     {
+         "title": "GEN-0 / Embodied Foundation Models That Scale with Physical Interaction",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45821402\"\u003eComments\u003c/a\u003e",
+         "link": "https://generalistai.com/blog/nov-04-2025-GEN-0",
+         "links": [
+             "https://generalistai.com/blog/nov-04-2025-GEN-0"
+         ],
+         "published": "Wed, 05 Nov 2025 10:25:14 +0000",
+         "publishedParsed": "2025-11-05T10:25:14Z"
      },
      {
          "title": "Manganese is Lyme disease's double-edge sword",
@@ -110,6 +140,16 @@
          "publishedParsed": "2025-11-10T15:13:55Z"
      },
      {
+         "title": "Winamp clone in Swift for macOS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45926224\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/mgreenwood1001/winamp",
+         "links": [
+             "https://github.com/mgreenwood1001/winamp"
+         ],
+         "published": "Fri, 14 Nov 2025 12:44:07 +0000",
+         "publishedParsed": "2025-11-14T12:44:07Z"
+     },
+     {
          "title": "Go's Sweet 16",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45932962\"\u003eComments\u003c/a\u003e",
          "link": "https://go.dev/blog/16years",
@@ -120,24 +160,24 @@
          "publishedParsed": "2025-11-14T22:33:15Z"
      },
      {
-         "title": "Nothing impossible happens",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45933960\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.oxonianreview.com/articles/nothing-impossible-happens",
+         "title": "Raycore: GPU accelerated and modular ray intersections",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45876487\"\u003eComments\u003c/a\u003e",
+         "link": "https://makie.org/website/blogposts/raycore/",
          "links": [
-             "https://www.oxonianreview.com/articles/nothing-impossible-happens"
+             "https://makie.org/website/blogposts/raycore/"
          ],
-         "published": "Sat, 15 Nov 2025 00:39:50 +0000",
-         "publishedParsed": "2025-11-15T00:39:50Z"
+         "published": "Mon, 10 Nov 2025 14:42:35 +0000",
+         "publishedParsed": "2025-11-10T14:42:35Z"
      },
      {
-         "title": "GEN-0 / Embodied Foundation Models That Scale with Physical Interaction",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45821402\"\u003eComments\u003c/a\u003e",
-         "link": "https://generalistai.com/blog/nov-04-2025-GEN-0",
+         "title": "AI note-taking startup Fireflies was really two guys typing notes by hand",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45934447\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/",
          "links": [
-             "https://generalistai.com/blog/nov-04-2025-GEN-0"
+             "https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/"
          ],
-         "published": "Wed, 05 Nov 2025 10:25:14 +0000",
-         "publishedParsed": "2025-11-05T10:25:14Z"
+         "published": "Sat, 15 Nov 2025 02:11:43 +0000",
+         "publishedParsed": "2025-11-15T02:11:43Z"
      },
      {
          "title": "Mentra (YC W25) Is Hiring: Head of Growth to Make Smart Glasses Mainstream",
@@ -150,16 +190,6 @@
          "publishedParsed": "2025-11-14T21:00:25Z"
      },
      {
-         "title": "Winamp clone in Swift for macOS",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45926224\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/mgreenwood1001/winamp",
-         "links": [
-             "https://github.com/mgreenwood1001/winamp"
-         ],
-         "published": "Fri, 14 Nov 2025 12:44:07 +0000",
-         "publishedParsed": "2025-11-14T12:44:07Z"
-     },
-     {
          "title": "Xqerl – Erlang XQuery 3.1 Processor",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45885677\"\u003eComments\u003c/a\u003e",
          "link": "https://zadean.github.io/xqerl/",
@@ -168,16 +198,6 @@
          ],
          "published": "Tue, 11 Nov 2025 09:48:05 +0000",
          "publishedParsed": "2025-11-11T09:48:05Z"
-     },
-     {
-         "title": "Raycore: GPU accelerated and modular ray intersections",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45876487\"\u003eComments\u003c/a\u003e",
-         "link": "https://makie.org/website/blogposts/raycore/",
-         "links": [
-             "https://makie.org/website/blogposts/raycore/"
-         ],
-         "published": "Mon, 10 Nov 2025 14:42:35 +0000",
-         "publishedParsed": "2025-11-10T14:42:35Z"
      },
      {
          "title": "Awk Technical Notes (2023)",
@@ -200,6 +220,16 @@
          "publishedParsed": "2025-11-14T17:08:15Z"
      },
      {
+         "title": "I built a modular Java game engine without a GUI, designed to be AI-native",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45830718\"\u003eComments\u003c/a\u003e",
+         "link": "https://frontend-neutron-v2.vercel.app/",
+         "links": [
+             "https://frontend-neutron-v2.vercel.app/"
+         ],
+         "published": "Thu, 06 Nov 2025 02:29:02 +0000",
+         "publishedParsed": "2025-11-06T02:29:02Z"
+     },
+     {
          "title": "Honda: 2 years of ml vs 1 month of prompting - heres what we learned",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45875618\"\u003eComments\u003c/a\u003e",
          "link": "https://www.levs.fyi/blog/2-years-of-ml-vs-1-month-of-prompting/",
@@ -208,16 +238,6 @@
          ],
          "published": "Mon, 10 Nov 2025 13:11:49 +0000",
          "publishedParsed": "2025-11-10T13:11:49Z"
-     },
-     {
-         "title": "Unofficial Microsoft Teams Client for Linux",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45808407\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/IsmaelMartinez/teams-for-linux",
-         "links": [
-             "https://github.com/IsmaelMartinez/teams-for-linux"
-         ],
-         "published": "Tue, 04 Nov 2025 07:41:58 +0000",
-         "publishedParsed": "2025-11-04T07:41:58Z"
      },
      {
          "title": "Moving Back to a Tiling WM – XMonad",
@@ -240,16 +260,6 @@
          "publishedParsed": "2025-11-14T14:46:27Z"
      },
      {
-         "title": "Minisforum Stuffs Entire Arm Homelab in the MS-R1",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45930284\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1",
-         "links": [
-             "https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1"
-         ],
-         "published": "Fri, 14 Nov 2025 18:42:55 +0000",
-         "publishedParsed": "2025-11-14T18:42:55Z"
-     },
-     {
          "title": "Magit manuals are available online again",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45926037\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/magit/magit/issues/5472",
@@ -258,16 +268,6 @@
          ],
          "published": "Fri, 14 Nov 2025 12:09:59 +0000",
          "publishedParsed": "2025-11-14T12:09:59Z"
-     },
-     {
-         "title": "AGI fantasy is a blocker to actual engineering",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45926469\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/",
-         "links": [
-             "https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/"
-         ],
-         "published": "Fri, 14 Nov 2025 13:21:24 +0000",
-         "publishedParsed": "2025-11-14T13:21:24Z"
      },
      {
          "title": "Incus-OS: Immutable Linux OS to run Incus as a hypervisor",
