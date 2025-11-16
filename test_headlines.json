@@ -1,5 +1,15 @@
 [
      {
+         "title": "Open-source Zig book",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45947810\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.zigbook.net",
+         "links": [
+             "https://www.zigbook.net"
+         ],
+         "published": "Sun, 16 Nov 2025 19:44:27 +0000",
+         "publishedParsed": "2025-11-16T19:44:27Z"
+     },
+     {
          "title": "The fate of \"small\" open source",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45947639\"\u003eComments\u003c/a\u003e",
          "link": "https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/",
@@ -8,6 +18,16 @@
          ],
          "published": "Sun, 16 Nov 2025 19:21:13 +0000",
          "publishedParsed": "2025-11-16T19:21:13Z"
+     },
+     {
+         "title": "Tracking users with favicons, even in incognito mode",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45947770\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/jonasstrehle/supercookie",
+         "links": [
+             "https://github.com/jonasstrehle/supercookie"
+         ],
+         "published": "Sun, 16 Nov 2025 19:39:52 +0000",
+         "publishedParsed": "2025-11-16T19:39:52Z"
      },
      {
          "title": "Heretic: Automatic censorship removal for language models",
@@ -20,14 +40,24 @@
          "publishedParsed": "2025-11-16T15:00:24Z"
      },
      {
-         "title": "FPGA Based IBM-PC-XT",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45945784\"\u003eComments\u003c/a\u003e",
-         "link": "https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/",
+         "title": "The Pragmatic Programmer: 20th Anniversary Edition",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45948254\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html",
          "links": [
-             "https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/"
+             "https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html"
          ],
-         "published": "Sun, 16 Nov 2025 15:26:24 +0000",
-         "publishedParsed": "2025-11-16T15:26:24Z"
+         "published": "Sun, 16 Nov 2025 20:46:30 +0000",
+         "publishedParsed": "2025-11-16T20:46:30Z"
+     },
+     {
+         "title": "Dark Pattern Games",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45947761\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.darkpattern.games",
+         "links": [
+             "https://www.darkpattern.games"
+         ],
+         "published": "Sun, 16 Nov 2025 19:38:49 +0000",
+         "publishedParsed": "2025-11-16T19:38:49Z"
      },
      {
          "title": "Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines",
@@ -40,84 +70,24 @@
          "publishedParsed": "2025-11-16T18:38:37Z"
      },
      {
-         "title": "AI is killing privacy. We can't let that happen",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45947434\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.fastcompany.com/91435189/ai-privacy-openai-tracking-apps",
+         "title": "What if you don't need MCP at all?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45947444\"\u003eComments\u003c/a\u003e",
+         "link": "https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/",
          "links": [
-             "https://www.fastcompany.com/91435189/ai-privacy-openai-tracking-apps"
+             "https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/"
          ],
-         "published": "Sun, 16 Nov 2025 18:56:31 +0000",
-         "publishedParsed": "2025-11-16T18:56:31Z"
+         "published": "Sun, 16 Nov 2025 18:58:10 +0000",
+         "publishedParsed": "2025-11-16T18:58:10Z"
      },
      {
-         "title": "AirPods libreated from Apple's ecosystem",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45941596\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/kavishdevar/librepods",
+         "title": "I have recordings proving Coinbase knew about breach months before disclosure",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45948058\"\u003eComments\u003c/a\u003e",
+         "link": "https://jonathanclark.com/posts/coinbase-breach-timeline.html",
          "links": [
-             "https://github.com/kavishdevar/librepods"
+             "https://jonathanclark.com/posts/coinbase-breach-timeline.html"
          ],
-         "published": "Sun, 16 Nov 2025 00:01:25 +0000",
-         "publishedParsed": "2025-11-16T00:01:25Z"
-     },
-     {
-         "title": "Brimstone: ES2025 JavaScript engine written in Rust",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45944337\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Hans-Halverson/brimstone",
-         "links": [
-             "https://github.com/Hans-Halverson/brimstone"
-         ],
-         "published": "Sun, 16 Nov 2025 11:41:10 +0000",
-         "publishedParsed": "2025-11-16T11:41:10Z"
-     },
-     {
-         "title": "Fourier Transforms",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45825413\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.continuummechanics.org/fourierxforms.html",
-         "links": [
-             "https://www.continuummechanics.org/fourierxforms.html"
-         ],
-         "published": "Wed, 05 Nov 2025 17:24:18 +0000",
-         "publishedParsed": "2025-11-05T17:24:18Z"
-     },
-     {
-         "title": "Garbage Collection Is Useful",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45944969\"\u003eComments\u003c/a\u003e",
-         "link": "https://dubroy.com/blog/garbage-collection-is-useful/",
-         "links": [
-             "https://dubroy.com/blog/garbage-collection-is-useful/"
-         ],
-         "published": "Sun, 16 Nov 2025 13:25:32 +0000",
-         "publishedParsed": "2025-11-16T13:25:32Z"
-     },
-     {
-         "title": "De Bruijn Numerals",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45945750\"\u003eComments\u003c/a\u003e",
-         "link": "https://text.marvinborner.de/2023-08-22-22.html",
-         "links": [
-             "https://text.marvinborner.de/2023-08-22-22.html"
-         ],
-         "published": "Sun, 16 Nov 2025 15:22:16 +0000",
-         "publishedParsed": "2025-11-16T15:22:16Z"
-     },
-     {
-         "title": "Holes (1970) [pdf]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45922907\"\u003eComments\u003c/a\u003e",
-         "link": "https://rintintin.colorado.edu/~vancecd/phil375/Lewis1.pdf",
-         "links": [
-             "https://rintintin.colorado.edu/~vancecd/phil375/Lewis1.pdf"
-         ],
-         "published": "Fri, 14 Nov 2025 01:42:01 +0000",
-         "publishedParsed": "2025-11-14T01:42:01Z"
-     },
-     {
-         "title": "Measuring the doppler shift of WWVB during a flight",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45815948\"\u003eComments\u003c/a\u003e",
-         "link": "https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/",
-         "links": [
-             "https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/"
-         ],
-         "published": "Tue, 04 Nov 2025 21:12:57 +0000",
-         "publishedParsed": "2025-11-04T21:12:57Z"
+         "published": "Sun, 16 Nov 2025 20:18:10 +0000",
+         "publishedParsed": "2025-11-16T20:18:10Z"
      },
      {
          "title": "I finally understand Cloudflare Zero Trust tunnels",
@@ -130,27 +100,67 @@
          "publishedParsed": "2025-11-16T17:39:43Z"
      },
      {
-         "title": "Running the \"Reflections on Trusting Trust\" Compiler (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45945202\"\u003eComments\u003c/a\u003e",
-         "link": "https://research.swtch.com/nih",
+         "title": "FPGA Based IBM-PC-XT",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45945784\"\u003eComments\u003c/a\u003e",
+         "link": "https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/",
          "links": [
-             "https://research.swtch.com/nih"
+             "https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/"
          ],
-         "published": "Sun, 16 Nov 2025 13:59:19 +0000",
-         "publishedParsed": "2025-11-16T13:59:19Z"
+         "published": "Sun, 16 Nov 2025 15:26:24 +0000",
+         "publishedParsed": "2025-11-16T15:26:24Z"
      },
      {
-         "title": "Waiting for SQL:202y: Group by All",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45885410\"\u003eComments\u003c/a\u003e",
-         "link": "http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all",
+         "title": "Linux mode setting, from the comfort of OCaml",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45947822\"\u003eComments\u003c/a\u003e",
+         "link": "https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/",
          "links": [
-             "http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all"
+             "https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/"
          ],
-         "published": "Tue, 11 Nov 2025 09:08:42 +0000",
-         "publishedParsed": "2025-11-11T09:08:42Z"
+         "published": "Sun, 16 Nov 2025 19:45:36 +0000",
+         "publishedParsed": "2025-11-16T19:45:36Z"
      },
      {
-         "title": "Anthropic's report smells a lot like bullshit",
+         "title": "Decoding Leibniz Notation (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45947374\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.spakhm.com/leibniz",
+         "links": [
+             "https://www.spakhm.com/leibniz"
+         ],
+         "published": "Sun, 16 Nov 2025 18:47:40 +0000",
+         "publishedParsed": "2025-11-16T18:47:40Z"
+     },
+     {
+         "title": "Fourier Transforms",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45825413\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.continuummechanics.org/fourierxforms.html",
+         "links": [
+             "https://www.continuummechanics.org/fourierxforms.html"
+         ],
+         "published": "Wed, 05 Nov 2025 17:24:18 +0000",
+         "publishedParsed": "2025-11-05T17:24:18Z"
+     },
+     {
+         "title": "Shell Grotto, Margate",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45820358\"\u003eComments\u003c/a\u003e",
+         "link": "https://en.wikipedia.org/wiki/Shell_Grotto,_Margate",
+         "links": [
+             "https://en.wikipedia.org/wiki/Shell_Grotto,_Margate"
+         ],
+         "published": "Wed, 05 Nov 2025 07:32:50 +0000",
+         "publishedParsed": "2025-11-05T07:32:50Z"
+     },
+     {
+         "title": "Brimstone: ES2025 JavaScript engine written in Rust",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45944337\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/Hans-Halverson/brimstone",
+         "links": [
+             "https://github.com/Hans-Halverson/brimstone"
+         ],
+         "published": "Sun, 16 Nov 2025 11:41:10 +0000",
+         "publishedParsed": "2025-11-16T11:41:10Z"
+     },
+     {
+         "title": "Anthropic’s paper smells like bullshit",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45944296\"\u003eComments\u003c/a\u003e",
          "link": "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/",
          "links": [
@@ -160,24 +170,14 @@
          "publishedParsed": "2025-11-16T11:32:39Z"
      },
      {
-         "title": "Vintage Large Language Models",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45944906\"\u003eComments\u003c/a\u003e",
-         "link": "https://owainevans.github.io/talk-transcript.html",
+         "title": "Garbage collection is useful",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45944969\"\u003eComments\u003c/a\u003e",
+         "link": "https://dubroy.com/blog/garbage-collection-is-useful/",
          "links": [
-             "https://owainevans.github.io/talk-transcript.html"
+             "https://dubroy.com/blog/garbage-collection-is-useful/"
          ],
-         "published": "Sun, 16 Nov 2025 13:15:50 +0000",
-         "publishedParsed": "2025-11-16T13:15:50Z"
-     },
-     {
-         "title": "Where Educational Technology Fails: A seventh-grader's perspective",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45944941\"\u003eComments\u003c/a\u003e",
-         "link": "https://micahblachman.beehiiv.com/p/where-educational-technology-fails",
-         "links": [
-             "https://micahblachman.beehiiv.com/p/where-educational-technology-fails"
-         ],
-         "published": "Sun, 16 Nov 2025 13:20:41 +0000",
-         "publishedParsed": "2025-11-16T13:20:41Z"
+         "published": "Sun, 16 Nov 2025 13:25:32 +0000",
+         "publishedParsed": "2025-11-16T13:25:32Z"
      },
      {
          "title": "The Man Who Keeps Predicting the Web's Death",
@@ -190,64 +190,84 @@
          "publishedParsed": "2025-11-16T17:50:29Z"
      },
      {
-         "title": "Three kinds of AI products work",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45946498\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.seangoedecke.com/ai-products/",
+         "title": "Waiting for SQL:202y: Group by All",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45885410\"\u003eComments\u003c/a\u003e",
+         "link": "http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all",
          "links": [
-             "https://www.seangoedecke.com/ai-products/"
+             "http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all"
          ],
-         "published": "Sun, 16 Nov 2025 16:56:47 +0000",
-         "publishedParsed": "2025-11-16T16:56:47Z"
+         "published": "Tue, 11 Nov 2025 09:08:42 +0000",
+         "publishedParsed": "2025-11-11T09:08:42Z"
      },
      {
-         "title": "Don't Post Passive-Aggressive Webpages",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45947530\"\u003eComments\u003c/a\u003e",
-         "link": "https://dontpostpassiveaggressivewebpages.com/",
+         "title": "De Bruijn Numerals",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45945750\"\u003eComments\u003c/a\u003e",
+         "link": "https://text.marvinborner.de/2023-08-22-22.html",
          "links": [
-             "https://dontpostpassiveaggressivewebpages.com/"
+             "https://text.marvinborner.de/2023-08-22-22.html"
          ],
-         "published": "Sun, 16 Nov 2025 19:09:30 +0000",
-         "publishedParsed": "2025-11-16T19:09:30Z"
+         "published": "Sun, 16 Nov 2025 15:22:16 +0000",
+         "publishedParsed": "2025-11-16T15:22:16Z"
      },
      {
-         "title": "PgFirstAid: PostgreSQL function for improving stability and performance",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45944951\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/randoneering/pgFirstAid",
+         "title": "Measuring the doppler shift of WWVB during a flight",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45815948\"\u003eComments\u003c/a\u003e",
+         "link": "https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/",
          "links": [
-             "https://github.com/randoneering/pgFirstAid"
+             "https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/"
          ],
-         "published": "Sun, 16 Nov 2025 13:23:22 +0000",
-         "publishedParsed": "2025-11-16T13:23:22Z"
+         "published": "Tue, 04 Nov 2025 21:12:57 +0000",
+         "publishedParsed": "2025-11-04T21:12:57Z"
      },
      {
-         "title": "IDEmacs: A Visual Studio Code clone for Emacs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45941835\"\u003eComments\u003c/a\u003e",
-         "link": "https://codeberg.org/IDEmacs/IDEmacs",
+         "title": "Holes (1970) [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45922907\"\u003eComments\u003c/a\u003e",
+         "link": "https://rintintin.colorado.edu/~vancecd/phil375/Lewis1.pdf",
          "links": [
-             "https://codeberg.org/IDEmacs/IDEmacs"
+             "https://rintintin.colorado.edu/~vancecd/phil375/Lewis1.pdf"
          ],
-         "published": "Sun, 16 Nov 2025 00:56:31 +0000",
-         "publishedParsed": "2025-11-16T00:56:31Z"
+         "published": "Fri, 14 Nov 2025 01:42:01 +0000",
+         "publishedParsed": "2025-11-14T01:42:01Z"
      },
      {
-         "title": "Production-Grade Container Deployment with Podman Quadlets – Larvitz Blog",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45945200\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/index.html",
+         "title": "Vintage Large Language Models",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45944906\"\u003eComments\u003c/a\u003e",
+         "link": "https://owainevans.github.io/talk-transcript.html",
          "links": [
-             "https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/index.html"
+             "https://owainevans.github.io/talk-transcript.html"
          ],
-         "published": "Sun, 16 Nov 2025 13:59:05 +0000",
-         "publishedParsed": "2025-11-16T13:59:05Z"
+         "published": "Sun, 16 Nov 2025 13:15:50 +0000",
+         "publishedParsed": "2025-11-16T13:15:50Z"
      },
      {
-         "title": "Maybe you’re not trying",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45943979\"\u003eComments\u003c/a\u003e",
-         "link": "https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying",
+         "title": "Adding an imaginary unit to a finite field",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45947827\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.johndcook.com/blog/2025/11/16/finite-field-i/",
          "links": [
-             "https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying"
+             "https://www.johndcook.com/blog/2025/11/16/finite-field-i/"
          ],
-         "published": "Sun, 16 Nov 2025 10:14:25 +0000",
-         "publishedParsed": "2025-11-16T10:14:25Z"
+         "published": "Sun, 16 Nov 2025 19:46:28 +0000",
+         "publishedParsed": "2025-11-16T19:46:28Z"
+     },
+     {
+         "title": "Running the \"Reflections on Trusting Trust\" Compiler (2023)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45945202\"\u003eComments\u003c/a\u003e",
+         "link": "https://research.swtch.com/nih",
+         "links": [
+             "https://research.swtch.com/nih"
+         ],
+         "published": "Sun, 16 Nov 2025 13:59:19 +0000",
+         "publishedParsed": "2025-11-16T13:59:19Z"
+     },
+     {
+         "title": "AirPods libreated from Apple's ecosystem",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45941596\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/kavishdevar/librepods",
+         "links": [
+             "https://github.com/kavishdevar/librepods"
+         ],
+         "published": "Sun, 16 Nov 2025 00:01:25 +0000",
+         "publishedParsed": "2025-11-16T00:01:25Z"
      },
      {
          "title": "Dissecting Flock Safety: The Cameras Tracking You Are a Security Nightmare [video]",
@@ -258,45 +278,5 @@
          ],
          "published": "Sun, 16 Nov 2025 15:50:54 +0000",
          "publishedParsed": "2025-11-16T15:50:54Z"
-     },
-     {
-         "title": "Diamonds and Lasers: Thermal Management for Chips",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45801004\"\u003eComments\u003c/a\u003e",
-         "link": "https://spectrum.ieee.org/thermal-management-chips",
-         "links": [
-             "https://spectrum.ieee.org/thermal-management-chips"
-         ],
-         "published": "Mon, 03 Nov 2025 16:38:58 +0000",
-         "publishedParsed": "2025-11-03T16:38:58Z"
-     },
-     {
-         "title": "Things that aren't doing the thing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45939431\"\u003eComments\u003c/a\u003e",
-         "link": "https://strangestloop.io/essays/things-that-arent-doing-the-thing",
-         "links": [
-             "https://strangestloop.io/essays/things-that-arent-doing-the-thing"
-         ],
-         "published": "Sat, 15 Nov 2025 18:24:58 +0000",
-         "publishedParsed": "2025-11-15T18:24:58Z"
-     },
-     {
-         "title": "The Internet Is No Longer a Safe Haven",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45944870\"\u003eComments\u003c/a\u003e",
-         "link": "https://brainbaking.com/post/2025/10/the-internet-is-no-longer-a-safe-haven/",
-         "links": [
-             "https://brainbaking.com/post/2025/10/the-internet-is-no-longer-a-safe-haven/"
-         ],
-         "published": "Sun, 16 Nov 2025 13:12:03 +0000",
-         "publishedParsed": "2025-11-16T13:12:03Z"
-     },
-     {
-         "title": "A new documentary about the history of forced psychiatric treatment in Spain",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45945101\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bbc.co.uk/news/articles/cr43vx0rrwvo",
-         "links": [
-             "https://www.bbc.co.uk/news/articles/cr43vx0rrwvo"
-         ],
-         "published": "Sun, 16 Nov 2025 13:44:20 +0000",
-         "publishedParsed": "2025-11-16T13:44:20Z"
      }
  ]
