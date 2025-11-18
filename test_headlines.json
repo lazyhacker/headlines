@@ -10,6 +10,16 @@
          "publishedParsed": "2025-11-18T08:18:35Z"
      },
      {
+         "title": "Cloudflare, X, More are down",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45963780\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cloudflarestatus.com/?t=1",
+         "links": [
+             "https://www.cloudflarestatus.com/?t=1"
+         ],
+         "published": "Tue, 18 Nov 2025 11:35:10 +0000",
+         "publishedParsed": "2025-11-18T11:35:10Z"
+     },
+     {
          "title": "How many video games include a marriage proposal? At least one",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45916094\"\u003eComments\u003c/a\u003e",
          "link": "https://32bits.substack.com/p/under-the-microscope-ncaa-basketball",
@@ -20,14 +30,24 @@
          "publishedParsed": "2025-11-13T15:33:51Z"
      },
      {
-         "title": "Unofficial \"Tier 4\" Rust Target for older Windows versions",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45960852\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/rust9x/rust",
+         "title": "Cloudflare Global Network experiencing issues",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45963949\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cloudflarestatus.com/incidents/8gmgl950y3h7",
          "links": [
-             "https://github.com/rust9x/rust"
+             "https://www.cloudflarestatus.com/incidents/8gmgl950y3h7"
          ],
-         "published": "Tue, 18 Nov 2025 02:46:50 +0000",
-         "publishedParsed": "2025-11-18T02:46:50Z"
+         "published": "Tue, 18 Nov 2025 11:48:56 +0000",
+         "publishedParsed": "2025-11-18T11:48:56Z"
+     },
+     {
+         "title": "The Uselessness of \"Fast\" and \"Slow\" in Programming",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45895427\"\u003eComments\u003c/a\u003e",
+         "link": "https://jerf.org/iri/post/2025/the_uselessness_of_fast/",
+         "links": [
+             "https://jerf.org/iri/post/2025/the_uselessness_of_fast/"
+         ],
+         "published": "Wed, 12 Nov 2025 01:41:07 +0000",
+         "publishedParsed": "2025-11-12T01:41:07Z"
      },
      {
          "title": "Show HN: I built a synth for my daughter",
@@ -40,24 +60,24 @@
          "publishedParsed": "2025-11-12T14:12:13Z"
      },
      {
-         "title": "Ditch your (mut)ex, you deserve better",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45893592\"\u003eComments\u003c/a\u003e",
-         "link": "https://chrispenner.ca/posts/mutexes",
+         "title": "Ruby Symbols",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45900273\"\u003eComments\u003c/a\u003e",
+         "link": "https://tech.stonecharioteer.com/posts/2025/ruby-symbols/",
          "links": [
-             "https://chrispenner.ca/posts/mutexes"
+             "https://tech.stonecharioteer.com/posts/2025/ruby-symbols/"
          ],
-         "published": "Tue, 11 Nov 2025 22:11:43 +0000",
-         "publishedParsed": "2025-11-11T22:11:43Z"
+         "published": "Wed, 12 Nov 2025 14:00:52 +0000",
+         "publishedParsed": "2025-11-12T14:00:52Z"
      },
      {
-         "title": "When Reverse Proxies Surprise You: Hard Lessons from Operating at Scale",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45914929\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.infoq.com/articles/scaling-reverse-proxies/",
+         "title": "Unofficial \"Tier 4\" Rust Target for older Windows versions",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45960852\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/rust9x/rust",
          "links": [
-             "https://www.infoq.com/articles/scaling-reverse-proxies/"
+             "https://github.com/rust9x/rust"
          ],
-         "published": "Thu, 13 Nov 2025 13:55:30 +0000",
-         "publishedParsed": "2025-11-13T13:55:30Z"
+         "published": "Tue, 18 Nov 2025 02:46:50 +0000",
+         "publishedParsed": "2025-11-18T02:46:50Z"
      },
      {
          "title": "Azure hit by 15 Tbps DDoS attack using 500k IP addresses",
@@ -68,6 +88,16 @@
          ],
          "published": "Mon, 17 Nov 2025 17:39:15 +0000",
          "publishedParsed": "2025-11-17T17:39:15Z"
+     },
+     {
+         "title": "When Reverse Proxies Surprise You: Hard Lessons from Operating at Scale",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45914929\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.infoq.com/articles/scaling-reverse-proxies/",
+         "links": [
+             "https://www.infoq.com/articles/scaling-reverse-proxies/"
+         ],
+         "published": "Thu, 13 Nov 2025 13:55:30 +0000",
+         "publishedParsed": "2025-11-13T13:55:30Z"
      },
      {
          "title": "Compiling Ruby to machine language",
@@ -100,16 +130,6 @@
          "publishedParsed": "2025-11-15T13:24:54Z"
      },
      {
-         "title": "Langfuse (YC W23) Hiring OSS Support Engineers in Berlin and SF",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45962178\"\u003eComments\u003c/a\u003e",
-         "link": "https://jobs.ashbyhq.com/langfuse/5ff18d4d-9066-4c67-8ecc-ffc0e295fee6",
-         "links": [
-             "https://jobs.ashbyhq.com/langfuse/5ff18d4d-9066-4c67-8ecc-ffc0e295fee6"
-         ],
-         "published": "Tue, 18 Nov 2025 07:00:50 +0000",
-         "publishedParsed": "2025-11-18T07:00:50Z"
-     },
-     {
          "title": "Astrophotographer snaps skydiver falling in front of the sun",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45944158\"\u003eComments\u003c/a\u003e",
          "link": "https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570",
@@ -120,24 +140,24 @@
          "publishedParsed": "2025-11-16T11:02:25Z"
      },
      {
-         "title": "Show HN: Parqeye – A CLI tool to visualize and inspect Parquet files",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45959780\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/kaushiksrini/parqeye",
+         "title": "Langfuse (YC W23) Hiring OSS Support Engineers in Berlin and SF",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45962178\"\u003eComments\u003c/a\u003e",
+         "link": "https://jobs.ashbyhq.com/langfuse/5ff18d4d-9066-4c67-8ecc-ffc0e295fee6",
          "links": [
-             "https://github.com/kaushiksrini/parqeye"
+             "https://jobs.ashbyhq.com/langfuse/5ff18d4d-9066-4c67-8ecc-ffc0e295fee6"
          ],
-         "published": "Mon, 17 Nov 2025 23:45:42 +0000",
-         "publishedParsed": "2025-11-17T23:45:42Z"
+         "published": "Tue, 18 Nov 2025 07:00:50 +0000",
+         "publishedParsed": "2025-11-18T07:00:50Z"
      },
      {
-         "title": "FreeMDU: Open-source Miele appliance diagnostic tools",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45953452\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/medusalix/FreeMDU",
+         "title": "Comparing Android Alternatives: Lineage OS, ∕E∕OS, and Graphene OS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45963001\"\u003eComments\u003c/a\u003e",
+         "link": "https://kevinboone.me/lineage-eos-graphene.html",
          "links": [
-             "https://github.com/medusalix/FreeMDU"
+             "https://kevinboone.me/lineage-eos-graphene.html"
          ],
-         "published": "Mon, 17 Nov 2025 13:40:40 +0000",
-         "publishedParsed": "2025-11-17T13:40:40Z"
+         "published": "Tue, 18 Nov 2025 09:13:13 +0000",
+         "publishedParsed": "2025-11-18T09:13:13Z"
      },
      {
          "title": "Project Gemini",
@@ -150,24 +170,34 @@
          "publishedParsed": "2025-11-17T15:50:04Z"
      },
      {
-         "title": "The surprising benefits of giving up",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45961481\"\u003eComments\u003c/a\u003e",
-         "link": "https://nautil.us/the-surprising-benefits-of-giving-up-1248362/",
+         "title": "FreeMDU: Open-source Miele appliance diagnostic tools",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45953452\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/medusalix/FreeMDU",
          "links": [
-             "https://nautil.us/the-surprising-benefits-of-giving-up-1248362/"
+             "https://github.com/medusalix/FreeMDU"
          ],
-         "published": "Tue, 18 Nov 2025 04:44:21 +0000",
-         "publishedParsed": "2025-11-18T04:44:21Z"
+         "published": "Mon, 17 Nov 2025 13:40:40 +0000",
+         "publishedParsed": "2025-11-17T13:40:40Z"
      },
      {
-         "title": "LeJEPA",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45960922\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2511.08544",
+         "title": "Show HN: Parqeye – A CLI tool to visualize and inspect Parquet files",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45959780\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/kaushiksrini/parqeye",
          "links": [
-             "https://arxiv.org/abs/2511.08544"
+             "https://github.com/kaushiksrini/parqeye"
          ],
-         "published": "Tue, 18 Nov 2025 02:58:31 +0000",
-         "publishedParsed": "2025-11-18T02:58:31Z"
+         "published": "Mon, 17 Nov 2025 23:45:42 +0000",
+         "publishedParsed": "2025-11-17T23:45:42Z"
+     },
+     {
+         "title": "Ditch your (mut)ex, you deserve better",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45893592\"\u003eComments\u003c/a\u003e",
+         "link": "https://chrispenner.ca/posts/mutexes",
+         "links": [
+             "https://chrispenner.ca/posts/mutexes"
+         ],
+         "published": "Tue, 11 Nov 2025 22:11:43 +0000",
+         "publishedParsed": "2025-11-11T22:11:43Z"
      },
      {
          "title": "Windows 11 adds AI agent that runs in background with access to personal folders",
@@ -190,34 +220,24 @@
          "publishedParsed": "2025-11-17T21:46:06Z"
      },
      {
-         "title": "How when AWS was down, we were not",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45955565\"\u003eComments\u003c/a\u003e",
-         "link": "https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts",
+         "title": "LeJEPA",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45960922\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2511.08544",
          "links": [
-             "https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts"
+             "https://arxiv.org/abs/2511.08544"
          ],
-         "published": "Mon, 17 Nov 2025 17:07:17 +0000",
-         "publishedParsed": "2025-11-17T17:07:17Z"
+         "published": "Tue, 18 Nov 2025 02:58:31 +0000",
+         "publishedParsed": "2025-11-18T02:58:31Z"
      },
      {
-         "title": "WeatherNext 2: Our most advanced weather forecasting model",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45954210\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.google/technology/google-deepmind/weathernext-2/",
+         "title": "The surprising benefits of giving up",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45961481\"\u003eComments\u003c/a\u003e",
+         "link": "https://nautil.us/the-surprising-benefits-of-giving-up-1248362/",
          "links": [
-             "https://blog.google/technology/google-deepmind/weathernext-2/"
+             "https://nautil.us/the-surprising-benefits-of-giving-up-1248362/"
          ],
-         "published": "Mon, 17 Nov 2025 15:04:26 +0000",
-         "publishedParsed": "2025-11-17T15:04:26Z"
-     },
-     {
-         "title": "Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45953977\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/francescopace/espectre",
-         "links": [
-             "https://github.com/francescopace/espectre"
-         ],
-         "published": "Mon, 17 Nov 2025 14:40:54 +0000",
-         "publishedParsed": "2025-11-17T14:40:54Z"
+         "published": "Tue, 18 Nov 2025 04:44:21 +0000",
+         "publishedParsed": "2025-11-18T04:44:21Z"
      },
      {
          "title": "Raccoons are showing early signs of domestication",
@@ -230,24 +250,34 @@
          "publishedParsed": "2025-11-14T18:53:27Z"
      },
      {
-         "title": "Core Devices keeps stealing our work",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45960893\"\u003eComments\u003c/a\u003e",
-         "link": "https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html",
+         "title": "How when AWS was down, we were not",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45955565\"\u003eComments\u003c/a\u003e",
+         "link": "https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts",
          "links": [
-             "https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html"
+             "https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts"
          ],
-         "published": "Tue, 18 Nov 2025 02:53:28 +0000",
-         "publishedParsed": "2025-11-18T02:53:28Z"
+         "published": "Mon, 17 Nov 2025 17:07:17 +0000",
+         "publishedParsed": "2025-11-17T17:07:17Z"
      },
      {
-         "title": "Show HN: Continuous Claude – run Claude Code in a loop",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45938517\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/AnandChowdhary/continuous-claude",
+         "title": "Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45953977\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/francescopace/espectre",
          "links": [
-             "https://github.com/AnandChowdhary/continuous-claude"
+             "https://github.com/francescopace/espectre"
          ],
-         "published": "Sat, 15 Nov 2025 16:27:49 +0000",
-         "publishedParsed": "2025-11-15T16:27:49Z"
+         "published": "Mon, 17 Nov 2025 14:40:54 +0000",
+         "publishedParsed": "2025-11-17T14:40:54Z"
+     },
+     {
+         "title": "WeatherNext 2: Our most advanced weather forecasting model",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45954210\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.google/technology/google-deepmind/weathernext-2/",
+         "links": [
+             "https://blog.google/technology/google-deepmind/weathernext-2/"
+         ],
+         "published": "Mon, 17 Nov 2025 15:04:26 +0000",
+         "publishedParsed": "2025-11-17T15:04:26Z"
      },
      {
          "title": "Aldous Huxley predicts Adderall and champions alternative therapies",
@@ -260,43 +290,13 @@
          "publishedParsed": "2025-11-17T14:57:33Z"
      },
      {
-         "title": "“One Student One Chip” Course Homepage",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45901379\"\u003eComments\u003c/a\u003e",
-         "link": "https://ysyx.oscc.cc/docs/en/",
+         "title": "Show HN: Continuous Claude – run Claude Code in a loop",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45938517\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/AnandChowdhary/continuous-claude",
          "links": [
-             "https://ysyx.oscc.cc/docs/en/"
+             "https://github.com/AnandChowdhary/continuous-claude"
          ],
-         "published": "Wed, 12 Nov 2025 15:28:54 +0000",
-         "publishedParsed": "2025-11-12T15:28:54Z"
-     },
-     {
-         "title": "Implementing Wordle in LibreOffice with JavaScript Macros",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45895490\"\u003eComments\u003c/a\u003e",
-         "link": "https://bojidar-bg.dev/blog/2025-11-11-wordle-libreoffice/",
-         "links": [
-             "https://bojidar-bg.dev/blog/2025-11-11-wordle-libreoffice/"
-         ],
-         "published": "Wed, 12 Nov 2025 01:52:13 +0000",
-         "publishedParsed": "2025-11-12T01:52:13Z"
-     },
-     {
-         "title": "A new book about the origins of Effective Altruism",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45955889\"\u003eComments\u003c/a\u003e",
-         "link": "https://newrepublic.com/article/202433/happened-effective-altruism",
-         "links": [
-             "https://newrepublic.com/article/202433/happened-effective-altruism"
-         ],
-         "published": "Mon, 17 Nov 2025 17:37:42 +0000",
-         "publishedParsed": "2025-11-17T17:37:42Z"
-     },
-     {
-         "title": "Show HN: Reversing a Cinema Camera's Peripherals Port",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45888805\"\u003eComments\u003c/a\u003e",
-         "link": "https://3nt3.de/blog/reversing-fs7-comms",
-         "links": [
-             "https://3nt3.de/blog/reversing-fs7-comms"
-         ],
-         "published": "Tue, 11 Nov 2025 15:57:48 +0000",
-         "publishedParsed": "2025-11-11T15:57:48Z"
+         "published": "Sat, 15 Nov 2025 16:27:49 +0000",
+         "publishedParsed": "2025-11-15T16:27:49Z"
      }
  ]
