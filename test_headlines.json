@@ -20,7 +20,7 @@
          "publishedParsed": "2025-11-21T06:50:14Z"
      },
      {
-         "title": "It's Hard to Build an Oscillator",
+         "title": "It's hard to build an oscillator",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46002161\"\u003eComments\u003c/a\u003e",
          "link": "https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator",
          "links": [
@@ -30,14 +30,24 @@
          "publishedParsed": "2025-11-21T07:45:53Z"
      },
      {
-         "title": "Nano Banana Pro",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45993296\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.google/technology/ai/nano-banana-pro/",
+         "title": "Building a Minimal Viable Armv7 Emulator from Scratch",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46004386\"\u003eComments\u003c/a\u003e",
+         "link": "https://xnacly.me/posts/2025/building-a-minimal-viable-armv7-emulator/",
          "links": [
-             "https://blog.google/technology/ai/nano-banana-pro/"
+             "https://xnacly.me/posts/2025/building-a-minimal-viable-armv7-emulator/"
          ],
-         "published": "Thu, 20 Nov 2025 15:04:23 +0000",
-         "publishedParsed": "2025-11-20T15:04:23Z"
+         "published": "Fri, 21 Nov 2025 13:30:36 +0000",
+         "publishedParsed": "2025-11-21T13:30:36Z"
+     },
+     {
+         "title": "Open Source and Local Code Mode MCP in Deno Sandboxes",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45917182\"\u003eComments\u003c/a\u003e",
+         "link": "https://portofcontext.com",
+         "links": [
+             "https://portofcontext.com"
+         ],
+         "published": "Thu, 13 Nov 2025 16:53:43 +0000",
+         "publishedParsed": "2025-11-13T16:53:43Z"
      },
      {
          "title": "I converted a rotary phone into a meeting handset",
@@ -50,6 +60,16 @@
          "publishedParsed": "2025-11-12T09:37:41Z"
      },
      {
+         "title": "Nano Banana Pro",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45993296\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.google/technology/ai/nano-banana-pro/",
+         "links": [
+             "https://blog.google/technology/ai/nano-banana-pro/"
+         ],
+         "published": "Thu, 20 Nov 2025 15:04:23 +0000",
+         "publishedParsed": "2025-11-20T15:04:23Z"
+     },
+     {
          "title": "Android and iPhone users can now share files, starting with the Pixel 10",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45994854\"\u003eComments\u003c/a\u003e",
          "link": "https://blog.google/products/android/quick-share-airdrop/",
@@ -58,6 +78,46 @@
          ],
          "published": "Thu, 20 Nov 2025 17:04:34 +0000",
          "publishedParsed": "2025-11-20T17:04:34Z"
+     },
+     {
+         "title": "Scientists now know that bees can process time, a first in insects",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45937350\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cnn.com/2025/11/12/science/bees-visual-stimulus-study-scli-intl",
+         "links": [
+             "https://www.cnn.com/2025/11/12/science/bees-visual-stimulus-study-scli-intl"
+         ],
+         "published": "Sat, 15 Nov 2025 13:32:12 +0000",
+         "publishedParsed": "2025-11-15T13:32:12Z"
+     },
+     {
+         "title": "Roundtable (YC S23) Is Hiring Two Sales Development Representatives (SDRs)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46003686\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development-representative",
+         "links": [
+             "https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development-representative"
+         ],
+         "published": "Fri, 21 Nov 2025 12:00:02 +0000",
+         "publishedParsed": "2025-11-21T12:00:02Z"
+     },
+     {
+         "title": "EXIF orientation info in PNGs isn't used for image-orientation",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46004364\"\u003eComments\u003c/a\u003e",
+         "link": "https://bugzilla.mozilla.org/show_bug.cgi?id=1627423",
+         "links": [
+             "https://bugzilla.mozilla.org/show_bug.cgi?id=1627423"
+         ],
+         "published": "Fri, 21 Nov 2025 13:29:14 +0000",
+         "publishedParsed": "2025-11-21T13:29:14Z"
+     },
+     {
+         "title": "iHeartRadio web has exposed all its source code",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46003995\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/Gh0styTongue/iHeart-Frontend-Source-Code",
+         "links": [
+             "https://github.com/Gh0styTongue/iHeart-Frontend-Source-Code"
+         ],
+         "published": "Fri, 21 Nov 2025 12:49:08 +0000",
+         "publishedParsed": "2025-11-21T12:49:08Z"
      },
      {
          "title": "WebAssembly from the Ground Up",
@@ -80,16 +140,6 @@
          "publishedParsed": "2025-11-12T20:15:51Z"
      },
      {
-         "title": "HP and Dell disable HEVC support built into their laptops' CPUs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46002989\"\u003eComments\u003c/a\u003e",
-         "link": "https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/",
-         "links": [
-             "https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/"
-         ],
-         "published": "Fri, 21 Nov 2025 10:01:37 +0000",
-         "publishedParsed": "2025-11-21T10:01:37Z"
-     },
-     {
          "title": "Show HN: 32V TENS device from built from scratch under $100",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45954228\"\u003eComments\u003c/a\u003e",
          "link": "https://littlemountainman.github.io/2025/11/17/tens/",
@@ -98,16 +148,6 @@
          ],
          "published": "Mon, 17 Nov 2025 15:06:32 +0000",
          "publishedParsed": "2025-11-17T15:06:32Z"
-     },
-     {
-         "title": "Scientists now know that bees can process time, a first in insects",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45937350\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cnn.com/2025/11/12/science/bees-visual-stimulus-study-scli-intl",
-         "links": [
-             "https://www.cnn.com/2025/11/12/science/bees-visual-stimulus-study-scli-intl"
-         ],
-         "published": "Sat, 15 Nov 2025 13:32:12 +0000",
-         "publishedParsed": "2025-11-15T13:32:12Z"
      },
      {
          "title": "New OS aims to provide (some) compatibility with macOS",
@@ -130,14 +170,14 @@
          "publishedParsed": "2025-11-21T07:41:15Z"
      },
      {
-         "title": "Data-at-Rest Encryption in DuckDB",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45996585\"\u003eComments\u003c/a\u003e",
-         "link": "https://duckdb.org/2025/11/19/encryption-in-duckdb",
+         "title": "HP and Dell disable HEVC support built into their laptops' CPUs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46002989\"\u003eComments\u003c/a\u003e",
+         "link": "https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/",
          "links": [
-             "https://duckdb.org/2025/11/19/encryption-in-duckdb"
+             "https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/"
          ],
-         "published": "Thu, 20 Nov 2025 19:26:12 +0000",
-         "publishedParsed": "2025-11-20T19:26:12Z"
+         "published": "Fri, 21 Nov 2025 10:01:37 +0000",
+         "publishedParsed": "2025-11-21T10:01:37Z"
      },
      {
          "title": "Okta's NextJS-0auth troubles",
@@ -150,6 +190,26 @@
          "publishedParsed": "2025-11-18T10:17:20Z"
      },
      {
+         "title": "Data-at-Rest Encryption in DuckDB",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45996585\"\u003eComments\u003c/a\u003e",
+         "link": "https://duckdb.org/2025/11/19/encryption-in-duckdb",
+         "links": [
+             "https://duckdb.org/2025/11/19/encryption-in-duckdb"
+         ],
+         "published": "Thu, 20 Nov 2025 19:26:12 +0000",
+         "publishedParsed": "2025-11-20T19:26:12Z"
+     },
+     {
+         "title": "Hilbert space: Treating functions as vectors",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45913281\"\u003eComments\u003c/a\u003e",
+         "link": "https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/",
+         "links": [
+             "https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/"
+         ],
+         "published": "Thu, 13 Nov 2025 10:41:08 +0000",
+         "publishedParsed": "2025-11-13T10:41:08Z"
+     },
+     {
          "title": "NTSB Preliminary Report – UPS Boeing MD-11F Crash [pdf]",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45995834\"\u003eComments\u003c/a\u003e",
          "link": "https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf",
@@ -158,16 +218,6 @@
          ],
          "published": "Thu, 20 Nov 2025 18:20:59 +0000",
          "publishedParsed": "2025-11-20T18:20:59Z"
-     },
-     {
-         "title": "The Lions Operating System",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45995816\"\u003eComments\u003c/a\u003e",
-         "link": "https://lionsos.org",
-         "links": [
-             "https://lionsos.org"
-         ],
-         "published": "Thu, 20 Nov 2025 18:19:31 +0000",
-         "publishedParsed": "2025-11-20T18:19:31Z"
      },
      {
          "title": "Free interactive tool that shows you how PCIe lanes work on motherboards",
@@ -180,14 +230,14 @@
          "publishedParsed": "2025-11-19T07:13:00Z"
      },
      {
-         "title": "Hilbert space: Treating functions as vectors",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45913281\"\u003eComments\u003c/a\u003e",
-         "link": "https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/",
+         "title": "The Lions Operating System",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45995816\"\u003eComments\u003c/a\u003e",
+         "link": "https://lionsos.org",
          "links": [
-             "https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/"
+             "https://lionsos.org"
          ],
-         "published": "Thu, 13 Nov 2025 10:41:08 +0000",
-         "publishedParsed": "2025-11-13T10:41:08Z"
+         "published": "Thu, 20 Nov 2025 18:19:31 +0000",
+         "publishedParsed": "2025-11-20T18:19:31Z"
      },
      {
          "title": "Show HN: F32 – An Extremely Small ESP32 Board",
@@ -220,53 +270,13 @@
          "publishedParsed": "2025-11-20T12:01:26Z"
      },
      {
-         "title": "Show HN: My hobby OS that runs Minecraft",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45958988\"\u003eComments\u003c/a\u003e",
-         "link": "https://astral-os.org/posts/2025/10/31/astral-minecraft.html",
+         "title": "Color Spaces, Bitmaps and Pumpkins",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45938314\"\u003eComments\u003c/a\u003e",
+         "link": "https://pmig96.wordpress.com/2025/11/12/color-spaces-bitmaps-and-pumpkins/",
          "links": [
-             "https://astral-os.org/posts/2025/10/31/astral-minecraft.html"
+             "https://pmig96.wordpress.com/2025/11/12/color-spaces-bitmaps-and-pumpkins/"
          ],
-         "published": "Mon, 17 Nov 2025 22:15:44 +0000",
-         "publishedParsed": "2025-11-17T22:15:44Z"
-     },
-     {
-         "title": "Two recently found works of J.S. Bach presented in Leipzig [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45957743\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=4hXzUGYIL9M#t=15m19s",
-         "links": [
-             "https://www.youtube.com/watch?v=4hXzUGYIL9M#t=15m19s"
-         ],
-         "published": "Mon, 17 Nov 2025 20:13:54 +0000",
-         "publishedParsed": "2025-11-17T20:13:54Z"
-     },
-     {
-         "title": "GitHut – Programming Languages and GitHub (2014)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45998047\"\u003eComments\u003c/a\u003e",
-         "link": "https://githut.info/",
-         "links": [
-             "https://githut.info/"
-         ],
-         "published": "Thu, 20 Nov 2025 21:33:37 +0000",
-         "publishedParsed": "2025-11-20T21:33:37Z"
-     },
-     {
-         "title": "Interactive World History Atlas Since 3000 BC",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45990934\"\u003eComments\u003c/a\u003e",
-         "link": "http://geacron.com/home-en/",
-         "links": [
-             "http://geacron.com/home-en/"
-         ],
-         "published": "Thu, 20 Nov 2025 09:52:11 +0000",
-         "publishedParsed": "2025-11-20T09:52:11Z"
-     },
-     {
-         "title": "Microsoft makes Zork open-source",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45995740\"\u003eComments\u003c/a\u003e",
-         "link": "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source",
-         "links": [
-             "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source"
-         ],
-         "published": "Thu, 20 Nov 2025 18:13:39 +0000",
-         "publishedParsed": "2025-11-20T18:13:39Z"
+         "published": "Sat, 15 Nov 2025 16:03:54 +0000",
+         "publishedParsed": "2025-11-15T16:03:54Z"
      }
  ]
