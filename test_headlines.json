@@ -10,6 +10,16 @@
          "publishedParsed": "2025-11-24T18:52:12Z"
      },
      {
+         "title": "Claude Advanced Tool Use",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46038047\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.anthropic.com/engineering/advanced-tool-use",
+         "links": [
+             "https://www.anthropic.com/engineering/advanced-tool-use"
+         ],
+         "published": "Mon, 24 Nov 2025 19:21:35 +0000",
+         "publishedParsed": "2025-11-24T19:21:35Z"
+     },
+     {
          "title": "Claude Opus 4.5",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037637\"\u003eComments\u003c/a\u003e",
          "link": "https://www.anthropic.com/news/claude-opus-4-5",
@@ -18,46 +28,6 @@
          ],
          "published": "Mon, 24 Nov 2025 18:53:05 +0000",
          "publishedParsed": "2025-11-24T18:53:05Z"
-     },
-     {
-         "title": "Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46036895\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Swordfish90/cool-retro-term",
-         "links": [
-             "https://github.com/Swordfish90/cool-retro-term"
-         ],
-         "published": "Mon, 24 Nov 2025 17:52:01 +0000",
-         "publishedParsed": "2025-11-24T17:52:01Z"
-     },
-     {
-         "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46032539\"\u003eComments\u003c/a\u003e",
-         "link": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
-         "links": [
-             "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24"
-         ],
-         "published": "Mon, 24 Nov 2025 10:40:22 +0000",
-         "publishedParsed": "2025-11-24T10:40:22Z"
-     },
-     {
-         "title": "Mind-reading devices can now predict preconscious thoughts",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037267\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nature.com/articles/d41586-025-03714-0",
-         "links": [
-             "https://www.nature.com/articles/d41586-025-03714-0"
-         ],
-         "published": "Mon, 24 Nov 2025 18:26:09 +0000",
-         "publishedParsed": "2025-11-24T18:26:09Z"
-     },
-     {
-         "title": "The Bitter Lesson of LLM Extensions",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037343\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.sawyerhood.com/blog/llm-extension",
-         "links": [
-             "https://www.sawyerhood.com/blog/llm-extension"
-         ],
-         "published": "Mon, 24 Nov 2025 18:32:27 +0000",
-         "publishedParsed": "2025-11-24T18:32:27Z"
      },
      {
          "title": "TSMC Arizona Outage Saw Fab Halt, Apple Wafers Scrapped",
@@ -70,14 +40,24 @@
          "publishedParsed": "2025-11-24T18:30:48Z"
      },
      {
-         "title": "Moving from OpenBSD to FreeBSD for firewalls",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45980474\"\u003eComments\u003c/a\u003e",
-         "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove",
+         "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46032539\"\u003eComments\u003c/a\u003e",
+         "link": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
          "links": [
-             "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove"
+             "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24"
          ],
-         "published": "Wed, 19 Nov 2025 15:07:35 +0000",
-         "publishedParsed": "2025-11-19T15:07:35Z"
+         "published": "Mon, 24 Nov 2025 10:40:22 +0000",
+         "publishedParsed": "2025-11-24T10:40:22Z"
+     },
+     {
+         "title": "Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46036895\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/Swordfish90/cool-retro-term",
+         "links": [
+             "https://github.com/Swordfish90/cool-retro-term"
+         ],
+         "published": "Mon, 24 Nov 2025 17:52:01 +0000",
+         "publishedParsed": "2025-11-24T17:52:01Z"
      },
      {
          "title": "Three Years from GPT-3 to Gemini 3",
@@ -90,104 +70,34 @@
          "publishedParsed": "2025-11-23T01:25:17Z"
      },
      {
-         "title": "Claude Advanced Tool Use",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46038047\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.anthropic.com/engineering/advanced-tool-use",
+         "title": "The Bitter Lesson of LLM Extensions",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037343\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.sawyerhood.com/blog/llm-extension",
          "links": [
-             "https://www.anthropic.com/engineering/advanced-tool-use"
+             "https://www.sawyerhood.com/blog/llm-extension"
          ],
-         "published": "Mon, 24 Nov 2025 19:21:35 +0000",
-         "publishedParsed": "2025-11-24T19:21:35Z"
+         "published": "Mon, 24 Nov 2025 18:32:27 +0000",
+         "publishedParsed": "2025-11-24T18:32:27Z"
      },
      {
-         "title": "Corvus Robotics (YC S18): Hiring Head of Mfg/Ops, Next Door to YC Mountain View",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46036222\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=46036222",
+         "title": "Moving from OpenBSD to FreeBSD for firewalls",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45980474\"\u003eComments\u003c/a\u003e",
+         "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove",
          "links": [
-             "https://news.ycombinator.com/item?id=46036222"
+             "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove"
          ],
-         "published": "Mon, 24 Nov 2025 17:00:33 +0000",
-         "publishedParsed": "2025-11-24T17:00:33Z"
+         "published": "Wed, 19 Nov 2025 15:07:35 +0000",
+         "publishedParsed": "2025-11-19T15:07:35Z"
      },
      {
-         "title": "Inside Rust's std and parking_lot mutexes – who wins?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45989284\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win",
+         "title": "PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46038143\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026",
          "links": [
-             "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win"
+             "https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026"
          ],
-         "published": "Thu, 20 Nov 2025 05:32:13 +0000",
-         "publishedParsed": "2025-11-20T05:32:13Z"
-     },
-     {
-         "title": "Launch HN: Karumi (YC F25) – Personalized, agentic product demos",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037416\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=46037416",
-         "links": [
-             "https://news.ycombinator.com/item?id=46037416"
-         ],
-         "published": "Mon, 24 Nov 2025 18:37:27 +0000",
-         "publishedParsed": "2025-11-24T18:37:27Z"
-     },
-     {
-         "title": "Chrome Jpegxl Issue Reopened",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46033330\"\u003eComments\u003c/a\u003e",
-         "link": "https://issues.chromium.org/issues/40168998",
-         "links": [
-             "https://issues.chromium.org/issues/40168998"
-         ],
-         "published": "Mon, 24 Nov 2025 12:23:02 +0000",
-         "publishedParsed": "2025-11-24T12:23:02Z"
-     },
-     {
-         "title": "Implications of AI to schools",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46036878\"\u003eComments\u003c/a\u003e",
-         "link": "https://twitter.com/karpathy/status/1993010584175141038",
-         "links": [
-             "https://twitter.com/karpathy/status/1993010584175141038"
-         ],
-         "published": "Mon, 24 Nov 2025 17:51:02 +0000",
-         "publishedParsed": "2025-11-24T17:51:02Z"
-     },
-     {
-         "title": "GrapheneOS migrates server infrastructure from France",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037573\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.privacyguides.org/news/2025/11/22/grapheneos-migrates-server-infrastructure-from-france-amid-police-intimidation-claims/",
-         "links": [
-             "https://www.privacyguides.org/news/2025/11/22/grapheneos-migrates-server-infrastructure-from-france-amid-police-intimidation-claims/"
-         ],
-         "published": "Mon, 24 Nov 2025 18:48:04 +0000",
-         "publishedParsed": "2025-11-24T18:48:04Z"
-     },
-     {
-         "title": "Shopping research in ChatGPT",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037056\"\u003eComments\u003c/a\u003e",
-         "link": "https://openai.com/index/chatgpt-shopping-research/",
-         "links": [
-             "https://openai.com/index/chatgpt-shopping-research/"
-         ],
-         "published": "Mon, 24 Nov 2025 18:07:47 +0000",
-         "publishedParsed": "2025-11-24T18:07:47Z"
-     },
-     {
-         "title": "The history of Indian science fiction",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46013478\"\u003eComments\u003c/a\u003e",
-         "link": "https://altermag.com/articles/the-secret-history-of-indian-science-fiction",
-         "links": [
-             "https://altermag.com/articles/the-secret-history-of-indian-science-fiction"
-         ],
-         "published": "Sat, 22 Nov 2025 09:41:46 +0000",
-         "publishedParsed": "2025-11-22T09:41:46Z"
-     },
-     {
-         "title": "Is your Android TV streaming box part of a botnet?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037556\"\u003eComments\u003c/a\u003e",
-         "link": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
-         "links": [
-             "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/"
-         ],
-         "published": "Mon, 24 Nov 2025 18:47:11 +0000",
-         "publishedParsed": "2025-11-24T18:47:11Z"
+         "published": "Mon, 24 Nov 2025 19:29:12 +0000",
+         "publishedParsed": "2025-11-24T19:29:12Z"
      },
      {
          "title": "Show HN: I built an interactive HN Simulator",
@@ -200,24 +110,124 @@
          "publishedParsed": "2025-11-24T17:52:43Z"
      },
      {
-         "title": "Serflings is a remake of The Settlers 1",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46013132\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.simpleguide.net/serflings.xhtml",
+         "title": "Mind-reading devices can now predict preconscious thoughts",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037267\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nature.com/articles/d41586-025-03714-0",
          "links": [
-             "https://www.simpleguide.net/serflings.xhtml"
+             "https://www.nature.com/articles/d41586-025-03714-0"
          ],
-         "published": "Sat, 22 Nov 2025 08:26:13 +0000",
-         "publishedParsed": "2025-11-22T08:26:13Z"
+         "published": "Mon, 24 Nov 2025 18:26:09 +0000",
+         "publishedParsed": "2025-11-24T18:26:09Z"
      },
      {
-         "title": "Ask HN: Scheduling stateful nodes when MMAP makes memory accounting a lie",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46036614\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=46036614",
+         "title": "You can see a working Quantum Computer in IBM's London office",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46014685\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ianvisits.co.uk/articles/you-can-see-a-working-quantum-computer-in-ibms-london-office-85464/",
          "links": [
-             "https://news.ycombinator.com/item?id=46036614"
+             "https://www.ianvisits.co.uk/articles/you-can-see-a-working-quantum-computer-in-ibms-london-office-85464/"
          ],
-         "published": "Mon, 24 Nov 2025 17:30:40 +0000",
-         "publishedParsed": "2025-11-24T17:30:40Z"
+         "published": "Sat, 22 Nov 2025 13:36:02 +0000",
+         "publishedParsed": "2025-11-22T13:36:02Z"
+     },
+     {
+         "title": "Inside Rust's std and parking_lot mutexes – who wins?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45989284\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win",
+         "links": [
+             "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win"
+         ],
+         "published": "Thu, 20 Nov 2025 05:32:13 +0000",
+         "publishedParsed": "2025-11-20T05:32:13Z"
+     },
+     {
+         "title": "Chrome Jpegxl Issue Reopened",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46033330\"\u003eComments\u003c/a\u003e",
+         "link": "https://issues.chromium.org/issues/40168998",
+         "links": [
+             "https://issues.chromium.org/issues/40168998"
+         ],
+         "published": "Mon, 24 Nov 2025 12:23:02 +0000",
+         "publishedParsed": "2025-11-24T12:23:02Z"
+     },
+     {
+         "title": "Corvus Robotics (YC S18): Hiring Head of Mfg/Ops, Next Door to YC Mountain View",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46036222\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=46036222",
+         "links": [
+             "https://news.ycombinator.com/item?id=46036222"
+         ],
+         "published": "Mon, 24 Nov 2025 17:00:33 +0000",
+         "publishedParsed": "2025-11-24T17:00:33Z"
+     },
+     {
+         "title": "The history of Indian science fiction",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46013478\"\u003eComments\u003c/a\u003e",
+         "link": "https://altermag.com/articles/the-secret-history-of-indian-science-fiction",
+         "links": [
+             "https://altermag.com/articles/the-secret-history-of-indian-science-fiction"
+         ],
+         "published": "Sat, 22 Nov 2025 09:41:46 +0000",
+         "publishedParsed": "2025-11-22T09:41:46Z"
+     },
+     {
+         "title": "Implications of AI to schools",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46036878\"\u003eComments\u003c/a\u003e",
+         "link": "https://twitter.com/karpathy/status/1993010584175141038",
+         "links": [
+             "https://twitter.com/karpathy/status/1993010584175141038"
+         ],
+         "published": "Mon, 24 Nov 2025 17:51:02 +0000",
+         "publishedParsed": "2025-11-24T17:51:02Z"
+     },
+     {
+         "title": "Launch HN: Karumi (YC F25) – Personalized, agentic product demos",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037416\"\u003eComments\u003c/a\u003e",
+         "link": "http://karumi.ai/",
+         "links": [
+             "http://karumi.ai/"
+         ],
+         "published": "Mon, 24 Nov 2025 18:37:27 +0000",
+         "publishedParsed": "2025-11-24T18:37:27Z"
+     },
+     {
+         "title": "What OpenAI did when ChatGPT users lost touch with reality",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46030799\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html",
+         "links": [
+             "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html"
+         ],
+         "published": "Mon, 24 Nov 2025 05:58:08 +0000",
+         "publishedParsed": "2025-11-24T05:58:08Z"
+     },
+     {
+         "title": "GrapheneOS migrates server infrastructure from France",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037573\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.privacyguides.org/news/2025/11/22/grapheneos-migrates-server-infrastructure-from-france-amid-police-intimidation-claims/",
+         "links": [
+             "https://www.privacyguides.org/news/2025/11/22/grapheneos-migrates-server-infrastructure-from-france-amid-police-intimidation-claims/"
+         ],
+         "published": "Mon, 24 Nov 2025 18:48:04 +0000",
+         "publishedParsed": "2025-11-24T18:48:04Z"
+     },
+     {
+         "title": "The Arithmetic of Braids (2022)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46031068\"\u003eComments\u003c/a\u003e",
+         "link": "https://mathcenter.oxford.emory.edu/site/math108/braid_arithmetic/",
+         "links": [
+             "https://mathcenter.oxford.emory.edu/site/math108/braid_arithmetic/"
+         ],
+         "published": "Mon, 24 Nov 2025 06:44:57 +0000",
+         "publishedParsed": "2025-11-24T06:44:57Z"
+     },
+     {
+         "title": "Show HN: Search London StreetView panoramas by text",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45995913\"\u003eComments\u003c/a\u003e",
+         "link": "https://london.publicinsights.uk",
+         "links": [
+             "https://london.publicinsights.uk"
+         ],
+         "published": "Thu, 20 Nov 2025 18:27:51 +0000",
+         "publishedParsed": "2025-11-20T18:27:51Z"
      },
      {
          "title": "The only GM EV1 ever publicly sold",
@@ -240,34 +250,24 @@
          "publishedParsed": "2025-11-23T16:06:46Z"
      },
      {
-         "title": "The Arithmetic of Braids (2022)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46031068\"\u003eComments\u003c/a\u003e",
-         "link": "https://mathcenter.oxford.emory.edu/site/math108/braid_arithmetic/",
+         "title": "Serflings is a remake of The Settlers 1",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46013132\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.simpleguide.net/serflings.xhtml",
          "links": [
-             "https://mathcenter.oxford.emory.edu/site/math108/braid_arithmetic/"
+             "https://www.simpleguide.net/serflings.xhtml"
          ],
-         "published": "Mon, 24 Nov 2025 06:44:57 +0000",
-         "publishedParsed": "2025-11-24T06:44:57Z"
+         "published": "Sat, 22 Nov 2025 08:26:13 +0000",
+         "publishedParsed": "2025-11-22T08:26:13Z"
      },
      {
-         "title": "Historically Accurate Airport Dioramas by AV Pro Designs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45996527\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.core77.com/posts/138995/Historically-Accurate-Airport-Dioramas-by-AV-Pro-Designs",
+         "title": "Is your Android TV streaming box part of a botnet?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037556\"\u003eComments\u003c/a\u003e",
+         "link": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
          "links": [
-             "https://www.core77.com/posts/138995/Historically-Accurate-Airport-Dioramas-by-AV-Pro-Designs"
+             "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/"
          ],
-         "published": "Thu, 20 Nov 2025 19:21:27 +0000",
-         "publishedParsed": "2025-11-20T19:21:27Z"
-     },
-     {
-         "title": "Show HN: Cynthia – Reliably play MIDI music files – MIT / Portable / Windows",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46034145\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.blaizenterprises.com/cynthia.html",
-         "links": [
-             "https://www.blaizenterprises.com/cynthia.html"
-         ],
-         "published": "Mon, 24 Nov 2025 13:58:05 +0000",
-         "publishedParsed": "2025-11-24T13:58:05Z"
+         "published": "Mon, 24 Nov 2025 18:47:11 +0000",
+         "publishedParsed": "2025-11-24T18:47:11Z"
      },
      {
          "title": "Disney Lost Roger Rabbit",
@@ -280,13 +280,13 @@
          "publishedParsed": "2025-11-18T16:54:22Z"
      },
      {
-         "title": "RuBee",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46029932\"\u003eComments\u003c/a\u003e",
-         "link": "https://computer.rip/2025-11-22-RuBee.html",
+         "title": "Historically Accurate Airport Dioramas by AV Pro Designs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45996527\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.core77.com/posts/138995/Historically-Accurate-Airport-Dioramas-by-AV-Pro-Designs",
          "links": [
-             "https://computer.rip/2025-11-22-RuBee.html"
+             "https://www.core77.com/posts/138995/Historically-Accurate-Airport-Dioramas-by-AV-Pro-Designs"
          ],
-         "published": "Mon, 24 Nov 2025 03:08:10 +0000",
-         "publishedParsed": "2025-11-24T03:08:10Z"
+         "published": "Thu, 20 Nov 2025 19:21:27 +0000",
+         "publishedParsed": "2025-11-20T19:21:27Z"
      }
  ]
