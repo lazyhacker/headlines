@@ -10,16 +10,6 @@
          "publishedParsed": "2025-11-24T18:52:12Z"
      },
      {
-         "title": "Claude Advanced Tool Use",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46038047\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.anthropic.com/engineering/advanced-tool-use",
-         "links": [
-             "https://www.anthropic.com/engineering/advanced-tool-use"
-         ],
-         "published": "Mon, 24 Nov 2025 19:21:35 +0000",
-         "publishedParsed": "2025-11-24T19:21:35Z"
-     },
-     {
          "title": "Unpowered SSDs slowly lose data",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46038099\"\u003eComments\u003c/a\u003e",
          "link": "https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/",
@@ -30,27 +20,17 @@
          "publishedParsed": "2025-11-24T19:25:25Z"
      },
      {
-         "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46032539\"\u003eComments\u003c/a\u003e",
-         "link": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
+         "title": "Claude Advanced Tool Use",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46038047\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.anthropic.com/engineering/advanced-tool-use",
          "links": [
-             "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24"
+             "https://www.anthropic.com/engineering/advanced-tool-use"
          ],
-         "published": "Mon, 24 Nov 2025 10:40:22 +0000",
-         "publishedParsed": "2025-11-24T10:40:22Z"
+         "published": "Mon, 24 Nov 2025 19:21:35 +0000",
+         "publishedParsed": "2025-11-24T19:21:35Z"
      },
      {
-         "title": "Three Years from GPT-3 to Gemini 3",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46019898\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini",
-         "links": [
-             "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini"
-         ],
-         "published": "Sun, 23 Nov 2025 01:25:17 +0000",
-         "publishedParsed": "2025-11-23T01:25:17Z"
-     },
-     {
-         "title": "Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs",
+         "title": "Cool-retro-term: terminal emulator which mimics look and feel of CRTs",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46036895\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/Swordfish90/cool-retro-term",
          "links": [
@@ -58,6 +38,16 @@
          ],
          "published": "Mon, 24 Nov 2025 17:52:01 +0000",
          "publishedParsed": "2025-11-24T17:52:01Z"
+     },
+     {
+         "title": "Show HN: I built an interactive HN Simulator",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46036908\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ysimulator.run/news",
+         "links": [
+             "https://news.ysimulator.run/news"
+         ],
+         "published": "Mon, 24 Nov 2025 17:52:43 +0000",
+         "publishedParsed": "2025-11-24T17:52:43Z"
      },
      {
          "title": "Claude Opus 4.5",
@@ -70,14 +60,24 @@
          "publishedParsed": "2025-11-24T18:53:05Z"
      },
      {
-         "title": "Show HN: I built an interactive HN Simulator",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46036908\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ysimulator.run/news",
+         "title": "Build a Compiler in Five Projects",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46031220\"\u003eComments\u003c/a\u003e",
+         "link": "https://kmicinski.com/functional-programming/2025/11/23/build-a-language/",
          "links": [
-             "https://news.ysimulator.run/news"
+             "https://kmicinski.com/functional-programming/2025/11/23/build-a-language/"
          ],
-         "published": "Mon, 24 Nov 2025 17:52:43 +0000",
-         "publishedParsed": "2025-11-24T17:52:43Z"
+         "published": "Mon, 24 Nov 2025 07:14:55 +0000",
+         "publishedParsed": "2025-11-24T07:14:55Z"
+     },
+     {
+         "title": "Three Years from GPT-3 to Gemini 3",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46019898\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini",
+         "links": [
+             "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini"
+         ],
+         "published": "Sun, 23 Nov 2025 01:25:17 +0000",
+         "publishedParsed": "2025-11-23T01:25:17Z"
      },
      {
          "title": "Random lasers from peanut kernel doped with birch leaf–derived carbon dots",
@@ -100,26 +100,6 @@
          "publishedParsed": "2025-11-19T15:07:35Z"
      },
      {
-         "title": "The Bitter Lesson of LLM Extensions",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037343\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.sawyerhood.com/blog/llm-extension",
-         "links": [
-             "https://www.sawyerhood.com/blog/llm-extension"
-         ],
-         "published": "Mon, 24 Nov 2025 18:32:27 +0000",
-         "publishedParsed": "2025-11-24T18:32:27Z"
-     },
-     {
-         "title": "Neopets.com changed my life (2019)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45974732\"\u003eComments\u003c/a\u003e",
-         "link": "https://annastreetman.com/2019/05/19/how-neopets-com-changed-my-life/",
-         "links": [
-             "https://annastreetman.com/2019/05/19/how-neopets-com-changed-my-life/"
-         ],
-         "published": "Wed, 19 Nov 2025 01:24:12 +0000",
-         "publishedParsed": "2025-11-19T01:24:12Z"
-     },
-     {
          "title": "Show HN: OCR Arena – A playground for OCR models",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46006104\"\u003eComments\u003c/a\u003e",
          "link": "https://www.ocrarena.ai/battle",
@@ -128,16 +108,6 @@
          ],
          "published": "Fri, 21 Nov 2025 16:44:45 +0000",
          "publishedParsed": "2025-11-21T16:44:45Z"
-     },
-     {
-         "title": "Build a Compiler in Five Projects",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46031220\"\u003eComments\u003c/a\u003e",
-         "link": "https://kmicinski.com/functional-programming/2025/11/23/build-a-language/",
-         "links": [
-             "https://kmicinski.com/functional-programming/2025/11/23/build-a-language/"
-         ],
-         "published": "Mon, 24 Nov 2025 07:14:55 +0000",
-         "publishedParsed": "2025-11-24T07:14:55Z"
      },
      {
          "title": "What OpenAI did when ChatGPT users lost touch with reality",
@@ -150,14 +120,24 @@
          "publishedParsed": "2025-11-24T05:58:08Z"
      },
      {
-         "title": "PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46038143\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026",
+         "title": "The Bitter Lesson of LLM Extensions",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037343\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.sawyerhood.com/blog/llm-extension",
          "links": [
-             "https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026"
+             "https://www.sawyerhood.com/blog/llm-extension"
          ],
-         "published": "Mon, 24 Nov 2025 19:29:12 +0000",
-         "publishedParsed": "2025-11-24T19:29:12Z"
+         "published": "Mon, 24 Nov 2025 18:32:27 +0000",
+         "publishedParsed": "2025-11-24T18:32:27Z"
+     },
+     {
+         "title": "Show HN: Hypercamera – a browser-based 4D camera simulator",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45979520\"\u003eComments\u003c/a\u003e",
+         "link": "https://dugas.ch/4d_creatures/4d_camera.html",
+         "links": [
+             "https://dugas.ch/4d_creatures/4d_camera.html"
+         ],
+         "published": "Wed, 19 Nov 2025 13:54:04 +0000",
+         "publishedParsed": "2025-11-19T13:54:04Z"
      },
      {
          "title": "Chrome Jpegxl Issue Reopened",
@@ -170,24 +150,44 @@
          "publishedParsed": "2025-11-24T12:23:02Z"
      },
      {
-         "title": "Bytes before FLOPS: your algorithm is (mostly) fine, your data isn't",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46024402\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bitsdraumar.is/bytes-before-flops/",
+         "title": "Google's new 'Aluminium OS' project brings Android to PC",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037591\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/",
          "links": [
-             "https://www.bitsdraumar.is/bytes-before-flops/"
+             "https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/"
          ],
-         "published": "Sun, 23 Nov 2025 15:47:50 +0000",
-         "publishedParsed": "2025-11-23T15:47:50Z"
+         "published": "Mon, 24 Nov 2025 18:49:47 +0000",
+         "publishedParsed": "2025-11-24T18:49:47Z"
      },
      {
-         "title": "Everything you need to know about hard drive vibration (2016)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45994124\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ept.ca/features/everything-need-know-hard-drive-vibration/",
+         "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46032539\"\u003eComments\u003c/a\u003e",
+         "link": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
          "links": [
-             "https://www.ept.ca/features/everything-need-know-hard-drive-vibration/"
+             "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24"
          ],
-         "published": "Thu, 20 Nov 2025 16:07:22 +0000",
-         "publishedParsed": "2025-11-20T16:07:22Z"
+         "published": "Mon, 24 Nov 2025 10:40:22 +0000",
+         "publishedParsed": "2025-11-24T10:40:22Z"
+     },
+     {
+         "title": "Mind-reading devices can now predict preconscious thoughts",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037267\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nature.com/articles/d41586-025-03714-0",
+         "links": [
+             "https://www.nature.com/articles/d41586-025-03714-0"
+         ],
+         "published": "Mon, 24 Nov 2025 18:26:09 +0000",
+         "publishedParsed": "2025-11-24T18:26:09Z"
+     },
+     {
+         "title": "PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46038143\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026",
+         "links": [
+             "https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026"
+         ],
+         "published": "Mon, 24 Nov 2025 19:29:12 +0000",
+         "publishedParsed": "2025-11-24T19:29:12Z"
      },
      {
          "title": "How sea turtles learn locations using Earth’s magnetic field: research",
@@ -210,34 +210,24 @@
          "publishedParsed": "2025-11-24T09:40:32Z"
      },
      {
-         "title": "Google's new 'Aluminium OS' project brings Android to PC",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037591\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/",
+         "title": "A fast EDN (Extensible Data Notation) reader written in C11 with SIMD boost",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46032230\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/DotFox/edn.c",
          "links": [
-             "https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/"
+             "https://github.com/DotFox/edn.c"
          ],
-         "published": "Mon, 24 Nov 2025 18:49:47 +0000",
-         "publishedParsed": "2025-11-24T18:49:47Z"
+         "published": "Mon, 24 Nov 2025 09:51:45 +0000",
+         "publishedParsed": "2025-11-24T09:51:45Z"
      },
      {
-         "title": "TSMC Arizona outage saw fab halt, Apple wafers scrapped",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037324\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt",
+         "title": "Using Antigravity for Statistical Physics in JavaScript",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46010540\"\u003eComments\u003c/a\u003e",
+         "link": "https://christopherkrapu.com/blog/2025/antigravity-stat-mech/",
          "links": [
-             "https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt"
+             "https://christopherkrapu.com/blog/2025/antigravity-stat-mech/"
          ],
-         "published": "Mon, 24 Nov 2025 18:30:48 +0000",
-         "publishedParsed": "2025-11-24T18:30:48Z"
-     },
-     {
-         "title": "Corvus Robotics (YC S18): Hiring Head of Mfg/Ops, Next Door to YC Mountain View",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46036222\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=46036222",
-         "links": [
-             "https://news.ycombinator.com/item?id=46036222"
-         ],
-         "published": "Mon, 24 Nov 2025 17:00:33 +0000",
-         "publishedParsed": "2025-11-24T17:00:33Z"
+         "published": "Fri, 21 Nov 2025 23:53:42 +0000",
+         "publishedParsed": "2025-11-21T23:53:42Z"
      },
      {
          "title": "Building the largest known Kubernetes cluster",
@@ -250,24 +240,14 @@
          "publishedParsed": "2025-11-21T17:56:50Z"
      },
      {
-         "title": "Mind-reading devices can now predict preconscious thoughts",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037267\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nature.com/articles/d41586-025-03714-0",
+         "title": "Bytes before FLOPS: your algorithm is (mostly) fine, your data isn't",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46024402\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bitsdraumar.is/bytes-before-flops/",
          "links": [
-             "https://www.nature.com/articles/d41586-025-03714-0"
+             "https://www.bitsdraumar.is/bytes-before-flops/"
          ],
-         "published": "Mon, 24 Nov 2025 18:26:09 +0000",
-         "publishedParsed": "2025-11-24T18:26:09Z"
-     },
-     {
-         "title": "The history of Indian science fiction",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46013478\"\u003eComments\u003c/a\u003e",
-         "link": "https://altermag.com/articles/the-secret-history-of-indian-science-fiction",
-         "links": [
-             "https://altermag.com/articles/the-secret-history-of-indian-science-fiction"
-         ],
-         "published": "Sat, 22 Nov 2025 09:41:46 +0000",
-         "publishedParsed": "2025-11-22T09:41:46Z"
+         "published": "Sun, 23 Nov 2025 15:47:50 +0000",
+         "publishedParsed": "2025-11-23T15:47:50Z"
      },
      {
          "title": "Inside Rust's std and parking_lot mutexes – who wins?",
@@ -280,16 +260,6 @@
          "publishedParsed": "2025-11-20T05:32:13Z"
      },
      {
-         "title": "A fast EDN (Extensible Data Notation) reader written in C11 with SIMD boost",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46032230\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/DotFox/edn.c",
-         "links": [
-             "https://github.com/DotFox/edn.c"
-         ],
-         "published": "Mon, 24 Nov 2025 09:51:45 +0000",
-         "publishedParsed": "2025-11-24T09:51:45Z"
-     },
-     {
          "title": "You can see a working Quantum Computer in IBM's London office",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46014685\"\u003eComments\u003c/a\u003e",
          "link": "https://www.ianvisits.co.uk/articles/you-can-see-a-working-quantum-computer-in-ibms-london-office-85464/",
@@ -298,5 +268,35 @@
          ],
          "published": "Sat, 22 Nov 2025 13:36:02 +0000",
          "publishedParsed": "2025-11-22T13:36:02Z"
+     },
+     {
+         "title": "Corvus Robotics (YC S18): Hiring Head of Mfg/Ops, Next Door to YC Mountain View",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46036222\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=46036222",
+         "links": [
+             "https://news.ycombinator.com/item?id=46036222"
+         ],
+         "published": "Mon, 24 Nov 2025 17:00:33 +0000",
+         "publishedParsed": "2025-11-24T17:00:33Z"
+     },
+     {
+         "title": "TSMC Arizona outage saw fab halt, Apple wafers scrapped",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037324\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt",
+         "links": [
+             "https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt"
+         ],
+         "published": "Mon, 24 Nov 2025 18:30:48 +0000",
+         "publishedParsed": "2025-11-24T18:30:48Z"
+     },
+     {
+         "title": "The history of Indian science fiction",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46013478\"\u003eComments\u003c/a\u003e",
+         "link": "https://altermag.com/articles/the-secret-history-of-indian-science-fiction",
+         "links": [
+             "https://altermag.com/articles/the-secret-history-of-indian-science-fiction"
+         ],
+         "published": "Sat, 22 Nov 2025 09:41:46 +0000",
+         "publishedParsed": "2025-11-22T09:41:46Z"
      }
  ]
