@@ -343,12 +343,12 @@
              "url": "https://static01.nyt.com/images/2025/11/24/multimedia/24WELL-APNEA-PARKINSONS1-vmhj/24WELL-APNEA-PARKINSONS1-vmhj-mediumSquareAt3X.jpg"
          },
          "categories": [
-             "Sleep",
-             "Research",
              "Apnea (Sleep Disorder)",
              "Parkinson's Disease",
+             "Research",
              "Brain",
-             "Veterans"
+             "Veterans",
+             "JAMA Neurology (Journal)"
          ],
          "dcExt": {
              "creator": [
@@ -405,39 +405,37 @@
          }
      },
      {
-         "title": "The Best Baseball Team Behind Bars",
-         "description": "The San Quentin Giants’ opponents are impressed. But what about the parole board that decides the players’ fate?",
-         "link": "https://www.nytimes.com/2025/11/24/us/san-quentin-prison-baseball-team.html",
+         "title": "Ozempic Drug Fails to Quell Alzheimer’s in Novo Nordisk Trials",
+         "description": "The studies were a significant setback for the optimistic view that semaglutide and other GLP-1 drugs could help prevent a number of brain diseases.",
+         "link": "https://www.nytimes.com/2025/11/24/health/ozempic-wegovy-alzheimers-novo-nordisk.html",
          "links": [
-             "https://www.nytimes.com/2025/11/24/us/san-quentin-prison-baseball-team.html"
+             "https://www.nytimes.com/2025/11/24/health/ozempic-wegovy-alzheimers-novo-nordisk.html"
          ],
-         "published": "Mon, 24 Nov 2025 10:01:17 +0000",
-         "publishedParsed": "2025-11-24T10:01:17Z",
+         "published": "Mon, 24 Nov 2025 22:18:18 +0000",
+         "publishedParsed": "2025-11-24T22:18:18Z",
          "author": {
-             "name": "Eli Tan and Brian L. Frank"
+             "name": "Gina Kolata"
          },
          "authors": [
              {
-                 "name": "Eli Tan and Brian L. Frank"
+                 "name": "Gina Kolata"
              }
          ],
-         "guid": "https://www.nytimes.com/2025/11/24/us/san-quentin-prison-baseball-team.html",
+         "guid": "https://www.nytimes.com/2025/11/24/health/ozempic-wegovy-alzheimers-novo-nordisk.html",
          "image": {
-             "url": "https://static01.nyt.com/images/2025/11/11/multimedia/00NAT-SAN-QUENTIN-BASEBALL-jlhg/00NAT-SAN-QUENTIN-BASEBALL-jlhg-mediumSquareAt3X.jpg"
+             "url": "https://static01.nyt.com/images/2025/11/24/multimedia/24HS-GLP1s-alzheimers-hwck/24HS-GLP1s-alzheimers-hwck-mediumSquareAt3X.jpg"
          },
          "categories": [
-             "Baseball",
-             "Prison Guards and Corrections Officers",
-             "Criminal Justice",
-             "San Quentin Giants",
-             "Major League Baseball",
-             "California",
-             "San Quentin (Calif)",
-             "audio-neutral-informative"
+             "Alzheimer's Disease",
+             "GLP-1 RAs (Drug)",
+             "Novo Nordisk A/S",
+             "Clinical Trials",
+             "Brain",
+             "Research"
          ],
          "dcExt": {
              "creator": [
-                 "Eli Tan and Brian L. Frank"
+                 "Gina Kolata"
              ]
          },
          "extensions": {
@@ -447,7 +445,7 @@
                          "name": "link",
                          "value": "",
                          "attrs": {
-                             "href": "https://www.nytimes.com/2025/11/24/us/san-quentin-prison-baseball-team.html",
+                             "href": "https://www.nytimes.com/2025/11/24/health/ozempic-wegovy-alzheimers-novo-nordisk.html",
                              "rel": "standout"
                          },
                          "children": {}
@@ -458,7 +456,7 @@
                  "creator": [
                      {
                          "name": "creator",
-                         "value": "Eli Tan and Brian L. Frank",
+                         "value": "Gina Kolata",
                          "attrs": {},
                          "children": {}
                      }
@@ -472,7 +470,7 @@
                          "attrs": {
                              "height": "1800",
                              "medium": "image",
-                             "url": "https://static01.nyt.com/images/2025/11/11/multimedia/00NAT-SAN-QUENTIN-BASEBALL-jlhg/00NAT-SAN-QUENTIN-BASEBALL-jlhg-mediumSquareAt3X.jpg",
+                             "url": "https://static01.nyt.com/images/2025/11/24/multimedia/24HS-GLP1s-alzheimers-hwck/24HS-GLP1s-alzheimers-hwck-mediumSquareAt3X.jpg",
                              "width": "1800"
                          },
                          "children": {}
@@ -481,7 +479,7 @@
                  "credit": [
                      {
                          "name": "credit",
-                         "value": "Brian L. Frank for The New York Times",
+                         "value": "Hollie Adams/Reuters",
                          "attrs": {},
                          "children": {}
                      }
@@ -489,7 +487,100 @@
                  "description": [
                      {
                          "name": "description",
-                         "value": "San Quentin Rehabilitation Center, formerly known as San Quentin State Prison, was recently downgraded from high-security to low-security.",
+                         "value": "A trial of semaglutide, the miracle drug branded as Ozempic and Wegovy for diabetes and weight loss, failed to find any effect of the drug on cognition and functioning in people with mild cognitive impairment or dementia.",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ]
+             }
+         }
+     },
+     {
+         "title": "Viola Fletcher, Oldest Survivor of the Tulsa Race Massacre, Dies at 111",
+         "description": "At 7, she bore witness to one of American history’s most violent spasms of racial violence. She was 106 when the nation reckoned with the crime.",
+         "link": "https://www.nytimes.com/2025/11/24/us/viola-fletcher-dead.html",
+         "links": [
+             "https://www.nytimes.com/2025/11/24/us/viola-fletcher-dead.html"
+         ],
+         "published": "Mon, 24 Nov 2025 23:24:54 +0000",
+         "publishedParsed": "2025-11-24T23:24:54Z",
+         "author": {
+             "name": "Alex Traub"
+         },
+         "authors": [
+             {
+                 "name": "Alex Traub"
+             }
+         ],
+         "guid": "https://www.nytimes.com/2025/11/24/us/viola-fletcher-dead.html",
+         "image": {
+             "url": "https://static01.nyt.com/images/2023/11/27/multimedia/00fletcher-viola-01-tlfc/00fletcher-viola-01-tlfc-mediumSquareAt3X.jpg"
+         },
+         "categories": [
+             "Tulsa Race Riot (1921)",
+             "Hate Crimes",
+             "Deaths (Obituaries)",
+             "Black People",
+             "Reparations",
+             "Fletcher, Viola Ford",
+             "Randle, Lessie Benningfield",
+             "Race and Ethnicity"
+         ],
+         "dcExt": {
+             "creator": [
+                 "Alex Traub"
+             ]
+         },
+         "extensions": {
+             "atom": {
+                 "link": [
+                     {
+                         "name": "link",
+                         "value": "",
+                         "attrs": {
+                             "href": "https://www.nytimes.com/2025/11/24/us/viola-fletcher-dead.html",
+                             "rel": "standout"
+                         },
+                         "children": {}
+                     }
+                 ]
+             },
+             "dc": {
+                 "creator": [
+                     {
+                         "name": "creator",
+                         "value": "Alex Traub",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ]
+             },
+             "media": {
+                 "content": [
+                     {
+                         "name": "content",
+                         "value": "",
+                         "attrs": {
+                             "height": "1800",
+                             "medium": "image",
+                             "url": "https://static01.nyt.com/images/2023/11/27/multimedia/00fletcher-viola-01-tlfc/00fletcher-viola-01-tlfc-mediumSquareAt3X.jpg",
+                             "width": "1800"
+                         },
+                         "children": {}
+                     }
+                 ],
+                 "credit": [
+                     {
+                         "name": "credit",
+                         "value": "Mary Altaffer/Associated Press",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ],
+                 "description": [
+                     {
+                         "name": "description",
+                         "value": "Viola Fletcher in 2023. The Greenwood neighborhood of Tulsa, Okla., that became known as “Black Wall Street” took years to build — and one night of violence to destroy.",
                          "attrs": {},
                          "children": {}
                      }
@@ -523,7 +614,9 @@
              "Danson, Ted",
              "Steenburgen, Mary",
              "A Man on the Inside (TV Program)",
-             "holidayfilms24"
+             "holidayfilms24",
+             "Actors and Actresses",
+             "Content Type: Personal Profile"
          ],
          "dcExt": {
              "creator": [
@@ -580,35 +673,41 @@
          }
      },
      {
-         "title": "Jimmy Cliff, Singer Who Helped Bring Reggae to Global Audience, Dies at 81",
-         "description": "His Grammy-winning records as well as his starring role in the cult movie “The Harder They Come” in 1972 boosted a career spanning seven decades.",
-         "link": "https://www.nytimes.com/2025/11/24/arts/music/jimmy-cliff-dead.html",
+         "title": "In Nebraska, Makeovers for Buildings That Don’t Price Out the Locals",
+         "description": "In a struggling area of Lincoln, a program pays for repairs and energy efficiency upgrades in rental buildings. In return, landlords must keep rents affordable.",
+         "link": "https://www.nytimes.com/2025/11/18/climate/nebraska-energy-efficiency.html",
          "links": [
-             "https://www.nytimes.com/2025/11/24/arts/music/jimmy-cliff-dead.html"
+             "https://www.nytimes.com/2025/11/18/climate/nebraska-energy-efficiency.html"
          ],
-         "published": "Mon, 24 Nov 2025 21:45:30 +0000",
-         "publishedParsed": "2025-11-24T21:45:30Z",
+         "published": "Wed, 19 Nov 2025 02:20:30 +0000",
+         "publishedParsed": "2025-11-19T02:20:30Z",
          "author": {
-             "name": "Alex Marshall and Alex Williams"
+             "name": "Cara Buckley and Arin Yoon"
          },
          "authors": [
              {
-                 "name": "Alex Marshall and Alex Williams"
+                 "name": "Cara Buckley and Arin Yoon"
              }
          ],
-         "guid": "https://www.nytimes.com/2025/11/24/arts/music/jimmy-cliff-dead.html",
+         "guid": "https://www.nytimes.com/2025/11/18/climate/nebraska-energy-efficiency.html",
          "image": {
-             "url": "https://static01.nyt.com/images/2025/11/24/multimedia/24xp-cliff-wwos/24xp-cliff-wwos-mediumSquareAt3X.jpg"
+             "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18cli-50x50-ne-promo-pjtk/18cli-50x50-ne-promo-pjtk-mediumSquareAt3X.jpg"
          },
          "categories": [
-             "Cliff, Jimmy",
-             "Reggae Music",
-             "Deaths (Obituaries)",
-             "internal-open-access-from-nl"
+             "Lincoln (Neb)",
+             "Cost of Living and Affordability",
+             "Affordable Housing",
+             "Energy Efficiency",
+             "Landlords",
+             "Renting and Leasing (Real Estate)",
+             "Heating",
+             "Heating, Ventilation and Cooling (HVAC)",
+             "Public and Subsidized Housing",
+             "Restoration and Renovation"
          ],
          "dcExt": {
              "creator": [
-                 "Alex Marshall and Alex Williams"
+                 "Cara Buckley and Arin Yoon"
              ]
          },
          "extensions": {
@@ -618,7 +717,7 @@
                          "name": "link",
                          "value": "",
                          "attrs": {
-                             "href": "https://www.nytimes.com/2025/11/24/arts/music/jimmy-cliff-dead.html",
+                             "href": "https://www.nytimes.com/2025/11/18/climate/nebraska-energy-efficiency.html",
                              "rel": "standout"
                          },
                          "children": {}
@@ -629,7 +728,7 @@
                  "creator": [
                      {
                          "name": "creator",
-                         "value": "Alex Marshall and Alex Williams",
+                         "value": "Cara Buckley and Arin Yoon",
                          "attrs": {},
                          "children": {}
                      }
@@ -641,98 +740,9 @@
                          "name": "content",
                          "value": "",
                          "attrs": {
-                             "height": "1775",
+                             "height": "1802",
                              "medium": "image",
-                             "url": "https://static01.nyt.com/images/2025/11/24/multimedia/24xp-cliff-wwos/24xp-cliff-wwos-mediumSquareAt3X.jpg",
-                             "width": "1774"
-                         },
-                         "children": {}
-                     }
-                 ],
-                 "credit": [
-                     {
-                         "name": "credit",
-                         "value": "PL Gould/Images Press, via Getty",
-                         "attrs": {},
-                         "children": {}
-                     }
-                 ],
-                 "description": [
-                     {
-                         "name": "description",
-                         "value": "Jimmy Cliff performing in Le Castellet, France, in 1976.",
-                         "attrs": {},
-                         "children": {}
-                     }
-                 ]
-             }
-         }
-     },
-     {
-         "title": "Jimmy Cliff: 8 Essential Songs",
-         "description": "A giant of Jamaican music, he gained international renown through the 1972 film “The Harder They Come,” and helped establish reggae’s themes of struggle, resistance and uplift.",
-         "link": "https://www.nytimes.com/2025/11/24/arts/music/jimmy-cliff-songs.html",
-         "links": [
-             "https://www.nytimes.com/2025/11/24/arts/music/jimmy-cliff-songs.html"
-         ],
-         "published": "Mon, 24 Nov 2025 17:12:20 +0000",
-         "publishedParsed": "2025-11-24T17:12:20Z",
-         "author": {
-             "name": "Ben Sisario"
-         },
-         "authors": [
-             {
-                 "name": "Ben Sisario"
-             }
-         ],
-         "guid": "https://www.nytimes.com/2025/11/24/arts/music/jimmy-cliff-songs.html",
-         "image": {
-             "url": "https://static01.nyt.com/images/2025/11/24/multimedia/24CLIFF-PLAYLIST-wcbt/24CLIFF-PLAYLIST-wcbt-mediumSquareAt3X.jpg"
-         },
-         "categories": [
-             "Reggae Music",
-             "Cliff, Jimmy",
-             "The Harder They Come (Movie)",
-             "internal-open-access-from-nl"
-         ],
-         "dcExt": {
-             "creator": [
-                 "Ben Sisario"
-             ]
-         },
-         "extensions": {
-             "atom": {
-                 "link": [
-                     {
-                         "name": "link",
-                         "value": "",
-                         "attrs": {
-                             "href": "https://www.nytimes.com/2025/11/24/arts/music/jimmy-cliff-songs.html",
-                             "rel": "standout"
-                         },
-                         "children": {}
-                     }
-                 ]
-             },
-             "dc": {
-                 "creator": [
-                     {
-                         "name": "creator",
-                         "value": "Ben Sisario",
-                         "attrs": {},
-                         "children": {}
-                     }
-                 ]
-             },
-             "media": {
-                 "content": [
-                     {
-                         "name": "content",
-                         "value": "",
-                         "attrs": {
-                             "height": "1800",
-                             "medium": "image",
-                             "url": "https://static01.nyt.com/images/2025/11/24/multimedia/24CLIFF-PLAYLIST-wcbt/24CLIFF-PLAYLIST-wcbt-mediumSquareAt3X.jpg",
+                             "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18cli-50x50-ne-promo-pjtk/18cli-50x50-ne-promo-pjtk-mediumSquareAt3X.jpg",
                              "width": "1800"
                          },
                          "children": {}
@@ -741,97 +751,7 @@
                  "credit": [
                      {
                          "name": "credit",
-                         "value": "Gerald Herbert/Associated Press",
-                         "attrs": {},
-                         "children": {}
-                     }
-                 ],
-                 "description": [
-                     {
-                         "name": "description",
-                         "value": "Jimmy Cliff onstage in 2013. The Jamaican musician helped transform ska into reggae, and bring his island’s sounds worldwide.",
-                         "attrs": {},
-                         "children": {}
-                     }
-                 ]
-             }
-         }
-     },
-     {
-         "title": "They Loved Their Family Land in South Carolina. But Who Actually Owned It?",
-         "description": "Conservation can be tough when a property is passed down informally over generations. A growing effort is helping families sort it all out.",
-         "link": "https://www.nytimes.com/2025/11/18/climate/south-carolina-land-title-ownership.html",
-         "links": [
-             "https://www.nytimes.com/2025/11/18/climate/south-carolina-land-title-ownership.html"
-         ],
-         "published": "Thu, 20 Nov 2025 01:22:30 +0000",
-         "publishedParsed": "2025-11-20T01:22:30Z",
-         "author": {
-             "name": "Catrin Einhorn and Nora Williams"
-         },
-         "authors": [
-             {
-                 "name": "Catrin Einhorn and Nora Williams"
-             }
-         ],
-         "guid": "https://www.nytimes.com/2025/11/18/climate/south-carolina-land-title-ownership.html",
-         "image": {
-             "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18cli-50x50-sc-promo/18cli-50x50-sc-promo-mediumSquareAt3X.jpg"
-         },
-         "categories": [
-             "Gullah Geechee People",
-             "Conservation of Resources",
-             "South Carolina",
-             "Forests and Forestry",
-             "Nonprofit Organizations"
-         ],
-         "dcExt": {
-             "creator": [
-                 "Catrin Einhorn and Nora Williams"
-             ]
-         },
-         "extensions": {
-             "atom": {
-                 "link": [
-                     {
-                         "name": "link",
-                         "value": "",
-                         "attrs": {
-                             "href": "https://www.nytimes.com/2025/11/18/climate/south-carolina-land-title-ownership.html",
-                             "rel": "standout"
-                         },
-                         "children": {}
-                     }
-                 ]
-             },
-             "dc": {
-                 "creator": [
-                     {
-                         "name": "creator",
-                         "value": "Catrin Einhorn and Nora Williams",
-                         "attrs": {},
-                         "children": {}
-                     }
-                 ]
-             },
-             "media": {
-                 "content": [
-                     {
-                         "name": "content",
-                         "value": "",
-                         "attrs": {
-                             "height": "1800",
-                             "medium": "image",
-                             "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18cli-50x50-sc-promo/18cli-50x50-sc-promo-mediumSquareAt3X.jpg",
-                             "width": "1800"
-                         },
-                         "children": {}
-                     }
-                 ],
-                 "credit": [
-                     {
-                         "name": "credit",
-                         "value": "Nora Willams For The New York Times",
+                         "value": "Arin Yoon for The New York Times",
                          "attrs": {},
                          "children": {}
                      }
@@ -924,8 +844,8 @@
          "links": [
              "https://www.nytimes.com/2025/11/24/opinion/caregiving-crisis.html"
          ],
-         "published": "Mon, 24 Nov 2025 20:51:01 +0000",
-         "publishedParsed": "2025-11-24T20:51:01Z",
+         "published": "Mon, 24 Nov 2025 23:41:58 +0000",
+         "publishedParsed": "2025-11-24T23:41:58Z",
          "author": {
              "name": "Michelle Cottle"
          },
@@ -969,6 +889,97 @@
                      {
                          "name": "creator",
                          "value": "Michelle Cottle",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ]
+             }
+         }
+     },
+     {
+         "title": "Shoppers, Tell Us About Customs Duties on Items Bought From Overseas",
+         "description": "It’s gift-giving season, and we want to speak to people in the United States who are buying items from other countries.",
+         "link": "https://www.nytimes.com/2025/11/21/business/shopping-customs-costs-overseas.html",
+         "links": [
+             "https://www.nytimes.com/2025/11/21/business/shopping-customs-costs-overseas.html"
+         ],
+         "published": "Fri, 21 Nov 2025 22:56:37 +0000",
+         "publishedParsed": "2025-11-21T22:56:37Z",
+         "author": {
+             "name": "Peter Eavis"
+         },
+         "authors": [
+             {
+                 "name": "Peter Eavis"
+             }
+         ],
+         "guid": "https://www.nytimes.com/2025/11/21/business/shopping-customs-costs-overseas.html",
+         "image": {
+             "url": "https://static01.nyt.com/images/2025/11/21/multimedia/00biz-deminimis-callout-hgpk/00biz-deminimis-callout-hgpk-mediumSquareAt3X.jpg"
+         },
+         "categories": [
+             "Customs (Tariff)",
+             "Shopping and Retail",
+             "Gifts",
+             "Sales and Excise Taxes",
+             "United States",
+             "Consumer Behavior"
+         ],
+         "dcExt": {
+             "creator": [
+                 "Peter Eavis"
+             ]
+         },
+         "extensions": {
+             "atom": {
+                 "link": [
+                     {
+                         "name": "link",
+                         "value": "",
+                         "attrs": {
+                             "href": "https://www.nytimes.com/2025/11/21/business/shopping-customs-costs-overseas.html",
+                             "rel": "standout"
+                         },
+                         "children": {}
+                     }
+                 ]
+             },
+             "dc": {
+                 "creator": [
+                     {
+                         "name": "creator",
+                         "value": "Peter Eavis",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ]
+             },
+             "media": {
+                 "content": [
+                     {
+                         "name": "content",
+                         "value": "",
+                         "attrs": {
+                             "height": "1800",
+                             "medium": "image",
+                             "url": "https://static01.nyt.com/images/2025/11/21/multimedia/00biz-deminimis-callout-hgpk/00biz-deminimis-callout-hgpk-mediumSquareAt3X.jpg",
+                             "width": "1800"
+                         },
+                         "children": {}
+                     }
+                 ],
+                 "credit": [
+                     {
+                         "name": "credit",
+                         "value": "Scott McIntyre for The New York Times",
+                         "attrs": {},
+                         "children": {}
+                     }
+                 ],
+                 "description": [
+                     {
+                         "name": "description",
+                         "value": "A FedEx driver making deliveries in Miami Beach.",
                          "attrs": {},
                          "children": {}
                      }
@@ -1072,45 +1083,38 @@
          }
      },
      {
-         "title": "Chauncey Billups, N.B.A. Coach in Gambling Case, Pleads Not Guilty",
-         "description": "A hearing in Brooklyn was packed as Mr. Billups and 30 other defendants answered charges in a sweeping federal indictment involving rigged poker games.",
-         "link": "https://www.nytimes.com/2025/11/24/nyregion/nba-billups-gambling-plea.html",
+         "title": "‘Queen of Versailles’ to Close as New Broadway Musicals Struggle",
+         "description": "The show, starring Kristin Chenoweth, will remain open through the holidays. The announcement comes just two weeks after the musical opened.",
+         "link": "https://www.nytimes.com/2025/11/24/theater/queen-of-versailles-broadway-closing.html",
          "links": [
-             "https://www.nytimes.com/2025/11/24/nyregion/nba-billups-gambling-plea.html"
+             "https://www.nytimes.com/2025/11/24/theater/queen-of-versailles-broadway-closing.html"
          ],
-         "published": "Mon, 24 Nov 2025 20:17:44 +0000",
-         "publishedParsed": "2025-11-24T20:17:44Z",
+         "published": "Mon, 24 Nov 2025 22:31:05 +0000",
+         "publishedParsed": "2025-11-24T22:31:05Z",
          "author": {
-             "name": "Santul Nerkar"
+             "name": "Michael Paulson"
          },
          "authors": [
              {
-                 "name": "Santul Nerkar"
+                 "name": "Michael Paulson"
              }
          ],
-         "guid": "https://www.nytimes.com/2025/11/24/nyregion/nba-billups-gambling-plea.html",
+         "guid": "https://www.nytimes.com/2025/11/24/theater/queen-of-versailles-broadway-closing.html",
          "image": {
-             "url": "https://static01.nyt.com/images/2025/11/25/multimedia/25met-billups-plea-fltb/25met-billups-plea-fltb-mediumSquareAt3X.jpg"
+             "url": "https://static01.nyt.com/images/2025/11/26/multimedia/24cul-versailles-3-vwfp/24cul-versailles-3-vwfp-mediumSquareAt3X.jpg"
          },
          "categories": [
-             "Gambling",
-             "Coaches and Managers",
-             "Basketball",
-             "Organized Crime",
-             "Poker (Card Game)",
-             "Portland Trail Blazers",
-             "Billups, Chauncey",
-             "Bonanno Crime Family",
-             "Gambino Crime Family",
-             "Genovese Crime Family",
-             "Luchese Crime Family",
-             "Rozier, Terry (1994- )",
-             "Zurcher, Ramon",
-             "Brooklyn (NYC)"
+             "Theater (Broadway)",
+             "Theater",
+             "Documentary Films and Programs",
+             "Arden, Michael (1982- )",
+             "Chenoweth, Kristin",
+             "The Queen of Versailles (Play)",
+             "Finances"
          ],
          "dcExt": {
              "creator": [
-                 "Santul Nerkar"
+                 "Michael Paulson"
              ]
          },
          "extensions": {
@@ -1120,7 +1124,7 @@
                          "name": "link",
                          "value": "",
                          "attrs": {
-                             "href": "https://www.nytimes.com/2025/11/24/nyregion/nba-billups-gambling-plea.html",
+                             "href": "https://www.nytimes.com/2025/11/24/theater/queen-of-versailles-broadway-closing.html",
                              "rel": "standout"
                          },
                          "children": {}
@@ -1131,7 +1135,7 @@
                  "creator": [
                      {
                          "name": "creator",
-                         "value": "Santul Nerkar",
+                         "value": "Michael Paulson",
                          "attrs": {},
                          "children": {}
                      }
@@ -1145,7 +1149,7 @@
                          "attrs": {
                              "height": "1800",
                              "medium": "image",
-                             "url": "https://static01.nyt.com/images/2025/11/25/multimedia/25met-billups-plea-fltb/25met-billups-plea-fltb-mediumSquareAt3X.jpg",
+                             "url": "https://static01.nyt.com/images/2025/11/26/multimedia/24cul-versailles-3-vwfp/24cul-versailles-3-vwfp-mediumSquareAt3X.jpg",
                              "width": "1800"
                          },
                          "children": {}
@@ -1154,7 +1158,7 @@
                  "credit": [
                      {
                          "name": "credit",
-                         "value": "Adam Gray/Reuters",
+                         "value": "Julieta Cervantes/Julieta Cervantes, via Associated Press",
                          "attrs": {},
                          "children": {}
                      }
@@ -1162,189 +1166,7 @@
                  "description": [
                      {
                          "name": "description",
-                         "value": "Chauncey Billups, left, denied the charges of wire fraud conspiracy and money laundering conspiracy in federal court in Brooklyn.",
-                         "attrs": {},
-                         "children": {}
-                     }
-                 ]
-             }
-         }
-     },
-     {
-         "title": "Rick Cotton, Head of the Port Authority, Is Stepping Down",
-         "description": "Mr. Cotton oversaw the rebuilding of LaGuardia Airport and several other major infrastructure projects in the New York City region.",
-         "link": "https://www.nytimes.com/2025/11/24/nyregion/rick-cotton-port-authority-retiring.html",
-         "links": [
-             "https://www.nytimes.com/2025/11/24/nyregion/rick-cotton-port-authority-retiring.html"
-         ],
-         "published": "Mon, 24 Nov 2025 18:47:35 +0000",
-         "publishedParsed": "2025-11-24T18:47:35Z",
-         "author": {
-             "name": "Patrick McGeehan"
-         },
-         "authors": [
-             {
-                 "name": "Patrick McGeehan"
-             }
-         ],
-         "guid": "https://www.nytimes.com/2025/11/24/nyregion/rick-cotton-port-authority-retiring.html",
-         "image": {
-             "url": "https://static01.nyt.com/images/2025/11/24/multimedia/24met-portauthority-zwpm/24met-portauthority-zwpm-mediumSquareAt3X.jpg"
-         },
-         "categories": [
-             "Cotton, Rick",
-             "Port Authority of New York and New Jersey",
-             "Retirement",
-             "Infrastructure (Public Works)"
-         ],
-         "dcExt": {
-             "creator": [
-                 "Patrick McGeehan"
-             ]
-         },
-         "extensions": {
-             "atom": {
-                 "link": [
-                     {
-                         "name": "link",
-                         "value": "",
-                         "attrs": {
-                             "href": "https://www.nytimes.com/2025/11/24/nyregion/rick-cotton-port-authority-retiring.html",
-                             "rel": "standout"
-                         },
-                         "children": {}
-                     }
-                 ]
-             },
-             "dc": {
-                 "creator": [
-                     {
-                         "name": "creator",
-                         "value": "Patrick McGeehan",
-                         "attrs": {},
-                         "children": {}
-                     }
-                 ]
-             },
-             "media": {
-                 "content": [
-                     {
-                         "name": "content",
-                         "value": "",
-                         "attrs": {
-                             "height": "1800",
-                             "medium": "image",
-                             "url": "https://static01.nyt.com/images/2025/11/24/multimedia/24met-portauthority-zwpm/24met-portauthority-zwpm-mediumSquareAt3X.jpg",
-                             "width": "1800"
-                         },
-                         "children": {}
-                     }
-                 ],
-                 "credit": [
-                     {
-                         "name": "credit",
-                         "value": "Karsten Moran for The New York Times",
-                         "attrs": {},
-                         "children": {}
-                     }
-                 ],
-                 "description": [
-                     {
-                         "name": "description",
-                         "value": "Rick Cotton has overseen the start of a $19 billion overhaul of Kennedy International Airport.",
-                         "attrs": {},
-                         "children": {}
-                     }
-                 ]
-             }
-         }
-     },
-     {
-         "title": "Grisly Killings of a Married Couple Spark New Sectarian Unrest in Syria",
-         "description": "The government acted quickly to tamp down reprisals in the central city of Homs as it tries to manage repeated waves of bloodshed involving minority groups.",
-         "link": "https://www.nytimes.com/2025/11/24/world/europe/syria-sectarian-killings-homs.html",
-         "links": [
-             "https://www.nytimes.com/2025/11/24/world/europe/syria-sectarian-killings-homs.html"
-         ],
-         "published": "Mon, 24 Nov 2025 20:16:58 +0000",
-         "publishedParsed": "2025-11-24T20:16:58Z",
-         "author": {
-             "name": "Euan Ward"
-         },
-         "authors": [
-             {
-                 "name": "Euan Ward"
-             }
-         ],
-         "guid": "https://www.nytimes.com/2025/11/24/world/europe/syria-sectarian-killings-homs.html",
-         "image": {
-             "url": "https://static01.nyt.com/images/2025/11/24/multimedia/24int-syria-homs-fhbk/24int-syria-homs-fhbk-mediumSquareAt3X.jpg"
-         },
-         "categories": [
-             "War and Armed Conflicts",
-             "Alawite Muslims",
-             "Minorities",
-             "Murders, Attempted Murders and Homicides",
-             "Bedouins",
-             "Homs (Syria)",
-             "Syria",
-             "internal-open-access-from-nl"
-         ],
-         "dcExt": {
-             "creator": [
-                 "Euan Ward"
-             ]
-         },
-         "extensions": {
-             "atom": {
-                 "link": [
-                     {
-                         "name": "link",
-                         "value": "",
-                         "attrs": {
-                             "href": "https://www.nytimes.com/2025/11/24/world/europe/syria-sectarian-killings-homs.html",
-                             "rel": "standout"
-                         },
-                         "children": {}
-                     }
-                 ]
-             },
-             "dc": {
-                 "creator": [
-                     {
-                         "name": "creator",
-                         "value": "Euan Ward",
-                         "attrs": {},
-                         "children": {}
-                     }
-                 ]
-             },
-             "media": {
-                 "content": [
-                     {
-                         "name": "content",
-                         "value": "",
-                         "attrs": {
-                             "height": "1800",
-                             "medium": "image",
-                             "url": "https://static01.nyt.com/images/2025/11/24/multimedia/24int-syria-homs-fhbk/24int-syria-homs-fhbk-mediumSquareAt3X.jpg",
-                             "width": "1800"
-                         },
-                         "children": {}
-                     }
-                 ],
-                 "credit": [
-                     {
-                         "name": "credit",
-                         "value": "Omar Sanadiki/Associated Press",
-                         "attrs": {},
-                         "children": {}
-                     }
-                 ],
-                 "description": [
-                     {
-                         "name": "description",
-                         "value": "Syrian soldiers walk past an abandoned movie theater in downtown Homs on Friday. Homs has long been a microcosm of Syria’s sectarian fault lines.",
+                         "value": "Kristin Chenoweth in “The Queen of Versailles” at the St. James Theater.",
                          "attrs": {},
                          "children": {}
                      }
@@ -1401,30 +1223,6 @@
          ]
      },
      {
-         "title": "Exclusive: DOGE 'doesn't exist' with eight months left on its charter",
-         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/Melodic-Location-157\"\u003e /u/Melodic-Location-157 \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.reuters.com/world/us/doge-doesnt-exist-with-eight-months-left-its-charter-2025-11-23/\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1p5afra/exclusive_doge_doesnt_exist_with_eight_months/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
-         "link": "https://www.reddit.com/r/news/comments/1p5afra/exclusive_doge_doesnt_exist_with_eight_months/",
-         "links": [
-             "https://www.reddit.com/r/news/comments/1p5afra/exclusive_doge_doesnt_exist_with_eight_months/"
-         ],
-         "updated": "2025-11-24T07:05:26+00:00",
-         "updatedParsed": "2025-11-24T07:05:26Z",
-         "published": "2025-11-24T07:05:26+00:00",
-         "publishedParsed": "2025-11-24T07:05:26Z",
-         "author": {
-             "name": "/u/Melodic-Location-157"
-         },
-         "authors": [
-             {
-                 "name": "/u/Melodic-Location-157"
-             }
-         ],
-         "guid": "t3_1p5afra",
-         "categories": [
-             "r/news"
-         ]
-     },
-     {
          "title": "Woman convicted in 'Slender Man' stabbing apprehended in Illinois after cutting off monitoring bracelet",
          "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/DrexellGames\"\u003e /u/DrexellGames \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.nbcnews.com/news/us-news/morgan-geyser-slender-man-stabbing-missing-wisconsin-rcna245505\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1p5i2fp/woman_convicted_in_slender_man_stabbing/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
          "link": "https://www.reddit.com/r/news/comments/1p5i2fp/woman_convicted_in_slender_man_stabbing/",
@@ -1444,6 +1242,30 @@
              }
          ],
          "guid": "t3_1p5i2fp",
+         "categories": [
+             "r/news"
+         ]
+     },
+     {
+         "title": "Exclusive: DOGE 'doesn't exist' with eight months left on its charter",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/Melodic-Location-157\"\u003e /u/Melodic-Location-157 \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.reuters.com/world/us/doge-doesnt-exist-with-eight-months-left-its-charter-2025-11-23/\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1p5afra/exclusive_doge_doesnt_exist_with_eight_months/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1p5afra/exclusive_doge_doesnt_exist_with_eight_months/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1p5afra/exclusive_doge_doesnt_exist_with_eight_months/"
+         ],
+         "updated": "2025-11-24T07:05:26+00:00",
+         "updatedParsed": "2025-11-24T07:05:26Z",
+         "published": "2025-11-24T07:05:26+00:00",
+         "publishedParsed": "2025-11-24T07:05:26Z",
+         "author": {
+             "name": "/u/Melodic-Location-157"
+         },
+         "authors": [
+             {
+                 "name": "/u/Melodic-Location-157"
+             }
+         ],
+         "guid": "t3_1p5afra",
          "categories": [
              "r/news"
          ]
@@ -1497,25 +1319,25 @@
          ]
      },
      {
-         "title": "Thai woman found alive in coffin after being brought in for cremation",
-         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/AudibleNod\"\u003e /u/AudibleNod \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://apnews.com/article/thailand-coffin-temple-woman-alive-c8463969db288c356d76ec189b3c3cec\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1p5nfrc/thai_woman_found_alive_in_coffin_after_being/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
-         "link": "https://www.reddit.com/r/news/comments/1p5nfrc/thai_woman_found_alive_in_coffin_after_being/",
+         "title": "Oldest living survivor of Tulsa Race Massacre dies at 111 years old",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/omgfakeusername\"\u003e /u/omgfakeusername \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.cnn.com/2025/11/24/us/tulsa-massacre-viola-ford-fletcher-survivor\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1p5wnsb/oldest_living_survivor_of_tulsa_race_massacre/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1p5wnsb/oldest_living_survivor_of_tulsa_race_massacre/",
          "links": [
-             "https://www.reddit.com/r/news/comments/1p5nfrc/thai_woman_found_alive_in_coffin_after_being/"
+             "https://www.reddit.com/r/news/comments/1p5wnsb/oldest_living_survivor_of_tulsa_race_massacre/"
          ],
-         "updated": "2025-11-24T17:34:21+00:00",
-         "updatedParsed": "2025-11-24T17:34:21Z",
-         "published": "2025-11-24T17:34:21+00:00",
-         "publishedParsed": "2025-11-24T17:34:21Z",
+         "updated": "2025-11-24T23:23:11+00:00",
+         "updatedParsed": "2025-11-24T23:23:11Z",
+         "published": "2025-11-24T23:23:11+00:00",
+         "publishedParsed": "2025-11-24T23:23:11Z",
          "author": {
-             "name": "/u/AudibleNod"
+             "name": "/u/omgfakeusername"
          },
          "authors": [
              {
-                 "name": "/u/AudibleNod"
+                 "name": "/u/omgfakeusername"
              }
          ],
-         "guid": "t3_1p5nfrc",
+         "guid": "t3_1p5wnsb",
          "categories": [
              "r/news"
          ]
@@ -1545,64 +1367,16 @@
          ]
      },
      {
-         "title": "Jimmy Cliff, Jamaican reggae singer, actor and cultural icon, dies aged 81",
-         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/Relevant-Box5774\"\u003e /u/Relevant-Box5774 \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.theguardian.com/music/2025/nov/24/jimmy-cliff-jamaican-reggae-singer-actor-and-cultural-icon-dies-aged-81\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1p5f0vf/jimmy_cliff_jamaican_reggae_singer_actor_and/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
-         "link": "https://www.reddit.com/r/news/comments/1p5f0vf/jimmy_cliff_jamaican_reggae_singer_actor_and/",
+         "title": "Thai woman found alive in coffin after being brought in for cremation",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/AudibleNod\"\u003e /u/AudibleNod \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://apnews.com/article/thailand-coffin-temple-woman-alive-c8463969db288c356d76ec189b3c3cec\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1p5nfrc/thai_woman_found_alive_in_coffin_after_being/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1p5nfrc/thai_woman_found_alive_in_coffin_after_being/",
          "links": [
-             "https://www.reddit.com/r/news/comments/1p5f0vf/jimmy_cliff_jamaican_reggae_singer_actor_and/"
+             "https://www.reddit.com/r/news/comments/1p5nfrc/thai_woman_found_alive_in_coffin_after_being/"
          ],
-         "updated": "2025-11-24T11:50:15+00:00",
-         "updatedParsed": "2025-11-24T11:50:15Z",
-         "published": "2025-11-24T11:50:15+00:00",
-         "publishedParsed": "2025-11-24T11:50:15Z",
-         "author": {
-             "name": "/u/Relevant-Box5774"
-         },
-         "authors": [
-             {
-                 "name": "/u/Relevant-Box5774"
-             }
-         ],
-         "guid": "t3_1p5f0vf",
-         "categories": [
-             "r/news"
-         ]
-     },
-     {
-         "title": "More than 400 trans flags removed from Boston Common; advocates call for hate crime investigation",
-         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/speedythefirst\"\u003e /u/speedythefirst \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.boston.com/news/local-news/2025/11/20/more-than-400-trans-flags-removed-from-boston-common-advocates-call-for-hate-crime-investigation/\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1p554az/more_than_400_trans_flags_removed_from_boston/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
-         "link": "https://www.reddit.com/r/news/comments/1p554az/more_than_400_trans_flags_removed_from_boston/",
-         "links": [
-             "https://www.reddit.com/r/news/comments/1p554az/more_than_400_trans_flags_removed_from_boston/"
-         ],
-         "updated": "2025-11-24T02:22:58+00:00",
-         "updatedParsed": "2025-11-24T02:22:58Z",
-         "published": "2025-11-24T02:22:58+00:00",
-         "publishedParsed": "2025-11-24T02:22:58Z",
-         "author": {
-             "name": "/u/speedythefirst"
-         },
-         "authors": [
-             {
-                 "name": "/u/speedythefirst"
-             }
-         ],
-         "guid": "t3_1p554az",
-         "categories": [
-             "r/news"
-         ]
-     },
-     {
-         "title": "South Korean man gets life sentence over blackmail ring that sexually exploited or abused hundreds",
-         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/AudibleNod\"\u003e /u/AudibleNod \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.ctvnews.ca/world/article/south-korean-man-gets-life-sentence-over-blackmail-ring-that-sexually-exploited-or-abused-hundreds/\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1p5i0y6/south_korean_man_gets_life_sentence_over/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
-         "link": "https://www.reddit.com/r/news/comments/1p5i0y6/south_korean_man_gets_life_sentence_over/",
-         "links": [
-             "https://www.reddit.com/r/news/comments/1p5i0y6/south_korean_man_gets_life_sentence_over/"
-         ],
-         "updated": "2025-11-24T14:10:20+00:00",
-         "updatedParsed": "2025-11-24T14:10:20Z",
-         "published": "2025-11-24T14:10:20+00:00",
-         "publishedParsed": "2025-11-24T14:10:20Z",
+         "updated": "2025-11-24T17:34:21+00:00",
+         "updatedParsed": "2025-11-24T17:34:21Z",
+         "published": "2025-11-24T17:34:21+00:00",
+         "publishedParsed": "2025-11-24T17:34:21Z",
          "author": {
              "name": "/u/AudibleNod"
          },
@@ -1611,7 +1385,7 @@
                  "name": "/u/AudibleNod"
              }
          ],
-         "guid": "t3_1p5i0y6",
+         "guid": "t3_1p5nfrc",
          "categories": [
              "r/news"
          ]
@@ -1641,6 +1415,54 @@
          ]
      },
      {
+         "title": "Jimmy Cliff, Jamaican reggae singer, actor and cultural icon, dies aged 81",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/Relevant-Box5774\"\u003e /u/Relevant-Box5774 \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.theguardian.com/music/2025/nov/24/jimmy-cliff-jamaican-reggae-singer-actor-and-cultural-icon-dies-aged-81\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1p5f0vf/jimmy_cliff_jamaican_reggae_singer_actor_and/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1p5f0vf/jimmy_cliff_jamaican_reggae_singer_actor_and/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1p5f0vf/jimmy_cliff_jamaican_reggae_singer_actor_and/"
+         ],
+         "updated": "2025-11-24T11:50:15+00:00",
+         "updatedParsed": "2025-11-24T11:50:15Z",
+         "published": "2025-11-24T11:50:15+00:00",
+         "publishedParsed": "2025-11-24T11:50:15Z",
+         "author": {
+             "name": "/u/Relevant-Box5774"
+         },
+         "authors": [
+             {
+                 "name": "/u/Relevant-Box5774"
+             }
+         ],
+         "guid": "t3_1p5f0vf",
+         "categories": [
+             "r/news"
+         ]
+     },
+     {
+         "title": "South Korean man gets life sentence over blackmail ring that sexually exploited or abused hundreds",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/AudibleNod\"\u003e /u/AudibleNod \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.ctvnews.ca/world/article/south-korean-man-gets-life-sentence-over-blackmail-ring-that-sexually-exploited-or-abused-hundreds/\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1p5i0y6/south_korean_man_gets_life_sentence_over/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1p5i0y6/south_korean_man_gets_life_sentence_over/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1p5i0y6/south_korean_man_gets_life_sentence_over/"
+         ],
+         "updated": "2025-11-24T14:10:20+00:00",
+         "updatedParsed": "2025-11-24T14:10:20Z",
+         "published": "2025-11-24T14:10:20+00:00",
+         "publishedParsed": "2025-11-24T14:10:20Z",
+         "author": {
+             "name": "/u/AudibleNod"
+         },
+         "authors": [
+             {
+                 "name": "/u/AudibleNod"
+             }
+         ],
+         "guid": "t3_1p5i0y6",
+         "categories": [
+             "r/news"
+         ]
+     },
+     {
          "title": "This volcano just erupted for the 1st time in 10,000 years",
          "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/AudibleNod\"\u003e /u/AudibleNod \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://abcnews.go.com/International/volcano-erupted-1st-time-10000-years/story?id=127823393\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1p5t2cx/this_volcano_just_erupted_for_the_1st_time_in/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
          "link": "https://www.reddit.com/r/news/comments/1p5t2cx/this_volcano_just_erupted_for_the_1st_time_in/",
@@ -1660,6 +1482,30 @@
              }
          ],
          "guid": "t3_1p5t2cx",
+         "categories": [
+             "r/news"
+         ]
+     },
+     {
+         "title": "More than 400 trans flags removed from Boston Common; advocates call for hate crime investigation",
+         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/speedythefirst\"\u003e /u/speedythefirst \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.boston.com/news/local-news/2025/11/20/more-than-400-trans-flags-removed-from-boston-common-advocates-call-for-hate-crime-investigation/\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1p554az/more_than_400_trans_flags_removed_from_boston/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
+         "link": "https://www.reddit.com/r/news/comments/1p554az/more_than_400_trans_flags_removed_from_boston/",
+         "links": [
+             "https://www.reddit.com/r/news/comments/1p554az/more_than_400_trans_flags_removed_from_boston/"
+         ],
+         "updated": "2025-11-24T02:22:58+00:00",
+         "updatedParsed": "2025-11-24T02:22:58Z",
+         "published": "2025-11-24T02:22:58+00:00",
+         "publishedParsed": "2025-11-24T02:22:58Z",
+         "author": {
+             "name": "/u/speedythefirst"
+         },
+         "authors": [
+             {
+                 "name": "/u/speedythefirst"
+             }
+         ],
+         "guid": "t3_1p554az",
          "categories": [
              "r/news"
          ]
@@ -1737,65 +1583,30 @@
          ]
      },
      {
-         "title": "Lawsuit: Horry County officer indifferent to beach patrol safety practices before fatal crash",
-         "content": "\u0026#32; submitted by \u0026#32; \u003ca href=\"https://www.reddit.com/user/themanwhosleptin\"\u003e /u/themanwhosleptin \u003c/a\u003e \u003cbr/\u003e \u003cspan\u003e\u003ca href=\"https://www.wmbfnews.com/2025/11/21/lawsuit-horry-county-officer-indifferent-beach-patrol-safety-practices-before-fatal-crash/\"\u003e[link]\u003c/a\u003e\u003c/span\u003e \u0026#32; \u003cspan\u003e\u003ca href=\"https://www.reddit.com/r/news/comments/1p5av5o/lawsuit_horry_county_officer_indifferent_to_beach/\"\u003e[comments]\u003c/a\u003e\u003c/span\u003e",
-         "link": "https://www.reddit.com/r/news/comments/1p5av5o/lawsuit_horry_county_officer_indifferent_to_beach/",
+         "title": "Volcano in Ethiopia erupts for first time in nearly 12,000 years: \"It felt like a sudden bomb\" - CBS News",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPYWpCLWZIbnJMRnRRcXlQd0tNOTlHeGtQYWpPcEVGRUN2LVRaQXozT29rdGtqVlFNcUxKclpfLXdFVTdnQXhIa1h3QTZKaU5EVTFzZFdJNmJvS0F4ZGhwQ3lQRTJKX2MzdHhQMzQwSk8yOXc5T2lyTkVsODd1bUk2ZmNDTlJTY2k1QXdJQ05kci1SQdIBlwFBVV95cUxQeExIZjhuMHZJQnR5cVZWOENGbXJxX2tUUUNqa21EakxTU0NscE02RTJFVVFrTnYxNGliMlVJcFNJbkRGQ1N6SEI1N2hpUWpLenNVOFNIZVdULTQwY1ZMVkFpTUpvVjdpTDZCUzJWMlRwdWxBejJ4bXJGeWp1d3pzcTk3TDdzWWZVVGZJUVlsY2s1ZjR4R19j?oc=5\" target=\"_blank\"\u003eVolcano in Ethiopia erupts for first time in nearly 12,000 years: \"It felt like a sudden bomb\"\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCBS News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQOExQNmVLa3U1Q0RzUmhDRFBqQkU1OFBBWlZRalpkckUwMm9QRHRmSHZxQmJncS0zQ1BHdDhlTTdwek4xeks4T0hkYWU3ZzNncDVKRklxcXVIRVMybTBJQmJPTmNtU2VTZVhNUUVoNmZia1h1TC1WWWNyTGtHM2MtUFFQYy1PSnhORXhjTUYzMVpsaWdRb1RNSm5HRmVpVkpQcVVhYWVn?oc=5\" target=\"_blank\"\u003eLong-dormant volcano erupts for the first time in 12,000 years, blanketing village in ash\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNew York Post\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNaVJfdU5WUG1rcGJNOW1ONXgyU2ZnYmhGS2JfZllGTm1ocUl0SFI4YW1fZ2QwczdWSllIeHF3cmM1WkNFeHBTTVU5YnpMZ2hkNmxXUGdGNW1MTURHMWJYRmQ4U0Q3bW02Nm55T2RIMnkyaEU1bmNzVmNGWEFBdUlRNnRnOWRyYUFrTy1hVU9WUmE1RXlnc0s5b0ZKc2JGeFF1eXFLZVpjMWx5SnBjVHgtNGZ1QVBRNUNhMXVLZUZEWHFJbHdPNGN6djdHOFFPSno1VzV2eVhKcnZjQVBhTUhoZVdxWGF0WW1WNG95QzhicWNLdXNuUm9wSFF4SkEzMVN5Undz?oc=5\" target=\"_blank\"\u003eSeveral Flights Cancelled As Ethiopian Volcanic Ash Drifts Towards India\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNDTV\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOSUpvUjZUcXRMLTVnSnJscGVFaU1HZlNwWXkwZVJWRFprRWIwU042Z3d3YnRWaWstWmJhaG5fRDNfa2ZjWExIQzJPektCNFBBQWtIRDZTLWxHSXpfSGFrV3FhZnpvZDliN0N2amF1dnlSVkpZVkM5YUpWX01yV1lqLVAtNWQxT2pEUFpuSWVoaWg1akk3a3k5ZjQ2eXZtZzNZNTJRTlhzcGcycXRMYmJzTmRvV1DSAboBQVVfeXFMTzhPQUppOXJoOWsxeWc5RGZNX0ZQRFhMOWlDelotdnpTRGpzS290UTc3Yks3TDJ4UVgzNkhLcXl4VHJzVFZ6MG5rYWtsM0RsdjFtUkxqeHZjUFNrUzk4dlpnUTJfODk1ME41ejNIeWVQalpXbWRSb1VIdHpRVTlBZzFCQmY4RHc2cGI5UWYyeVRsWjk2Mk4yX0xhQkV4LUJ1WldWWGFkOGpUWGFockxYZ3loamtHOVNiTDVR?oc=5\" target=\"_blank\"\u003eVolcano erupts in northern Ethiopia, sending ash plumes toward Yemen and Oman\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjdIbnI4b1d3d2lNSHU4M0VVZnFTQnBtQnJCSjFvanF2aGtWN1pQZURzY09yVnp2Y3BNMjVwX0pGNmVBamJDSXp2YmFaT0ZzSzNhTHEwVEtiU1JsVjk5VDA5QVM5V0RKYzJpa3RSTUdFU2R2cmRoSHZKc0t1MHhSVVlVX1VkVjhLM0FRcHo4VG1FMnJYd1pXYy0wUFctMVljUE56VzRmNjU1cVF4NThJNHNOSU0yVDhf?oc=5\" target=\"_blank\"\u003eVolcano Erupts After Lying Dormant for 12,000 Years, Sending Scientists Scrambling\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eScientific American\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYWpCLWZIbnJMRnRRcXlQd0tNOTlHeGtQYWpPcEVGRUN2LVRaQXozT29rdGtqVlFNcUxKclpfLXdFVTdnQXhIa1h3QTZKaU5EVTFzZFdJNmJvS0F4ZGhwQ3lQRTJKX2MzdHhQMzQwSk8yOXc5T2lyTkVsODd1bUk2ZmNDTlJTY2k1QXdJQ05kci1SQdIBlwFBVV95cUxQeExIZjhuMHZJQnR5cVZWOENGbXJxX2tUUUNqa21EakxTU0NscE02RTJFVVFrTnYxNGliMlVJcFNJbkRGQ1N6SEI1N2hpUWpLenNVOFNIZVdULTQwY1ZMVkFpTUpvVjdpTDZCUzJWMlRwdWxBejJ4bXJGeWp1d3pzcTk3TDdzWWZVVGZJUVlsY2s1ZjR4R19j?oc=5",
          "links": [
-             "https://www.reddit.com/r/news/comments/1p5av5o/lawsuit_horry_county_officer_indifferent_to_beach/"
+             "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYWpCLWZIbnJMRnRRcXlQd0tNOTlHeGtQYWpPcEVGRUN2LVRaQXozT29rdGtqVlFNcUxKclpfLXdFVTdnQXhIa1h3QTZKaU5EVTFzZFdJNmJvS0F4ZGhwQ3lQRTJKX2MzdHhQMzQwSk8yOXc5T2lyTkVsODd1bUk2ZmNDTlJTY2k1QXdJQ05kci1SQdIBlwFBVV95cUxQeExIZjhuMHZJQnR5cVZWOENGbXJxX2tUUUNqa21EakxTU0NscE02RTJFVVFrTnYxNGliMlVJcFNJbkRGQ1N6SEI1N2hpUWpLenNVOFNIZVdULTQwY1ZMVkFpTUpvVjdpTDZCUzJWMlRwdWxBejJ4bXJGeWp1d3pzcTk3TDdzWWZVVGZJUVlsY2s1ZjR4R19j?oc=5"
          ],
-         "updated": "2025-11-24T07:32:33+00:00",
-         "updatedParsed": "2025-11-24T07:32:33Z",
-         "published": "2025-11-24T07:32:33+00:00",
-         "publishedParsed": "2025-11-24T07:32:33Z",
-         "author": {
-             "name": "/u/themanwhosleptin"
-         },
-         "authors": [
-             {
-                 "name": "/u/themanwhosleptin"
-             }
-         ],
-         "guid": "t3_1p5av5o",
-         "categories": [
-             "r/news"
-         ]
-     },
-     {
-         "title": "Ethiopian volcano erupts for first time in 12,000 years - The Guardian",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbWotOFBkZjNWWW0zZkJ4WWJOaVpsMm1TNE1uVzJyeWZxZldFNzZ0VkYzUXV0Y1lXYUNVV3J6c3dDcU1TMmExVmhqUU94MkN6REZIVGNaSF9wMW5KTkIwXzNWWXJYaFdOanV4UHAxSDZCNUZXVC1SRUU5RkhxQWFSNzRERk1FcEZhdzVsUkVPNTBPRE51V1daWUgtY3MzZUxKZ2tWa0E3eVQ?oc=5\" target=\"_blank\"\u003eEthiopian volcano erupts for first time in 12,000 years\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Guardian\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNaVJfdU5WUG1rcGJNOW1ONXgyU2ZnYmhGS2JfZllGTm1ocUl0SFI4YW1fZ2QwczdWSllIeHF3cmM1WkNFeHBTTVU5YnpMZ2hkNmxXUGdGNW1MTURHMWJYRmQ4U0Q3bW02Nm55T2RIMnkyaEU1bmNzVmNGWEFBdUlRNnRnOWRyYUFrTy1hVU9WUmE1RXlnc0s5b0ZKc2JGeFF1eXFLZVpjMWx5SnBjVHgtNGZ1QVBRNUNhMXVLZUZEWHFJbHdPNGN6djdHOFFPSno1VzV2eVhKcnZjQVBhTUhoZVdxWGF0WW1WNG95QzhicWNLdXNuUm9wSFF4SkEzMVN5Undz?oc=5\" target=\"_blank\"\u003eSeveral Flights Cancelled As Ethiopian Volcanic Ash Drifts Towards India\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNDTV\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOSUpvUjZUcXRMLTVnSnJscGVFaU1HZlNwWXkwZVJWRFprRWIwU042Z3d3YnRWaWstWmJhaG5fRDNfa2ZjWExIQzJPektCNFBBQWtIRDZTLWxHSXpfSGFrV3FhZnpvZDliN0N2amF1dnlSVkpZVkM5YUpWX01yV1lqLVAtNWQxT2pEUFpuSWVoaWg1akk3a3k5ZjQ2eXZtZzNZNTJRTlhzcGcycXRMYmJzTmRvV1DSAboBQVVfeXFMTzhPQUppOXJoOWsxeWc5RGZNX0ZQRFhMOWlDelotdnpTRGpzS290UTc3Yks3TDJ4UVgzNkhLcXl4VHJzVFZ6MG5rYWtsM0RsdjFtUkxqeHZjUFNrUzk4dlpnUTJfODk1ME41ejNIeWVQalpXbWRSb1VIdHpRVTlBZzFCQmY4RHc2cGI5UWYyeVRsWjk2Mk4yX0xhQkV4LUJ1WldWWGFkOGpUWGFockxYZ3loamtHOVNiTDVR?oc=5\" target=\"_blank\"\u003eVolcano erupts in northern Ethiopia, sending ash plumes toward Yemen and Oman\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjdIbnI4b1d3d2lNSHU4M0VVZnFTQnBtQnJCSjFvanF2aGtWN1pQZURzY09yVnp2Y3BNMjVwX0pGNmVBamJDSXp2YmFaT0ZzSzNhTHEwVEtiU1JsVjk5VDA5QVM5V0RKYzJpa3RSTUdFU2R2cmRoSHZKc0t1MHhSVVlVX1VkVjhLM0FRcHo4VG1FMnJYd1pXYy0wUFctMVljUE56VzRmNjU1cVF4NThJNHNOSU0yVDhf?oc=5\" target=\"_blank\"\u003eVolcano Erupts After Lying Dormant for 12,000 Years, Sending Scientists Scrambling\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eScientific American\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFAydmwwME1WZmwzOFBmVkN0TGVtaTV2VXlFYjIzWm05akVWRmFvdFJzMDFJd3U5WU82UHdoOGFZcmlGdElFOGtfatIBTkFVX3lxTE14d0RxbDhfdkRmWFFYUmZNanVkejdHZVVLTDdWQnIzdU9Ca1VDMHdlOGhfZDdpTEJFV2RmaHFyaFVVYUJDTUxlMkxKQ0hrUQ?oc=5\" target=\"_blank\"\u003eAsh cloud from Ethiopian volcano eruption to have no significant impact on southern Pakistan, says PMD\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eDawn\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbWotOFBkZjNWWW0zZkJ4WWJOaVpsMm1TNE1uVzJyeWZxZldFNzZ0VkYzUXV0Y1lXYUNVV3J6c3dDcU1TMmExVmhqUU94MkN6REZIVGNaSF9wMW5KTkIwXzNWWXJYaFdOanV4UHAxSDZCNUZXVC1SRUU5RkhxQWFSNzRERk1FcEZhdzVsUkVPNTBPRE51V1daWUgtY3MzZUxKZ2tWa0E3eVQ?oc=5",
-         "links": [
-             "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbWotOFBkZjNWWW0zZkJ4WWJOaVpsMm1TNE1uVzJyeWZxZldFNzZ0VkYzUXV0Y1lXYUNVV3J6c3dDcU1TMmExVmhqUU94MkN6REZIVGNaSF9wMW5KTkIwXzNWWXJYaFdOanV4UHAxSDZCNUZXVC1SRUU5RkhxQWFSNzRERk1FcEZhdzVsUkVPNTBPRE51V1daWUgtY3MzZUxKZ2tWa0E3eVQ?oc=5"
-         ],
-         "published": "Mon, 24 Nov 2025 18:37:00 GMT",
-         "publishedParsed": "2025-11-24T18:37:00Z",
-         "guid": "CBMiqAFBVV95cUxQbWotOFBkZjNWWW0zZkJ4WWJOaVpsMm1TNE1uVzJyeWZxZldFNzZ0VkYzUXV0Y1lXYUNVV3J6c3dDcU1TMmExVmhqUU94MkN6REZIVGNaSF9wMW5KTkIwXzNWWXJYaFdOanV4UHAxSDZCNUZXVC1SRUU5RkhxQWFSNzRERk1FcEZhdzVsUkVPNTBPRE51V1daWUgtY3MzZUxKZ2tWa0E3eVQ"
-     },
-     {
-         "title": "Niger state kidnap: Nigerian father felt helpless as he saw children taken from Catholic school in Papiri - BBC",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YTDJFU2s3a2l5QkRZaXJQUThzaGtZYk55WkJ1OWI0WkZsOTFfUVM3TTJvQk5mNmx2VGp5MndQcXZDN3cxTDlzaDY1WHRKNURKRWVXY0U3MzJzQdIBX0FVX3lxTE5nN0Nld1h1eFltNVJ0VmNsSDVPSHRiS3FMcl9pR0MzelB0eVdOY2JtUkNaSXNnazNfZlR3ZkhGNFNkU2IzS3R6T3ROcVhJNFhrcjh2cUVDWkdKSXctQm5j?oc=5\" target=\"_blank\"\u003eNiger state kidnap: Nigerian father felt helpless as he saw children taken from Catholic school in Papiri\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBBC\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPbFllU1o4Z3V3TmQ4dnA4enVZRk05SDMwMUliakktYnJnTXNTZy1lenY3Y0tJNVVmNDZaVXBMT1Nhc3N6enZiZjA1bWM4TDJ4LXBHZzIyTXZyOWtsUU9KekZUVlc4eU9waWRjc0xROUJSelU4eW5rcmVFeEFZcTRQN3ZOdlkxMVVsdmpYRFRiWUE?oc=5\" target=\"_blank\"\u003e50 schoolchildren escape captivity in Nigeria, more than 200 still held\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNPR\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQSTFwYUYwZU5NSThlaTNYRHpPeTBsZWRKb1VPY01NMHI0TmN6V0JLY1ZlbG01TGNhaFJ4dEd4aEN4Qy1ORk50NWZMcWE5WEZGRjhOZGxOMlVpWi02SkFacnowSHB0Xzl3Z3JUN1hYSGFYWFBoWDFnaUx0Tk0zcVh2eFNaQ21zcXVCUXRxb0wwV0ZuVjE4UlZQWUtyaTUxLXBncTgyODg5MnlUZ0QyZFHSAbMBQVVfeXFMTlQtY1ZTcWNKUUh1RWQzOEMyVG1YY2FvTVFnZ1owbUg4SkctdUZDRjFHNmRIWTlvUXh6WGlVUVlXYmd0Qk5OOEdOQ2ZvZDBzM2RhMUFxTHVMRFpIa3pXZWZkNVBhcy1pcVNfUmMzU00zMDVaandZVFdKc05BTUJGZVZYdVZSdUJWYmFDVHNqSXZqSENpVXVsaEhadkFkNnFONkFyaDQzSmtNaF9Qb2VIdUg1ZXM?oc=5\" target=\"_blank\"\u003eNigeria school kidnapping: Who’s behind it, why were children targeted?\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAl Jazeera\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeUhvWjFDVE1MQzBlT2R3Z0JhM0pMX2NKSDZoc0h1Rk5iTDE4TFhfMHFoTTh4ZkR3VmpwcEk4WTFaVmhZbnkwcHRYNUJSY0duaHkxdklYLXNyUktsTFdDXzJ4b3VhaE5pRHFaUWtyZGZTYUNsaWJPQmlpSW1zd2dSNmo1em41bGNOWFBNX2tOamx2VUEwUlBITmU1RURkSkljRkxaN1p5OEM2cTNXQmNZNlgwSUEwRDdO?oc=5\" target=\"_blank\"\u003ePope Leo calls for the release of hostages in Nigeria and Cameroon\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eVatican News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxQZl9zY2pCcWl1YU9XSmI5bDMzVENQSk5GQTI2aXUzbUxkTElBcWhWcldKU2oya2dsU3RCajdScnNpVW92SWtJMmxaUFFUNDNXd2tvV0lPblVmaXJlT3owWUFiRXktNVhuYWF5YlVlN0RoZGQ0TTZvX2VoTTY1Q0Y3ZTFwbFMxOXM4dzFRWUtHT0VTUFJ0YXk4R2ZHbG9LNVB6LXkwdFZUbGJMa1dtV3BvZUt4VGdwazRNSW1ETDVqWHJMNmhHcnZmVXBLLS1IZU9NaFIwOUJVYTVxOWMwaE1MS05qa1FIV3BSaTdSSFpEbWZyMEdIaW1EZkpmT3JoSnNqS2ZDbkdXTkp4a2ZTZVlkRjUxMUdFU2h1UFVMdllHd0ttLXc?oc=5\" target=\"_blank\"\u003eMore than 300 students and teachers kidnapped, Christian association says\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWKRC\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YTDJFU2s3a2l5QkRZaXJQUThzaGtZYk55WkJ1OWI0WkZsOTFfUVM3TTJvQk5mNmx2VGp5MndQcXZDN3cxTDlzaDY1WHRKNURKRWVXY0U3MzJzQdIBX0FVX3lxTE5nN0Nld1h1eFltNVJ0VmNsSDVPSHRiS3FMcl9pR0MzelB0eVdOY2JtUkNaSXNnazNfZlR3ZkhGNFNkU2IzS3R6T3ROcVhJNFhrcjh2cUVDWkdKSXctQm5j?oc=5",
-         "links": [
-             "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YTDJFU2s3a2l5QkRZaXJQUThzaGtZYk55WkJ1OWI0WkZsOTFfUVM3TTJvQk5mNmx2VGp5MndQcXZDN3cxTDlzaDY1WHRKNURKRWVXY0U3MzJzQdIBX0FVX3lxTE5nN0Nld1h1eFltNVJ0VmNsSDVPSHRiS3FMcl9pR0MzelB0eVdOY2JtUkNaSXNnazNfZlR3ZkhGNFNkU2IzS3R6T3ROcVhJNFhrcjh2cUVDWkdKSXctQm5j?oc=5"
-         ],
-         "published": "Mon, 24 Nov 2025 16:11:12 GMT",
-         "publishedParsed": "2025-11-24T16:11:12Z",
-         "guid": "CBMiWkFVX3lxTE5YTDJFU2s3a2l5QkRZaXJQUThzaGtZYk55WkJ1OWI0WkZsOTFfUVM3TTJvQk5mNmx2VGp5MndQcXZDN3cxTDlzaDY1WHRKNURKRWVXY0U3MzJzQdIBX0FVX3lxTE5nN0Nld1h1eFltNVJ0VmNsSDVPSHRiS3FMcl9pR0MzelB0eVdOY2JtUkNaSXNnazNfZlR3ZkhGNFNkU2IzS3R6T3ROcVhJNFhrcjh2cUVDWkdKSXctQm5j"
+         "published": "Mon, 24 Nov 2025 17:00:00 GMT",
+         "publishedParsed": "2025-11-24T17:00:00Z",
+         "guid": "CBMikgFBVV95cUxPYWpCLWZIbnJMRnRRcXlQd0tNOTlHeGtQYWpPcEVGRUN2LVRaQXozT29rdGtqVlFNcUxKclpfLXdFVTdnQXhIa1h3QTZKaU5EVTFzZFdJNmJvS0F4ZGhwQ3lQRTJKX2MzdHhQMzQwSk8yOXc5T2lyTkVsODd1bUk2ZmNDTlJTY2k1QXdJQ05kci1SQdIBlwFBVV95cUxQeExIZjhuMHZJQnR5cVZWOENGbXJxX2tUUUNqa21EakxTU0NscE02RTJFVVFrTnYxNGliMlVJcFNJbkRGQ1N6SEI1N2hpUWpLenNVOFNIZVdULTQwY1ZMVkFpTUpvVjdpTDZCUzJWMlRwdWxBejJ4bXJGeWp1d3pzcTk3TDdzWWZVVGZJUVlsY2s1ZjR4R19j"
      },
      {
          "title": "Thai woman found alive in coffin after being brought in for cremation - ABC7 Los Angeles",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOaktwM0tuMVJWeDZJWFYzeTZVb3NETmVGcVozRC11eGIzWk11Vjc3STJNbEpYYzNfTWJjYlpjUWhKeDlYbU5fVkRxbzJWbmljd2E2d3pKa2gzM0dyQzBFWGVPYXFNMFhjVUJBaHd5a0psV3J1VVR4bnA1Y1UxeVNlVEJuZkJpVkRCal9YaHB3?oc=5\" target=\"_blank\"\u003eThai woman found alive in coffin after being brought in for cremation\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC7 Los Angeles\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOZ0UtanI4TGxHem1sV1Y1V1R2SXJQSWdzMEFTZkF4bDNHXzVXWkZkc1NtaHZwNTlPb2hMOTEzOXQwaThXeEVacmhYNG53MFdjdTFqclpKQ0FSbFZtWHY5azFuN0lTVzhxRU1Kb3BOVERzNkFYMnl5RWlHX29VVDBVVlN0X1hVaEF6eE0yVDktM3IweGNHZzZmVlp0N3kydw?oc=5\" target=\"_blank\"\u003eWoman Wakes Up in Coffin After Brother Tried to Donate Her Organs and Have Her Cremated\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003ePeople.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPWEt3YkF3UlBtZ2JMNmROM0Ytc285dDdXU1VVVERwY1N1SkR3d3B6TnQzVUJqOXlzUDBRdmhLckNrOGsxS0pXalBBQWdHMTBlV0c3dHJlMUdUVDJ0bEFFTHhRMWtGYXQtWWd1cTZkbzhyS3lwUnBNR2NjTy1jY19tLXg4akQ2NmVjVEpRdlNOdFB0b2PSAZgBQVVfeXFMTWxyVGRCM3NMZkxxN0pRaFR3ZmNqME9meFNoYm1TN01TLWF2WUpzZkpPSnJ3YUdPUjY5LWRRUUpZOGpxa0ZfRWhCSHhRb2hhQ09fWklTSTBEckFGN3Y0aHF3NTdMOVhkdGMwOFdYMlBCU0szOGFvbjdnV3BBRDd6RGFHUHhKN3psTTBkYUpxTTl3eERIVXdYZUI?oc=5\" target=\"_blank\"\u003eWoman found alive, moving in coffin after she was taken to Buddhist temple for cremation\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCBS News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQNGhPS3hsd0JGektNeHFxaXAyWlYzU3ZvWnhRb3h4VXVLWGFGOEVpMy1DajdKSnB1VWJDQ2FxZ24wR0w1aHBvSENKR2NLaUFhcFlNd1RqUE5sSzF0YkJFWFRSeHM4Y3cxamlDWjFQUzAzRkpjRXJua09BOWd3X1luMy1JOC0xazlzSmJhUVRZV003YngzU3AxdlhwaF95Qm9X0gGoAUFVX3lxTE1YWVBlZWpzaVZlQkR2YU1oTjZHQWpEYzZLeG1pdHFmbEk4d09ZUmZxWFlOU2JkNmpmSW1oZlZTNGozaGJERzVfS015U0Q3YklCN3QwdlU3WG9hNzlKSzhFUzBPUTFQS3JPd183NmNMSG9CblZIbjRHMkpKQmVNRVU5M2hYWjctdFZMWnlCSVF3X01vdFJLWW5yMFhOMjRvSy03SVhpRlRyRg?oc=5\" target=\"_blank\"\u003eThai Woman Declared Dead Wakes Up Inside Coffin Moments Before Cremation\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNDTV\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSmdLcDB4OUg4NDF5QXU4T3lnVmJkbmMzMkdoVWlwVXZ5TGdGcGthTFBGMk44THlkUkhTOGhIaldzQjI1OVBZV1FFNXRjc2dPa0FpX2VxSXVjT2JGbmFHR3hCS0dJX3dnWDJZd0E3cFE1ZURtOEs0YldZTnpPY2xLTGE3NmRERmhDUTZaNG5fejBEeGpYZ0dHMWdPUzM2a3pBQXZzUUlGLVNIQQ?oc=5\" target=\"_blank\"\u003eStaff Shocked When They Hear Knock From Inside Coffin Ahead of Cremation\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNewsweek\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaktwM0tuMVJWeDZJWFYzeTZVb3NETmVGcVozRC11eGIzWk11Vjc3STJNbEpYYzNfTWJjYlpjUWhKeDlYbU5fVkRxbzJWbmljd2E2d3pKa2gzM0dyQzBFWGVPYXFNMFhjVUJBaHd5a0psV3J1VVR4bnA1Y1UxeVNlVEJuZkJpVkRCal9YaHB3?oc=5",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOaktwM0tuMVJWeDZJWFYzeTZVb3NETmVGcVozRC11eGIzWk11Vjc3STJNbEpYYzNfTWJjYlpjUWhKeDlYbU5fVkRxbzJWbmljd2E2d3pKa2gzM0dyQzBFWGVPYXFNMFhjVUJBaHd5a0psV3J1VVR4bnA1Y1UxeVNlVEJuZkJpVkRCal9YaHB30gGTAUFVX3lxTE5iZ2RKN2ZYU0NWSWw4dkZ4X1NnR2wwZ1pQOENoeFU2SFJKcXNGVUREaE13Q2V1WWFlMllMSVNsR0szYlhGcFFnVEg1ZkdnOW1ESXZrblpOQV85NTJxaTBjZElyTEhxNVFxUTZYLWZRODdPVVA2R3BYRlI5bHRmSFJOMjRQejRTWVAtWlNxVm9mS3BMRQ?oc=5\" target=\"_blank\"\u003eThai woman found alive in coffin after being brought in for cremation\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC7 Los Angeles\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPWEt3YkF3UlBtZ2JMNmROM0Ytc285dDdXU1VVVERwY1N1SkR3d3B6TnQzVUJqOXlzUDBRdmhLckNrOGsxS0pXalBBQWdHMTBlV0c3dHJlMUdUVDJ0bEFFTHhRMWtGYXQtWWd1cTZkbzhyS3lwUnBNR2NjTy1jY19tLXg4akQ2NmVjVEpRdlNOdFB0b2PSAZgBQVVfeXFMTWxyVGRCM3NMZkxxN0pRaFR3ZmNqME9meFNoYm1TN01TLWF2WUpzZkpPSnJ3YUdPUjY5LWRRUUpZOGpxa0ZfRWhCSHhRb2hhQ09fWklTSTBEckFGN3Y0aHF3NTdMOVhkdGMwOFdYMlBCU0szOGFvbjdnV3BBRDd6RGFHUHhKN3psTTBkYUpxTTl3eERIVXdYZUI?oc=5\" target=\"_blank\"\u003eWoman found alive, moving in coffin after she was taken to Buddhist temple for cremation\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCBS News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOZ0UtanI4TGxHem1sV1Y1V1R2SXJQSWdzMEFTZkF4bDNHXzVXWkZkc1NtaHZwNTlPb2hMOTEzOXQwaThXeEVacmhYNG53MFdjdTFqclpKQ0FSbFZtWHY5azFuN0lTVzhxRU1Kb3BOVERzNkFYMnl5RWlHX29VVDBVVlN0X1hVaEF6eE0yVDktM3IweGNHZzZmVlp0N3kydw?oc=5\" target=\"_blank\"\u003eWoman Wakes Up in Coffin After Brother Tried to Donate Her Organs and Have Her Cremated\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003ePeople.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQNGhPS3hsd0JGektNeHFxaXAyWlYzU3ZvWnhRb3h4VXVLWGFGOEVpMy1DajdKSnB1VWJDQ2FxZ24wR0w1aHBvSENKR2NLaUFhcFlNd1RqUE5sSzF0YkJFWFRSeHM4Y3cxamlDWjFQUzAzRkpjRXJua09BOWd3X1luMy1JOC0xazlzSmJhUVRZV003YngzU3AxdlhwaF95Qm9X0gGoAUFVX3lxTE1YWVBlZWpzaVZlQkR2YU1oTjZHQWpEYzZLeG1pdHFmbEk4d09ZUmZxWFlOU2JkNmpmSW1oZlZTNGozaGJERzVfS015U0Q3YklCN3QwdlU3WG9hNzlKSzhFUzBPUTFQS3JPd183NmNMSG9CblZIbjRHMkpKQmVNRVU5M2hYWjctdFZMWnlCSVF3X01vdFJLWW5yMFhOMjRvSy03SVhpRlRyRg?oc=5\" target=\"_blank\"\u003eThai Woman Declared Dead Wakes Up Inside Coffin Moments Before Cremation\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNDTV\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSmdLcDB4OUg4NDF5QXU4T3lnVmJkbmMzMkdoVWlwVXZ5TGdGcGthTFBGMk44THlkUkhTOGhIaldzQjI1OVBZV1FFNXRjc2dPa0FpX2VxSXVjT2JGbmFHR3hCS0dJX3dnWDJZd0E3cFE1ZURtOEs0YldZTnpPY2xLTGE3NmRERmhDUTZaNG5fejBEeGpYZ0dHMWdPUzM2a3pBQXZzUUlGLVNIQQ?oc=5\" target=\"_blank\"\u003eStaff Shocked When They Hear Knock From Inside Coffin Ahead of Cremation\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNewsweek\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaktwM0tuMVJWeDZJWFYzeTZVb3NETmVGcVozRC11eGIzWk11Vjc3STJNbEpYYzNfTWJjYlpjUWhKeDlYbU5fVkRxbzJWbmljd2E2d3pKa2gzM0dyQzBFWGVPYXFNMFhjVUJBaHd5a0psV3J1VVR4bnA1Y1UxeVNlVEJuZkJpVkRCal9YaHB30gGTAUFVX3lxTE5iZ2RKN2ZYU0NWSWw4dkZ4X1NnR2wwZ1pQOENoeFU2SFJKcXNGVUREaE13Q2V1WWFlMllMSVNsR0szYlhGcFFnVEg1ZkdnOW1ESXZrblpOQV85NTJxaTBjZElyTEhxNVFxUTZYLWZRODdPVVA2R3BYRlI5bHRmSFJOMjRQejRTWVAtWlNxVm9mS3BMRQ?oc=5",
          "links": [
-             "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaktwM0tuMVJWeDZJWFYzeTZVb3NETmVGcVozRC11eGIzWk11Vjc3STJNbEpYYzNfTWJjYlpjUWhKeDlYbU5fVkRxbzJWbmljd2E2d3pKa2gzM0dyQzBFWGVPYXFNMFhjVUJBaHd5a0psV3J1VVR4bnA1Y1UxeVNlVEJuZkJpVkRCal9YaHB3?oc=5"
+             "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaktwM0tuMVJWeDZJWFYzeTZVb3NETmVGcVozRC11eGIzWk11Vjc3STJNbEpYYzNfTWJjYlpjUWhKeDlYbU5fVkRxbzJWbmljd2E2d3pKa2gzM0dyQzBFWGVPYXFNMFhjVUJBaHd5a0psV3J1VVR4bnA1Y1UxeVNlVEJuZkJpVkRCal9YaHB30gGTAUFVX3lxTE5iZ2RKN2ZYU0NWSWw4dkZ4X1NnR2wwZ1pQOENoeFU2SFJKcXNGVUREaE13Q2V1WWFlMllMSVNsR0szYlhGcFFnVEg1ZkdnOW1ESXZrblpOQV85NTJxaTBjZElyTEhxNVFxUTZYLWZRODdPVVA2R3BYRlI5bHRmSFJOMjRQejRTWVAtWlNxVm9mS3BMRQ?oc=5"
          ],
          "published": "Mon, 24 Nov 2025 19:16:31 GMT",
          "publishedParsed": "2025-11-24T19:16:31Z",
-         "guid": "CBMijgFBVV95cUxOaktwM0tuMVJWeDZJWFYzeTZVb3NETmVGcVozRC11eGIzWk11Vjc3STJNbEpYYzNfTWJjYlpjUWhKeDlYbU5fVkRxbzJWbmljd2E2d3pKa2gzM0dyQzBFWGVPYXFNMFhjVUJBaHd5a0psV3J1VVR4bnA1Y1UxeVNlVEJuZkJpVkRCal9YaHB3"
+         "guid": "CBMijgFBVV95cUxOaktwM0tuMVJWeDZJWFYzeTZVb3NETmVGcVozRC11eGIzWk11Vjc3STJNbEpYYzNfTWJjYlpjUWhKeDlYbU5fVkRxbzJWbmljd2E2d3pKa2gzM0dyQzBFWGVPYXFNMFhjVUJBaHd5a0psV3J1VVR4bnA1Y1UxeVNlVEJuZkJpVkRCal9YaHB30gGTAUFVX3lxTE5iZ2RKN2ZYU0NWSWw4dkZ4X1NnR2wwZ1pQOENoeFU2SFJKcXNGVUREaE13Q2V1WWFlMllMSVNsR0szYlhGcFFnVEg1ZkdnOW1ESXZrblpOQV85NTJxaTBjZElyTEhxNVFxUTZYLWZRODdPVVA2R3BYRlI5bHRmSFJOMjRQejRTWVAtWlNxVm9mS3BMRQ"
      },
      {
          "title": "Death toll in Vietnam floods reaches 90 - AP News",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPQU05S3NmaGhqTEE3ZXdORFlsOHJod1RjYmxWWUdKZEtUT2huTkN6NUZLNHJkRndRN2JnR3kzMlpGOVNVdHl5SlliTjl6dmlMVmhLVW52ang4Q2dUcmEzX1pGX2ZndUtkSmdmeDlBeTRDdGpoczBic3REOFVpblhaUTFFZXA4cmlZbk02X2xBUFktcTJJZ2QwXzI2STVjVVdWZ0VF?oc=5\" target=\"_blank\"\u003eDeath toll in Vietnam floods reaches 90\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAP News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT1JxQTFrX3oybnE4TU9renB0cTV5TVhBU0RqekQ4bmlSalFtM0FLb0cyODhMQ2dHYktMNWY5aktiTUk1MG4weFdWODRBa3hTVWVBZUtwX0JaYncyVjlDRFFVTUpiMkkyZW9qa0VqWTlFaXZBUnRES2JYSjVpVGdmYmowOUFCYVNzNXFnY054eTdrcXZDeU01RHpYSjUwRDl0dGduT3NadWlHQUXSAbABQVVfeXFMTWtpVzNnQkdmVDBiMzNySVdUMHdQVTdQeEZkdkFnQmc4TXAwVHN0aUVQNmZ3T202bWhnY1BSZEw4OXVHYnRZT3FibzVMTURYdTRCd1g3cW90Y0JWYXNQcmU5YmVFaUFUVFJKV2F4SlhKXzhJeGhmeGVQYWFiVWRoVmlLVmtEamJacDFfS05hdnJpT3AwTmY2T2x5YmlaLXdoNk9qQWNvYTJScHJuYVkyTHE?oc=5\" target=\"_blank\"\u003eDeath toll climbs in Southeast Asia as heavy rains cause floods and landslides\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzRxNVZ6bWFuczJQc0xOaGtOV0YzaDh1bTBFUUtraHg4ZHRybDFrNGk5ODFyRHB5dEhISktDOVBwTkM1bm5TT1QzcUoxdWZLMXYtTU16Vm5RV1hRbExNMEphSFlJRFlBdm5JeU5lQUxlUEE0MzZsMWY4SUVzUkE1SzJ5NmdkOFI3XzQ1SUVn?oc=5\" target=\"_blank\"\u003eImages From Vietnam’s Year of Deadly Wet Weather\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQb1kydm1sbllxT0hReEVlX2hCTEtjdm1lcEduSld3b0xfemRZMUtPaTRUTnV3U1VXTHVTdU1WT1hNYTN6VEdPZFJFbGptWHZQT2c5Y1FfMDNiLWRTdEJYYUZCd3V2UkpBYzZMNWZPMTg5cV9sV3Z0TUV1RXpmWW9wVDdrZ0p5V3VtRktzU0xWN0pSSGhjU0t6TQ?oc=5\" target=\"_blank\"\u003eVietnam flooding death toll reaches 90 amid landslides and relentless rain\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Guardian\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0RoSGxHamFDMUd0ckFpcjk0R2pwUWx1Z2t1RG1jTUxrdF8tQjlTNTdqcUJyOXVsUGpCaFdYcE5URE96NGVvMmlFbFdhbUpaTVBiRkVXSHBISGtZandHWFc0SVVVTjh4UFpPbFVHVWExQm5TZ0s4a0daWm9XMUprUVplUEZZZDg3d3g3NExYNGNTVTNpSGxhRnJrb0JzalczcENVclVOS0NVWlJwdXlhTXpsVjFseWtNallPTg?oc=5\" target=\"_blank\"\u003eFloods hit Vietnam again, killing at least 8, hindering coffee harvest\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eReuters\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPQU05S3NmaGhqTEE3ZXdORFlsOHJod1RjYmxWWUdKZEtUT2huTkN6NUZLNHJkRndRN2JnR3kzMlpGOVNVdHl5SlliTjl6dmlMVmhLVW52ang4Q2dUcmEzX1pGX2ZndUtkSmdmeDlBeTRDdGpoczBic3REOFVpblhaUTFFZXA4cmlZbk02X2xBUFktcTJJZ2QwXzI2STVjVVdWZ0VF?oc=5\" target=\"_blank\"\u003eDeath toll in Vietnam floods reaches 90\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAP News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzRxNVZ6bWFuczJQc0xOaGtOV0YzaDh1bTBFUUtraHg4ZHRybDFrNGk5ODFyRHB5dEhISktDOVBwTkM1bm5TT1QzcUoxdWZLMXYtTU16Vm5RV1hRbExNMEphSFlJRFlBdm5JeU5lQUxlUEE0MzZsMWY4SUVzUkE1SzJ5NmdkOFI3XzQ1SUVn?oc=5\" target=\"_blank\"\u003eImages From Vietnam’s Year of Deadly Wet Weather\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT1JxQTFrX3oybnE4TU9renB0cTV5TVhBU0RqekQ4bmlSalFtM0FLb0cyODhMQ2dHYktMNWY5aktiTUk1MG4weFdWODRBa3hTVWVBZUtwX0JaYncyVjlDRFFVTUpiMkkyZW9qa0VqWTlFaXZBUnRES2JYSjVpVGdmYmowOUFCYVNzNXFnY054eTdrcXZDeU01RHpYSjUwRDl0dGduT3NadWlHQUXSAbABQVVfeXFMTWtpVzNnQkdmVDBiMzNySVdUMHdQVTdQeEZkdkFnQmc4TXAwVHN0aUVQNmZ3T202bWhnY1BSZEw4OXVHYnRZT3FibzVMTURYdTRCd1g3cW90Y0JWYXNQcmU5YmVFaUFUVFJKV2F4SlhKXzhJeGhmeGVQYWFiVWRoVmlLVmtEamJacDFfS05hdnJpT3AwTmY2T2x5YmlaLXdoNk9qQWNvYTJScHJuYVkyTHE?oc=5\" target=\"_blank\"\u003eDeath toll climbs in Southeast Asia as heavy rains cause floods and landslides\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmM3l2enFta2pTakpGRkhocXA2MHlWbE5TS2pRVFBRN1lFWDEwb3ZmVHJyeWNTZmMyZkpuTHZJYTN5TERLNVFLNkoxQnJEZGRQLVEtV3QtZTR6UQ?oc=5\" target=\"_blank\"\u003eVietnam floods leave at least 90 dead and 12 missing\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBBC\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQb1kydm1sbllxT0hReEVlX2hCTEtjdm1lcEduSld3b0xfemRZMUtPaTRUTnV3U1VXTHVTdU1WT1hNYTN6VEdPZFJFbGptWHZQT2c5Y1FfMDNiLWRTdEJYYUZCd3V2UkpBYzZMNWZPMTg5cV9sV3Z0TUV1RXpmWW9wVDdrZ0p5V3VtRktzU0xWN0pSSGhjU0t6TQ?oc=5\" target=\"_blank\"\u003eVietnam flooding death toll reaches 90 amid landslides and relentless rain\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Guardian\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQU05S3NmaGhqTEE3ZXdORFlsOHJod1RjYmxWWUdKZEtUT2huTkN6NUZLNHJkRndRN2JnR3kzMlpGOVNVdHl5SlliTjl6dmlMVmhLVW52ang4Q2dUcmEzX1pGX2ZndUtkSmdmeDlBeTRDdGpoczBic3REOFVpblhaUTFFZXA4cmlZbk02X2xBUFktcTJJZ2QwXzI2STVjVVdWZ0VF?oc=5",
          "links": [
              "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQU05S3NmaGhqTEE3ZXdORFlsOHJod1RjYmxWWUdKZEtUT2huTkN6NUZLNHJkRndRN2JnR3kzMlpGOVNVdHl5SlliTjl6dmlMVmhLVW52ang4Q2dUcmEzX1pGX2ZndUtkSmdmeDlBeTRDdGpoczBic3REOFVpblhaUTFFZXA4cmlZbk02X2xBUFktcTJJZ2QwXzI2STVjVVdWZ0VF?oc=5"
@@ -1805,8 +1616,19 @@
          "guid": "CBMiowFBVV95cUxPQU05S3NmaGhqTEE3ZXdORFlsOHJod1RjYmxWWUdKZEtUT2huTkN6NUZLNHJkRndRN2JnR3kzMlpGOVNVdHl5SlliTjl6dmlMVmhLVW52ang4Q2dUcmEzX1pGX2ZndUtkSmdmeDlBeTRDdGpoczBic3REOFVpblhaUTFFZXA4cmlZbk02X2xBUFktcTJJZ2QwXzI2STVjVVdWZ0VF"
      },
      {
+         "title": "Delhi, India: Lethal smog is back in the world’s most polluted capital. Residents have had enough - CNN",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNaEpBYVFIMHhYQzJONW5VamhRbXRGazUxR1poQm1Ybnl0NjVFQXFlTWw1X3JOYTI3dGJfam9vUktvVldkN1Y2Z05DdFVZUksyVEVxSTNXOUtCTTRQaHphT0ZBdzBLTXdKeGpoeGFfV2RHVWV2MkV3bUpNd2NoN1UwNVNUc1RaUDR2MDQ5SlZFbw?oc=5\" target=\"_blank\"\u003eDelhi, India: Lethal smog is back in the world’s most polluted capital. Residents have had enough\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2VuYlJ0enFBbzNOdkZkNENpQVBBcVViRDlFb0U5MkdYd09WdXgyaThWRS12Vi1LNEhBbGlrVVFqcm5MaEdoYnFtZHZjUTNab096MXh6VEtfbVBZRzJmZlNTN1JibFBET1ZZNUZTUHk1dHpycFQ3ZFh4OVNxaDRmM0JCMVlRTE1Ud0RSdmdwNExDdzNEd0NVLVB0Zm9MQVkzaGhMSFZHSURtZTl2YlE?oc=5\" target=\"_blank\"\u003eOffices To Work At 50% Strength, WFH For Rest As Toxic Air Chokes Delhi\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNDTV\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRjlFVU8xOFBpNEhveW1sUEw3Zk94cWtqTVo3MDczN1EzaDdWWm4wa1J1a2R1NENSMHFHOXFVOGxoMUo5cFBoSFFDUGM0SzFUYmxSU0lsM0gxajJBSDNvMTNaMzZHNG5DYlNMZVJDdEVkNzRvT2xtUTlPOGZXZHZNa3VyWkUwVVUwYU5GekxidXRQbzdqemE0UGtweUE2RnF3TlNkOVpqZzFqSGZadWFlSS1yb0NHemtjVTVxYWs0NHRTMGgzTzlQbHJrUzZMNERaaGhrU201LVNocUthVno3TUR4aw?oc=5\" target=\"_blank\"\u003eDelhi's toxic air remains ‘very poor’ with AQI 397; protesters stun cops with chilli spray\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eHindustan Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeU9OWkhrcExNelpfZk5zN0R2dV85TVd1a0xmMmVPVGdVelRGd3hSSlBWd2RvMmZpeWxpSTNzV01tVnVadFlwbWFQUEJ0Qms2RTNDX0pqUjZFWmd3WUxEOVJuS3AycG9yMEIzbjRWeTM5Y2lnd09sTTVYMTNtTS1MMHBDdUJfYmp3OGpDMzVoZG1uMFpubjVJQXRHbE11dXVZVE5fTk5xSVc2MjdHUlNIMUNnYXc0ZlZmSnFiOFE2Vk1aampvSkhyZTVkellGa2xRcUFDS9IB2gFBVV95cUxNRXVnaU12MDhVZWRjb1E2STJzLWx4SWJsY05KeXNQOWFNNHJBaEVxT05TRG5Mbk83c21sOWtWNzZrNHlPOUVwNFFReUl3a0Q4LWhDRW93SWNpNUFRYl9DbVlTY0lhWXNHd19pUmIwSEdldzRvQmRRc1RZQlZla3NwZ0VRVjJsczVkcHYxVTMtMnI5MUdvODE4WEJFcFdQQjI4Y0dNX0VKNXJDR0xWT1BYc2NYaDNMOEwwVm5uMTdZYmpSNEJwcjE2aUFWbWQ1TE9xRXQ5bGF5NVZFZw?oc=5\" target=\"_blank\"\u003eForgotten hotspots: Areas close to waste-to-energy plants have Delhi’s worst air; Okhla, Ghazipur worst h\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eTimes of India\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVGhEd0JYN0ltN2JRZVJPWmotSm5MS1FTSFdvM1F1LUZRRXc3eFZOLTgxdVRidkFnOWRMcmNOSmdqNTJSM1lXc2NzU0hIMWNqVTc3dXBMTzRWalhZSG9CejNNYlFpQUlIa1doUEdqN1FsM21EVWozMDluY2Qtell0YnhpUzB3ZEJOTGszNTBscFJPLWtYVUZKU3doYkx4NmFReXpYbGdSaVdVX08xN28xelotRm1rYTZMQUVpdWhqUWcwTmlaUzFjRXZBN0ZleWNzS2RQOU9McWJ1ZjN3SW9LZzhiTDZ2Z2s4TzhwMUtDeVdHQQ?oc=5\" target=\"_blank\"\u003eDelhi orders 50% attendance in govt \u0026 private offices, work-from-home as AQI hovers close to ‘severe’\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003elivemint.com\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaEpBYVFIMHhYQzJONW5VamhRbXRGazUxR1poQm1Ybnl0NjVFQXFlTWw1X3JOYTI3dGJfam9vUktvVldkN1Y2Z05DdFVZUksyVEVxSTNXOUtCTTRQaHphT0ZBdzBLTXdKeGpoeGFfV2RHVWV2MkV3bUpNd2NoN1UwNVNUc1RaUDR2MDQ5SlZFbw?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaEpBYVFIMHhYQzJONW5VamhRbXRGazUxR1poQm1Ybnl0NjVFQXFlTWw1X3JOYTI3dGJfam9vUktvVldkN1Y2Z05DdFVZUksyVEVxSTNXOUtCTTRQaHphT0ZBdzBLTXdKeGpoeGFfV2RHVWV2MkV3bUpNd2NoN1UwNVNUc1RaUDR2MDQ5SlZFbw?oc=5"
+         ],
+         "published": "Sun, 23 Nov 2025 23:00:59 GMT",
+         "publishedParsed": "2025-11-23T23:00:59Z",
+         "guid": "CBMijwFBVV95cUxNaEpBYVFIMHhYQzJONW5VamhRbXRGazUxR1poQm1Ybnl0NjVFQXFlTWw1X3JOYTI3dGJfam9vUktvVldkN1Y2Z05DdFVZUksyVEVxSTNXOUtCTTRQaHphT0ZBdzBLTXdKeGpoeGFfV2RHVWV2MkV3bUpNd2NoN1UwNVNUc1RaUDR2MDQ5SlZFbw"
+     },
+     {
          "title": "Gold watch belonging to couple who died together on the Titanic sells for $2.3 million - CBS News",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2FHX1Q2blUzVWZyYWFXZmhOOTJNX3pXQWhlTGJIM1UzSVVGeDE2ZnRDX0YtWGg3LVViN0VnTUdsRWdfZFh6VXNULWVmQmR4dWo3c3ZaRUkxLUZKSDIzX3N5N3VBWndLRlJEVFRCSlp5UVhGVUpPZHNXcUVQT1JfcGRHOGfSAYoBQVVfeXFMTzNoSXVMMldVcE80UFVUU3FweUViaFBHNW1nbDg5VnllYUcxeGZtaFJpaE9kOFQtTERabkttaUswbmY3WjRWZTc1bksxVDVoMXlzLWNXQlg5NnhsclFoVjhOdTdNVlZSNEh4T05fX0VfQVV2V1ZDNlFhODBYZXJIZlBQTUpMQmwwQkpR?oc=5\" target=\"_blank\"\u003eGold watch belonging to couple who died together on the Titanic sells for $2.3 million\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCBS News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzFZZ2JKeEZlWG02aG0yTVRfekVrWVRncXl1TXZZZ0lRZ0lXTlgxcFpEV1dLS29GMFR0cTRncDFTQWw4Y1YzN0xqa2RsZml5UDJiUkJCR2daUGZZMGpjem5XT0RlaHctZTdOT01qTDBIckhrU0JiOEE5VnNJXzQ1dExidVVuSjRvT1lVQTJaWHg1LWZubzExVVgwWlh4QzJSR0JJMWItc1E2S2xwbGpNN2M5TktFbGc5enRB0gFWQVVfeXFMUEZyNnFBSWZRWFNMT3RETFoxeWdrQlAtaGFpbWdvUDdGTThDZ1p5TEZTZjdiVmpYRmVlaTFINDktSy11UlkwNXZpVjlNdzgtRWNxU0hNaWc?oc=5\" target=\"_blank\"\u003eTitanic passenger Isidor Straus's pocket watch sells for $2.3 million\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNBC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE54ZnAwbU12dDVsZFVJUUpWcjFVQmFaWHd4LXU4VlpaUjlWQ3pISlRjUkc5eVdkWDA5VkxDRURXdFdOV3V0S0NtOFVwQWJ3SjkxZ2hFSmFqcF9Edw?oc=5\" target=\"_blank\"\u003eTitanic passenger's pocket watch fetches £1.78m at auction\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBBC\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNTXlDOGpMa1B5MVlGWTJrbTdoR0pjMzh1a2pkcnZOMUVqWDBLZnZibmtIMGRLVTZKQmdNNG9MN0l6UG04RVhIM0xfeS1lVWVEdmJWclg2M0IzZnBfOXJzd3VlZ3IxaVR5aGFSNzJFaks0Z0JqMmlVVExsM0k0LTZoT3ZtNi1jUGF1UXNTXzZ6SWswV001Qi00RjFQeHNvdW9aZWhDWDJZTQ?oc=5\" target=\"_blank\"\u003eGold pocket watch recovered from Titanic sells for record £1.8m\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Telegraph\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE92dm56LWZCQUxJYU9SZ2JSeXZ2UTAtNDB5dUJzN3BzY0Z6d2NJZW9HU1E4eGtwQ0lZbV8zWUNQZUNYQlRGMkVnbksxYkVfU1NoY2hiYjlONG94MFY5WlFHLUhFNFVBQWlMTmpqUmo4UG5SMEJsZmk2V0RHZnk?oc=5\" target=\"_blank\"\u003eTitanic Passenger’s Pocket Watch Sells for $2.3 Million\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2FHX1Q2blUzVWZyYWFXZmhOOTJNX3pXQWhlTGJIM1UzSVVGeDE2ZnRDX0YtWGg3LVViN0VnTUdsRWdfZFh6VXNULWVmQmR4dWo3c3ZaRUkxLUZKSDIzX3N5N3VBWndLRlJEVFRCSlp5UVhGVUpPZHNXcUVQT1JfcGRHOGfSAYoBQVVfeXFMTzNoSXVMMldVcE80UFVUU3FweUViaFBHNW1nbDg5VnllYUcxeGZtaFJpaE9kOFQtTERabkttaUswbmY3WjRWZTc1bksxVDVoMXlzLWNXQlg5NnhsclFoVjhOdTdNVlZSNEh4T05fX0VfQVV2V1ZDNlFhODBYZXJIZlBQTUpMQmwwQkpR?oc=5\" target=\"_blank\"\u003eGold watch belonging to couple who died together on the Titanic sells for $2.3 million\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCBS News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkVmd1VFLTdzQ1ZiV0ZYa3JKS2NPT0FiUTRrbXdwTVlMVDZUdlJRNl9OM3RXdS1tRnBLSFdhRFlpalg3SWlPVkRnZEpyNndYb1BheW8wM3FkS28wblRTalhBSUlkSXRvWE1jZ2xoY2cyMVBlREk4VDhtaUlSa3oyVDB2YWtCSzJod3NTTi1lVDk4cGFiSFRrQnJB?oc=5\" target=\"_blank\"\u003eMan Died on Titanic Wearing Watch That Just Sold for Historic $2.3M. As Ship Sank, Wife Refused to Leave His Side\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003ePeople.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzFZZ2JKeEZlWG02aG0yTVRfekVrWVRncXl1TXZZZ0lRZ0lXTlgxcFpEV1dLS29GMFR0cTRncDFTQWw4Y1YzN0xqa2RsZml5UDJiUkJCR2daUGZZMGpjem5XT0RlaHctZTdOT01qTDBIckhrU0JiOEE5VnNJXzQ1dExidVVuSjRvT1lVQTJaWHg1LWZubzExVVgwWlh4QzJSR0JJMWItc1E2S2xwbGpNN2M5TktFbGc5enRB0gFWQVVfeXFMUEZyNnFBSWZRWFNMT3RETFoxeWdrQlAtaGFpbWdvUDdGTThDZ1p5TEZTZjdiVmpYRmVlaTFINDktSy11UlkwNXZpVjlNdzgtRWNxU0hNaWc?oc=5\" target=\"_blank\"\u003eTitanic passenger Isidor Straus's pocket watch sells for $2.3 million\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNBC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNZGZlbE10T0RreFl6R2NGOXVCdnFJbGRscWtma3A0QnpUSGRpcUdkTkN2S2xRUXdvQjg1UHRKWmw5MXBNdDVEQkR0aURyb0JxZ2hMaWoxVmYxQWFrU185aGk4cTFxUkE0dk50elc4OF95S2YxWnlETXpzc1FxcDduenhwY0ZlMGlIYnJ2NU0wYnZfX2JTX2ViYmV5bHFPZzQ?oc=5\" target=\"_blank\"\u003eTitanic passenger’s pocket watch sold for record £1.78m at auction\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Guardian\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE92dm56LWZCQUxJYU9SZ2JSeXZ2UTAtNDB5dUJzN3BzY0Z6d2NJZW9HU1E4eGtwQ0lZbV8zWUNQZUNYQlRGMkVnbksxYkVfU1NoY2hiYjlONG94MFY5WlFHLUhFNFVBQWlMTmpqUmo4UG5SMEJsZmk2V0RHZnk?oc=5\" target=\"_blank\"\u003eTitanic Passenger’s Pocket Watch Sells for $2.3 Million\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2FHX1Q2blUzVWZyYWFXZmhOOTJNX3pXQWhlTGJIM1UzSVVGeDE2ZnRDX0YtWGg3LVViN0VnTUdsRWdfZFh6VXNULWVmQmR4dWo3c3ZaRUkxLUZKSDIzX3N5N3VBWndLRlJEVFRCSlp5UVhGVUpPZHNXcUVQT1JfcGRHOGfSAYoBQVVfeXFMTzNoSXVMMldVcE80UFVUU3FweUViaFBHNW1nbDg5VnllYUcxeGZtaFJpaE9kOFQtTERabkttaUswbmY3WjRWZTc1bksxVDVoMXlzLWNXQlg5NnhsclFoVjhOdTdNVlZSNEh4T05fX0VfQVV2V1ZDNlFhODBYZXJIZlBQTUpMQmwwQkpR?oc=5",
          "links": [
              "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2FHX1Q2blUzVWZyYWFXZmhOOTJNX3pXQWhlTGJIM1UzSVVGeDE2ZnRDX0YtWGg3LVViN0VnTUdsRWdfZFh6VXNULWVmQmR4dWo3c3ZaRUkxLUZKSDIzX3N5N3VBWndLRlJEVFRCSlp5UVhGVUpPZHNXcUVQT1JfcGRHOGfSAYoBQVVfeXFMTzNoSXVMMldVcE80UFVUU3FweUViaFBHNW1nbDg5VnllYUcxeGZtaFJpaE9kOFQtTERabkttaUswbmY3WjRWZTc1bksxVDVoMXlzLWNXQlg5NnhsclFoVjhOdTdNVlZSNEh4T05fX0VfQVV2V1ZDNlFhODBYZXJIZlBQTUpMQmwwQkpR?oc=5"
@@ -1816,15 +1638,26 @@
          "guid": "CBMihAFBVV95cUxOX2FHX1Q2blUzVWZyYWFXZmhOOTJNX3pXQWhlTGJIM1UzSVVGeDE2ZnRDX0YtWGg3LVViN0VnTUdsRWdfZFh6VXNULWVmQmR4dWo3c3ZaRUkxLUZKSDIzX3N5N3VBWndLRlJEVFRCSlp5UVhGVUpPZHNXcUVQT1JfcGRHOGfSAYoBQVVfeXFMTzNoSXVMMldVcE80UFVUU3FweUViaFBHNW1nbDg5VnllYUcxeGZtaFJpaE9kOFQtTERabkttaUswbmY3WjRWZTc1bksxVDVoMXlzLWNXQlg5NnhsclFoVjhOdTdNVlZSNEh4T05fX0VfQVV2V1ZDNlFhODBYZXJIZlBQTUpMQmwwQkpR"
      },
      {
-         "title": "Man who ran blackmail ring that sexually exploited or abused 261 victims gets life sentence in South Korea - CBS News",
-         "description": "\u003ca href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPTmlJU2VKd1ZGdFdRTzVBZTdXeWlVSTlNVHhVTEZtQk9PVS15MXRlXzBoY2dCUmlqTDFRenloTVNPeU1adjU4bEN2ZFhXTi12ajUtQkF1Ujh6dnVDdUZaWlh1WEZ5VWZlMUxKWXNZdXJobVZTUWw3YklXNFFWQ0dXdlRQZUZjbGVpU0o1MWJFbGc2RExxUnhkWTFubEZkX3fSAaQBQVVfeXFMTzFldVlSbHVLczRVdFJzM2ZibFdmNmczUm5ic1J5ek0wZ2tpaHE2cWNBc3c2b1BTbFRyNk1hdWNRZWRsSHYwNzhXbDZxd1ZyVlJrU3B6N1JLTm1xMGE3Q3kyZVkyQ3h3T183R3JYN0xhWk1wZjl0LWdRTV9Sc3ZQRl9ZSURFTFoxZ1VKV3Q2TlVYa1d5RDV6Qy1QRkFnU3cwRDBZazQ?oc=5\" target=\"_blank\"\u003eMan who ran blackmail ring that sexually exploited or abused 261 victims gets life sentence in South Korea\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCBS News\u003c/font\u003e\u003cstrong\u003e\u003ca href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2laM3FlSUVCRzc2eU9QcVNPREZ5Z0FQAQ?hl=en-US\u0026gl=US\u0026ceid=US:en\u0026oc=5\" target=\"_blank\"\u003eView Full Coverage on Google News\u003c/a\u003e\u003c/strong\u003e",
-         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTmlJU2VKd1ZGdFdRTzVBZTdXeWlVSTlNVHhVTEZtQk9PVS15MXRlXzBoY2dCUmlqTDFRenloTVNPeU1adjU4bEN2ZFhXTi12ajUtQkF1Ujh6dnVDdUZaWlh1WEZ5VWZlMUxKWXNZdXJobVZTUWw3YklXNFFWQ0dXdlRQZUZjbGVpU0o1MWJFbGc2RExxUnhkWTFubEZkX3fSAaQBQVVfeXFMTzFldVlSbHVLczRVdFJzM2ZibFdmNmczUm5ic1J5ek0wZ2tpaHE2cWNBc3c2b1BTbFRyNk1hdWNRZWRsSHYwNzhXbDZxd1ZyVlJrU3B6N1JLTm1xMGE3Q3kyZVkyQ3h3T183R3JYN0xhWk1wZjl0LWdRTV9Sc3ZQRl9ZSURFTFoxZ1VKV3Q2TlVYa1d5RDV6Qy1QRkFnU3cwRDBZazQ?oc=5",
+         "title": "‘Stone-cold killers’: New Zealand to eradicate feral cats by 2050 - The Guardian",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQU1dzLVhjakliS0l6MnNLYm1HdFhWOUk0bG9YbGlKUE9vamdyU2p1bS0xVkZkUE1IU1FuZWtqX2NOYjFfRmZ6RTMyQjlYNGhUbkF4WmMxbG9ldi03eGdrNWlSNEFEQldWRnJuVmVUR040a0hRZjQ1aHlnM1BzUUZWZWZrU0ExYjBZcVpWTW1NUE9fdXc?oc=5\" target=\"_blank\"\u003e‘Stone-cold killers’: New Zealand to eradicate feral cats by 2050\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Guardian\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5BallvTzRuZWY5bmtWWmt3T1Z3dlBmT21nWWszMHlmX0ZJTVAzTmk2d2pJbDg5d3ZYUGtISUVwRkVjSGtubXhleTNONHMyWk5SM3ZWOXJHanppMGVXYlp4UG95NVpMNXZxR25pNkRycm9GTUZETDlaMTNqMA?oc=5\" target=\"_blank\"\u003eNew Zealand says it’s going to eradicate feral cats\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSVpsOV9GMl93M18zTndiNHVWaHJMajVpZi0zTk91SXRMMUdOQ2NFZWZ3X2xkakhCaGdQN0RCcXVMeUZDMjNFTlF2d1ItaEN0NmJ6MjYydGczYU9vWWhKNGxUSjhuR254Z2YtVGEyWjhqTHdlc1llQzNDVzFTdWNiYjR6b0djUmVMNHJ5dFBtZmhSNGZZd3c0TmlZOWdKbzE4amlyUU9rMUJZVGw1ZUxuektEWlc5QWVSRElJ?oc=5\" target=\"_blank\"\u003eWhy Are There So Few Rules For The Millions Of Cats That Damage Our Biodiversity?\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCommunity Scoop\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQRGpZWFhvQXByN1FVTkZabjAxdTBreHhVNmk1eURGVTdINnZLcFcwemZzVFdPMUM2LWg1OVNVOHVVRGthZWhULXZpRHlaUTBxVHY3a3IwRUEtN1l4YUhhbnFJekxNaW0zaTVtWUtRUTBiSFBkdTJheE03cU5WSG5UTktuRQ?oc=5\" target=\"_blank\"\u003e#weekends Aotearoa and the Feral Cat problem – its big\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWaatea News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ3g2RWdpRGNkOUc3OVBXWnlra1RESTBfQnQ0WnBPcTBUVnJXTk1uQm5KLW5IUEFWa3A4Wk9TdFdVSUFwb21Cano2SFRIN1htZkNnQWdGR0lkdGlWQWh1d05mMWpxRjZkMHA0S2hTenVSaTZPczBKMDg0ZDVBdjdCc1FYLW9BMnZLaWVrMGo5UGlELW5GdDNOV25EZ1RJdWRFQ080Y19QRmNXZzFxMGN0RVFSSWxVZWcyTmNvUGJLZTgwX3NHMGlGc09BX01vYzQ0eldqT2t4dUxKeWlGX3lDU0o4T1VvVWpxSjZR?oc=5\" target=\"_blank\"\u003eThe controversial 'secondary kill' plan to eliminate feral cats on Stewart Island\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eRNZ\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU1dzLVhjakliS0l6MnNLYm1HdFhWOUk0bG9YbGlKUE9vamdyU2p1bS0xVkZkUE1IU1FuZWtqX2NOYjFfRmZ6RTMyQjlYNGhUbkF4WmMxbG9ldi03eGdrNWlSNEFEQldWRnJuVmVUR040a0hRZjQ1aHlnM1BzUUZWZWZrU0ExYjBZcVpWTW1NUE9fdXc?oc=5",
          "links": [
-             "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTmlJU2VKd1ZGdFdRTzVBZTdXeWlVSTlNVHhVTEZtQk9PVS15MXRlXzBoY2dCUmlqTDFRenloTVNPeU1adjU4bEN2ZFhXTi12ajUtQkF1Ujh6dnVDdUZaWlh1WEZ5VWZlMUxKWXNZdXJobVZTUWw3YklXNFFWQ0dXdlRQZUZjbGVpU0o1MWJFbGc2RExxUnhkWTFubEZkX3fSAaQBQVVfeXFMTzFldVlSbHVLczRVdFJzM2ZibFdmNmczUm5ic1J5ek0wZ2tpaHE2cWNBc3c2b1BTbFRyNk1hdWNRZWRsSHYwNzhXbDZxd1ZyVlJrU3B6N1JLTm1xMGE3Q3kyZVkyQ3h3T183R3JYN0xhWk1wZjl0LWdRTV9Sc3ZQRl9ZSURFTFoxZ1VKV3Q2TlVYa1d5RDV6Qy1QRkFnU3cwRDBZazQ?oc=5"
+             "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU1dzLVhjakliS0l6MnNLYm1HdFhWOUk0bG9YbGlKUE9vamdyU2p1bS0xVkZkUE1IU1FuZWtqX2NOYjFfRmZ6RTMyQjlYNGhUbkF4WmMxbG9ldi03eGdrNWlSNEFEQldWRnJuVmVUR040a0hRZjQ1aHlnM1BzUUZWZWZrU0ExYjBZcVpWTW1NUE9fdXc?oc=5"
          ],
-         "published": "Mon, 24 Nov 2025 12:08:00 GMT",
-         "publishedParsed": "2025-11-24T12:08:00Z",
-         "guid": "CBMinwFBVV95cUxPTmlJU2VKd1ZGdFdRTzVBZTdXeWlVSTlNVHhVTEZtQk9PVS15MXRlXzBoY2dCUmlqTDFRenloTVNPeU1adjU4bEN2ZFhXTi12ajUtQkF1Ujh6dnVDdUZaWlh1WEZ5VWZlMUxKWXNZdXJobVZTUWw3YklXNFFWQ0dXdlRQZUZjbGVpU0o1MWJFbGc2RExxUnhkWTFubEZkX3fSAaQBQVVfeXFMTzFldVlSbHVLczRVdFJzM2ZibFdmNmczUm5ic1J5ek0wZ2tpaHE2cWNBc3c2b1BTbFRyNk1hdWNRZWRsSHYwNzhXbDZxd1ZyVlJrU3B6N1JLTm1xMGE3Q3kyZVkyQ3h3T183R3JYN0xhWk1wZjl0LWdRTV9Sc3ZQRl9ZSURFTFoxZ1VKV3Q2TlVYa1d5RDV6Qy1QRkFnU3cwRDBZazQ"
+         "published": "Mon, 24 Nov 2025 18:37:00 GMT",
+         "publishedParsed": "2025-11-24T18:37:00Z",
+         "guid": "CBMikwFBVV95cUxQU1dzLVhjakliS0l6MnNLYm1HdFhWOUk0bG9YbGlKUE9vamdyU2p1bS0xVkZkUE1IU1FuZWtqX2NOYjFfRmZ6RTMyQjlYNGhUbkF4WmMxbG9ldi03eGdrNWlSNEFEQldWRnJuVmVUR040a0hRZjQ1aHlnM1BzUUZWZWZrU0ExYjBZcVpWTW1NUE9fdXc"
+     },
+     {
+         "title": "A family of five was living off-grid in a remote cabin in central Italy. Then the courts intervened - CNN",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE4yeHZlZ1MwSEdhX0lYMHZSX0hhMzVTZG1MdFVYS0ZQdzdnS2tyaW5abHRlS1hEc19iRHh5dnR2YzZnNENJTWxyXzZEWTNjUE9leE9mSjFkeW1rcTNrMXJYSEswVHExVVN4NEg4TUxPY2Y1VlZsaHM5MENIaw?oc=5\" target=\"_blank\"\u003eA family of five was living off-grid in a remote cabin in central Italy. Then the courts intervened\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ1BidkIxODZmODJiQ1p5aUFWNHBuZjc0LVdfQzdFaXhpbnBIYzE4LTU0bmREZ0wzaGFHb2JVWWk1OXYtdWdMZlYzMTUxeEJ0aTRtYmRDeUUzUmhRNmxpalJNMklacDNQR0xtUDUyU2dtNHpiNkZNb2Q4UlJ2dWFRdGdpdjRiV3B1S0I1YW1lek0tMXc1Q2FfOXVYWmxxTnlJZFZ5N0pWMTNNdlJtY0UxSWVRNEhCQzM1cnNmQWhtRVgta04zOUlMdXhmY2NURlRxMlJFX2hEcGZsVXR0?oc=5\" target=\"_blank\"\u003eCourt ruling to remove children of UK-Australian couple living in woods divides Italy\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Guardian\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPNDZrUDNhb0wwbnRqWHlxcGV0a2NpQUZsbi01TVluUTBBVDZiQjFOVUVGU2c0aDZULVptdWVBWERaNUx2ckVPMXZCbkZQcXo0M04wY2lNREhkLXRoRjlhbWJTQy1kX0cydGNjUmRNNDZpSDRaQUsxMGNudjdzZTNUSWhJRXI4OERqYU1xNFFESjRoejZrVlJ5M3ZRZ3lEQW5sQlFydXRsX0Q1OXNqT1BmVVdDYm9MMTl6TGw5TzV6cThIOWNGWFFzZjdB?oc=5\" target=\"_blank\"\u003eItalian court removes three children from family living in woods\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eEuronews.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPdkU0ZkVhUXdROXVIX1JqXzE3NFpHb3ktZlJ0bm9wZkNidHhRZFpxRTBMNkFNSmdVcnl1b1hEanpEMnotc1R2bmpVeGxvLWZVZFA4SlFXclFXVmtienhEOF9XTHNKTjctUFBHWFdIV2tzdEZEYU9nRnVPeVBjSl9xRUtVMFhjOFJ2Mm1UMWMtUHcwbkEyMDlJdFhNNUl6N3c?oc=5\" target=\"_blank\"\u003e3 Kids Under 9 Were Living with Parents in Remote Woods Until Court Took Custody. Dad Calls It 'a Great Injustice'\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003ePeople.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQeG94b3pMaERGeEdNek9WNUtmSWU5aC04ZWdwNkZrLWlCRnp3MlFkUHp0cDJhbDJwZXN5dFA2alVRYklnREgzX2t0MXJ3cUxtSjlPMU5pbDVNVmVzNjZhdUVHWkF5QTR1WGFBT2ZfRERIT0Nhcjdpd2RpNERFYUE2Yk9kdVM4aDE5T0Z3TmQ4WkwzcmtxYmRR?oc=5\" target=\"_blank\"\u003eRow After Italy Court Splits Up Family Living In Woods\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBarron's\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yeHZlZ1MwSEdhX0lYMHZSX0hhMzVTZG1MdFVYS0ZQdzdnS2tyaW5abHRlS1hEc19iRHh5dnR2YzZnNENJTWxyXzZEWTNjUE9leE9mSjFkeW1rcTNrMXJYSEswVHExVVN4NEg4TUxPY2Y1VlZsaHM5MENIaw?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yeHZlZ1MwSEdhX0lYMHZSX0hhMzVTZG1MdFVYS0ZQdzdnS2tyaW5abHRlS1hEc19iRHh5dnR2YzZnNENJTWxyXzZEWTNjUE9leE9mSjFkeW1rcTNrMXJYSEswVHExVVN4NEg4TUxPY2Y1VlZsaHM5MENIaw?oc=5"
+         ],
+         "published": "Sun, 23 Nov 2025 16:08:04 GMT",
+         "publishedParsed": "2025-11-23T16:08:04Z",
+         "guid": "CBMie0FVX3lxTE4yeHZlZ1MwSEdhX0lYMHZSX0hhMzVTZG1MdFVYS0ZQdzdnS2tyaW5abHRlS1hEc19iRHh5dnR2YzZnNENJTWxyXzZEWTNjUE9leE9mSjFkeW1rcTNrMXJYSEswVHExVVN4NEg4TUxPY2Y1VlZsaHM5MENIaw"
      },
      {
          "title": "A Chinese humanoid robot walked 66 miles in 3 days, right into the Guinness World Records - CBS News",
@@ -1838,26 +1671,15 @@
          "guid": "CBMinwFBVV95cUxNa192N0VDbjBxUjdDRWNUY211Q2Z3X3ZDTG5oY1Bjc0YzOFlDUnJRUWlha1Jtdm1Yd3c3aW9mNDZWOUdiREtIUUZ6S0trYW5BNlhLUVV4bFBzTjZVd0RSeDJRS01sSXFndW9nWUdsWEg0SUdVT3poTFlEaWVHcURUbUxWeXN5d2RSa2RKeW8wQmp4QXp4R0F4X0oxZmZ3TjjSAaQBQVVfeXFMT3IwMXo1SG5pbFZ2a2oxd1E2VktLRFdwOFJqOU9td1N0eVdLeXZ4LWN1WksyNUo0SEVZNXo3Yk1DS2MzeDhnN1NJNTg3NnRrbXd4d0M4VGdidmhNTTExeDNtcl9wQWVYSmdfWTdvUVJZVzdfRl9lU2ZBcjBXUXdYV2cxVm1ESXE5aFVYZG9fNHh6dFJVMzlhUW52Ymxqblc1bnpuQzM"
      },
      {
-         "title": "New Zealand says it’s going to eradicate feral cats - CNN",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5BallvTzRuZWY5bmtWWmt3T1Z3dlBmT21nWWszMHlmX0ZJTVAzTmk2d2pJbDg5d3ZYUGtISUVwRkVjSGtubXhleTNONHMyWk5SM3ZWOXJHanppMGVXYlp4UG95NVpMNXZxR25pNkRycm9GTUZETDlaMTNqMA?oc=5\" target=\"_blank\"\u003eNew Zealand says it’s going to eradicate feral cats\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQU1dzLVhjakliS0l6MnNLYm1HdFhWOUk0bG9YbGlKUE9vamdyU2p1bS0xVkZkUE1IU1FuZWtqX2NOYjFfRmZ6RTMyQjlYNGhUbkF4WmMxbG9ldi03eGdrNWlSNEFEQldWRnJuVmVUR040a0hRZjQ1aHlnM1BzUUZWZWZrU0ExYjBZcVpWTW1NUE9fdXc?oc=5\" target=\"_blank\"\u003e‘Stone-cold killers’: New Zealand to eradicate feral cats by 2050\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Guardian\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSVpsOV9GMl93M18zTndiNHVWaHJMajVpZi0zTk91SXRMMUdOQ2NFZWZ3X2xkakhCaGdQN0RCcXVMeUZDMjNFTlF2d1ItaEN0NmJ6MjYydGczYU9vWWhKNGxUSjhuR254Z2YtVGEyWjhqTHdlc1llQzNDVzFTdWNiYjR6b0djUmVMNHJ5dFBtZmhSNGZZd3c0TmlZOWdKbzE4amlyUU9rMUJZVGw1ZUxuektEWlc5QWVSRElJ?oc=5\" target=\"_blank\"\u003eWhy Are There So Few Rules For The Millions Of Cats That Damage Our Biodiversity?\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCommunity Scoop\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQRGpZWFhvQXByN1FVTkZabjAxdTBreHhVNmk1eURGVTdINnZLcFcwemZzVFdPMUM2LWg1OVNVOHVVRGthZWhULXZpRHlaUTBxVHY3a3IwRUEtN1l4YUhhbnFJekxNaW0zaTVtWUtRUTBiSFBkdTJheE03cU5WSG5UTktuRQ?oc=5\" target=\"_blank\"\u003e#weekends Aotearoa and the Feral Cat problem – its big\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWaatea News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ3g2RWdpRGNkOUc3OVBXWnlra1RESTBfQnQ0WnBPcTBUVnJXTk1uQm5KLW5IUEFWa3A4Wk9TdFdVSUFwb21Cano2SFRIN1htZkNnQWdGR0lkdGlWQWh1d05mMWpxRjZkMHA0S2hTenVSaTZPczBKMDg0ZDVBdjdCc1FYLW9BMnZLaWVrMGo5UGlELW5GdDNOV25EZ1RJdWRFQ080Y19QRmNXZzFxMGN0RVFSSWxVZWcyTmNvUGJLZTgwX3NHMGlGc09BX01vYzQ0eldqT2t4dUxKeWlGX3lDU0o4T1VvVWpxSjZR?oc=5\" target=\"_blank\"\u003eThe controversial 'secondary kill' plan to eliminate feral cats on Stewart Island\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eRNZ\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BallvTzRuZWY5bmtWWmt3T1Z3dlBmT21nWWszMHlmX0ZJTVAzTmk2d2pJbDg5d3ZYUGtISUVwRkVjSGtubXhleTNONHMyWk5SM3ZWOXJHanppMGVXYlp4UG95NVpMNXZxR25pNkRycm9GTUZETDlaMTNqMA?oc=5",
+         "title": "Man who ran blackmail ring that sexually exploited or abused 261 victims gets life sentence in South Korea - CBS News",
+         "description": "\u003ca href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPTmlJU2VKd1ZGdFdRTzVBZTdXeWlVSTlNVHhVTEZtQk9PVS15MXRlXzBoY2dCUmlqTDFRenloTVNPeU1adjU4bEN2ZFhXTi12ajUtQkF1Ujh6dnVDdUZaWlh1WEZ5VWZlMUxKWXNZdXJobVZTUWw3YklXNFFWQ0dXdlRQZUZjbGVpU0o1MWJFbGc2RExxUnhkWTFubEZkX3fSAaQBQVVfeXFMTzFldVlSbHVLczRVdFJzM2ZibFdmNmczUm5ic1J5ek0wZ2tpaHE2cWNBc3c2b1BTbFRyNk1hdWNRZWRsSHYwNzhXbDZxd1ZyVlJrU3B6N1JLTm1xMGE3Q3kyZVkyQ3h3T183R3JYN0xhWk1wZjl0LWdRTV9Sc3ZQRl9ZSURFTFoxZ1VKV3Q2TlVYa1d5RDV6Qy1QRkFnU3cwRDBZazQ?oc=5\" target=\"_blank\"\u003eMan who ran blackmail ring that sexually exploited or abused 261 victims gets life sentence in South Korea\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCBS News\u003c/font\u003e\u003cstrong\u003e\u003ca href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2laM3FlSUVCRzc2eU9QcVNPREZ5Z0FQAQ?hl=en-US\u0026gl=US\u0026ceid=US:en\u0026oc=5\" target=\"_blank\"\u003eView Full Coverage on Google News\u003c/a\u003e\u003c/strong\u003e",
+         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTmlJU2VKd1ZGdFdRTzVBZTdXeWlVSTlNVHhVTEZtQk9PVS15MXRlXzBoY2dCUmlqTDFRenloTVNPeU1adjU4bEN2ZFhXTi12ajUtQkF1Ujh6dnVDdUZaWlh1WEZ5VWZlMUxKWXNZdXJobVZTUWw3YklXNFFWQ0dXdlRQZUZjbGVpU0o1MWJFbGc2RExxUnhkWTFubEZkX3fSAaQBQVVfeXFMTzFldVlSbHVLczRVdFJzM2ZibFdmNmczUm5ic1J5ek0wZ2tpaHE2cWNBc3c2b1BTbFRyNk1hdWNRZWRsSHYwNzhXbDZxd1ZyVlJrU3B6N1JLTm1xMGE3Q3kyZVkyQ3h3T183R3JYN0xhWk1wZjl0LWdRTV9Sc3ZQRl9ZSURFTFoxZ1VKV3Q2TlVYa1d5RDV6Qy1QRkFnU3cwRDBZazQ?oc=5",
          "links": [
-             "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BallvTzRuZWY5bmtWWmt3T1Z3dlBmT21nWWszMHlmX0ZJTVAzTmk2d2pJbDg5d3ZYUGtISUVwRkVjSGtubXhleTNONHMyWk5SM3ZWOXJHanppMGVXYlp4UG95NVpMNXZxR25pNkRycm9GTUZETDlaMTNqMA?oc=5"
+             "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTmlJU2VKd1ZGdFdRTzVBZTdXeWlVSTlNVHhVTEZtQk9PVS15MXRlXzBoY2dCUmlqTDFRenloTVNPeU1adjU4bEN2ZFhXTi12ajUtQkF1Ujh6dnVDdUZaWlh1WEZ5VWZlMUxKWXNZdXJobVZTUWw3YklXNFFWQ0dXdlRQZUZjbGVpU0o1MWJFbGc2RExxUnhkWTFubEZkX3fSAaQBQVVfeXFMTzFldVlSbHVLczRVdFJzM2ZibFdmNmczUm5ic1J5ek0wZ2tpaHE2cWNBc3c2b1BTbFRyNk1hdWNRZWRsSHYwNzhXbDZxd1ZyVlJrU3B6N1JLTm1xMGE3Q3kyZVkyQ3h3T183R3JYN0xhWk1wZjl0LWdRTV9Sc3ZQRl9ZSURFTFoxZ1VKV3Q2TlVYa1d5RDV6Qy1QRkFnU3cwRDBZazQ?oc=5"
          ],
-         "published": "Mon, 24 Nov 2025 15:40:29 GMT",
-         "publishedParsed": "2025-11-24T15:40:29Z",
-         "guid": "CBMie0FVX3lxTE5BallvTzRuZWY5bmtWWmt3T1Z3dlBmT21nWWszMHlmX0ZJTVAzTmk2d2pJbDg5d3ZYUGtISUVwRkVjSGtubXhleTNONHMyWk5SM3ZWOXJHanppMGVXYlp4UG95NVpMNXZxR25pNkRycm9GTUZETDlaMTNqMA"
-     },
-     {
-         "title": "A family of five was living off-grid in a remote cabin in central Italy. Then the courts intervened - CNN",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE4yeHZlZ1MwSEdhX0lYMHZSX0hhMzVTZG1MdFVYS0ZQdzdnS2tyaW5abHRlS1hEc19iRHh5dnR2YzZnNENJTWxyXzZEWTNjUE9leE9mSjFkeW1rcTNrMXJYSEswVHExVVN4NEg4TUxPY2Y1VlZsaHM5MENIaw?oc=5\" target=\"_blank\"\u003eA family of five was living off-grid in a remote cabin in central Italy. Then the courts intervened\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ1BidkIxODZmODJiQ1p5aUFWNHBuZjc0LVdfQzdFaXhpbnBIYzE4LTU0bmREZ0wzaGFHb2JVWWk1OXYtdWdMZlYzMTUxeEJ0aTRtYmRDeUUzUmhRNmxpalJNMklacDNQR0xtUDUyU2dtNHpiNkZNb2Q4UlJ2dWFRdGdpdjRiV3B1S0I1YW1lek0tMXc1Q2FfOXVYWmxxTnlJZFZ5N0pWMTNNdlJtY0UxSWVRNEhCQzM1cnNmQWhtRVgta04zOUlMdXhmY2NURlRxMlJFX2hEcGZsVXR0?oc=5\" target=\"_blank\"\u003eCourt ruling to remove children of UK-Australian couple living in woods divides Italy\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Guardian\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPNDZrUDNhb0wwbnRqWHlxcGV0a2NpQUZsbi01TVluUTBBVDZiQjFOVUVGU2c0aDZULVptdWVBWERaNUx2ckVPMXZCbkZQcXo0M04wY2lNREhkLXRoRjlhbWJTQy1kX0cydGNjUmRNNDZpSDRaQUsxMGNudjdzZTNUSWhJRXI4OERqYU1xNFFESjRoejZrVlJ5M3ZRZ3lEQW5sQlFydXRsX0Q1OXNqT1BmVVdDYm9MMTl6TGw5TzV6cThIOWNGWFFzZjdB?oc=5\" target=\"_blank\"\u003eItalian court removes three children from family living in woods\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eEuronews.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPdkU0ZkVhUXdROXVIX1JqXzE3NFpHb3ktZlJ0bm9wZkNidHhRZFpxRTBMNkFNSmdVcnl1b1hEanpEMnotc1R2bmpVeGxvLWZVZFA4SlFXclFXVmtienhEOF9XTHNKTjctUFBHWFdIV2tzdEZEYU9nRnVPeVBjSl9xRUtVMFhjOFJ2Mm1UMWMtUHcwbkEyMDlJdFhNNUl6N3c?oc=5\" target=\"_blank\"\u003e3 Kids Under 9 Were Living with Parents in Remote Woods Until Court Took Custody. Dad Calls It 'a Great Injustice'\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003ePeople.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQeG94b3pMaERGeEdNek9WNUtmSWU5aC04ZWdwNkZrLWlCRnp3MlFkUHp0cDJhbDJwZXN5dFA2alVRYklnREgzX2t0MXJ3cUxtSjlPMU5pbDVNVmVzNjZhdUVHWkF5QTR1WGFBT2ZfRERIT0Nhcjdpd2RpNERFYUE2Yk9kdVM4aDE5T0Z3TmQ4WkwzcmtxYmRR?oc=5\" target=\"_blank\"\u003eRow After Italy Court Splits Up Family Living In Woods\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBarron's\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yeHZlZ1MwSEdhX0lYMHZSX0hhMzVTZG1MdFVYS0ZQdzdnS2tyaW5abHRlS1hEc19iRHh5dnR2YzZnNENJTWxyXzZEWTNjUE9leE9mSjFkeW1rcTNrMXJYSEswVHExVVN4NEg4TUxPY2Y1VlZsaHM5MENIaw?oc=5",
-         "links": [
-             "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yeHZlZ1MwSEdhX0lYMHZSX0hhMzVTZG1MdFVYS0ZQdzdnS2tyaW5abHRlS1hEc19iRHh5dnR2YzZnNENJTWxyXzZEWTNjUE9leE9mSjFkeW1rcTNrMXJYSEswVHExVVN4NEg4TUxPY2Y1VlZsaHM5MENIaw?oc=5"
-         ],
-         "published": "Sun, 23 Nov 2025 16:08:04 GMT",
-         "publishedParsed": "2025-11-23T16:08:04Z",
-         "guid": "CBMie0FVX3lxTE4yeHZlZ1MwSEdhX0lYMHZSX0hhMzVTZG1MdFVYS0ZQdzdnS2tyaW5abHRlS1hEc19iRHh5dnR2YzZnNENJTWxyXzZEWTNjUE9leE9mSjFkeW1rcTNrMXJYSEswVHExVVN4NEg4TUxPY2Y1VlZsaHM5MENIaw"
+         "published": "Mon, 24 Nov 2025 12:08:00 GMT",
+         "publishedParsed": "2025-11-24T12:08:00Z",
+         "guid": "CBMinwFBVV95cUxPTmlJU2VKd1ZGdFdRTzVBZTdXeWlVSTlNVHhVTEZtQk9PVS15MXRlXzBoY2dCUmlqTDFRenloTVNPeU1adjU4bEN2ZFhXTi12ajUtQkF1Ujh6dnVDdUZaWlh1WEZ5VWZlMUxKWXNZdXJobVZTUWw3YklXNFFWQ0dXdlRQZUZjbGVpU0o1MWJFbGc2RExxUnhkWTFubEZkX3fSAaQBQVVfeXFMTzFldVlSbHVLczRVdFJzM2ZibFdmNmczUm5ic1J5ek0wZ2tpaHE2cWNBc3c2b1BTbFRyNk1hdWNRZWRsSHYwNzhXbDZxd1ZyVlJrU3B6N1JLTm1xMGE3Q3kyZVkyQ3h3T183R3JYN0xhWk1wZjl0LWdRTV9Sc3ZQRl9ZSURFTFoxZ1VKV3Q2TlVYa1d5RDV6Qy1QRkFnU3cwRDBZazQ"
      },
      {
          "title": "8 travel destinations you may want to avoid in 2026 due to overtourism, according to Fodor's travel guide - Business Insider",
@@ -1872,7 +1694,7 @@
      },
      {
          "title": "DragonFire laser shoots down high‑speed drones traveling at 400mph, costs $13 per shot — UK Navy to begin deploying system on destroyers - Yahoo",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOZkVUcUFaRXRLdThxZDVGMmZ1cFhsS2owc2VBeXBOVjJ4c0dVaGhoZGNQY3NRSS10MFhqclB4MUp1RUd3ZzZvdHlYNmYzbXFsdFlJM3FZUFVWMm1pSkNXWjVXR19CMEpmbVU5ZnlnLWNqUDg2dzBsWGw2YXpCX29KUDlqZmpqdlhoTVJlNw?oc=5\" target=\"_blank\"\u003eDragonFire laser shoots down high‑speed drones traveling at 400mph, costs $13 per shot — UK Navy to begin deploying system on destroyers\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eYahoo\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGZ3OFhVYUYwVWoyVnJ0S0NGTEFhYjhMWlIwZHhUVzNMNTlQS2NrS3BtMlB0ZnNBOEFtSGE0WHhkSTNXWVQ4UDVQSTI5eEdtSEtIX080VlVlZkx0UGd5RHViaW5VelJmYUpWSV94RGdOYjNMTTl3ejhsU1QxdHhoWTNmdUFFal9rTGplelM3UHZiSkkyQmE2aG1vdENOVktycWlfdml4X0J1QQ?oc=5\" target=\"_blank\"\u003eBoost for Armed Forces as new laser weapon takes down high-speed drones\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eGOV.UK\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KNkhhTW50N2RVZnBHdEtiT1plREczUWFidlJ1ZTU0NWlDR2R0dFByYzlXeUI5ODVpbUVDRnhmQUxpTXBITUxEOG5hd3psOTJfNWlIRVlEV1cyUQ?oc=5\" target=\"_blank\"\u003eContract signed for laser that can take out drones\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBBC\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTURtc1hwREIxYW9SYmJoeDFhbzBLTDZaZlU5UWxrdUJIeG1vRGZoYXRRQWs1RlEtSGJSNmdsbFZDakRkRDd0ZENCZnVNOFVpcTljSUYyUTZ2UGhTZ0lOOXhNRVJ2cnZRYjZ2UG9zLXN0Z3VyQ2hKWTJZZXFYTUhiNWFNMy1yWEVLU2NKZE5sbjVuSWpTWWIxQkF5MmtEdG1ZeEEteFRVU3cyUQ?oc=5\" target=\"_blank\"\u003eVideo Shows DragonFire Laser Taking Down High-Speed Drones In NATO First\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNewsweek\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1RVUFc2NGxwSEF2ZjhvSDNpb1Q2WHdOanE4SHRISmFEblpNd0JzSDFBdnVoN05sT2dzSUJYVHFmUEdURkFOVi1JaXYtVHdHQmlneXZGVkhMWXNyaVNHUXM4c19tdVEwYlZBNkVnZzRRY0hTenNBZVl3SzdyVzc5NU5HaENfbk9HSnVrOHB4MVZxWS1nMTk4TjBqZmZKOUlXVmhRRVV3ZzcwcUFyanRUU1JKd25QZw?oc=5\" target=\"_blank\"\u003eMBDA to deliver DragonFire LDEW for RN Type 45 destroyers\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eJanes\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOZkVUcUFaRXRLdThxZDVGMmZ1cFhsS2owc2VBeXBOVjJ4c0dVaGhoZGNQY3NRSS10MFhqclB4MUp1RUd3ZzZvdHlYNmYzbXFsdFlJM3FZUFVWMm1pSkNXWjVXR19CMEpmbVU5ZnlnLWNqUDg2dzBsWGw2YXpCX29KUDlqZmpqdlhoTVJlNw?oc=5\" target=\"_blank\"\u003eDragonFire laser shoots down high‑speed drones traveling at 400mph, costs $13 per shot — UK Navy to begin deploying system on destroyers\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eYahoo\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGZ3OFhVYUYwVWoyVnJ0S0NGTEFhYjhMWlIwZHhUVzNMNTlQS2NrS3BtMlB0ZnNBOEFtSGE0WHhkSTNXWVQ4UDVQSTI5eEdtSEtIX080VlVlZkx0UGd5RHViaW5VelJmYUpWSV94RGdOYjNMTTl3ejhsU1QxdHhoWTNmdUFFal9rTGplelM3UHZiSkkyQmE2aG1vdENOVktycWlfdml4X0J1QQ?oc=5\" target=\"_blank\"\u003eBoost for Armed Forces as new laser weapon takes down high-speed drones\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eGOV.UK\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KNkhhTW50N2RVZnBHdEtiT1plREczUWFidlJ1ZTU0NWlDR2R0dFByYzlXeUI5ODVpbUVDRnhmQUxpTXBITUxEOG5hd3psOTJfNWlIRVlEV1cyUQ?oc=5\" target=\"_blank\"\u003eContract signed for laser that can take out drones\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBBC\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNbUwtUmdaR2Ntc0J3Yk41X1JDbktFRmwybkwtZDNIcmJWbU1lbUl1QjFhUjVVT042ZURPakJJWEp0Yk50NTlCeFZaaXhqeHo0NWw2OEF2VGI4RjAyemdOUFVvcVpwbFUwMVAyNG1KZG1fLXJXclN6dURWdGU0RmEzcmFneE5LQUZHVTVod2FRdUM3RjgzYndoN3Q3WS1VRlVsMGx3WmRiNVpGTWQ0R0xr?oc=5\" target=\"_blank\"\u003eUK Royal Navy to equip MBDA’s drone-frying lasers by 2027\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eDefense News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1RVUFc2NGxwSEF2ZjhvSDNpb1Q2WHdOanE4SHRISmFEblpNd0JzSDFBdnVoN05sT2dzSUJYVHFmUEdURkFOVi1JaXYtVHdHQmlneXZGVkhMWXNyaVNHUXM4c19tdVEwYlZBNkVnZzRRY0hTenNBZVl3SzdyVzc5NU5HaENfbk9HSnVrOHB4MVZxWS1nMTk4TjBqZmZKOUlXVmhRRVV3ZzcwcUFyanRUU1JKd25QZw?oc=5\" target=\"_blank\"\u003eMBDA to deliver DragonFire LDEW for RN Type 45 destroyers\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eJanes\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZkVUcUFaRXRLdThxZDVGMmZ1cFhsS2owc2VBeXBOVjJ4c0dVaGhoZGNQY3NRSS10MFhqclB4MUp1RUd3ZzZvdHlYNmYzbXFsdFlJM3FZUFVWMm1pSkNXWjVXR19CMEpmbVU5ZnlnLWNqUDg2dzBsWGw2YXpCX29KUDlqZmpqdlhoTVJlNw?oc=5",
          "links": [
              "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZkVUcUFaRXRLdThxZDVGMmZ1cFhsS2owc2VBeXBOVjJ4c0dVaGhoZGNQY3NRSS10MFhqclB4MUp1RUd3ZzZvdHlYNmYzbXFsdFlJM3FZUFVWMm1pSkNXWjVXR19CMEpmbVU5ZnlnLWNqUDg2dzBsWGw2YXpCX29KUDlqZmpqdlhoTVJlNw?oc=5"
@@ -1882,19 +1704,8 @@
          "guid": "CBMijAFBVV95cUxOZkVUcUFaRXRLdThxZDVGMmZ1cFhsS2owc2VBeXBOVjJ4c0dVaGhoZGNQY3NRSS10MFhqclB4MUp1RUd3ZzZvdHlYNmYzbXFsdFlJM3FZUFVWMm1pSkNXWjVXR19CMEpmbVU5ZnlnLWNqUDg2dzBsWGw2YXpCX29KUDlqZmpqdlhoTVJlNw"
      },
      {
-         "title": "Oldest living survivor of Tulsa Race Massacre dies at 111 years old - CNN",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNUkZUMzJLeEVkdnY3TFA0UHZucVRxeFBjS2pIVGhJMkZwaWxzUDVxWnpsTFcxS2R0WkZpSk14SU9BZ05TQkUyOGFPdjlZWmFHX1lxMkJOc21mWG16LVpMUlhzSzZMRk45b2VjWHpJRGQxUktqRVVWRUkxY3kyN3Jram5UVQ?oc=5\" target=\"_blank\"\u003eOldest living survivor of Tulsa Race Massacre dies at 111 years old\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPa1NhQkUyTks1MDlJaWpxWG54ZU1YOVZwNll6NV9VdWhHTmlTOTFtMEV3YVd3V0RzcDh2UkJ2UUt0STV2WkV0NTBvWHY1a2xkT04zd1NYY1VTMzJ1aTNoTkxmVzk2SzdIYUFDOFY0aVdRM003QnlWSnNtYkIxLXVaclRiRENRN2JaamdLaUdKODk3bFJlaHc?oc=5\" target=\"_blank\"\u003eOne of the 1921 Tulsa Race Massacre's last survivors, Viola Ford Fletcher, dies age 111\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNewsday\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOWm9Qcm9vSWhRSGgzekc0LTYtMmVSNFkyeC04SWdMSG5KR3NkUmpZODJQNDRSMTNXU1J2OVUyNEc3V0s1T3lISnF4UHYyOUZ4b0RpZEFvbU9aRXI0emtZT205d3VTRF91dGtTVHZ4Vm1TVUxyRUJ2ZDBhVHlQTkJaZzdsU2NSVWdOYWlTLUgwaTBWQmx4Ti1TQThNQ1FTckxKTHliVTZEaC1VNlNKVlNj?oc=5\" target=\"_blank\"\u003eMother Viola Fletcher dies, leaves legacy of fighting for justice in Tulsa\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003e2 News Oklahoma KJRH Tulsa\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBldmRDRFpsa056SWxkQlNhSlhEeE1sMEQyQ2xaeHk5RDI1Yml0dTVTZkZSdWQzdnZZSlZmSDd6MmFlWm8yUzdiYXBpOTZtNl93VGVBZmdENTRWM2JfblAtRzhzVjAzQUJTNzJxY0Jfaw?oc=5\" target=\"_blank\"\u003eViola Fletcher, Oldest Survivor of the Tulsa Race Massacre, Dies at 111\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe New York Times\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9sUkY4V1M0RzhKSXFBNnVVUTh2RGRBa3NZSWlwbWptX0RCMkJxUzhOUHFuc3BXTzkzMDktRTZLaE9hR2RKOEgtcGx2VGpNVFI1ZEpma1Y3OG1GYmhZRVB4SVNNTUNHMjQ1MGVEazBB?oc=5\" target=\"_blank\"\u003eRemembering Mother Viola Fletcher\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eKTUL\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUkZUMzJLeEVkdnY3TFA0UHZucVRxeFBjS2pIVGhJMkZwaWxzUDVxWnpsTFcxS2R0WkZpSk14SU9BZ05TQkUyOGFPdjlZWmFHX1lxMkJOc21mWG16LVpMUlhzSzZMRk45b2VjWHpJRGQxUktqRVVWRUkxY3kyN3Jram5UVQ?oc=5",
-         "links": [
-             "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUkZUMzJLeEVkdnY3TFA0UHZucVRxeFBjS2pIVGhJMkZwaWxzUDVxWnpsTFcxS2R0WkZpSk14SU9BZ05TQkUyOGFPdjlZWmFHX1lxMkJOc21mWG16LVpMUlhzSzZMRk45b2VjWHpJRGQxUktqRVVWRUkxY3kyN3Jram5UVQ?oc=5"
-         ],
-         "published": "Mon, 24 Nov 2025 20:56:43 GMT",
-         "publishedParsed": "2025-11-24T20:56:43Z",
-         "guid": "CBMigwFBVV95cUxNUkZUMzJLeEVkdnY3TFA0UHZucVRxeFBjS2pIVGhJMkZwaWxzUDVxWnpsTFcxS2R0WkZpSk14SU9BZ05TQkUyOGFPdjlZWmFHX1lxMkJOc21mWG16LVpMUlhzSzZMRk45b2VjWHpJRGQxUktqRVVWRUkxY3kyN3Jram5UVQ"
-     },
-     {
          "title": "Thanksgiving weather forecast: Where to expect travel delays - ABC News",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPRF9aaEFrUXVPU0ZGZjAzemE1eDhTeVc0YTA3OTB1Z2c4VlE5Y2d1eXV6YkwxN09tM1Fjal82SlJZTXNMc0hKbXczZjhsRDhDVk5ZbVJ0REF3cDN4RHQ4N3E4cTNNWFlpXzQ5MnhnNTVuN2ZTQXNZVXNyZjJ6M2VxeHY5Znk3eDRfdEtQOWtlZXBwMk8tMVhDRC1BMNIBoAFBVV95cUxPd1ZRaGNSWlpacGRrY1ZMb2ZmdkV0ZjZsV0VKaGhYNGFoelhPS3VoV3RXNURCWUljck1VSGs1RjNNQTIxaDk4cVdUS3cyVzdqU0tZZE9xMWh2VUhWZ0xnTUNwY0Nva3g2c1UyLUhfV29yOVRWdjJ2M21YZUw3alRtUXZUUERsQkdDVDdLOFV4TWo4ZzNRdzI1aHN4bVExMVY1?oc=5\" target=\"_blank\"\u003eThanksgiving weather forecast: Where to expect travel delays\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxNT1VqdUZnNm54Y2dYbkdydlQ1bGRfWTVCX0prY1ZqUDZGTmxwZmRraEhNNi1uYTRBS2pRTHFsWGwzcFBiTHVhU3h5Nk1QT18yQTIybjFqYnpMMmdPQlFLVnoxVE9WNng1UEF1WmFoUUtIdkpGaEV5c2xQU2ZLaHFseDZpV0U0N3NaLXdLbjZWcjN5bUpwR1J4aU1odVFJUjVadFBUX3dsU19xcjFXMTJPVVVXTllFaHM1dDE1ZmdJazJGOWFuUGRFZGVpa0ZCTUNIWTlCelh4NGtGR1FhTDJsY3BGYkhWYndFVXdPTDU1OHR6V3JnLUJvNmpmRWN1V2pyS3RxbER1LUdIQm9s?oc=5\" target=\"_blank\"\u003eThanksgiving week weather forecast: Where Americans can expect rain, snow and frigid temperatures during holiday travel\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eYahoo\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUzc2RWxEYTdVVDdiQy02YlRvc2U0dXZUTy1wZldxcUNiVFBIckRlM3BNU0ozbjFtMEJybGxHZ0hzZi1aejJYSTRPaHNmNHR1aFhYNEZQS014MWMtRVR6SWw0d1N3Z2c3M0dXWkRCaDdxX2dIQWtNRHNhaVZwV1RwOGhxMFJGWGFZaUItaWVMMkZfSklSMXNtWUo4SzA2ZTY3LVZtUi1ReVZEaVFBUjg5RDYxUm5GcGds0gHMAUFVX3lxTFBjS1RuRlpJME5hdktmczQydktabERoOUEta3FJLTl0SlU2TWhIc3BIbHQ5bUlPc3A5TkZKSWdPdnoxQUtmRHRDXzFYVkJtVnVRenEyaDVvNlhWVGdyTUttU2NzNlYyYUFHTlJPSUNTWmx2dGxpcHMwRmpvZUZWNzhZRXFlZHJGR1pfbHl1a0JTWHYxdllON19UcE9OalBic1RlWm83Z0lfeVJDOUpzR0xKVEJIalU5WE9tUkpCeW9XZEVHT1lXV2dGWGFjNw?oc=5\" target=\"_blank\"\u003eWinter Storm Watches expand in Michigan ahead of Thanksgiving storm system\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eMLive.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQdEl3NXM0Z2ZNQTlwOU1mdExzdVd1WGdmZThrd19qUlBWYUJDNFFKbnE5bjl5LU5uUlQwejNjdzN3Y3FVQThYYmhTRjJFcVFQdHUwSWktd1dNOUl5V2FQQjN3YjVZUHBVd01ReTJLUUxfaWtPNFZvbXZtME9ianRUYXEtQWJQSGM?oc=5\" target=\"_blank\"\u003eCold snap tied to polar vortex set to threaten Thanksgiving travel\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAxios\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQV3BCUTVTR2g4d3htNXpFT1FSNnFrVjhpVGtKVXFEbkViSUYzcjlub1Z1YTlVSURpMWdpTm5WT3N5NFEtUnpZdVBxbjFQNHUxTFVfeDlqdkR2V2JIb0w3Mi1FeXB5ejhBbEZ6TnAzRE5nSGkxNjNSendPc0xoc3dMNnBvdV9GaEdiQk96TDVpdExwNWFGZWJNb084VWZkdC1WZm5oR05JWndna25Jb0FCTDhOM0VUWV9XQi1wU09nTktqa2NsSGfSAcsBQVVfeXFMUEpodVdkTzYzcE02bWg5aVppZTYwYkxKRENWMEZKSlF4TmRaeHgzZDZZQVAtSFczcEo1c2FnLUlMQ1owUmlVdDRoeDJtZXJsc2JmQzNGMGV4eVlHdGdFQWJBYkNja01IS1NCUFBLU0dYY3VubGh5SFhNcUJBRDB4ZHpOeDBWeFN4OC1MR0E0aE4xOE9DYUFONHVZeVctUnY2bU5fNGhiTWJBNzA0NkdZWjY4ck9FaWhFNEdYRTN1RXh6Ykc2TzVPVW1ieTg?oc=5\" target=\"_blank\"\u003eWhite Thanksgiving: Powerful lake-effect snowstorm to sweep across Great Lakes in Midwest and Northeast\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFOX Weather\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPRF9aaEFrUXVPU0ZGZjAzemE1eDhTeVc0YTA3OTB1Z2c4VlE5Y2d1eXV6YkwxN09tM1Fjal82SlJZTXNMc0hKbXczZjhsRDhDVk5ZbVJ0REF3cDN4RHQ4N3E4cTNNWFlpXzQ5MnhnNTVuN2ZTQXNZVXNyZjJ6M2VxeHY5Znk3eDRfdEtQOWtlZXBwMk8tMVhDRC1BMNIBoAFBVV95cUxPd1ZRaGNSWlpacGRrY1ZMb2ZmdkV0ZjZsV0VKaGhYNGFoelhPS3VoV3RXNURCWUljck1VSGs1RjNNQTIxaDk4cVdUS3cyVzdqU0tZZE9xMWh2VUhWZ0xnTUNwY0Nva3g2c1UyLUhfV29yOVRWdjJ2M21YZUw3alRtUXZUUERsQkdDVDdLOFV4TWo4ZzNRdzI1aHN4bVExMVY1?oc=5\" target=\"_blank\"\u003eThanksgiving weather forecast: Where to expect travel delays\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxNT1VqdUZnNm54Y2dYbkdydlQ1bGRfWTVCX0prY1ZqUDZGTmxwZmRraEhNNi1uYTRBS2pRTHFsWGwzcFBiTHVhU3h5Nk1QT18yQTIybjFqYnpMMmdPQlFLVnoxVE9WNng1UEF1WmFoUUtIdkpGaEV5c2xQU2ZLaHFseDZpV0U0N3NaLXdLbjZWcjN5bUpwR1J4aU1odVFJUjVadFBUX3dsU19xcjFXMTJPVVVXTllFaHM1dDE1ZmdJazJGOWFuUGRFZGVpa0ZCTUNIWTlCelh4NGtGR1FhTDJsY3BGYkhWYndFVXdPTDU1OHR6V3JnLUJvNmpmRWN1V2pyS3RxbER1LUdIQm9s?oc=5\" target=\"_blank\"\u003eThanksgiving week weather forecast: Where Americans can expect rain, snow and frigid temperatures during holiday travel\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eYahoo\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPdV9lN3lHMHNTSGdraldWNWZVS0gxd1lwNVhHM3liSmtoNkZOanlDc3Nzb0xMNGIzSU52MkcwUWJsa3lNNTlzcFBGZFdRUnNTN2ZxcjI0SVF3emlnTWlvb08xTjU1M2Qzc0dQd2dobkIyV2FYQ0k0UDRmMUpyejU0RDJzc2ZockZtUkVUMktpNlkwS2k4YXVfTEplRUhRYkpZYWRyVg?oc=5\" target=\"_blank\"\u003eThanksgiving Travel Weather Forecast: Any Impacts On Your Trip?\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Weather Channel\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQV3BCUTVTR2g4d3htNXpFT1FSNnFrVjhpVGtKVXFEbkViSUYzcjlub1Z1YTlVSURpMWdpTm5WT3N5NFEtUnpZdVBxbjFQNHUxTFVfeDlqdkR2V2JIb0w3Mi1FeXB5ejhBbEZ6TnAzRE5nSGkxNjNSendPc0xoc3dMNnBvdV9GaEdiQk96TDVpdExwNWFGZWJNb084VWZkdC1WZm5oR05JWndna25Jb0FCTDhOM0VUWV9XQi1wU09nTktqa2NsSGfSAcsBQVVfeXFMUEpodVdkTzYzcE02bWg5aVppZTYwYkxKRENWMEZKSlF4TmRaeHgzZDZZQVAtSFczcEo1c2FnLUlMQ1owUmlVdDRoeDJtZXJsc2JmQzNGMGV4eVlHdGdFQWJBYkNja01IS1NCUFBLU0dYY3VubGh5SFhNcUJBRDB4ZHpOeDBWeFN4OC1MR0E0aE4xOE9DYUFONHVZeVctUnY2bU5fNGhiTWJBNzA0NkdZWjY4ck9FaWhFNEdYRTN1RXh6Ykc2TzVPVW1ieTg?oc=5\" target=\"_blank\"\u003eWhite Thanksgiving: Powerful lake-effect snowstorm to sweep across Great Lakes in Midwest and Northeast\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFOX Weather\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQdEl3NXM0Z2ZNQTlwOU1mdExzdVd1WGdmZThrd19qUlBWYUJDNFFKbnE5bjl5LU5uUlQwejNjdzN3Y3FVQThYYmhTRjJFcVFQdHUwSWktd1dNOUl5V2FQQjN3YjVZUHBVd01ReTJLUUxfaWtPNFZvbXZtME9ianRUYXEtQWJQSGM?oc=5\" target=\"_blank\"\u003eCold snap tied to polar vortex set to threaten Thanksgiving travel\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAxios\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRF9aaEFrUXVPU0ZGZjAzemE1eDhTeVc0YTA3OTB1Z2c4VlE5Y2d1eXV6YkwxN09tM1Fjal82SlJZTXNMc0hKbXczZjhsRDhDVk5ZbVJ0REF3cDN4RHQ4N3E4cTNNWFlpXzQ5MnhnNTVuN2ZTQXNZVXNyZjJ6M2VxeHY5Znk3eDRfdEtQOWtlZXBwMk8tMVhDRC1BMNIBoAFBVV95cUxPd1ZRaGNSWlpacGRrY1ZMb2ZmdkV0ZjZsV0VKaGhYNGFoelhPS3VoV3RXNURCWUljck1VSGs1RjNNQTIxaDk4cVdUS3cyVzdqU0tZZE9xMWh2VUhWZ0xnTUNwY0Nva3g2c1UyLUhfV29yOVRWdjJ2M21YZUw3alRtUXZUUERsQkdDVDdLOFV4TWo4ZzNRdzI1aHN4bVExMVY1?oc=5",
          "links": [
              "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRF9aaEFrUXVPU0ZGZjAzemE1eDhTeVc0YTA3OTB1Z2c4VlE5Y2d1eXV6YkwxN09tM1Fjal82SlJZTXNMc0hKbXczZjhsRDhDVk5ZbVJ0REF3cDN4RHQ4N3E4cTNNWFlpXzQ5MnhnNTVuN2ZTQXNZVXNyZjJ6M2VxeHY5Znk3eDRfdEtQOWtlZXBwMk8tMVhDRC1BMNIBoAFBVV95cUxPd1ZRaGNSWlpacGRrY1ZMb2ZmdkV0ZjZsV0VKaGhYNGFoelhPS3VoV3RXNURCWUljck1VSGs1RjNNQTIxaDk4cVdUS3cyVzdqU0tZZE9xMWh2VUhWZ0xnTUNwY0Nva3g2c1UyLUhfV29yOVRWdjJ2M21YZUw3alRtUXZUUERsQkdDVDdLOFV4TWo4ZzNRdzI1aHN4bVExMVY1?oc=5"
@@ -1904,30 +1715,19 @@
          "guid": "CBMimwFBVV95cUxPRF9aaEFrUXVPU0ZGZjAzemE1eDhTeVc0YTA3OTB1Z2c4VlE5Y2d1eXV6YkwxN09tM1Fjal82SlJZTXNMc0hKbXczZjhsRDhDVk5ZbVJ0REF3cDN4RHQ4N3E4cTNNWFlpXzQ5MnhnNTVuN2ZTQXNZVXNyZjJ6M2VxeHY5Znk3eDRfdEtQOWtlZXBwMk8tMVhDRC1BMNIBoAFBVV95cUxPd1ZRaGNSWlpacGRrY1ZMb2ZmdkV0ZjZsV0VKaGhYNGFoelhPS3VoV3RXNURCWUljck1VSGs1RjNNQTIxaDk4cVdUS3cyVzdqU0tZZE9xMWh2VUhWZ0xnTUNwY0Nva3g2c1UyLUhfV29yOVRWdjJ2M21YZUw3alRtUXZUUERsQkdDVDdLOFV4TWo4ZzNRdzI1aHN4bVExMVY1"
      },
      {
-         "title": "'Just Google' me: Slender Man stabber is recaptured after fleeing her group home - NPR",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPMG5OSVZfQ0NHZk9ES1czQ0trTmVnZVNpakNNRTJtb1dHUkVsVDliZ3IxT2lGdnNtenc4V1NrcU9ydHctNHVsMlVCWllwdEJHN0g1akxsT0xkY0ZZOEdta0ttU1JmOVlWRlBQUXBoTWpMTzZOczZOX19ieXBHTWNQYWpB?oc=5\" target=\"_blank\"\u003e'Just Google' me: Slender Man stabber is recaptured after fleeing her group home\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNPR\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOQjJHQ3BJLWNjbXl0aGdDTU8xRHNXVEJUcGduRV9SSzRVSkw3WG9HRU1CUXNxYmJCZmc2TFJOd1NDNXJpZW5Gb1RqS05XendDbEU5a2lKVVRhU3p4Q1lSVDVCSTUxVGxyS2lGTnhIQmZIdkQ3RE1lZDVJeU9YTmZIMnN2ZVpDUWlwRHRhOXhzcmZLMHBDWEtnajZfVUNidWdOTlE?oc=5\" target=\"_blank\"\u003eWisconsin woman in 2014 Slender Man stabbing is found a day after walking away from group home\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAP News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdzFtSDNtQXc3Vk9iVGh4Z19vWFM1TmtxOVRHcWVwVFFHTW80dFhMb1RFR0ZGRkM1UlpDTXZQdGI0ZkhZN1pLRVhVRU1qdllqY3c4NmFqdV85amFfeXZGZjAxeUJoeEpUVUwwRG9rdjdFb0d4TkpVa2FFTjNTZllZQjZwZ2g4M0dTamFMODVYel9YWHFXYU5kR3lidWdsdXNrcTY1bl9xdzJ2M0huUXJPZFJNaTlOR3BuVTlUWFJlV3pPZDh2MGYtMTNxVEtia1piTlFxTkRrWE9jdzQ3bUhxTXdFcmZkN0hDRVo5NHJlTmk?oc=5\" target=\"_blank\"\u003e‘Slender Man’ attacker back in custody. What we know about Morgan Geyser's disappearance and what happens next.\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eYahoo\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTWFQc3lTSHNsZE8xYmEwQTFpVU4tZDVQWlMxZm1NSF80eUVNQXFzdXRFaUROeDhEMDVMVnRzaHl0S1lQbFZmZ2FaRG1sajM3eWFjQVhPd1FTYUZUMkhlRkVGMXpJSVBaZndDR2s1TF9zRGZfcUtjOGxqanozSTZhcDJSamY5QTBzOTl1eHI5NGtuSEZyblhuYjVNQ0dyRjdheWZlYUkzMXU0Zw?oc=5\" target=\"_blank\"\u003eMorgan Geyser found. What happened in Slender Man stabbing case?\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eUSA Today\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQelFaNjlKSE9JZ3RvVUdFMzNJOWxfajhqbk9BUkFxcVhTUzdsTDREY1FINTY0el9wdVBWRk51UHVWeEw1MC1iNUhfTFhick02VG54eElILUdDQ0lJanJwRmJLTVBWYU5sT3FnUGwtY0dsYUpUeXliQlFXak0zSXUxUzU3aXI?oc=5\" target=\"_blank\"\u003e‘Slender Man’ attacker Morgan Geyser found a day after cutting off monitoring bracelet\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCNN\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMG5OSVZfQ0NHZk9ES1czQ0trTmVnZVNpakNNRTJtb1dHUkVsVDliZ3IxT2lGdnNtenc4V1NrcU9ydHctNHVsMlVCWllwdEJHN0g1akxsT0xkY0ZZOEdta0ttU1JmOVlWRlBQUXBoTWpMTzZOczZOX19ieXBHTWNQYWpB?oc=5",
+         "title": "Wisconsin woman in 2014 Slender Man stabbing is found a day after walking away from group home - AP News",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOQjJHQ3BJLWNjbXl0aGdDTU8xRHNXVEJUcGduRV9SSzRVSkw3WG9HRU1CUXNxYmJCZmc2TFJOd1NDNXJpZW5Gb1RqS05XendDbEU5a2lKVVRhU3p4Q1lSVDVCSTUxVGxyS2lGTnhIQmZIdkQ3RE1lZDVJeU9YTmZIMnN2ZVpDUWlwRHRhOXhzcmZLMHBDWEtnajZfVUNidWdOTlE?oc=5\" target=\"_blank\"\u003eWisconsin woman in 2014 Slender Man stabbing is found a day after walking away from group home\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eAP News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdzFtSDNtQXc3Vk9iVGh4Z19vWFM1TmtxOVRHcWVwVFFHTW80dFhMb1RFR0ZGRkM1UlpDTXZQdGI0ZkhZN1pLRVhVRU1qdllqY3c4NmFqdV85amFfeXZGZjAxeUJoeEpUVUwwRG9rdjdFb0d4TkpVa2FFTjNTZllZQjZwZ2g4M0dTamFMODVYel9YWHFXYU5kR3lidWdsdXNrcTY1bl9xdzJ2M0huUXJPZFJNaTlOR3BuVTlUWFJlV3pPZDh2MGYtMTNxVEtia1piTlFxTkRrWE9jdzQ3bUhxTXdFcmZkN0hDRVo5NHJlTmk?oc=5\" target=\"_blank\"\u003e‘Slender Man’ attacker back in custody. What we know about Morgan Geyser's disappearance and what happens next.\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eYahoo\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNS11amJtYmpBN0VxU2ZBS2MwRzV2LURFRG94ZWE3N2c0TklrMTlUcVl6NnBvVnFJZlNsSS1ZemNHUGdaZ0pjcGxGWHF6djg4cXpzRDdoVnhLWGRrMlRGbFNWejNGRzFtZzdwWVhkOXI5SUFKQUNPM2d4QThjRVNmc1V3T0FxbHFXamM3d2c0VEFVTFRJZ2pqaWMwTzhzbS02c2QzWkRDVWnSAa4BQVVfeXFMUEY5N0tPcndETUtCUDlnaDdQZjNsS0JHS2lESHNHeU9iMEJsWmU1T1NtcFQtRkF6UDJTQ25XeXUxejgzd0EwZ2VtaWtWanBOMlcybVZQa1V4NFF0czRPQTRzaWpLNFRNQ3BMWVVPTWJwREllcGlqcE5rZDFkN3RYQTlQTVp6OUVvS09kWExqSzRJandXaFZfdDh5Mk5IR1FnelNnUEs0bmhzYjVDeHVn?oc=5\" target=\"_blank\"\u003e'Just Google' me: 'Slender Man' stabbing assailant Morgan Geyser allegedly told cops who caught her\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSDQwQUZJV1hWZ2tiRzdZVTlqZDBvQV9VYmh6NGRVbm14cEVQRjBXWldKdi14WW8zT19Yc0FBMjBGZEZnZ2F2dEdBZFlpaDFhbmhaWFB5Wi1wVU5xVEpBUmtiQ0xHV1dSVlYxcjlYRTRVbGZzaHh2WktKZFUwLWR3TFdCTFQ5Q2dya3AybHM5aWRsSzVGOGRtTXdYRVhkSU5HZ0x0M3gxdjJZel9sWG1lekVESDc2QnI0NnlnRnY4SEJYYjZrRVU0bmg4N2w1czVURFJ6MVJzU3liY1hwRmc?oc=5\" target=\"_blank\"\u003eSlender Man defendant cut off monitoring bracelet, left group home\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eMilwaukee Journal Sentinel\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPOG5MclhvZ1lEYmZlRkNGaDZBWG5TcDZRdmdqZ0lCQzh5UUNnRWUzaF9Xbm1fT0l6TjAxekhIMGhXR2hDNzdsb0YzaXBrUEV5dmlYZFF3YmZ3RmtMbndjekhteGx6cnE0VnczRUZ1aF93RWJRSmI5a3JjOUtsVlpNQkJDUy14VV9lRTZpaW5TZXM3MWVMbkk0NTJn0gGuAUFVX3lxTE1HU041eVByZ1NlTkI0Smpsa2pJUTN5bU90QjJ6OE13eHB2RjFuajQ3clZLLXJzUVNwYnRQT3J4Ymw2R20zdDllZldfOTZrZWJLeUdOMzBJR3dCbTFUNFg5Wkc2OXk2VFlmTGNkaDZmLVdsTU02WWx4OEVadVVfdXZDSDl3QlljU3NNYXJWVFVOMG1RcGpUcEdyU1h5UzF3elFoUWJreDlFSl9SM1NOQQ?oc=5\" target=\"_blank\"\u003eSlender Man convict located, taken into custody in Illinois\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eWMTV 15 NEWS\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQjJHQ3BJLWNjbXl0aGdDTU8xRHNXVEJUcGduRV9SSzRVSkw3WG9HRU1CUXNxYmJCZmc2TFJOd1NDNXJpZW5Gb1RqS05XendDbEU5a2lKVVRhU3p4Q1lSVDVCSTUxVGxyS2lGTnhIQmZIdkQ3RE1lZDVJeU9YTmZIMnN2ZVpDUWlwRHRhOXhzcmZLMHBDWEtnajZfVUNidWdOTlE?oc=5",
          "links": [
-             "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMG5OSVZfQ0NHZk9ES1czQ0trTmVnZVNpakNNRTJtb1dHUkVsVDliZ3IxT2lGdnNtenc4V1NrcU9ydHctNHVsMlVCWllwdEJHN0g1akxsT0xkY0ZZOEdta0ttU1JmOVlWRlBQUXBoTWpMTzZOczZOX19ieXBHTWNQYWpB?oc=5"
+             "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQjJHQ3BJLWNjbXl0aGdDTU8xRHNXVEJUcGduRV9SSzRVSkw3WG9HRU1CUXNxYmJCZmc2TFJOd1NDNXJpZW5Gb1RqS05XendDbEU5a2lKVVRhU3p4Q1lSVDVCSTUxVGxyS2lGTnhIQmZIdkQ3RE1lZDVJeU9YTmZIMnN2ZVpDUWlwRHRhOXhzcmZLMHBDWEtnajZfVUNidWdOTlE?oc=5"
          ],
-         "published": "Mon, 24 Nov 2025 18:33:41 GMT",
-         "publishedParsed": "2025-11-24T18:33:41Z",
-         "guid": "CBMiggFBVV95cUxPMG5OSVZfQ0NHZk9ES1czQ0trTmVnZVNpakNNRTJtb1dHUkVsVDliZ3IxT2lGdnNtenc4V1NrcU9ydHctNHVsMlVCWllwdEJHN0g1akxsT0xkY0ZZOEdta0ttU1JmOVlWRlBQUXBoTWpMTzZOczZOX19ieXBHTWNQYWpB"
-     },
-     {
-         "title": "Minnesota weather: Winter storm watch, cold air move in after a mild Monday - MPR News",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkp4bXU1bndFR3lVNjlMS0pqMkV0ZUtHOWhyQ3RxRVY4Q0U0RTFUbjU5MjFnT0FRME95eUIzQ1BZN1Q3Q29Xc284QlRQVDNBTHRJeW5rZnF5RVJxdER0WVpoTFZ3bkYyM3FxS25zNHBoanplQmpVUHlrd1VKYUZsamJOcHpYRmxBSWRkWTBfUHFsOWFUM2cwTWdWMkY?oc=5\" target=\"_blank\"\u003eMinnesota weather: Winter storm watch, cold air move in after a mild Monday\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eMPR News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wRlZldXdsaXkzVVZRYldEdVMySE5fVEVFRWFic3hkNzlDeGJKVEU3ck9NNWhDUEhiS0Q0WHZiNWRfM3pGcUZTSUcxWUsydmZ0SUZORGFJRGpvSERiODRlX3BjZnHSAWpBVV95cUxNdDFzMlZjZWZUcVBmNHM2S18xMG4zV3djLTREYm1YOEpXcHNUbXBNTDhKNVlGQ0pxR1FsaTBWdnJ2UUFlTllRSEpSS1VTYzdQd1hrRklNWHFxM1c3UWJ0Umx5RTQyejhuOW5R?oc=5\" target=\"_blank\"\u003eMN weather: What to expect with Tuesday-Wednesday rain switching to snow\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFOX 9 Minneapolis-St. Paul\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ0NOaEUwZXhmRFlqdEJwQUdDMklaeGtPQ0VHR3E4cnhMNkRYeTJRMElqNzVYb1hMT0tGOXF6MWdUcU1WQUszUzB2QU42UjMzckpMZnJrcVpNTDJSQktaZmJsMkFjeUR5NjhuSDVBZllwQmlxMG5iSVVJZWxGZzRTUW5sYUZncllxalpYQ0Jsam9xalRVbDQwR3RpdERJMnpWTlBydURUa29UemNBUGZTQmdBeVlTNnNNdVFyQmR5RGI4NVNYVW9fWGN3?oc=5\" target=\"_blank\"\u003eWinter storm warning issued as heavy snow hits Minnesota two days before Thanksgiving\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eBring Me The News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPRnhRNVNMamZ3VmJjRjZ6dDJXNU1HcUZNLWNqblpjakszSlRJdlVQZVdRbTNueGRzMWlqaGZOOEJ4OTZtYVA5SnM1Um9XQzFWQ2U1bVF4Unlfc25BSXM0SnRWcW54VmVLTEtUX2hQY3RhalFCdU10Rk5YeUZodGM4ODNFc0VrVmt3RnZfVHZsRHpmc2tLbzV5MVF6TkVXeDNORklYZUdac2MzV2JXWG55c3NGckJLelE1NHFVay16d095Ny1mTENmUmpHakJKUQ?oc=5\" target=\"_blank\"\u003eAccumulating snow in forecast for Twin Cities, winter storm watch for central, northern Minnesota\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eStar Tribune\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNNXZiR0xOSWM0WVVVcjEwbGtlMzlMc1NrZzBNVzFjWTA4ckxmeGZRTURrZHlvc25Hd2lyZWxPX2VKNWdzQlhTXzEtak1OMnlDX25KaDdPanQtWm5VQkZFRlRmcmtUSEFIM09fMmtVZlBSU0NOWUZfeDdIY0pScEZRdGVVSWhkUEthT0taQjhwS1g?oc=5\" target=\"_blank\"\u003eQuiet Monday, snow and strong winds midweek\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003e5 EYEWITNESS NEWS\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
-         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkp4bXU1bndFR3lVNjlMS0pqMkV0ZUtHOWhyQ3RxRVY4Q0U0RTFUbjU5MjFnT0FRME95eUIzQ1BZN1Q3Q29Xc284QlRQVDNBTHRJeW5rZnF5RVJxdER0WVpoTFZ3bkYyM3FxS25zNHBoanplQmpVUHlrd1VKYUZsamJOcHpYRmxBSWRkWTBfUHFsOWFUM2cwTWdWMkY?oc=5",
-         "links": [
-             "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkp4bXU1bndFR3lVNjlMS0pqMkV0ZUtHOWhyQ3RxRVY4Q0U0RTFUbjU5MjFnT0FRME95eUIzQ1BZN1Q3Q29Xc284QlRQVDNBTHRJeW5rZnF5RVJxdER0WVpoTFZ3bkYyM3FxS25zNHBoanplQmpVUHlrd1VKYUZsamJOcHpYRmxBSWRkWTBfUHFsOWFUM2cwTWdWMkY?oc=5"
-         ],
-         "published": "Mon, 24 Nov 2025 12:16:00 GMT",
-         "publishedParsed": "2025-11-24T12:16:00Z",
-         "guid": "CBMinAFBVV95cUxNMkp4bXU1bndFR3lVNjlMS0pqMkV0ZUtHOWhyQ3RxRVY4Q0U0RTFUbjU5MjFnT0FRME95eUIzQ1BZN1Q3Q29Xc284QlRQVDNBTHRJeW5rZnF5RVJxdER0WVpoTFZ3bkYyM3FxS25zNHBoanplQmpVUHlrd1VKYUZsamJOcHpYRmxBSWRkWTBfUHFsOWFUM2cwTWdWMkY"
+         "published": "Mon, 24 Nov 2025 21:49:00 GMT",
+         "publishedParsed": "2025-11-24T21:49:00Z",
+         "guid": "CBMiogFBVV95cUxOQjJHQ3BJLWNjbXl0aGdDTU8xRHNXVEJUcGduRV9SSzRVSkw3WG9HRU1CUXNxYmJCZmc2TFJOd1NDNXJpZW5Gb1RqS05XendDbEU5a2lKVVRhU3p4Q1lSVDVCSTUxVGxyS2lGTnhIQmZIdkQ3RE1lZDVJeU9YTmZIMnN2ZVpDUWlwRHRhOXhzcmZLMHBDWEtnajZfVUNidWdOTlE"
      },
      {
          "title": "Anna Kepner's death on cruise ship ruled a homicide - ABC News",
-         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQVUhHM1dLWlZuelB5d0RXTndsdEZLb1V1Q20yNjBKWXdtQktlUFJNa1llSnJnUF9hVHFocmZ2dWplMTRxcnN1NDRsNER3dUE5dGdyMm5iWlVPZy1ySmNReXR2b1ZjMmxjVWZGT05wOUVrSUtLUFJSX243UW5uY3NSb1NocTJlTUpaVTNlVnk2YUJfSk3SAZgBQVVfeXFMTk4wT1plRm45RmtoYnBsSldXd1cxV181dnlxSVpBeWxyOGVIVlB2ZjNVQ1YxUktsSjdqaUJTclRQWUpnU2QtNXVPdDNoU3ZsU25wd3NrR2hZeHAyZkdvVE8zYVhWTmM1VjBMdnhvUHFYQmUwMHlLT3I2T01MSDNqNjUzNG02eHdCTHJVYXp4SDVsVGdUZndwcXg?oc=5\" target=\"_blank\"\u003eAnna Kepner's death on cruise ship ruled a homicide\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNeWNYQXlXeDY4THdKM1NJRDZjM09zWUp6aXkyeVhGejduMzd1RE8xQzU1cjVWWFJ1VTlEdk1zUE5YZTNGNzdDVVZoRnpTdzJySm5VVXRUN0hzb3I4bkVSMHY5VFgwZ2ZaMTVnSVByZnZBZk9DUzJBaFYtcUZaMjlFNWM5UTlGWlB6ZjdBazdVX2M2MGpQUkE?oc=5\" target=\"_blank\"\u003eFamily of 18-year-old who died on cruise speaks out as stepbrother is named 'suspect'\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOWlFiLVNzcmpSMVp1UHo1akVWWXNOTHhlQm5nRHhMVUQtZ0tYY0NGRlpONXNaTzNFcUZyNHhvMHBqZ3BUblFncFVCbEIxTXk1XzNtaGdNMmJjRkFnYXJqdTZsU2RRQjZfSDVYcjIzUjd2UmRrSXNFNXFiWUszaUNFQnVqajVyaURldC1SeklDUGUzN1NVbGoyQ0NhQkxzeVltdzhUNGcxa09hQTdfUHZxNEp6a0lpd0NUUlBFTjFaa3FXclBNMjRF?oc=5\" target=\"_blank\"\u003eAnna Kepner’s cruise ship death ruled a homicide as certificate confirms she was strangled\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eNew York Post\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQX2NKemlZZ2JvSmRvWGFvTWRfY1JGRnd5YVZSN3RaRlNkT3hUY2JfMnl6TU53QTNtcGVBajM0SVhBbS1NSEZWeEpwOHFXaFlsbS1GNWNtTVBJeGRwLWV3dTZhc2FQTmVtVkphN3F2NTdBblRLcjZ0RDNjOXh2X2RiQlA1clpQR0RoTXhEV1B4R3NOM283WGhLOW1SaGcyWVY2SFVjQWk2d2czUlpxQ204OEtkTXhJS0llcjhNSDZwOA?oc=5\" target=\"_blank\"\u003eWhat happened to Anna Kepner? Stepbrother named suspect in cruise ship death.\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eUSA Today\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLXRsMzU3X2lRQXBQMjVvQXA0TXhRVGUwOWtjX2Eyem1BMFJNWHJpUVptV3hOcWQ0YzlzZWVoVklMd3hPaDRtc2U0RFJyeEJYSU9TZEZVeXpUQXdlNGRWTnVNZFZWQW1GRnBxcWwzVWFXZFB3NGZ6YjVuWWhZQ1NZUGgxT2J3UjJZUzQyby1IbkRhZ21VUlhRb1pldnM4OG9IZi1yYnRWU3PSAa4BQVVfeXFMT1gxaGg3S0dmV202ZTVGZXJnQWxtdzBMbDlTbk9sLUJleG81MUxKR050eWZ6N2ZSMmNNVER4VXhTNWpSMnhueXBvNk4tWWJGWGVRQzF0VGpEdG5rYmwxUlpCdTJmblJ2MDJQVkZrUUlLU2tPeVVZVFZHeVdEN1VnRnpuaUJ2NFNBdFpGWW5pc3kybTBpQTVxZWx6N0xJaDk0U2RTY1J1dU5wMXNpNzhR?oc=5\" target=\"_blank\"\u003eFBI probing stepbrother in cruise ship death of Florida teen, sources say\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCBS News\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQVUhHM1dLWlZuelB5d0RXTndsdEZLb1V1Q20yNjBKWXdtQktlUFJNa1llSnJnUF9hVHFocmZ2dWplMTRxcnN1NDRsNER3dUE5dGdyMm5iWlVPZy1ySmNReXR2b1ZjMmxjVWZGT05wOUVrSUtLUFJSX243UW5uY3NSb1NocTJlTUpaVTNlVnk2YUJfSk3SAZgBQVVfeXFMTk4wT1plRm45RmtoYnBsSldXd1cxV181dnlxSVpBeWxyOGVIVlB2ZjNVQ1YxUktsSjdqaUJTclRQWUpnU2QtNXVPdDNoU3ZsU25wd3NrR2hZeHAyZkdvVE8zYVhWTmM1VjBMdnhvUHFYQmUwMHlLT3I2T01MSDNqNjUzNG02eHdCTHJVYXp4SDVsVGdUZndwcXg?oc=5\" target=\"_blank\"\u003eAnna Kepner's death on cruise ship ruled a homicide\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eABC News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNclNLVkhXMHBfUkNCdVpQTWtvMW91V005Si0yYWZYd0ktWTE1TlBhMDBudDE5ZXN6dTRUSm5FUXV1ejlERHAwR0dRbnBiT2dMLWJFSFh1UnFyeFBnSHQzSEtyYkVzbl9XdDNaelZWdkR4N0pCZmJ4QnE4N1pSN3ZVc2sxWlM2NkFiSmE0T2d0YVE4TEN1bkNZX3llOA?oc=5\" target=\"_blank\"\u003eAnna Kepner's Grandma Reveals How Stepbrother Reacted After Her Body Was Found In His Room on Cruise\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003ePeople.com\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQX2NKemlZZ2JvSmRvWGFvTWRfY1JGRnd5YVZSN3RaRlNkT3hUY2JfMnl6TU53QTNtcGVBajM0SVhBbS1NSEZWeEpwOHFXaFlsbS1GNWNtTVBJeGRwLWV3dTZhc2FQTmVtVkphN3F2NTdBblRLcjZ0RDNjOXh2X2RiQlA1clpQR0RoTXhEV1B4R3NOM283WGhLOW1SaGcyWVY2SFVjQWk2d2czUlpxQ204OEtkTXhJS0llcjhNSDZwOA?oc=5\" target=\"_blank\"\u003eWhat happened to Anna Kepner? Stepbrother named suspect in cruise ship death.\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eUSA Today\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUVYaFU5Ri03TjR1cXNtbjEyMTdRdXo5bnM5eUExS0Q4T25HaWtuUFkyeUkydGhXWGdKMGVVcVp3dFJoNmw0djRLMHBobEhqQUhHODZZd1c4OUREV1NSU000N0ZMRTlkYURQTEtoMVZKdW1BMFlLeDgxT2k1TGNwOGhNMDh4elp6MEppSHFfai1TRXI2NUZGYWxKM2VLN1BxcEtyR0V4aV9Ydy14dVBxSXlB?oc=5\" target=\"_blank\"\u003eFamily of teen who died on Carnival Cruise reveal a cause of her shocking death\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eThe Independent\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR0ZNTEc0ZEZ3RWVWV01TWG93ZF9Oa0E5ZlA4OVlreUxaT0d5RHFYVDRrVHN5MW9KWkJKWTVxdm9MeG9Ham5qblFQdTdqcnlxUXVtdUM0dkFDZktTWVhxeEE3NXdSdWoxZ25wazBxcXpyLU9fbDRZWFNlc2VvWUgzckZEajNMb05RLWZudVpYUldtSkwxZG9FSE1LaU1NWFJVT3hwblRHMS3SAa4BQVVfeXFMTkxUUzFmU0o1TWY3TmxlaXl4UDEtNXJBSTR3ZWhNVXhFYnVNYmt1ajZaVTlETUd1OENNZTNOQWkzVzZ0MTNLenN1aFotRVdveks3NFBsS2hDWTZMU1loRlU5WGNyNEswczRzZ2JVYTNtX1hORlNsOTRMZUltRnMxaDFfWTB4VktCSC13bGY0d1A4alE1QVJVRzJ3YUxVWURqVWNZYVN0d2JhcTdRVVhn?oc=5\" target=\"_blank\"\u003eCheerleader's cruise ship death has family pointing fingers\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFox News\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVUhHM1dLWlZuelB5d0RXTndsdEZLb1V1Q20yNjBKWXdtQktlUFJNa1llSnJnUF9hVHFocmZ2dWplMTRxcnN1NDRsNER3dUE5dGdyMm5iWlVPZy1ySmNReXR2b1ZjMmxjVWZGT05wOUVrSUtLUFJSX243UW5uY3NSb1NocTJlTUpaVTNlVnk2YUJfSk3SAZgBQVVfeXFMTk4wT1plRm45RmtoYnBsSldXd1cxV181dnlxSVpBeWxyOGVIVlB2ZjNVQ1YxUktsSjdqaUJTclRQWUpnU2QtNXVPdDNoU3ZsU25wd3NrR2hZeHAyZkdvVE8zYVhWTmM1VjBMdnhvUHFYQmUwMHlLT3I2T01MSDNqNjUzNG02eHdCTHJVYXp4SDVsVGdUZndwcXg?oc=5",
          "links": [
              "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVUhHM1dLWlZuelB5d0RXTndsdEZLb1V1Q20yNjBKWXdtQktlUFJNa1llSnJnUF9hVHFocmZ2dWplMTRxcnN1NDRsNER3dUE5dGdyMm5iWlVPZy1ySmNReXR2b1ZjMmxjVWZGT05wOUVrSUtLUFJSX243UW5uY3NSb1NocTJlTUpaVTNlVnk2YUJfSk3SAZgBQVVfeXFMTk4wT1plRm45RmtoYnBsSldXd1cxV181dnlxSVpBeWxyOGVIVlB2ZjNVQ1YxUktsSjdqaUJTclRQWUpnU2QtNXVPdDNoU3ZsU25wd3NrR2hZeHAyZkdvVE8zYVhWTmM1VjBMdnhvUHFYQmUwMHlLT3I2T01MSDNqNjUzNG02eHdCTHJVYXp4SDVsVGdUZndwcXg?oc=5"
@@ -1935,6 +1735,17 @@
          "published": "Mon, 24 Nov 2025 21:03:51 GMT",
          "publishedParsed": "2025-11-24T21:03:51Z",
          "guid": "CBMikwFBVV95cUxQVUhHM1dLWlZuelB5d0RXTndsdEZLb1V1Q20yNjBKWXdtQktlUFJNa1llSnJnUF9hVHFocmZ2dWplMTRxcnN1NDRsNER3dUE5dGdyMm5iWlVPZy1ySmNReXR2b1ZjMmxjVWZGT05wOUVrSUtLUFJSX243UW5uY3NSb1NocTJlTUpaVTNlVnk2YUJfSk3SAZgBQVVfeXFMTk4wT1plRm45RmtoYnBsSldXd1cxV181dnlxSVpBeWxyOGVIVlB2ZjNVQ1YxUktsSjdqaUJTclRQWUpnU2QtNXVPdDNoU3ZsU25wd3NrR2hZeHAyZkdvVE8zYVhWTmM1VjBMdnhvUHFYQmUwMHlLT3I2T01MSDNqNjUzNG02eHdCTHJVYXp4SDVsVGdUZndwcXg"
+     },
+     {
+         "title": "Minnesota weather: Winter storm watch, cold air move in after a mild Monday - MPR News",
+         "description": "\u003col\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkp4bXU1bndFR3lVNjlMS0pqMkV0ZUtHOWhyQ3RxRVY4Q0U0RTFUbjU5MjFnT0FRME95eUIzQ1BZN1Q3Q29Xc284QlRQVDNBTHRJeW5rZnF5RVJxdER0WVpoTFZ3bkYyM3FxS25zNHBoanplQmpVUHlrd1VKYUZsamJOcHpYRmxBSWRkWTBfUHFsOWFUM2cwTWdWMkY?oc=5\" target=\"_blank\"\u003eMinnesota weather: Winter storm watch, cold air move in after a mild Monday\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eMPR News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wRlZldXdsaXkzVVZRYldEdVMySE5fVEVFRWFic3hkNzlDeGJKVEU3ck9NNWhDUEhiS0Q0WHZiNWRfM3pGcUZTSUcxWUsydmZ0SUZORGFJRGpvSERiODRlX3BjZnHSAWpBVV95cUxNdDFzMlZjZWZUcVBmNHM2S18xMG4zV3djLTREYm1YOEpXcHNUbXBNTDhKNVlGQ0pxR1FsaTBWdnJ2UUFlTllRSEpSS1VTYzdQd1hrRklNWHFxM1c3UWJ0Umx5RTQyejhuOW5R?oc=5\" target=\"_blank\"\u003eMN weather: Twin Cities metro under Winter Weather Advisory Tuesday-Wednesday\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eFOX 9 Minneapolis-St. Paul\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLVZtVTdFckkwNWlIT3E2S3IzRG5LdVFwOXVlV0lKMWd2NUx5U3VNSmY4dmJEaE16Zl9rV0NrNlowZktVNkJkV0c1SER4NXVRbTAtZUV0Wi1qb2xpR0gyZDhwVGgyYUNZS1RYTHZMXzhKRWJNZVpweWhHYmpFVHpqSHJ2RW1COElkaHF3NGY2X0xkSkY0NEZBSkhwSnhtM3B1Wk1ib2VTb3FLZw?oc=5\" target=\"_blank\"\u003eWinter storm warning: Travel issues Tuesday into Wednesday morning\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eMPR News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPQVRkWkUweERScUp5SnhaWEtQOURqUElKTjJWemMxT0h5WWcxM0VLaE94eHI5X3lnbFg5Z1I2WENEYnQ5SnpoZFA1U18xbERaVzdRVXlZWUxEQUk5cm51dG91dWkzdVY2bWVVLWFYajQyZTVkaGsyeUJlcjB4b2xYZDJxUTRCdw?oc=5\" target=\"_blank\"\u003eTwin Cities' first real snowstorm of season set to arrive Tuesday\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eCBS News\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPRnhRNVNMamZ3VmJjRjZ6dDJXNU1HcUZNLWNqblpjakszSlRJdlVQZVdRbTNueGRzMWlqaGZOOEJ4OTZtYVA5SnM1Um9XQzFWQ2U1bVF4Unlfc25BSXM0SnRWcW54VmVLTEtUX2hQY3RhalFCdU10Rk5YeUZodGM4ODNFc0VrVmt3RnZfVHZsRHpmc2tLbzV5MVF6TkVXeDNORklYZUdac2MzV2JXWG55c3NGckJLelE1NHFVay16d095Ny1mTENmUmpHakJKUQ?oc=5\" target=\"_blank\"\u003eAccumulating snow in forecast for Twin Cities, winter storm watch for central, northern Minnesota\u003c/a\u003e\u0026nbsp;\u0026nbsp;\u003cfont color=\"#6f6f6f\"\u003eStar Tribune\u003c/font\u003e\u003c/li\u003e\u003c/ol\u003e",
+         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkp4bXU1bndFR3lVNjlMS0pqMkV0ZUtHOWhyQ3RxRVY4Q0U0RTFUbjU5MjFnT0FRME95eUIzQ1BZN1Q3Q29Xc284QlRQVDNBTHRJeW5rZnF5RVJxdER0WVpoTFZ3bkYyM3FxS25zNHBoanplQmpVUHlrd1VKYUZsamJOcHpYRmxBSWRkWTBfUHFsOWFUM2cwTWdWMkY?oc=5",
+         "links": [
+             "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkp4bXU1bndFR3lVNjlMS0pqMkV0ZUtHOWhyQ3RxRVY4Q0U0RTFUbjU5MjFnT0FRME95eUIzQ1BZN1Q3Q29Xc284QlRQVDNBTHRJeW5rZnF5RVJxdER0WVpoTFZ3bkYyM3FxS25zNHBoanplQmpVUHlrd1VKYUZsamJOcHpYRmxBSWRkWTBfUHFsOWFUM2cwTWdWMkY?oc=5"
+         ],
+         "published": "Mon, 24 Nov 2025 12:16:00 GMT",
+         "publishedParsed": "2025-11-24T12:16:00Z",
+         "guid": "CBMinAFBVV95cUxNMkp4bXU1bndFR3lVNjlMS0pqMkV0ZUtHOWhyQ3RxRVY4Q0U0RTFUbjU5MjFnT0FRME95eUIzQ1BZN1Q3Q29Xc284QlRQVDNBTHRJeW5rZnF5RVJxdER0WVpoTFZ3bkYyM3FxS25zNHBoanplQmpVUHlrd1VKYUZsamJOcHpYRmxBSWRkWTBfUHFsOWFUM2cwTWdWMkY"
      },
      {
          "title": "Pebble Watch software is now 100% open source",
@@ -1957,26 +1768,6 @@
          "publishedParsed": "2025-11-24T19:21:35Z"
      },
      {
-         "title": "Claude Opus 4.5",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037637\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.anthropic.com/news/claude-opus-4-5",
-         "links": [
-             "https://www.anthropic.com/news/claude-opus-4-5"
-         ],
-         "published": "Mon, 24 Nov 2025 18:53:05 +0000",
-         "publishedParsed": "2025-11-24T18:53:05Z"
-     },
-     {
-         "title": "TSMC Arizona Outage Saw Fab Halt, Apple Wafers Scrapped",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037324\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt",
-         "links": [
-             "https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt"
-         ],
-         "published": "Mon, 24 Nov 2025 18:30:48 +0000",
-         "publishedParsed": "2025-11-24T18:30:48Z"
-     },
-     {
          "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46032539\"\u003eComments\u003c/a\u003e",
          "link": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
@@ -1985,6 +1776,16 @@
          ],
          "published": "Mon, 24 Nov 2025 10:40:22 +0000",
          "publishedParsed": "2025-11-24T10:40:22Z"
+     },
+     {
+         "title": "Three Years from GPT-3 to Gemini 3",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46019898\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini",
+         "links": [
+             "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini"
+         ],
+         "published": "Sun, 23 Nov 2025 01:25:17 +0000",
+         "publishedParsed": "2025-11-23T01:25:17Z"
      },
      {
          "title": "Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs",
@@ -1997,14 +1798,44 @@
          "publishedParsed": "2025-11-24T17:52:01Z"
      },
      {
-         "title": "Three Years from GPT-3 to Gemini 3",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46019898\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini",
+         "title": "Claude Opus 4.5",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037637\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.anthropic.com/news/claude-opus-4-5",
          "links": [
-             "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini"
+             "https://www.anthropic.com/news/claude-opus-4-5"
          ],
-         "published": "Sun, 23 Nov 2025 01:25:17 +0000",
-         "publishedParsed": "2025-11-23T01:25:17Z"
+         "published": "Mon, 24 Nov 2025 18:53:05 +0000",
+         "publishedParsed": "2025-11-24T18:53:05Z"
+     },
+     {
+         "title": "Unpowered SSDs slowly lose data",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46038099\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/",
+         "links": [
+             "https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/"
+         ],
+         "published": "Mon, 24 Nov 2025 19:25:25 +0000",
+         "publishedParsed": "2025-11-24T19:25:25Z"
+     },
+     {
+         "title": "Neopets.com Changed My Life (2019)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45974732\"\u003eComments\u003c/a\u003e",
+         "link": "https://annastreetman.com/2019/05/19/how-neopets-com-changed-my-life/",
+         "links": [
+             "https://annastreetman.com/2019/05/19/how-neopets-com-changed-my-life/"
+         ],
+         "published": "Wed, 19 Nov 2025 01:24:12 +0000",
+         "publishedParsed": "2025-11-19T01:24:12Z"
+     },
+     {
+         "title": "Show HN: I built an interactive HN Simulator",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46036908\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ysimulator.run/news",
+         "links": [
+             "https://news.ysimulator.run/news"
+         ],
+         "published": "Mon, 24 Nov 2025 17:52:43 +0000",
+         "publishedParsed": "2025-11-24T17:52:43Z"
      },
      {
          "title": "The Bitter Lesson of LLM Extensions",
@@ -2037,44 +1868,34 @@
          "publishedParsed": "2025-11-24T19:29:12Z"
      },
      {
-         "title": "Show HN: I built an interactive HN Simulator",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46036908\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ysimulator.run/news",
+         "title": "What OpenAI did when ChatGPT users lost touch with reality",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46030799\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html",
          "links": [
-             "https://news.ysimulator.run/news"
+             "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html"
          ],
-         "published": "Mon, 24 Nov 2025 17:52:43 +0000",
-         "publishedParsed": "2025-11-24T17:52:43Z"
+         "published": "Mon, 24 Nov 2025 05:58:08 +0000",
+         "publishedParsed": "2025-11-24T05:58:08Z"
      },
      {
-         "title": "Mind-reading devices can now predict preconscious thoughts",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037267\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nature.com/articles/d41586-025-03714-0",
+         "title": "Show HN: OCR Arena – A playground for OCR models",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46006104\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ocrarena.ai/battle",
          "links": [
-             "https://www.nature.com/articles/d41586-025-03714-0"
+             "https://www.ocrarena.ai/battle"
          ],
-         "published": "Mon, 24 Nov 2025 18:26:09 +0000",
-         "publishedParsed": "2025-11-24T18:26:09Z"
+         "published": "Fri, 21 Nov 2025 16:44:45 +0000",
+         "publishedParsed": "2025-11-21T16:44:45Z"
      },
      {
-         "title": "You can see a working Quantum Computer in IBM's London office",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46014685\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ianvisits.co.uk/articles/you-can-see-a-working-quantum-computer-in-ibms-london-office-85464/",
+         "title": "Bytes before FLOPS: your algorithm is (mostly) fine, your data isn't",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46024402\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bitsdraumar.is/bytes-before-flops/",
          "links": [
-             "https://www.ianvisits.co.uk/articles/you-can-see-a-working-quantum-computer-in-ibms-london-office-85464/"
+             "https://www.bitsdraumar.is/bytes-before-flops/"
          ],
-         "published": "Sat, 22 Nov 2025 13:36:02 +0000",
-         "publishedParsed": "2025-11-22T13:36:02Z"
-     },
-     {
-         "title": "Inside Rust's std and parking_lot mutexes – who wins?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45989284\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win",
-         "links": [
-             "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win"
-         ],
-         "published": "Thu, 20 Nov 2025 05:32:13 +0000",
-         "publishedParsed": "2025-11-20T05:32:13Z"
+         "published": "Sun, 23 Nov 2025 15:47:50 +0000",
+         "publishedParsed": "2025-11-23T15:47:50Z"
      },
      {
          "title": "Chrome Jpegxl Issue Reopened",
@@ -2087,6 +1908,36 @@
          "publishedParsed": "2025-11-24T12:23:02Z"
      },
      {
+         "title": "TSMC Arizona outage saw fab halt, Apple wafers scrapped",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037324\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt",
+         "links": [
+             "https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt"
+         ],
+         "published": "Mon, 24 Nov 2025 18:30:48 +0000",
+         "publishedParsed": "2025-11-24T18:30:48Z"
+     },
+     {
+         "title": "Everything you need to know about hard drive vibration (2016)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45994124\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ept.ca/features/everything-need-know-hard-drive-vibration/",
+         "links": [
+             "https://www.ept.ca/features/everything-need-know-hard-drive-vibration/"
+         ],
+         "published": "Thu, 20 Nov 2025 16:07:22 +0000",
+         "publishedParsed": "2025-11-20T16:07:22Z"
+     },
+     {
+         "title": "You can see a working Quantum Computer in IBM's London office",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46014685\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ianvisits.co.uk/articles/you-can-see-a-working-quantum-computer-in-ibms-london-office-85464/",
+         "links": [
+             "https://www.ianvisits.co.uk/articles/you-can-see-a-working-quantum-computer-in-ibms-london-office-85464/"
+         ],
+         "published": "Sat, 22 Nov 2025 13:36:02 +0000",
+         "publishedParsed": "2025-11-22T13:36:02Z"
+     },
+     {
          "title": "Corvus Robotics (YC S18): Hiring Head of Mfg/Ops, Next Door to YC Mountain View",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46036222\"\u003eComments\u003c/a\u003e",
          "link": "https://news.ycombinator.com/item?id=46036222",
@@ -2097,24 +1948,14 @@
          "publishedParsed": "2025-11-24T17:00:33Z"
      },
      {
-         "title": "The history of Indian science fiction",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46013478\"\u003eComments\u003c/a\u003e",
-         "link": "https://altermag.com/articles/the-secret-history-of-indian-science-fiction",
+         "title": "Inside Rust's std and parking_lot mutexes – who wins?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45989284\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win",
          "links": [
-             "https://altermag.com/articles/the-secret-history-of-indian-science-fiction"
+             "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win"
          ],
-         "published": "Sat, 22 Nov 2025 09:41:46 +0000",
-         "publishedParsed": "2025-11-22T09:41:46Z"
-     },
-     {
-         "title": "Implications of AI to schools",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46036878\"\u003eComments\u003c/a\u003e",
-         "link": "https://twitter.com/karpathy/status/1993010584175141038",
-         "links": [
-             "https://twitter.com/karpathy/status/1993010584175141038"
-         ],
-         "published": "Mon, 24 Nov 2025 17:51:02 +0000",
-         "publishedParsed": "2025-11-24T17:51:02Z"
+         "published": "Thu, 20 Nov 2025 05:32:13 +0000",
+         "publishedParsed": "2025-11-20T05:32:13Z"
      },
      {
          "title": "Launch HN: Karumi (YC F25) – Personalized, agentic product demos",
@@ -2127,6 +1968,56 @@
          "publishedParsed": "2025-11-24T18:37:27Z"
      },
      {
+         "title": "NSA and IETF, part 3: Dodging the issues at hand",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46033151\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.cr.yp.to/20251123-dodging.html",
+         "links": [
+             "https://blog.cr.yp.to/20251123-dodging.html"
+         ],
+         "published": "Mon, 24 Nov 2025 12:00:55 +0000",
+         "publishedParsed": "2025-11-24T12:00:55Z"
+     },
+     {
+         "title": "Building the largest known Kubernetes cluster",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46006891\"\u003eComments\u003c/a\u003e",
+         "link": "https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/",
+         "links": [
+             "https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/"
+         ],
+         "published": "Fri, 21 Nov 2025 17:56:50 +0000",
+         "publishedParsed": "2025-11-21T17:56:50Z"
+     },
+     {
+         "title": "Mind-reading devices can now predict preconscious thoughts",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037267\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nature.com/articles/d41586-025-03714-0",
+         "links": [
+             "https://www.nature.com/articles/d41586-025-03714-0"
+         ],
+         "published": "Mon, 24 Nov 2025 18:26:09 +0000",
+         "publishedParsed": "2025-11-24T18:26:09Z"
+     },
+     {
+         "title": "Fifty Shades of OOP",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46032148\"\u003eComments\u003c/a\u003e",
+         "link": "https://lesleylai.info/en/fifty_shades_of_oop/",
+         "links": [
+             "https://lesleylai.info/en/fifty_shades_of_oop/"
+         ],
+         "published": "Mon, 24 Nov 2025 09:40:32 +0000",
+         "publishedParsed": "2025-11-24T09:40:32Z"
+     },
+     {
+         "title": "The history of Indian science fiction",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46013478\"\u003eComments\u003c/a\u003e",
+         "link": "https://altermag.com/articles/the-secret-history-of-indian-science-fiction",
+         "links": [
+             "https://altermag.com/articles/the-secret-history-of-indian-science-fiction"
+         ],
+         "published": "Sat, 22 Nov 2025 09:41:46 +0000",
+         "publishedParsed": "2025-11-22T09:41:46Z"
+     },
+     {
          "title": "GrapheneOS migrates server infrastructure from France",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037573\"\u003eComments\u003c/a\u003e",
          "link": "https://www.privacyguides.org/news/2025/11/22/grapheneos-migrates-server-infrastructure-from-france-amid-police-intimidation-claims/",
@@ -2137,24 +2028,14 @@
          "publishedParsed": "2025-11-24T18:48:04Z"
      },
      {
-         "title": "The Arithmetic of Braids (2022)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46031068\"\u003eComments\u003c/a\u003e",
-         "link": "https://mathcenter.oxford.emory.edu/site/math108/braid_arithmetic/",
+         "title": "Implications of AI to schools",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46036878\"\u003eComments\u003c/a\u003e",
+         "link": "https://twitter.com/karpathy/status/1993010584175141038",
          "links": [
-             "https://mathcenter.oxford.emory.edu/site/math108/braid_arithmetic/"
+             "https://twitter.com/karpathy/status/1993010584175141038"
          ],
-         "published": "Mon, 24 Nov 2025 06:44:57 +0000",
-         "publishedParsed": "2025-11-24T06:44:57Z"
-     },
-     {
-         "title": "Show HN: Search London StreetView panoramas by text",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45995913\"\u003eComments\u003c/a\u003e",
-         "link": "https://london.publicinsights.uk",
-         "links": [
-             "https://london.publicinsights.uk"
-         ],
-         "published": "Thu, 20 Nov 2025 18:27:51 +0000",
-         "publishedParsed": "2025-11-20T18:27:51Z"
+         "published": "Mon, 24 Nov 2025 17:51:02 +0000",
+         "publishedParsed": "2025-11-24T17:51:02Z"
      },
      {
          "title": "The only GM EV1 ever publicly sold",
@@ -2165,65 +2046,5 @@
          ],
          "published": "Wed, 19 Nov 2025 15:17:19 +0000",
          "publishedParsed": "2025-11-19T15:17:19Z"
-     },
-     {
-         "title": "We stopped roadmap work for a week and fixed bugs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46024541\"\u003eComments\u003c/a\u003e",
-         "link": "https://lalitm.com/fixits-are-good-for-the-soul/",
-         "links": [
-             "https://lalitm.com/fixits-are-good-for-the-soul/"
-         ],
-         "published": "Sun, 23 Nov 2025 16:06:46 +0000",
-         "publishedParsed": "2025-11-23T16:06:46Z"
-     },
-     {
-         "title": "Serflings is a remake of The Settlers 1",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46013132\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.simpleguide.net/serflings.xhtml",
-         "links": [
-             "https://www.simpleguide.net/serflings.xhtml"
-         ],
-         "published": "Sat, 22 Nov 2025 08:26:13 +0000",
-         "publishedParsed": "2025-11-22T08:26:13Z"
-     },
-     {
-         "title": "Is your Android TV streaming box part of a botnet?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46037556\"\u003eComments\u003c/a\u003e",
-         "link": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
-         "links": [
-             "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/"
-         ],
-         "published": "Mon, 24 Nov 2025 18:47:11 +0000",
-         "publishedParsed": "2025-11-24T18:47:11Z"
-     },
-     {
-         "title": "Disney Lost Roger Rabbit",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45968827\"\u003eComments\u003c/a\u003e",
-         "link": "https://pluralistic.net/2025/11/18/im-not-bad/",
-         "links": [
-             "https://pluralistic.net/2025/11/18/im-not-bad/"
-         ],
-         "published": "Tue, 18 Nov 2025 16:54:22 +0000",
-         "publishedParsed": "2025-11-18T16:54:22Z"
-     },
-     {
-         "title": "Historically Accurate Airport Dioramas by AV Pro Designs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45996527\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.core77.com/posts/138995/Historically-Accurate-Airport-Dioramas-by-AV-Pro-Designs",
-         "links": [
-             "https://www.core77.com/posts/138995/Historically-Accurate-Airport-Dioramas-by-AV-Pro-Designs"
-         ],
-         "published": "Thu, 20 Nov 2025 19:21:27 +0000",
-         "publishedParsed": "2025-11-20T19:21:27Z"
-     },
-     {
-         "title": "I built a faster Notion in Rust",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=45985306\"\u003eComments\u003c/a\u003e",
-         "link": "https://imedadel.com/outcrop/",
-         "links": [
-             "https://imedadel.com/outcrop/"
-         ],
-         "published": "Wed, 19 Nov 2025 21:15:45 +0000",
-         "publishedParsed": "2025-11-19T21:15:45Z"
      }
  ]
