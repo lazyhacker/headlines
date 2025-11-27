@@ -1,6 +1,6 @@
 [
      {
-         "title": "Migrating the Main Zig Repository from GitHub to Codeberg",
+         "title": "Migrating the main Zig repository from GitHub to Codeberg",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46064571\"\u003eComments\u003c/a\u003e",
          "link": "https://ziglang.org/news/migrating-from-github-to-codeberg/",
          "links": [
@@ -8,16 +8,6 @@
          ],
          "published": "Thu, 27 Nov 2025 01:49:00 +0000",
          "publishedParsed": "2025-11-27T01:49:00Z"
-     },
-     {
-         "title": "Bring Bathroom Doors Back to Hotels",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46063072\"\u003eComments\u003c/a\u003e",
-         "link": "https://bringbackdoors.com/",
-         "links": [
-             "https://bringbackdoors.com/"
-         ],
-         "published": "Wed, 26 Nov 2025 22:26:36 +0000",
-         "publishedParsed": "2025-11-26T22:26:36Z"
      },
      {
          "title": "DIY NAS: 2026 Edition",
@@ -30,6 +20,16 @@
          "publishedParsed": "2025-11-27T02:54:23Z"
      },
      {
+         "title": "Penpot: The Open-Source Figma",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46064757\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/penpot/penpot",
+         "links": [
+             "https://github.com/penpot/penpot"
+         ],
+         "published": "Thu, 27 Nov 2025 02:14:36 +0000",
+         "publishedParsed": "2025-11-27T02:14:36Z"
+     },
+     {
          "title": "Voyager 1 is about to reach one light-day from Earth",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46057488\"\u003eComments\u003c/a\u003e",
          "link": "https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/",
@@ -40,14 +40,14 @@
          "publishedParsed": "2025-11-26T14:02:46Z"
      },
      {
-         "title": "Penpot: The Open-Source Figma",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46064757\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/penpot/penpot",
+         "title": "Coq: The World's Best Macro Assembler? [pdf] [2013]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46065698\"\u003eComments\u003c/a\u003e",
+         "link": "https://nickbenton.name/coqasm.pdf",
          "links": [
-             "https://github.com/penpot/penpot"
+             "https://nickbenton.name/coqasm.pdf"
          ],
-         "published": "Thu, 27 Nov 2025 02:14:36 +0000",
-         "publishedParsed": "2025-11-27T02:14:36Z"
+         "published": "Thu, 27 Nov 2025 04:34:56 +0000",
+         "publishedParsed": "2025-11-27T04:34:56Z"
      },
      {
          "title": "Running Unsupported iOS on Deprecated Devices",
@@ -70,6 +70,16 @@
          "publishedParsed": "2025-11-26T19:58:27Z"
      },
      {
+         "title": "Functional Data Structures and Algorithms: a Proof Assistant Approach",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46064680\"\u003eComments\u003c/a\u003e",
+         "link": "https://fdsa-book.net/",
+         "links": [
+             "https://fdsa-book.net/"
+         ],
+         "published": "Thu, 27 Nov 2025 02:04:57 +0000",
+         "publishedParsed": "2025-11-27T02:04:57Z"
+     },
+     {
          "title": "Gemini CLI Tips and Tricks for Agentic Coding",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46060508\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/addyosmani/gemini-cli-tips",
@@ -90,16 +100,6 @@
          "publishedParsed": "2025-11-23T02:27:16Z"
      },
      {
-         "title": "The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46062504\"\u003eComments\u003c/a\u003e",
-         "link": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/",
-         "links": [
-             "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/"
-         ],
-         "published": "Wed, 26 Nov 2025 21:25:36 +0000",
-         "publishedParsed": "2025-11-26T21:25:36Z"
-     },
-     {
          "title": "Fara-7B: An efficient agentic model for computer use",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46061208\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/microsoft/fara",
@@ -108,6 +108,26 @@
          ],
          "published": "Wed, 26 Nov 2025 19:10:24 +0000",
          "publishedParsed": "2025-11-26T19:10:24Z"
+     },
+     {
+         "title": "Bring bathroom doors back to hotels",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46063072\"\u003eComments\u003c/a\u003e",
+         "link": "https://bringbackdoors.com/",
+         "links": [
+             "https://bringbackdoors.com/"
+         ],
+         "published": "Wed, 26 Nov 2025 22:26:36 +0000",
+         "publishedParsed": "2025-11-26T22:26:36Z"
+     },
+     {
+         "title": "C100 Developer Terminal",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46063450\"\u003eComments\u003c/a\u003e",
+         "link": "https://caligra.com/",
+         "links": [
+             "https://caligra.com/"
+         ],
+         "published": "Wed, 26 Nov 2025 23:22:24 +0000",
+         "publishedParsed": "2025-11-26T23:22:24Z"
      },
      {
          "title": "Comic Code Reviews",
@@ -120,6 +140,36 @@
          "publishedParsed": "2025-11-20T21:58:36Z"
      },
      {
+         "title": "DSP 101 Part 1: An Introductory Course in DSP System Design",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46064065\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.analog.com/en/resources/analog-dialogue/articles/dsp-101-part-1.html",
+         "links": [
+             "https://www.analog.com/en/resources/analog-dialogue/articles/dsp-101-part-1.html"
+         ],
+         "published": "Thu, 27 Nov 2025 00:42:13 +0000",
+         "publishedParsed": "2025-11-27T00:42:13Z"
+     },
+     {
+         "title": "Making my 1970's-style renderer multi-threaded",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46027348\"\u003eComments\u003c/a\u003e",
+         "link": "https://filiph.net/text/making-my-1970s-renderer-multi-threaded.html",
+         "links": [
+             "https://filiph.net/text/making-my-1970s-renderer-multi-threaded.html"
+         ],
+         "published": "Sun, 23 Nov 2025 21:09:33 +0000",
+         "publishedParsed": "2025-11-23T21:09:33Z"
+     },
+     {
+         "title": "Ruby Was Ready from the Start",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46031664\"\u003eComments\u003c/a\u003e",
+         "link": "https://obie.medium.com/ruby-was-ready-from-the-start-4b089b17babb",
+         "links": [
+             "https://obie.medium.com/ruby-was-ready-from-the-start-4b089b17babb"
+         ],
+         "published": "Mon, 24 Nov 2025 08:30:00 +0000",
+         "publishedParsed": "2025-11-24T08:30:00Z"
+     },
+     {
          "title": "A woman on a mission to photograph every species of hummingbird",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46017830\"\u003eComments\u003c/a\u003e",
          "link": "https://www.audubon.org/magazine/meet-woman-mission-photograph-every-species-of-hummingbird-world",
@@ -128,16 +178,6 @@
          ],
          "published": "Sat, 22 Nov 2025 20:11:25 +0000",
          "publishedParsed": "2025-11-22T20:11:25Z"
-     },
-     {
-         "title": "Alan.app – Add a Border to macOS Active Window",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46061239\"\u003eComments\u003c/a\u003e",
-         "link": "https://tyler.io/2025/11/alan/",
-         "links": [
-             "https://tyler.io/2025/11/alan/"
-         ],
-         "published": "Wed, 26 Nov 2025 19:12:40 +0000",
-         "publishedParsed": "2025-11-26T19:12:40Z"
      },
      {
          "title": "How Does Microwaving Grapes Create Plumes of Plasma?",
@@ -150,6 +190,16 @@
          "publishedParsed": "2025-11-24T04:16:02Z"
      },
      {
+         "title": "Bonsai_term: A library for building dynamic terminal apps by Jane Street",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46064367\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/janestreet/bonsai_term",
+         "links": [
+             "https://github.com/janestreet/bonsai_term"
+         ],
+         "published": "Thu, 27 Nov 2025 01:20:33 +0000",
+         "publishedParsed": "2025-11-27T01:20:33Z"
+     },
+     {
          "title": "A cell so minimal that it challenges definitions of life",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46055935\"\u003eComments\u003c/a\u003e",
          "link": "https://www.quantamagazine.org/a-cell-so-minimal-that-it-challenges-definitions-of-life-20251124/",
@@ -160,6 +210,16 @@
          "publishedParsed": "2025-11-26T10:06:41Z"
      },
      {
+         "title": "Alan.app – Add a Border to macOS Active Window",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46061239\"\u003eComments\u003c/a\u003e",
+         "link": "https://tyler.io/2025/11/alan/",
+         "links": [
+             "https://tyler.io/2025/11/alan/"
+         ],
+         "published": "Wed, 26 Nov 2025 19:12:40 +0000",
+         "publishedParsed": "2025-11-26T19:12:40Z"
+     },
+     {
          "title": "Show HN: Safe-NPM – only install packages that are +90 days old",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46027878\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/kevinslin/safe-npm",
@@ -168,16 +228,6 @@
          ],
          "published": "Sun, 23 Nov 2025 22:14:14 +0000",
          "publishedParsed": "2025-11-23T22:14:14Z"
-     },
-     {
-         "title": "Cardiac implantable electronic devices' longevity: A novel modelling tool",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46018226\"\u003eComments\u003c/a\u003e",
-         "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0333195",
-         "links": [
-             "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0333195"
-         ],
-         "published": "Sat, 22 Nov 2025 21:02:02 +0000",
-         "publishedParsed": "2025-11-22T21:02:02Z"
      },
      {
          "title": "Statistical Process Control in Python",
@@ -200,14 +250,14 @@
          "publishedParsed": "2025-11-22T17:11:52Z"
      },
      {
-         "title": "DSP 101 Part 1: An Introductory Course in DSP System Design",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46064065\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.analog.com/en/resources/analog-dialogue/articles/dsp-101-part-1.html",
+         "title": "Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46059620\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.optery.com/careers/",
          "links": [
-             "https://www.analog.com/en/resources/analog-dialogue/articles/dsp-101-part-1.html"
+             "https://www.optery.com/careers/"
          ],
-         "published": "Thu, 27 Nov 2025 00:42:13 +0000",
-         "publishedParsed": "2025-11-27T00:42:13Z"
+         "published": "Wed, 26 Nov 2025 17:03:21 +0000",
+         "publishedParsed": "2025-11-26T17:03:21Z"
      },
      {
          "title": "Compressed filesystems à la language models",
@@ -220,26 +270,6 @@
          "publishedParsed": "2025-11-26T15:03:09Z"
      },
      {
-         "title": "Don't Download Apps",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46061623\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.calebjay.com/posts/dont-download-apps/",
-         "links": [
-             "https://blog.calebjay.com/posts/dont-download-apps/"
-         ],
-         "published": "Wed, 26 Nov 2025 19:51:52 +0000",
-         "publishedParsed": "2025-11-26T19:51:52Z"
-     },
-     {
-         "title": "Bonsai_term: A library for building dynamic terminal apps by Jane Street",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46064367\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/janestreet/bonsai_term",
-         "links": [
-             "https://github.com/janestreet/bonsai_term"
-         ],
-         "published": "Thu, 27 Nov 2025 01:20:33 +0000",
-         "publishedParsed": "2025-11-27T01:20:33Z"
-     },
-     {
          "title": "Show HN: KiDoom – Running DOOM on PCB Traces",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46051449\"\u003eComments\u003c/a\u003e",
          "link": "https://www.mikeayles.com/#kidoom",
@@ -250,33 +280,13 @@
          "publishedParsed": "2025-11-25T22:13:35Z"
      },
      {
-         "title": "Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46059620\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.optery.com/careers/",
+         "title": "Cardiac implantable electronic devices' longevity: A novel modelling tool",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46018226\"\u003eComments\u003c/a\u003e",
+         "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0333195",
          "links": [
-             "https://www.optery.com/careers/"
+             "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0333195"
          ],
-         "published": "Wed, 26 Nov 2025 17:03:21 +0000",
-         "publishedParsed": "2025-11-26T17:03:21Z"
-     },
-     {
-         "title": "Surprisingly, Emacs on Android is pretty good",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46021577\"\u003eComments\u003c/a\u003e",
-         "link": "https://kristofferbalintona.me/posts/202505291438/",
-         "links": [
-             "https://kristofferbalintona.me/posts/202505291438/"
-         ],
-         "published": "Sun, 23 Nov 2025 07:40:26 +0000",
-         "publishedParsed": "2025-11-23T07:40:26Z"
-     },
-     {
-         "title": "DRAM prices are spiking, but I don't trust the industry's why",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46059737\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.xda-developers.com/dram-prices-spiking-dont-trust-industry-reasons/",
-         "links": [
-             "https://www.xda-developers.com/dram-prices-spiking-dont-trust-industry-reasons/"
-         ],
-         "published": "Wed, 26 Nov 2025 17:12:01 +0000",
-         "publishedParsed": "2025-11-26T17:12:01Z"
+         "published": "Sat, 22 Nov 2025 21:02:02 +0000",
+         "publishedParsed": "2025-11-22T21:02:02Z"
      }
  ]
