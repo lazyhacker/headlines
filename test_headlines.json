@@ -1,5 +1,25 @@
 [
      {
+         "title": "Landlock-Ing Linux",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46090969\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.prizrak.me/post/landlock/",
+         "links": [
+             "https://blog.prizrak.me/post/landlock/"
+         ],
+         "published": "Sat, 29 Nov 2025 21:30:53 +0000",
+         "publishedParsed": "2025-11-29T21:30:53Z"
+     },
+     {
+         "title": "Bazzite: The next generation of Linux gaming",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46091362\"\u003eComments\u003c/a\u003e",
+         "link": "https://bazzite.gg/",
+         "links": [
+             "https://bazzite.gg/"
+         ],
+         "published": "Sat, 29 Nov 2025 22:22:24 +0000",
+         "publishedParsed": "2025-11-29T22:22:24Z"
+     },
+     {
          "title": "All it takes is for one to work out",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46090433\"\u003eComments\u003c/a\u003e",
          "link": "https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/",
@@ -20,26 +40,6 @@
          "publishedParsed": "2025-11-29T19:41:55Z"
      },
      {
-         "title": "Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini's Nano Banana",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46090619\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/gavrielc/Nano-PDF",
-         "links": [
-             "https://github.com/gavrielc/Nano-PDF"
-         ],
-         "published": "Sat, 29 Nov 2025 20:44:24 +0000",
-         "publishedParsed": "2025-11-29T20:44:24Z"
-     },
-     {
-         "title": "Post-mortem of Shai-Hulud attack on November 24th, 2025",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46057141\"\u003eComments\u003c/a\u003e",
-         "link": "https://posthog.com/blog/nov-24-shai-hulud-attack-post-mortem",
-         "links": [
-             "https://posthog.com/blog/nov-24-shai-hulud-attack-post-mortem"
-         ],
-         "published": "Wed, 26 Nov 2025 13:22:46 +0000",
-         "publishedParsed": "2025-11-26T13:22:46Z"
-     },
-     {
          "title": "Learning Feynman's Trick for Integrals",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46090269\"\u003eComments\u003c/a\u003e",
          "link": "https://zackyzz.github.io/feynman.html",
@@ -50,14 +50,24 @@
          "publishedParsed": "2025-11-29T19:55:17Z"
      },
      {
-         "title": "Zero knowlege proof of compositeness",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46089394\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.johndcook.com/blog/2025/11/29/zkp-composite/",
+         "title": "Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini's Nano Banana",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46090619\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/gavrielc/Nano-PDF",
          "links": [
-             "https://www.johndcook.com/blog/2025/11/29/zkp-composite/"
+             "https://github.com/gavrielc/Nano-PDF"
          ],
-         "published": "Sat, 29 Nov 2025 17:53:57 +0000",
-         "publishedParsed": "2025-11-29T17:53:57Z"
+         "published": "Sat, 29 Nov 2025 20:44:24 +0000",
+         "publishedParsed": "2025-11-29T20:44:24Z"
+     },
+     {
+         "title": "Blender facial animation tool. What else should it do?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46071221\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/shun126/livelinkface_arkit_receiver/wiki",
+         "links": [
+             "https://github.com/shun126/livelinkface_arkit_receiver/wiki"
+         ],
+         "published": "Thu, 27 Nov 2025 17:13:51 +0000",
+         "publishedParsed": "2025-11-27T17:13:51Z"
      },
      {
          "title": "The Origins of Scala (2009)",
@@ -70,14 +80,14 @@
          "publishedParsed": "2025-11-29T19:59:12Z"
      },
      {
-         "title": "An update on the Farphone's battery",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46078684\"\u003eComments\u003c/a\u003e",
-         "link": "https://far.computer/battery-update/",
+         "title": "Zero knowlege proof of compositeness",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46089394\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.johndcook.com/blog/2025/11/29/zkp-composite/",
          "links": [
-             "https://far.computer/battery-update/"
+             "https://www.johndcook.com/blog/2025/11/29/zkp-composite/"
          ],
-         "published": "Fri, 28 Nov 2025 13:57:43 +0000",
-         "publishedParsed": "2025-11-28T13:57:43Z"
+         "published": "Sat, 29 Nov 2025 17:53:57 +0000",
+         "publishedParsed": "2025-11-29T17:53:57Z"
      },
      {
          "title": "Show HN: Network Monitor – a GUI to spot anomalous connections on your Linux",
@@ -90,6 +100,16 @@
          "publishedParsed": "2025-11-24T09:30:40Z"
      },
      {
+         "title": "An update on the Farphone's battery",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46078684\"\u003eComments\u003c/a\u003e",
+         "link": "https://far.computer/battery-update/",
+         "links": [
+             "https://far.computer/battery-update/"
+         ],
+         "published": "Fri, 28 Nov 2025 13:57:43 +0000",
+         "publishedParsed": "2025-11-28T13:57:43Z"
+     },
+     {
          "title": "Rare X-ray images of a 4.5-ton satellite that returned intact from space",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46060432\"\u003eComments\u003c/a\u003e",
          "link": "https://www.empa.ch/web/s604/eureca-satellit-mit-roentgenmethoden-untersucht",
@@ -100,24 +120,24 @@
          "publishedParsed": "2025-11-26T18:02:45Z"
      },
      {
-         "title": "Landlock-Ing Linux",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46090969\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.prizrak.me/post/landlock/",
+         "title": "Let go of StackOverflow; communities must take ownership",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46051182\"\u003eComments\u003c/a\u003e",
+         "link": "https://ahelwer.ca/post/2025-11-25-stackoverflow/",
          "links": [
-             "https://blog.prizrak.me/post/landlock/"
+             "https://ahelwer.ca/post/2025-11-25-stackoverflow/"
          ],
-         "published": "Sat, 29 Nov 2025 21:30:53 +0000",
-         "publishedParsed": "2025-11-29T21:30:53Z"
+         "published": "Tue, 25 Nov 2025 21:46:21 +0000",
+         "publishedParsed": "2025-11-25T21:46:21Z"
      },
      {
-         "title": "Bronze Age mega-settlement in Kazakhstan has advanced urban planning, metallurgy",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46006323\"\u003eComments\u003c/a\u003e",
-         "link": "https://archaeologymag.com/2025/11/bronze-age-mega-settlement-in-kazakhstan/",
+         "title": "Post-mortem of Shai-Hulud attack on November 24th, 2025",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46057141\"\u003eComments\u003c/a\u003e",
+         "link": "https://posthog.com/blog/nov-24-shai-hulud-attack-post-mortem",
          "links": [
-             "https://archaeologymag.com/2025/11/bronze-age-mega-settlement-in-kazakhstan/"
+             "https://posthog.com/blog/nov-24-shai-hulud-attack-post-mortem"
          ],
-         "published": "Fri, 21 Nov 2025 17:06:21 +0000",
-         "publishedParsed": "2025-11-21T17:06:21Z"
+         "published": "Wed, 26 Nov 2025 13:22:46 +0000",
+         "publishedParsed": "2025-11-26T13:22:46Z"
      },
      {
          "title": "Hardening the C++ Standard Library at scale",
@@ -130,14 +150,14 @@
          "publishedParsed": "2025-11-23T04:22:41Z"
      },
      {
-         "title": "Hachi: An Image Search Engine",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46087549\"\u003eComments\u003c/a\u003e",
-         "link": "https://eagledot.xyz/hachi.md.html",
+         "title": "The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46087022\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/",
          "links": [
-             "https://eagledot.xyz/hachi.md.html"
+             "https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/"
          ],
-         "published": "Sat, 29 Nov 2025 13:56:04 +0000",
-         "publishedParsed": "2025-11-29T13:56:04Z"
+         "published": "Sat, 29 Nov 2025 12:25:35 +0000",
+         "publishedParsed": "2025-11-29T12:25:35Z"
      },
      {
          "title": "AccessOwl (YC S22) Is Hiring a Technical Account Manager (IAM)",
@@ -150,34 +170,44 @@
          "publishedParsed": "2025-11-29T17:00:23Z"
      },
      {
-         "title": "Electric vehicle sales are booming in South America – without Tesla",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46089971\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.reuters.com/sustainability/climate-energy/electric-vehicle-sales-are-booming-south-america-without-tesla-2025-11-17/",
+         "title": "Bronze Age mega-settlement in Kazakhstan has advanced urban planning, metallurgy",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46006323\"\u003eComments\u003c/a\u003e",
+         "link": "https://archaeologymag.com/2025/11/bronze-age-mega-settlement-in-kazakhstan/",
          "links": [
-             "https://www.reuters.com/sustainability/climate-energy/electric-vehicle-sales-are-booming-south-america-without-tesla-2025-11-17/"
+             "https://archaeologymag.com/2025/11/bronze-age-mega-settlement-in-kazakhstan/"
          ],
-         "published": "Sat, 29 Nov 2025 19:12:48 +0000",
-         "publishedParsed": "2025-11-29T19:12:48Z"
+         "published": "Fri, 21 Nov 2025 17:06:21 +0000",
+         "publishedParsed": "2025-11-21T17:06:21Z"
      },
      {
-         "title": "The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46087022\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/",
+         "title": "Hachi: An Image Search Engine",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46087549\"\u003eComments\u003c/a\u003e",
+         "link": "https://eagledot.xyz/hachi.md.html",
          "links": [
-             "https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/"
+             "https://eagledot.xyz/hachi.md.html"
          ],
-         "published": "Sat, 29 Nov 2025 12:25:35 +0000",
-         "publishedParsed": "2025-11-29T12:25:35Z"
+         "published": "Sat, 29 Nov 2025 13:56:04 +0000",
+         "publishedParsed": "2025-11-29T13:56:04Z"
      },
      {
-         "title": "Men Who Made America's Self-Made Man",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46050861\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.historynewsnetwork.org/article/self-made",
+         "title": "Anthony Bourdain's Lost Li.st's",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46054879\"\u003eComments\u003c/a\u003e",
+         "link": "https://bourdain.greg.technology/",
          "links": [
-             "https://www.historynewsnetwork.org/article/self-made"
+             "https://bourdain.greg.technology/"
          ],
-         "published": "Tue, 25 Nov 2025 21:12:55 +0000",
-         "publishedParsed": "2025-11-25T21:12:55Z"
+         "published": "Wed, 26 Nov 2025 07:03:27 +0000",
+         "publishedParsed": "2025-11-26T07:03:27Z"
+     },
+     {
+         "title": "Baboon: Data Modeling with Automatic Evolutions and tagless binary codecs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46090372\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/7mind/baboon",
+         "links": [
+             "https://github.com/7mind/baboon"
+         ],
+         "published": "Sat, 29 Nov 2025 20:12:37 +0000",
+         "publishedParsed": "2025-11-29T20:12:37Z"
      },
      {
          "title": "Framework Computer Now Sponsoring LVFS / Fwupd Development",
@@ -200,44 +230,14 @@
          "publishedParsed": "2025-11-29T14:02:23Z"
      },
      {
-         "title": "Baboon: Data Modeling with Automatic Evolutions and tagless binary codecs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46090372\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/7mind/baboon",
+         "title": "Joe Armstrong interviews Alan Kay (2016) [video]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46090574\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.youtube.com/watch?v=fhOHn9TClXY",
          "links": [
-             "https://github.com/7mind/baboon"
+             "https://www.youtube.com/watch?v=fhOHn9TClXY"
          ],
-         "published": "Sat, 29 Nov 2025 20:12:37 +0000",
-         "publishedParsed": "2025-11-29T20:12:37Z"
-     },
-     {
-         "title": "Anthony Bourdain's Lost Li.st's",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46054879\"\u003eComments\u003c/a\u003e",
-         "link": "https://bourdain.greg.technology/",
-         "links": [
-             "https://bourdain.greg.technology/"
-         ],
-         "published": "Wed, 26 Nov 2025 07:03:27 +0000",
-         "publishedParsed": "2025-11-26T07:03:27Z"
-     },
-     {
-         "title": "System 7 natively boots on the Mac mini G4",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46084956\"\u003eComments\u003c/a\u003e",
-         "link": "https://macos9lives.com/smforum/index.php?topic=7711.0",
-         "links": [
-             "https://macos9lives.com/smforum/index.php?topic=7711.0"
-         ],
-         "published": "Sat, 29 Nov 2025 03:26:01 +0000",
-         "publishedParsed": "2025-11-29T03:26:01Z"
-     },
-     {
-         "title": "WinApps: Run Windows apps as if they were a part of the native Linux OS",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46045207\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/winapps-org/winapps",
-         "links": [
-             "https://github.com/winapps-org/winapps"
-         ],
-         "published": "Tue, 25 Nov 2025 12:34:25 +0000",
-         "publishedParsed": "2025-11-25T12:34:25Z"
+         "published": "Sat, 29 Nov 2025 20:37:59 +0000",
+         "publishedParsed": "2025-11-29T20:37:59Z"
      },
      {
          "title": "Plinko PIR Tutorial",
@@ -248,26 +248,6 @@
          ],
          "published": "Wed, 26 Nov 2025 07:40:43 +0000",
          "publishedParsed": "2025-11-26T07:40:43Z"
-     },
-     {
-         "title": "Airbus A320 – intense solar radiation may corrupt data critical for flight",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46083004\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action",
-         "links": [
-             "https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action"
-         ],
-         "published": "Fri, 28 Nov 2025 21:40:21 +0000",
-         "publishedParsed": "2025-11-28T21:40:21Z"
-     },
-     {
-         "title": "Joe Armstrong interviews Alan Kay (2016) [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46090574\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=fhOHn9TClXY",
-         "links": [
-             "https://www.youtube.com/watch?v=fhOHn9TClXY"
-         ],
-         "published": "Sat, 29 Nov 2025 20:37:59 +0000",
-         "publishedParsed": "2025-11-29T20:37:59Z"
      },
      {
          "title": "WebR – R in the Browser",
