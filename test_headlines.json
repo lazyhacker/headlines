@@ -1,5 +1,15 @@
 [
      {
+         "title": "Writing a Good Claude.md",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098838\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
+         "links": [
+             "https://www.humanlayer.dev/blog/writing-a-good-claude-md"
+         ],
+         "published": "Sun, 30 Nov 2025 17:56:43 +0000",
+         "publishedParsed": "2025-11-30T17:56:43Z"
+     },
+     {
          "title": "Advent of Code 2025",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46096337\"\u003eComments\u003c/a\u003e",
          "link": "https://adventofcode.com/2025/about",
@@ -8,16 +18,6 @@
          ],
          "published": "Sun, 30 Nov 2025 13:07:15 +0000",
          "publishedParsed": "2025-11-30T13:07:15Z"
-     },
-     {
-         "title": "You Want Microservices, but Do You Need Them?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46099367\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.docker.com/blog/do-you-really-need-microservices/",
-         "links": [
-             "https://www.docker.com/blog/do-you-really-need-microservices/"
-         ],
-         "published": "Sun, 30 Nov 2025 19:02:04 +0000",
-         "publishedParsed": "2025-11-30T19:02:04Z"
      },
      {
          "title": "Windows drive letters are not limited to A-Z",
@@ -30,6 +30,16 @@
          "publishedParsed": "2025-11-30T13:40:17Z"
      },
      {
+         "title": "Migrating Dillo from GitHub",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46096800\"\u003eComments\u003c/a\u003e",
+         "link": "https://dillo-browser.org/news/migration-from-github/",
+         "links": [
+             "https://dillo-browser.org/news/migration-from-github/"
+         ],
+         "published": "Sun, 30 Nov 2025 14:11:40 +0000",
+         "publishedParsed": "2025-11-30T14:11:40Z"
+     },
+     {
          "title": "ETH-Zurich: Digital Design and Computer Architecture; 227-0003-10L, Spring, 2025",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098747\"\u003eComments\u003c/a\u003e",
          "link": "https://safari.ethz.ch/ddca/spring2025/doku.php?id=start",
@@ -38,16 +48,6 @@
          ],
          "published": "Sun, 30 Nov 2025 17:45:51 +0000",
          "publishedParsed": "2025-11-30T17:45:51Z"
-     },
-     {
-         "title": "ESA Sentinel-1D delivers first high-resolution images",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098673\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen",
-         "links": [
-             "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen"
-         ],
-         "published": "Sun, 30 Nov 2025 17:37:09 +0000",
-         "publishedParsed": "2025-11-30T17:37:09Z"
      },
      {
          "title": "LLVM-MOS – Clang LLVM fork targeting the 6502",
@@ -60,27 +60,7 @@
          "publishedParsed": "2025-11-30T17:02:48Z"
      },
      {
-         "title": "Migrating Dillo from GitHub",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46096800\"\u003eComments\u003c/a\u003e",
-         "link": "https://dillo-browser.org/news/migration-from-github/",
-         "links": [
-             "https://dillo-browser.org/news/migration-from-github/"
-         ],
-         "published": "Sun, 30 Nov 2025 14:11:40 +0000",
-         "publishedParsed": "2025-11-30T14:11:40Z"
-     },
-     {
-         "title": "Don't push AI down our throats",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098992\"\u003eComments\u003c/a\u003e",
-         "link": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
-         "links": [
-             "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats"
-         ],
-         "published": "Sun, 30 Nov 2025 18:17:13 +0000",
-         "publishedParsed": "2025-11-30T18:17:13Z"
-     },
-     {
-         "title": "Program-of-Thought Prompting Outperforms Chain-of-Thought by 15%",
+         "title": "Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% (2022)",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46099108\"\u003eComments\u003c/a\u003e",
          "link": "https://arxiv.org/abs/2211.12588",
          "links": [
@@ -88,6 +68,36 @@
          ],
          "published": "Sun, 30 Nov 2025 18:34:52 +0000",
          "publishedParsed": "2025-11-30T18:34:52Z"
+     },
+     {
+         "title": "ESA Sentinel-1D delivers first high-resolution images",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098673\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen",
+         "links": [
+             "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen"
+         ],
+         "published": "Sun, 30 Nov 2025 17:37:09 +0000",
+         "publishedParsed": "2025-11-30T17:37:09Z"
+     },
+     {
+         "title": "\"Boobs check\" – Technique to verify if sites behind CDN are hosted in Iran",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46100323\"\u003eComments\u003c/a\u003e",
+         "link": "https://twitter.com/hkashfi/status/1995109785679573167",
+         "links": [
+             "https://twitter.com/hkashfi/status/1995109785679573167"
+         ],
+         "published": "Sun, 30 Nov 2025 20:54:43 +0000",
+         "publishedParsed": "2025-11-30T20:54:43Z"
+     },
+     {
+         "title": "GitHub to Codeberg: my experience",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46097829\"\u003eComments\u003c/a\u003e",
+         "link": "https://eldred.fr/blog/forge-migration/",
+         "links": [
+             "https://eldred.fr/blog/forge-migration/"
+         ],
+         "published": "Sun, 30 Nov 2025 16:12:13 +0000",
+         "publishedParsed": "2025-11-30T16:12:13Z"
      },
      {
          "title": "CachyOS: Fast and Customizable Linux Distribution",
@@ -100,54 +110,24 @@
          "publishedParsed": "2025-11-30T10:47:27Z"
      },
      {
-         "title": "Writing a Good Claude.md",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098838\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
+         "title": "Don't push AI down our throats",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098992\"\u003eComments\u003c/a\u003e",
+         "link": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
          "links": [
-             "https://www.humanlayer.dev/blog/writing-a-good-claude-md"
+             "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats"
          ],
-         "published": "Sun, 30 Nov 2025 17:56:43 +0000",
-         "publishedParsed": "2025-11-30T17:56:43Z"
+         "published": "Sun, 30 Nov 2025 18:17:13 +0000",
+         "publishedParsed": "2025-11-30T18:17:13Z"
      },
      {
-         "title": "RetailReady (YC W24) Is Hiring Associate Product Manager",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098336\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-manager",
+         "title": "Stop Hacklore (modern urban legends about digital safety)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46058670\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.hacklore.org/letter",
          "links": [
-             "https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-manager"
+             "https://www.hacklore.org/letter"
          ],
-         "published": "Sun, 30 Nov 2025 17:01:24 +0000",
-         "publishedParsed": "2025-11-30T17:01:24Z"
-     },
-     {
-         "title": "Notes on Shadowing a Hospitalist",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098569\"\u003eComments\u003c/a\u003e",
-         "link": "https://humaninvariant.substack.com/p/notes-on-shadowing-a-hospitalist",
-         "links": [
-             "https://humaninvariant.substack.com/p/notes-on-shadowing-a-hospitalist"
-         ],
-         "published": "Sun, 30 Nov 2025 17:25:40 +0000",
-         "publishedParsed": "2025-11-30T17:25:40Z"
-     },
-     {
-         "title": "There is No Quintic Formula [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098979\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=9HIy5dJE-zQ",
-         "links": [
-             "https://www.youtube.com/watch?v=9HIy5dJE-zQ"
-         ],
-         "published": "Sun, 30 Nov 2025 18:15:37 +0000",
-         "publishedParsed": "2025-11-30T18:15:37Z"
-     },
-     {
-         "title": "Show HN: Boing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46093473\"\u003eComments\u003c/a\u003e",
-         "link": "https://boing.greg.technology/",
-         "links": [
-             "https://boing.greg.technology/"
-         ],
-         "published": "Sun, 30 Nov 2025 03:46:35 +0000",
-         "publishedParsed": "2025-11-30T03:46:35Z"
+         "published": "Wed, 26 Nov 2025 15:55:48 +0000",
+         "publishedParsed": "2025-11-26T15:55:48Z"
      },
      {
          "title": "A Second Look at Geolocation and Starlink",
@@ -160,14 +140,44 @@
          "publishedParsed": "2025-11-25T16:37:31Z"
      },
      {
-         "title": "The Thinking Game Film – Google DeepMind Documentary",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46097773\"\u003eComments\u003c/a\u003e",
-         "link": "https://thinkinggamefilm.com",
+         "title": "Show HN: Boing",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46093473\"\u003eComments\u003c/a\u003e",
+         "link": "https://boing.greg.technology/",
          "links": [
-             "https://thinkinggamefilm.com"
+             "https://boing.greg.technology/"
          ],
-         "published": "Sun, 30 Nov 2025 16:07:11 +0000",
-         "publishedParsed": "2025-11-30T16:07:11Z"
+         "published": "Sun, 30 Nov 2025 03:46:35 +0000",
+         "publishedParsed": "2025-11-30T03:46:35Z"
+     },
+     {
+         "title": "RetailReady (YC W24) Is Hiring Associate Product Manager",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098336\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-manager",
+         "links": [
+             "https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-manager"
+         ],
+         "published": "Sun, 30 Nov 2025 17:01:24 +0000",
+         "publishedParsed": "2025-11-30T17:01:24Z"
+     },
+     {
+         "title": "NixOS 25.11 released",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46099022\"\u003eComments\u003c/a\u003e",
+         "link": "https://nixos.org/blog/announcements/2025/nixos-2511/",
+         "links": [
+             "https://nixos.org/blog/announcements/2025/nixos-2511/"
+         ],
+         "published": "Sun, 30 Nov 2025 18:21:45 +0000",
+         "publishedParsed": "2025-11-30T18:21:45Z"
+     },
+     {
+         "title": "There is No Quintic Formula [video]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098979\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.youtube.com/watch?v=9HIy5dJE-zQ",
+         "links": [
+             "https://www.youtube.com/watch?v=9HIy5dJE-zQ"
+         ],
+         "published": "Sun, 30 Nov 2025 18:15:37 +0000",
+         "publishedParsed": "2025-11-30T18:15:37Z"
      },
      {
          "title": "Show HN: Real-time system that tracks how news spreads across 200k websites",
@@ -190,14 +200,24 @@
          "publishedParsed": "2025-11-26T15:46:51Z"
      },
      {
-         "title": "NixOS 25.11 Released",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46099022\"\u003eComments\u003c/a\u003e",
-         "link": "https://nixos.org/blog/announcements/2025/nixos-2511/",
+         "title": "People keep flocking to Linux, not just to escape Windows",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46099985\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/",
          "links": [
-             "https://nixos.org/blog/announcements/2025/nixos-2511/"
+             "https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/"
          ],
-         "published": "Sun, 30 Nov 2025 18:21:45 +0000",
-         "publishedParsed": "2025-11-30T18:21:45Z"
+         "published": "Sun, 30 Nov 2025 20:14:12 +0000",
+         "publishedParsed": "2025-11-30T20:14:12Z"
+     },
+     {
+         "title": "Langjam Gamejam: Build a programming language then make a game with it",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46097671\"\u003eComments\u003c/a\u003e",
+         "link": "https://langjamgamejam.com/",
+         "links": [
+             "https://langjamgamejam.com/"
+         ],
+         "published": "Sun, 30 Nov 2025 15:57:34 +0000",
+         "publishedParsed": "2025-11-30T15:57:34Z"
      },
      {
          "title": "Modern cars are spying on you. Here's what you can do about it",
@@ -210,26 +230,6 @@
          "publishedParsed": "2025-11-30T15:52:41Z"
      },
      {
-         "title": "Paul Hegarty's updated CS193p SwiftUI course released by Stanford",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46051422\"\u003eComments\u003c/a\u003e",
-         "link": "https://cs193p.stanford.edu/",
-         "links": [
-             "https://cs193p.stanford.edu/"
-         ],
-         "published": "Tue, 25 Nov 2025 22:11:50 +0000",
-         "publishedParsed": "2025-11-25T22:11:50Z"
-     },
-     {
-         "title": "GitHub to Codeberg: My Experience",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46097829\"\u003eComments\u003c/a\u003e",
-         "link": "https://eldred.fr/blog/forge-migration/",
-         "links": [
-             "https://eldred.fr/blog/forge-migration/"
-         ],
-         "published": "Sun, 30 Nov 2025 16:12:13 +0000",
-         "publishedParsed": "2025-11-30T16:12:13Z"
-     },
-     {
          "title": "Zigbook Is Plagiarizing the Zigtools Playground",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46093518\"\u003eComments\u003c/a\u003e",
          "link": "https://zigtools.org/blog/zigbook-plagiarizing-playground/",
@@ -240,14 +240,34 @@
          "publishedParsed": "2025-11-30T03:54:51Z"
      },
      {
-         "title": "Langjam Gamejam: Build a programming language then make a game with it",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46097671\"\u003eComments\u003c/a\u003e",
-         "link": "https://langjamgamejam.com/",
+         "title": "Finding the grain of sand in a heap of Salt",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46066746\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.cloudflare.com/finding-the-grain-of-sand-in-a-heap-of-salt/",
          "links": [
-             "https://langjamgamejam.com/"
+             "https://blog.cloudflare.com/finding-the-grain-of-sand-in-a-heap-of-salt/"
          ],
-         "published": "Sun, 30 Nov 2025 15:57:34 +0000",
-         "publishedParsed": "2025-11-30T15:57:34Z"
+         "published": "Thu, 27 Nov 2025 07:40:43 +0000",
+         "publishedParsed": "2025-11-27T07:40:43Z"
+     },
+     {
+         "title": "Paul Hegarty's updated CS193p SwiftUI course released by Stanford",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46051422\"\u003eComments\u003c/a\u003e",
+         "link": "https://cs193p.stanford.edu/",
+         "links": [
+             "https://cs193p.stanford.edu/"
+         ],
+         "published": "Tue, 25 Nov 2025 22:11:50 +0000",
+         "publishedParsed": "2025-11-25T22:11:50Z"
+     },
+     {
+         "title": "Notes on Shadowing a Hospitalist",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098569\"\u003eComments\u003c/a\u003e",
+         "link": "https://humaninvariant.substack.com/p/notes-on-shadowing-a-hospitalist",
+         "links": [
+             "https://humaninvariant.substack.com/p/notes-on-shadowing-a-hospitalist"
+         ],
+         "published": "Sun, 30 Nov 2025 17:25:40 +0000",
+         "publishedParsed": "2025-11-30T17:25:40Z"
      },
      {
          "title": "All it takes is for one to work out",
@@ -278,15 +298,5 @@
          ],
          "published": "Thu, 27 Nov 2025 17:23:06 +0000",
          "publishedParsed": "2025-11-27T17:23:06Z"
-     },
-     {
-         "title": "I Made a Quieter Air Purifier",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46039594\"\u003eComments\u003c/a\u003e",
-         "link": "https://chillphysicsenjoyer.substack.com/p/i-made-a-quieter-air-purifier",
-         "links": [
-             "https://chillphysicsenjoyer.substack.com/p/i-made-a-quieter-air-purifier"
-         ],
-         "published": "Mon, 24 Nov 2025 21:31:04 +0000",
-         "publishedParsed": "2025-11-24T21:31:04Z"
      }
  ]
