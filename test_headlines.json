@@ -10,6 +10,26 @@
          "publishedParsed": "2025-11-30T13:07:15Z"
      },
      {
+         "title": "Migrating Dillo from GitHub",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46096800\"\u003eComments\u003c/a\u003e",
+         "link": "https://dillo-browser.org/news/migration-from-github/",
+         "links": [
+             "https://dillo-browser.org/news/migration-from-github/"
+         ],
+         "published": "Sun, 30 Nov 2025 14:11:40 +0000",
+         "publishedParsed": "2025-11-30T14:11:40Z"
+     },
+     {
+         "title": "Windows drive letters are not limited to A-Z",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46096556\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/",
+         "links": [
+             "https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/"
+         ],
+         "published": "Sun, 30 Nov 2025 13:40:17 +0000",
+         "publishedParsed": "2025-11-30T13:40:17Z"
+     },
+     {
          "title": "CachyOS: Fast and Customizable Linux Distribution",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46095585\"\u003eComments\u003c/a\u003e",
          "link": "https://cachyos.org/",
@@ -38,6 +58,16 @@
          ],
          "published": "Wed, 26 Nov 2025 01:27:16 +0000",
          "publishedParsed": "2025-11-26T01:27:16Z"
+     },
+     {
+         "title": "Paul Hegarty's updated CS193p SwiftUI course released by Stanford",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46051422\"\u003eComments\u003c/a\u003e",
+         "link": "https://cs193p.stanford.edu/",
+         "links": [
+             "https://cs193p.stanford.edu/"
+         ],
+         "published": "Tue, 25 Nov 2025 22:11:50 +0000",
+         "publishedParsed": "2025-11-25T22:11:50Z"
      },
      {
          "title": "Zigbook Is Plagiarizing the Zigtools Playground",
@@ -70,44 +100,14 @@
          "publishedParsed": "2025-11-29T20:22:44Z"
      },
      {
-         "title": "Meshtastic",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46092558\"\u003eComments\u003c/a\u003e",
-         "link": "https://meshtastic.org/",
+         "title": "Show HN: I engineered a 2mm micro-bearing D20 ring that free-spin for 20 seconds",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46054142\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=46054142",
          "links": [
-             "https://meshtastic.org/"
+             "https://news.ycombinator.com/item?id=46054142"
          ],
-         "published": "Sun, 30 Nov 2025 01:15:59 +0000",
-         "publishedParsed": "2025-11-30T01:15:59Z"
-     },
-     {
-         "title": "Landlock-Ing Linux",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46090969\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.prizrak.me/post/landlock/",
-         "links": [
-             "https://blog.prizrak.me/post/landlock/"
-         ],
-         "published": "Sat, 29 Nov 2025 21:30:53 +0000",
-         "publishedParsed": "2025-11-29T21:30:53Z"
-     },
-     {
-         "title": "The space of minds",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46095250\"\u003eComments\u003c/a\u003e",
-         "link": "https://karpathy.bearblog.dev/the-space-of-minds/",
-         "links": [
-             "https://karpathy.bearblog.dev/the-space-of-minds/"
-         ],
-         "published": "Sun, 30 Nov 2025 09:44:15 +0000",
-         "publishedParsed": "2025-11-30T09:44:15Z"
-     },
-     {
-         "title": "The HTTP Query Method",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46056954\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html",
-         "links": [
-             "https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html"
-         ],
-         "published": "Wed, 26 Nov 2025 12:57:35 +0000",
-         "publishedParsed": "2025-11-26T12:57:35Z"
+         "published": "Wed, 26 Nov 2025 04:15:57 +0000",
+         "publishedParsed": "2025-11-26T04:15:57Z"
      },
      {
          "title": "What's Hiding Inside Haribo's Power Bank and Headphones?",
@@ -120,14 +120,94 @@
          "publishedParsed": "2025-11-27T17:23:06Z"
      },
      {
-         "title": "Learning Feynman's Trick for Integrals",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46090269\"\u003eComments\u003c/a\u003e",
-         "link": "https://zackyzz.github.io/feynman.html",
+         "title": "The space of minds",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46095250\"\u003eComments\u003c/a\u003e",
+         "link": "https://karpathy.bearblog.dev/the-space-of-minds/",
          "links": [
-             "https://zackyzz.github.io/feynman.html"
+             "https://karpathy.bearblog.dev/the-space-of-minds/"
          ],
-         "published": "Sat, 29 Nov 2025 19:55:17 +0000",
-         "publishedParsed": "2025-11-29T19:55:17Z"
+         "published": "Sun, 30 Nov 2025 09:44:15 +0000",
+         "publishedParsed": "2025-11-30T09:44:15Z"
+     },
+     {
+         "title": "Meshtastic",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46092558\"\u003eComments\u003c/a\u003e",
+         "link": "https://meshtastic.org/",
+         "links": [
+             "https://meshtastic.org/"
+         ],
+         "published": "Sun, 30 Nov 2025 01:15:59 +0000",
+         "publishedParsed": "2025-11-30T01:15:59Z"
+     },
+     {
+         "title": "Don't throw away your old PC–it makes a better NAS than anything you can buy",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46096781\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.howtogeek.com/turned-old-windows-pc-into-inexpensive-nas/",
+         "links": [
+             "https://www.howtogeek.com/turned-old-windows-pc-into-inexpensive-nas/"
+         ],
+         "published": "Sun, 30 Nov 2025 14:09:01 +0000",
+         "publishedParsed": "2025-11-30T14:09:01Z"
+     },
+     {
+         "title": "The Easiest Way to Build a Type Checker",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46070537\"\u003eComments\u003c/a\u003e",
+         "link": "https://jimmyhmiller.com/easiest-way-to-build-type-checker",
+         "links": [
+             "https://jimmyhmiller.com/easiest-way-to-build-type-checker"
+         ],
+         "published": "Thu, 27 Nov 2025 16:07:24 +0000",
+         "publishedParsed": "2025-11-27T16:07:24Z"
+     },
+     {
+         "title": "Landlock-Ing Linux",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46090969\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.prizrak.me/post/landlock/",
+         "links": [
+             "https://blog.prizrak.me/post/landlock/"
+         ],
+         "published": "Sat, 29 Nov 2025 21:30:53 +0000",
+         "publishedParsed": "2025-11-29T21:30:53Z"
+     },
+     {
+         "title": "Geothermal Breakthrough in South Texas Signals New Era for Ercot",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46096921\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.powermag.com/geothermal-breakthrough-in-south-texas-signals-new-era-for-ercot/",
+         "links": [
+             "https://www.powermag.com/geothermal-breakthrough-in-south-texas-signals-new-era-for-ercot/"
+         ],
+         "published": "Sun, 30 Nov 2025 14:29:26 +0000",
+         "publishedParsed": "2025-11-30T14:29:26Z"
+     },
+     {
+         "title": "Jiga (YC W21) Is Hiring Product Designer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46094478\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe",
+         "links": [
+             "https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe"
+         ],
+         "published": "Sun, 30 Nov 2025 07:00:40 +0000",
+         "publishedParsed": "2025-11-30T07:00:40Z"
+     },
+     {
+         "title": "The HTTP Query Method",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46056954\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html",
+         "links": [
+             "https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html"
+         ],
+         "published": "Wed, 26 Nov 2025 12:57:35 +0000",
+         "publishedParsed": "2025-11-26T12:57:35Z"
+     },
+     {
+         "title": "Discovering that my smartphone had infiltrated my life",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46096841\"\u003eComments\u003c/a\u003e",
+         "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/SmartphoneInfiltratedMyLife",
+         "links": [
+             "https://utcc.utoronto.ca/~cks/space/blog/tech/SmartphoneInfiltratedMyLife"
+         ],
+         "published": "Sun, 30 Nov 2025 14:17:41 +0000",
+         "publishedParsed": "2025-11-30T14:17:41Z"
      },
      {
          "title": "Datacenters in space aren't going to work",
@@ -140,14 +220,14 @@
          "publishedParsed": "2025-11-29T14:05:53Z"
      },
      {
-         "title": "Jiga (YC W21) Is Hiring Product Designer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46094478\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe",
+         "title": "Learning Feynman's Trick for Integrals",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46090269\"\u003eComments\u003c/a\u003e",
+         "link": "https://zackyzz.github.io/feynman.html",
          "links": [
-             "https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe"
+             "https://zackyzz.github.io/feynman.html"
          ],
-         "published": "Sun, 30 Nov 2025 07:00:40 +0000",
-         "publishedParsed": "2025-11-30T07:00:40Z"
+         "published": "Sat, 29 Nov 2025 19:55:17 +0000",
+         "publishedParsed": "2025-11-29T19:55:17Z"
      },
      {
          "title": "A new Little Prince museum has opened its doors in Switzerland",
@@ -170,16 +250,6 @@
          "publishedParsed": "2025-11-22T16:53:06Z"
      },
      {
-         "title": "Paul Hegarty's updated CS193p SwiftUI course released by Stanford",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46051422\"\u003eComments\u003c/a\u003e",
-         "link": "https://cs193p.stanford.edu/",
-         "links": [
-             "https://cs193p.stanford.edu/"
-         ],
-         "published": "Tue, 25 Nov 2025 22:11:50 +0000",
-         "publishedParsed": "2025-11-25T22:11:50Z"
-     },
-     {
          "title": "Blender facial animation tool. What else should it do?",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46071221\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/shun126/livelinkface_arkit_receiver/wiki",
@@ -198,95 +268,5 @@
          ],
          "published": "Sat, 29 Nov 2025 11:31:58 +0000",
          "publishedParsed": "2025-11-29T11:31:58Z"
-     },
-     {
-         "title": "Our Phosphorescent World",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46042947\"\u003eComments\u003c/a\u003e",
-         "link": "https://aeon.co/essays/the-cycling-of-phosphorus-is-the-basis-for-all-life-on-earth",
-         "links": [
-             "https://aeon.co/essays/the-cycling-of-phosphorus-is-the-basis-for-all-life-on-earth"
-         ],
-         "published": "Tue, 25 Nov 2025 06:36:01 +0000",
-         "publishedParsed": "2025-11-25T06:36:01Z"
-     },
-     {
-         "title": "Anthony Bourdain's Lost Li.st's",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46054879\"\u003eComments\u003c/a\u003e",
-         "link": "https://bourdain.greg.technology/",
-         "links": [
-             "https://bourdain.greg.technology/"
-         ],
-         "published": "Wed, 26 Nov 2025 07:03:27 +0000",
-         "publishedParsed": "2025-11-26T07:03:27Z"
-     },
-     {
-         "title": "Dynamic Skillset Reference Architecture",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46055942\"\u003eComments\u003c/a\u003e",
-         "link": "https://chatbotkit.com/examples/dynamic-skillset-reference-architecture",
-         "links": [
-             "https://chatbotkit.com/examples/dynamic-skillset-reference-architecture"
-         ],
-         "published": "Wed, 26 Nov 2025 10:08:19 +0000",
-         "publishedParsed": "2025-11-26T10:08:19Z"
-     },
-     {
-         "title": "Matrix Core Programming on AMD CDNA Architecture",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46047052\"\u003eComments\u003c/a\u003e",
-         "link": "https://rocm.blogs.amd.com/software-tools-optimization/matrix-cores-cdna/README.html",
-         "links": [
-             "https://rocm.blogs.amd.com/software-tools-optimization/matrix-cores-cdna/README.html"
-         ],
-         "published": "Tue, 25 Nov 2025 15:57:53 +0000",
-         "publishedParsed": "2025-11-25T15:57:53Z"
-     },
-     {
-         "title": "Be Like Clippy",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46090172\"\u003eComments\u003c/a\u003e",
-         "link": "https://be-clippy.com/",
-         "links": [
-             "https://be-clippy.com/"
-         ],
-         "published": "Sat, 29 Nov 2025 19:41:55 +0000",
-         "publishedParsed": "2025-11-29T19:41:55Z"
-     },
-     {
-         "title": "Testing shows automotive glassbreakers can't break modern automotive glass",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46088379\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.core77.com/posts/138925/Testing-Shows-Automotive-Glassbreakers-Cant-Break-Modern-Automotive-Glass",
-         "links": [
-             "https://www.core77.com/posts/138925/Testing-Shows-Automotive-Glassbreakers-Cant-Break-Modern-Automotive-Glass"
-         ],
-         "published": "Sat, 29 Nov 2025 15:43:58 +0000",
-         "publishedParsed": "2025-11-29T15:43:58Z"
-     },
-     {
-         "title": "Show HN: Network Monitor – a GUI to spot anomalous connections on your Linux",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46032074\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=46032074",
-         "links": [
-             "https://news.ycombinator.com/item?id=46032074"
-         ],
-         "published": "Mon, 24 Nov 2025 09:30:40 +0000",
-         "publishedParsed": "2025-11-24T09:30:40Z"
-     },
-     {
-         "title": "Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini's Nano Banana",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46090619\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/gavrielc/Nano-PDF",
-         "links": [
-             "https://github.com/gavrielc/Nano-PDF"
-         ],
-         "published": "Sat, 29 Nov 2025 20:44:24 +0000",
-         "publishedParsed": "2025-11-29T20:44:24Z"
-     },
-     {
-         "title": "Rare X-ray images of a 4.5-ton satellite that returned intact from space",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46060432\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.empa.ch/web/s604/eureca-satellit-mit-roentgenmethoden-untersucht",
-         "links": [
-             "https://www.empa.ch/web/s604/eureca-satellit-mit-roentgenmethoden-untersucht"
-         ],
-         "published": "Wed, 26 Nov 2025 18:02:45 +0000",
-         "publishedParsed": "2025-11-26T18:02:45Z"
      }
  ]
