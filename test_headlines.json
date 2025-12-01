@@ -1,6 +1,16 @@
 [
      {
-         "title": "Writing a Good Claude.md",
+         "title": "A Love Letter to FreeBSD",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46100892\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/",
+         "links": [
+             "https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/"
+         ],
+         "published": "Sun, 30 Nov 2025 22:05:07 +0000",
+         "publishedParsed": "2025-11-30T22:05:07Z"
+     },
+     {
+         "title": "Writing a good Claude.md",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098838\"\u003eComments\u003c/a\u003e",
          "link": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
          "links": [
@@ -30,6 +40,16 @@
          "publishedParsed": "2025-11-30T13:40:17Z"
      },
      {
+         "title": "Algorithms for Optimization [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46101492\"\u003eComments\u003c/a\u003e",
+         "link": "https://algorithmsbook.com/optimization/files/optimization.pdf",
+         "links": [
+             "https://algorithmsbook.com/optimization/files/optimization.pdf"
+         ],
+         "published": "Sun, 30 Nov 2025 23:21:32 +0000",
+         "publishedParsed": "2025-11-30T23:21:32Z"
+     },
+     {
          "title": "Migrating Dillo from GitHub",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46096800\"\u003eComments\u003c/a\u003e",
          "link": "https://dillo-browser.org/news/migration-from-github/",
@@ -38,16 +58,6 @@
          ],
          "published": "Sun, 30 Nov 2025 14:11:40 +0000",
          "publishedParsed": "2025-11-30T14:11:40Z"
-     },
-     {
-         "title": "ETH-Zurich: Digital Design and Computer Architecture; 227-0003-10L, Spring, 2025",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098747\"\u003eComments\u003c/a\u003e",
-         "link": "https://safari.ethz.ch/ddca/spring2025/doku.php?id=start",
-         "links": [
-             "https://safari.ethz.ch/ddca/spring2025/doku.php?id=start"
-         ],
-         "published": "Sun, 30 Nov 2025 17:45:51 +0000",
-         "publishedParsed": "2025-11-30T17:45:51Z"
      },
      {
          "title": "LLVM-MOS – Clang LLVM fork targeting the 6502",
@@ -60,14 +70,14 @@
          "publishedParsed": "2025-11-30T17:02:48Z"
      },
      {
-         "title": "Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% (2022)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46099108\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2211.12588",
+         "title": "Bricklink suspends Marketplace operations in 35 countries (developing story)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46101263\"\u003eComments\u003c/a\u003e",
+         "link": "https://jaysbrickblog.com/news/bricklink-suspends-marketplace-operations-in-35-countries/",
          "links": [
-             "https://arxiv.org/abs/2211.12588"
+             "https://jaysbrickblog.com/news/bricklink-suspends-marketplace-operations-in-35-countries/"
          ],
-         "published": "Sun, 30 Nov 2025 18:34:52 +0000",
-         "publishedParsed": "2025-11-30T18:34:52Z"
+         "published": "Sun, 30 Nov 2025 22:53:08 +0000",
+         "publishedParsed": "2025-11-30T22:53:08Z"
      },
      {
          "title": "ESA Sentinel-1D delivers first high-resolution images",
@@ -80,14 +90,24 @@
          "publishedParsed": "2025-11-30T17:37:09Z"
      },
      {
-         "title": "\"Boobs check\" – Technique to verify if sites behind CDN are hosted in Iran",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46100323\"\u003eComments\u003c/a\u003e",
-         "link": "https://twitter.com/hkashfi/status/1995109785679573167",
+         "title": "ETH-Zurich: Digital Design and Computer Architecture; 227-0003-10L, Spring, 2025",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098747\"\u003eComments\u003c/a\u003e",
+         "link": "https://safari.ethz.ch/ddca/spring2025/doku.php?id=start",
          "links": [
-             "https://twitter.com/hkashfi/status/1995109785679573167"
+             "https://safari.ethz.ch/ddca/spring2025/doku.php?id=start"
          ],
-         "published": "Sun, 30 Nov 2025 20:54:43 +0000",
-         "publishedParsed": "2025-11-30T20:54:43Z"
+         "published": "Sun, 30 Nov 2025 17:45:51 +0000",
+         "publishedParsed": "2025-11-30T17:45:51Z"
+     },
+     {
+         "title": "Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% (2022)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46099108\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2211.12588",
+         "links": [
+             "https://arxiv.org/abs/2211.12588"
+         ],
+         "published": "Sun, 30 Nov 2025 18:34:52 +0000",
+         "publishedParsed": "2025-11-30T18:34:52Z"
      },
      {
          "title": "GitHub to Codeberg: my experience",
@@ -100,6 +120,26 @@
          "publishedParsed": "2025-11-30T16:12:13Z"
      },
      {
+         "title": "Stackoverflow Outage",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46100566\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.stackstatus.net/",
+         "links": [
+             "https://www.stackstatus.net/"
+         ],
+         "published": "Sun, 30 Nov 2025 21:24:22 +0000",
+         "publishedParsed": "2025-11-30T21:24:22Z"
+     },
+     {
+         "title": "\"Boobs check\" – Technique to verify if sites behind CDN are hosted in Iran",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46100323\"\u003eComments\u003c/a\u003e",
+         "link": "https://twitter.com/hkashfi/status/1995109785679573167",
+         "links": [
+             "https://twitter.com/hkashfi/status/1995109785679573167"
+         ],
+         "published": "Sun, 30 Nov 2025 20:54:43 +0000",
+         "publishedParsed": "2025-11-30T20:54:43Z"
+     },
+     {
          "title": "CachyOS: Fast and Customizable Linux Distribution",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46095585\"\u003eComments\u003c/a\u003e",
          "link": "https://cachyos.org/",
@@ -110,44 +150,34 @@
          "publishedParsed": "2025-11-30T10:47:27Z"
      },
      {
-         "title": "Don't push AI down our throats",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098992\"\u003eComments\u003c/a\u003e",
-         "link": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
+         "title": "The Thinking Game Film – Google DeepMind documentary",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46097773\"\u003eComments\u003c/a\u003e",
+         "link": "https://thinkinggamefilm.com",
          "links": [
-             "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats"
+             "https://thinkinggamefilm.com"
          ],
-         "published": "Sun, 30 Nov 2025 18:17:13 +0000",
-         "publishedParsed": "2025-11-30T18:17:13Z"
+         "published": "Sun, 30 Nov 2025 16:07:11 +0000",
+         "publishedParsed": "2025-11-30T16:07:11Z"
      },
      {
-         "title": "Stop Hacklore (modern urban legends about digital safety)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46058670\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.hacklore.org/letter",
+         "title": "The myth of reflected power (2017)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46053787\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/",
          "links": [
-             "https://www.hacklore.org/letter"
+             "https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/"
          ],
-         "published": "Wed, 26 Nov 2025 15:55:48 +0000",
-         "publishedParsed": "2025-11-26T15:55:48Z"
+         "published": "Wed, 26 Nov 2025 03:05:29 +0000",
+         "publishedParsed": "2025-11-26T03:05:29Z"
      },
      {
-         "title": "A Second Look at Geolocation and Starlink",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46047562\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.potaroo.net/ispcol/2025-11/starlinkgeo2.html",
+         "title": "People keep flocking to Linux, not just to escape Windows",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46099985\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/",
          "links": [
-             "https://www.potaroo.net/ispcol/2025-11/starlinkgeo2.html"
+             "https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/"
          ],
-         "published": "Tue, 25 Nov 2025 16:37:31 +0000",
-         "publishedParsed": "2025-11-25T16:37:31Z"
-     },
-     {
-         "title": "Show HN: Boing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46093473\"\u003eComments\u003c/a\u003e",
-         "link": "https://boing.greg.technology/",
-         "links": [
-             "https://boing.greg.technology/"
-         ],
-         "published": "Sun, 30 Nov 2025 03:46:35 +0000",
-         "publishedParsed": "2025-11-30T03:46:35Z"
+         "published": "Sun, 30 Nov 2025 20:14:12 +0000",
+         "publishedParsed": "2025-11-30T20:14:12Z"
      },
      {
          "title": "RetailReady (YC W24) Is Hiring Associate Product Manager",
@@ -160,24 +190,14 @@
          "publishedParsed": "2025-11-30T17:01:24Z"
      },
      {
-         "title": "NixOS 25.11 released",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46099022\"\u003eComments\u003c/a\u003e",
-         "link": "https://nixos.org/blog/announcements/2025/nixos-2511/",
+         "title": "Don't push AI down our throats",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098992\"\u003eComments\u003c/a\u003e",
+         "link": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
          "links": [
-             "https://nixos.org/blog/announcements/2025/nixos-2511/"
+             "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats"
          ],
-         "published": "Sun, 30 Nov 2025 18:21:45 +0000",
-         "publishedParsed": "2025-11-30T18:21:45Z"
-     },
-     {
-         "title": "There is No Quintic Formula [video]",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098979\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.youtube.com/watch?v=9HIy5dJE-zQ",
-         "links": [
-             "https://www.youtube.com/watch?v=9HIy5dJE-zQ"
-         ],
-         "published": "Sun, 30 Nov 2025 18:15:37 +0000",
-         "publishedParsed": "2025-11-30T18:15:37Z"
+         "published": "Sun, 30 Nov 2025 18:17:13 +0000",
+         "publishedParsed": "2025-11-30T18:17:13Z"
      },
      {
          "title": "Show HN: Real-time system that tracks how news spreads across 200k websites",
@@ -200,14 +220,34 @@
          "publishedParsed": "2025-11-26T15:46:51Z"
      },
      {
-         "title": "People keep flocking to Linux, not just to escape Windows",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46099985\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/",
+         "title": "NixOS 25.11 released",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46099022\"\u003eComments\u003c/a\u003e",
+         "link": "https://nixos.org/blog/announcements/2025/nixos-2511/",
          "links": [
-             "https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/"
+             "https://nixos.org/blog/announcements/2025/nixos-2511/"
          ],
-         "published": "Sun, 30 Nov 2025 20:14:12 +0000",
-         "publishedParsed": "2025-11-30T20:14:12Z"
+         "published": "Sun, 30 Nov 2025 18:21:45 +0000",
+         "publishedParsed": "2025-11-30T18:21:45Z"
+     },
+     {
+         "title": "You want microservices, but do you need them?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46099367\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.docker.com/blog/do-you-really-need-microservices/",
+         "links": [
+             "https://www.docker.com/blog/do-you-really-need-microservices/"
+         ],
+         "published": "Sun, 30 Nov 2025 19:02:04 +0000",
+         "publishedParsed": "2025-11-30T19:02:04Z"
+     },
+     {
+         "title": "A Second Look at Geolocation and Starlink",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46047562\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.potaroo.net/ispcol/2025-11/starlinkgeo2.html",
+         "links": [
+             "https://www.potaroo.net/ispcol/2025-11/starlinkgeo2.html"
+         ],
+         "published": "Tue, 25 Nov 2025 16:37:31 +0000",
+         "publishedParsed": "2025-11-25T16:37:31Z"
      },
      {
          "title": "Langjam Gamejam: Build a programming language then make a game with it",
@@ -220,34 +260,14 @@
          "publishedParsed": "2025-11-30T15:57:34Z"
      },
      {
-         "title": "Modern cars are spying on you. Here's what you can do about it",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46097624\"\u003eComments\u003c/a\u003e",
-         "link": "https://apnews.com/article/auto-car-privacy-3674ce59c9b30f2861d29178a31e6ab7",
+         "title": "There is No Quintic Formula [video]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098979\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.youtube.com/watch?v=9HIy5dJE-zQ",
          "links": [
-             "https://apnews.com/article/auto-car-privacy-3674ce59c9b30f2861d29178a31e6ab7"
+             "https://www.youtube.com/watch?v=9HIy5dJE-zQ"
          ],
-         "published": "Sun, 30 Nov 2025 15:52:41 +0000",
-         "publishedParsed": "2025-11-30T15:52:41Z"
-     },
-     {
-         "title": "Zigbook Is Plagiarizing the Zigtools Playground",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46093518\"\u003eComments\u003c/a\u003e",
-         "link": "https://zigtools.org/blog/zigbook-plagiarizing-playground/",
-         "links": [
-             "https://zigtools.org/blog/zigbook-plagiarizing-playground/"
-         ],
-         "published": "Sun, 30 Nov 2025 03:54:51 +0000",
-         "publishedParsed": "2025-11-30T03:54:51Z"
-     },
-     {
-         "title": "Finding the grain of sand in a heap of Salt",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46066746\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.cloudflare.com/finding-the-grain-of-sand-in-a-heap-of-salt/",
-         "links": [
-             "https://blog.cloudflare.com/finding-the-grain-of-sand-in-a-heap-of-salt/"
-         ],
-         "published": "Thu, 27 Nov 2025 07:40:43 +0000",
-         "publishedParsed": "2025-11-27T07:40:43Z"
+         "published": "Sun, 30 Nov 2025 18:15:37 +0000",
+         "publishedParsed": "2025-11-30T18:15:37Z"
      },
      {
          "title": "Paul Hegarty's updated CS193p SwiftUI course released by Stanford",
@@ -260,43 +280,13 @@
          "publishedParsed": "2025-11-25T22:11:50Z"
      },
      {
-         "title": "Notes on Shadowing a Hospitalist",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46098569\"\u003eComments\u003c/a\u003e",
-         "link": "https://humaninvariant.substack.com/p/notes-on-shadowing-a-hospitalist",
+         "title": "Finding the grain of sand in a heap of Salt",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46066746\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.cloudflare.com/finding-the-grain-of-sand-in-a-heap-of-salt/",
          "links": [
-             "https://humaninvariant.substack.com/p/notes-on-shadowing-a-hospitalist"
+             "https://blog.cloudflare.com/finding-the-grain-of-sand-in-a-heap-of-salt/"
          ],
-         "published": "Sun, 30 Nov 2025 17:25:40 +0000",
-         "publishedParsed": "2025-11-30T17:25:40Z"
-     },
-     {
-         "title": "All it takes is for one to work out",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46090433\"\u003eComments\u003c/a\u003e",
-         "link": "https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/",
-         "links": [
-             "https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/"
-         ],
-         "published": "Sat, 29 Nov 2025 20:22:44 +0000",
-         "publishedParsed": "2025-11-29T20:22:44Z"
-     },
-     {
-         "title": "The Easiest Way to Build a Type Checker",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46070537\"\u003eComments\u003c/a\u003e",
-         "link": "https://jimmyhmiller.com/easiest-way-to-build-type-checker",
-         "links": [
-             "https://jimmyhmiller.com/easiest-way-to-build-type-checker"
-         ],
-         "published": "Thu, 27 Nov 2025 16:07:24 +0000",
-         "publishedParsed": "2025-11-27T16:07:24Z"
-     },
-     {
-         "title": "What's Hiding Inside Haribo's Power Bank and Headphones?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46071317\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.lumafield.com/first-article/posts/whats-hiding-inside-haribos-power-bank-and-headphones",
-         "links": [
-             "https://www.lumafield.com/first-article/posts/whats-hiding-inside-haribos-power-bank-and-headphones"
-         ],
-         "published": "Thu, 27 Nov 2025 17:23:06 +0000",
-         "publishedParsed": "2025-11-27T17:23:06Z"
+         "published": "Thu, 27 Nov 2025 07:40:43 +0000",
+         "publishedParsed": "2025-11-27T07:40:43Z"
      }
  ]
