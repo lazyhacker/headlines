@@ -10,6 +10,16 @@
          "publishedParsed": "2025-12-03T18:40:06Z"
      },
      {
+         "title": "Everyone in Seattle hates AI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46138952\"\u003eComments\u003c/a\u003e",
+         "link": "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html",
+         "links": [
+             "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html"
+         ],
+         "published": "Wed, 03 Dec 2025 19:37:25 +0000",
+         "publishedParsed": "2025-12-03T19:37:25Z"
+     },
+     {
          "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46137514\"\u003eComments\u003c/a\u003e",
          "link": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
@@ -18,26 +28,6 @@
          ],
          "published": "Wed, 03 Dec 2025 17:44:33 +0000",
          "publishedParsed": "2025-12-03T17:44:33Z"
-     },
-     {
-         "title": "1D Conway's Life glider found, 3.7B cells long",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46137253\"\u003eComments\u003c/a\u003e",
-         "link": "https://conwaylife.com/forums/viewtopic.php?\u0026p=222136#p222136",
-         "links": [
-             "https://conwaylife.com/forums/viewtopic.php?\u0026p=222136#p222136"
-         ],
-         "published": "Wed, 03 Dec 2025 17:24:49 +0000",
-         "publishedParsed": "2025-12-03T17:24:49Z"
-     },
-     {
-         "title": "MinIO is now in maintenance-mode",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46136023\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2",
-         "links": [
-             "https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2"
-         ],
-         "published": "Wed, 03 Dec 2025 16:00:19 +0000",
-         "publishedParsed": "2025-12-03T16:00:19Z"
      },
      {
          "title": "Valve reveals it’s the architect behind a push to bring Windows games to Arm",
@@ -50,14 +40,24 @@
          "publishedParsed": "2025-12-02T20:33:10Z"
      },
      {
-         "title": "Everyone in Seattle hates AI",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46138952\"\u003eComments\u003c/a\u003e",
-         "link": "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html",
+         "title": "1D Conway's Life glider found, 3.7B cells long",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46137253\"\u003eComments\u003c/a\u003e",
+         "link": "https://conwaylife.com/forums/viewtopic.php?\u0026p=222136#p222136",
          "links": [
-             "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html"
+             "https://conwaylife.com/forums/viewtopic.php?\u0026p=222136#p222136"
          ],
-         "published": "Wed, 03 Dec 2025 19:37:25 +0000",
-         "publishedParsed": "2025-12-03T19:37:25Z"
+         "published": "Wed, 03 Dec 2025 17:24:49 +0000",
+         "publishedParsed": "2025-12-03T17:24:49Z"
+     },
+     {
+         "title": "Micron Announces Exit from Crucial Consumer Business",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46137783\"\u003eComments\u003c/a\u003e",
+         "link": "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business",
+         "links": [
+             "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business"
+         ],
+         "published": "Wed, 03 Dec 2025 18:04:32 +0000",
+         "publishedParsed": "2025-12-03T18:04:32Z"
      },
      {
          "title": "RCE Vulnerability in React and Next.js",
@@ -70,16 +70,6 @@
          "publishedParsed": "2025-12-03T16:00:23Z"
      },
      {
-         "title": "Launch HN: Phind 3 (YC S22) – Every answer is a mini-app",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46137548\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=46137548",
-         "links": [
-             "https://news.ycombinator.com/item?id=46137548"
-         ],
-         "published": "Wed, 03 Dec 2025 17:47:15 +0000",
-         "publishedParsed": "2025-12-03T17:47:15Z"
-     },
-     {
          "title": "Lie groups are crucial to some of the most fundamental theories in physics",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46138632\"\u003eComments\u003c/a\u003e",
          "link": "https://www.quantamagazine.org/what-are-lie-groups-20251203/",
@@ -90,34 +80,34 @@
          "publishedParsed": "2025-12-03T19:12:40Z"
      },
      {
-         "title": "Prompt Injection via Poetry",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46137746\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
+         "title": "Agentic Development Environment by JetBrains",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46139905\"\u003eComments\u003c/a\u003e",
+         "link": "https://air.dev",
          "links": [
-             "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/"
+             "https://air.dev"
          ],
-         "published": "Wed, 03 Dec 2025 18:01:11 +0000",
-         "publishedParsed": "2025-12-03T18:01:11Z"
+         "published": "Wed, 03 Dec 2025 20:47:45 +0000",
+         "publishedParsed": "2025-12-03T20:47:45Z"
      },
      {
-         "title": "How to Synthesize a House Loop",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46072280\"\u003eComments\u003c/a\u003e",
-         "link": "https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop",
+         "title": "Launch HN: Phind 3 (YC S22) – Every answer is a mini-app",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46137548\"\u003eComments\u003c/a\u003e",
+         "link": "https://news.ycombinator.com/item?id=46137548",
          "links": [
-             "https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop"
+             "https://news.ycombinator.com/item?id=46137548"
          ],
-         "published": "Thu, 27 Nov 2025 19:04:56 +0000",
-         "publishedParsed": "2025-11-27T19:04:56Z"
+         "published": "Wed, 03 Dec 2025 17:47:15 +0000",
+         "publishedParsed": "2025-12-03T17:47:15Z"
      },
      {
-         "title": "Rocketable (YC W25) is hiring a founding engineer to automate software companies",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46136918\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/rocketable/jobs/CArgzmX-founding-engineer-automation-platform",
+         "title": "Chips for the Rest of Us",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46140038\"\u003eComments\u003c/a\u003e",
+         "link": "https://engineering.nyu.edu/about/unconventional-engineer/chips-for-us",
          "links": [
-             "https://www.ycombinator.com/companies/rocketable/jobs/CArgzmX-founding-engineer-automation-platform"
+             "https://engineering.nyu.edu/about/unconventional-engineer/chips-for-us"
          ],
-         "published": "Wed, 03 Dec 2025 17:01:18 +0000",
-         "publishedParsed": "2025-12-03T17:01:18Z"
+         "published": "Wed, 03 Dec 2025 20:57:02 +0000",
+         "publishedParsed": "2025-12-03T20:57:02Z"
      },
      {
          "title": "Why are my headphones buzzing whenever I run my game?",
@@ -130,14 +120,74 @@
          "publishedParsed": "2025-12-03T15:30:30Z"
      },
      {
-         "title": "Boston's subway system replacing 1890s-era wooden catenary system",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46109332\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.mbta.com/news/2025-11-18/mbta-announces-december-service-changes",
+         "title": "How to Synthesize a House Loop",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46072280\"\u003eComments\u003c/a\u003e",
+         "link": "https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop",
          "links": [
-             "https://www.mbta.com/news/2025-11-18/mbta-announces-december-service-changes"
+             "https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop"
          ],
-         "published": "Mon, 01 Dec 2025 16:28:14 +0000",
-         "publishedParsed": "2025-12-01T16:28:14Z"
+         "published": "Thu, 27 Nov 2025 19:04:56 +0000",
+         "publishedParsed": "2025-11-27T19:04:56Z"
+     },
+     {
+         "title": "MinIO is now in maintenance-mode",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46136023\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2",
+         "links": [
+             "https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2"
+         ],
+         "published": "Wed, 03 Dec 2025 16:00:19 +0000",
+         "publishedParsed": "2025-12-03T16:00:19Z"
+     },
+     {
+         "title": "Apple Desktop Bus Protocol (2021)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46096552\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.lopaciuk.eu/2021/03/26/apple-adb-protocol.html",
+         "links": [
+             "https://www.lopaciuk.eu/2021/03/26/apple-adb-protocol.html"
+         ],
+         "published": "Sun, 30 Nov 2025 13:39:52 +0000",
+         "publishedParsed": "2025-11-30T13:39:52Z"
+     },
+     {
+         "title": "Rocketable (YC W25) is hiring a founding engineer to automate software companies",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46136918\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/rocketable/jobs/CArgzmX-founding-engineer-automation-platform",
+         "links": [
+             "https://www.ycombinator.com/companies/rocketable/jobs/CArgzmX-founding-engineer-automation-platform"
+         ],
+         "published": "Wed, 03 Dec 2025 17:01:18 +0000",
+         "publishedParsed": "2025-12-03T17:01:18Z"
+     },
+     {
+         "title": "R packages for data science",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46056708\"\u003eComments\u003c/a\u003e",
+         "link": "https://tidyverse.org/",
+         "links": [
+             "https://tidyverse.org/"
+         ],
+         "published": "Wed, 26 Nov 2025 12:18:40 +0000",
+         "publishedParsed": "2025-11-26T12:18:40Z"
+     },
+     {
+         "title": "Prompt Injection via Poetry",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46137746\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
+         "links": [
+             "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/"
+         ],
+         "published": "Wed, 03 Dec 2025 18:01:11 +0000",
+         "publishedParsed": "2025-12-03T18:01:11Z"
+     },
+     {
+         "title": "Show HN: I built a dashboard to compare mortgage rates across 120 credit unions",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46139761\"\u003eComments\u003c/a\u003e",
+         "link": "https://finfam.app/blog/credit-union-mortgages",
+         "links": [
+             "https://finfam.app/blog/credit-union-mortgages"
+         ],
+         "published": "Wed, 03 Dec 2025 20:35:27 +0000",
+         "publishedParsed": "2025-12-03T20:35:27Z"
      },
      {
          "title": "You can't fool the optimizer",
@@ -150,41 +200,11 @@
          "publishedParsed": "2025-12-03T12:14:34Z"
      },
      {
-         "title": "Show HN: Fresh – A new terminal editor built in Rust",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46135067\"\u003eComments\u003c/a\u003e",
-         "link": "https://sinelaw.github.io/fresh/",
-         "links": [
-             "https://sinelaw.github.io/fresh/"
-         ],
-         "published": "Wed, 03 Dec 2025 14:45:26 +0000",
-         "publishedParsed": "2025-12-03T14:45:26Z"
-     },
-     {
-         "title": "GSWT: Gaussian Splatting Wang Tiles",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46134991\"\u003eComments\u003c/a\u003e",
-         "link": "https://yunfan.zone/gswt_webpage/",
-         "links": [
-             "https://yunfan.zone/gswt_webpage/"
-         ],
-         "published": "Wed, 03 Dec 2025 14:40:25 +0000",
-         "publishedParsed": "2025-12-03T14:40:25Z"
-     },
-     {
-         "title": "Tidyverse: R Packages for Data Science",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46056708\"\u003eComments\u003c/a\u003e",
-         "link": "https://tidyverse.org/",
-         "links": [
-             "https://tidyverse.org/"
-         ],
-         "published": "Wed, 26 Nov 2025 12:18:40 +0000",
-         "publishedParsed": "2025-11-26T12:18:40Z"
-     },
-     {
-         "title": "Anthropic reportedly preparing for $300B IPO",
+         "title": "Anthropic taps IPO lawyers as it races OpenAI to go public",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46132531\"\u003eComments\u003c/a\u003e",
-         "link": "https://vechron.com/2025/12/anthropic-hires-wilson-sonsini-ipo-2026-openai-race/",
+         "link": "https://www.ft.com/content/3254fa30-5bdb-4c30-8560-7cd7ebbefc5f",
          "links": [
-             "https://vechron.com/2025/12/anthropic-hires-wilson-sonsini-ipo-2026-openai-race/"
+             "https://www.ft.com/content/3254fa30-5bdb-4c30-8560-7cd7ebbefc5f"
          ],
          "published": "Wed, 03 Dec 2025 09:53:27 +0000",
          "publishedParsed": "2025-12-03T09:53:27Z"
@@ -200,6 +220,36 @@
          "publishedParsed": "2025-12-03T11:14:56Z"
      },
      {
+         "title": "Cross-Compiling Common Lisp to WASM",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46077047\"\u003eComments\u003c/a\u003e",
+         "link": "https://turtleware.eu/posts/Common-Lisp-and-WebAssembly.html",
+         "links": [
+             "https://turtleware.eu/posts/Common-Lisp-and-WebAssembly.html"
+         ],
+         "published": "Fri, 28 Nov 2025 09:23:38 +0000",
+         "publishedParsed": "2025-11-28T09:23:38Z"
+     },
+     {
+         "title": "GSWT: Gaussian Splatting Wang Tiles",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46134991\"\u003eComments\u003c/a\u003e",
+         "link": "https://yunfan.zone/gswt_webpage/",
+         "links": [
+             "https://yunfan.zone/gswt_webpage/"
+         ],
+         "published": "Wed, 03 Dec 2025 14:40:25 +0000",
+         "publishedParsed": "2025-12-03T14:40:25Z"
+     },
+     {
+         "title": "Formally verifying Advent of Code using Dijkstra's program construction",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46138226\"\u003eComments\u003c/a\u003e",
+         "link": "https://haripm.com/blog/aoc-day-3-without-thinking/",
+         "links": [
+             "https://haripm.com/blog/aoc-day-3-without-thinking/"
+         ],
+         "published": "Wed, 03 Dec 2025 18:39:04 +0000",
+         "publishedParsed": "2025-12-03T18:39:04Z"
+     },
+     {
          "title": "A Look at Rust from 2012",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46050855\"\u003eComments\u003c/a\u003e",
          "link": "https://purplesyringa.moe/blog/a-look-at-rust-from-2012/",
@@ -208,16 +258,6 @@
          ],
          "published": "Tue, 25 Nov 2025 21:12:36 +0000",
          "publishedParsed": "2025-11-25T21:12:36Z"
-     },
-     {
-         "title": "Shrinking While Linking",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46095372\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.tweag.io/blog/2025-11-27-shrinking-static-libs/",
-         "links": [
-             "https://www.tweag.io/blog/2025-11-27-shrinking-static-libs/"
-         ],
-         "published": "Sun, 30 Nov 2025 10:05:13 +0000",
-         "publishedParsed": "2025-11-30T10:05:13Z"
      },
      {
          "title": "Helldivers 2 devs slash install size from 154GB to 23GB",
@@ -230,6 +270,16 @@
          "publishedParsed": "2025-12-03T13:20:58Z"
      },
      {
+         "title": "Checked-size array parameters in C",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46139782\"\u003eComments\u003c/a\u003e",
+         "link": "https://lwn.net/SubscriberLink/1046840/3eb9029084cc9e1e/",
+         "links": [
+             "https://lwn.net/SubscriberLink/1046840/3eb9029084cc9e1e/"
+         ],
+         "published": "Wed, 03 Dec 2025 20:37:08 +0000",
+         "publishedParsed": "2025-12-03T20:37:08Z"
+     },
+     {
          "title": "Zig quits GitHub, says Microsoft's AI obsession has ruined the service",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46131406\"\u003eComments\u003c/a\u003e",
          "link": "https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/",
@@ -238,55 +288,5 @@
          ],
          "published": "Wed, 03 Dec 2025 07:52:37 +0000",
          "publishedParsed": "2025-12-03T07:52:37Z"
-     },
-     {
-         "title": "The writing is on the wall for handwriting recognition",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46058154\"\u003eComments\u003c/a\u003e",
-         "link": "https://newsletter.dancohen.org/archive/the-writing-is-on-the-wall-for-handwriting-recognition/",
-         "links": [
-             "https://newsletter.dancohen.org/archive/the-writing-is-on-the-wall-for-handwriting-recognition/"
-         ],
-         "published": "Wed, 26 Nov 2025 15:14:42 +0000",
-         "publishedParsed": "2025-11-26T15:14:42Z"
-     },
-     {
-         "title": "Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46130335\"\u003eComments\u003c/a\u003e",
-         "link": "https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13",
-         "links": [
-             "https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13"
-         ],
-         "published": "Wed, 03 Dec 2025 04:32:16 +0000",
-         "publishedParsed": "2025-12-03T04:32:16Z"
-     },
-     {
-         "title": "Super fast aggregations in PostgreSQL 19",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46054467\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/",
-         "links": [
-             "https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/"
-         ],
-         "published": "Wed, 26 Nov 2025 05:32:28 +0000",
-         "publishedParsed": "2025-11-26T05:32:28Z"
-     },
-     {
-         "title": "Satellite captures the first detailed look at a giant tsunami",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46133555\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.earth.com/news/satellite-captures-the-first-detailed-look-at-a-giant-tsunami/",
-         "links": [
-             "https://www.earth.com/news/satellite-captures-the-first-detailed-look-at-a-giant-tsunami/"
-         ],
-         "published": "Wed, 03 Dec 2025 12:06:59 +0000",
-         "publishedParsed": "2025-12-03T12:06:59Z"
-     },
-     {
-         "title": "Mathematics is hard for mathematicians to understand too",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46073978\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.science.org/doi/10.1126/science.aec9014",
-         "links": [
-             "https://www.science.org/doi/10.1126/science.aec9014"
-         ],
-         "published": "Thu, 27 Nov 2025 23:05:54 +0000",
-         "publishedParsed": "2025-11-27T23:05:54Z"
      }
  ]
