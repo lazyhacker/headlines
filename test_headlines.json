@@ -10,6 +10,16 @@
          "publishedParsed": "2025-12-02T18:05:44Z"
      },
      {
+         "title": "EmacsConf 2025",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46127143\"\u003eComments\u003c/a\u003e",
+         "link": "https://emacsconf.org/2025/",
+         "links": [
+             "https://emacsconf.org/2025/"
+         ],
+         "published": "Tue, 02 Dec 2025 21:31:35 +0000",
+         "publishedParsed": "2025-12-02T21:31:35Z"
+     },
+     {
          "title": "Paged Out",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46126217\"\u003eComments\u003c/a\u003e",
          "link": "https://pagedout.institute",
@@ -20,11 +30,11 @@
          "publishedParsed": "2025-12-02T20:14:20Z"
      },
      {
-         "title": "Claude 4.5 Opus' Soul Document",
+         "title": "Claude 4.5 Opus’ Soul Document",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46125184\"\u003eComments\u003c/a\u003e",
-         "link": "https://simonwillison.net/2025/Dec/2/claude-soul-document/",
+         "link": "https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document",
          "links": [
-             "https://simonwillison.net/2025/Dec/2/claude-soul-document/"
+             "https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document"
          ],
          "published": "Tue, 02 Dec 2025 19:05:54 +0000",
          "publishedParsed": "2025-12-02T19:05:54Z"
@@ -50,16 +60,6 @@
          "publishedParsed": "2025-12-02T15:00:16Z"
      },
      {
-         "title": "I designed and printed a custom nose guard to help my dog with DLE",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46094460\"\u003eComments\u003c/a\u003e",
-         "link": "https://snoutcover.com/billie-story",
-         "links": [
-             "https://snoutcover.com/billie-story"
-         ],
-         "published": "Sun, 30 Nov 2025 06:56:33 +0000",
-         "publishedParsed": "2025-11-30T06:56:33Z"
-     },
-     {
          "title": "Free static site generator for small restaurants and cafes",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46126141\"\u003eComments\u003c/a\u003e",
          "link": "https://lite.localcafe.org/",
@@ -70,14 +70,24 @@
          "publishedParsed": "2025-12-02T20:08:55Z"
      },
      {
-         "title": "Delty (YC X25) Is Hiring",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46126822\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer",
+         "title": "I designed and printed a custom nose guard to help my dog with DLE",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46094460\"\u003eComments\u003c/a\u003e",
+         "link": "https://snoutcover.com/billie-story",
          "links": [
-             "https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer"
+             "https://snoutcover.com/billie-story"
          ],
-         "published": "Tue, 02 Dec 2025 21:00:59 +0000",
-         "publishedParsed": "2025-12-02T21:00:59Z"
+         "published": "Sun, 30 Nov 2025 06:56:33 +0000",
+         "publishedParsed": "2025-11-30T06:56:33Z"
+     },
+     {
+         "title": "Ecosia: The greenest AI is here",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46126964\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.ecosia.org/ecosia-ai/",
+         "links": [
+             "https://blog.ecosia.org/ecosia-ai/"
+         ],
+         "published": "Tue, 02 Dec 2025 21:14:38 +0000",
+         "publishedParsed": "2025-12-02T21:14:38Z"
      },
      {
          "title": "Learning music with Strudel",
@@ -90,6 +100,26 @@
          "publishedParsed": "2025-11-26T00:09:19Z"
      },
      {
+         "title": "Qwen3-VL can scan two-hour videos and pinpoint nearly every detail",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46094606\"\u003eComments\u003c/a\u003e",
+         "link": "https://the-decoder.com/qwen3-vl-can-scan-two-hour-videos-and-pinpoint-nearly-every-detail/",
+         "links": [
+             "https://the-decoder.com/qwen3-vl-can-scan-two-hour-videos-and-pinpoint-nearly-every-detail/"
+         ],
+         "published": "Sun, 30 Nov 2025 07:27:25 +0000",
+         "publishedParsed": "2025-11-30T07:27:25Z"
+     },
+     {
+         "title": "Delty (YC X25) Is Hiring",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46126822\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer",
+         "links": [
+             "https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer"
+         ],
+         "published": "Tue, 02 Dec 2025 21:00:59 +0000",
+         "publishedParsed": "2025-12-02T21:00:59Z"
+     },
+     {
          "title": "100k TPS over a billion rows: the unreasonable effectiveness of SQLite",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46124205\"\u003eComments\u003c/a\u003e",
          "link": "https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html",
@@ -100,24 +130,14 @@
          "publishedParsed": "2025-12-02T17:59:53Z"
      },
      {
-         "title": "All about automotive lidar",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46110395\"\u003eComments\u003c/a\u003e",
-         "link": "https://mainstreetautonomy.com/blog/2025-08-29-all-about-automotive-lidar/",
+         "title": "Exploring Large HTML Documents on the Web",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46127868\"\u003eComments\u003c/a\u003e",
+         "link": "https://calendar.perfplanet.com/2025/exploring-large-html-documents-on-the-web/",
          "links": [
-             "https://mainstreetautonomy.com/blog/2025-08-29-all-about-automotive-lidar/"
+             "https://calendar.perfplanet.com/2025/exploring-large-html-documents-on-the-web/"
          ],
-         "published": "Mon, 01 Dec 2025 17:43:10 +0000",
-         "publishedParsed": "2025-12-01T17:43:10Z"
-     },
-     {
-         "title": "Cursed circuits: charge pump voltage halver",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46124892\"\u003eComments\u003c/a\u003e",
-         "link": "https://lcamtuf.substack.com/p/cursed-circuits-charge-pump-voltage",
-         "links": [
-             "https://lcamtuf.substack.com/p/cursed-circuits-charge-pump-voltage"
-         ],
-         "published": "Tue, 02 Dec 2025 18:47:53 +0000",
-         "publishedParsed": "2025-12-02T18:47:53Z"
+         "published": "Tue, 02 Dec 2025 22:32:45 +0000",
+         "publishedParsed": "2025-12-02T22:32:45Z"
      },
      {
          "title": "Zig's new plan for asynchronous programs",
@@ -130,24 +150,54 @@
          "publishedParsed": "2025-12-02T14:31:16Z"
      },
      {
-         "title": "Qwen3-VL can scan two-hour videos and pinpoint nearly every detail",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46094606\"\u003eComments\u003c/a\u003e",
-         "link": "https://the-decoder.com/qwen3-vl-can-scan-two-hour-videos-and-pinpoint-nearly-every-detail/",
+         "title": "All about automotive lidar",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46110395\"\u003eComments\u003c/a\u003e",
+         "link": "https://mainstreetautonomy.com/blog/2025-08-29-all-about-automotive-lidar/",
          "links": [
-             "https://the-decoder.com/qwen3-vl-can-scan-two-hour-videos-and-pinpoint-nearly-every-detail/"
+             "https://mainstreetautonomy.com/blog/2025-08-29-all-about-automotive-lidar/"
          ],
-         "published": "Sun, 30 Nov 2025 07:27:25 +0000",
-         "publishedParsed": "2025-11-30T07:27:25Z"
+         "published": "Mon, 01 Dec 2025 17:43:10 +0000",
+         "publishedParsed": "2025-12-01T17:43:10Z"
      },
      {
-         "title": "Solving the Partridge Packing Problem Using MiniZinc",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46057932\"\u003eComments\u003c/a\u003e",
-         "link": "https://zayenz.se/blog/post/partridge-packing/",
+         "title": "School cell phone bans and student achievement",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46124179\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.nber.org/digest/202512/school-cell-phone-bans-and-student-achievement",
          "links": [
-             "https://zayenz.se/blog/post/partridge-packing/"
+             "https://www.nber.org/digest/202512/school-cell-phone-bans-and-student-achievement"
          ],
-         "published": "Wed, 26 Nov 2025 14:53:52 +0000",
-         "publishedParsed": "2025-11-26T14:53:52Z"
+         "published": "Tue, 02 Dec 2025 17:58:11 +0000",
+         "publishedParsed": "2025-12-02T17:58:11Z"
+     },
+     {
+         "title": "AI generated font using Nano Banana",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46127400\"\u003eComments\u003c/a\u003e",
+         "link": "https://constanttime.notion.site/Worlds-first-Ai-generated-font-using-nano-banana-2ba6f8e15af18012864bdb760fa9c9ba?pvs=74",
+         "links": [
+             "https://constanttime.notion.site/Worlds-first-Ai-generated-font-using-nano-banana-2ba6f8e15af18012864bdb760fa9c9ba?pvs=74"
+         ],
+         "published": "Tue, 02 Dec 2025 21:52:30 +0000",
+         "publishedParsed": "2025-12-02T21:52:30Z"
+     },
+     {
+         "title": "Practical Intro to Operational Transformation",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46056181\"\u003eComments\u003c/a\u003e",
+         "link": "https://archive.casouri.cc/note/2025/practical-intro-ot/",
+         "links": [
+             "https://archive.casouri.cc/note/2025/practical-intro-ot/"
+         ],
+         "published": "Wed, 26 Nov 2025 10:57:32 +0000",
+         "publishedParsed": "2025-11-26T10:57:32Z"
+     },
+     {
+         "title": "Cursed circuits: charge pump voltage halver",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46124892\"\u003eComments\u003c/a\u003e",
+         "link": "https://lcamtuf.substack.com/p/cursed-circuits-charge-pump-voltage",
+         "links": [
+             "https://lcamtuf.substack.com/p/cursed-circuits-charge-pump-voltage"
+         ],
+         "published": "Tue, 02 Dec 2025 18:47:53 +0000",
+         "publishedParsed": "2025-12-02T18:47:53Z"
      },
      {
          "title": "The Junior Hiring Crisis",
@@ -160,14 +210,14 @@
          "publishedParsed": "2025-12-02T17:48:33Z"
      },
      {
-         "title": "Ecosia: The greenest AI is here",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46126964\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.ecosia.org/ecosia-ai/",
+         "title": "Id Software was Lazy – DOOM could have had PC Speaker Music",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46128286\"\u003eComments\u003c/a\u003e",
+         "link": "https://lenowo.org/viewtopic.php?t=45",
          "links": [
-             "https://blog.ecosia.org/ecosia-ai/"
+             "https://lenowo.org/viewtopic.php?t=45"
          ],
-         "published": "Tue, 02 Dec 2025 21:14:38 +0000",
-         "publishedParsed": "2025-12-02T21:14:38Z"
+         "published": "Tue, 02 Dec 2025 23:19:07 +0000",
+         "publishedParsed": "2025-12-02T23:19:07Z"
      },
      {
          "title": "Mistral 3 family of models released",
@@ -190,14 +240,14 @@
          "publishedParsed": "2025-11-25T16:08:33Z"
      },
      {
-         "title": "Code Wiki: Accelerating your code understanding",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46054338\"\u003eComments\u003c/a\u003e",
-         "link": "https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/",
+         "title": "Advent of Compiler Optimisations 2025",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46119500\"\u003eComments\u003c/a\u003e",
+         "link": "https://xania.org/202511/advent-of-compiler-optimisation",
          "links": [
-             "https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/"
+             "https://xania.org/202511/advent-of-compiler-optimisation"
          ],
-         "published": "Wed, 26 Nov 2025 05:00:50 +0000",
-         "publishedParsed": "2025-11-26T05:00:50Z"
+         "published": "Tue, 02 Dec 2025 09:51:42 +0000",
+         "publishedParsed": "2025-12-02T09:51:42Z"
      },
      {
          "title": "Addressing the adding situation",
@@ -210,74 +260,24 @@
          "publishedParsed": "2025-12-02T11:30:29Z"
      },
      {
-         "title": "EmacsConf 2025",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46127143\"\u003eComments\u003c/a\u003e",
-         "link": "https://emacsconf.org/2025/",
+         "title": "Code Wiki: Accelerating your code understanding",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46054338\"\u003eComments\u003c/a\u003e",
+         "link": "https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/",
          "links": [
-             "https://emacsconf.org/2025/"
+             "https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/"
          ],
-         "published": "Tue, 02 Dec 2025 21:31:35 +0000",
-         "publishedParsed": "2025-12-02T21:31:35Z"
+         "published": "Wed, 26 Nov 2025 05:00:50 +0000",
+         "publishedParsed": "2025-11-26T05:00:50Z"
      },
      {
-         "title": "Advent of Compiler Optimisations 2025",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46119500\"\u003eComments\u003c/a\u003e",
-         "link": "https://xania.org/202511/advent-of-compiler-optimisation",
+         "title": "Solving the Partridge Packing Problem Using MiniZinc",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46057932\"\u003eComments\u003c/a\u003e",
+         "link": "https://zayenz.se/blog/post/partridge-packing/",
          "links": [
-             "https://xania.org/202511/advent-of-compiler-optimisation"
+             "https://zayenz.se/blog/post/partridge-packing/"
          ],
-         "published": "Tue, 02 Dec 2025 09:51:42 +0000",
-         "publishedParsed": "2025-12-02T09:51:42Z"
-     },
-     {
-         "title": "Nixtml: Static website and blog generator written in Nix",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46121799\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/arnarg/nixtml",
-         "links": [
-             "https://github.com/arnarg/nixtml"
-         ],
-         "published": "Tue, 02 Dec 2025 14:54:49 +0000",
-         "publishedParsed": "2025-12-02T14:54:49Z"
-     },
-     {
-         "title": "Python Data Science Handbook",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46120611\"\u003eComments\u003c/a\u003e",
-         "link": "https://jakevdp.github.io/PythonDataScienceHandbook/",
-         "links": [
-             "https://jakevdp.github.io/PythonDataScienceHandbook/"
-         ],
-         "published": "Tue, 02 Dec 2025 12:38:28 +0000",
-         "publishedParsed": "2025-12-02T12:38:28Z"
-     },
-     {
-         "title": "Apple Releases Open Weights Video Model",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46117802\"\u003eComments\u003c/a\u003e",
-         "link": "https://starflow-v.github.io",
-         "links": [
-             "https://starflow-v.github.io"
-         ],
-         "published": "Tue, 02 Dec 2025 05:10:01 +0000",
-         "publishedParsed": "2025-12-02T05:10:01Z"
-     },
-     {
-         "title": "What will enter the public domain in 2026?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46117112\"\u003eComments\u003c/a\u003e",
-         "link": "https://publicdomainreview.org/features/entering-the-public-domain/2026/",
-         "links": [
-             "https://publicdomainreview.org/features/entering-the-public-domain/2026/"
-         ],
-         "published": "Tue, 02 Dec 2025 03:23:10 +0000",
-         "publishedParsed": "2025-12-02T03:23:10Z"
-     },
-     {
-         "title": "Lowtype: Elegant Types in Ruby",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46080307\"\u003eComments\u003c/a\u003e",
-         "link": "https://codeberg.org/Iow/type",
-         "links": [
-             "https://codeberg.org/Iow/type"
-         ],
-         "published": "Fri, 28 Nov 2025 16:50:32 +0000",
-         "publishedParsed": "2025-11-28T16:50:32Z"
+         "published": "Wed, 26 Nov 2025 14:53:52 +0000",
+         "publishedParsed": "2025-11-26T14:53:52Z"
      },
      {
          "title": "A series of vignettes from my childhood and early career",
@@ -290,13 +290,13 @@
          "publishedParsed": "2025-12-02T12:28:34Z"
      },
      {
-         "title": "Show HN: Marmot – Single-binary data catalog (no Kafka, no Elasticsearch)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46121860\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/marmotdata/marmot",
+         "title": "Python Data Science Handbook",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46120611\"\u003eComments\u003c/a\u003e",
+         "link": "https://jakevdp.github.io/PythonDataScienceHandbook/",
          "links": [
-             "https://github.com/marmotdata/marmot"
+             "https://jakevdp.github.io/PythonDataScienceHandbook/"
          ],
-         "published": "Tue, 02 Dec 2025 14:59:40 +0000",
-         "publishedParsed": "2025-12-02T14:59:40Z"
+         "published": "Tue, 02 Dec 2025 12:38:28 +0000",
+         "publishedParsed": "2025-12-02T12:38:28Z"
      }
  ]
