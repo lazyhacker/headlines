@@ -1,16 +1,6 @@
 [
      {
-         "title": "PGlite – Embeddable Postgres",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46146133\"\u003eComments\u003c/a\u003e",
-         "link": "https://pglite.dev/",
-         "links": [
-             "https://pglite.dev/"
-         ],
-         "published": "Thu, 04 Dec 2025 10:52:42 +0000",
-         "publishedParsed": "2025-12-04T10:52:42Z"
-     },
-     {
-         "title": "Oracle, it’s time to free JavaScript",
+         "title": "It’s time to free JavaScript",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46145365\"\u003eComments\u003c/a\u003e",
          "link": "https://javascript.tm/letter",
          "links": [
@@ -20,14 +10,34 @@
          "publishedParsed": "2025-12-04T09:01:55Z"
      },
      {
-         "title": "Tunnl.gg",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46145902\"\u003eComments\u003c/a\u003e",
-         "link": "https://tunnl.gg",
+         "title": "I ignore the spotlight as a staff engineer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46146451\"\u003eComments\u003c/a\u003e",
+         "link": "https://lalitm.com/software-engineering-outside-the-spotlight/",
          "links": [
-             "https://tunnl.gg"
+             "https://lalitm.com/software-engineering-outside-the-spotlight/"
          ],
-         "published": "Thu, 04 Dec 2025 10:15:53 +0000",
-         "publishedParsed": "2025-12-04T10:15:53Z"
+         "published": "Thu, 04 Dec 2025 11:36:36 +0000",
+         "publishedParsed": "2025-12-04T11:36:36Z"
+     },
+     {
+         "title": "Functional Quadtrees",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46147341\"\u003eComments\u003c/a\u003e",
+         "link": "https://lbjgruppen.com/en/posts/functional-quadtree-clojure",
+         "links": [
+             "https://lbjgruppen.com/en/posts/functional-quadtree-clojure"
+         ],
+         "published": "Thu, 04 Dec 2025 13:18:38 +0000",
+         "publishedParsed": "2025-12-04T13:18:38Z"
+     },
+     {
+         "title": "PGlite – Embeddable Postgres",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46146133\"\u003eComments\u003c/a\u003e",
+         "link": "https://pglite.dev/",
+         "links": [
+             "https://pglite.dev/"
+         ],
+         "published": "Thu, 04 Dec 2025 10:52:42 +0000",
+         "publishedParsed": "2025-12-04T10:52:42Z"
      },
      {
          "title": "Ghostty is now non-profit",
@@ -40,44 +50,14 @@
          "publishedParsed": "2025-12-03T18:40:06Z"
      },
      {
-         "title": "Valve reveals it’s the architect behind a push to bring Windows games to Arm",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46126446\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais",
+         "title": "RAM is so expensive, Samsung won't even sell it to Samsung",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46147353\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.pcworld.com/article/2998935/ram-is-so-expensive-samsung-wont-even-sell-it-to-samsung.html",
          "links": [
-             "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais"
+             "https://www.pcworld.com/article/2998935/ram-is-so-expensive-samsung-wont-even-sell-it-to-samsung.html"
          ],
-         "published": "Tue, 02 Dec 2025 20:33:10 +0000",
-         "publishedParsed": "2025-12-02T20:33:10Z"
-     },
-     {
-         "title": "Uncloud - Tool for deploying containerised apps across servers without k8s",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46144275\"\u003eComments\u003c/a\u003e",
-         "link": "https://uncloud.run/",
-         "links": [
-             "https://uncloud.run/"
-         ],
-         "published": "Thu, 04 Dec 2025 06:02:23 +0000",
-         "publishedParsed": "2025-12-04T06:02:23Z"
-     },
-     {
-         "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46137514\"\u003eComments\u003c/a\u003e",
-         "link": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
-         "links": [
-             "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k"
-         ],
-         "published": "Wed, 03 Dec 2025 17:44:33 +0000",
-         "publishedParsed": "2025-12-03T17:44:33Z"
-     },
-     {
-         "title": "NextJS Security Vulnerability",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46146266\"\u003eComments\u003c/a\u003e",
-         "link": "https://nextjs.org/blog/CVE-2025-66478",
-         "links": [
-             "https://nextjs.org/blog/CVE-2025-66478"
-         ],
-         "published": "Thu, 04 Dec 2025 11:14:04 +0000",
-         "publishedParsed": "2025-12-04T11:14:04Z"
+         "published": "Thu, 04 Dec 2025 13:20:07 +0000",
+         "publishedParsed": "2025-12-04T13:20:07Z"
      },
      {
          "title": "Show HN: Walrus – a Kafka alternative written in Rust",
@@ -90,14 +70,14 @@
          "publishedParsed": "2025-12-01T15:28:13Z"
      },
      {
-         "title": "Average DRAM price in USD over last 18 months",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46142100\"\u003eComments\u003c/a\u003e",
-         "link": "https://pcpartpicker.com/trends/price/memory/",
+         "title": "Show HN: MTXT – Music Text Format",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46095474\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/Daninet/mtxt",
          "links": [
-             "https://pcpartpicker.com/trends/price/memory/"
+             "https://github.com/Daninet/mtxt"
          ],
-         "published": "Thu, 04 Dec 2025 00:08:26 +0000",
-         "publishedParsed": "2025-12-04T00:08:26Z"
+         "published": "Sun, 30 Nov 2025 10:21:34 +0000",
+         "publishedParsed": "2025-11-30T10:21:34Z"
      },
      {
          "title": "Unreal Tournament 2004 is back",
@@ -110,6 +90,16 @@
          "publishedParsed": "2025-12-04T10:06:35Z"
      },
      {
+         "title": "Building optimistic UI in Rails (and learn custom elements)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46146204\"\u003eComments\u003c/a\u003e",
+         "link": "https://railsdesigner.com/custom-elements/",
+         "links": [
+             "https://railsdesigner.com/custom-elements/"
+         ],
+         "published": "Thu, 04 Dec 2025 11:03:16 +0000",
+         "publishedParsed": "2025-12-04T11:03:16Z"
+     },
+     {
          "title": "Micron Announces Exit from Crucial Consumer Business",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46137783\"\u003eComments\u003c/a\u003e",
          "link": "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business",
@@ -118,6 +108,16 @@
          ],
          "published": "Wed, 03 Dec 2025 18:04:32 +0000",
          "publishedParsed": "2025-12-03T18:04:32Z"
+     },
+     {
+         "title": "Average DRAM price in USD over last 18 months",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46142100\"\u003eComments\u003c/a\u003e",
+         "link": "https://pcpartpicker.com/trends/price/memory/",
+         "links": [
+             "https://pcpartpicker.com/trends/price/memory/"
+         ],
+         "published": "Thu, 04 Dec 2025 00:08:26 +0000",
+         "publishedParsed": "2025-12-04T00:08:26Z"
      },
      {
          "title": "Interop and MathML Core",
@@ -130,24 +130,24 @@
          "publishedParsed": "2025-11-30T17:02:32Z"
      },
      {
-         "title": "Building optimistic UI in Rails (and learn custom elements)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46146204\"\u003eComments\u003c/a\u003e",
-         "link": "https://railsdesigner.com/custom-elements/",
+         "title": "Uncloud - Tool for deploying containerised apps across servers without k8s",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46144275\"\u003eComments\u003c/a\u003e",
+         "link": "https://uncloud.run/",
          "links": [
-             "https://railsdesigner.com/custom-elements/"
+             "https://uncloud.run/"
          ],
-         "published": "Thu, 04 Dec 2025 11:03:16 +0000",
-         "publishedParsed": "2025-12-04T11:03:16Z"
+         "published": "Thu, 04 Dec 2025 06:02:23 +0000",
+         "publishedParsed": "2025-12-04T06:02:23Z"
      },
      {
-         "title": "Saturn (YC S24) Is Hiring Senior AI Engineer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46144613\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer",
+         "title": "30 years ago today \"Netscape and Sun announce JavaScript\"",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46146406\"\u003eComments\u003c/a\u003e",
+         "link": "https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html",
          "links": [
-             "https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer"
+             "https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html"
          ],
-         "published": "Thu, 04 Dec 2025 07:00:51 +0000",
-         "publishedParsed": "2025-12-04T07:00:51Z"
+         "published": "Thu, 04 Dec 2025 11:32:00 +0000",
+         "publishedParsed": "2025-12-04T11:32:00Z"
      },
      {
          "title": "1D Conway's Life glider found, 3.7B cells long",
@@ -160,14 +160,14 @@
          "publishedParsed": "2025-12-03T17:24:49Z"
      },
      {
-         "title": "RCE Vulnerability in React and Next.js",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46136026\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp",
+         "title": "Valve reveals it’s the architect behind a push to bring Windows games to Arm",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46126446\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais",
          "links": [
-             "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp"
+             "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais"
          ],
-         "published": "Wed, 03 Dec 2025 16:00:23 +0000",
-         "publishedParsed": "2025-12-03T16:00:23Z"
+         "published": "Tue, 02 Dec 2025 20:33:10 +0000",
+         "publishedParsed": "2025-12-02T20:33:10Z"
      },
      {
          "title": "Show HN: I built a dashboard to compare mortgage rates across 120 credit unions",
@@ -180,6 +180,16 @@
          "publishedParsed": "2025-12-03T20:35:27Z"
      },
      {
+         "title": "Saturn (YC S24) Is Hiring Senior AI Engineer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46144613\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer",
+         "links": [
+             "https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer"
+         ],
+         "published": "Thu, 04 Dec 2025 07:00:51 +0000",
+         "publishedParsed": "2025-12-04T07:00:51Z"
+     },
+     {
          "title": "All the Way Down",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46085280\"\u003eComments\u003c/a\u003e",
          "link": "https://www.futilitycloset.com/2025/11/17/all-the-way-down-2/",
@@ -190,14 +200,14 @@
          "publishedParsed": "2025-11-29T05:02:13Z"
      },
      {
-         "title": "Porn company fined £1M over inadequate age checks (UK)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46146103\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bbc.co.uk/news/articles/c93nll07z3go",
+         "title": "Shrinking Elephants: Managing large projects with Gradle",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46085070\"\u003eComments\u003c/a\u003e",
+         "link": "https://engineering.block.xyz/blog/shrinking-elephants",
          "links": [
-             "https://www.bbc.co.uk/news/articles/c93nll07z3go"
+             "https://engineering.block.xyz/blog/shrinking-elephants"
          ],
-         "published": "Thu, 04 Dec 2025 10:47:21 +0000",
-         "publishedParsed": "2025-12-04T10:47:21Z"
+         "published": "Sat, 29 Nov 2025 03:55:55 +0000",
+         "publishedParsed": "2025-11-29T03:55:55Z"
      },
      {
          "title": "Why WinQuake exists and how it works",
@@ -220,14 +230,24 @@
          "publishedParsed": "2025-12-03T23:58:04Z"
      },
      {
-         "title": "Acme, a brief history of one of the protocols which has changed the Internet",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46141745\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/",
+         "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46137514\"\u003eComments\u003c/a\u003e",
+         "link": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
          "links": [
-             "https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/"
+             "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k"
          ],
-         "published": "Wed, 03 Dec 2025 23:28:34 +0000",
-         "publishedParsed": "2025-12-03T23:28:34Z"
+         "published": "Wed, 03 Dec 2025 17:44:33 +0000",
+         "publishedParsed": "2025-12-03T17:44:33Z"
+     },
+     {
+         "title": "Programming peaked",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46145797\"\u003eComments\u003c/a\u003e",
+         "link": "https://functional.computer/blog/programming-peaked",
+         "links": [
+             "https://functional.computer/blog/programming-peaked"
+         ],
+         "published": "Thu, 04 Dec 2025 10:01:27 +0000",
+         "publishedParsed": "2025-12-04T10:01:27Z"
      },
      {
          "title": "8086 Microcode Browser",
@@ -240,14 +260,14 @@
          "publishedParsed": "2025-12-03T21:16:11Z"
      },
      {
-         "title": "The Mysterious Realm of JavaScriptCore (2021)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46145154\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore",
+         "title": "Acme, a brief history of one of the protocols which has changed the Internet",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46141745\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/",
          "links": [
-             "https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore"
+             "https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/"
          ],
-         "published": "Thu, 04 Dec 2025 08:33:33 +0000",
-         "publishedParsed": "2025-12-04T08:33:33Z"
+         "published": "Wed, 03 Dec 2025 23:28:34 +0000",
+         "publishedParsed": "2025-12-03T23:28:34Z"
      },
      {
          "title": "Show HN: A Minimal Monthly Task Planner (printable, offline, no signup)",
@@ -268,25 +288,5 @@
          ],
          "published": "Wed, 03 Dec 2025 17:47:15 +0000",
          "publishedParsed": "2025-12-03T17:47:15Z"
-     },
-     {
-         "title": "Ethiopian volcano erupts for first time in nearly 12k years of records",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46097563\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.smithsonianmag.com/smart-news/ethiopian-volcano-erupts-for-the-first-time-in-nearly-12000-years-of-scientific-records-180987764/",
-         "links": [
-             "https://www.smithsonianmag.com/smart-news/ethiopian-volcano-erupts-for-the-first-time-in-nearly-12000-years-of-scientific-records-180987764/"
-         ],
-         "published": "Sun, 30 Nov 2025 15:46:36 +0000",
-         "publishedParsed": "2025-11-30T15:46:36Z"
-     },
-     {
-         "title": "Lie groups are crucial to some of the most fundamental theories in physics",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46138632\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.quantamagazine.org/what-are-lie-groups-20251203/",
-         "links": [
-             "https://www.quantamagazine.org/what-are-lie-groups-20251203/"
-         ],
-         "published": "Wed, 03 Dec 2025 19:12:40 +0000",
-         "publishedParsed": "2025-12-03T19:12:40Z"
      }
  ]
