@@ -1,6 +1,6 @@
 [
      {
-         "title": "AV1 – Now Powering 30% of Netflix Streaming",
+         "title": "AV1: A Modern, Open Codec",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46155135\"\u003eComments\u003c/a\u003e",
          "link": "https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80",
          "links": [
@@ -10,7 +10,7 @@
          "publishedParsed": "2025-12-05T00:09:57Z"
      },
      {
-         "title": "BMW PHEV: When EU engineering becomes a synonym for \"unrepairable\" (EV Clinic)",
+         "title": "BMW PHEV: Safety fuse replacement is extremely expensive",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46155619\"\u003eComments\u003c/a\u003e",
          "link": "https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/",
          "links": [
@@ -18,36 +18,6 @@
          ],
          "published": "Fri, 05 Dec 2025 01:05:57 +0000",
          "publishedParsed": "2025-12-05T01:05:57Z"
-     },
-     {
-         "title": "State of AI: An Empirical 100T Token Study with OpenRouter",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46154022\"\u003eComments\u003c/a\u003e",
-         "link": "https://openrouter.ai/state-of-ai",
-         "links": [
-             "https://openrouter.ai/state-of-ai"
-         ],
-         "published": "Thu, 04 Dec 2025 22:26:43 +0000",
-         "publishedParsed": "2025-12-04T22:26:43Z"
-     },
-     {
-         "title": "CUDA-l2: Surpassing cuBLAS performance for matrix multiplication through RL",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46153058\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/deepreinforce-ai/CUDA-L2",
-         "links": [
-             "https://github.com/deepreinforce-ai/CUDA-L2"
-         ],
-         "published": "Thu, 04 Dec 2025 21:04:29 +0000",
-         "publishedParsed": "2025-12-04T21:04:29Z"
-     },
-     {
-         "title": "Multivox: Volumetric Display",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46149813\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/AncientJames/multivox",
-         "links": [
-             "https://github.com/AncientJames/multivox"
-         ],
-         "published": "Thu, 04 Dec 2025 16:58:35 +0000",
-         "publishedParsed": "2025-12-04T16:58:35Z"
      },
      {
          "title": "Trick users and bypass warnings – Modern SVG Clickjacking attacks",
@@ -60,14 +30,44 @@
          "publishedParsed": "2025-12-05T00:03:36Z"
      },
      {
-         "title": "It’s time to free JavaScript (2024)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46145365\"\u003eComments\u003c/a\u003e",
-         "link": "https://javascript.tm/letter",
+         "title": "NeurIPS 2025 Best Paper Awards",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46155701\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/",
          "links": [
-             "https://javascript.tm/letter"
+             "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/"
          ],
-         "published": "Thu, 04 Dec 2025 09:01:55 +0000",
-         "publishedParsed": "2025-12-04T09:01:55Z"
+         "published": "Fri, 05 Dec 2025 01:15:42 +0000",
+         "publishedParsed": "2025-12-05T01:15:42Z"
+     },
+     {
+         "title": "CUDA-l2: Surpassing cuBLAS performance for matrix multiplication through RL",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46153058\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/deepreinforce-ai/CUDA-L2",
+         "links": [
+             "https://github.com/deepreinforce-ai/CUDA-L2"
+         ],
+         "published": "Thu, 04 Dec 2025 21:04:29 +0000",
+         "publishedParsed": "2025-12-04T21:04:29Z"
+     },
+     {
+         "title": "State of AI: An Empirical 100T Token Study with OpenRouter",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46154022\"\u003eComments\u003c/a\u003e",
+         "link": "https://openrouter.ai/state-of-ai",
+         "links": [
+             "https://openrouter.ai/state-of-ai"
+         ],
+         "published": "Thu, 04 Dec 2025 22:26:43 +0000",
+         "publishedParsed": "2025-12-04T22:26:43Z"
+     },
+     {
+         "title": "Multivox: Volumetric Display",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46149813\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/AncientJames/multivox",
+         "links": [
+             "https://github.com/AncientJames/multivox"
+         ],
+         "published": "Thu, 04 Dec 2025 16:58:35 +0000",
+         "publishedParsed": "2025-12-04T16:58:35Z"
      },
      {
          "title": "Transparent leadership beats servant leadership",
@@ -78,26 +78,6 @@
          ],
          "published": "Thu, 04 Dec 2025 13:40:00 +0000",
          "publishedParsed": "2025-12-04T13:40:00Z"
-     },
-     {
-         "title": "Thoughts on Go vs. Rust vs. Zig",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46153466\"\u003eComments\u003c/a\u003e",
-         "link": "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/",
-         "links": [
-             "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/"
-         ],
-         "published": "Thu, 04 Dec 2025 21:40:24 +0000",
-         "publishedParsed": "2025-12-04T21:40:24Z"
-     },
-     {
-         "title": "We gave 5 LLMs $100K to trade stocks for 8 months",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46154491\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.aitradearena.com/research/we-ran-llms-for-8-months",
-         "links": [
-             "https://www.aitradearena.com/research/we-ran-llms-for-8-months"
-         ],
-         "published": "Thu, 04 Dec 2025 23:08:25 +0000",
-         "publishedParsed": "2025-12-04T23:08:25Z"
      },
      {
          "title": "StardustOS: Library operating system for building light-weight Unikernels",
@@ -120,6 +100,46 @@
          "publishedParsed": "2025-12-04T18:04:07Z"
      },
      {
+         "title": "Help, My Java Object Vanished (and the GC Is Not at Fault)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46087509\"\u003eComments\u003c/a\u003e",
+         "link": "https://arraying.de/posts/markword/",
+         "links": [
+             "https://arraying.de/posts/markword/"
+         ],
+         "published": "Sat, 29 Nov 2025 13:47:30 +0000",
+         "publishedParsed": "2025-11-29T13:47:30Z"
+     },
+     {
+         "title": "Thoughts on Go vs. Rust vs. Zig",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46153466\"\u003eComments\u003c/a\u003e",
+         "link": "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/",
+         "links": [
+             "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/"
+         ],
+         "published": "Thu, 04 Dec 2025 21:40:24 +0000",
+         "publishedParsed": "2025-12-04T21:40:24Z"
+     },
+     {
+         "title": "CSS now has an if() conditional function",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46092198\"\u003eComments\u003c/a\u003e",
+         "link": "https://caniuse.com/?search=if",
+         "links": [
+             "https://caniuse.com/?search=if"
+         ],
+         "published": "Sun, 30 Nov 2025 00:21:19 +0000",
+         "publishedParsed": "2025-11-30T00:21:19Z"
+     },
+     {
+         "title": "Nice Functions [pdf]",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46079255\"\u003eComments\u003c/a\u003e",
+         "link": "https://math.mit.edu/~gs/dela/nice_functions.pdf",
+         "links": [
+             "https://math.mit.edu/~gs/dela/nice_functions.pdf"
+         ],
+         "published": "Fri, 28 Nov 2025 15:04:55 +0000",
+         "publishedParsed": "2025-11-28T15:04:55Z"
+     },
+     {
          "title": "Django 6",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46153116\"\u003eComments\u003c/a\u003e",
          "link": "https://docs.djangoproject.com/en/6.0/releases/6.0/",
@@ -130,24 +150,24 @@
          "publishedParsed": "2025-12-04T21:09:56Z"
      },
      {
-         "title": "NeurIPS best paper awards 2025",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46155701\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/",
+         "title": "We gave 5 LLMs $100K to trade stocks for 8 months",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46154491\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.aitradearena.com/research/we-ran-llms-for-8-months",
          "links": [
-             "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/"
+             "https://www.aitradearena.com/research/we-ran-llms-for-8-months"
          ],
-         "published": "Fri, 05 Dec 2025 01:15:42 +0000",
-         "publishedParsed": "2025-12-05T01:15:42Z"
+         "published": "Thu, 04 Dec 2025 23:08:25 +0000",
+         "publishedParsed": "2025-12-04T23:08:25Z"
      },
      {
-         "title": "Help, My Java Object Vanished (and the GC Is Not at Fault)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46087509\"\u003eComments\u003c/a\u003e",
-         "link": "https://arraying.de/posts/markword/",
+         "title": "What is better: a lookup table or an enum type?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46154892\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.cybertec-postgresql.com/en/lookup-table-or-enum-type/",
          "links": [
-             "https://arraying.de/posts/markword/"
+             "https://www.cybertec-postgresql.com/en/lookup-table-or-enum-type/"
          ],
-         "published": "Sat, 29 Nov 2025 13:47:30 +0000",
-         "publishedParsed": "2025-11-29T13:47:30Z"
+         "published": "Thu, 04 Dec 2025 23:43:47 +0000",
+         "publishedParsed": "2025-12-04T23:43:47Z"
      },
      {
          "title": "Show HN: Onlyrecipe 2.0 – I added all features HN requested – 4 years later",
@@ -170,14 +190,14 @@
          "publishedParsed": "2025-12-04T17:43:07Z"
      },
      {
-         "title": "A Cozy Mk IV light aircraft crashed after 3D-printed part was weakened by heat",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46152941\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.bbc.com/news/articles/c1w932vqye0o",
+         "title": "I ignore the spotlight as a staff engineer",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46146451\"\u003eComments\u003c/a\u003e",
+         "link": "https://lalitm.com/software-engineering-outside-the-spotlight/",
          "links": [
-             "https://www.bbc.com/news/articles/c1w932vqye0o"
+             "https://lalitm.com/software-engineering-outside-the-spotlight/"
          ],
-         "published": "Thu, 04 Dec 2025 20:56:08 +0000",
-         "publishedParsed": "2025-12-04T20:56:08Z"
+         "published": "Thu, 04 Dec 2025 11:36:36 +0000",
+         "publishedParsed": "2025-12-04T11:36:36Z"
      },
      {
          "title": "Fighting the age-gated internet",
@@ -190,16 +210,6 @@
          "publishedParsed": "2025-12-04T13:34:27Z"
      },
      {
-         "title": "CSS now has an if() conditional function",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46092198\"\u003eComments\u003c/a\u003e",
-         "link": "https://caniuse.com/?search=if",
-         "links": [
-             "https://caniuse.com/?search=if"
-         ],
-         "published": "Sun, 30 Nov 2025 00:21:19 +0000",
-         "publishedParsed": "2025-11-30T00:21:19Z"
-     },
-     {
          "title": "Converge (YC S23) is hiring a martech expert in NYC",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46149849\"\u003eComments\u003c/a\u003e",
          "link": "https://www.runconverge.com/careers/technical-customer-success-manager",
@@ -208,16 +218,6 @@
          ],
          "published": "Thu, 04 Dec 2025 17:00:37 +0000",
          "publishedParsed": "2025-12-04T17:00:37Z"
-     },
-     {
-         "title": "I ignore the spotlight as a staff engineer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46146451\"\u003eComments\u003c/a\u003e",
-         "link": "https://lalitm.com/software-engineering-outside-the-spotlight/",
-         "links": [
-             "https://lalitm.com/software-engineering-outside-the-spotlight/"
-         ],
-         "published": "Thu, 04 Dec 2025 11:36:36 +0000",
-         "publishedParsed": "2025-12-04T11:36:36Z"
      },
      {
          "title": "Autism should not be treated as a single condition",
@@ -230,44 +230,24 @@
          "publishedParsed": "2025-12-04T16:25:31Z"
      },
      {
-         "title": "What is better: a lookup table or an enum type?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46154892\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.cybertec-postgresql.com/en/lookup-table-or-enum-type/",
+         "title": "A Cozy Mk IV light aircraft crashed after 3D-printed part was weakened by heat",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46152941\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.bbc.com/news/articles/c1w932vqye0o",
          "links": [
-             "https://www.cybertec-postgresql.com/en/lookup-table-or-enum-type/"
+             "https://www.bbc.com/news/articles/c1w932vqye0o"
          ],
-         "published": "Thu, 04 Dec 2025 23:43:47 +0000",
-         "publishedParsed": "2025-12-04T23:43:47Z"
+         "published": "Thu, 04 Dec 2025 20:56:08 +0000",
+         "publishedParsed": "2025-12-04T20:56:08Z"
      },
      {
-         "title": "Launch HN: Browser Buddy (YC W24) – A recommendation system for Internet writing",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46149727\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.browserbuddy.com/",
+         "title": "It’s time to free JavaScript (2024)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46145365\"\u003eComments\u003c/a\u003e",
+         "link": "https://javascript.tm/letter",
          "links": [
-             "https://www.browserbuddy.com/"
+             "https://javascript.tm/letter"
          ],
-         "published": "Thu, 04 Dec 2025 16:52:56 +0000",
-         "publishedParsed": "2025-12-04T16:52:56Z"
-     },
-     {
-         "title": "Functional Quadtrees",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46147341\"\u003eComments\u003c/a\u003e",
-         "link": "https://lbjgruppen.com/en/posts/functional-quadtree-clojure",
-         "links": [
-             "https://lbjgruppen.com/en/posts/functional-quadtree-clojure"
-         ],
-         "published": "Thu, 04 Dec 2025 13:18:38 +0000",
-         "publishedParsed": "2025-12-04T13:18:38Z"
-     },
-     {
-         "title": "Feynman vs. Computer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46149066\"\u003eComments\u003c/a\u003e",
-         "link": "https://entropicthoughts.com/feynman-vs-computer",
-         "links": [
-             "https://entropicthoughts.com/feynman-vs-computer"
-         ],
-         "published": "Thu, 04 Dec 2025 16:03:02 +0000",
-         "publishedParsed": "2025-12-04T16:03:02Z"
+         "published": "Thu, 04 Dec 2025 09:01:55 +0000",
+         "publishedParsed": "2025-12-04T09:01:55Z"
      },
      {
          "title": "PGlite – Embeddable Postgres",
@@ -278,5 +258,15 @@
          ],
          "published": "Thu, 04 Dec 2025 10:52:42 +0000",
          "publishedParsed": "2025-12-04T10:52:42Z"
+     },
+     {
+         "title": "Uncloud - Tool for deploying containerised apps across servers without k8s",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46144275\"\u003eComments\u003c/a\u003e",
+         "link": "https://uncloud.run/",
+         "links": [
+             "https://uncloud.run/"
+         ],
+         "published": "Thu, 04 Dec 2025 06:02:23 +0000",
+         "publishedParsed": "2025-12-04T06:02:23Z"
      }
  ]
