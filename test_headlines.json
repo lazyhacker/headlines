@@ -10,14 +10,14 @@
          "publishedParsed": "2025-12-10T16:02:57Z"
      },
      {
-         "title": "Patterns.dev",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46226483\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.patterns.dev/",
+         "title": "The Cost of a Closure in C",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46228597\"\u003eComments\u003c/a\u003e",
+         "link": "https://thephd.dev/the-cost-of-a-closure-in-c-c2y",
          "links": [
-             "https://www.patterns.dev/"
+             "https://thephd.dev/the-cost-of-a-closure-in-c-c2y"
          ],
-         "published": "Thu, 11 Dec 2025 01:18:55 +0000",
-         "publishedParsed": "2025-12-11T01:18:55Z"
+         "published": "Thu, 11 Dec 2025 07:21:33 +0000",
+         "publishedParsed": "2025-12-11T07:21:33Z"
      },
      {
          "title": "Getting a Gemini API key is an exercise in frustration",
@@ -28,6 +28,16 @@
          ],
          "published": "Wed, 10 Dec 2025 20:29:12 +0000",
          "publishedParsed": "2025-12-10T20:29:12Z"
+     },
+     {
+         "title": "Patterns.dev",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46226483\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.patterns.dev/",
+         "links": [
+             "https://www.patterns.dev/"
+         ],
+         "published": "Thu, 11 Dec 2025 01:18:55 +0000",
+         "publishedParsed": "2025-12-11T01:18:55Z"
      },
      {
          "title": "Booting Linux in QEMU and Writing PID 1 in Go to Illustrate Kernel as Program",
@@ -50,6 +60,26 @@
          "publishedParsed": "2025-12-10T17:23:53Z"
      },
      {
+         "title": "How the Brain Parses Language",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46191597\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.quantamagazine.org/the-polyglot-neuroscientist-resolving-how-the-brain-parses-language-20251205/",
+         "links": [
+             "https://www.quantamagazine.org/the-polyglot-neuroscientist-resolving-how-the-brain-parses-language-20251205/"
+         ],
+         "published": "Mon, 08 Dec 2025 12:46:50 +0000",
+         "publishedParsed": "2025-12-08T12:46:50Z"
+     },
+     {
+         "title": "Python Workers redux: fast cold starts, packages, and a uv-first workflow",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46192748\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.cloudflare.com/python-workers-advancements/",
+         "links": [
+             "https://blog.cloudflare.com/python-workers-advancements/"
+         ],
+         "published": "Mon, 08 Dec 2025 14:42:01 +0000",
+         "publishedParsed": "2025-12-08T14:42:01Z"
+     },
+     {
          "title": "Incomplete list of mistakes in the design of CSS",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46227619\"\u003eComments\u003c/a\u003e",
          "link": "https://wiki.csswg.org/ideas/mistakes",
@@ -70,6 +100,16 @@
          "publishedParsed": "2025-12-09T10:20:02Z"
      },
      {
+         "title": "VCMI: An open-source engine for Heroes III",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46174534\"\u003eComments\u003c/a\u003e",
+         "link": "https://vcmi.eu/",
+         "links": [
+             "https://vcmi.eu/"
+         ],
+         "published": "Sat, 06 Dec 2025 16:27:35 +0000",
+         "publishedParsed": "2025-12-06T16:27:35Z"
+     },
+     {
          "title": "Super Mario 64 for the PS1",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46221925\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/malucard/sm64-psx",
@@ -78,6 +118,16 @@
          ],
          "published": "Wed, 10 Dec 2025 18:58:55 +0000",
          "publishedParsed": "2025-12-10T18:58:55Z"
+     },
+     {
+         "title": "Go's escape analysis and why my function return worked",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46159676\"\u003eComments\u003c/a\u003e",
+         "link": "https://bonniesimon.in/blog/go-escape-analysis",
+         "links": [
+             "https://bonniesimon.in/blog/go-escape-analysis"
+         ],
+         "published": "Fri, 05 Dec 2025 11:03:37 +0000",
+         "publishedParsed": "2025-12-05T11:03:37Z"
      },
      {
          "title": "Show HN: Wirebrowser – A JavaScript debugger with breakpoint-driven heap search",
@@ -100,36 +150,6 @@
          "publishedParsed": "2025-12-02T10:30:46Z"
      },
      {
-         "title": "VCMI: An open-source engine for Heroes III",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46174534\"\u003eComments\u003c/a\u003e",
-         "link": "https://vcmi.eu/",
-         "links": [
-             "https://vcmi.eu/"
-         ],
-         "published": "Sat, 06 Dec 2025 16:27:35 +0000",
-         "publishedParsed": "2025-12-06T16:27:35Z"
-     },
-     {
-         "title": "Python Workers redux: fast cold starts, packages, and a uv-first workflow",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46192748\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.cloudflare.com/python-workers-advancements/",
-         "links": [
-             "https://blog.cloudflare.com/python-workers-advancements/"
-         ],
-         "published": "Mon, 08 Dec 2025 14:42:01 +0000",
-         "publishedParsed": "2025-12-08T14:42:01Z"
-     },
-     {
-         "title": "3D-printed carotid artery-on-chips for personalized thrombosis investigation",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46140554\"\u003eComments\u003c/a\u003e",
-         "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202508890",
-         "links": [
-             "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202508890"
-         ],
-         "published": "Wed, 03 Dec 2025 21:40:55 +0000",
-         "publishedParsed": "2025-12-03T21:40:55Z"
-     },
-     {
          "title": "Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46219538\"\u003eComments\u003c/a\u003e",
          "link": "https://qwen.ai/blog?id=qwen3-omni-flash-20251201",
@@ -150,6 +170,16 @@
          "publishedParsed": "2025-12-06T04:46:14Z"
      },
      {
+         "title": "3D-printed carotid artery-on-chips for personalized thrombosis investigation",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46140554\"\u003eComments\u003c/a\u003e",
+         "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202508890",
+         "links": [
+             "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202508890"
+         ],
+         "published": "Wed, 03 Dec 2025 21:40:55 +0000",
+         "publishedParsed": "2025-12-03T21:40:55Z"
+     },
+     {
          "title": "Common Lisp, ASDF, and Quicklisp: packaging explained",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46216446\"\u003eComments\u003c/a\u003e",
          "link": "https://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html",
@@ -158,46 +188,6 @@
          ],
          "published": "Wed, 10 Dec 2025 11:10:58 +0000",
          "publishedParsed": "2025-12-10T11:10:58Z"
-     },
-     {
-         "title": "When would you ever want bubblesort? (2023)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46224311\"\u003eComments\u003c/a\u003e",
-         "link": "https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/",
-         "links": [
-             "https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/"
-         ],
-         "published": "Wed, 10 Dec 2025 21:45:11 +0000",
-         "publishedParsed": "2025-12-10T21:45:11Z"
-     },
-     {
-         "title": "Is it a bubble?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46220640\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.oaktreecapital.com/insights/memo/is-it-a-bubble",
-         "links": [
-             "https://www.oaktreecapital.com/insights/memo/is-it-a-bubble"
-         ],
-         "published": "Wed, 10 Dec 2025 17:30:43 +0000",
-         "publishedParsed": "2025-12-10T17:30:43Z"
-     },
-     {
-         "title": "Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46220488\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html",
-         "links": [
-             "https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html"
-         ],
-         "published": "Wed, 10 Dec 2025 17:20:06 +0000",
-         "publishedParsed": "2025-12-10T17:20:06Z"
-     },
-     {
-         "title": "Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46221594\"\u003eComments\u003c/a\u003e",
-         "link": "https://arxiv.org/abs/2512.08309",
-         "links": [
-             "https://arxiv.org/abs/2512.08309"
-         ],
-         "published": "Wed, 10 Dec 2025 18:37:27 +0000",
-         "publishedParsed": "2025-12-10T18:37:27Z"
      },
      {
          "title": "Scientists create ultra fast memory using light",
@@ -220,24 +210,24 @@
          "publishedParsed": "2025-12-02T16:55:36Z"
      },
      {
-         "title": "The future of Terraform CDK",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46222165\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/hashicorp/terraform-cdk",
+         "title": "Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46221594\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2512.08309",
          "links": [
-             "https://github.com/hashicorp/terraform-cdk"
+             "https://arxiv.org/abs/2512.08309"
          ],
-         "published": "Wed, 10 Dec 2025 19:14:03 +0000",
-         "publishedParsed": "2025-12-10T19:14:03Z"
+         "published": "Wed, 10 Dec 2025 18:37:27 +0000",
+         "publishedParsed": "2025-12-10T18:37:27Z"
      },
      {
-         "title": "Launch HN: InspectMind (YC W24) – AI agent for reviewing construction drawings",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46219386\"\u003eComments\u003c/a\u003e",
-         "link": "https://news.ycombinator.com/item?id=46219386",
+         "title": "Is it a bubble?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46220640\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.oaktreecapital.com/insights/memo/is-it-a-bubble",
          "links": [
-             "https://news.ycombinator.com/item?id=46219386"
+             "https://www.oaktreecapital.com/insights/memo/is-it-a-bubble"
          ],
-         "published": "Wed, 10 Dec 2025 16:05:03 +0000",
-         "publishedParsed": "2025-12-10T16:05:03Z"
+         "published": "Wed, 10 Dec 2025 17:30:43 +0000",
+         "publishedParsed": "2025-12-10T17:30:43Z"
      },
      {
          "title": "Golang's big miss on memory arenas",
@@ -250,23 +240,13 @@
          "publishedParsed": "2025-12-04T01:10:28Z"
      },
      {
-         "title": "RoboCrop: Teaching robots how to pick tomatoes",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46218782\"\u003eComments\u003c/a\u003e",
-         "link": "https://phys.org/news/2025-12-robocrop-robots-tomatoes.html",
+         "title": "The future of Terraform CDK",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46222165\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/hashicorp/terraform-cdk",
          "links": [
-             "https://phys.org/news/2025-12-robocrop-robots-tomatoes.html"
+             "https://github.com/hashicorp/terraform-cdk"
          ],
-         "published": "Wed, 10 Dec 2025 15:29:14 +0000",
-         "publishedParsed": "2025-12-10T15:29:14Z"
-     },
-     {
-         "title": "Yadea is coming to the Western market",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46170847\"\u003eComments\u003c/a\u003e",
-         "link": "https://newatlas.com/motorcycles/yadea-comes-to-europe/",
-         "links": [
-             "https://newatlas.com/motorcycles/yadea-comes-to-europe/"
-         ],
-         "published": "Sat, 06 Dec 2025 04:57:15 +0000",
-         "publishedParsed": "2025-12-06T04:57:15Z"
+         "published": "Wed, 10 Dec 2025 19:14:03 +0000",
+         "publishedParsed": "2025-12-10T19:14:03Z"
      }
  ]
