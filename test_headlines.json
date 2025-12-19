@@ -20,16 +20,6 @@
          "publishedParsed": "2025-12-19T10:03:38Z"
      },
      {
-         "title": "Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46324665\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/moasq/production-saas-starter",
-         "links": [
-             "https://github.com/moasq/production-saas-starter"
-         ],
-         "published": "Fri, 19 Dec 2025 11:34:11 +0000",
-         "publishedParsed": "2025-12-19T11:34:11Z"
-     },
-     {
          "title": "Beginning January 2026, all ACM publications will be made open access",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46313991\"\u003eComments\u003c/a\u003e",
          "link": "https://dl.acm.org/openaccess",
@@ -38,6 +28,16 @@
          ],
          "published": "Thu, 18 Dec 2025 15:39:09 +0000",
          "publishedParsed": "2025-12-18T15:39:09Z"
+     },
+     {
+         "title": "Show HN: Stepped Actions – distributed workflow orchestration for Rails",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46261884\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/envirobly/stepped",
+         "links": [
+             "https://github.com/envirobly/stepped"
+         ],
+         "published": "Sun, 14 Dec 2025 09:29:47 +0000",
+         "publishedParsed": "2025-12-14T09:29:47Z"
      },
      {
          "title": "Getting bitten by Intel's poor naming schemes",
@@ -80,16 +80,6 @@
          "publishedParsed": "2025-12-18T22:39:47Z"
      },
      {
-         "title": "Noclip.website – A digital museum of video game levels",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46321619\"\u003eComments\u003c/a\u003e",
-         "link": "https://noclip.website/",
-         "links": [
-             "https://noclip.website/"
-         ],
-         "published": "Fri, 19 Dec 2025 02:20:08 +0000",
-         "publishedParsed": "2025-12-19T02:20:08Z"
-     },
-     {
          "title": "From Zero to QED: An informal introduction to formality with Lean 4",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46259343\"\u003eComments\u003c/a\u003e",
          "link": "https://sdiehl.github.io/zero-to-qed/01_introduction.html",
@@ -100,14 +90,34 @@
          "publishedParsed": "2025-12-13T23:42:03Z"
      },
      {
-         "title": "Making Google Sans Flex",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46322732\"\u003eComments\u003c/a\u003e",
-         "link": "https://design.google/library/google-sans-flex-font",
+         "title": "Show HN: I implemented generics in my programming language",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46269673\"\u003eComments\u003c/a\u003e",
+         "link": "https://axe-docs.pages.dev/features/generics/",
          "links": [
-             "https://design.google/library/google-sans-flex-font"
+             "https://axe-docs.pages.dev/features/generics/"
          ],
-         "published": "Fri, 19 Dec 2025 06:10:02 +0000",
-         "publishedParsed": "2025-12-19T06:10:02Z"
+         "published": "Mon, 15 Dec 2025 02:20:46 +0000",
+         "publishedParsed": "2025-12-15T02:20:46Z"
+     },
+     {
+         "title": "Noclip.website – A digital museum of video game levels",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46321619\"\u003eComments\u003c/a\u003e",
+         "link": "https://noclip.website/",
+         "links": [
+             "https://noclip.website/"
+         ],
+         "published": "Fri, 19 Dec 2025 02:20:08 +0000",
+         "publishedParsed": "2025-12-19T02:20:08Z"
+     },
+     {
+         "title": "How to think about durable execution",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46245238\"\u003eComments\u003c/a\u003e",
+         "link": "https://hatchet.run/blog/durable-execution",
+         "links": [
+             "https://hatchet.run/blog/durable-execution"
+         ],
+         "published": "Fri, 12 Dec 2025 15:49:16 +0000",
+         "publishedParsed": "2025-12-12T15:49:16Z"
      },
      {
          "title": "GPT-5.2-Codex",
@@ -120,16 +130,6 @@
          "publishedParsed": "2025-12-18T18:14:48Z"
      },
      {
-         "title": "Prompt caching for cheaper LLM tokens",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46290620\"\u003eComments\u003c/a\u003e",
-         "link": "https://ngrok.com/blog/prompt-caching/",
-         "links": [
-             "https://ngrok.com/blog/prompt-caching/"
-         ],
-         "published": "Tue, 16 Dec 2025 16:32:27 +0000",
-         "publishedParsed": "2025-12-16T16:32:27Z"
-     },
-     {
          "title": "Pingfs: Stores your data in ICMP ping packets",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46260901\"\u003eComments\u003c/a\u003e",
          "link": "https://github.com/yarrick/pingfs",
@@ -140,14 +140,24 @@
          "publishedParsed": "2025-12-14T05:09:26Z"
      },
      {
-         "title": "How China built its ‘Manhattan Project’ to rival the West in AI chips",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46316907\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/",
+         "title": "Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46324665\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/moasq/production-saas-starter",
          "links": [
-             "https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/"
+             "https://github.com/moasq/production-saas-starter"
          ],
-         "published": "Thu, 18 Dec 2025 18:55:34 +0000",
-         "publishedParsed": "2025-12-18T18:55:34Z"
+         "published": "Fri, 19 Dec 2025 11:34:11 +0000",
+         "publishedParsed": "2025-12-19T11:34:11Z"
+     },
+     {
+         "title": "Prompt caching for cheaper LLM tokens",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46290620\"\u003eComments\u003c/a\u003e",
+         "link": "https://ngrok.com/blog/prompt-caching/",
+         "links": [
+             "https://ngrok.com/blog/prompt-caching/"
+         ],
+         "published": "Tue, 16 Dec 2025 16:32:27 +0000",
+         "publishedParsed": "2025-12-16T16:32:27Z"
      },
      {
          "title": "Reconstructed Commander Keen 1-3 Source Code",
@@ -158,6 +168,36 @@
          ],
          "published": "Fri, 19 Dec 2025 03:26:52 +0000",
          "publishedParsed": "2025-12-19T03:26:52Z"
+     },
+     {
+         "title": "Designing a Passive Lidar Detector Device",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46281355\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.atredis.com/blog/2025/11/20/designing-a-passive-lidar-detection-sensor",
+         "links": [
+             "https://www.atredis.com/blog/2025/11/20/designing-a-passive-lidar-detection-sensor"
+         ],
+         "published": "Mon, 15 Dec 2025 22:01:34 +0000",
+         "publishedParsed": "2025-12-15T22:01:34Z"
+     },
+     {
+         "title": "Making Google Sans Flex",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46322732\"\u003eComments\u003c/a\u003e",
+         "link": "https://design.google/library/google-sans-flex-font",
+         "links": [
+             "https://design.google/library/google-sans-flex-font"
+         ],
+         "published": "Fri, 19 Dec 2025 06:10:02 +0000",
+         "publishedParsed": "2025-12-19T06:10:02Z"
+     },
+     {
+         "title": "Show HN: CommerceTXT – An open standard for AI shopping context (like llms.txt)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46289481\"\u003eComments\u003c/a\u003e",
+         "link": "https://commercetxt.org/",
+         "links": [
+             "https://commercetxt.org/"
+         ],
+         "published": "Tue, 16 Dec 2025 15:12:37 +0000",
+         "publishedParsed": "2025-12-16T15:12:37Z"
      },
      {
          "title": "Show HN: Picknplace.js, an alternative to drag-and-drop",
@@ -180,14 +220,14 @@
          "publishedParsed": "2025-12-18T23:40:46Z"
      },
      {
-         "title": "Designing a Passive Lidar Detector Device",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46281355\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.atredis.com/blog/2025/11/20/designing-a-passive-lidar-detection-sensor",
+         "title": "Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46294144\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/vivienhenz24/fuzzy-canary",
          "links": [
-             "https://www.atredis.com/blog/2025/11/20/designing-a-passive-lidar-detection-sensor"
+             "https://github.com/vivienhenz24/fuzzy-canary"
          ],
-         "published": "Mon, 15 Dec 2025 22:01:34 +0000",
-         "publishedParsed": "2025-12-15T22:01:34Z"
+         "published": "Tue, 16 Dec 2025 20:42:38 +0000",
+         "publishedParsed": "2025-12-16T20:42:38Z"
      },
      {
          "title": "Skills for organizations, partners, the ecosystem",
@@ -198,16 +238,6 @@
          ],
          "published": "Thu, 18 Dec 2025 17:04:32 +0000",
          "publishedParsed": "2025-12-18T17:04:32Z"
-     },
-     {
-         "title": "Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46294144\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/vivienhenz24/fuzzy-canary",
-         "links": [
-             "https://github.com/vivienhenz24/fuzzy-canary"
-         ],
-         "published": "Tue, 16 Dec 2025 20:42:38 +0000",
-         "publishedParsed": "2025-12-16T20:42:38Z"
      },
      {
          "title": "SMB Direct – SMB3 over RDMA",
@@ -240,16 +270,6 @@
          "publishedParsed": "2025-12-18T18:18:30Z"
      },
      {
-         "title": "I've been writing ring buffers wrong all these years (2016)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46292937\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.snellman.net/blog/archive/2016-12-13-ring-buffers/",
-         "links": [
-             "https://www.snellman.net/blog/archive/2016-12-13-ring-buffers/"
-         ],
-         "published": "Tue, 16 Dec 2025 19:11:47 +0000",
-         "publishedParsed": "2025-12-16T19:11:47Z"
-     },
-     {
          "title": "Two kinds of vibe coding",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46318852\"\u003eComments\u003c/a\u003e",
          "link": "https://davidbau.com/archives/2025/12/16/vibe_coding.html",
@@ -258,25 +278,5 @@
          ],
          "published": "Thu, 18 Dec 2025 21:16:25 +0000",
          "publishedParsed": "2025-12-18T21:16:25Z"
-     },
-     {
-         "title": "T5Gemma 2: The next generation of encoder-decoder models",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46317657\"\u003eComments\u003c/a\u003e",
-         "link": "https://blog.google/technology/developers/t5gemma-2/",
-         "links": [
-             "https://blog.google/technology/developers/t5gemma-2/"
-         ],
-         "published": "Thu, 18 Dec 2025 19:48:15 +0000",
-         "publishedParsed": "2025-12-18T19:48:15Z"
-     },
-     {
-         "title": "Your job is to deliver code you have proven to work",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46313297\"\u003eComments\u003c/a\u003e",
-         "link": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
-         "links": [
-             "https://simonwillison.net/2025/Dec/18/code-proven-to-work/"
-         ],
-         "published": "Thu, 18 Dec 2025 14:52:11 +0000",
-         "publishedParsed": "2025-12-18T14:52:11Z"
      }
  ]
