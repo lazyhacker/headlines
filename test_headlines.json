@@ -1,26 +1,36 @@
 [
      {
-         "title": "FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46436889\"\u003eComments\u003c/a\u003e",
-         "link": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
+         "title": "The rise of industrial software",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46442597\"\u003eComments\u003c/a\u003e",
+         "link": "https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software",
          "links": [
-             "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/"
+             "https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software"
          ],
-         "published": "Tue, 30 Dec 2025 19:21:48 +0000",
-         "publishedParsed": "2025-12-30T19:21:48Z"
+         "published": "Wed, 31 Dec 2025 09:09:28 +0000",
+         "publishedParsed": "2025-12-31T09:09:28Z"
      },
      {
-         "title": "Project ideas to appreciate the art of programming",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46439027\"\u003eComments\u003c/a\u003e",
-         "link": "https://codecrafters.io/blog/programming-project-ideas",
+         "title": "Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46442245\"\u003eComments\u003c/a\u003e",
+         "link": "https://exopriors.com/scry",
          "links": [
-             "https://codecrafters.io/blog/programming-project-ideas"
+             "https://exopriors.com/scry"
          ],
-         "published": "Tue, 30 Dec 2025 22:47:36 +0000",
-         "publishedParsed": "2025-12-30T22:47:36Z"
+         "published": "Wed, 31 Dec 2025 07:47:44 +0000",
+         "publishedParsed": "2025-12-31T07:47:44Z"
      },
      {
-         "title": "A faster heart for F-Droid. Our new server is here",
+         "title": "Animated AI",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46390621\"\u003eComments\u003c/a\u003e",
+         "link": "https://animatedai.github.io/",
+         "links": [
+             "https://animatedai.github.io/"
+         ],
+         "published": "Fri, 26 Dec 2025 09:34:57 +0000",
+         "publishedParsed": "2025-12-26T09:34:57Z"
+     },
+     {
+         "title": "A faster heart for F-Droid",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46436409\"\u003eComments\u003c/a\u003e",
          "link": "https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html",
          "links": [
@@ -28,6 +38,26 @@
          ],
          "published": "Tue, 30 Dec 2025 18:36:37 +0000",
          "publishedParsed": "2025-12-30T18:36:37Z"
+     },
+     {
+         "title": "Tixl: Open-source realtime motion graphics",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46394651\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/tixl3d/tixl",
+         "links": [
+             "https://github.com/tixl3d/tixl"
+         ],
+         "published": "Fri, 26 Dec 2025 18:20:10 +0000",
+         "publishedParsed": "2025-12-26T18:20:10Z"
+     },
+     {
+         "title": "Readings in Database Systems (5th Edition)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46440510\"\u003eComments\u003c/a\u003e",
+         "link": "http://www.redbook.io/",
+         "links": [
+             "http://www.redbook.io/"
+         ],
+         "published": "Wed, 31 Dec 2025 02:01:53 +0000",
+         "publishedParsed": "2025-12-31T02:01:53Z"
      },
      {
          "title": "Show HN: 22 GB of Hacker News in SQLite",
@@ -40,64 +70,24 @@
          "publishedParsed": "2025-12-30T17:01:59Z"
      },
      {
-         "title": "A Vulnerability in Libsodium",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46435614\"\u003eComments\u003c/a\u003e",
-         "link": "https://00f.net/2025/12/30/libsodium-vulnerability/",
+         "title": "FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46436889\"\u003eComments\u003c/a\u003e",
+         "link": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
          "links": [
-             "https://00f.net/2025/12/30/libsodium-vulnerability/"
+             "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/"
          ],
-         "published": "Tue, 30 Dec 2025 17:24:57 +0000",
-         "publishedParsed": "2025-12-30T17:24:57Z"
+         "published": "Tue, 30 Dec 2025 19:21:48 +0000",
+         "publishedParsed": "2025-12-30T19:21:48Z"
      },
      {
-         "title": "Zpdf: PDF text extraction in Zig – 5x faster than MuPDF",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46437288\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/Lulzx/zpdf",
+         "title": "Odin: Moving Towards a New \"core:OS\"",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46389925\"\u003eComments\u003c/a\u003e",
+         "link": "https://odin-lang.org/news/moving-towards-a-new-core-os/",
          "links": [
-             "https://github.com/Lulzx/zpdf"
+             "https://odin-lang.org/news/moving-towards-a-new-core-os/"
          ],
-         "published": "Tue, 30 Dec 2025 19:57:10 +0000",
-         "publishedParsed": "2025-12-30T19:57:10Z"
-     },
-     {
-         "title": "Electrolysis can solve one of our biggest contamination problems",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46436127\"\u003eComments\u003c/a\u003e",
-         "link": "https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html",
-         "links": [
-             "https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html"
-         ],
-         "published": "Tue, 30 Dec 2025 18:08:32 +0000",
-         "publishedParsed": "2025-12-30T18:08:32Z"
-     },
-     {
-         "title": "Toro: Deploy Applications as Unikernels",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46435418\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/torokernel/torokernel",
-         "links": [
-             "https://github.com/torokernel/torokernel"
-         ],
-         "published": "Tue, 30 Dec 2025 17:09:57 +0000",
-         "publishedParsed": "2025-12-30T17:09:57Z"
-     },
-     {
-         "title": "Loss32: Let's Build a Win32/Linux",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46424173\"\u003eComments\u003c/a\u003e",
-         "link": "https://loss32.org/",
-         "links": [
-             "https://loss32.org/"
-         ],
-         "published": "Mon, 29 Dec 2025 19:09:08 +0000",
-         "publishedParsed": "2025-12-29T19:09:08Z"
-     },
-     {
-         "title": "Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46366010\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.gkbrk.com/hotel-music",
-         "links": [
-             "https://www.gkbrk.com/hotel-music"
-         ],
-         "published": "Tue, 23 Dec 2025 15:21:55 +0000",
-         "publishedParsed": "2025-12-23T15:21:55Z"
+         "published": "Fri, 26 Dec 2025 07:10:12 +0000",
+         "publishedParsed": "2025-12-26T07:10:12Z"
      },
      {
          "title": "Honey's Dieselgate: Detecting and tricking testers",
@@ -110,14 +100,54 @@
          "publishedParsed": "2025-12-30T21:59:35Z"
      },
      {
-         "title": "Everything as code: How we manage our company in one monorepo",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46437381\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.kasava.dev/blog/everything-as-code-monorepo",
+         "title": "A Vulnerability in Libsodium",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46435614\"\u003eComments\u003c/a\u003e",
+         "link": "https://00f.net/2025/12/30/libsodium-vulnerability/",
          "links": [
-             "https://www.kasava.dev/blog/everything-as-code-monorepo"
+             "https://00f.net/2025/12/30/libsodium-vulnerability/"
          ],
-         "published": "Tue, 30 Dec 2025 20:05:42 +0000",
-         "publishedParsed": "2025-12-30T20:05:42Z"
+         "published": "Tue, 30 Dec 2025 17:24:57 +0000",
+         "publishedParsed": "2025-12-30T17:24:57Z"
+     },
+     {
+         "title": "Loss32: Let's Build a Win32/Linux",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46424173\"\u003eComments\u003c/a\u003e",
+         "link": "https://loss32.org/",
+         "links": [
+             "https://loss32.org/"
+         ],
+         "published": "Mon, 29 Dec 2025 19:09:08 +0000",
+         "publishedParsed": "2025-12-29T19:09:08Z"
+     },
+     {
+         "title": "OpenAI's cash burn will be one of the big bubble questions of 2026",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46438390\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026",
+         "links": [
+             "https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026"
+         ],
+         "published": "Tue, 30 Dec 2025 21:44:07 +0000",
+         "publishedParsed": "2025-12-30T21:44:07Z"
+     },
+     {
+         "title": "Electrolysis can solve one of our biggest contamination problems",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46436127\"\u003eComments\u003c/a\u003e",
+         "link": "https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html",
+         "links": [
+             "https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html"
+         ],
+         "published": "Tue, 30 Dec 2025 18:08:32 +0000",
+         "publishedParsed": "2025-12-30T18:08:32Z"
+     },
+     {
+         "title": "Zpdf: PDF text extraction in Zig",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46437288\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/Lulzx/zpdf",
+         "links": [
+             "https://github.com/Lulzx/zpdf"
+         ],
+         "published": "Tue, 30 Dec 2025 19:57:10 +0000",
+         "publishedParsed": "2025-12-30T19:57:10Z"
      },
      {
          "title": "Non-Zero-Sum Games",
@@ -130,6 +160,56 @@
          "publishedParsed": "2025-12-30T11:42:55Z"
      },
      {
+         "title": "Sabotaging Bitcoin",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46437876\"\u003eComments\u003c/a\u003e",
+         "link": "https://blog.dshr.org/2025/12/sabotaging-bitcoin.html",
+         "links": [
+             "https://blog.dshr.org/2025/12/sabotaging-bitcoin.html"
+         ],
+         "published": "Tue, 30 Dec 2025 20:53:59 +0000",
+         "publishedParsed": "2025-12-30T20:53:59Z"
+     },
+     {
+         "title": "No strcpy either",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46433029\"\u003eComments\u003c/a\u003e",
+         "link": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/",
+         "links": [
+             "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/"
+         ],
+         "published": "Tue, 30 Dec 2025 13:14:40 +0000",
+         "publishedParsed": "2025-12-30T13:14:40Z"
+     },
+     {
+         "title": "Toro: Deploy Applications as Unikernels",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46435418\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/torokernel/torokernel",
+         "links": [
+             "https://github.com/torokernel/torokernel"
+         ],
+         "published": "Tue, 30 Dec 2025 17:09:57 +0000",
+         "publishedParsed": "2025-12-30T17:09:57Z"
+     },
+     {
+         "title": "Mitsubishi Diatone D-160 (1985)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46416674\"\u003eComments\u003c/a\u003e",
+         "link": "https://audio-database.com/MITSUBISHI-DIATONE/diatonesp/d-160-e.html",
+         "links": [
+             "https://audio-database.com/MITSUBISHI-DIATONE/diatonesp/d-160-e.html"
+         ],
+         "published": "Mon, 29 Dec 2025 02:08:08 +0000",
+         "publishedParsed": "2025-12-29T02:08:08Z"
+     },
+     {
+         "title": "Google Opal",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46441068\"\u003eComments\u003c/a\u003e",
+         "link": "https://opal.google/landing/",
+         "links": [
+             "https://opal.google/landing/"
+         ],
+         "published": "Wed, 31 Dec 2025 03:49:58 +0000",
+         "publishedParsed": "2025-12-31T03:49:58Z"
+     },
+     {
          "title": "Escaping containment: A security analysis of FreeBSD jails [video]",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46436828\"\u003eComments\u003c/a\u003e",
          "link": "https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails",
@@ -138,36 +218,6 @@
          ],
          "published": "Tue, 30 Dec 2025 19:15:05 +0000",
          "publishedParsed": "2025-12-30T19:15:05Z"
-     },
-     {
-         "title": "The British empire's resilient subsea telegraph network",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46432999\"\u003eComments\u003c/a\u003e",
-         "link": "https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html",
-         "links": [
-             "https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html"
-         ],
-         "published": "Tue, 30 Dec 2025 13:10:56 +0000",
-         "publishedParsed": "2025-12-30T13:10:56Z"
-     },
-     {
-         "title": "Braid Math Article",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46361766\"\u003eComments\u003c/a\u003e",
-         "link": "https://mathvoices.ams.org/mathmedia/tonys-take-april-2022/",
-         "links": [
-             "https://mathvoices.ams.org/mathmedia/tonys-take-april-2022/"
-         ],
-         "published": "Tue, 23 Dec 2025 02:33:24 +0000",
-         "publishedParsed": "2025-12-23T02:33:24Z"
-     },
-     {
-         "title": "Approachable Swift Concurrency",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46432916\"\u003eComments\u003c/a\u003e",
-         "link": "https://fuckingapproachableswiftconcurrency.com/en/",
-         "links": [
-             "https://fuckingapproachableswiftconcurrency.com/en/"
-         ],
-         "published": "Tue, 30 Dec 2025 13:01:51 +0000",
-         "publishedParsed": "2025-12-30T13:01:51Z"
      },
      {
          "title": "Times New American: A Tale of Two Fonts",
@@ -180,73 +230,63 @@
          "publishedParsed": "2025-12-30T12:56:07Z"
      },
      {
-         "title": "Igniting the GPU: From Kernel Plumbing to 3D Rendering on RISC-V",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46433352\"\u003eComments\u003c/a\u003e",
-         "link": "https://mwilczynski.dev/posts/riscv-gpu-zink/",
+         "title": "The British empire's resilient subsea telegraph network",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46432999\"\u003eComments\u003c/a\u003e",
+         "link": "https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html",
          "links": [
-             "https://mwilczynski.dev/posts/riscv-gpu-zink/"
+             "https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html"
          ],
-         "published": "Tue, 30 Dec 2025 13:55:59 +0000",
-         "publishedParsed": "2025-12-30T13:55:59Z"
+         "published": "Tue, 30 Dec 2025 13:10:56 +0000",
+         "publishedParsed": "2025-12-30T13:10:56Z"
      },
      {
-         "title": "Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46433661\"\u003eComments\u003c/a\u003e",
-         "link": "https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497",
+         "title": "Five Years of Tinygrad",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46422757\"\u003eComments\u003c/a\u003e",
+         "link": "https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html",
          "links": [
-             "https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497"
+             "https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html"
          ],
-         "published": "Tue, 30 Dec 2025 14:31:34 +0000",
-         "publishedParsed": "2025-12-30T14:31:34Z"
+         "published": "Mon, 29 Dec 2025 17:12:20 +0000",
+         "publishedParsed": "2025-12-29T17:12:20Z"
      },
      {
-         "title": "Humans May Be Able to Grow New Teeth Within Just 4 Years",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46438169\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.popularmechanics.com/science/health/a69878870/human-new-tooth-regrowth-trials-japan-timeline/",
+         "title": "LLVM AI tool policy: human in the loop",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46440833\"\u003eComments\u003c/a\u003e",
+         "link": "https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159",
          "links": [
-             "https://www.popularmechanics.com/science/health/a69878870/human-new-tooth-regrowth-trials-japan-timeline/"
+             "https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159"
          ],
-         "published": "Tue, 30 Dec 2025 21:22:53 +0000",
-         "publishedParsed": "2025-12-30T21:22:53Z"
+         "published": "Wed, 31 Dec 2025 03:06:07 +0000",
+         "publishedParsed": "2025-12-31T03:06:07Z"
      },
      {
-         "title": "Postgres extension complements pgvector for performance and scale",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46379765\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/timescale/pgvectorscale",
+         "title": "Professional software developers don't vibe, they control",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46437391\"\u003eComments\u003c/a\u003e",
+         "link": "https://arxiv.org/abs/2512.14012",
          "links": [
-             "https://github.com/timescale/pgvectorscale"
+             "https://arxiv.org/abs/2512.14012"
          ],
-         "published": "Wed, 24 Dec 2025 22:04:57 +0000",
-         "publishedParsed": "2025-12-24T22:04:57Z"
+         "published": "Tue, 30 Dec 2025 20:06:46 +0000",
+         "publishedParsed": "2025-12-30T20:06:46Z"
      },
      {
-         "title": "Go away Python",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46431028\"\u003eComments\u003c/a\u003e",
-         "link": "https://lorentz.app/blog-item.html?id=go-shebang",
+         "title": "Approachable Swift Concurrency",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46432916\"\u003eComments\u003c/a\u003e",
+         "link": "https://fuckingapproachableswiftconcurrency.com/en/",
          "links": [
-             "https://lorentz.app/blog-item.html?id=go-shebang"
+             "https://fuckingapproachableswiftconcurrency.com/en/"
          ],
-         "published": "Tue, 30 Dec 2025 08:50:44 +0000",
-         "publishedParsed": "2025-12-30T08:50:44Z"
+         "published": "Tue, 30 Dec 2025 13:01:51 +0000",
+         "publishedParsed": "2025-12-30T13:01:51Z"
      },
      {
-         "title": "What Happened to Abit Motherboards",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46433915\"\u003eComments\u003c/a\u003e",
-         "link": "https://dfarq.homeip.net/what-happened-to-abit-motherboards/",
+         "title": "L1TF Reloaded",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46440695\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/ThijsRay/l1tf_reloaded",
          "links": [
-             "https://dfarq.homeip.net/what-happened-to-abit-motherboards/"
+             "https://github.com/ThijsRay/l1tf_reloaded"
          ],
-         "published": "Tue, 30 Dec 2025 14:58:18 +0000",
-         "publishedParsed": "2025-12-30T14:58:18Z"
-     },
-     {
-         "title": "Netflix Open Content",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46431560\"\u003eComments\u003c/a\u003e",
-         "link": "https://opencontent.netflix.com/",
-         "links": [
-             "https://opencontent.netflix.com/"
-         ],
-         "published": "Tue, 30 Dec 2025 10:11:57 +0000",
-         "publishedParsed": "2025-12-30T10:11:57Z"
+         "published": "Wed, 31 Dec 2025 02:33:50 +0000",
+         "publishedParsed": "2025-12-31T02:33:50Z"
      }
  ]
