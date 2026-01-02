@@ -1,5 +1,15 @@
 [
      {
+         "title": "Standard Ebooks: Public Domain Day 2026 in Literature",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46462702\"\u003eComments\u003c/a\u003e",
+         "link": "https://standardebooks.org/blog/public-domain-day-2026",
+         "links": [
+             "https://standardebooks.org/blog/public-domain-day-2026"
+         ],
+         "published": "Fri, 02 Jan 2026 08:40:41 +0000",
+         "publishedParsed": "2026-01-02T08:40:41Z"
+     },
+     {
          "title": "Happy Public Domain Day 2026",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46460440\"\u003eComments\u003c/a\u003e",
          "link": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
@@ -8,16 +18,6 @@
          ],
          "published": "Fri, 02 Jan 2026 01:42:16 +0000",
          "publishedParsed": "2026-01-02T01:42:16Z"
-     },
-     {
-         "title": "Real Biological Clock Is You're Going to Die (2018)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46461778\"\u003eComments\u003c/a\u003e",
-         "link": "https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/",
-         "links": [
-             "https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/"
-         ],
-         "published": "Fri, 02 Jan 2026 05:39:13 +0000",
-         "publishedParsed": "2026-01-02T05:39:13Z"
      },
      {
          "title": "Why users cannot create Issues directly",
@@ -30,6 +30,26 @@
          "publishedParsed": "2026-01-02T01:24:51Z"
      },
      {
+         "title": "Going immutable on macOS, using Nix-Darwin",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46462719\"\u003eComments\u003c/a\u003e",
+         "link": "https://carette.xyz/posts/going_immutable_macos/",
+         "links": [
+             "https://carette.xyz/posts/going_immutable_macos/"
+         ],
+         "published": "Fri, 02 Jan 2026 08:42:34 +0000",
+         "publishedParsed": "2026-01-02T08:42:34Z"
+     },
+     {
+         "title": "Round the tree, yes, but not round the squirrel",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46462592\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.futilitycloset.com/2026/01/02/round-and-round/",
+         "links": [
+             "https://www.futilitycloset.com/2026/01/02/round-and-round/"
+         ],
+         "published": "Fri, 02 Jan 2026 08:16:21 +0000",
+         "publishedParsed": "2026-01-02T08:16:21Z"
+     },
+     {
          "title": "A website to destroy all websites",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46457784\"\u003eComments\u003c/a\u003e",
          "link": "https://henry.codes/writing/a-website-to-destroy-all-websites/",
@@ -40,34 +60,14 @@
          "publishedParsed": "2026-01-01T20:36:46Z"
      },
      {
-         "title": "James Moylan, engineer behind arrow signaling which side to refuel a car, dies",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46398235\"\u003eComments\u003c/a\u003e",
-         "link": "https://fordauthority.com/2025/12/ford-engineer-that-designed-gas-tank-indicator-passes-away/",
+         "title": "FreeBSD: Home NAS, part 1 – configuring ZFS mirror (RAID1)",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46462108\"\u003eComments\u003c/a\u003e",
+         "link": "https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/",
          "links": [
-             "https://fordauthority.com/2025/12/ford-engineer-that-designed-gas-tank-indicator-passes-away/"
+             "https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/"
          ],
-         "published": "Sat, 27 Dec 2025 01:23:08 +0000",
-         "publishedParsed": "2025-12-27T01:23:08Z"
-     },
-     {
-         "title": "Marmot – A distributed SQLite server with MySQL wire compatible interface",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46460676\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/maxpert/marmot",
-         "links": [
-             "https://github.com/maxpert/marmot"
-         ],
-         "published": "Fri, 02 Jan 2026 02:21:57 +0000",
-         "publishedParsed": "2026-01-02T02:21:57Z"
-     },
-     {
-         "title": "Can Bundler be as fast as uv?",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46458302\"\u003eComments\u003c/a\u003e",
-         "link": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
-         "links": [
-             "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/"
-         ],
-         "published": "Thu, 01 Jan 2026 21:37:10 +0000",
-         "publishedParsed": "2026-01-01T21:37:10Z"
+         "published": "Fri, 02 Jan 2026 06:48:32 +0000",
+         "publishedParsed": "2026-01-02T06:48:32Z"
      },
      {
          "title": "Cameras and Lenses (2020)",
@@ -80,24 +80,34 @@
          "publishedParsed": "2026-01-01T17:18:01Z"
      },
      {
-         "title": "I'm a developer for a major food delivery app",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46461563\"\u003eComments\u003c/a\u003e",
-         "link": "https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/",
+         "title": "Marmot – A distributed SQLite server with MySQL wire compatible interface",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46460676\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/maxpert/marmot",
          "links": [
-             "https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/"
+             "https://github.com/maxpert/marmot"
          ],
-         "published": "Fri, 02 Jan 2026 04:57:25 +0000",
-         "publishedParsed": "2026-01-02T04:57:25Z"
+         "published": "Fri, 02 Jan 2026 02:21:57 +0000",
+         "publishedParsed": "2026-01-02T02:21:57Z"
      },
      {
-         "title": "Extensibility: The \"100% Lisp\" Fallacy",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46460394\"\u003eComments\u003c/a\u003e",
-         "link": "https://kyo.iroiro.party/en/posts/100-percent-lisp/",
+         "title": "Contact the ISS",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46405463\"\u003eComments\u003c/a\u003e",
+         "link": "https://www.ariss.org/contact-the-iss.html",
          "links": [
-             "https://kyo.iroiro.party/en/posts/100-percent-lisp/"
+             "https://www.ariss.org/contact-the-iss.html"
          ],
-         "published": "Fri, 02 Jan 2026 01:36:25 +0000",
-         "publishedParsed": "2026-01-02T01:36:25Z"
+         "published": "Sat, 27 Dec 2025 21:35:10 +0000",
+         "publishedParsed": "2025-12-27T21:35:10Z"
+     },
+     {
+         "title": "Can Bundler be as fast as uv?",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46458302\"\u003eComments\u003c/a\u003e",
+         "link": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
+         "links": [
+             "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/"
+         ],
+         "published": "Thu, 01 Jan 2026 21:37:10 +0000",
+         "publishedParsed": "2026-01-01T21:37:10Z"
      },
      {
          "title": "Linux is good now",
@@ -108,16 +118,6 @@
          ],
          "published": "Thu, 01 Jan 2026 20:35:11 +0000",
          "publishedParsed": "2026-01-01T20:35:11Z"
-     },
-     {
-         "title": "Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46449852\"\u003eComments\u003c/a\u003e",
-         "link": "https://enroll.sh",
-         "links": [
-             "https://enroll.sh"
-         ],
-         "published": "Thu, 01 Jan 2026 00:23:54 +0000",
-         "publishedParsed": "2026-01-01T00:23:54Z"
      },
      {
          "title": "Show HN: OpenWorkers – Self-hosted Cloudflare workers in Rust",
@@ -140,16 +140,6 @@
          "publishedParsed": "2026-01-01T15:49:42Z"
      },
      {
-         "title": "FreeBSD: Home NAS, part 1 – configuring ZFS mirror (RAID1)",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46462108\"\u003eComments\u003c/a\u003e",
-         "link": "https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/",
-         "links": [
-             "https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/"
-         ],
-         "published": "Fri, 02 Jan 2026 06:48:32 +0000",
-         "publishedParsed": "2026-01-02T06:48:32Z"
-     },
-     {
          "title": "Python numbers every programmer should know",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46454470\"\u003eComments\u003c/a\u003e",
          "link": "https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/",
@@ -158,6 +148,16 @@
          ],
          "published": "Thu, 01 Jan 2026 14:39:23 +0000",
          "publishedParsed": "2026-01-01T14:39:23Z"
+     },
+     {
+         "title": "Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46449852\"\u003eComments\u003c/a\u003e",
+         "link": "https://enroll.sh",
+         "links": [
+             "https://enroll.sh"
+         ],
+         "published": "Thu, 01 Jan 2026 00:23:54 +0000",
+         "publishedParsed": "2026-01-01T00:23:54Z"
      },
      {
          "title": "2025 Letter",
@@ -170,14 +170,24 @@
          "publishedParsed": "2026-01-01T14:32:12Z"
      },
      {
-         "title": "WebAssembly as a Python Extension Platform",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46458624\"\u003eComments\u003c/a\u003e",
-         "link": "https://nullprogram.com/blog/2026/01/01/",
+         "title": "I'm a developer for a major food delivery app",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46461563\"\u003eComments\u003c/a\u003e",
+         "link": "https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/",
          "links": [
-             "https://nullprogram.com/blog/2026/01/01/"
+             "https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/"
          ],
-         "published": "Thu, 01 Jan 2026 22:09:16 +0000",
-         "publishedParsed": "2026-01-01T22:09:16Z"
+         "published": "Fri, 02 Jan 2026 04:57:25 +0000",
+         "publishedParsed": "2026-01-02T04:57:25Z"
+     },
+     {
+         "title": "Extensibility: The \"100% Lisp\" Fallacy",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46460394\"\u003eComments\u003c/a\u003e",
+         "link": "https://kyo.iroiro.party/en/posts/100-percent-lisp/",
+         "links": [
+             "https://kyo.iroiro.party/en/posts/100-percent-lisp/"
+         ],
+         "published": "Fri, 02 Jan 2026 01:36:25 +0000",
+         "publishedParsed": "2026-01-02T01:36:25Z"
      },
      {
          "title": "Bluetooth Headphone Jacking: A Key to Your Phone [video]",
@@ -200,14 +210,24 @@
          "publishedParsed": "2026-01-01T15:45:25Z"
      },
      {
-         "title": "Five archetypes of small-scale fisheries reveal a continuum of strategies",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46414037\"\u003eComments\u003c/a\u003e",
-         "link": "https://www.nature.com/articles/s43016-025-01237-5",
+         "title": "WebAssembly as a Python Extension Platform",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46458624\"\u003eComments\u003c/a\u003e",
+         "link": "https://nullprogram.com/blog/2026/01/01/",
          "links": [
-             "https://www.nature.com/articles/s43016-025-01237-5"
+             "https://nullprogram.com/blog/2026/01/01/"
          ],
-         "published": "Sun, 28 Dec 2025 20:09:00 +0000",
-         "publishedParsed": "2025-12-28T20:09:00Z"
+         "published": "Thu, 01 Jan 2026 22:09:16 +0000",
+         "publishedParsed": "2026-01-01T22:09:16Z"
+     },
+     {
+         "title": "Vibe Coding for CTOs: The Real Cost of 100 Lines of Code",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46416863\"\u003eComments\u003c/a\u003e",
+         "link": "https://rocketedge.com/2025/12/29/vibe-coding-for-ctos-the-real-cost-of-100-lines-of-code-ai-agents-vs-human-developers-without-losing-control/",
+         "links": [
+             "https://rocketedge.com/2025/12/29/vibe-coding-for-ctos-the-real-cost-of-100-lines-of-code-ai-agents-vs-human-developers-without-losing-control/"
+         ],
+         "published": "Mon, 29 Dec 2025 02:33:49 +0000",
+         "publishedParsed": "2025-12-29T02:33:49Z"
      },
      {
          "title": "Dell's version of the DGX Spark fixes pain points",
@@ -220,16 +240,6 @@
          "publishedParsed": "2026-01-01T19:11:53Z"
      },
      {
-         "title": "Quickemu: Quickly create and run optimised Windows, macOS and Linux VMs",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46430815\"\u003eComments\u003c/a\u003e",
-         "link": "https://github.com/quickemu-project/quickemu",
-         "links": [
-             "https://github.com/quickemu-project/quickemu"
-         ],
-         "published": "Tue, 30 Dec 2025 08:19:08 +0000",
-         "publishedParsed": "2025-12-30T08:19:08Z"
-     },
-     {
          "title": "I rebooted my social life",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46453114\"\u003eComments\u003c/a\u003e",
          "link": "https://takes.jamesomalley.co.uk/p/this-might-be-oversharing",
@@ -240,6 +250,16 @@
          "publishedParsed": "2026-01-01T11:01:38Z"
      },
      {
+         "title": "Quickemu: Quickly create and run optimised Windows, macOS and Linux VMs",
+         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46430815\"\u003eComments\u003c/a\u003e",
+         "link": "https://github.com/quickemu-project/quickemu",
+         "links": [
+             "https://github.com/quickemu-project/quickemu"
+         ],
+         "published": "Tue, 30 Dec 2025 08:19:08 +0000",
+         "publishedParsed": "2025-12-30T08:19:08Z"
+     },
+     {
          "title": "If you care about security you might want to move the iPhone Camera app",
          "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46413256\"\u003eComments\u003c/a\u003e",
          "link": "https://blog.jgc.org/2025/12/if-you-care-about-security-you-might.html",
@@ -248,25 +268,5 @@
          ],
          "published": "Sun, 28 Dec 2025 18:28:07 +0000",
          "publishedParsed": "2025-12-28T18:28:07Z"
-     },
-     {
-         "title": "Moving Images Related to the Apollo Missions, 1967–1969",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46388912\"\u003eComments\u003c/a\u003e",
-         "link": "https://catalog.archives.gov/id/133360601",
-         "links": [
-             "https://catalog.archives.gov/id/133360601"
-         ],
-         "published": "Fri, 26 Dec 2025 03:20:11 +0000",
-         "publishedParsed": "2025-12-26T03:20:11Z"
-     },
-     {
-         "title": "C-events, yet another event loop, simpler, smaller, faster, safer",
-         "description": "\u003ca href=\"https://news.ycombinator.com/item?id=46392095\"\u003eComments\u003c/a\u003e",
-         "link": "https://zelang-dev.github.io/c-events/",
-         "links": [
-             "https://zelang-dev.github.io/c-events/"
-         ],
-         "published": "Fri, 26 Dec 2025 14:06:47 +0000",
-         "publishedParsed": "2025-12-26T14:06:47Z"
      }
  ]
